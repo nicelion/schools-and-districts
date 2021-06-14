@@ -1,0 +1,6954 @@
+[
+   {
+      "name": "360 High School",
+      "location": {
+         "state": {
+            "name": "RHODE ISLAND",
+            "abbr": "RI "
+         }
+      },
+      "district": "Providence",
+      "level": "High",
+      "type": "1-Regular school",
+      "charterSchool": "2-No",
+      "magnentSchool": "†",
+      "locale": "12-City: Mid-size",
+      "grades": {
+         "lowest": "9th Grade",
+         "highest": "12th Grade"
+      },
+      "students": "256",
+      "fte": "24.5",
+      "pupilTeacherRatio": "10.45"
+   },
+   {
+      "name": "Academy for Career Exploration",
+      "location": {
+         "state": {
+            "name": "Rhode Island",
+            "abbr": "RI "
+         }
+      },
+      "district": "Providence",
+      "level": "High",
+      "type": "1-Regular school",
+      "charterSchool": "1-Yes",
+      "magnentSchool": "†",
+      "locale": "12-City: Mid-size",
+      "grades": {
+         "lowest": "9th Grade",
+         "highest": "12th Grade"
+      },
+      "students": "184",
+      "fte": "14",
+      "pupilTeacherRatio": "13.14"
+   },
+   {
+      "name": "Achievement First Iluminar",
+      "location": {
+         "state": {
+            "name": "RHODE ISLAND",
+            "abbr": "RI "
+         }
+      },
+      "district": "Achievement First Rhode Island",
+      "level": "Elementary",
+      "type": "1-Regular school",
+      "charterSchool": "1-Yes",
+      "magnentSchool": "†",
+      "locale": "21-Suburb: Large",
+      "grades": {
+         "lowest": "Kindergarten",
+         "highest": "4th Grade"
+      },
+      "students": "467",
+      "fte": "32",
+      "pupilTeacherRatio": "14.59"
+   },
+   {
+      "name": "Achievement First Providence",
+      "location": {
+         "state": {
+            "name": "Rhode Island",
+            "abbr": "RI "
+         }
+      },
+      "district": "Achievement First Rhode Island",
+      "level": "Elementary",
+      "type": "1-Regular school",
+      "charterSchool": "1-Yes",
+      "magnentSchool": "†",
+      "locale": "12-City: Mid-size",
+      "grades": {
+         "lowest": "Kindergarten",
+         "highest": "4th Grade"
+      },
+      "students": "474",
+      "fte": "19",
+      "pupilTeacherRatio": "24.95"
+   },
+   {
+      "name": "Af Iluminar Mayoral Middle Sch",
+      "location": {
+         "state": {
+            "name": "RHODE ISLAND",
+            "abbr": "RI "
+         }
+      },
+      "district": "Achievement First Rhode Island",
+      "level": "Middle",
+      "type": "1-Regular school",
+      "charterSchool": "1-Yes",
+      "magnentSchool": "†",
+      "locale": "21-Suburb: Large",
+      "grades": {
+         "lowest": "5th Grade",
+         "highest": "5th Grade"
+      },
+      "students": "104",
+      "fte": "6",
+      "pupilTeacherRatio": "17.33"
+   },
+   {
+      "name": "Af Providence Mayoral Middle",
+      "location": {
+         "state": {
+            "name": "RHODE ISLAND",
+            "abbr": "RI "
+         }
+      },
+      "district": "Achievement First Rhode Island",
+      "level": "Middle",
+      "type": "1-Regular school",
+      "charterSchool": "1-Yes",
+      "magnentSchool": "†",
+      "locale": "12-City: Mid-size",
+      "grades": {
+         "lowest": "5th Grade",
+         "highest": "7th Grade"
+      },
+      "students": "306",
+      "fte": "8",
+      "pupilTeacherRatio": "38.25"
+   },
+   {
+      "name": "Agnes B. Hennessey School",
+      "location": {
+         "state": {
+            "name": "Rhode Island",
+            "abbr": "RI "
+         }
+      },
+      "district": "East Providence",
+      "level": "Elementary",
+      "type": "1-Regular school",
+      "charterSchool": "2-No",
+      "magnentSchool": "†",
+      "locale": "21-Suburb: Large",
+      "grades": {
+         "lowest": "Kindergarten",
+         "highest": "5th Grade"
+      },
+      "students": "250",
+      "fte": "21",
+      "pupilTeacherRatio": "11.9"
+   },
+   {
+      "name": "Agnes E. Little School",
+      "location": {
+         "state": {
+            "name": "Rhode Island",
+            "abbr": "RI "
+         }
+      },
+      "district": "Pawtucket",
+      "level": "Elementary",
+      "type": "1-Regular school",
+      "charterSchool": "2-No",
+      "magnentSchool": "†",
+      "locale": "21-Suburb: Large",
+      "grades": {
+         "lowest": "Kindergarten",
+         "highest": "5th Grade"
+      },
+      "students": "382",
+      "fte": "27.06",
+      "pupilTeacherRatio": "14.12"
+   },
+   {
+      "name": "Alan Shawn Feinstein Elem.",
+      "location": {
+         "state": {
+            "name": "Rhode Island",
+            "abbr": "RI "
+         }
+      },
+      "district": "Providence",
+      "level": "Elementary",
+      "type": "1-Regular school",
+      "charterSchool": "2-No",
+      "magnentSchool": "†",
+      "locale": "12-City: Mid-size",
+      "grades": {
+         "lowest": "Kindergarten",
+         "highest": "5th Grade"
+      },
+      "students": "451",
+      "fte": "25.5",
+      "pupilTeacherRatio": "17.69"
+   },
+   {
+      "name": "Alan Shawn Feinstein Ms of Cov",
+      "location": {
+         "state": {
+            "name": "Rhode Island",
+            "abbr": "RI "
+         }
+      },
+      "district": "Coventry",
+      "level": "Middle",
+      "type": "1-Regular school",
+      "charterSchool": "2-No",
+      "magnentSchool": "†",
+      "locale": "21-Suburb: Large",
+      "grades": {
+         "lowest": "6th Grade",
+         "highest": "8th Grade"
+      },
+      "students": "1061",
+      "fte": "80.7",
+      "pupilTeacherRatio": "13.15"
+   },
+   {
+      "name": "Alfred Lima  Sr. El School",
+      "location": {
+         "state": {
+            "name": "Rhode Island",
+            "abbr": "RI "
+         }
+      },
+      "district": "Providence",
+      "level": "Elementary",
+      "type": "1-Regular school",
+      "charterSchool": "2-No",
+      "magnentSchool": "†",
+      "locale": "12-City: Mid-size",
+      "grades": {
+         "lowest": "2nd Grade",
+         "highest": "5th Grade"
+      },
+      "students": "473",
+      "fte": "29.8",
+      "pupilTeacherRatio": "15.87"
+   },
+   {
+      "name": "Anna M. Mccabe School",
+      "location": {
+         "state": {
+            "name": "Rhode Island",
+            "abbr": "RI "
+         }
+      },
+      "district": "Smithfield",
+      "level": "Elementary",
+      "type": "1-Regular school",
+      "charterSchool": "2-No",
+      "magnentSchool": "†",
+      "locale": "21-Suburb: Large",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "5th Grade"
+      },
+      "students": "310",
+      "fte": "24.13",
+      "pupilTeacherRatio": "12.85"
+   },
+   {
+      "name": "Anthony Carnevale Elementary",
+      "location": {
+         "state": {
+            "name": "Rhode Island",
+            "abbr": "RI "
+         }
+      },
+      "district": "Providence",
+      "level": "Elementary",
+      "type": "1-Regular school",
+      "charterSchool": "2-No",
+      "magnentSchool": "†",
+      "locale": "12-City: Mid-size",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "5th Grade"
+      },
+      "students": "510",
+      "fte": "40.7",
+      "pupilTeacherRatio": "12.53"
+   },
+   {
+      "name": "Aquidneck School",
+      "location": {
+         "state": {
+            "name": "Rhode Island",
+            "abbr": "RI "
+         }
+      },
+      "district": "Middletown",
+      "level": "Elementary",
+      "type": "1-Regular school",
+      "charterSchool": "2-No",
+      "magnentSchool": "†",
+      "locale": "21-Suburb: Large",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "3rd Grade"
+      },
+      "students": "321",
+      "fte": "24.43",
+      "pupilTeacherRatio": "13.14"
+   },
+   {
+      "name": "Archie R. Cole Ms",
+      "location": {
+         "state": {
+            "name": "Rhode Island",
+            "abbr": "RI "
+         }
+      },
+      "district": "East Greenwich",
+      "level": "Middle",
+      "type": "1-Regular school",
+      "charterSchool": "2-No",
+      "magnentSchool": "†",
+      "locale": "21-Suburb: Large",
+      "grades": {
+         "lowest": "6th Grade",
+         "highest": "8th Grade"
+      },
+      "students": "626",
+      "fte": "40.85",
+      "pupilTeacherRatio": "15.32"
+   },
+   {
+      "name": "Arlington School",
+      "location": {
+         "state": {
+            "name": "Rhode Island",
+            "abbr": "RI "
+         }
+      },
+      "district": "Cranston",
+      "level": "Elementary",
+      "type": "1-Regular school",
+      "charterSchool": "2-No",
+      "magnentSchool": "†",
+      "locale": "21-Suburb: Large",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "5th Grade"
+      },
+      "students": "231",
+      "fte": "15.3",
+      "pupilTeacherRatio": "15.1"
+   },
+   {
+      "name": "Asa Messer El. School",
+      "location": {
+         "state": {
+            "name": "Rhode Island",
+            "abbr": "RI "
+         }
+      },
+      "district": "Providence",
+      "level": "Elementary",
+      "type": "1-Regular school",
+      "charterSchool": "2-No",
+      "magnentSchool": "†",
+      "locale": "12-City: Mid-size",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "4th Grade"
+      },
+      "students": "559",
+      "fte": "31",
+      "pupilTeacherRatio": "18.03"
+   },
+   {
+      "name": "Ashaway Elementary School",
+      "location": {
+         "state": {
+            "name": "Rhode Island",
+            "abbr": "RI "
+         }
+      },
+      "district": "Chariho",
+      "level": "Elementary",
+      "type": "1-Regular school",
+      "charterSchool": "2-No",
+      "magnentSchool": "†",
+      "locale": "22-Suburb: Mid-size",
+      "grades": {
+         "lowest": "Kindergarten",
+         "highest": "4th Grade"
+      },
+      "students": "212",
+      "fte": "15.3",
+      "pupilTeacherRatio": "13.86"
+   },
+   {
+      "name": "Ashton School",
+      "location": {
+         "state": {
+            "name": "Rhode Island",
+            "abbr": "RI "
+         }
+      },
+      "district": "Cumberland",
+      "level": "Elementary",
+      "type": "1-Regular school",
+      "charterSchool": "2-No",
+      "magnentSchool": "†",
+      "locale": "21-Suburb: Large",
+      "grades": {
+         "lowest": "Kindergarten",
+         "highest": "5th Grade"
+      },
+      "students": "285",
+      "fte": "19.5",
+      "pupilTeacherRatio": "14.62"
+   },
+   {
+      "name": "Austin T. Levy School",
+      "location": {
+         "state": {
+            "name": "Rhode Island",
+            "abbr": "RI "
+         }
+      },
+      "district": "Burrillville",
+      "level": "Elementary",
+      "type": "1-Regular school",
+      "charterSchool": "2-No",
+      "magnentSchool": "†",
+      "locale": "21-Suburb: Large",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "1st Grade"
+      },
+      "students": "338",
+      "fte": "22.73",
+      "pupilTeacherRatio": "14.87"
+   },
+   {
+      "name": "B.f. Norton Elementary School",
+      "location": {
+         "state": {
+            "name": "Rhode Island",
+            "abbr": "RI "
+         }
+      },
+      "district": "Cumberland",
+      "level": "Elementary",
+      "type": "1-Regular school",
+      "charterSchool": "2-No",
+      "magnentSchool": "†",
+      "locale": "21-Suburb: Large",
+      "grades": {
+         "lowest": "Kindergarten",
+         "highest": "5th Grade"
+      },
+      "students": "323",
+      "fte": "25.9",
+      "pupilTeacherRatio": "12.47"
+   },
+   {
+      "name": "Barrington High School",
+      "location": {
+         "state": {
+            "name": "Rhode Island",
+            "abbr": "RI "
+         }
+      },
+      "district": "Barrington",
+      "level": "High",
+      "type": "1-Regular school",
+      "charterSchool": "2-No",
+      "magnentSchool": "†",
+      "locale": "21-Suburb: Large",
+      "grades": {
+         "lowest": "9th Grade",
+         "highest": "12th Grade"
+      },
+      "students": "1122",
+      "fte": "81.1",
+      "pupilTeacherRatio": "13.83"
+   },
+   {
+      "name": "Barrington Middle School",
+      "location": {
+         "state": {
+            "name": "Rhode Island",
+            "abbr": "RI "
+         }
+      },
+      "district": "Barrington",
+      "level": "Middle",
+      "type": "1-Regular school",
+      "charterSchool": "2-No",
+      "magnentSchool": "†",
+      "locale": "21-Suburb: Large",
+      "grades": {
+         "lowest": "6th Grade",
+         "highest": "8th Grade"
+      },
+      "students": "837",
+      "fte": "59.07",
+      "pupilTeacherRatio": "14.17"
+   },
+   {
+      "name": "Beacon Charter School",
+      "location": {
+         "state": {
+            "name": "Rhode Island",
+            "abbr": "RI "
+         }
+      },
+      "district": "Beacon Charter School",
+      "level": "High",
+      "type": "1-Regular school",
+      "charterSchool": "1-Yes",
+      "magnentSchool": "†",
+      "locale": "21-Suburb: Large",
+      "grades": {
+         "lowest": "9th Grade",
+         "highest": "12th Grade"
+      },
+      "students": "231",
+      "fte": "18.5",
+      "pupilTeacherRatio": "12.49"
+   },
+   {
+      "name": "Bernon Heights School",
+      "location": {
+         "state": {
+            "name": "Rhode Island",
+            "abbr": "RI "
+         }
+      },
+      "district": "Woonsocket",
+      "level": "Elementary",
+      "type": "1-Regular school",
+      "charterSchool": "2-No",
+      "magnentSchool": "†",
+      "locale": "21-Suburb: Large",
+      "grades": {
+         "lowest": "Kindergarten",
+         "highest": "5th Grade"
+      },
+      "students": "447",
+      "fte": "23.26",
+      "pupilTeacherRatio": "19.22"
+   },
+   {
+      "name": "Birchwood Middle School",
+      "location": {
+         "state": {
+            "name": "Rhode Island",
+            "abbr": "RI "
+         }
+      },
+      "district": "North Providence",
+      "level": "Middle",
+      "type": "1-Regular school",
+      "charterSchool": "2-No",
+      "magnentSchool": "†",
+      "locale": "21-Suburb: Large",
+      "grades": {
+         "lowest": "6th Grade",
+         "highest": "8th Grade"
+      },
+      "students": "435",
+      "fte": "34",
+      "pupilTeacherRatio": "12.79"
+   },
+   {
+      "name": "Blackrock School",
+      "location": {
+         "state": {
+            "name": "Rhode Island",
+            "abbr": "RI "
+         }
+      },
+      "district": "Coventry",
+      "level": "Elementary",
+      "type": "1-Regular school",
+      "charterSchool": "2-No",
+      "magnentSchool": "†",
+      "locale": "21-Suburb: Large",
+      "grades": {
+         "lowest": "Kindergarten",
+         "highest": "5th Grade"
+      },
+      "students": "318",
+      "fte": "23.73",
+      "pupilTeacherRatio": "13.4"
+   },
+   {
+      "name": "Blackstone Academy Charter",
+      "location": {
+         "state": {
+            "name": "Rhode Island",
+            "abbr": "RI "
+         }
+      },
+      "district": "Blackstone Academy",
+      "level": "High",
+      "type": "1-Regular school",
+      "charterSchool": "1-Yes",
+      "magnentSchool": "†",
+      "locale": "21-Suburb: Large",
+      "grades": {
+         "lowest": "9th Grade",
+         "highest": "12th Grade"
+      },
+      "students": "355",
+      "fte": "26.25",
+      "pupilTeacherRatio": "13.52"
+   },
+   {
+      "name": "Blackstone Valley Prep",
+      "location": {
+         "state": {
+            "name": "Rhode Island",
+            "abbr": "RI "
+         }
+      },
+      "district": "Blackstone Valley Prep  a Ri Mayoral Academy",
+      "level": "Elementary",
+      "type": "1-Regular school",
+      "charterSchool": "1-Yes",
+      "magnentSchool": "†",
+      "locale": "21-Suburb: Large",
+      "grades": {
+         "lowest": "Kindergarten",
+         "highest": "4th Grade"
+      },
+      "students": "407",
+      "fte": "37",
+      "pupilTeacherRatio": "11"
+   },
+   {
+      "name": "Blackstone Valley Prep",
+      "location": {
+         "state": {
+            "name": "Rhode Island",
+            "abbr": "RI "
+         }
+      },
+      "district": "Blackstone Valley Prep  a Ri Mayoral Academy",
+      "level": "Middle",
+      "type": "1-Regular school",
+      "charterSchool": "1-Yes",
+      "magnentSchool": "†",
+      "locale": "21-Suburb: Large",
+      "grades": {
+         "lowest": "5th Grade",
+         "highest": "8th Grade"
+      },
+      "students": "299",
+      "fte": "26",
+      "pupilTeacherRatio": "11.5"
+   },
+   {
+      "name": "Blackstone Valley Prep E. 2",
+      "location": {
+         "state": {
+            "name": "Rhode Island",
+            "abbr": "RI "
+         }
+      },
+      "district": "Blackstone Valley Prep  a Ri Mayoral Academy",
+      "level": "Elementary",
+      "type": "1-Regular school",
+      "charterSchool": "1-Yes",
+      "magnentSchool": "†",
+      "locale": "21-Suburb: Large",
+      "grades": {
+         "lowest": "Kindergarten",
+         "highest": "4th Grade"
+      },
+      "students": "410",
+      "fte": "37",
+      "pupilTeacherRatio": "11.08"
+   },
+   {
+      "name": "Blackstone Valley Prep Element",
+      "location": {
+         "state": {
+            "name": "RHODE ISLAND",
+            "abbr": "RI "
+         }
+      },
+      "district": "Blackstone Valley Prep  a Ri Mayoral Academy",
+      "level": "Elementary",
+      "type": "1-Regular school",
+      "charterSchool": "1-Yes",
+      "magnentSchool": "†",
+      "locale": "21-Suburb: Large",
+      "grades": {
+         "lowest": "Kindergarten",
+         "highest": "4th Grade"
+      },
+      "students": "266",
+      "fte": "26",
+      "pupilTeacherRatio": "10.23"
+   },
+   {
+      "name": "Blackstone Valley Prep High",
+      "location": {
+         "state": {
+            "name": "Rhode Island",
+            "abbr": "RI "
+         }
+      },
+      "district": "Blackstone Valley Prep  a Ri Mayoral Academy",
+      "level": "High",
+      "type": "1-Regular school",
+      "charterSchool": "1-Yes",
+      "magnentSchool": "†",
+      "locale": "21-Suburb: Large",
+      "grades": {
+         "lowest": "9th Grade",
+         "highest": "12th Grade"
+      },
+      "students": "351",
+      "fte": "21.2",
+      "pupilTeacherRatio": "16.56"
+   },
+   {
+      "name": "Blackstone Valley Prep Mid2",
+      "location": {
+         "state": {
+            "name": "RHODE ISLAND",
+            "abbr": "RI "
+         }
+      },
+      "district": "Blackstone Valley Prep  a Ri Mayoral Academy",
+      "level": "Middle",
+      "type": "1-Regular school",
+      "charterSchool": "1-Yes",
+      "magnentSchool": "†",
+      "locale": "21-Suburb: Large",
+      "grades": {
+         "lowest": "5th Grade",
+         "highest": "8th Grade"
+      },
+      "students": "308",
+      "fte": "28",
+      "pupilTeacherRatio": "11"
+   },
+   {
+      "name": "Block Island School",
+      "location": {
+         "state": {
+            "name": "Rhode Island",
+            "abbr": "RI "
+         }
+      },
+      "district": "New Shoreham",
+      "level": "Other",
+      "type": "1-Regular school",
+      "charterSchool": "2-No",
+      "magnentSchool": "†",
+      "locale": "42-Rural: Distant",
+      "grades": {
+         "lowest": "Kindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "134",
+      "fte": "23",
+      "pupilTeacherRatio": "5.83"
+   },
+   {
+      "name": "Broad Rock Middle School",
+      "location": {
+         "state": {
+            "name": "Rhode Island",
+            "abbr": "RI "
+         }
+      },
+      "district": "South Kingstown",
+      "level": "Middle",
+      "type": "1-Regular school",
+      "charterSchool": "2-No",
+      "magnentSchool": "†",
+      "locale": "21-Suburb: Large",
+      "grades": {
+         "lowest": "5th Grade",
+         "highest": "6th Grade"
+      },
+      "students": "437",
+      "fte": "37.5",
+      "pupilTeacherRatio": "11.65"
+   },
+   {
+      "name": "Brown Avenue School",
+      "location": {
+         "state": {
+            "name": "Rhode Island",
+            "abbr": "RI "
+         }
+      },
+      "district": "Johnston",
+      "level": "Elementary",
+      "type": "1-Regular school",
+      "charterSchool": "2-No",
+      "magnentSchool": "†",
+      "locale": "41-Rural: Fringe",
+      "grades": {
+         "lowest": "1st Grade",
+         "highest": "5th Grade"
+      },
+      "students": "224",
+      "fte": "18.24",
+      "pupilTeacherRatio": "12.28"
+   },
+   {
+      "name": "Burrillville High School",
+      "location": {
+         "state": {
+            "name": "Rhode Island",
+            "abbr": "RI "
+         }
+      },
+      "district": "Burrillville",
+      "level": "High",
+      "type": "1-Regular school",
+      "charterSchool": "2-No",
+      "magnentSchool": "†",
+      "locale": "21-Suburb: Large",
+      "grades": {
+         "lowest": "9th Grade",
+         "highest": "12th Grade"
+      },
+      "students": "722",
+      "fte": "58",
+      "pupilTeacherRatio": "12.45"
+   },
+   {
+      "name": "Burrillville Middle School",
+      "location": {
+         "state": {
+            "name": "Rhode Island",
+            "abbr": "RI "
+         }
+      },
+      "district": "Burrillville",
+      "level": "Middle",
+      "type": "1-Regular school",
+      "charterSchool": "2-No",
+      "magnentSchool": "†",
+      "locale": "41-Rural: Fringe",
+      "grades": {
+         "lowest": "6th Grade",
+         "highest": "8th Grade"
+      },
+      "students": "535",
+      "fte": "41.4",
+      "pupilTeacherRatio": "12.92"
+   },
+   {
+      "name": "Calcutt Middle School",
+      "location": {
+         "state": {
+            "name": "Rhode Island",
+            "abbr": "RI "
+         }
+      },
+      "district": "Central Falls",
+      "level": "Middle",
+      "type": "1-Regular school",
+      "charterSchool": "2-No",
+      "magnentSchool": "†",
+      "locale": "21-Suburb: Large",
+      "grades": {
+         "lowest": "5th Grade",
+         "highest": "8th Grade"
+      },
+      "students": "750",
+      "fte": "48.2",
+      "pupilTeacherRatio": "15.56"
+   },
+   {
+      "name": "Capt. Isaac Paine El. School",
+      "location": {
+         "state": {
+            "name": "Rhode Island",
+            "abbr": "RI "
+         }
+      },
+      "district": "Foster",
+      "level": "Elementary",
+      "type": "1-Regular school",
+      "charterSchool": "2-No",
+      "magnentSchool": "†",
+      "locale": "42-Rural: Distant",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "5th Grade"
+      },
+      "students": "239",
+      "fte": "21.3",
+      "pupilTeacherRatio": "11.22"
+   },
+   {
+      "name": "Carl G. Lauro El. School",
+      "location": {
+         "state": {
+            "name": "Rhode Island",
+            "abbr": "RI "
+         }
+      },
+      "district": "Providence",
+      "level": "Elementary",
+      "type": "1-Regular school",
+      "charterSchool": "2-No",
+      "magnentSchool": "†",
+      "locale": "12-City: Mid-size",
+      "grades": {
+         "lowest": "Kindergarten",
+         "highest": "5th Grade"
+      },
+      "students": "740",
+      "fte": "50.3",
+      "pupilTeacherRatio": "14.71"
+   },
+   {
+      "name": "Cedar Hill School",
+      "location": {
+         "state": {
+            "name": "Rhode Island",
+            "abbr": "RI "
+         }
+      },
+      "district": "Warwick",
+      "level": "Elementary",
+      "type": "1-Regular school",
+      "charterSchool": "2-No",
+      "magnentSchool": "†",
+      "locale": "13-City: Small",
+      "grades": {
+         "lowest": "Kindergarten",
+         "highest": "5th Grade"
+      },
+      "students": "328",
+      "fte": "19.3",
+      "pupilTeacherRatio": "16.99"
+   },
+   {
+      "name": "Central Falls Sr High",
+      "location": {
+         "state": {
+            "name": "Rhode Island",
+            "abbr": "RI "
+         }
+      },
+      "district": "Central Falls",
+      "level": "High",
+      "type": "1-Regular school",
+      "charterSchool": "2-No",
+      "magnentSchool": "†",
+      "locale": "21-Suburb: Large",
+      "grades": {
+         "lowest": "9th Grade",
+         "highest": "12th Grade"
+      },
+      "students": "816",
+      "fte": "50.3",
+      "pupilTeacherRatio": "16.22"
+   },
+   {
+      "name": "Central High School",
+      "location": {
+         "state": {
+            "name": "Rhode Island",
+            "abbr": "RI "
+         }
+      },
+      "district": "Providence",
+      "level": "High",
+      "type": "1-Regular school",
+      "charterSchool": "2-No",
+      "magnentSchool": "†",
+      "locale": "12-City: Mid-size",
+      "grades": {
+         "lowest": "9th Grade",
+         "highest": "12th Grade"
+      },
+      "students": "1215",
+      "fte": "83.5",
+      "pupilTeacherRatio": "14.55"
+   },
+   {
+      "name": "Centredale School",
+      "location": {
+         "state": {
+            "name": "Rhode Island",
+            "abbr": "RI "
+         }
+      },
+      "district": "North Providence",
+      "level": "Elementary",
+      "type": "1-Regular school",
+      "charterSchool": "2-No",
+      "magnentSchool": "†",
+      "locale": "21-Suburb: Large",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "5th Grade"
+      },
+      "students": "232",
+      "fte": "17.9",
+      "pupilTeacherRatio": "12.96"
+   },
+   {
+      "name": "Charette Charter School",
+      "location": {
+         "state": {
+            "name": "RHODE ISLAND",
+            "abbr": "RI "
+         }
+      },
+      "district": "Charette Charter",
+      "level": "Secondary",
+      "type": "1-Regular school",
+      "charterSchool": "1-Yes",
+      "magnentSchool": "†",
+      "locale": "12-City: Mid-size",
+      "grades": {
+         "lowest": "9th Grade",
+         "highest": "11th Grade"
+      },
+      "students": "128",
+      "fte": "7",
+      "pupilTeacherRatio": "18.29"
+   },
+   {
+      "name": "Chariho Alternative Learning A",
+      "location": {
+         "state": {
+            "name": "Rhode Island",
+            "abbr": "RI "
+         }
+      },
+      "district": "Chariho",
+      "level": "Other",
+      "type": "4-Alternative/other school",
+      "charterSchool": "2-No",
+      "magnentSchool": "†",
+      "locale": "41-Rural: Fringe",
+      "grades": {
+         "lowest": "1st Grade",
+         "highest": "12th Grade"
+      },
+      "students": "56",
+      "fte": "10.1",
+      "pupilTeacherRatio": "5.54"
+   },
+   {
+      "name": "Chariho Career and Tech Center",
+      "location": {
+         "state": {
+            "name": "Rhode Island",
+            "abbr": "RI "
+         }
+      },
+      "district": "Chariho",
+      "level": "High",
+      "type": "3-Vocational school",
+      "charterSchool": "2-No",
+      "magnentSchool": "†",
+      "locale": "41-Rural: Fringe",
+      "grades": {
+         "lowest": "9th Grade",
+         "highest": "12th Grade"
+      },
+      "students": "0",
+      "fte": "15.8",
+      "pupilTeacherRatio": "0.00"
+   },
+   {
+      "name": "Chariho High School",
+      "location": {
+         "state": {
+            "name": "Rhode Island",
+            "abbr": "RI "
+         }
+      },
+      "district": "Chariho",
+      "level": "High",
+      "type": "1-Regular school",
+      "charterSchool": "2-No",
+      "magnentSchool": "†",
+      "locale": "41-Rural: Fringe",
+      "grades": {
+         "lowest": "9th Grade",
+         "highest": "12th Grade"
+      },
+      "students": "1113",
+      "fte": "83.5",
+      "pupilTeacherRatio": "13.33"
+   },
+   {
+      "name": "Chariho Regional Middle School",
+      "location": {
+         "state": {
+            "name": "Rhode Island",
+            "abbr": "RI "
+         }
+      },
+      "district": "Chariho",
+      "level": "Middle",
+      "type": "1-Regular school",
+      "charterSchool": "2-No",
+      "magnentSchool": "†",
+      "locale": "41-Rural: Fringe",
+      "grades": {
+         "lowest": "5th Grade",
+         "highest": "8th Grade"
+      },
+      "students": "952",
+      "fte": "71.4",
+      "pupilTeacherRatio": "13.33"
+   },
+   {
+      "name": "Charles E. Shea High School",
+      "location": {
+         "state": {
+            "name": "Rhode Island",
+            "abbr": "RI "
+         }
+      },
+      "district": "Pawtucket",
+      "level": "High",
+      "type": "1-Regular school",
+      "charterSchool": "2-No",
+      "magnentSchool": "†",
+      "locale": "21-Suburb: Large",
+      "grades": {
+         "lowest": "9th Grade",
+         "highest": "12th Grade"
+      },
+      "students": "891",
+      "fte": "55.96",
+      "pupilTeacherRatio": "15.92"
+   },
+   {
+      "name": "Charles N. Fortes Academy",
+      "location": {
+         "state": {
+            "name": "Rhode Island",
+            "abbr": "RI "
+         }
+      },
+      "district": "Providence",
+      "level": "Elementary",
+      "type": "1-Regular school",
+      "charterSchool": "2-No",
+      "magnentSchool": "†",
+      "locale": "12-City: Mid-size",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "1st Grade"
+      },
+      "students": "376",
+      "fte": "23.4",
+      "pupilTeacherRatio": "16.07"
+   },
+   {
+      "name": "Charlestown Elementary School",
+      "location": {
+         "state": {
+            "name": "Rhode Island",
+            "abbr": "RI "
+         }
+      },
+      "district": "Chariho",
+      "level": "Elementary",
+      "type": "1-Regular school",
+      "charterSchool": "2-No",
+      "magnentSchool": "†",
+      "locale": "41-Rural: Fringe",
+      "grades": {
+         "lowest": "Kindergarten",
+         "highest": "4th Grade"
+      },
+      "students": "240",
+      "fte": "20",
+      "pupilTeacherRatio": "12"
+   },
+   {
+      "name": "Claiborne Pell Elementary",
+      "location": {
+         "state": {
+            "name": "Rhode Island",
+            "abbr": "RI "
+         }
+      },
+      "district": "Newport",
+      "level": "Elementary",
+      "type": "1-Regular school",
+      "charterSchool": "2-No",
+      "magnentSchool": "†",
+      "locale": "21-Suburb: Large",
+      "grades": {
+         "lowest": "Kindergarten",
+         "highest": "4th Grade"
+      },
+      "students": "810",
+      "fte": "61.1",
+      "pupilTeacherRatio": "13.26"
+   },
+   {
+      "name": "Classical High School",
+      "location": {
+         "state": {
+            "name": "Rhode Island",
+            "abbr": "RI "
+         }
+      },
+      "district": "Providence",
+      "level": "High",
+      "type": "1-Regular school",
+      "charterSchool": "2-No",
+      "magnentSchool": "†",
+      "locale": "12-City: Mid-size",
+      "grades": {
+         "lowest": "9th Grade",
+         "highest": "12th Grade"
+      },
+      "students": "1095",
+      "fte": "64",
+      "pupilTeacherRatio": "17.11"
+   },
+   {
+      "name": "Clayville School",
+      "location": {
+         "state": {
+            "name": "Rhode Island",
+            "abbr": "RI "
+         }
+      },
+      "district": "Scituate",
+      "level": "Elementary",
+      "type": "1-Regular school",
+      "charterSchool": "2-No",
+      "magnentSchool": "†",
+      "locale": "41-Rural: Fringe",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "5th Grade"
+      },
+      "students": "145",
+      "fte": "10.32",
+      "pupilTeacherRatio": "14.05"
+   },
+   {
+      "name": "Colt Andrews School",
+      "location": {
+         "state": {
+            "name": "Rhode Island",
+            "abbr": "RI "
+         }
+      },
+      "district": "Bristol Warren",
+      "level": "Elementary",
+      "type": "1-Regular school",
+      "charterSchool": "2-No",
+      "magnentSchool": "†",
+      "locale": "21-Suburb: Large",
+      "grades": {
+         "lowest": "Kindergarten",
+         "highest": "5th Grade"
+      },
+      "students": "340",
+      "fte": "24",
+      "pupilTeacherRatio": "14.17"
+   },
+   {
+      "name": "Community School",
+      "location": {
+         "state": {
+            "name": "Rhode Island",
+            "abbr": "RI "
+         }
+      },
+      "district": "Cumberland",
+      "level": "Elementary",
+      "type": "1-Regular school",
+      "charterSchool": "2-No",
+      "magnentSchool": "†",
+      "locale": "21-Suburb: Large",
+      "grades": {
+         "lowest": "Kindergarten",
+         "highest": "5th Grade"
+      },
+      "students": "652",
+      "fte": "40.3",
+      "pupilTeacherRatio": "16.18"
+   },
+   {
+      "name": "Cornel Young & Charlotte Woods",
+      "location": {
+         "state": {
+            "name": "Rhode Island",
+            "abbr": "RI "
+         }
+      },
+      "district": "Providence",
+      "level": "Elementary",
+      "type": "1-Regular school",
+      "charterSchool": "2-No",
+      "magnentSchool": "†",
+      "locale": "12-City: Mid-size",
+      "grades": {
+         "lowest": "Kindergarten",
+         "highest": "5th Grade"
+      },
+      "students": "606",
+      "fte": "39.4",
+      "pupilTeacherRatio": "15.38"
+   },
+   {
+      "name": "Coventry High School",
+      "location": {
+         "state": {
+            "name": "Rhode Island",
+            "abbr": "RI "
+         }
+      },
+      "district": "Coventry",
+      "level": "High",
+      "type": "1-Regular school",
+      "charterSchool": "2-No",
+      "magnentSchool": "†",
+      "locale": "21-Suburb: Large",
+      "grades": {
+         "lowest": "9th Grade",
+         "highest": "12th Grade"
+      },
+      "students": "1454",
+      "fte": "116.9",
+      "pupilTeacherRatio": "12.44"
+   },
+   {
+      "name": "Cranston Career & Tech Center",
+      "location": {
+         "state": {
+            "name": "Rhode Island",
+            "abbr": "RI "
+         }
+      },
+      "district": "Cranston",
+      "level": "High",
+      "type": "3-Vocational school",
+      "charterSchool": "2-No",
+      "magnentSchool": "†",
+      "locale": "21-Suburb: Large",
+      "grades": {
+         "lowest": "11th Grade",
+         "highest": "12th Grade"
+      },
+      "students": "0",
+      "fte": "16.4",
+      "pupilTeacherRatio": "0.00"
+   },
+   {
+      "name": "Cranston Early Learning Center",
+      "location": {
+         "state": {
+            "name": "RHODE ISLAND",
+            "abbr": "RI "
+         }
+      },
+      "district": "Cranston",
+      "level": "Prekindergarten",
+      "type": "4-Alternative/other school",
+      "charterSchool": "2-No",
+      "magnentSchool": "†",
+      "locale": "21-Suburb: Large",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "Prekindergarten"
+      },
+      "students": "23",
+      "fte": "5",
+      "pupilTeacherRatio": "4.6"
+   },
+   {
+      "name": "Cranston High School East",
+      "location": {
+         "state": {
+            "name": "Rhode Island",
+            "abbr": "RI "
+         }
+      },
+      "district": "Cranston",
+      "level": "High",
+      "type": "1-Regular school",
+      "charterSchool": "2-No",
+      "magnentSchool": "†",
+      "locale": "21-Suburb: Large",
+      "grades": {
+         "lowest": "9th Grade",
+         "highest": "12th Grade"
+      },
+      "students": "1649",
+      "fte": "126.9",
+      "pupilTeacherRatio": "12.99"
+   },
+   {
+      "name": "Cranston High School West",
+      "location": {
+         "state": {
+            "name": "Rhode Island",
+            "abbr": "RI "
+         }
+      },
+      "district": "Cranston",
+      "level": "High",
+      "type": "1-Regular school",
+      "charterSchool": "2-No",
+      "magnentSchool": "†",
+      "locale": "21-Suburb: Large",
+      "grades": {
+         "lowest": "9th Grade",
+         "highest": "12th Grade"
+      },
+      "students": "1554",
+      "fte": "104.9",
+      "pupilTeacherRatio": "14.81"
+   },
+   {
+      "name": "Cumberland High School",
+      "location": {
+         "state": {
+            "name": "Rhode Island",
+            "abbr": "RI "
+         }
+      },
+      "district": "Cumberland",
+      "level": "High",
+      "type": "1-Regular school",
+      "charterSchool": "2-No",
+      "magnentSchool": "†",
+      "locale": "21-Suburb: Large",
+      "grades": {
+         "lowest": "9th Grade",
+         "highest": "12th Grade"
+      },
+      "students": "1420",
+      "fte": "109.5",
+      "pupilTeacherRatio": "12.97"
+   },
+   {
+      "name": "Cumberland Preschool Center",
+      "location": {
+         "state": {
+            "name": "Rhode Island",
+            "abbr": "RI "
+         }
+      },
+      "district": "Cumberland",
+      "level": "Prekindergarten",
+      "type": "1-Regular school",
+      "charterSchool": "2-No",
+      "magnentSchool": "†",
+      "locale": "21-Suburb: Large",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "Prekindergarten"
+      },
+      "students": "98",
+      "fte": "4",
+      "pupilTeacherRatio": "24.5"
+   },
+   {
+      "name": "Cunningham School",
+      "location": {
+         "state": {
+            "name": "Rhode Island",
+            "abbr": "RI "
+         }
+      },
+      "district": "Pawtucket",
+      "level": "Elementary",
+      "type": "1-Regular school",
+      "charterSchool": "2-No",
+      "magnentSchool": "†",
+      "locale": "21-Suburb: Large",
+      "grades": {
+         "lowest": "Kindergarten",
+         "highest": "5th Grade"
+      },
+      "students": "448",
+      "fte": "33.86",
+      "pupilTeacherRatio": "13.23"
+   },
+   {
+      "name": "Curtis Corner Middle School",
+      "location": {
+         "state": {
+            "name": "Rhode Island",
+            "abbr": "RI "
+         }
+      },
+      "district": "South Kingstown",
+      "level": "Middle",
+      "type": "1-Regular school",
+      "charterSchool": "2-No",
+      "magnentSchool": "†",
+      "locale": "21-Suburb: Large",
+      "grades": {
+         "lowest": "7th Grade",
+         "highest": "8th Grade"
+      },
+      "students": "467",
+      "fte": "38.6",
+      "pupilTeacherRatio": "12.1"
+   },
+   {
+      "name": "Curvin-Mccabe School",
+      "location": {
+         "state": {
+            "name": "Rhode Island",
+            "abbr": "RI "
+         }
+      },
+      "district": "Pawtucket",
+      "level": "Elementary",
+      "type": "1-Regular school",
+      "charterSchool": "2-No",
+      "magnentSchool": "†",
+      "locale": "21-Suburb: Large",
+      "grades": {
+         "lowest": "Kindergarten",
+         "highest": "5th Grade"
+      },
+      "students": "424",
+      "fte": "31.96",
+      "pupilTeacherRatio": "13.27"
+   },
+   {
+      "name": "Daniel D. Waterman School",
+      "location": {
+         "state": {
+            "name": "Rhode Island",
+            "abbr": "RI "
+         }
+      },
+      "district": "Cranston",
+      "level": "Elementary",
+      "type": "1-Regular school",
+      "charterSchool": "2-No",
+      "magnentSchool": "†",
+      "locale": "21-Suburb: Large",
+      "grades": {
+         "lowest": "Kindergarten",
+         "highest": "5th Grade"
+      },
+      "students": "260",
+      "fte": "17.8",
+      "pupilTeacherRatio": "14.61"
+   },
+   {
+      "name": "Davies Career-Tech High School",
+      "location": {
+         "state": {
+            "name": "Rhode Island",
+            "abbr": "RI "
+         }
+      },
+      "district": "Davies Career and Tech",
+      "level": "High",
+      "type": "3-Vocational school",
+      "charterSchool": "2-No",
+      "magnentSchool": "†",
+      "locale": "21-Suburb: Large",
+      "grades": {
+         "lowest": "9th Grade",
+         "highest": "12th Grade"
+      },
+      "students": "894",
+      "fte": "71.68",
+      "pupilTeacherRatio": "12.47"
+   },
+   {
+      "name": "Davisville Middle School",
+      "location": {
+         "state": {
+            "name": "Rhode Island",
+            "abbr": "RI "
+         }
+      },
+      "district": "North Kingstown",
+      "level": "Middle",
+      "type": "1-Regular school",
+      "charterSchool": "2-No",
+      "magnentSchool": "†",
+      "locale": "21-Suburb: Large",
+      "grades": {
+         "lowest": "6th Grade",
+         "highest": "8th Grade"
+      },
+      "students": "506",
+      "fte": "37.77",
+      "pupilTeacherRatio": "13.4"
+   },
+   {
+      "name": "Dcyf Alternative Ed. Program",
+      "location": {
+         "state": {
+            "name": "Rhode Island",
+            "abbr": "RI "
+         }
+      },
+      "district": "Dcyf",
+      "level": "High",
+      "type": "4-Alternative/other school",
+      "charterSchool": "2-No",
+      "magnentSchool": "†",
+      "locale": "21-Suburb: Large",
+      "grades": {
+         "lowest": "10th Grade",
+         "highest": "12th Grade"
+      },
+      "students": "31",
+      "fte": "14",
+      "pupilTeacherRatio": "2.21"
+   },
+   {
+      "name": "Dr. Edward Ricci School",
+      "location": {
+         "state": {
+            "name": "Rhode Island",
+            "abbr": "RI "
+         }
+      },
+      "district": "North Providence",
+      "level": "Middle",
+      "type": "1-Regular school",
+      "charterSchool": "2-No",
+      "magnentSchool": "†",
+      "locale": "21-Suburb: Large",
+      "grades": {
+         "lowest": "6th Grade",
+         "highest": "8th Grade"
+      },
+      "students": "430",
+      "fte": "30",
+      "pupilTeacherRatio": "14.33"
+   },
+   {
+      "name": "Dr. Jorge Alvarez Hs",
+      "location": {
+         "state": {
+            "name": "Rhode Island",
+            "abbr": "RI "
+         }
+      },
+      "district": "Providence",
+      "level": "High",
+      "type": "1-Regular school",
+      "charterSchool": "2-No",
+      "magnentSchool": "†",
+      "locale": "12-City: Mid-size",
+      "grades": {
+         "lowest": "9th Grade",
+         "highest": "12th Grade"
+      },
+      "students": "765",
+      "fte": "48",
+      "pupilTeacherRatio": "15.94"
+   },
+   {
+      "name": "Dunn's Corners School",
+      "location": {
+         "state": {
+            "name": "Rhode Island",
+            "abbr": "RI "
+         }
+      },
+      "district": "Westerly",
+      "level": "Elementary",
+      "type": "1-Regular school",
+      "charterSchool": "2-No",
+      "magnentSchool": "†",
+      "locale": "22-Suburb: Mid-size",
+      "grades": {
+         "lowest": "Kindergarten",
+         "highest": "4th Grade"
+      },
+      "students": "307",
+      "fte": "21.6",
+      "pupilTeacherRatio": "14.21"
+   },
+   {
+      "name": "E-Cubed Academy",
+      "location": {
+         "state": {
+            "name": "Rhode Island",
+            "abbr": "RI "
+         }
+      },
+      "district": "Providence",
+      "level": "High",
+      "type": "1-Regular school",
+      "charterSchool": "2-No",
+      "magnentSchool": "†",
+      "locale": "12-City: Mid-size",
+      "grades": {
+         "lowest": "9th Grade",
+         "highest": "12th Grade"
+      },
+      "students": "385",
+      "fte": "30",
+      "pupilTeacherRatio": "12.83"
+   },
+   {
+      "name": "Early Childhood Center",
+      "location": {
+         "state": {
+            "name": "Rhode Island",
+            "abbr": "RI "
+         }
+      },
+      "district": "Johnston",
+      "level": "Elementary",
+      "type": "1-Regular school",
+      "charterSchool": "2-No",
+      "magnentSchool": "†",
+      "locale": "21-Suburb: Large",
+      "grades": {
+         "lowest": "Kindergarten",
+         "highest": "Kindergarten"
+      },
+      "students": "194",
+      "fte": "18",
+      "pupilTeacherRatio": "10.78"
+   },
+   {
+      "name": "East Greenwich High",
+      "location": {
+         "state": {
+            "name": "Rhode Island",
+            "abbr": "RI "
+         }
+      },
+      "district": "East Greenwich",
+      "level": "High",
+      "type": "1-Regular school",
+      "charterSchool": "2-No",
+      "magnentSchool": "†",
+      "locale": "21-Suburb: Large",
+      "grades": {
+         "lowest": "9th Grade",
+         "highest": "12th Grade"
+      },
+      "students": "784",
+      "fte": "57.5",
+      "pupilTeacherRatio": "13.63"
+   },
+   {
+      "name": "East Providence Career Tech",
+      "location": {
+         "state": {
+            "name": "Rhode Island",
+            "abbr": "RI "
+         }
+      },
+      "district": "East Providence",
+      "level": "High",
+      "type": "3-Vocational school",
+      "charterSchool": "2-No",
+      "magnentSchool": "†",
+      "locale": "21-Suburb: Large",
+      "grades": {
+         "lowest": "9th Grade",
+         "highest": "12th Grade"
+      },
+      "students": "0",
+      "fte": "13",
+      "pupilTeacherRatio": "0.00"
+   },
+   {
+      "name": "East Providence High",
+      "location": {
+         "state": {
+            "name": "Rhode Island",
+            "abbr": "RI "
+         }
+      },
+      "district": "East Providence",
+      "level": "High",
+      "type": "1-Regular school",
+      "charterSchool": "2-No",
+      "magnentSchool": "†",
+      "locale": "21-Suburb: Large",
+      "grades": {
+         "lowest": "9th Grade",
+         "highest": "12th Grade"
+      },
+      "students": "1460",
+      "fte": "101.4",
+      "pupilTeacherRatio": "14.4"
+   },
+   {
+      "name": "Eden Park School",
+      "location": {
+         "state": {
+            "name": "Rhode Island",
+            "abbr": "RI "
+         }
+      },
+      "district": "Cranston",
+      "level": "Elementary",
+      "type": "1-Regular school",
+      "charterSchool": "2-No",
+      "magnentSchool": "†",
+      "locale": "21-Suburb: Large",
+      "grades": {
+         "lowest": "Kindergarten",
+         "highest": "5th Grade"
+      },
+      "students": "275",
+      "fte": "18.3",
+      "pupilTeacherRatio": "15.03"
+   },
+   {
+      "name": "Edgewood Highland",
+      "location": {
+         "state": {
+            "name": "Rhode Island",
+            "abbr": "RI "
+         }
+      },
+      "district": "Cranston",
+      "level": "Elementary",
+      "type": "1-Regular school",
+      "charterSchool": "2-No",
+      "magnentSchool": "†",
+      "locale": "21-Suburb: Large",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "5th Grade"
+      },
+      "students": "294",
+      "fte": "21.03",
+      "pupilTeacherRatio": "13.98"
+   },
+   {
+      "name": "Edward Martin Middle",
+      "location": {
+         "state": {
+            "name": "Rhode Island",
+            "abbr": "RI "
+         }
+      },
+      "district": "East Providence",
+      "level": "Middle",
+      "type": "1-Regular school",
+      "charterSchool": "2-No",
+      "magnentSchool": "†",
+      "locale": "21-Suburb: Large",
+      "grades": {
+         "lowest": "6th Grade",
+         "highest": "8th Grade"
+      },
+      "students": "599",
+      "fte": "49",
+      "pupilTeacherRatio": "12.22"
+   },
+   {
+      "name": "Edward R. Martin Middle Annex",
+      "location": {
+         "state": {
+            "name": "RHODE ISLAND",
+            "abbr": "RI "
+         }
+      },
+      "district": "East Providence",
+      "level": "Prekindergarten",
+      "type": "1-Regular school",
+      "charterSchool": "2-No",
+      "magnentSchool": "†",
+      "locale": "21-Suburb: Large",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "Prekindergarten"
+      },
+      "students": "101",
+      "fte": "5.5",
+      "pupilTeacherRatio": "18.36"
+   },
+   {
+      "name": "Edward S. Rhodes School",
+      "location": {
+         "state": {
+            "name": "Rhode Island",
+            "abbr": "RI "
+         }
+      },
+      "district": "Cranston",
+      "level": "Elementary",
+      "type": "1-Regular school",
+      "charterSchool": "2-No",
+      "magnentSchool": "†",
+      "locale": "21-Suburb: Large",
+      "grades": {
+         "lowest": "Kindergarten",
+         "highest": "5th Grade"
+      },
+      "students": "279",
+      "fte": "18.2",
+      "pupilTeacherRatio": "15.33"
+   },
+   {
+      "name": "Elizabeth Baldwin School",
+      "location": {
+         "state": {
+            "name": "Rhode Island",
+            "abbr": "RI "
+         }
+      },
+      "district": "Pawtucket",
+      "level": "Elementary",
+      "type": "1-Regular school",
+      "charterSchool": "2-No",
+      "magnentSchool": "†",
+      "locale": "21-Suburb: Large",
+      "grades": {
+         "lowest": "Kindergarten",
+         "highest": "5th Grade"
+      },
+      "students": "618",
+      "fte": "46.26",
+      "pupilTeacherRatio": "13.36"
+   },
+   {
+      "name": "Ella Risk School",
+      "location": {
+         "state": {
+            "name": "Rhode Island",
+            "abbr": "RI "
+         }
+      },
+      "district": "Central Falls",
+      "level": "Elementary",
+      "type": "1-Regular school",
+      "charterSchool": "2-No",
+      "magnentSchool": "†",
+      "locale": "21-Suburb: Large",
+      "grades": {
+         "lowest": "Kindergarten",
+         "highest": "4th Grade"
+      },
+      "students": "436",
+      "fte": "36",
+      "pupilTeacherRatio": "12.11"
+   },
+   {
+      "name": "Emma G. Whiteknact School",
+      "location": {
+         "state": {
+            "name": "Rhode Island",
+            "abbr": "RI "
+         }
+      },
+      "district": "East Providence",
+      "level": "Elementary",
+      "type": "1-Regular school",
+      "charterSchool": "2-No",
+      "magnentSchool": "†",
+      "locale": "21-Suburb: Large",
+      "grades": {
+         "lowest": "Kindergarten",
+         "highest": "5th Grade"
+      },
+      "students": "261",
+      "fte": "23",
+      "pupilTeacherRatio": "11.35"
+   },
+   {
+      "name": "Esek Hopkins Middle",
+      "location": {
+         "state": {
+            "name": "Rhode Island",
+            "abbr": "RI "
+         }
+      },
+      "district": "Providence",
+      "level": "Middle",
+      "type": "1-Regular school",
+      "charterSchool": "2-No",
+      "magnentSchool": "†",
+      "locale": "12-City: Mid-size",
+      "grades": {
+         "lowest": "6th Grade",
+         "highest": "8th Grade"
+      },
+      "students": "566",
+      "fte": "36.6",
+      "pupilTeacherRatio": "15.46"
+   },
+   {
+      "name": "Evolutions High School",
+      "location": {
+         "state": {
+            "name": "RHODE ISLAND",
+            "abbr": "RI "
+         }
+      },
+      "district": "Providence",
+      "level": "High",
+      "type": "1-Regular school",
+      "charterSchool": "2-No",
+      "magnentSchool": "†",
+      "locale": "12-City: Mid-size",
+      "grades": {
+         "lowest": "9th Grade",
+         "highest": "12th Grade"
+      },
+      "students": "265",
+      "fte": "22.5",
+      "pupilTeacherRatio": "11.78"
+   },
+   {
+      "name": "Exeter-West Greenwich Reg. Jr.",
+      "location": {
+         "state": {
+            "name": "Rhode Island",
+            "abbr": "RI "
+         }
+      },
+      "district": "Exeter-West Greenwich",
+      "level": "Middle",
+      "type": "1-Regular school",
+      "charterSchool": "2-No",
+      "magnentSchool": "†",
+      "locale": "41-Rural: Fringe",
+      "grades": {
+         "lowest": "7th Grade",
+         "highest": "8th Grade"
+      },
+      "students": "246",
+      "fte": "21.68",
+      "pupilTeacherRatio": "11.35"
+   },
+   {
+      "name": "Exeter-West Greenwich Regional",
+      "location": {
+         "state": {
+            "name": "Rhode Island",
+            "abbr": "RI "
+         }
+      },
+      "district": "Exeter-West Greenwich",
+      "level": "High",
+      "type": "1-Regular school",
+      "charterSchool": "2-No",
+      "magnentSchool": "†",
+      "locale": "41-Rural: Fringe",
+      "grades": {
+         "lowest": "9th Grade",
+         "highest": "12th Grade"
+      },
+      "students": "501",
+      "fte": "45.06",
+      "pupilTeacherRatio": "11.12"
+   },
+   {
+      "name": "Fallon Memorial School",
+      "location": {
+         "state": {
+            "name": "Rhode Island",
+            "abbr": "RI "
+         }
+      },
+      "district": "Pawtucket",
+      "level": "Elementary",
+      "type": "1-Regular school",
+      "charterSchool": "2-No",
+      "magnentSchool": "†",
+      "locale": "21-Suburb: Large",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "5th Grade"
+      },
+      "students": "563",
+      "fte": "46.36",
+      "pupilTeacherRatio": "12.14"
+   },
+   {
+      "name": "Fishing Cove El. School",
+      "location": {
+         "state": {
+            "name": "Rhode Island",
+            "abbr": "RI "
+         }
+      },
+      "district": "North Kingstown",
+      "level": "Elementary",
+      "type": "1-Regular school",
+      "charterSchool": "2-No",
+      "magnentSchool": "†",
+      "locale": "21-Suburb: Large",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "5th Grade"
+      },
+      "students": "340",
+      "fte": "24.3",
+      "pupilTeacherRatio": "13.99"
+   },
+   {
+      "name": "Flora S. Curtis School",
+      "location": {
+         "state": {
+            "name": "Rhode Island",
+            "abbr": "RI "
+         }
+      },
+      "district": "Pawtucket",
+      "level": "Elementary",
+      "type": "1-Regular school",
+      "charterSchool": "2-No",
+      "magnentSchool": "†",
+      "locale": "21-Suburb: Large",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "5th Grade"
+      },
+      "students": "317",
+      "fte": "26.61",
+      "pupilTeacherRatio": "11.91"
+   },
+   {
+      "name": "Fogarty Memorial",
+      "location": {
+         "state": {
+            "name": "Rhode Island",
+            "abbr": "RI "
+         }
+      },
+      "district": "Glocester",
+      "level": "Elementary",
+      "type": "1-Regular school",
+      "charterSchool": "2-No",
+      "magnentSchool": "†",
+      "locale": "41-Rural: Fringe",
+      "grades": {
+         "lowest": "Kindergarten",
+         "highest": "5th Grade"
+      },
+      "students": "320",
+      "fte": "20.9",
+      "pupilTeacherRatio": "15.31"
+   },
+   {
+      "name": "Forest Avenue School",
+      "location": {
+         "state": {
+            "name": "Rhode Island",
+            "abbr": "RI "
+         }
+      },
+      "district": "Middletown",
+      "level": "Elementary",
+      "type": "1-Regular school",
+      "charterSchool": "2-No",
+      "magnentSchool": "†",
+      "locale": "21-Suburb: Large",
+      "grades": {
+         "lowest": "Kindergarten",
+         "highest": "3rd Grade"
+      },
+      "students": "332",
+      "fte": "21.83",
+      "pupilTeacherRatio": "15.21"
+   },
+   {
+      "name": "Forest Park El. School",
+      "location": {
+         "state": {
+            "name": "Rhode Island",
+            "abbr": "RI "
+         }
+      },
+      "district": "North Kingstown",
+      "level": "Elementary",
+      "type": "1-Regular school",
+      "charterSchool": "2-No",
+      "magnentSchool": "†",
+      "locale": "21-Suburb: Large",
+      "grades": {
+         "lowest": "Kindergarten",
+         "highest": "5th Grade"
+      },
+      "students": "244",
+      "fte": "19.1",
+      "pupilTeacherRatio": "12.77"
+   },
+   {
+      "name": "Fort Barton School",
+      "location": {
+         "state": {
+            "name": "Rhode Island",
+            "abbr": "RI "
+         }
+      },
+      "district": "Tiverton",
+      "level": "Elementary",
+      "type": "1-Regular school",
+      "charterSchool": "2-No",
+      "magnentSchool": "†",
+      "locale": "21-Suburb: Large",
+      "grades": {
+         "lowest": "Kindergarten",
+         "highest": "4th Grade"
+      },
+      "students": "207",
+      "fte": "15.63",
+      "pupilTeacherRatio": "13.24"
+   },
+   {
+      "name": "Founders Academy",
+      "location": {
+         "state": {
+            "name": "RHODE ISLAND",
+            "abbr": "RI "
+         }
+      },
+      "district": "Beacon Charter School",
+      "level": "Middle",
+      "type": "1-Regular school",
+      "charterSchool": "1-Yes",
+      "magnentSchool": "†",
+      "locale": "21-Suburb: Large",
+      "grades": {
+         "lowest": "6th Grade",
+         "highest": "8th Grade"
+      },
+      "students": "148",
+      "fte": "14",
+      "pupilTeacherRatio": "10.57"
+   },
+   {
+      "name": "Francis J. Varieur School",
+      "location": {
+         "state": {
+            "name": "Rhode Island",
+            "abbr": "RI "
+         }
+      },
+      "district": "Pawtucket",
+      "level": "Elementary",
+      "type": "1-Regular school",
+      "charterSchool": "2-No",
+      "magnentSchool": "†",
+      "locale": "21-Suburb: Large",
+      "grades": {
+         "lowest": "Kindergarten",
+         "highest": "6th Grade"
+      },
+      "students": "365",
+      "fte": "26.06",
+      "pupilTeacherRatio": "14.01"
+   },
+   {
+      "name": "Frank D. Spaziano Annex",
+      "location": {
+         "state": {
+            "name": "Rhode Island",
+            "abbr": "RI "
+         }
+      },
+      "district": "Providence",
+      "level": "Elementary",
+      "type": "1-Regular school",
+      "charterSchool": "2-No",
+      "magnentSchool": "†",
+      "locale": "12-City: Mid-size",
+      "grades": {
+         "lowest": "Kindergarten",
+         "highest": "1st Grade"
+      },
+      "students": "185",
+      "fte": "8.8",
+      "pupilTeacherRatio": "21.02"
+   },
+   {
+      "name": "Frank D. Spaziano Elem School",
+      "location": {
+         "state": {
+            "name": "Rhode Island",
+            "abbr": "RI "
+         }
+      },
+      "district": "Providence",
+      "level": "Elementary",
+      "type": "1-Regular school",
+      "charterSchool": "2-No",
+      "magnentSchool": "†",
+      "locale": "12-City: Mid-size",
+      "grades": {
+         "lowest": "2nd Grade",
+         "highest": "5th Grade"
+      },
+      "students": "360",
+      "fte": "22.9",
+      "pupilTeacherRatio": "15.72"
+   },
+   {
+      "name": "Frank E. Thompson Middle",
+      "location": {
+         "state": {
+            "name": "Rhode Island",
+            "abbr": "RI "
+         }
+      },
+      "district": "Newport",
+      "level": "Middle",
+      "type": "1-Regular school",
+      "charterSchool": "2-No",
+      "magnentSchool": "†",
+      "locale": "21-Suburb: Large",
+      "grades": {
+         "lowest": "5th Grade",
+         "highest": "8th Grade"
+      },
+      "students": "598",
+      "fte": "52.7",
+      "pupilTeacherRatio": "11.35"
+   },
+   {
+      "name": "Frenchtown School",
+      "location": {
+         "state": {
+            "name": "Rhode Island",
+            "abbr": "RI "
+         }
+      },
+      "district": "East Greenwich",
+      "level": "Elementary",
+      "type": "1-Regular school",
+      "charterSchool": "2-No",
+      "magnentSchool": "†",
+      "locale": "41-Rural: Fringe",
+      "grades": {
+         "lowest": "Kindergarten",
+         "highest": "2nd Grade"
+      },
+      "students": "245",
+      "fte": "18.1",
+      "pupilTeacherRatio": "13.54"
+   },
+   {
+      "name": "G. Harold Hunt School",
+      "location": {
+         "state": {
+            "name": "Rhode Island",
+            "abbr": "RI "
+         }
+      },
+      "district": "Central Falls",
+      "level": "Prekindergarten",
+      "type": "1-Regular school",
+      "charterSchool": "2-No",
+      "magnentSchool": "†",
+      "locale": "21-Suburb: Large",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "Prekindergarten"
+      },
+      "students": "187",
+      "fte": "18.2",
+      "pupilTeacherRatio": "10.27"
+   },
+   {
+      "name": "Garden City School",
+      "location": {
+         "state": {
+            "name": "Rhode Island",
+            "abbr": "RI "
+         }
+      },
+      "district": "Cranston",
+      "level": "Elementary",
+      "type": "1-Regular school",
+      "charterSchool": "2-No",
+      "magnentSchool": "†",
+      "locale": "21-Suburb: Large",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "5th Grade"
+      },
+      "students": "282",
+      "fte": "20.29",
+      "pupilTeacherRatio": "13.9"
+   },
+   {
+      "name": "Garvin Memorial",
+      "location": {
+         "state": {
+            "name": "Rhode Island",
+            "abbr": "RI "
+         }
+      },
+      "district": "Cumberland",
+      "level": "Elementary",
+      "type": "1-Regular school",
+      "charterSchool": "2-No",
+      "magnentSchool": "†",
+      "locale": "21-Suburb: Large",
+      "grades": {
+         "lowest": "Kindergarten",
+         "highest": "5th Grade"
+      },
+      "students": "378",
+      "fte": "27.65",
+      "pupilTeacherRatio": "13.67"
+   },
+   {
+      "name": "George Hanaford School",
+      "location": {
+         "state": {
+            "name": "Rhode Island",
+            "abbr": "RI "
+         }
+      },
+      "district": "East Greenwich",
+      "level": "Elementary",
+      "type": "1-Regular school",
+      "charterSchool": "2-No",
+      "magnentSchool": "†",
+      "locale": "21-Suburb: Large",
+      "grades": {
+         "lowest": "3rd Grade",
+         "highest": "5th Grade"
+      },
+      "students": "279",
+      "fte": "19.17",
+      "pupilTeacherRatio": "14.55"
+   },
+   {
+      "name": "George J. Peters School",
+      "location": {
+         "state": {
+            "name": "Rhode Island",
+            "abbr": "RI "
+         }
+      },
+      "district": "Cranston",
+      "level": "Elementary",
+      "type": "1-Regular school",
+      "charterSchool": "2-No",
+      "magnentSchool": "†",
+      "locale": "21-Suburb: Large",
+      "grades": {
+         "lowest": "Kindergarten",
+         "highest": "5th Grade"
+      },
+      "students": "280",
+      "fte": "18.9",
+      "pupilTeacherRatio": "14.81"
+   },
+   {
+      "name": "George J. West El. School",
+      "location": {
+         "state": {
+            "name": "Rhode Island",
+            "abbr": "RI "
+         }
+      },
+      "district": "Providence",
+      "level": "Elementary",
+      "type": "1-Regular school",
+      "charterSchool": "2-No",
+      "magnentSchool": "†",
+      "locale": "12-City: Mid-size",
+      "grades": {
+         "lowest": "Kindergarten",
+         "highest": "5th Grade"
+      },
+      "students": "679",
+      "fte": "40",
+      "pupilTeacherRatio": "16.98"
+   },
+   {
+      "name": "Gilbert Stuart Middle School",
+      "location": {
+         "state": {
+            "name": "Rhode Island",
+            "abbr": "RI "
+         }
+      },
+      "district": "Providence",
+      "level": "Middle",
+      "type": "1-Regular school",
+      "charterSchool": "2-No",
+      "magnentSchool": "†",
+      "locale": "12-City: Mid-size",
+      "grades": {
+         "lowest": "6th Grade",
+         "highest": "8th Grade"
+      },
+      "students": "945",
+      "fte": "62",
+      "pupilTeacherRatio": "15.24"
+   },
+   {
+      "name": "Gladstone Street School",
+      "location": {
+         "state": {
+            "name": "Rhode Island",
+            "abbr": "RI "
+         }
+      },
+      "district": "Cranston",
+      "level": "Elementary",
+      "type": "1-Regular school",
+      "charterSchool": "2-No",
+      "magnentSchool": "†",
+      "locale": "21-Suburb: Large",
+      "grades": {
+         "lowest": "Kindergarten",
+         "highest": "5th Grade"
+      },
+      "students": "502",
+      "fte": "36.6",
+      "pupilTeacherRatio": "13.72"
+   },
+   {
+      "name": "Glen Hills School",
+      "location": {
+         "state": {
+            "name": "Rhode Island",
+            "abbr": "RI "
+         }
+      },
+      "district": "Cranston",
+      "level": "Elementary",
+      "type": "1-Regular school",
+      "charterSchool": "2-No",
+      "magnentSchool": "†",
+      "locale": "21-Suburb: Large",
+      "grades": {
+         "lowest": "Kindergarten",
+         "highest": "5th Grade"
+      },
+      "students": "239",
+      "fte": "18.6",
+      "pupilTeacherRatio": "12.85"
+   },
+   {
+      "name": "Globe Park School",
+      "location": {
+         "state": {
+            "name": "Rhode Island",
+            "abbr": "RI "
+         }
+      },
+      "district": "Woonsocket",
+      "level": "Elementary",
+      "type": "1-Regular school",
+      "charterSchool": "2-No",
+      "magnentSchool": "†",
+      "locale": "21-Suburb: Large",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "5th Grade"
+      },
+      "students": "501",
+      "fte": "32.7",
+      "pupilTeacherRatio": "15.32"
+   },
+   {
+      "name": "Governor Christopher Delsesto",
+      "location": {
+         "state": {
+            "name": "Rhode Island",
+            "abbr": "RI "
+         }
+      },
+      "district": "Providence",
+      "level": "Middle",
+      "type": "1-Regular school",
+      "charterSchool": "2-No",
+      "magnentSchool": "†",
+      "locale": "12-City: Mid-size",
+      "grades": {
+         "lowest": "6th Grade",
+         "highest": "8th Grade"
+      },
+      "students": "942",
+      "fte": "62.4",
+      "pupilTeacherRatio": "15.1"
+   },
+   {
+      "name": "Graniteville School",
+      "location": {
+         "state": {
+            "name": "Rhode Island",
+            "abbr": "RI "
+         }
+      },
+      "district": "Johnston",
+      "level": "Prekindergarten",
+      "type": "1-Regular school",
+      "charterSchool": "2-No",
+      "magnentSchool": "†",
+      "locale": "21-Suburb: Large",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "Prekindergarten"
+      },
+      "students": "131",
+      "fte": "8.4",
+      "pupilTeacherRatio": "15.6"
+   },
+   {
+      "name": "Greenbush Elementary School",
+      "location": {
+         "state": {
+            "name": "Rhode Island",
+            "abbr": "RI "
+         }
+      },
+      "district": "West Warwick",
+      "level": "Elementary",
+      "type": "1-Regular school",
+      "charterSchool": "2-No",
+      "magnentSchool": "†",
+      "locale": "21-Suburb: Large",
+      "grades": {
+         "lowest": "Kindergarten",
+         "highest": "4th Grade"
+      },
+      "students": "466",
+      "fte": "31.5",
+      "pupilTeacherRatio": "14.79"
+   },
+   {
+      "name": "Greenwood School",
+      "location": {
+         "state": {
+            "name": "Rhode Island",
+            "abbr": "RI "
+         }
+      },
+      "district": "Warwick",
+      "level": "Elementary",
+      "type": "1-Regular school",
+      "charterSchool": "2-No",
+      "magnentSchool": "†",
+      "locale": "13-City: Small",
+      "grades": {
+         "lowest": "Kindergarten",
+         "highest": "5th Grade"
+      },
+      "students": "304",
+      "fte": "19.5",
+      "pupilTeacherRatio": "15.59"
+   },
+   {
+      "name": "Greystone School",
+      "location": {
+         "state": {
+            "name": "Rhode Island",
+            "abbr": "RI "
+         }
+      },
+      "district": "North Providence",
+      "level": "Elementary",
+      "type": "1-Regular school",
+      "charterSchool": "2-No",
+      "magnentSchool": "†",
+      "locale": "21-Suburb: Large",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "5th Grade"
+      },
+      "students": "297",
+      "fte": "22.9",
+      "pupilTeacherRatio": "12.97"
+   },
+   {
+      "name": "Guiteras School",
+      "location": {
+         "state": {
+            "name": "Rhode Island",
+            "abbr": "RI "
+         }
+      },
+      "district": "Bristol Warren",
+      "level": "Elementary",
+      "type": "1-Regular school",
+      "charterSchool": "2-No",
+      "magnentSchool": "†",
+      "locale": "21-Suburb: Large",
+      "grades": {
+         "lowest": "Kindergarten",
+         "highest": "5th Grade"
+      },
+      "students": "238",
+      "fte": "16.8",
+      "pupilTeacherRatio": "14.17"
+   },
+   {
+      "name": "Hamilton School",
+      "location": {
+         "state": {
+            "name": "Rhode Island",
+            "abbr": "RI "
+         }
+      },
+      "district": "North Kingstown",
+      "level": "Elementary",
+      "type": "1-Regular school",
+      "charterSchool": "2-No",
+      "magnentSchool": "†",
+      "locale": "21-Suburb: Large",
+      "grades": {
+         "lowest": "Kindergarten",
+         "highest": "5th Grade"
+      },
+      "students": "409",
+      "fte": "28.37",
+      "pupilTeacherRatio": "14.42"
+   },
+   {
+      "name": "Hampden Meadows School",
+      "location": {
+         "state": {
+            "name": "Rhode Island",
+            "abbr": "RI "
+         }
+      },
+      "district": "Barrington",
+      "level": "Elementary",
+      "type": "1-Regular school",
+      "charterSchool": "2-No",
+      "magnentSchool": "†",
+      "locale": "21-Suburb: Large",
+      "grades": {
+         "lowest": "4th Grade",
+         "highest": "5th Grade"
+      },
+      "students": "511",
+      "fte": "31.17",
+      "pupilTeacherRatio": "16.39"
+   },
+   {
+      "name": "Harris School",
+      "location": {
+         "state": {
+            "name": "Rhode Island",
+            "abbr": "RI "
+         }
+      },
+      "district": "Woonsocket",
+      "level": "Elementary",
+      "type": "1-Regular school",
+      "charterSchool": "2-No",
+      "magnentSchool": "†",
+      "locale": "21-Suburb: Large",
+      "grades": {
+         "lowest": "Kindergarten",
+         "highest": "5th Grade"
+      },
+      "students": "436",
+      "fte": "27.2",
+      "pupilTeacherRatio": "16.03"
+   },
+   {
+      "name": "Harry Kizirian Elementary",
+      "location": {
+         "state": {
+            "name": "Rhode Island",
+            "abbr": "RI "
+         }
+      },
+      "district": "Providence",
+      "level": "Elementary",
+      "type": "1-Regular school",
+      "charterSchool": "2-No",
+      "magnentSchool": "†",
+      "locale": "12-City: Mid-size",
+      "grades": {
+         "lowest": "Kindergarten",
+         "highest": "5th Grade"
+      },
+      "students": "566",
+      "fte": "29.5",
+      "pupilTeacherRatio": "19.19"
+   },
+   {
+      "name": "Henry J. Winters School",
+      "location": {
+         "state": {
+            "name": "Rhode Island",
+            "abbr": "RI "
+         }
+      },
+      "district": "Pawtucket",
+      "level": "Elementary",
+      "type": "1-Regular school",
+      "charterSchool": "2-No",
+      "magnentSchool": "†",
+      "locale": "21-Suburb: Large",
+      "grades": {
+         "lowest": "Kindergarten",
+         "highest": "5th Grade"
+      },
+      "students": "360",
+      "fte": "26.91",
+      "pupilTeacherRatio": "13.38"
+   },
+   {
+      "name": "Highlander Elementary Charter",
+      "location": {
+         "state": {
+            "name": "RHODE ISLAND",
+            "abbr": "RI "
+         }
+      },
+      "district": "Highlander",
+      "level": "Elementary",
+      "type": "1-Regular school",
+      "charterSchool": "1-Yes",
+      "magnentSchool": "†",
+      "locale": "12-City: Mid-size",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "6th Grade"
+      },
+      "students": "273",
+      "fte": "22.37",
+      "pupilTeacherRatio": "12.2"
+   },
+   {
+      "name": "Highlander Secondary Charter S",
+      "location": {
+         "state": {
+            "name": "RHODE ISLAND",
+            "abbr": "RI "
+         }
+      },
+      "district": "Highlander",
+      "level": "High",
+      "type": "1-Regular school",
+      "charterSchool": "1-Yes",
+      "magnentSchool": "†",
+      "locale": "41-Rural: Fringe",
+      "grades": {
+         "lowest": "7th Grade",
+         "highest": "12th Grade"
+      },
+      "students": "322",
+      "fte": "28",
+      "pupilTeacherRatio": "11.5"
+   },
+   {
+      "name": "Holliman School",
+      "location": {
+         "state": {
+            "name": "Rhode Island",
+            "abbr": "RI "
+         }
+      },
+      "district": "Warwick",
+      "level": "Elementary",
+      "type": "1-Regular school",
+      "charterSchool": "2-No",
+      "magnentSchool": "†",
+      "locale": "13-City: Small",
+      "grades": {
+         "lowest": "Kindergarten",
+         "highest": "5th Grade"
+      },
+      "students": "316",
+      "fte": "19",
+      "pupilTeacherRatio": "16.63"
+   },
+   {
+      "name": "Hope High School",
+      "location": {
+         "state": {
+            "name": "Rhode Island",
+            "abbr": "RI "
+         }
+      },
+      "district": "Providence",
+      "level": "High",
+      "type": "1-Regular school",
+      "charterSchool": "2-No",
+      "magnentSchool": "†",
+      "locale": "12-City: Mid-size",
+      "grades": {
+         "lowest": "9th Grade",
+         "highest": "12th Grade"
+      },
+      "students": "949",
+      "fte": "68",
+      "pupilTeacherRatio": "13.96"
+   },
+   {
+      "name": "Hope Highlands Middle School",
+      "location": {
+         "state": {
+            "name": "RHODE ISLAND",
+            "abbr": "RI "
+         }
+      },
+      "district": "Cranston",
+      "level": "Middle",
+      "type": "1-Regular school",
+      "charterSchool": "2-No",
+      "magnentSchool": "†",
+      "locale": "21-Suburb: Large",
+      "grades": {
+         "lowest": "6th Grade",
+         "highest": "8th Grade"
+      },
+      "students": "378",
+      "fte": "33.7",
+      "pupilTeacherRatio": "11.22"
+   },
+   {
+      "name": "Hope School",
+      "location": {
+         "state": {
+            "name": "Rhode Island",
+            "abbr": "RI "
+         }
+      },
+      "district": "Scituate",
+      "level": "Elementary",
+      "type": "1-Regular school",
+      "charterSchool": "2-No",
+      "magnentSchool": "†",
+      "locale": "21-Suburb: Large",
+      "grades": {
+         "lowest": "Kindergarten",
+         "highest": "5th Grade"
+      },
+      "students": "171",
+      "fte": "13.48",
+      "pupilTeacherRatio": "12.69"
+   },
+   {
+      "name": "Hope Valley Elementary School",
+      "location": {
+         "state": {
+            "name": "Rhode Island",
+            "abbr": "RI "
+         }
+      },
+      "district": "Chariho",
+      "level": "Elementary",
+      "type": "1-Regular school",
+      "charterSchool": "2-No",
+      "magnentSchool": "†",
+      "locale": "42-Rural: Distant",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "4th Grade"
+      },
+      "students": "272",
+      "fte": "13.7",
+      "pupilTeacherRatio": "19.85"
+   },
+   {
+      "name": "Hopkins Hill School",
+      "location": {
+         "state": {
+            "name": "Rhode Island",
+            "abbr": "RI "
+         }
+      },
+      "district": "Coventry",
+      "level": "Elementary",
+      "type": "1-Regular school",
+      "charterSchool": "2-No",
+      "magnentSchool": "†",
+      "locale": "21-Suburb: Large",
+      "grades": {
+         "lowest": "Kindergarten",
+         "highest": "5th Grade"
+      },
+      "students": "353",
+      "fte": "26.95",
+      "pupilTeacherRatio": "13.1"
+   },
+   {
+      "name": "Howard Hathaway School",
+      "location": {
+         "state": {
+            "name": "Rhode Island",
+            "abbr": "RI "
+         }
+      },
+      "district": "Portsmouth",
+      "level": "Elementary",
+      "type": "1-Regular school",
+      "charterSchool": "2-No",
+      "magnentSchool": "†",
+      "locale": "21-Suburb: Large",
+      "grades": {
+         "lowest": "Kindergarten",
+         "highest": "4th Grade"
+      },
+      "students": "437",
+      "fte": "27.7",
+      "pupilTeacherRatio": "15.78"
+   },
+   {
+      "name": "Hoxsie School",
+      "location": {
+         "state": {
+            "name": "Rhode Island",
+            "abbr": "RI "
+         }
+      },
+      "district": "Warwick",
+      "level": "Elementary",
+      "type": "1-Regular school",
+      "charterSchool": "2-No",
+      "magnentSchool": "†",
+      "locale": "13-City: Small",
+      "grades": {
+         "lowest": "Kindergarten",
+         "highest": "5th Grade"
+      },
+      "students": "291",
+      "fte": "19.4",
+      "pupilTeacherRatio": "15"
+   },
+   {
+      "name": "Hugh B. Bain Middle School",
+      "location": {
+         "state": {
+            "name": "Rhode Island",
+            "abbr": "RI "
+         }
+      },
+      "district": "Cranston",
+      "level": "Middle",
+      "type": "1-Regular school",
+      "charterSchool": "2-No",
+      "magnentSchool": "†",
+      "locale": "21-Suburb: Large",
+      "grades": {
+         "lowest": "6th Grade",
+         "highest": "8th Grade"
+      },
+      "students": "612",
+      "fte": "53.5",
+      "pupilTeacherRatio": "11.44"
+   },
+   {
+      "name": "Hugh Cole School",
+      "location": {
+         "state": {
+            "name": "Rhode Island",
+            "abbr": "RI "
+         }
+      },
+      "district": "Bristol Warren",
+      "level": "Elementary",
+      "type": "1-Regular school",
+      "charterSchool": "2-No",
+      "magnentSchool": "†",
+      "locale": "21-Suburb: Large",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "5th Grade"
+      },
+      "students": "569",
+      "fte": "43",
+      "pupilTeacherRatio": "13.23"
+   },
+   {
+      "name": "International Charter School",
+      "location": {
+         "state": {
+            "name": "Rhode Island",
+            "abbr": "RI "
+         }
+      },
+      "district": "International Charter",
+      "level": "Elementary",
+      "type": "1-Regular school",
+      "charterSchool": "1-Yes",
+      "magnentSchool": "†",
+      "locale": "21-Suburb: Large",
+      "grades": {
+         "lowest": "Kindergarten",
+         "highest": "5th Grade"
+      },
+      "students": "380",
+      "fte": "14.68",
+      "pupilTeacherRatio": "25.89"
+   },
+   {
+      "name": "Jacqueline M. Walsh School",
+      "location": {
+         "state": {
+            "name": "Rhode Island",
+            "abbr": "RI "
+         }
+      },
+      "district": "Pawtucket",
+      "level": "High",
+      "type": "1-Regular school",
+      "charterSchool": "2-No",
+      "magnentSchool": "†",
+      "locale": "21-Suburb: Large",
+      "grades": {
+         "lowest": "9th Grade",
+         "highest": "12th Grade"
+      },
+      "students": "215",
+      "fte": "16.1",
+      "pupilTeacherRatio": "13.35"
+   },
+   {
+      "name": "James H. Eldredge School",
+      "location": {
+         "state": {
+            "name": "Rhode Island",
+            "abbr": "RI "
+         }
+      },
+      "district": "East Greenwich",
+      "level": "Elementary",
+      "type": "1-Regular school",
+      "charterSchool": "2-No",
+      "magnentSchool": "†",
+      "locale": "21-Suburb: Large",
+      "grades": {
+         "lowest": "3rd Grade",
+         "highest": "5th Grade"
+      },
+      "students": "335",
+      "fte": "21.53",
+      "pupilTeacherRatio": "15.56"
+   },
+   {
+      "name": "James L. Mcguire School",
+      "location": {
+         "state": {
+            "name": "Rhode Island",
+            "abbr": "RI "
+         }
+      },
+      "district": "North Providence",
+      "level": "Elementary",
+      "type": "1-Regular school",
+      "charterSchool": "2-No",
+      "magnentSchool": "†",
+      "locale": "21-Suburb: Large",
+      "grades": {
+         "lowest": "Kindergarten",
+         "highest": "5th Grade"
+      },
+      "students": "348",
+      "fte": "26",
+      "pupilTeacherRatio": "13.38"
+   },
+   {
+      "name": "James R. D. Oldham School",
+      "location": {
+         "state": {
+            "name": "RHODE ISLAND",
+            "abbr": "RI "
+         }
+      },
+      "district": "East Providence",
+      "level": "Prekindergarten",
+      "type": "1-Regular school",
+      "charterSchool": "2-No",
+      "magnentSchool": "†",
+      "locale": "21-Suburb: Large",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "Prekindergarten"
+      },
+      "students": "145",
+      "fte": "9.5",
+      "pupilTeacherRatio": "15.26"
+   },
+   {
+      "name": "Jamestown School-Lawn",
+      "location": {
+         "state": {
+            "name": "Rhode Island",
+            "abbr": "RI "
+         }
+      },
+      "district": "Jamestown",
+      "level": "Middle",
+      "type": "1-Regular school",
+      "charterSchool": "2-No",
+      "magnentSchool": "†",
+      "locale": "21-Suburb: Large",
+      "grades": {
+         "lowest": "5th Grade",
+         "highest": "8th Grade"
+      },
+      "students": "221",
+      "fte": "21.6",
+      "pupilTeacherRatio": "10.23"
+   },
+   {
+      "name": "Jamestown School-Melrose",
+      "location": {
+         "state": {
+            "name": "Rhode Island",
+            "abbr": "RI "
+         }
+      },
+      "district": "Jamestown",
+      "level": "Elementary",
+      "type": "1-Regular school",
+      "charterSchool": "2-No",
+      "magnentSchool": "†",
+      "locale": "21-Suburb: Large",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "4th Grade"
+      },
+      "students": "262",
+      "fte": "23.3",
+      "pupilTeacherRatio": "11.24"
+   },
+   {
+      "name": "John F. Deering Middle",
+      "location": {
+         "state": {
+            "name": "Rhode Island",
+            "abbr": "RI "
+         }
+      },
+      "district": "West Warwick",
+      "level": "Middle",
+      "type": "1-Regular school",
+      "charterSchool": "2-No",
+      "magnentSchool": "†",
+      "locale": "21-Suburb: Large",
+      "grades": {
+         "lowest": "5th Grade",
+         "highest": "8th Grade"
+      },
+      "students": "1145",
+      "fte": "90.8",
+      "pupilTeacherRatio": "12.61"
+   },
+   {
+      "name": "John F. Horgan School",
+      "location": {
+         "state": {
+            "name": "Rhode Island",
+            "abbr": "RI "
+         }
+      },
+      "district": "West Warwick",
+      "level": "Elementary",
+      "type": "1-Regular school",
+      "charterSchool": "2-No",
+      "magnentSchool": "†",
+      "locale": "21-Suburb: Large",
+      "grades": {
+         "lowest": "Kindergarten",
+         "highest": "4th Grade"
+      },
+      "students": "519",
+      "fte": "34",
+      "pupilTeacherRatio": "15.26"
+   },
+   {
+      "name": "John J. Mclaughlin Cumberland",
+      "location": {
+         "state": {
+            "name": "Rhode Island",
+            "abbr": "RI "
+         }
+      },
+      "district": "Cumberland",
+      "level": "Elementary",
+      "type": "1-Regular school",
+      "charterSchool": "2-No",
+      "magnentSchool": "†",
+      "locale": "21-Suburb: Large",
+      "grades": {
+         "lowest": "Kindergarten",
+         "highest": "5th Grade"
+      },
+      "students": "385",
+      "fte": "28",
+      "pupilTeacherRatio": "13.75"
+   },
+   {
+      "name": "Johnston Senior High",
+      "location": {
+         "state": {
+            "name": "Rhode Island",
+            "abbr": "RI "
+         }
+      },
+      "district": "Johnston",
+      "level": "High",
+      "type": "1-Regular school",
+      "charterSchool": "2-No",
+      "magnentSchool": "†",
+      "locale": "21-Suburb: Large",
+      "grades": {
+         "lowest": "9th Grade",
+         "highest": "12th Grade"
+      },
+      "students": "835",
+      "fte": "73.04",
+      "pupilTeacherRatio": "11.43"
+   },
+   {
+      "name": "Joseph A. Whelan School",
+      "location": {
+         "state": {
+            "name": "Rhode Island",
+            "abbr": "RI "
+         }
+      },
+      "district": "North Providence",
+      "level": "Elementary",
+      "type": "1-Regular school",
+      "charterSchool": "2-No",
+      "magnentSchool": "†",
+      "locale": "21-Suburb: Large",
+      "grades": {
+         "lowest": "Kindergarten",
+         "highest": "5th Grade"
+      },
+      "students": "278",
+      "fte": "15.95",
+      "pupilTeacherRatio": "17.43"
+   },
+   {
+      "name": "Joseph Gaudet Academy",
+      "location": {
+         "state": {
+            "name": "Rhode Island",
+            "abbr": "RI "
+         }
+      },
+      "district": "Middletown",
+      "level": "Elementary",
+      "type": "1-Regular school",
+      "charterSchool": "2-No",
+      "magnentSchool": "†",
+      "locale": "21-Suburb: Large",
+      "grades": {
+         "lowest": "4th Grade",
+         "highest": "4th Grade"
+      },
+      "students": "146",
+      "fte": "10.9",
+      "pupilTeacherRatio": "13.39"
+   },
+   {
+      "name": "Joseph H. Gaudet School",
+      "location": {
+         "state": {
+            "name": "Rhode Island",
+            "abbr": "RI "
+         }
+      },
+      "district": "Middletown",
+      "level": "Middle",
+      "type": "1-Regular school",
+      "charterSchool": "2-No",
+      "magnentSchool": "†",
+      "locale": "21-Suburb: Large",
+      "grades": {
+         "lowest": "5th Grade",
+         "highest": "8th Grade"
+      },
+      "students": "705",
+      "fte": "54.4",
+      "pupilTeacherRatio": "12.96"
+   },
+   {
+      "name": "Joseph Jenks Middle School",
+      "location": {
+         "state": {
+            "name": "Rhode Island",
+            "abbr": "RI "
+         }
+      },
+      "district": "Pawtucket",
+      "level": "Middle",
+      "type": "1-Regular school",
+      "charterSchool": "2-No",
+      "magnentSchool": "†",
+      "locale": "21-Suburb: Large",
+      "grades": {
+         "lowest": "6th Grade",
+         "highest": "8th Grade"
+      },
+      "students": "691",
+      "fte": "49.06",
+      "pupilTeacherRatio": "14.08"
+   },
+   {
+      "name": "Joseph L. Mccourt Ms",
+      "location": {
+         "state": {
+            "name": "Rhode Island",
+            "abbr": "RI "
+         }
+      },
+      "district": "Cumberland",
+      "level": "Middle",
+      "type": "1-Regular school",
+      "charterSchool": "2-No",
+      "magnentSchool": "†",
+      "locale": "21-Suburb: Large",
+      "grades": {
+         "lowest": "6th Grade",
+         "highest": "8th Grade"
+      },
+      "students": "460",
+      "fte": "45",
+      "pupilTeacherRatio": "10.22"
+   },
+   {
+      "name": "Kent Heights School",
+      "location": {
+         "state": {
+            "name": "Rhode Island",
+            "abbr": "RI "
+         }
+      },
+      "district": "East Providence",
+      "level": "Elementary",
+      "type": "1-Regular school",
+      "charterSchool": "2-No",
+      "magnentSchool": "†",
+      "locale": "21-Suburb: Large",
+      "grades": {
+         "lowest": "Kindergarten",
+         "highest": "5th Grade"
+      },
+      "students": "269",
+      "fte": "19.5",
+      "pupilTeacherRatio": "13.79"
+   },
+   {
+      "name": "Kevin K. Coleman School",
+      "location": {
+         "state": {
+            "name": "Rhode Island",
+            "abbr": "RI "
+         }
+      },
+      "district": "Woonsocket",
+      "level": "Elementary",
+      "type": "1-Regular school",
+      "charterSchool": "2-No",
+      "magnentSchool": "†",
+      "locale": "21-Suburb: Large",
+      "grades": {
+         "lowest": "Kindergarten",
+         "highest": "5th Grade"
+      },
+      "students": "286",
+      "fte": "18.39",
+      "pupilTeacherRatio": "15.55"
+   },
+   {
+      "name": "Kickemuit Middle School",
+      "location": {
+         "state": {
+            "name": "Rhode Island",
+            "abbr": "RI "
+         }
+      },
+      "district": "Bristol Warren",
+      "level": "Middle",
+      "type": "1-Regular school",
+      "charterSchool": "2-No",
+      "magnentSchool": "†",
+      "locale": "21-Suburb: Large",
+      "grades": {
+         "lowest": "6th Grade",
+         "highest": "8th Grade"
+      },
+      "students": "772",
+      "fte": "57.8",
+      "pupilTeacherRatio": "13.36"
+   },
+   {
+      "name": "Kingston Hill Academy",
+      "location": {
+         "state": {
+            "name": "Rhode Island",
+            "abbr": "RI "
+         }
+      },
+      "district": "Kingston Hill Academy",
+      "level": "Elementary",
+      "type": "1-Regular school",
+      "charterSchool": "1-Yes",
+      "magnentSchool": "†",
+      "locale": "41-Rural: Fringe",
+      "grades": {
+         "lowest": "Kindergarten",
+         "highest": "5th Grade"
+      },
+      "students": "240",
+      "fte": "33",
+      "pupilTeacherRatio": "7.27"
+   },
+   {
+      "name": "Leo A. Savoie School",
+      "location": {
+         "state": {
+            "name": "Rhode Island",
+            "abbr": "RI "
+         }
+      },
+      "district": "Woonsocket",
+      "level": "Elementary",
+      "type": "1-Regular school",
+      "charterSchool": "2-No",
+      "magnentSchool": "†",
+      "locale": "21-Suburb: Large",
+      "grades": {
+         "lowest": "Kindergarten",
+         "highest": "5th Grade"
+      },
+      "students": "383",
+      "fte": "22.8",
+      "pupilTeacherRatio": "16.8"
+   },
+   {
+      "name": "Leviton Dual Language School",
+      "location": {
+         "state": {
+            "name": "Rhode Island",
+            "abbr": "RI "
+         }
+      },
+      "district": "Providence",
+      "level": "Elementary",
+      "type": "1-Regular school",
+      "charterSchool": "2-No",
+      "magnentSchool": "†",
+      "locale": "12-City: Mid-size",
+      "grades": {
+         "lowest": "Kindergarten",
+         "highest": "5th Grade"
+      },
+      "students": "282",
+      "fte": "15.7",
+      "pupilTeacherRatio": "17.96"
+   },
+   {
+      "name": "Lillian Feinstein El. School",
+      "location": {
+         "state": {
+            "name": "Rhode Island",
+            "abbr": "RI "
+         }
+      },
+      "district": "Providence",
+      "level": "Elementary",
+      "type": "1-Regular school",
+      "charterSchool": "2-No",
+      "magnentSchool": "†",
+      "locale": "12-City: Mid-size",
+      "grades": {
+         "lowest": "Kindergarten",
+         "highest": "5th Grade"
+      },
+      "students": "444",
+      "fte": "25.4",
+      "pupilTeacherRatio": "17.48"
+   },
+   {
+      "name": "Lincoln Central Elem.",
+      "location": {
+         "state": {
+            "name": "Rhode Island",
+            "abbr": "RI "
+         }
+      },
+      "district": "Lincoln",
+      "level": "Elementary",
+      "type": "1-Regular school",
+      "charterSchool": "2-No",
+      "magnentSchool": "†",
+      "locale": "21-Suburb: Large",
+      "grades": {
+         "lowest": "Kindergarten",
+         "highest": "5th Grade"
+      },
+      "students": "393",
+      "fte": "25.7",
+      "pupilTeacherRatio": "15.29"
+   },
+   {
+      "name": "Lincoln Middle School",
+      "location": {
+         "state": {
+            "name": "Rhode Island",
+            "abbr": "RI "
+         }
+      },
+      "district": "Lincoln",
+      "level": "Middle",
+      "type": "1-Regular school",
+      "charterSchool": "2-No",
+      "magnentSchool": "†",
+      "locale": "21-Suburb: Large",
+      "grades": {
+         "lowest": "6th Grade",
+         "highest": "8th Grade"
+      },
+      "students": "767",
+      "fte": "46.3",
+      "pupilTeacherRatio": "16.57"
+   },
+   {
+      "name": "Lincoln Senior High School",
+      "location": {
+         "state": {
+            "name": "Rhode Island",
+            "abbr": "RI "
+         }
+      },
+      "district": "Lincoln",
+      "level": "High",
+      "type": "1-Regular school",
+      "charterSchool": "2-No",
+      "magnentSchool": "†",
+      "locale": "21-Suburb: Large",
+      "grades": {
+         "lowest": "9th Grade",
+         "highest": "12th Grade"
+      },
+      "students": "941",
+      "fte": "69",
+      "pupilTeacherRatio": "13.64"
+   },
+   {
+      "name": "Lippitt School",
+      "location": {
+         "state": {
+            "name": "Rhode Island",
+            "abbr": "RI "
+         }
+      },
+      "district": "Warwick",
+      "level": "Elementary",
+      "type": "1-Regular school",
+      "charterSchool": "2-No",
+      "magnentSchool": "†",
+      "locale": "13-City: Small",
+      "grades": {
+         "lowest": "Kindergarten",
+         "highest": "5th Grade"
+      },
+      "students": "248",
+      "fte": "23.1",
+      "pupilTeacherRatio": "10.74"
+   },
+   {
+      "name": "Lonsdale Elementary",
+      "location": {
+         "state": {
+            "name": "Rhode Island",
+            "abbr": "RI "
+         }
+      },
+      "district": "Lincoln",
+      "level": "Elementary",
+      "type": "1-Regular school",
+      "charterSchool": "2-No",
+      "magnentSchool": "†",
+      "locale": "21-Suburb: Large",
+      "grades": {
+         "lowest": "Kindergarten",
+         "highest": "5th Grade"
+      },
+      "students": "272",
+      "fte": "18.25",
+      "pupilTeacherRatio": "14.9"
+   },
+   {
+      "name": "Lyman B. Goff Middle School",
+      "location": {
+         "state": {
+            "name": "Rhode Island",
+            "abbr": "RI "
+         }
+      },
+      "district": "Pawtucket",
+      "level": "Middle",
+      "type": "1-Regular school",
+      "charterSchool": "2-No",
+      "magnentSchool": "†",
+      "locale": "21-Suburb: Large",
+      "grades": {
+         "lowest": "6th Grade",
+         "highest": "8th Grade"
+      },
+      "students": "741",
+      "fte": "48.81",
+      "pupilTeacherRatio": "15.18"
+   },
+   {
+      "name": "Maisie E. Quinn School",
+      "location": {
+         "state": {
+            "name": "RHODE ISLAND",
+            "abbr": "RI "
+         }
+      },
+      "district": "West Warwick",
+      "level": "Prekindergarten",
+      "type": "1-Regular school",
+      "charterSchool": "2-No",
+      "magnentSchool": "†",
+      "locale": "21-Suburb: Large",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "Prekindergarten"
+      },
+      "students": "68",
+      "fte": "6",
+      "pupilTeacherRatio": "11.33"
+   },
+   {
+      "name": "Martin Luther King El. School",
+      "location": {
+         "state": {
+            "name": "Rhode Island",
+            "abbr": "RI "
+         }
+      },
+      "district": "Providence",
+      "level": "Elementary",
+      "type": "1-Regular school",
+      "charterSchool": "2-No",
+      "magnentSchool": "†",
+      "locale": "12-City: Mid-size",
+      "grades": {
+         "lowest": "Kindergarten",
+         "highest": "5th Grade"
+      },
+      "students": "425",
+      "fte": "24.8",
+      "pupilTeacherRatio": "17.14"
+   },
+   {
+      "name": "Mary E. Fogarty El. School",
+      "location": {
+         "state": {
+            "name": "Rhode Island",
+            "abbr": "RI "
+         }
+      },
+      "district": "Providence",
+      "level": "Elementary",
+      "type": "1-Regular school",
+      "charterSchool": "2-No",
+      "magnentSchool": "†",
+      "locale": "12-City: Mid-size",
+      "grades": {
+         "lowest": "Kindergarten",
+         "highest": "5th Grade"
+      },
+      "students": "454",
+      "fte": "29.2",
+      "pupilTeacherRatio": "15.55"
+   },
+   {
+      "name": "Matunuck School",
+      "location": {
+         "state": {
+            "name": "Rhode Island",
+            "abbr": "RI "
+         }
+      },
+      "district": "South Kingstown",
+      "level": "Elementary",
+      "type": "1-Regular school",
+      "charterSchool": "2-No",
+      "magnentSchool": "†",
+      "locale": "41-Rural: Fringe",
+      "grades": {
+         "lowest": "Kindergarten",
+         "highest": "4th Grade"
+      },
+      "students": "178",
+      "fte": "14.1",
+      "pupilTeacherRatio": "12.62"
+   },
+   {
+      "name": "Meadowbrook Farms School",
+      "location": {
+         "state": {
+            "name": "Rhode Island",
+            "abbr": "RI "
+         }
+      },
+      "district": "East Greenwich",
+      "level": "Elementary",
+      "type": "1-Regular school",
+      "charterSchool": "2-No",
+      "magnentSchool": "†",
+      "locale": "21-Suburb: Large",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "2nd Grade"
+      },
+      "students": "310",
+      "fte": "20.85",
+      "pupilTeacherRatio": "14.87"
+   },
+   {
+      "name": "Melville School",
+      "location": {
+         "state": {
+            "name": "Rhode Island",
+            "abbr": "RI "
+         }
+      },
+      "district": "Portsmouth",
+      "level": "Elementary",
+      "type": "1-Regular school",
+      "charterSchool": "2-No",
+      "magnentSchool": "†",
+      "locale": "21-Suburb: Large",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "4th Grade"
+      },
+      "students": "351",
+      "fte": "24.8",
+      "pupilTeacherRatio": "14.15"
+   },
+   {
+      "name": "Metcalf School",
+      "location": {
+         "state": {
+            "name": "Rhode Island",
+            "abbr": "RI "
+         }
+      },
+      "district": "Exeter-West Greenwich",
+      "level": "Elementary",
+      "type": "1-Regular school",
+      "charterSchool": "2-No",
+      "magnentSchool": "†",
+      "locale": "41-Rural: Fringe",
+      "grades": {
+         "lowest": "2nd Grade",
+         "highest": "6th Grade"
+      },
+      "students": "617",
+      "fte": "42.55",
+      "pupilTeacherRatio": "14.5"
+   },
+   {
+      "name": "Metropolitan Career Tech Ctr",
+      "location": {
+         "state": {
+            "name": "Rhode Island",
+            "abbr": "RI "
+         }
+      },
+      "district": "Met Career and Tech",
+      "level": "High",
+      "type": "3-Vocational school",
+      "charterSchool": "2-No",
+      "magnentSchool": "†",
+      "locale": "12-City: Mid-size",
+      "grades": {
+         "lowest": "9th Grade",
+         "highest": "12th Grade"
+      },
+      "students": "781",
+      "fte": "63",
+      "pupilTeacherRatio": "12.4"
+   },
+   {
+      "name": "Middletown High School",
+      "location": {
+         "state": {
+            "name": "Rhode Island",
+            "abbr": "RI "
+         }
+      },
+      "district": "Middletown",
+      "level": "High",
+      "type": "1-Regular school",
+      "charterSchool": "2-No",
+      "magnentSchool": "†",
+      "locale": "21-Suburb: Large",
+      "grades": {
+         "lowest": "9th Grade",
+         "highest": "12th Grade"
+      },
+      "students": "590",
+      "fte": "53.2",
+      "pupilTeacherRatio": "11.09"
+   },
+   {
+      "name": "Mildred E. Lineham School",
+      "location": {
+         "state": {
+            "name": "Rhode Island",
+            "abbr": "RI "
+         }
+      },
+      "district": "Exeter-West Greenwich",
+      "level": "Prekindergarten",
+      "type": "1-Regular school",
+      "charterSchool": "2-No",
+      "magnentSchool": "†",
+      "locale": "41-Rural: Fringe",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "Prekindergarten"
+      },
+      "students": "68",
+      "fte": "3.05",
+      "pupilTeacherRatio": "22.3"
+   },
+   {
+      "name": "Mount Pleasant High",
+      "location": {
+         "state": {
+            "name": "Rhode Island",
+            "abbr": "RI "
+         }
+      },
+      "district": "Providence",
+      "level": "High",
+      "type": "1-Regular school",
+      "charterSchool": "2-No",
+      "magnentSchool": "†",
+      "locale": "12-City: Mid-size",
+      "grades": {
+         "lowest": "9th Grade",
+         "highest": "12th Grade"
+      },
+      "students": "894",
+      "fte": "70.2",
+      "pupilTeacherRatio": "12.74"
+   },
+   {
+      "name": "Mt. Hope High School",
+      "location": {
+         "state": {
+            "name": "Rhode Island",
+            "abbr": "RI "
+         }
+      },
+      "district": "Bristol Warren",
+      "level": "High",
+      "type": "1-Regular school",
+      "charterSchool": "2-No",
+      "magnentSchool": "†",
+      "locale": "21-Suburb: Large",
+      "grades": {
+         "lowest": "9th Grade",
+         "highest": "12th Grade"
+      },
+      "students": "937",
+      "fte": "65.8",
+      "pupilTeacherRatio": "14.24"
+   },
+   {
+      "name": "Myron J. Francis Elementary",
+      "location": {
+         "state": {
+            "name": "Rhode Island",
+            "abbr": "RI "
+         }
+      },
+      "district": "East Providence",
+      "level": "Elementary",
+      "type": "1-Regular school",
+      "charterSchool": "2-No",
+      "magnentSchool": "†",
+      "locale": "21-Suburb: Large",
+      "grades": {
+         "lowest": "Kindergarten",
+         "highest": "5th Grade"
+      },
+      "students": "410",
+      "fte": "28.2",
+      "pupilTeacherRatio": "14.54"
+   },
+   {
+      "name": "Narragansett Elementary",
+      "location": {
+         "state": {
+            "name": "Rhode Island",
+            "abbr": "RI "
+         }
+      },
+      "district": "Narragansett",
+      "level": "Elementary",
+      "type": "1-Regular school",
+      "charterSchool": "2-No",
+      "magnentSchool": "†",
+      "locale": "21-Suburb: Large",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "4th Grade"
+      },
+      "students": "447",
+      "fte": "31.6",
+      "pupilTeacherRatio": "14.15"
+   },
+   {
+      "name": "Narragansett High School",
+      "location": {
+         "state": {
+            "name": "Rhode Island",
+            "abbr": "RI "
+         }
+      },
+      "district": "Narragansett",
+      "level": "High",
+      "type": "1-Regular school",
+      "charterSchool": "2-No",
+      "magnentSchool": "†",
+      "locale": "21-Suburb: Large",
+      "grades": {
+         "lowest": "9th Grade",
+         "highest": "12th Grade"
+      },
+      "students": "454",
+      "fte": "36.3",
+      "pupilTeacherRatio": "12.51"
+   },
+   {
+      "name": "Narragansett Pier School",
+      "location": {
+         "state": {
+            "name": "Rhode Island",
+            "abbr": "RI "
+         }
+      },
+      "district": "Narragansett",
+      "level": "Middle",
+      "type": "1-Regular school",
+      "charterSchool": "2-No",
+      "magnentSchool": "†",
+      "locale": "21-Suburb: Large",
+      "grades": {
+         "lowest": "5th Grade",
+         "highest": "8th Grade"
+      },
+      "students": "366",
+      "fte": "24.2",
+      "pupilTeacherRatio": "15.12"
+   },
+   {
+      "name": "Nathan Bishop Middle",
+      "location": {
+         "state": {
+            "name": "Rhode Island",
+            "abbr": "RI "
+         }
+      },
+      "district": "Providence",
+      "level": "Middle",
+      "type": "1-Regular school",
+      "charterSchool": "2-No",
+      "magnentSchool": "†",
+      "locale": "12-City: Mid-size",
+      "grades": {
+         "lowest": "6th Grade",
+         "highest": "8th Grade"
+      },
+      "students": "695",
+      "fte": "51.3",
+      "pupilTeacherRatio": "13.55"
+   },
+   {
+      "name": "Nathanael Greene Middle",
+      "location": {
+         "state": {
+            "name": "Rhode Island",
+            "abbr": "RI "
+         }
+      },
+      "district": "Providence",
+      "level": "Middle",
+      "type": "1-Regular school",
+      "charterSchool": "2-No",
+      "magnentSchool": "†",
+      "locale": "12-City: Mid-size",
+      "grades": {
+         "lowest": "6th Grade",
+         "highest": "8th Grade"
+      },
+      "students": "988",
+      "fte": "59.1",
+      "pupilTeacherRatio": "16.72"
+   },
+   {
+      "name": "Nathanael Greene School",
+      "location": {
+         "state": {
+            "name": "Rhode Island",
+            "abbr": "RI "
+         }
+      },
+      "district": "Pawtucket",
+      "level": "Elementary",
+      "type": "1-Regular school",
+      "charterSchool": "2-No",
+      "magnentSchool": "†",
+      "locale": "21-Suburb: Large",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "5th Grade"
+      },
+      "students": "427",
+      "fte": "29.86",
+      "pupilTeacherRatio": "14.3"
+   },
+   {
+      "name": "Nayatt School",
+      "location": {
+         "state": {
+            "name": "Rhode Island",
+            "abbr": "RI "
+         }
+      },
+      "district": "Barrington",
+      "level": "Elementary",
+      "type": "1-Regular school",
+      "charterSchool": "2-No",
+      "magnentSchool": "†",
+      "locale": "21-Suburb: Large",
+      "grades": {
+         "lowest": "Kindergarten",
+         "highest": "3rd Grade"
+      },
+      "students": "327",
+      "fte": "19.83",
+      "pupilTeacherRatio": "16.49"
+   },
+   {
+      "name": "Nel/cps Construction Career",
+      "location": {
+         "state": {
+            "name": "Rhode Island",
+            "abbr": "RI "
+         }
+      },
+      "district": "Cranston",
+      "level": "High",
+      "type": "1-Regular school",
+      "charterSchool": "1-Yes",
+      "magnentSchool": "†",
+      "locale": "21-Suburb: Large",
+      "grades": {
+         "lowest": "9th Grade",
+         "highest": "12th Grade"
+      },
+      "students": "168",
+      "fte": "16.8",
+      "pupilTeacherRatio": "10"
+   },
+   {
+      "name": "Newport Area Career Tech Ctr",
+      "location": {
+         "state": {
+            "name": "Rhode Island",
+            "abbr": "RI "
+         }
+      },
+      "district": "Newport",
+      "level": "High",
+      "type": "3-Vocational school",
+      "charterSchool": "2-No",
+      "magnentSchool": "†",
+      "locale": "21-Suburb: Large",
+      "grades": {
+         "lowest": "9th Grade",
+         "highest": "12th Grade"
+      },
+      "students": "0",
+      "fte": "5",
+      "pupilTeacherRatio": "0.00"
+   },
+   {
+      "name": "Nicholas A. Ferri Middle",
+      "location": {
+         "state": {
+            "name": "Rhode Island",
+            "abbr": "RI "
+         }
+      },
+      "district": "Johnston",
+      "level": "Middle",
+      "type": "1-Regular school",
+      "charterSchool": "2-No",
+      "magnentSchool": "†",
+      "locale": "21-Suburb: Large",
+      "grades": {
+         "lowest": "6th Grade",
+         "highest": "8th Grade"
+      },
+      "students": "797",
+      "fte": "52",
+      "pupilTeacherRatio": "15.33"
+   },
+   {
+      "name": "North Cumberland Middle",
+      "location": {
+         "state": {
+            "name": "Rhode Island",
+            "abbr": "RI "
+         }
+      },
+      "district": "Cumberland",
+      "level": "Middle",
+      "type": "1-Regular school",
+      "charterSchool": "2-No",
+      "magnentSchool": "†",
+      "locale": "41-Rural: Fringe",
+      "grades": {
+         "lowest": "6th Grade",
+         "highest": "8th Grade"
+      },
+      "students": "605",
+      "fte": "46.6",
+      "pupilTeacherRatio": "12.98"
+   },
+   {
+      "name": "North Kingstown Sr. High",
+      "location": {
+         "state": {
+            "name": "Rhode Island",
+            "abbr": "RI "
+         }
+      },
+      "district": "North Kingstown",
+      "level": "High",
+      "type": "1-Regular school",
+      "charterSchool": "2-No",
+      "magnentSchool": "†",
+      "locale": "21-Suburb: Large",
+      "grades": {
+         "lowest": "9th Grade",
+         "highest": "12th Grade"
+      },
+      "students": "1486",
+      "fte": "104.5",
+      "pupilTeacherRatio": "14.22"
+   },
+   {
+      "name": "North Providence High",
+      "location": {
+         "state": {
+            "name": "Rhode Island",
+            "abbr": "RI "
+         }
+      },
+      "district": "North Providence",
+      "level": "High",
+      "type": "1-Regular school",
+      "charterSchool": "2-No",
+      "magnentSchool": "†",
+      "locale": "21-Suburb: Large",
+      "grades": {
+         "lowest": "9th Grade",
+         "highest": "12th Grade"
+      },
+      "students": "1120",
+      "fte": "90",
+      "pupilTeacherRatio": "12.44"
+   },
+   {
+      "name": "North Scituate School",
+      "location": {
+         "state": {
+            "name": "Rhode Island",
+            "abbr": "RI "
+         }
+      },
+      "district": "Scituate",
+      "level": "Elementary",
+      "type": "1-Regular school",
+      "charterSchool": "2-No",
+      "magnentSchool": "†",
+      "locale": "21-Suburb: Large",
+      "grades": {
+         "lowest": "Kindergarten",
+         "highest": "5th Grade"
+      },
+      "students": "216",
+      "fte": "15.68",
+      "pupilTeacherRatio": "13.78"
+   },
+   {
+      "name": "North Smitfield Hs",
+      "location": {
+         "state": {
+            "name": "Rhode Island",
+            "abbr": "RI "
+         }
+      },
+      "district": "North Smithfield",
+      "level": "High",
+      "type": "1-Regular school",
+      "charterSchool": "2-No",
+      "magnentSchool": "†",
+      "locale": "21-Suburb: Large",
+      "grades": {
+         "lowest": "9th Grade",
+         "highest": "12th Grade"
+      },
+      "students": "503",
+      "fte": "43",
+      "pupilTeacherRatio": "11.7"
+   },
+   {
+      "name": "North Smithfield Elementary",
+      "location": {
+         "state": {
+            "name": "Rhode Island",
+            "abbr": "RI "
+         }
+      },
+      "district": "North Smithfield",
+      "level": "Elementary",
+      "type": "1-Regular school",
+      "charterSchool": "2-No",
+      "magnentSchool": "†",
+      "locale": "41-Rural: Fringe",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "4th Grade"
+      },
+      "students": "586",
+      "fte": "38",
+      "pupilTeacherRatio": "15.42"
+   },
+   {
+      "name": "North Smithfield Ms",
+      "location": {
+         "state": {
+            "name": "Rhode Island",
+            "abbr": "RI "
+         }
+      },
+      "district": "North Smithfield",
+      "level": "Middle",
+      "type": "1-Regular school",
+      "charterSchool": "2-No",
+      "magnentSchool": "†",
+      "locale": "21-Suburb: Large",
+      "grades": {
+         "lowest": "5th Grade",
+         "highest": "8th Grade"
+      },
+      "students": "556",
+      "fte": "42.55",
+      "pupilTeacherRatio": "13.07"
+   },
+   {
+      "name": "Northern Lincoln Elem.",
+      "location": {
+         "state": {
+            "name": "Rhode Island",
+            "abbr": "RI "
+         }
+      },
+      "district": "Lincoln",
+      "level": "Elementary",
+      "type": "1-Regular school",
+      "charterSchool": "2-No",
+      "magnentSchool": "†",
+      "locale": "21-Suburb: Large",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "5th Grade"
+      },
+      "students": "527",
+      "fte": "35.55",
+      "pupilTeacherRatio": "14.82"
+   },
+   {
+      "name": "Norwood School",
+      "location": {
+         "state": {
+            "name": "Rhode Island",
+            "abbr": "RI "
+         }
+      },
+      "district": "Warwick",
+      "level": "Elementary",
+      "type": "1-Regular school",
+      "charterSchool": "2-No",
+      "magnentSchool": "†",
+      "locale": "13-City: Small",
+      "grades": {
+         "lowest": "Kindergarten",
+         "highest": "5th Grade"
+      },
+      "students": "263",
+      "fte": "21.1",
+      "pupilTeacherRatio": "12.46"
+   },
+   {
+      "name": "Oak Lawn School",
+      "location": {
+         "state": {
+            "name": "Rhode Island",
+            "abbr": "RI "
+         }
+      },
+      "district": "Cranston",
+      "level": "Elementary",
+      "type": "1-Regular school",
+      "charterSchool": "2-No",
+      "magnentSchool": "†",
+      "locale": "21-Suburb: Large",
+      "grades": {
+         "lowest": "Kindergarten",
+         "highest": "5th Grade"
+      },
+      "students": "233",
+      "fte": "14.9",
+      "pupilTeacherRatio": "15.64"
+   },
+   {
+      "name": "Oakland Beach School",
+      "location": {
+         "state": {
+            "name": "Rhode Island",
+            "abbr": "RI "
+         }
+      },
+      "district": "Warwick",
+      "level": "Elementary",
+      "type": "1-Regular school",
+      "charterSchool": "2-No",
+      "magnentSchool": "†",
+      "locale": "13-City: Small",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "5th Grade"
+      },
+      "students": "393",
+      "fte": "29.7",
+      "pupilTeacherRatio": "13.23"
+   },
+   {
+      "name": "Old County Road School",
+      "location": {
+         "state": {
+            "name": "Rhode Island",
+            "abbr": "RI "
+         }
+      },
+      "district": "Smithfield",
+      "level": "Elementary",
+      "type": "1-Regular school",
+      "charterSchool": "2-No",
+      "magnentSchool": "†",
+      "locale": "21-Suburb: Large",
+      "grades": {
+         "lowest": "Kindergarten",
+         "highest": "5th Grade"
+      },
+      "students": "228",
+      "fte": "19.15",
+      "pupilTeacherRatio": "11.91"
+   },
+   {
+      "name": "Orchard Farms El. School",
+      "location": {
+         "state": {
+            "name": "Rhode Island",
+            "abbr": "RI "
+         }
+      },
+      "district": "Cranston",
+      "level": "Elementary",
+      "type": "1-Regular school",
+      "charterSchool": "2-No",
+      "magnentSchool": "†",
+      "locale": "21-Suburb: Large",
+      "grades": {
+         "lowest": "Kindergarten",
+         "highest": "5th Grade"
+      },
+      "students": "452",
+      "fte": "33",
+      "pupilTeacherRatio": "13.7"
+   },
+   {
+      "name": "Orlo Avenue School",
+      "location": {
+         "state": {
+            "name": "Rhode Island",
+            "abbr": "RI "
+         }
+      },
+      "district": "East Providence",
+      "level": "Elementary",
+      "type": "1-Regular school",
+      "charterSchool": "2-No",
+      "magnentSchool": "†",
+      "locale": "21-Suburb: Large",
+      "grades": {
+         "lowest": "Kindergarten",
+         "highest": "5th Grade"
+      },
+      "students": "253",
+      "fte": "20",
+      "pupilTeacherRatio": "12.65"
+   },
+   {
+      "name": "Park School",
+      "location": {
+         "state": {
+            "name": "Rhode Island",
+            "abbr": "RI "
+         }
+      },
+      "district": "Warwick",
+      "level": "Elementary",
+      "type": "1-Regular school",
+      "charterSchool": "2-No",
+      "magnentSchool": "†",
+      "locale": "13-City: Small",
+      "grades": {
+         "lowest": "Kindergarten",
+         "highest": "5th Grade"
+      },
+      "students": "230",
+      "fte": "18.4",
+      "pupilTeacherRatio": "12.5"
+   },
+   {
+      "name": "Park View Middle School",
+      "location": {
+         "state": {
+            "name": "Rhode Island",
+            "abbr": "RI "
+         }
+      },
+      "district": "Cranston",
+      "level": "Middle",
+      "type": "1-Regular school",
+      "charterSchool": "2-No",
+      "magnentSchool": "†",
+      "locale": "21-Suburb: Large",
+      "grades": {
+         "lowest": "6th Grade",
+         "highest": "8th Grade"
+      },
+      "students": "713",
+      "fte": "58.12",
+      "pupilTeacherRatio": "12.27"
+   },
+   {
+      "name": "Paul Cuffee Lower School",
+      "location": {
+         "state": {
+            "name": "RHODE ISLAND",
+            "abbr": "RI "
+         }
+      },
+      "district": "Paul Cuffee Charter Sch",
+      "level": "Elementary",
+      "type": "1-Regular school",
+      "charterSchool": "1-Yes",
+      "magnentSchool": "†",
+      "locale": "12-City: Mid-size",
+      "grades": {
+         "lowest": "Kindergarten",
+         "highest": "5th Grade"
+      },
+      "students": "362",
+      "fte": "30.1",
+      "pupilTeacherRatio": "12.03"
+   },
+   {
+      "name": "Paul Cuffee Middle School",
+      "location": {
+         "state": {
+            "name": "RHODE ISLAND",
+            "abbr": "RI "
+         }
+      },
+      "district": "Paul Cuffee Charter Sch",
+      "level": "Middle",
+      "type": "1-Regular school",
+      "charterSchool": "1-Yes",
+      "magnentSchool": "†",
+      "locale": "12-City: Mid-size",
+      "grades": {
+         "lowest": "6th Grade",
+         "highest": "8th Grade"
+      },
+      "students": "191",
+      "fte": "16.6",
+      "pupilTeacherRatio": "11.51"
+   },
+   {
+      "name": "Paul Cuffee Upper School",
+      "location": {
+         "state": {
+            "name": "RHODE ISLAND",
+            "abbr": "RI "
+         }
+      },
+      "district": "Paul Cuffee Charter Sch",
+      "level": "High",
+      "type": "1-Regular school",
+      "charterSchool": "1-Yes",
+      "magnentSchool": "†",
+      "locale": "12-City: Mid-size",
+      "grades": {
+         "lowest": "9th Grade",
+         "highest": "12th Grade"
+      },
+      "students": "264",
+      "fte": "23",
+      "pupilTeacherRatio": "11.48"
+   },
+   {
+      "name": "Peace Dale School",
+      "location": {
+         "state": {
+            "name": "Rhode Island",
+            "abbr": "RI "
+         }
+      },
+      "district": "South Kingstown",
+      "level": "Elementary",
+      "type": "1-Regular school",
+      "charterSchool": "2-No",
+      "magnentSchool": "†",
+      "locale": "21-Suburb: Large",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "4th Grade"
+      },
+      "students": "435",
+      "fte": "27.5",
+      "pupilTeacherRatio": "15.82"
+   },
+   {
+      "name": "Pilgrim High School",
+      "location": {
+         "state": {
+            "name": "Rhode Island",
+            "abbr": "RI "
+         }
+      },
+      "district": "Warwick",
+      "level": "High",
+      "type": "1-Regular school",
+      "charterSchool": "2-No",
+      "magnentSchool": "†",
+      "locale": "13-City: Small",
+      "grades": {
+         "lowest": "9th Grade",
+         "highest": "12th Grade"
+      },
+      "students": "1314",
+      "fte": "121.5",
+      "pupilTeacherRatio": "10.81"
+   },
+   {
+      "name": "Pleasant View School",
+      "location": {
+         "state": {
+            "name": "Rhode Island",
+            "abbr": "RI "
+         }
+      },
+      "district": "Providence",
+      "level": "Elementary",
+      "type": "1-Regular school",
+      "charterSchool": "2-No",
+      "magnentSchool": "†",
+      "locale": "12-City: Mid-size",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "5th Grade"
+      },
+      "students": "421",
+      "fte": "34.5",
+      "pupilTeacherRatio": "12.2"
+   },
+   {
+      "name": "Pocasset School",
+      "location": {
+         "state": {
+            "name": "Rhode Island",
+            "abbr": "RI "
+         }
+      },
+      "district": "Tiverton",
+      "level": "Elementary",
+      "type": "1-Regular school",
+      "charterSchool": "2-No",
+      "magnentSchool": "†",
+      "locale": "21-Suburb: Large",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "4th Grade"
+      },
+      "students": "243",
+      "fte": "18.73",
+      "pupilTeacherRatio": "12.97"
+   },
+   {
+      "name": "Ponaganset High School",
+      "location": {
+         "state": {
+            "name": "Rhode Island",
+            "abbr": "RI "
+         }
+      },
+      "district": "Foster-Glocester",
+      "level": "High",
+      "type": "1-Regular school",
+      "charterSchool": "2-No",
+      "magnentSchool": "†",
+      "locale": "41-Rural: Fringe",
+      "grades": {
+         "lowest": "9th Grade",
+         "highest": "12th Grade"
+      },
+      "students": "859",
+      "fte": "67.2",
+      "pupilTeacherRatio": "12.78"
+   },
+   {
+      "name": "Ponaganset Middle School",
+      "location": {
+         "state": {
+            "name": "Rhode Island",
+            "abbr": "RI "
+         }
+      },
+      "district": "Foster-Glocester",
+      "level": "Middle",
+      "type": "1-Regular school",
+      "charterSchool": "2-No",
+      "magnentSchool": "†",
+      "locale": "41-Rural: Fringe",
+      "grades": {
+         "lowest": "6th Grade",
+         "highest": "8th Grade"
+      },
+      "students": "495",
+      "fte": "41.4",
+      "pupilTeacherRatio": "11.96"
+   },
+   {
+      "name": "Portsmouth High School",
+      "location": {
+         "state": {
+            "name": "Rhode Island",
+            "abbr": "RI "
+         }
+      },
+      "district": "Portsmouth",
+      "level": "High",
+      "type": "1-Regular school",
+      "charterSchool": "2-No",
+      "magnentSchool": "†",
+      "locale": "21-Suburb: Large",
+      "grades": {
+         "lowest": "9th Grade",
+         "highest": "12th Grade"
+      },
+      "students": "921",
+      "fte": "73",
+      "pupilTeacherRatio": "12.62"
+   },
+   {
+      "name": "Portsmouth Middle School",
+      "location": {
+         "state": {
+            "name": "Rhode Island",
+            "abbr": "RI "
+         }
+      },
+      "district": "Portsmouth",
+      "level": "Middle",
+      "type": "1-Regular school",
+      "charterSchool": "2-No",
+      "magnentSchool": "†",
+      "locale": "21-Suburb: Large",
+      "grades": {
+         "lowest": "5th Grade",
+         "highest": "8th Grade"
+      },
+      "students": "694",
+      "fte": "55.3",
+      "pupilTeacherRatio": "12.55"
+   },
+   {
+      "name": "Pothier-Citizens Elem Campus",
+      "location": {
+         "state": {
+            "name": "RHODE ISLAND",
+            "abbr": "RI "
+         }
+      },
+      "district": "Woonsocket",
+      "level": "Elementary",
+      "type": "1-Regular school",
+      "charterSchool": "2-No",
+      "magnentSchool": "†",
+      "locale": "21-Suburb: Large",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "5th Grade"
+      },
+      "students": "802",
+      "fte": "55.6",
+      "pupilTeacherRatio": "14.42"
+   },
+   {
+      "name": "Potter-Burns School",
+      "location": {
+         "state": {
+            "name": "Rhode Island",
+            "abbr": "RI "
+         }
+      },
+      "district": "Pawtucket",
+      "level": "Elementary",
+      "type": "1-Regular school",
+      "charterSchool": "2-No",
+      "magnentSchool": "†",
+      "locale": "21-Suburb: Large",
+      "grades": {
+         "lowest": "Kindergarten",
+         "highest": "5th Grade"
+      },
+      "students": "455",
+      "fte": "29.76",
+      "pupilTeacherRatio": "15.29"
+   },
+   {
+      "name": "Primrose Hill School",
+      "location": {
+         "state": {
+            "name": "Rhode Island",
+            "abbr": "RI "
+         }
+      },
+      "district": "Barrington",
+      "level": "Elementary",
+      "type": "1-Regular school",
+      "charterSchool": "2-No",
+      "magnentSchool": "†",
+      "locale": "21-Suburb: Large",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "3rd Grade"
+      },
+      "students": "318",
+      "fte": "20.35",
+      "pupilTeacherRatio": "15.63"
+   },
+   {
+      "name": "Providence Career Technical",
+      "location": {
+         "state": {
+            "name": "Rhode Island",
+            "abbr": "RI "
+         }
+      },
+      "district": "Providence",
+      "level": "High",
+      "type": "3-Vocational school",
+      "charterSchool": "2-No",
+      "magnentSchool": "†",
+      "locale": "12-City: Mid-size",
+      "grades": {
+         "lowest": "9th Grade",
+         "highest": "12th Grade"
+      },
+      "students": "639",
+      "fte": "68",
+      "pupilTeacherRatio": "9.4"
+   },
+   {
+      "name": "R.i. School for the Deaf",
+      "location": {
+         "state": {
+            "name": "Rhode Island",
+            "abbr": "RI "
+         }
+      },
+      "district": "R.i. Sch for the Deaf",
+      "level": "Other",
+      "type": "2-Special education school",
+      "charterSchool": "2-No",
+      "magnentSchool": "†",
+      "locale": "12-City: Mid-size",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "76",
+      "fte": "21.45",
+      "pupilTeacherRatio": "3.54"
+   },
+   {
+      "name": "Raices Dual Language Academy",
+      "location": {
+         "state": {
+            "name": "RHODE ISLAND",
+            "abbr": "RI "
+         }
+      },
+      "district": "Central Falls",
+      "level": "Elementary",
+      "type": "1-Regular school",
+      "charterSchool": "2-No",
+      "magnentSchool": "†",
+      "locale": "21-Suburb: Large",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "6th Grade"
+      },
+      "students": "231",
+      "fte": "11",
+      "pupilTeacherRatio": "21"
+   },
+   {
+      "name": "Ranger School",
+      "location": {
+         "state": {
+            "name": "Rhode Island",
+            "abbr": "RI "
+         }
+      },
+      "district": "Tiverton",
+      "level": "Elementary",
+      "type": "1-Regular school",
+      "charterSchool": "2-No",
+      "magnentSchool": "†",
+      "locale": "41-Rural: Fringe",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "4th Grade"
+      },
+      "students": "240",
+      "fte": "16.63",
+      "pupilTeacherRatio": "14.43"
+   },
+   {
+      "name": "Raymond Laperche School",
+      "location": {
+         "state": {
+            "name": "Rhode Island",
+            "abbr": "RI "
+         }
+      },
+      "district": "Smithfield",
+      "level": "Elementary",
+      "type": "1-Regular school",
+      "charterSchool": "2-No",
+      "magnentSchool": "†",
+      "locale": "21-Suburb: Large",
+      "grades": {
+         "lowest": "Kindergarten",
+         "highest": "5th Grade"
+      },
+      "students": "242",
+      "fte": "22.5",
+      "pupilTeacherRatio": "10.76"
+   },
+   {
+      "name": "Reservoir Avenue School",
+      "location": {
+         "state": {
+            "name": "Rhode Island",
+            "abbr": "RI "
+         }
+      },
+      "district": "Providence",
+      "level": "Elementary",
+      "type": "1-Regular school",
+      "charterSchool": "2-No",
+      "magnentSchool": "†",
+      "locale": "12-City: Mid-size",
+      "grades": {
+         "lowest": "Kindergarten",
+         "highest": "5th Grade"
+      },
+      "students": "280",
+      "fte": "17",
+      "pupilTeacherRatio": "16.47"
+   },
+   {
+      "name": "Richmond Elementary School",
+      "location": {
+         "state": {
+            "name": "Rhode Island",
+            "abbr": "RI "
+         }
+      },
+      "district": "Chariho",
+      "level": "Elementary",
+      "type": "1-Regular school",
+      "charterSchool": "2-No",
+      "magnentSchool": "†",
+      "locale": "41-Rural: Fringe",
+      "grades": {
+         "lowest": "Kindergarten",
+         "highest": "4th Grade"
+      },
+      "students": "390",
+      "fte": "32.8",
+      "pupilTeacherRatio": "11.89"
+   },
+   {
+      "name": "Rini Middle College",
+      "location": {
+         "state": {
+            "name": "Rhode Island",
+            "abbr": "RI "
+         }
+      },
+      "district": "Rhode Island Nurses Institute Middle College",
+      "level": "High",
+      "type": "1-Regular school",
+      "charterSchool": "1-Yes",
+      "magnentSchool": "†",
+      "locale": "12-City: Mid-size",
+      "grades": {
+         "lowest": "9th Grade",
+         "highest": "12th Grade"
+      },
+      "students": "270",
+      "fte": "21",
+      "pupilTeacherRatio": "12.86"
+   },
+   {
+      "name": "Rise Prep Mayoral Academy",
+      "location": {
+         "state": {
+            "name": "RHODE ISLAND",
+            "abbr": "RI "
+         }
+      },
+      "district": "Rise Prep Mayoral Academy",
+      "level": "Elementary",
+      "type": "1-Regular school",
+      "charterSchool": "1-Yes",
+      "magnentSchool": "†",
+      "locale": "21-Suburb: Large",
+      "grades": {
+         "lowest": "Kindergarten",
+         "highest": "4th Grade"
+      },
+      "students": "277",
+      "fte": "18",
+      "pupilTeacherRatio": "15.39"
+   },
+   {
+      "name": "Riverside Middle School",
+      "location": {
+         "state": {
+            "name": "Rhode Island",
+            "abbr": "RI "
+         }
+      },
+      "district": "East Providence",
+      "level": "Middle",
+      "type": "1-Regular school",
+      "charterSchool": "2-No",
+      "magnentSchool": "†",
+      "locale": "21-Suburb: Large",
+      "grades": {
+         "lowest": "6th Grade",
+         "highest": "8th Grade"
+      },
+      "students": "585",
+      "fte": "51",
+      "pupilTeacherRatio": "11.47"
+   },
+   {
+      "name": "Robert F. Kennedy El. School",
+      "location": {
+         "state": {
+            "name": "Rhode Island",
+            "abbr": "RI "
+         }
+      },
+      "district": "Providence",
+      "level": "Elementary",
+      "type": "1-Regular school",
+      "charterSchool": "2-No",
+      "magnentSchool": "†",
+      "locale": "12-City: Mid-size",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "5th Grade"
+      },
+      "students": "479",
+      "fte": "24.9",
+      "pupilTeacherRatio": "19.24"
+   },
+   {
+      "name": "Robert L. Bailey Iv",
+      "location": {
+         "state": {
+            "name": "Rhode Island",
+            "abbr": "RI "
+         }
+      },
+      "district": "Providence",
+      "level": "Elementary",
+      "type": "1-Regular school",
+      "charterSchool": "2-No",
+      "magnentSchool": "†",
+      "locale": "12-City: Mid-size",
+      "grades": {
+         "lowest": "Kindergarten",
+         "highest": "5th Grade"
+      },
+      "students": "430",
+      "fte": "27.8",
+      "pupilTeacherRatio": "15.47"
+   },
+   {
+      "name": "Robertson School",
+      "location": {
+         "state": {
+            "name": "Rhode Island",
+            "abbr": "RI "
+         }
+      },
+      "district": "Warwick",
+      "level": "Elementary",
+      "type": "1-Regular school",
+      "charterSchool": "2-No",
+      "magnentSchool": "†",
+      "locale": "13-City: Small",
+      "grades": {
+         "lowest": "Kindergarten",
+         "highest": "5th Grade"
+      },
+      "students": "297",
+      "fte": "16.7",
+      "pupilTeacherRatio": "17.78"
+   },
+   {
+      "name": "Rockwell School",
+      "location": {
+         "state": {
+            "name": "Rhode Island",
+            "abbr": "RI "
+         }
+      },
+      "district": "Bristol Warren",
+      "level": "Elementary",
+      "type": "1-Regular school",
+      "charterSchool": "2-No",
+      "magnentSchool": "†",
+      "locale": "21-Suburb: Large",
+      "grades": {
+         "lowest": "Kindergarten",
+         "highest": "5th Grade"
+      },
+      "students": "268",
+      "fte": "16",
+      "pupilTeacherRatio": "16.75"
+   },
+   {
+      "name": "Roger Williams Middle",
+      "location": {
+         "state": {
+            "name": "Rhode Island",
+            "abbr": "RI "
+         }
+      },
+      "district": "Providence",
+      "level": "Middle",
+      "type": "1-Regular school",
+      "charterSchool": "2-No",
+      "magnentSchool": "†",
+      "locale": "12-City: Mid-size",
+      "grades": {
+         "lowest": "6th Grade",
+         "highest": "8th Grade"
+      },
+      "students": "787",
+      "fte": "56",
+      "pupilTeacherRatio": "14.05"
+   },
+   {
+      "name": "Rogers High School",
+      "location": {
+         "state": {
+            "name": "Rhode Island",
+            "abbr": "RI "
+         }
+      },
+      "district": "Newport",
+      "level": "High",
+      "type": "1-Regular school",
+      "charterSchool": "2-No",
+      "magnentSchool": "†",
+      "locale": "21-Suburb: Large",
+      "grades": {
+         "lowest": "9th Grade",
+         "highest": "12th Grade"
+      },
+      "students": "667",
+      "fte": "49.25",
+      "pupilTeacherRatio": "13.54"
+   },
+   {
+      "name": "Samuel Slater Middle School",
+      "location": {
+         "state": {
+            "name": "Rhode Island",
+            "abbr": "RI "
+         }
+      },
+      "district": "Pawtucket",
+      "level": "Middle",
+      "type": "1-Regular school",
+      "charterSchool": "2-No",
+      "magnentSchool": "†",
+      "locale": "21-Suburb: Large",
+      "grades": {
+         "lowest": "6th Grade",
+         "highest": "8th Grade"
+      },
+      "students": "801",
+      "fte": "48.56",
+      "pupilTeacherRatio": "16.5"
+   },
+   {
+      "name": "Sarah Dyer Barnes School",
+      "location": {
+         "state": {
+            "name": "Rhode Island",
+            "abbr": "RI "
+         }
+      },
+      "district": "Johnston",
+      "level": "Elementary",
+      "type": "1-Regular school",
+      "charterSchool": "2-No",
+      "magnentSchool": "†",
+      "locale": "21-Suburb: Large",
+      "grades": {
+         "lowest": "Kindergarten",
+         "highest": "5th Grade"
+      },
+      "students": "298",
+      "fte": "24.84",
+      "pupilTeacherRatio": "12"
+   },
+   {
+      "name": "Saylesville Elementary",
+      "location": {
+         "state": {
+            "name": "Rhode Island",
+            "abbr": "RI "
+         }
+      },
+      "district": "Lincoln",
+      "level": "Elementary",
+      "type": "1-Regular school",
+      "charterSchool": "2-No",
+      "magnentSchool": "†",
+      "locale": "21-Suburb: Large",
+      "grades": {
+         "lowest": "Kindergarten",
+         "highest": "5th Grade"
+      },
+      "students": "291",
+      "fte": "18.3",
+      "pupilTeacherRatio": "15.9"
+   },
+   {
+      "name": "Scituate High School",
+      "location": {
+         "state": {
+            "name": "Rhode Island",
+            "abbr": "RI "
+         }
+      },
+      "district": "Scituate",
+      "level": "High",
+      "type": "1-Regular school",
+      "charterSchool": "2-No",
+      "magnentSchool": "†",
+      "locale": "41-Rural: Fringe",
+      "grades": {
+         "lowest": "9th Grade",
+         "highest": "12th Grade"
+      },
+      "students": "401",
+      "fte": "34.9",
+      "pupilTeacherRatio": "11.49"
+   },
+   {
+      "name": "Scituate Middle School",
+      "location": {
+         "state": {
+            "name": "Rhode Island",
+            "abbr": "RI "
+         }
+      },
+      "district": "Scituate",
+      "level": "Middle",
+      "type": "1-Regular school",
+      "charterSchool": "2-No",
+      "magnentSchool": "†",
+      "locale": "41-Rural: Fringe",
+      "grades": {
+         "lowest": "6th Grade",
+         "highest": "8th Grade"
+      },
+      "students": "293",
+      "fte": "25.5",
+      "pupilTeacherRatio": "11.49"
+   },
+   {
+      "name": "Scott School",
+      "location": {
+         "state": {
+            "name": "Rhode Island",
+            "abbr": "RI "
+         }
+      },
+      "district": "Warwick",
+      "level": "Elementary",
+      "type": "1-Regular school",
+      "charterSchool": "2-No",
+      "magnentSchool": "†",
+      "locale": "13-City: Small",
+      "grades": {
+         "lowest": "Kindergarten",
+         "highest": "5th Grade"
+      },
+      "students": "271",
+      "fte": "16.8",
+      "pupilTeacherRatio": "16.13"
+   },
+   {
+      "name": "Segue Inst for Learning",
+      "location": {
+         "state": {
+            "name": "Rhode Island",
+            "abbr": "RI "
+         }
+      },
+      "district": "Segue Institute for Learning",
+      "level": "Middle",
+      "type": "1-Regular school",
+      "charterSchool": "1-Yes",
+      "magnentSchool": "†",
+      "locale": "21-Suburb: Large",
+      "grades": {
+         "lowest": "4th Grade",
+         "highest": "8th Grade"
+      },
+      "students": "236",
+      "fte": "22.5",
+      "pupilTeacherRatio": "10.49"
+   },
+   {
+      "name": "Sheila Skip Nowell (Capital)",
+      "location": {
+         "state": {
+            "name": "Rhode Island",
+            "abbr": "RI "
+         }
+      },
+      "district": "Sheila Skip Nowell Leadership Academy",
+      "level": "High",
+      "type": "1-Regular school",
+      "charterSchool": "1-Yes",
+      "magnentSchool": "†",
+      "locale": "12-City: Mid-size",
+      "grades": {
+         "lowest": "9th Grade",
+         "highest": "12th Grade"
+      },
+      "students": "79",
+      "fte": "6",
+      "pupilTeacherRatio": "13.17"
+   },
+   {
+      "name": "Sheila Skip Nowell (Central)",
+      "location": {
+         "state": {
+            "name": "Rhode Island",
+            "abbr": "RI "
+         }
+      },
+      "district": "Sheila Skip Nowell Leadership Academy",
+      "level": "High",
+      "type": "1-Regular school",
+      "charterSchool": "1-Yes",
+      "magnentSchool": "†",
+      "locale": "21-Suburb: Large",
+      "grades": {
+         "lowest": "11th Grade",
+         "highest": "12th Grade"
+      },
+      "students": "80",
+      "fte": "2",
+      "pupilTeacherRatio": "40"
+   },
+   {
+      "name": "Sherman School",
+      "location": {
+         "state": {
+            "name": "Rhode Island",
+            "abbr": "RI "
+         }
+      },
+      "district": "Warwick",
+      "level": "Elementary",
+      "type": "1-Regular school",
+      "charterSchool": "2-No",
+      "magnentSchool": "†",
+      "locale": "13-City: Small",
+      "grades": {
+         "lowest": "Kindergarten",
+         "highest": "5th Grade"
+      },
+      "students": "323",
+      "fte": "20",
+      "pupilTeacherRatio": "16.15"
+   },
+   {
+      "name": "Silver Spring School",
+      "location": {
+         "state": {
+            "name": "Rhode Island",
+            "abbr": "RI "
+         }
+      },
+      "district": "East Providence",
+      "level": "Elementary",
+      "type": "1-Regular school",
+      "charterSchool": "2-No",
+      "magnentSchool": "†",
+      "locale": "21-Suburb: Large",
+      "grades": {
+         "lowest": "Kindergarten",
+         "highest": "5th Grade"
+      },
+      "students": "252",
+      "fte": "21",
+      "pupilTeacherRatio": "12"
+   },
+   {
+      "name": "Smithfield High School",
+      "location": {
+         "state": {
+            "name": "Rhode Island",
+            "abbr": "RI "
+         }
+      },
+      "district": "Smithfield",
+      "level": "High",
+      "type": "1-Regular school",
+      "charterSchool": "2-No",
+      "magnentSchool": "†",
+      "locale": "21-Suburb: Large",
+      "grades": {
+         "lowest": "9th Grade",
+         "highest": "12th Grade"
+      },
+      "students": "736",
+      "fte": "66.36",
+      "pupilTeacherRatio": "11.09"
+   },
+   {
+      "name": "South Kingstown High",
+      "location": {
+         "state": {
+            "name": "Rhode Island",
+            "abbr": "RI "
+         }
+      },
+      "district": "South Kingstown",
+      "level": "High",
+      "type": "1-Regular school",
+      "charterSchool": "2-No",
+      "magnentSchool": "†",
+      "locale": "21-Suburb: Large",
+      "grades": {
+         "lowest": "9th Grade",
+         "highest": "12th Grade"
+      },
+      "students": "922",
+      "fte": "75.8",
+      "pupilTeacherRatio": "12.16"
+   },
+   {
+      "name": "Southside Elementary Charter",
+      "location": {
+         "state": {
+            "name": "RHODE ISLAND",
+            "abbr": "RI "
+         }
+      },
+      "district": "Southside Charter School",
+      "level": "Elementary",
+      "type": "1-Regular school",
+      "charterSchool": "1-Yes",
+      "magnentSchool": "†",
+      "locale": "12-City: Mid-size",
+      "grades": {
+         "lowest": "Kindergarten",
+         "highest": "5th Grade"
+      },
+      "students": "143",
+      "fte": "7.2",
+      "pupilTeacherRatio": "19.86"
+   },
+   {
+      "name": "Sowams Elementary School",
+      "location": {
+         "state": {
+            "name": "Rhode Island",
+            "abbr": "RI "
+         }
+      },
+      "district": "Barrington",
+      "level": "Elementary",
+      "type": "1-Regular school",
+      "charterSchool": "2-No",
+      "magnentSchool": "†",
+      "locale": "21-Suburb: Large",
+      "grades": {
+         "lowest": "Kindergarten",
+         "highest": "3rd Grade"
+      },
+      "students": "260",
+      "fte": "15.75",
+      "pupilTeacherRatio": "16.51"
+   },
+   {
+      "name": "Springbrook Elementary School",
+      "location": {
+         "state": {
+            "name": "Rhode Island",
+            "abbr": "RI "
+         }
+      },
+      "district": "Westerly",
+      "level": "Elementary",
+      "type": "1-Regular school",
+      "charterSchool": "2-No",
+      "magnentSchool": "†",
+      "locale": "22-Suburb: Mid-size",
+      "grades": {
+         "lowest": "Kindergarten",
+         "highest": "4th Grade"
+      },
+      "students": "303",
+      "fte": "23.3",
+      "pupilTeacherRatio": "13"
+   },
+   {
+      "name": "Stadium School",
+      "location": {
+         "state": {
+            "name": "Rhode Island",
+            "abbr": "RI "
+         }
+      },
+      "district": "Cranston",
+      "level": "Elementary",
+      "type": "1-Regular school",
+      "charterSchool": "2-No",
+      "magnentSchool": "†",
+      "locale": "21-Suburb: Large",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "5th Grade"
+      },
+      "students": "273",
+      "fte": "21.4",
+      "pupilTeacherRatio": "12.76"
+   },
+   {
+      "name": "State Street School",
+      "location": {
+         "state": {
+            "name": "Rhode Island",
+            "abbr": "RI "
+         }
+      },
+      "district": "Westerly",
+      "level": "Elementary",
+      "type": "1-Regular school",
+      "charterSchool": "2-No",
+      "magnentSchool": "†",
+      "locale": "22-Suburb: Mid-size",
+      "grades": {
+         "lowest": "Kindergarten",
+         "highest": "4th Grade"
+      },
+      "students": "284",
+      "fte": "21.4",
+      "pupilTeacherRatio": "13.27"
+   },
+   {
+      "name": "Steere Farm Elementary School",
+      "location": {
+         "state": {
+            "name": "Rhode Island",
+            "abbr": "RI "
+         }
+      },
+      "district": "Burrillville",
+      "level": "Elementary",
+      "type": "1-Regular school",
+      "charterSchool": "2-No",
+      "magnentSchool": "†",
+      "locale": "41-Rural: Fringe",
+      "grades": {
+         "lowest": "2nd Grade",
+         "highest": "5th Grade"
+      },
+      "students": "291",
+      "fte": "18.74",
+      "pupilTeacherRatio": "15.53"
+   },
+   {
+      "name": "Stephen Olney School",
+      "location": {
+         "state": {
+            "name": "Rhode Island",
+            "abbr": "RI "
+         }
+      },
+      "district": "North Providence",
+      "level": "Elementary",
+      "type": "1-Regular school",
+      "charterSchool": "2-No",
+      "magnentSchool": "†",
+      "locale": "21-Suburb: Large",
+      "grades": {
+         "lowest": "Kindergarten",
+         "highest": "5th Grade"
+      },
+      "students": "390",
+      "fte": "21.18",
+      "pupilTeacherRatio": "18.41"
+   },
+   {
+      "name": "Stone Hill School",
+      "location": {
+         "state": {
+            "name": "Rhode Island",
+            "abbr": "RI "
+         }
+      },
+      "district": "Cranston",
+      "level": "Elementary",
+      "type": "1-Regular school",
+      "charterSchool": "2-No",
+      "magnentSchool": "†",
+      "locale": "21-Suburb: Large",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "5th Grade"
+      },
+      "students": "272",
+      "fte": "20",
+      "pupilTeacherRatio": "13.6"
+   },
+   {
+      "name": "Stony Lane El. School",
+      "location": {
+         "state": {
+            "name": "Rhode Island",
+            "abbr": "RI "
+         }
+      },
+      "district": "North Kingstown",
+      "level": "Elementary",
+      "type": "1-Regular school",
+      "charterSchool": "2-No",
+      "magnentSchool": "†",
+      "locale": "21-Suburb: Large",
+      "grades": {
+         "lowest": "Kindergarten",
+         "highest": "5th Grade"
+      },
+      "students": "362",
+      "fte": "22.8",
+      "pupilTeacherRatio": "15.88"
+   },
+   {
+      "name": "Suzanne M. Henseler Quidnesset",
+      "location": {
+         "state": {
+            "name": "Rhode Island",
+            "abbr": "RI "
+         }
+      },
+      "district": "North Kingstown",
+      "level": "Elementary",
+      "type": "1-Regular school",
+      "charterSchool": "2-No",
+      "magnentSchool": "†",
+      "locale": "21-Suburb: Large",
+      "grades": {
+         "lowest": "Kindergarten",
+         "highest": "5th Grade"
+      },
+      "students": "239",
+      "fte": "24",
+      "pupilTeacherRatio": "9.96"
+   },
+   {
+      "name": "The Compass School",
+      "location": {
+         "state": {
+            "name": "Rhode Island",
+            "abbr": "RI "
+         }
+      },
+      "district": "The Compass School",
+      "level": "Elementary",
+      "type": "1-Regular school",
+      "charterSchool": "1-Yes",
+      "magnentSchool": "†",
+      "locale": "41-Rural: Fringe",
+      "grades": {
+         "lowest": "Kindergarten",
+         "highest": "8th Grade"
+      },
+      "students": "197",
+      "fte": "12",
+      "pupilTeacherRatio": "16.42"
+   },
+   {
+      "name": "The Greene School",
+      "location": {
+         "state": {
+            "name": "Rhode Island",
+            "abbr": "RI "
+         }
+      },
+      "district": "The Greene School",
+      "level": "High",
+      "type": "1-Regular school",
+      "charterSchool": "1-Yes",
+      "magnentSchool": "†",
+      "locale": "41-Rural: Fringe",
+      "grades": {
+         "lowest": "9th Grade",
+         "highest": "12th Grade"
+      },
+      "students": "202",
+      "fte": "11",
+      "pupilTeacherRatio": "18.36"
+   },
+   {
+      "name": "The Hope Academy",
+      "location": {
+         "state": {
+            "name": "RHODE ISLAND",
+            "abbr": "RI "
+         }
+      },
+      "district": "The Hope Academy",
+      "level": "Elementary",
+      "type": "1-Regular school",
+      "charterSchool": "1-Yes",
+      "magnentSchool": "†",
+      "locale": "12-City: Mid-size",
+      "grades": {
+         "lowest": "Kindergarten",
+         "highest": "5th Grade"
+      },
+      "students": "209",
+      "fte": "21.13",
+      "pupilTeacherRatio": "9.89"
+   },
+   {
+      "name": "The Learning Community",
+      "location": {
+         "state": {
+            "name": "Rhode Island",
+            "abbr": "RI "
+         }
+      },
+      "district": "Learning Community",
+      "level": "Elementary",
+      "type": "1-Regular school",
+      "charterSchool": "1-Yes",
+      "magnentSchool": "†",
+      "locale": "21-Suburb: Large",
+      "grades": {
+         "lowest": "Kindergarten",
+         "highest": "8th Grade"
+      },
+      "students": "574",
+      "fte": "43",
+      "pupilTeacherRatio": "13.35"
+   },
+   {
+      "name": "The Pell Annex @ John F. Kenne",
+      "location": {
+         "state": {
+            "name": "RHODE ISLAND",
+            "abbr": "RI "
+         }
+      },
+      "district": "Newport",
+      "level": "Prekindergarten",
+      "type": "1-Regular school",
+      "charterSchool": "2-No",
+      "magnentSchool": "†",
+      "locale": "21-Suburb: Large",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "Prekindergarten"
+      },
+      "students": "53",
+      "fte": "–",
+      "pupilTeacherRatio": "†"
+   },
+   {
+      "name": "The Regional Career and Tech",
+      "location": {
+         "state": {
+            "name": "Rhode Island",
+            "abbr": "RI "
+         }
+      },
+      "district": "Coventry",
+      "level": "Not Applicable",
+      "type": "3-Vocational school",
+      "charterSchool": "2-No",
+      "magnentSchool": "†",
+      "locale": "21-Suburb: Large",
+      "grades": {
+         "lowest": "†",
+         "highest": "†"
+      },
+      "students": "†",
+      "fte": "10.6",
+      "pupilTeacherRatio": "–"
+   },
+   {
+      "name": "Thornton School",
+      "location": {
+         "state": {
+            "name": "Rhode Island",
+            "abbr": "RI "
+         }
+      },
+      "district": "Johnston",
+      "level": "Elementary",
+      "type": "1-Regular school",
+      "charterSchool": "2-No",
+      "magnentSchool": "†",
+      "locale": "21-Suburb: Large",
+      "grades": {
+         "lowest": "1st Grade",
+         "highest": "5th Grade"
+      },
+      "students": "357",
+      "fte": "30.2",
+      "pupilTeacherRatio": "11.82"
+   },
+   {
+      "name": "Times2 Elementary School",
+      "location": {
+         "state": {
+            "name": "RHODE ISLAND",
+            "abbr": "RI "
+         }
+      },
+      "district": "Providence",
+      "level": "Elementary",
+      "type": "1-Regular school",
+      "charterSchool": "1-Yes",
+      "magnentSchool": "†",
+      "locale": "12-City: Mid-size",
+      "grades": {
+         "lowest": "Kindergarten",
+         "highest": "6th Grade"
+      },
+      "students": "378",
+      "fte": "27.6",
+      "pupilTeacherRatio": "13.7"
+   },
+   {
+      "name": "Times2 Middle/high School",
+      "location": {
+         "state": {
+            "name": "RHODE ISLAND",
+            "abbr": "RI "
+         }
+      },
+      "district": "Providence",
+      "level": "High",
+      "type": "1-Regular school",
+      "charterSchool": "1-Yes",
+      "magnentSchool": "†",
+      "locale": "12-City: Mid-size",
+      "grades": {
+         "lowest": "7th Grade",
+         "highest": "12th Grade"
+      },
+      "students": "344",
+      "fte": "20.9",
+      "pupilTeacherRatio": "16.46"
+   },
+   {
+      "name": "Tiogue School",
+      "location": {
+         "state": {
+            "name": "Rhode Island",
+            "abbr": "RI "
+         }
+      },
+      "district": "Coventry",
+      "level": "Elementary",
+      "type": "1-Regular school",
+      "charterSchool": "2-No",
+      "magnentSchool": "†",
+      "locale": "21-Suburb: Large",
+      "grades": {
+         "lowest": "Kindergarten",
+         "highest": "5th Grade"
+      },
+      "students": "330",
+      "fte": "28.79",
+      "pupilTeacherRatio": "11.46"
+   },
+   {
+      "name": "Tiverton High School",
+      "location": {
+         "state": {
+            "name": "Rhode Island",
+            "abbr": "RI "
+         }
+      },
+      "district": "Tiverton",
+      "level": "High",
+      "type": "1-Regular school",
+      "charterSchool": "2-No",
+      "magnentSchool": "†",
+      "locale": "41-Rural: Fringe",
+      "grades": {
+         "lowest": "9th Grade",
+         "highest": "12th Grade"
+      },
+      "students": "499",
+      "fte": "51.8",
+      "pupilTeacherRatio": "9.63"
+   },
+   {
+      "name": "Tiverton Middle School",
+      "location": {
+         "state": {
+            "name": "Rhode Island",
+            "abbr": "RI "
+         }
+      },
+      "district": "Tiverton",
+      "level": "Middle",
+      "type": "1-Regular school",
+      "charterSchool": "2-No",
+      "magnentSchool": "†",
+      "locale": "41-Rural: Fringe",
+      "grades": {
+         "lowest": "5th Grade",
+         "highest": "8th Grade"
+      },
+      "students": "528",
+      "fte": "52.8",
+      "pupilTeacherRatio": "10"
+   },
+   {
+      "name": "Toll Gate High School",
+      "location": {
+         "state": {
+            "name": "Rhode Island",
+            "abbr": "RI "
+         }
+      },
+      "district": "Warwick",
+      "level": "High",
+      "type": "1-Regular school",
+      "charterSchool": "2-No",
+      "magnentSchool": "†",
+      "locale": "13-City: Small",
+      "grades": {
+         "lowest": "9th Grade",
+         "highest": "12th Grade"
+      },
+      "students": "1177",
+      "fte": "96.4",
+      "pupilTeacherRatio": "12.21"
+   },
+   {
+      "name": "Trinity Academy Performing Art",
+      "location": {
+         "state": {
+            "name": "Rhode Island",
+            "abbr": "RI "
+         }
+      },
+      "district": "Trinity Academy for the Performing Arts",
+      "level": "High",
+      "type": "1-Regular school",
+      "charterSchool": "1-Yes",
+      "magnentSchool": "†",
+      "locale": "12-City: Mid-size",
+      "grades": {
+         "lowest": "7th Grade",
+         "highest": "12th Grade"
+      },
+      "students": "211",
+      "fte": "20",
+      "pupilTeacherRatio": "10.55"
+   },
+   {
+      "name": "Urban Collaborative Program",
+      "location": {
+         "state": {
+            "name": "Rhode Island",
+            "abbr": "RI "
+         }
+      },
+      "district": "Urban Collaborative",
+      "level": "Middle",
+      "type": "1-Regular school",
+      "charterSchool": "2-No",
+      "magnentSchool": "†",
+      "locale": "12-City: Mid-size",
+      "grades": {
+         "lowest": "7th Grade",
+         "highest": "8th Grade"
+      },
+      "students": "128",
+      "fte": "13.2",
+      "pupilTeacherRatio": "9.7"
+   },
+   {
+      "name": "Vartan Gregorian El. School",
+      "location": {
+         "state": {
+            "name": "Rhode Island",
+            "abbr": "RI "
+         }
+      },
+      "district": "Providence",
+      "level": "Elementary",
+      "type": "1-Regular school",
+      "charterSchool": "2-No",
+      "magnentSchool": "†",
+      "locale": "12-City: Mid-size",
+      "grades": {
+         "lowest": "Kindergarten",
+         "highest": "5th Grade"
+      },
+      "students": "321",
+      "fte": "23.2",
+      "pupilTeacherRatio": "13.84"
+   },
+   {
+      "name": "Veazie Street School",
+      "location": {
+         "state": {
+            "name": "Rhode Island",
+            "abbr": "RI "
+         }
+      },
+      "district": "Providence",
+      "level": "Elementary",
+      "type": "1-Regular school",
+      "charterSchool": "2-No",
+      "magnentSchool": "†",
+      "locale": "12-City: Mid-size",
+      "grades": {
+         "lowest": "Kindergarten",
+         "highest": "5th Grade"
+      },
+      "students": "540",
+      "fte": "28.5",
+      "pupilTeacherRatio": "18.95"
+   },
+   {
+      "name": "Veterans Memorial Elementary",
+      "location": {
+         "state": {
+            "name": "Rhode Island",
+            "abbr": "RI "
+         }
+      },
+      "district": "Central Falls",
+      "level": "Elementary",
+      "type": "1-Regular school",
+      "charterSchool": "2-No",
+      "magnentSchool": "†",
+      "locale": "21-Suburb: Large",
+      "grades": {
+         "lowest": "Kindergarten",
+         "highest": "4th Grade"
+      },
+      "students": "457",
+      "fte": "37.1",
+      "pupilTeacherRatio": "12.32"
+   },
+   {
+      "name": "Village Green Virtual",
+      "location": {
+         "state": {
+            "name": "Rhode Island",
+            "abbr": "RI "
+         }
+      },
+      "district": "Village Green Virtual",
+      "level": "High",
+      "type": "1-Regular school",
+      "charterSchool": "1-Yes",
+      "magnentSchool": "†",
+      "locale": "12-City: Mid-size",
+      "grades": {
+         "lowest": "9th Grade",
+         "highest": "12th Grade"
+      },
+      "students": "225",
+      "fte": "16.8",
+      "pupilTeacherRatio": "13.39"
+   },
+   {
+      "name": "Vincent J. Gallagher Middle",
+      "location": {
+         "state": {
+            "name": "Rhode Island",
+            "abbr": "RI "
+         }
+      },
+      "district": "Smithfield",
+      "level": "Middle",
+      "type": "1-Regular school",
+      "charterSchool": "2-No",
+      "magnentSchool": "†",
+      "locale": "21-Suburb: Large",
+      "grades": {
+         "lowest": "6th Grade",
+         "highest": "8th Grade"
+      },
+      "students": "598",
+      "fte": "44.46",
+      "pupilTeacherRatio": "13.45"
+   },
+   {
+      "name": "W B Cooley & Acad Internationa",
+      "location": {
+         "state": {
+            "name": "Rhode Island",
+            "abbr": "RI "
+         }
+      },
+      "district": "Providence",
+      "level": "High",
+      "type": "1-Regular school",
+      "charterSchool": "2-No",
+      "magnentSchool": "†",
+      "locale": "12-City: Mid-size",
+      "grades": {
+         "lowest": "9th Grade",
+         "highest": "12th Grade"
+      },
+      "students": "394",
+      "fte": "36",
+      "pupilTeacherRatio": "10.94"
+   },
+   {
+      "name": "W. R. Dutemple School",
+      "location": {
+         "state": {
+            "name": "Rhode Island",
+            "abbr": "RI "
+         }
+      },
+      "district": "Cranston",
+      "level": "Elementary",
+      "type": "1-Regular school",
+      "charterSchool": "2-No",
+      "magnentSchool": "†",
+      "locale": "21-Suburb: Large",
+      "grades": {
+         "lowest": "Kindergarten",
+         "highest": "5th Grade"
+      },
+      "students": "295",
+      "fte": "17.9",
+      "pupilTeacherRatio": "16.48"
+   },
+   {
+      "name": "Waddington School",
+      "location": {
+         "state": {
+            "name": "Rhode Island",
+            "abbr": "RI "
+         }
+      },
+      "district": "East Providence",
+      "level": "Elementary",
+      "type": "1-Regular school",
+      "charterSchool": "2-No",
+      "magnentSchool": "†",
+      "locale": "21-Suburb: Large",
+      "grades": {
+         "lowest": "Kindergarten",
+         "highest": "5th Grade"
+      },
+      "students": "542",
+      "fte": "35.8",
+      "pupilTeacherRatio": "15.14"
+   },
+   {
+      "name": "Wakefield Hills El. School",
+      "location": {
+         "state": {
+            "name": "Rhode Island",
+            "abbr": "RI "
+         }
+      },
+      "district": "West Warwick",
+      "level": "Elementary",
+      "type": "1-Regular school",
+      "charterSchool": "2-No",
+      "magnentSchool": "†",
+      "locale": "21-Suburb: Large",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "4th Grade"
+      },
+      "students": "420",
+      "fte": "34",
+      "pupilTeacherRatio": "12.35"
+   },
+   {
+      "name": "Wakefield School",
+      "location": {
+         "state": {
+            "name": "Rhode Island",
+            "abbr": "RI "
+         }
+      },
+      "district": "South Kingstown",
+      "level": "Elementary",
+      "type": "1-Regular school",
+      "charterSchool": "2-No",
+      "magnentSchool": "†",
+      "locale": "21-Suburb: Large",
+      "grades": {
+         "lowest": "Kindergarten",
+         "highest": "4th Grade"
+      },
+      "students": "142",
+      "fte": "10.7",
+      "pupilTeacherRatio": "13.27"
+   },
+   {
+      "name": "Warwick Career and Tech Center",
+      "location": {
+         "state": {
+            "name": "Rhode Island",
+            "abbr": "RI "
+         }
+      },
+      "district": "Warwick",
+      "level": "High",
+      "type": "3-Vocational school",
+      "charterSchool": "2-No",
+      "magnentSchool": "†",
+      "locale": "13-City: Small",
+      "grades": {
+         "lowest": "9th Grade",
+         "highest": "12th Grade"
+      },
+      "students": "0",
+      "fte": "20",
+      "pupilTeacherRatio": "0.00"
+   },
+   {
+      "name": "Warwick Early Learning Center",
+      "location": {
+         "state": {
+            "name": "Rhode Island",
+            "abbr": "RI "
+         }
+      },
+      "district": "Warwick",
+      "level": "Prekindergarten",
+      "type": "1-Regular school",
+      "charterSchool": "2-No",
+      "magnentSchool": "†",
+      "locale": "13-City: Small",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "Prekindergarten"
+      },
+      "students": "174",
+      "fte": "13",
+      "pupilTeacherRatio": "13.38"
+   },
+   {
+      "name": "Warwick Neck School",
+      "location": {
+         "state": {
+            "name": "Rhode Island",
+            "abbr": "RI "
+         }
+      },
+      "district": "Warwick",
+      "level": "Elementary",
+      "type": "1-Regular school",
+      "charterSchool": "2-No",
+      "magnentSchool": "†",
+      "locale": "13-City: Small",
+      "grades": {
+         "lowest": "Kindergarten",
+         "highest": "5th Grade"
+      },
+      "students": "271",
+      "fte": "16.8",
+      "pupilTeacherRatio": "16.13"
+   },
+   {
+      "name": "Warwick Veterans Middle School",
+      "location": {
+         "state": {
+            "name": "RHODE ISLAND",
+            "abbr": "RI "
+         }
+      },
+      "district": "Warwick",
+      "level": "Middle",
+      "type": "1-Regular school",
+      "charterSchool": "2-No",
+      "magnentSchool": "†",
+      "locale": "13-City: Small",
+      "grades": {
+         "lowest": "6th Grade",
+         "highest": "8th Grade"
+      },
+      "students": "1205",
+      "fte": "98",
+      "pupilTeacherRatio": "12.3"
+   },
+   {
+      "name": "Washington Oak School",
+      "location": {
+         "state": {
+            "name": "Rhode Island",
+            "abbr": "RI "
+         }
+      },
+      "district": "Coventry",
+      "level": "Elementary",
+      "type": "1-Regular school",
+      "charterSchool": "2-No",
+      "magnentSchool": "†",
+      "locale": "41-Rural: Fringe",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "5th Grade"
+      },
+      "students": "664",
+      "fte": "39.22",
+      "pupilTeacherRatio": "16.93"
+   },
+   {
+      "name": "Wawaloam School",
+      "location": {
+         "state": {
+            "name": "Rhode Island",
+            "abbr": "RI "
+         }
+      },
+      "district": "Exeter-West Greenwich",
+      "level": "Elementary",
+      "type": "1-Regular school",
+      "charterSchool": "2-No",
+      "magnentSchool": "†",
+      "locale": "41-Rural: Fringe",
+      "grades": {
+         "lowest": "Kindergarten",
+         "highest": "1st Grade"
+      },
+      "students": "216",
+      "fte": "19.81",
+      "pupilTeacherRatio": "10.9"
+   },
+   {
+      "name": "Webster Avenue School",
+      "location": {
+         "state": {
+            "name": "Rhode Island",
+            "abbr": "RI "
+         }
+      },
+      "district": "Providence",
+      "level": "Elementary",
+      "type": "1-Regular school",
+      "charterSchool": "2-No",
+      "magnentSchool": "†",
+      "locale": "12-City: Mid-size",
+      "grades": {
+         "lowest": "Kindergarten",
+         "highest": "5th Grade"
+      },
+      "students": "314",
+      "fte": "21.3",
+      "pupilTeacherRatio": "14.74"
+   },
+   {
+      "name": "West Broadway Middle School",
+      "location": {
+         "state": {
+            "name": "RHODE ISLAND",
+            "abbr": "RI "
+         }
+      },
+      "district": "Providence",
+      "level": "Middle",
+      "type": "1-Regular school",
+      "charterSchool": "2-No",
+      "magnentSchool": "†",
+      "locale": "12-City: Mid-size",
+      "grades": {
+         "lowest": "5th Grade",
+         "highest": "8th Grade"
+      },
+      "students": "495",
+      "fte": "34",
+      "pupilTeacherRatio": "14.56"
+   },
+   {
+      "name": "West Glocester Elementary",
+      "location": {
+         "state": {
+            "name": "Rhode Island",
+            "abbr": "RI "
+         }
+      },
+      "district": "Glocester",
+      "level": "Elementary",
+      "type": "1-Regular school",
+      "charterSchool": "2-No",
+      "magnentSchool": "†",
+      "locale": "41-Rural: Fringe",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "5th Grade"
+      },
+      "students": "235",
+      "fte": "20",
+      "pupilTeacherRatio": "11.75"
+   },
+   {
+      "name": "West Kingston School",
+      "location": {
+         "state": {
+            "name": "Rhode Island",
+            "abbr": "RI "
+         }
+      },
+      "district": "South Kingstown",
+      "level": "Elementary",
+      "type": "1-Regular school",
+      "charterSchool": "2-No",
+      "magnentSchool": "†",
+      "locale": "41-Rural: Fringe",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "4th Grade"
+      },
+      "students": "279",
+      "fte": "20.7",
+      "pupilTeacherRatio": "13.48"
+   },
+   {
+      "name": "West Warwick High School",
+      "location": {
+         "state": {
+            "name": "Rhode Island",
+            "abbr": "RI "
+         }
+      },
+      "district": "West Warwick",
+      "level": "High",
+      "type": "1-Regular school",
+      "charterSchool": "2-No",
+      "magnentSchool": "†",
+      "locale": "21-Suburb: Large",
+      "grades": {
+         "lowest": "9th Grade",
+         "highest": "12th Grade"
+      },
+      "students": "968",
+      "fte": "74",
+      "pupilTeacherRatio": "13.08"
+   },
+   {
+      "name": "Westerly High School",
+      "location": {
+         "state": {
+            "name": "Rhode Island",
+            "abbr": "RI "
+         }
+      },
+      "district": "Westerly",
+      "level": "High",
+      "type": "1-Regular school",
+      "charterSchool": "2-No",
+      "magnentSchool": "†",
+      "locale": "22-Suburb: Mid-size",
+      "grades": {
+         "lowest": "9th Grade",
+         "highest": "12th Grade"
+      },
+      "students": "769",
+      "fte": "73.8",
+      "pupilTeacherRatio": "10.42"
+   },
+   {
+      "name": "Westerly Inclusion Preschool P",
+      "location": {
+         "state": {
+            "name": "RHODE ISLAND",
+            "abbr": "RI "
+         }
+      },
+      "district": "Westerly",
+      "level": "Prekindergarten",
+      "type": "1-Regular school",
+      "charterSchool": "2-No",
+      "magnentSchool": "†",
+      "locale": "22-Suburb: Mid-size",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "Prekindergarten"
+      },
+      "students": "102",
+      "fte": "5.5",
+      "pupilTeacherRatio": "18.55"
+   },
+   {
+      "name": "Westerly Middle School",
+      "location": {
+         "state": {
+            "name": "Rhode Island",
+            "abbr": "RI "
+         }
+      },
+      "district": "Westerly",
+      "level": "Middle",
+      "type": "1-Regular school",
+      "charterSchool": "2-No",
+      "magnentSchool": "†",
+      "locale": "22-Suburb: Mid-size",
+      "grades": {
+         "lowest": "5th Grade",
+         "highest": "8th Grade"
+      },
+      "students": "826",
+      "fte": "70",
+      "pupilTeacherRatio": "11.8"
+   },
+   {
+      "name": "Western Coventry School",
+      "location": {
+         "state": {
+            "name": "Rhode Island",
+            "abbr": "RI "
+         }
+      },
+      "district": "Coventry",
+      "level": "Elementary",
+      "type": "1-Regular school",
+      "charterSchool": "2-No",
+      "magnentSchool": "†",
+      "locale": "41-Rural: Fringe",
+      "grades": {
+         "lowest": "Kindergarten",
+         "highest": "5th Grade"
+      },
+      "students": "344",
+      "fte": "25.55",
+      "pupilTeacherRatio": "13.46"
+   },
+   {
+      "name": "Western Hills Middle School",
+      "location": {
+         "state": {
+            "name": "Rhode Island",
+            "abbr": "RI "
+         }
+      },
+      "district": "Cranston",
+      "level": "Middle",
+      "type": "1-Regular school",
+      "charterSchool": "2-No",
+      "magnentSchool": "†",
+      "locale": "21-Suburb: Large",
+      "grades": {
+         "lowest": "6th Grade",
+         "highest": "8th Grade"
+      },
+      "students": "754",
+      "fte": "61.15",
+      "pupilTeacherRatio": "12.33"
+   },
+   {
+      "name": "Wickford Middle School",
+      "location": {
+         "state": {
+            "name": "Rhode Island",
+            "abbr": "RI "
+         }
+      },
+      "district": "North Kingstown",
+      "level": "Middle",
+      "type": "1-Regular school",
+      "charterSchool": "2-No",
+      "magnentSchool": "†",
+      "locale": "21-Suburb: Large",
+      "grades": {
+         "lowest": "6th Grade",
+         "highest": "8th Grade"
+      },
+      "students": "367",
+      "fte": "29.25",
+      "pupilTeacherRatio": "12.55"
+   },
+   {
+      "name": "Wilbur and Mcmahon Schools",
+      "location": {
+         "state": {
+            "name": "Rhode Island",
+            "abbr": "RI "
+         }
+      },
+      "district": "Little Compton",
+      "level": "Elementary",
+      "type": "1-Regular school",
+      "charterSchool": "2-No",
+      "magnentSchool": "†",
+      "locale": "41-Rural: Fringe",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "8th Grade"
+      },
+      "students": "237",
+      "fte": "27.6",
+      "pupilTeacherRatio": "8.59"
+   },
+   {
+      "name": "William Callahan School",
+      "location": {
+         "state": {
+            "name": "Rhode Island",
+            "abbr": "RI "
+         }
+      },
+      "district": "Burrillville",
+      "level": "Elementary",
+      "type": "1-Regular school",
+      "charterSchool": "2-No",
+      "magnentSchool": "†",
+      "locale": "21-Suburb: Large",
+      "grades": {
+         "lowest": "2nd Grade",
+         "highest": "5th Grade"
+      },
+      "students": "341",
+      "fte": "23.53",
+      "pupilTeacherRatio": "14.49"
+   },
+   {
+      "name": "William D'abate Elem. School",
+      "location": {
+         "state": {
+            "name": "Rhode Island",
+            "abbr": "RI "
+         }
+      },
+      "district": "Providence",
+      "level": "Elementary",
+      "type": "1-Regular school",
+      "charterSchool": "2-No",
+      "magnentSchool": "†",
+      "locale": "12-City: Mid-size",
+      "grades": {
+         "lowest": "Kindergarten",
+         "highest": "5th Grade"
+      },
+      "students": "401",
+      "fte": "19.5",
+      "pupilTeacherRatio": "20.56"
+   },
+   {
+      "name": "William E. Tolman High",
+      "location": {
+         "state": {
+            "name": "Rhode Island",
+            "abbr": "RI "
+         }
+      },
+      "district": "Pawtucket",
+      "level": "High",
+      "type": "1-Regular school",
+      "charterSchool": "2-No",
+      "magnentSchool": "†",
+      "locale": "21-Suburb: Large",
+      "grades": {
+         "lowest": "9th Grade",
+         "highest": "12th Grade"
+      },
+      "students": "959",
+      "fte": "61.16",
+      "pupilTeacherRatio": "15.68"
+   },
+   {
+      "name": "William Winsor School",
+      "location": {
+         "state": {
+            "name": "Rhode Island",
+            "abbr": "RI "
+         }
+      },
+      "district": "Smithfield",
+      "level": "Elementary",
+      "type": "1-Regular school",
+      "charterSchool": "2-No",
+      "magnentSchool": "†",
+      "locale": "21-Suburb: Large",
+      "grades": {
+         "lowest": "Kindergarten",
+         "highest": "5th Grade"
+      },
+      "students": "265",
+      "fte": "17.13",
+      "pupilTeacherRatio": "15.47"
+   },
+   {
+      "name": "Winman Middle School",
+      "location": {
+         "state": {
+            "name": "Rhode Island",
+            "abbr": "RI "
+         }
+      },
+      "district": "Warwick",
+      "level": "Middle",
+      "type": "1-Regular school",
+      "charterSchool": "2-No",
+      "magnentSchool": "†",
+      "locale": "13-City: Small",
+      "grades": {
+         "lowest": "6th Grade",
+         "highest": "8th Grade"
+      },
+      "students": "762",
+      "fte": "63.7",
+      "pupilTeacherRatio": "11.96"
+   },
+   {
+      "name": "Winsor Hill School",
+      "location": {
+         "state": {
+            "name": "Rhode Island",
+            "abbr": "RI "
+         }
+      },
+      "district": "Johnston",
+      "level": "Elementary",
+      "type": "1-Regular school",
+      "charterSchool": "2-No",
+      "magnentSchool": "†",
+      "locale": "21-Suburb: Large",
+      "grades": {
+         "lowest": "1st Grade",
+         "highest": "5th Grade"
+      },
+      "students": "363",
+      "fte": "27.84",
+      "pupilTeacherRatio": "13.04"
+   },
+   {
+      "name": "Woodridge School",
+      "location": {
+         "state": {
+            "name": "Rhode Island",
+            "abbr": "RI "
+         }
+      },
+      "district": "Cranston",
+      "level": "Elementary",
+      "type": "1-Regular school",
+      "charterSchool": "2-No",
+      "magnentSchool": "†",
+      "locale": "21-Suburb: Large",
+      "grades": {
+         "lowest": "Kindergarten",
+         "highest": "5th Grade"
+      },
+      "students": "288",
+      "fte": "19.85",
+      "pupilTeacherRatio": "14.51"
+   },
+   {
+      "name": "Woonsocket Career an Tech Ctr.",
+      "location": {
+         "state": {
+            "name": "Rhode Island",
+            "abbr": "RI "
+         }
+      },
+      "district": "Woonsocket",
+      "level": "High",
+      "type": "3-Vocational school",
+      "charterSchool": "2-No",
+      "magnentSchool": "†",
+      "locale": "21-Suburb: Large",
+      "grades": {
+         "lowest": "9th Grade",
+         "highest": "12th Grade"
+      },
+      "students": "0",
+      "fte": "17",
+      "pupilTeacherRatio": "0.00"
+   },
+   {
+      "name": "Woonsocket High School",
+      "location": {
+         "state": {
+            "name": "Rhode Island",
+            "abbr": "RI "
+         }
+      },
+      "district": "Woonsocket",
+      "level": "High",
+      "type": "1-Regular school",
+      "charterSchool": "2-No",
+      "magnentSchool": "†",
+      "locale": "21-Suburb: Large",
+      "grades": {
+         "lowest": "9th Grade",
+         "highest": "12th Grade"
+      },
+      "students": "1637",
+      "fte": "100.2",
+      "pupilTeacherRatio": "16.34"
+   },
+   {
+      "name": "Woonsocket Middle @ Villa Nova",
+      "location": {
+         "state": {
+            "name": "RHODE ISLAND",
+            "abbr": "RI "
+         }
+      },
+      "district": "Woonsocket",
+      "level": "Middle",
+      "type": "1-Regular school",
+      "charterSchool": "2-No",
+      "magnentSchool": "†",
+      "locale": "21-Suburb: Large",
+      "grades": {
+         "lowest": "6th Grade",
+         "highest": "8th Grade"
+      },
+      "students": "691",
+      "fte": "58.75",
+      "pupilTeacherRatio": "11.76"
+   },
+   {
+      "name": "Woonsocket Middle at Hamlet",
+      "location": {
+         "state": {
+            "name": "RHODE ISLAND",
+            "abbr": "RI "
+         }
+      },
+      "district": "Woonsocket",
+      "level": "Middle",
+      "type": "1-Regular school",
+      "charterSchool": "2-No",
+      "magnentSchool": "†",
+      "locale": "21-Suburb: Large",
+      "grades": {
+         "lowest": "6th Grade",
+         "highest": "8th Grade"
+      },
+      "students": "701",
+      "fte": "50.5",
+      "pupilTeacherRatio": "13.88"
+   },
+   {
+      "name": "Wyman School",
+      "location": {
+         "state": {
+            "name": "Rhode Island",
+            "abbr": "RI "
+         }
+      },
+      "district": "Warwick",
+      "level": "Elementary",
+      "type": "1-Regular school",
+      "charterSchool": "2-No",
+      "magnentSchool": "†",
+      "locale": "13-City: Small",
+      "grades": {
+         "lowest": "Kindergarten",
+         "highest": "5th Grade"
+      },
+      "students": "309",
+      "fte": "21.2",
+      "pupilTeacherRatio": "14.58"
+   }
+]

@@ -1,0 +1,4087 @@
+[
+   {
+      "name": "A. Linwood Holton Gov Sch",
+      "location": {
+         "state": {
+            "name": "Virginia",
+            "abbr": "VA",
+            "county": "Washington County"
+         }
+      },
+      "type": "9-Specialized public school district",
+      "grades": {
+         "lowest": "Ungraded",
+         "highest": "Ungraded"
+      },
+      "students": "0",
+      "fte": "†",
+      "pupilTeacherRatio": "–",
+      "numberOfSchools": "1"
+   },
+   {
+      "name": "Accomack Co Pblc Schs",
+      "location": {
+         "state": {
+            "name": "Virginia",
+            "abbr": "VA",
+            "county": "Accomack County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "5161",
+      "fte": "319.99",
+      "pupilTeacherRatio": "16.13",
+      "numberOfSchools": "13"
+   },
+   {
+      "name": "Albemarle Co Pblc Schs",
+      "location": {
+         "state": {
+            "name": "Virginia",
+            "abbr": "VA",
+            "county": "Charlottesville city"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "14404",
+      "fte": "1082.92",
+      "pupilTeacherRatio": "13.3",
+      "numberOfSchools": "26"
+   },
+   {
+      "name": "Alexandria City Pblc Schs",
+      "location": {
+         "state": {
+            "name": "Virginia",
+            "abbr": "VA",
+            "county": "Alexandria city"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "16295",
+      "fte": "880.49",
+      "pupilTeacherRatio": "18.51",
+      "numberOfSchools": "19"
+   },
+   {
+      "name": "Alleghany Co Pblc Schs",
+      "location": {
+         "state": {
+            "name": "Virginia",
+            "abbr": "VA",
+            "county": "Alleghany County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "2024",
+      "fte": "154.35",
+      "pupilTeacherRatio": "13.11",
+      "numberOfSchools": "5"
+   },
+   {
+      "name": "Alt Ed Prgm/behav Disord Youth/montgomery",
+      "location": {
+         "state": {
+            "name": "Virginia",
+            "abbr": "VA",
+            "county": "Montgomery County"
+         }
+      },
+      "type": "9-Specialized public school district",
+      "grades": {
+         "lowest": "Ungraded",
+         "highest": "Ungraded"
+      },
+      "students": "0",
+      "fte": "†",
+      "pupilTeacherRatio": "–",
+      "numberOfSchools": "1"
+   },
+   {
+      "name": "Amelia Co Pblc Schs",
+      "location": {
+         "state": {
+            "name": "Virginia",
+            "abbr": "VA",
+            "county": "Amelia County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "1729",
+      "fte": "115",
+      "pupilTeacherRatio": "15.03",
+      "numberOfSchools": "3"
+   },
+   {
+      "name": "Amelia-Nottoway Voc Ctr",
+      "location": {
+         "state": {
+            "name": "Virginia",
+            "abbr": "VA",
+            "county": "Amelia County"
+         }
+      },
+      "type": "9-Specialized public school district",
+      "grades": {
+         "lowest": "Ungraded",
+         "highest": "Ungraded"
+      },
+      "students": "0",
+      "fte": "†",
+      "pupilTeacherRatio": "–",
+      "numberOfSchools": "1"
+   },
+   {
+      "name": "Amherst Co Pblc Schs",
+      "location": {
+         "state": {
+            "name": "Virginia",
+            "abbr": "VA",
+            "county": "Amherst County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "4115",
+      "fte": "296.23",
+      "pupilTeacherRatio": "13.89",
+      "numberOfSchools": "9"
+   },
+   {
+      "name": "Appomattox Co Pblc Schs",
+      "location": {
+         "state": {
+            "name": "Virginia",
+            "abbr": "VA",
+            "county": "Appomattox County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "2279",
+      "fte": "154.33",
+      "pupilTeacherRatio": "14.77",
+      "numberOfSchools": "4"
+   },
+   {
+      "name": "Appomattox Regional Gov Sch",
+      "location": {
+         "state": {
+            "name": "Virginia",
+            "abbr": "VA",
+            "county": "Petersburg city"
+         }
+      },
+      "type": "9-Specialized public school district",
+      "grades": {
+         "lowest": "Ungraded",
+         "highest": "Ungraded"
+      },
+      "students": "0",
+      "fte": "†",
+      "pupilTeacherRatio": "–",
+      "numberOfSchools": "1"
+   },
+   {
+      "name": "Arlington Co Pblc Schs",
+      "location": {
+         "state": {
+            "name": "Virginia",
+            "abbr": "VA",
+            "county": "Arlington County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "28151",
+      "fte": "1921.1",
+      "pupilTeacherRatio": "14.65",
+      "numberOfSchools": "41"
+   },
+   {
+      "name": "Augusta Co Pblc Schs",
+      "location": {
+         "state": {
+            "name": "Virginia",
+            "abbr": "VA",
+            "county": "Augusta County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "10339",
+      "fte": "739.14",
+      "pupilTeacherRatio": "13.99",
+      "numberOfSchools": "18"
+   },
+   {
+      "name": "Bath Co Pblc Schs",
+      "location": {
+         "state": {
+            "name": "Virginia",
+            "abbr": "VA",
+            "county": "Bath County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "529",
+      "fte": "51.69",
+      "pupilTeacherRatio": "10.23",
+      "numberOfSchools": "3"
+   },
+   {
+      "name": "Bedford Co Pblc Schs",
+      "location": {
+         "state": {
+            "name": "Virginia",
+            "abbr": "VA",
+            "county": "Bedford County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "9555",
+      "fte": "669",
+      "pupilTeacherRatio": "14.28",
+      "numberOfSchools": "22"
+   },
+   {
+      "name": "Bland Co Pblc Schs",
+      "location": {
+         "state": {
+            "name": "Virginia",
+            "abbr": "VA",
+            "county": "Bland County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "693",
+      "fte": "51.75",
+      "pupilTeacherRatio": "13.39",
+      "numberOfSchools": "2"
+   },
+   {
+      "name": "Blue Ridge Gov School",
+      "location": {
+         "state": {
+            "name": "Virginia",
+            "abbr": "VA",
+            "county": "Fluvanna County"
+         }
+      },
+      "type": "9-Specialized public school district",
+      "grades": {
+         "lowest": "Ungraded",
+         "highest": "Ungraded"
+      },
+      "students": "0",
+      "fte": "†",
+      "pupilTeacherRatio": "–",
+      "numberOfSchools": "1"
+   },
+   {
+      "name": "Botetourt Co Pblc Schs",
+      "location": {
+         "state": {
+            "name": "Virginia",
+            "abbr": "VA",
+            "county": "Botetourt County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "4672",
+      "fte": "320.23",
+      "pupilTeacherRatio": "14.59",
+      "numberOfSchools": "12"
+   },
+   {
+      "name": "Breaking Barriers Alternative Ed/henry Co",
+      "location": {
+         "state": {
+            "name": "Virginia",
+            "abbr": "VA",
+            "county": "Henry County"
+         }
+      },
+      "type": "9-Specialized public school district",
+      "grades": {
+         "lowest": "†",
+         "highest": "†"
+      },
+      "students": "†",
+      "fte": "†",
+      "pupilTeacherRatio": "†",
+      "numberOfSchools": "1"
+   },
+   {
+      "name": "Bridging Communities Reg Cte Center",
+      "location": {
+         "state": {
+            "name": "Virginia",
+            "abbr": "VA",
+            "county": "New Kent County"
+         }
+      },
+      "type": "9-Specialized public school district",
+      "grades": {
+         "lowest": "Ungraded",
+         "highest": "Ungraded"
+      },
+      "students": "0",
+      "fte": "†",
+      "pupilTeacherRatio": "–",
+      "numberOfSchools": "2"
+   },
+   {
+      "name": "Bristol City Pblc Schs",
+      "location": {
+         "state": {
+            "name": "Virginia",
+            "abbr": "VA",
+            "county": "Bristol city"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "2255",
+      "fte": "157.99",
+      "pupilTeacherRatio": "14.27",
+      "numberOfSchools": "7"
+   },
+   {
+      "name": "Brunswick Co Pblc Schs",
+      "location": {
+         "state": {
+            "name": "Virginia",
+            "abbr": "VA",
+            "county": "Brunswick County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "1538",
+      "fte": "105.83",
+      "pupilTeacherRatio": "14.53",
+      "numberOfSchools": "5"
+   },
+   {
+      "name": "Buchanan Co Pblc Schs",
+      "location": {
+         "state": {
+            "name": "Virginia",
+            "abbr": "VA",
+            "county": "Buchanan County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "2676",
+      "fte": "192.21",
+      "pupilTeacherRatio": "13.92",
+      "numberOfSchools": "9"
+   },
+   {
+      "name": "Buckingham Co Pblc Schs",
+      "location": {
+         "state": {
+            "name": "Virginia",
+            "abbr": "VA",
+            "county": "Buckingham County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "2113",
+      "fte": "141.25",
+      "pupilTeacherRatio": "14.96",
+      "numberOfSchools": "5"
+   },
+   {
+      "name": "Buena Vista City Pblc Schs",
+      "location": {
+         "state": {
+            "name": "Virginia",
+            "abbr": "VA",
+            "county": "Buena Vista city"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "895",
+      "fte": "67.66",
+      "pupilTeacherRatio": "13.23",
+      "numberOfSchools": "4"
+   },
+   {
+      "name": "Campbell Co Pblc Schs",
+      "location": {
+         "state": {
+            "name": "Virginia",
+            "abbr": "VA",
+            "county": "Campbell County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "7921",
+      "fte": "499",
+      "pupilTeacherRatio": "15.87",
+      "numberOfSchools": "15"
+   },
+   {
+      "name": "Caroline Co Pblc Schs",
+      "location": {
+         "state": {
+            "name": "Virginia",
+            "abbr": "VA",
+            "county": "Caroline County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "4253",
+      "fte": "210.83",
+      "pupilTeacherRatio": "20.17",
+      "numberOfSchools": "5"
+   },
+   {
+      "name": "Carroll Co Pblc Schs",
+      "location": {
+         "state": {
+            "name": "Virginia",
+            "abbr": "VA",
+            "county": "Carroll County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "3713",
+      "fte": "289.25",
+      "pupilTeacherRatio": "12.84",
+      "numberOfSchools": "11"
+   },
+   {
+      "name": "Carroll-Galax Reg Alt Ed Prgm/the Rae Center",
+      "location": {
+         "state": {
+            "name": "Virginia",
+            "abbr": "VA",
+            "county": "Carroll County"
+         }
+      },
+      "type": "9-Specialized public school district",
+      "grades": {
+         "lowest": "Ungraded",
+         "highest": "Ungraded"
+      },
+      "students": "0",
+      "fte": "†",
+      "pupilTeacherRatio": "–",
+      "numberOfSchools": "1"
+   },
+   {
+      "name": "Cent Va Train Ct",
+      "location": {
+         "state": {
+            "name": "Virginia",
+            "abbr": "VA",
+            "county": "Amherst County"
+         }
+      },
+      "type": "5-State agency providing elementary and/or secondary level instruction",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "0",
+      "fte": "0",
+      "pupilTeacherRatio": "†",
+      "numberOfSchools": "1"
+   },
+   {
+      "name": "Central St Hosp",
+      "location": {
+         "state": {
+            "name": "Virginia",
+            "abbr": "VA",
+            "county": "Dinwiddie County"
+         }
+      },
+      "type": "5-State agency providing elementary and/or secondary level instruction",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "0",
+      "fte": "0",
+      "pupilTeacherRatio": "†",
+      "numberOfSchools": "1"
+   },
+   {
+      "name": "Central Virginia Gov Sch for Sci/tech",
+      "location": {
+         "state": {
+            "name": "Virginia",
+            "abbr": "VA",
+            "county": "Lynchburg city"
+         }
+      },
+      "type": "9-Specialized public school district",
+      "grades": {
+         "lowest": "Ungraded",
+         "highest": "Ungraded"
+      },
+      "students": "0",
+      "fte": "†",
+      "pupilTeacherRatio": "–",
+      "numberOfSchools": "1"
+   },
+   {
+      "name": "Charles City Co Pblc Schs",
+      "location": {
+         "state": {
+            "name": "Virginia",
+            "abbr": "VA",
+            "county": "Charles City County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "620",
+      "fte": "54.49",
+      "pupilTeacherRatio": "11.38",
+      "numberOfSchools": "2"
+   },
+   {
+      "name": "Charlotte Co Pblc Schs",
+      "location": {
+         "state": {
+            "name": "Virginia",
+            "abbr": "VA",
+            "county": "Charlotte County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "1763",
+      "fte": "126.5",
+      "pupilTeacherRatio": "13.94",
+      "numberOfSchools": "5"
+   },
+   {
+      "name": "Charlottesville Cty Pblc Schs",
+      "location": {
+         "state": {
+            "name": "Virginia",
+            "abbr": "VA",
+            "county": "Charlottesville city"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "4542",
+      "fte": "354.82",
+      "pupilTeacherRatio": "12.8",
+      "numberOfSchools": "10"
+   },
+   {
+      "name": "Charlottesville-Albemarle Tech",
+      "location": {
+         "state": {
+            "name": "Virginia",
+            "abbr": "VA",
+            "county": "Albemarle County"
+         }
+      },
+      "type": "9-Specialized public school district",
+      "grades": {
+         "lowest": "Ungraded",
+         "highest": "Ungraded"
+      },
+      "students": "0",
+      "fte": "†",
+      "pupilTeacherRatio": "–",
+      "numberOfSchools": "1"
+   },
+   {
+      "name": "Chesapeake Bay Gov Sch",
+      "location": {
+         "state": {
+            "name": "Virginia",
+            "abbr": "VA",
+            "county": "Essex County"
+         }
+      },
+      "type": "9-Specialized public school district",
+      "grades": {
+         "lowest": "Ungraded",
+         "highest": "Ungraded"
+      },
+      "students": "0",
+      "fte": "†",
+      "pupilTeacherRatio": "–",
+      "numberOfSchools": "1"
+   },
+   {
+      "name": "Chesapeake City Pblc Schs",
+      "location": {
+         "state": {
+            "name": "Virginia",
+            "abbr": "VA",
+            "county": "Chesapeake city"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "41597",
+      "fte": "2757.48",
+      "pupilTeacherRatio": "15.09",
+      "numberOfSchools": "48"
+   },
+   {
+      "name": "Chesterfield Co Pblc Schs",
+      "location": {
+         "state": {
+            "name": "Virginia",
+            "abbr": "VA",
+            "county": "Chesterfield County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "62614",
+      "fte": "3970.22",
+      "pupilTeacherRatio": "15.77",
+      "numberOfSchools": "69"
+   },
+   {
+      "name": "Clarke Co Pblc Schs",
+      "location": {
+         "state": {
+            "name": "Virginia",
+            "abbr": "VA",
+            "county": "Clarke County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "1924",
+      "fte": "141.22",
+      "pupilTeacherRatio": "13.62",
+      "numberOfSchools": "4"
+   },
+   {
+      "name": "Code Rva High",
+      "location": {
+         "state": {
+            "name": "VIRGINIA",
+            "abbr": "VA",
+            "county": "Richmond city"
+         }
+      },
+      "type": "9-Specialized public school district",
+      "grades": {
+         "lowest": "Ungraded",
+         "highest": "Ungraded"
+      },
+      "students": "0",
+      "fte": "†",
+      "pupilTeacherRatio": "–",
+      "numberOfSchools": "1"
+   },
+   {
+      "name": "Colonial Beach Pblc Schs",
+      "location": {
+         "state": {
+            "name": "Virginia",
+            "abbr": "VA",
+            "county": "Westmoreland County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "652",
+      "fte": "38.6",
+      "pupilTeacherRatio": "16.89",
+      "numberOfSchools": "2"
+   },
+   {
+      "name": "Colonial Heights City Pblc Schs",
+      "location": {
+         "state": {
+            "name": "Virginia",
+            "abbr": "VA",
+            "county": "Colonial Heights city"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "2899",
+      "fte": "220.16",
+      "pupilTeacherRatio": "13.17",
+      "numberOfSchools": "6"
+   },
+   {
+      "name": "Commonwealth Ctr for Children & Adolescents",
+      "location": {
+         "state": {
+            "name": "Virginia",
+            "abbr": "VA",
+            "county": "Staunton city"
+         }
+      },
+      "type": "5-State agency providing elementary and/or secondary level instruction",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "0",
+      "fte": "0",
+      "pupilTeacherRatio": "†",
+      "numberOfSchools": "1"
+   },
+   {
+      "name": "Commonwealth Governor's School",
+      "location": {
+         "state": {
+            "name": "Virginia",
+            "abbr": "VA",
+            "county": "Spotsylvania County"
+         }
+      },
+      "type": "9-Specialized public school district",
+      "grades": {
+         "lowest": "Ungraded",
+         "highest": "Ungraded"
+      },
+      "students": "0",
+      "fte": "†",
+      "pupilTeacherRatio": "–",
+      "numberOfSchools": "1"
+   },
+   {
+      "name": "Coop Ctrs for Exceptional Children",
+      "location": {
+         "state": {
+            "name": "Virginia",
+            "abbr": "VA",
+            "county": "Galax city"
+         }
+      },
+      "type": "9-Specialized public school district",
+      "grades": {
+         "lowest": "Ungraded",
+         "highest": "Ungraded"
+      },
+      "students": "0",
+      "fte": "†",
+      "pupilTeacherRatio": "–",
+      "numberOfSchools": "1"
+   },
+   {
+      "name": "Covington City Pblc Schs",
+      "location": {
+         "state": {
+            "name": "Virginia",
+            "abbr": "VA",
+            "county": "Covington city"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "1018",
+      "fte": "68.39",
+      "pupilTeacherRatio": "14.89",
+      "numberOfSchools": "3"
+   },
+   {
+      "name": "Craig Co Pblc Schs",
+      "location": {
+         "state": {
+            "name": "Virginia",
+            "abbr": "VA",
+            "county": "Craig County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "588",
+      "fte": "50.34",
+      "pupilTeacherRatio": "11.68",
+      "numberOfSchools": "2"
+   },
+   {
+      "name": "Crossroads Alternative/bristol City",
+      "location": {
+         "state": {
+            "name": "Virginia",
+            "abbr": "VA",
+            "county": "Bristol city"
+         }
+      },
+      "type": "9-Specialized public school district",
+      "grades": {
+         "lowest": "Ungraded",
+         "highest": "Ungraded"
+      },
+      "students": "0",
+      "fte": "†",
+      "pupilTeacherRatio": "–",
+      "numberOfSchools": "1"
+   },
+   {
+      "name": "Culpeper Co Pblc Schs",
+      "location": {
+         "state": {
+            "name": "Virginia",
+            "abbr": "VA",
+            "county": "Culpeper County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "8516",
+      "fte": "560.34",
+      "pupilTeacherRatio": "15.2",
+      "numberOfSchools": "11"
+   },
+   {
+      "name": "Cumberland Co Pblc Schs",
+      "location": {
+         "state": {
+            "name": "Virginia",
+            "abbr": "VA",
+            "county": "Cumberland County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "1321",
+      "fte": "103",
+      "pupilTeacherRatio": "12.83",
+      "numberOfSchools": "4"
+   },
+   {
+      "name": "Danville City Pblc Schs",
+      "location": {
+         "state": {
+            "name": "Virginia",
+            "abbr": "VA",
+            "county": "Danville city"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "5702",
+      "fte": "388.13",
+      "pupilTeacherRatio": "14.69",
+      "numberOfSchools": "14"
+   },
+   {
+      "name": "Department of Juvenile Justice",
+      "location": {
+         "state": {
+            "name": "Virginia",
+            "abbr": "VA",
+            "county": "Richmond city"
+         }
+      },
+      "type": "5-State agency providing elementary and/or secondary level instruction",
+      "grades": {
+         "lowest": "6th Grade",
+         "highest": "12th Grade"
+      },
+      "students": "115",
+      "fte": "27.83",
+      "pupilTeacherRatio": "4.13",
+      "numberOfSchools": "1"
+   },
+   {
+      "name": "Dickenson Co Pblc Schs",
+      "location": {
+         "state": {
+            "name": "Virginia",
+            "abbr": "VA",
+            "county": "Dickenson County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "2064",
+      "fte": "141.89",
+      "pupilTeacherRatio": "14.55",
+      "numberOfSchools": "5"
+   },
+   {
+      "name": "Dinwiddie Co Pblc Schs",
+      "location": {
+         "state": {
+            "name": "Virginia",
+            "abbr": "VA",
+            "county": "Dinwiddie County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "4347",
+      "fte": "273.99",
+      "pupilTeacherRatio": "15.87",
+      "numberOfSchools": "7"
+   },
+   {
+      "name": "Doe Sop Educ Programs",
+      "location": {
+         "state": {
+            "name": "Virginia",
+            "abbr": "VA",
+            "county": "Richmond city"
+         }
+      },
+      "type": "5-State agency providing elementary and/or secondary level instruction",
+      "grades": {
+         "lowest": "Ungraded",
+         "highest": "Ungraded"
+      },
+      "students": "0",
+      "fte": "†",
+      "pupilTeacherRatio": "–",
+      "numberOfSchools": "23"
+   },
+   {
+      "name": "Eastern St Hosp",
+      "location": {
+         "state": {
+            "name": "Virginia",
+            "abbr": "VA",
+            "county": "James City County"
+         }
+      },
+      "type": "5-State agency providing elementary and/or secondary level instruction",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "0",
+      "fte": "0",
+      "pupilTeacherRatio": "†",
+      "numberOfSchools": "1"
+   },
+   {
+      "name": "Enterprise Academy/newport News City",
+      "location": {
+         "state": {
+            "name": "Virginia",
+            "abbr": "VA",
+            "county": "Newport News city"
+         }
+      },
+      "type": "9-Specialized public school district",
+      "grades": {
+         "lowest": "Ungraded",
+         "highest": "Ungraded"
+      },
+      "students": "0",
+      "fte": "†",
+      "pupilTeacherRatio": "–",
+      "numberOfSchools": "1"
+   },
+   {
+      "name": "Essex Co Pblc Schs",
+      "location": {
+         "state": {
+            "name": "Virginia",
+            "abbr": "VA",
+            "county": "Essex County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "1320",
+      "fte": "109.66",
+      "pupilTeacherRatio": "12.04",
+      "numberOfSchools": "3"
+   },
+   {
+      "name": "Fairfax Co Pblc Schs",
+      "location": {
+         "state": {
+            "name": "Virginia",
+            "abbr": "VA",
+            "county": "Fairfax County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "188887",
+      "fte": "13132.45",
+      "pupilTeacherRatio": "14.38",
+      "numberOfSchools": "221"
+   },
+   {
+      "name": "Fairfax-Falls Church Comm Svcs Bd",
+      "location": {
+         "state": {
+            "name": "Virginia",
+            "abbr": "VA",
+            "county": "Fairfax County"
+         }
+      },
+      "type": "5-State agency providing elementary and/or secondary level instruction",
+      "grades": {
+         "lowest": "†",
+         "highest": "†"
+      },
+      "students": "0",
+      "fte": "†",
+      "pupilTeacherRatio": "–",
+      "numberOfSchools": "0"
+   },
+   {
+      "name": "Falls Church City Pblc Schs",
+      "location": {
+         "state": {
+            "name": "Virginia",
+            "abbr": "VA",
+            "county": "Falls Church city"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "2648",
+      "fte": "172.86",
+      "pupilTeacherRatio": "15.32",
+      "numberOfSchools": "5"
+   },
+   {
+      "name": "Fauquier Co Pblc Schs",
+      "location": {
+         "state": {
+            "name": "Virginia",
+            "abbr": "VA",
+            "county": "Fauquier County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "11181",
+      "fte": "869.31",
+      "pupilTeacherRatio": "12.86",
+      "numberOfSchools": "20"
+   },
+   {
+      "name": "Floyd Co Pblc Schs",
+      "location": {
+         "state": {
+            "name": "Virginia",
+            "abbr": "VA",
+            "county": "Floyd County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "1919",
+      "fte": "121.78",
+      "pupilTeacherRatio": "15.76",
+      "numberOfSchools": "5"
+   },
+   {
+      "name": "Fluvanna Co Pblc Schs",
+      "location": {
+         "state": {
+            "name": "Virginia",
+            "abbr": "VA",
+            "county": "Fluvanna County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "3549",
+      "fte": "241.4",
+      "pupilTeacherRatio": "14.7",
+      "numberOfSchools": "5"
+   },
+   {
+      "name": "Franklin City Pblc Schs",
+      "location": {
+         "state": {
+            "name": "Virginia",
+            "abbr": "VA",
+            "county": "Franklin city"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "1078",
+      "fte": "81.38",
+      "pupilTeacherRatio": "13.25",
+      "numberOfSchools": "3"
+   },
+   {
+      "name": "Franklin Co Pblc Schs",
+      "location": {
+         "state": {
+            "name": "Virginia",
+            "abbr": "VA",
+            "county": "Franklin County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "6887",
+      "fte": "517",
+      "pupilTeacherRatio": "13.32",
+      "numberOfSchools": "16"
+   },
+   {
+      "name": "Frederick Co Pblc Schs",
+      "location": {
+         "state": {
+            "name": "Virginia",
+            "abbr": "VA",
+            "county": "Winchester city"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "13875",
+      "fte": "972.58",
+      "pupilTeacherRatio": "14.27",
+      "numberOfSchools": "18"
+   },
+   {
+      "name": "Fredericksburg City Pblc Schs",
+      "location": {
+         "state": {
+            "name": "Virginia",
+            "abbr": "VA",
+            "county": "Fredericksburg city"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "3755",
+      "fte": "256.26",
+      "pupilTeacherRatio": "14.65",
+      "numberOfSchools": "5"
+   },
+   {
+      "name": "Galax City Pblc Schs",
+      "location": {
+         "state": {
+            "name": "Virginia",
+            "abbr": "VA",
+            "county": "Galax city"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "1338",
+      "fte": "101.57",
+      "pupilTeacherRatio": "13.17",
+      "numberOfSchools": "3"
+   },
+   {
+      "name": "Giles Co Pblc Schs",
+      "location": {
+         "state": {
+            "name": "Virginia",
+            "abbr": "VA",
+            "county": "Giles County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "2389",
+      "fte": "175.09",
+      "pupilTeacherRatio": "13.64",
+      "numberOfSchools": "6"
+   },
+   {
+      "name": "Gloucester Co Pblc Schs",
+      "location": {
+         "state": {
+            "name": "Virginia",
+            "abbr": "VA",
+            "county": "Gloucester County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "5306",
+      "fte": "376.68",
+      "pupilTeacherRatio": "14.09",
+      "numberOfSchools": "9"
+   },
+   {
+      "name": "Goochland Co Pblc Schs",
+      "location": {
+         "state": {
+            "name": "Virginia",
+            "abbr": "VA",
+            "county": "Goochland County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "2619",
+      "fte": "205.53",
+      "pupilTeacherRatio": "12.74",
+      "numberOfSchools": "5"
+   },
+   {
+      "name": "Gov Sch Global Economics/tech",
+      "location": {
+         "state": {
+            "name": "Virginia",
+            "abbr": "VA",
+            "county": "Charlotte County"
+         }
+      },
+      "type": "9-Specialized public school district",
+      "grades": {
+         "lowest": "Ungraded",
+         "highest": "Ungraded"
+      },
+      "students": "0",
+      "fte": "†",
+      "pupilTeacherRatio": "–",
+      "numberOfSchools": "1"
+   },
+   {
+      "name": "Governor's School for the Arts",
+      "location": {
+         "state": {
+            "name": "Virginia",
+            "abbr": "VA",
+            "county": "Norfolk city"
+         }
+      },
+      "type": "9-Specialized public school district",
+      "grades": {
+         "lowest": "Ungraded",
+         "highest": "Ungraded"
+      },
+      "students": "0",
+      "fte": "†",
+      "pupilTeacherRatio": "–",
+      "numberOfSchools": "1"
+   },
+   {
+      "name": "Grayson Co Pblc Schs",
+      "location": {
+         "state": {
+            "name": "Virginia",
+            "abbr": "VA",
+            "county": "Grayson County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "1556",
+      "fte": "122.5",
+      "pupilTeacherRatio": "12.7",
+      "numberOfSchools": "7"
+   },
+   {
+      "name": "Greene Co Pblc Schs",
+      "location": {
+         "state": {
+            "name": "Virginia",
+            "abbr": "VA",
+            "county": "Greene County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "2976",
+      "fte": "188.5",
+      "pupilTeacherRatio": "15.79",
+      "numberOfSchools": "7"
+   },
+   {
+      "name": "Greensville Co Pblc Schs",
+      "location": {
+         "state": {
+            "name": "Virginia",
+            "abbr": "VA",
+            "county": "Emporia city"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "2223",
+      "fte": "188.75",
+      "pupilTeacherRatio": "11.78",
+      "numberOfSchools": "4"
+   },
+   {
+      "name": "Halifax Co Pblc Schs",
+      "location": {
+         "state": {
+            "name": "Virginia",
+            "abbr": "VA",
+            "county": "Halifax County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "4896",
+      "fte": "421.73",
+      "pupilTeacherRatio": "11.61",
+      "numberOfSchools": "11"
+   },
+   {
+      "name": "Hampton City Pblc Schs",
+      "location": {
+         "state": {
+            "name": "Virginia",
+            "abbr": "VA",
+            "county": "Hampton city"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "19589",
+      "fte": "1378.45",
+      "pupilTeacherRatio": "14.21",
+      "numberOfSchools": "33"
+   },
+   {
+      "name": "Hanover Co Pblc Schs",
+      "location": {
+         "state": {
+            "name": "Virginia",
+            "abbr": "VA",
+            "county": "Hanover County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "17541",
+      "fte": "1153.46",
+      "pupilTeacherRatio": "15.21",
+      "numberOfSchools": "25"
+   },
+   {
+      "name": "Harrisonburg City Pblc Schs",
+      "location": {
+         "state": {
+            "name": "Virginia",
+            "abbr": "VA",
+            "county": "Harrisonburg city"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "6611",
+      "fte": "482.09",
+      "pupilTeacherRatio": "13.71",
+      "numberOfSchools": "10"
+   },
+   {
+      "name": "Henrico Co Pblc Schs",
+      "location": {
+         "state": {
+            "name": "Virginia",
+            "abbr": "VA",
+            "county": "Henrico County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "51786",
+      "fte": "3030.57",
+      "pupilTeacherRatio": "17.09",
+      "numberOfSchools": "81"
+   },
+   {
+      "name": "Henry Co Pblc Schs",
+      "location": {
+         "state": {
+            "name": "Virginia",
+            "abbr": "VA",
+            "county": "Henry County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "7381",
+      "fte": "475.17",
+      "pupilTeacherRatio": "15.53",
+      "numberOfSchools": "13"
+   },
+   {
+      "name": "Highland Co Pblc Schs",
+      "location": {
+         "state": {
+            "name": "Virginia",
+            "abbr": "VA",
+            "county": "Highland County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "218",
+      "fte": "22.84",
+      "pupilTeacherRatio": "9.54",
+      "numberOfSchools": "2"
+   },
+   {
+      "name": "Hopewell City Pblc Schs",
+      "location": {
+         "state": {
+            "name": "Virginia",
+            "abbr": "VA",
+            "county": "Hopewell city"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "4283",
+      "fte": "318.86",
+      "pupilTeacherRatio": "13.43",
+      "numberOfSchools": "7"
+   },
+   {
+      "name": "Independence Nontraditional School - Middle",
+      "location": {
+         "state": {
+            "name": "Virginia",
+            "abbr": "VA",
+            "county": "Prince William County"
+         }
+      },
+      "type": "9-Specialized public school district",
+      "grades": {
+         "lowest": "Ungraded",
+         "highest": "Ungraded"
+      },
+      "students": "0",
+      "fte": "†",
+      "pupilTeacherRatio": "–",
+      "numberOfSchools": "1"
+   },
+   {
+      "name": "Isle of Wight Co Pblc Schs",
+      "location": {
+         "state": {
+            "name": "Virginia",
+            "abbr": "VA",
+            "county": "Isle of Wight County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "5630",
+      "fte": "369.97",
+      "pupilTeacherRatio": "15.22",
+      "numberOfSchools": "9"
+   },
+   {
+      "name": "Jackson River Governor's School",
+      "location": {
+         "state": {
+            "name": "Virginia",
+            "abbr": "VA",
+            "county": "Alleghany County"
+         }
+      },
+      "type": "9-Specialized public school district",
+      "grades": {
+         "lowest": "Ungraded",
+         "highest": "Ungraded"
+      },
+      "students": "0",
+      "fte": "†",
+      "pupilTeacherRatio": "–",
+      "numberOfSchools": "1"
+   },
+   {
+      "name": "Jackson River Tech Ctr",
+      "location": {
+         "state": {
+            "name": "Virginia",
+            "abbr": "VA",
+            "county": "Alleghany County"
+         }
+      },
+      "type": "9-Specialized public school district",
+      "grades": {
+         "lowest": "Ungraded",
+         "highest": "Ungraded"
+      },
+      "students": "0",
+      "fte": "†",
+      "pupilTeacherRatio": "–",
+      "numberOfSchools": "1"
+   },
+   {
+      "name": "King and Queen Co Pblc Schs",
+      "location": {
+         "state": {
+            "name": "Virginia",
+            "abbr": "VA",
+            "county": "King and Queen County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "833",
+      "fte": "56.53",
+      "pupilTeacherRatio": "14.74",
+      "numberOfSchools": "3"
+   },
+   {
+      "name": "King Geo Co Pblc Schs",
+      "location": {
+         "state": {
+            "name": "Virginia",
+            "abbr": "VA",
+            "county": "King George County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "4518",
+      "fte": "282.37",
+      "pupilTeacherRatio": "16",
+      "numberOfSchools": "5"
+   },
+   {
+      "name": "King William Co Pblc Schs",
+      "location": {
+         "state": {
+            "name": "Virginia",
+            "abbr": "VA",
+            "county": "King William County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "2188",
+      "fte": "143.3",
+      "pupilTeacherRatio": "15.27",
+      "numberOfSchools": "4"
+   },
+   {
+      "name": "Kings Daughters",
+      "location": {
+         "state": {
+            "name": "Virginia",
+            "abbr": "VA",
+            "county": "Norfolk city"
+         }
+      },
+      "type": "5-State agency providing elementary and/or secondary level instruction",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "0",
+      "fte": "0",
+      "pupilTeacherRatio": "†",
+      "numberOfSchools": "1"
+   },
+   {
+      "name": "Lancaster Co Pblc Schs",
+      "location": {
+         "state": {
+            "name": "Virginia",
+            "abbr": "VA",
+            "county": "Lancaster County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "1079",
+      "fte": "82.85",
+      "pupilTeacherRatio": "13.02",
+      "numberOfSchools": "3"
+   },
+   {
+      "name": "Laurel Regional",
+      "location": {
+         "state": {
+            "name": "Virginia",
+            "abbr": "VA",
+            "county": "Lynchburg city"
+         }
+      },
+      "type": "9-Specialized public school district",
+      "grades": {
+         "lowest": "Ungraded",
+         "highest": "Ungraded"
+      },
+      "students": "0",
+      "fte": "†",
+      "pupilTeacherRatio": "–",
+      "numberOfSchools": "1"
+   },
+   {
+      "name": "Lee Co Pblc Schs",
+      "location": {
+         "state": {
+            "name": "Virginia",
+            "abbr": "VA",
+            "county": "Lee County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "3192",
+      "fte": "262.85",
+      "pupilTeacherRatio": "12.14",
+      "numberOfSchools": "11"
+   },
+   {
+      "name": "Lexington City Pblc Schs",
+      "location": {
+         "state": {
+            "name": "Virginia",
+            "abbr": "VA",
+            "county": "Lexington city"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Kindergarten",
+         "highest": "8th Grade"
+      },
+      "students": "503",
+      "fte": "38.12",
+      "pupilTeacherRatio": "13.2",
+      "numberOfSchools": "2"
+   },
+   {
+      "name": "Loudoun Co Pblc Schs",
+      "location": {
+         "state": {
+            "name": "Virginia",
+            "abbr": "VA",
+            "county": "Loudoun County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "83606",
+      "fte": "5995.09",
+      "pupilTeacherRatio": "13.95",
+      "numberOfSchools": "94"
+   },
+   {
+      "name": "Louisa Co Pblc Schs",
+      "location": {
+         "state": {
+            "name": "Virginia",
+            "abbr": "VA",
+            "county": "Louisa County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "4987",
+      "fte": "366.15",
+      "pupilTeacherRatio": "13.62",
+      "numberOfSchools": "6"
+   },
+   {
+      "name": "Lunenburg Co Pblc Schs",
+      "location": {
+         "state": {
+            "name": "Virginia",
+            "abbr": "VA",
+            "county": "Lunenburg County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "1590",
+      "fte": "116.46",
+      "pupilTeacherRatio": "13.65",
+      "numberOfSchools": "4"
+   },
+   {
+      "name": "Lynchburg City Pblc Schs",
+      "location": {
+         "state": {
+            "name": "Virginia",
+            "abbr": "VA",
+            "county": "Lynchburg city"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "8197",
+      "fte": "600.59",
+      "pupilTeacherRatio": "13.65",
+      "numberOfSchools": "18"
+   },
+   {
+      "name": "Lynchburg City Secondary Alternative",
+      "location": {
+         "state": {
+            "name": "Virginia",
+            "abbr": "VA",
+            "county": "Lynchburg city"
+         }
+      },
+      "type": "9-Specialized public school district",
+      "grades": {
+         "lowest": "Ungraded",
+         "highest": "Ungraded"
+      },
+      "students": "0",
+      "fte": "†",
+      "pupilTeacherRatio": "–",
+      "numberOfSchools": "1"
+   },
+   {
+      "name": "Madison Co Pblc Schs",
+      "location": {
+         "state": {
+            "name": "Virginia",
+            "abbr": "VA",
+            "county": "Madison County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "1659",
+      "fte": "122.86",
+      "pupilTeacherRatio": "13.5",
+      "numberOfSchools": "4"
+   },
+   {
+      "name": "Maggie L. Walker Gov Sch",
+      "location": {
+         "state": {
+            "name": "Virginia",
+            "abbr": "VA",
+            "county": "Richmond city"
+         }
+      },
+      "type": "9-Specialized public school district",
+      "grades": {
+         "lowest": "Ungraded",
+         "highest": "Ungraded"
+      },
+      "students": "0",
+      "fte": "†",
+      "pupilTeacherRatio": "–",
+      "numberOfSchools": "1"
+   },
+   {
+      "name": "Manassas City Pblc Schs",
+      "location": {
+         "state": {
+            "name": "Virginia",
+            "abbr": "VA",
+            "county": "Manassas city"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "7789",
+      "fte": "515.57",
+      "pupilTeacherRatio": "15.11",
+      "numberOfSchools": "11"
+   },
+   {
+      "name": "Manassas Park City Pblc Schs",
+      "location": {
+         "state": {
+            "name": "Virginia",
+            "abbr": "VA",
+            "county": "Manassas Park city"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "3640",
+      "fte": "260.08",
+      "pupilTeacherRatio": "14",
+      "numberOfSchools": "4"
+   },
+   {
+      "name": "Martinsville City Pblc Schs",
+      "location": {
+         "state": {
+            "name": "Virginia",
+            "abbr": "VA",
+            "county": "Martinsville city"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "1930",
+      "fte": "139.06",
+      "pupilTeacherRatio": "13.88",
+      "numberOfSchools": "5"
+   },
+   {
+      "name": "Massanutten Governor's Sch",
+      "location": {
+         "state": {
+            "name": "Virginia",
+            "abbr": "VA",
+            "county": "Shenandoah County"
+         }
+      },
+      "type": "9-Specialized public school district",
+      "grades": {
+         "lowest": "Ungraded",
+         "highest": "Ungraded"
+      },
+      "students": "0",
+      "fte": "†",
+      "pupilTeacherRatio": "–",
+      "numberOfSchools": "1"
+   },
+   {
+      "name": "Massanutten Tech Ctr",
+      "location": {
+         "state": {
+            "name": "Virginia",
+            "abbr": "VA",
+            "county": "Harrisonburg city"
+         }
+      },
+      "type": "9-Specialized public school district",
+      "grades": {
+         "lowest": "Ungraded",
+         "highest": "Ungraded"
+      },
+      "students": "0",
+      "fte": "†",
+      "pupilTeacherRatio": "–",
+      "numberOfSchools": "1"
+   },
+   {
+      "name": "Mathews Co Pblc Schs",
+      "location": {
+         "state": {
+            "name": "Virginia",
+            "abbr": "VA",
+            "county": "Mathews County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "1008",
+      "fte": "93.44",
+      "pupilTeacherRatio": "10.79",
+      "numberOfSchools": "3"
+   },
+   {
+      "name": "Mcv/va Treatment Ctr",
+      "location": {
+         "state": {
+            "name": "Virginia",
+            "abbr": "VA",
+            "county": "Richmond city"
+         }
+      },
+      "type": "5-State agency providing elementary and/or secondary level instruction",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "0",
+      "fte": "0",
+      "pupilTeacherRatio": "†",
+      "numberOfSchools": "1"
+   },
+   {
+      "name": "Mecklenburg Co Pblc Schs",
+      "location": {
+         "state": {
+            "name": "Virginia",
+            "abbr": "VA",
+            "county": "Mecklenburg County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "4199",
+      "fte": "339.56",
+      "pupilTeacherRatio": "12.37",
+      "numberOfSchools": "9"
+   },
+   {
+      "name": "Medical College of Va",
+      "location": {
+         "state": {
+            "name": "Virginia",
+            "abbr": "VA",
+            "county": "Richmond city"
+         }
+      },
+      "type": "5-State agency providing elementary and/or secondary level instruction",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "0",
+      "fte": "0",
+      "pupilTeacherRatio": "†",
+      "numberOfSchools": "1"
+   },
+   {
+      "name": "Metro Richmond Alternative Ed",
+      "location": {
+         "state": {
+            "name": "Virginia",
+            "abbr": "VA",
+            "county": "Richmond city"
+         }
+      },
+      "type": "9-Specialized public school district",
+      "grades": {
+         "lowest": "Ungraded",
+         "highest": "Ungraded"
+      },
+      "students": "0",
+      "fte": "†",
+      "pupilTeacherRatio": "–",
+      "numberOfSchools": "1"
+   },
+   {
+      "name": "Middlesex Co Pblc Schs",
+      "location": {
+         "state": {
+            "name": "Virginia",
+            "abbr": "VA",
+            "county": "Middlesex County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "1208",
+      "fte": "95.1",
+      "pupilTeacherRatio": "12.7",
+      "numberOfSchools": "3"
+   },
+   {
+      "name": "Montgomery Co Pblc Schs",
+      "location": {
+         "state": {
+            "name": "Virginia",
+            "abbr": "VA",
+            "county": "Montgomery County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "10016",
+      "fte": "758.44",
+      "pupilTeacherRatio": "13.21",
+      "numberOfSchools": "21"
+   },
+   {
+      "name": "Mountain Vista Governor's Sch",
+      "location": {
+         "state": {
+            "name": "Virginia",
+            "abbr": "VA",
+            "county": "Fauquier County"
+         }
+      },
+      "type": "9-Specialized public school district",
+      "grades": {
+         "lowest": "Ungraded",
+         "highest": "Ungraded"
+      },
+      "students": "0",
+      "fte": "†",
+      "pupilTeacherRatio": "–",
+      "numberOfSchools": "1"
+   },
+   {
+      "name": "N Virginia Reg Spec Ed Pgm",
+      "location": {
+         "state": {
+            "name": "Virginia",
+            "abbr": "VA",
+            "county": "Prince William County"
+         }
+      },
+      "type": "9-Specialized public school district",
+      "grades": {
+         "lowest": "Ungraded",
+         "highest": "Ungraded"
+      },
+      "students": "0",
+      "fte": "†",
+      "pupilTeacherRatio": "–",
+      "numberOfSchools": "1"
+   },
+   {
+      "name": "N. Va. Trn Ct",
+      "location": {
+         "state": {
+            "name": "Virginia",
+            "abbr": "VA",
+            "county": "Fairfax County"
+         }
+      },
+      "type": "5-State agency providing elementary and/or secondary level instruction",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "0",
+      "fte": "0",
+      "pupilTeacherRatio": "†",
+      "numberOfSchools": "1"
+   },
+   {
+      "name": "Nelson Co Pblc Schs",
+      "location": {
+         "state": {
+            "name": "Virginia",
+            "abbr": "VA",
+            "county": "Nelson County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "1695",
+      "fte": "135.19",
+      "pupilTeacherRatio": "12.54",
+      "numberOfSchools": "4"
+   },
+   {
+      "name": "New Horizons Career & Tech Ctr",
+      "location": {
+         "state": {
+            "name": "Virginia",
+            "abbr": "VA",
+            "county": "Hampton city"
+         }
+      },
+      "type": "9-Specialized public school district",
+      "grades": {
+         "lowest": "Ungraded",
+         "highest": "Ungraded"
+      },
+      "students": "0",
+      "fte": "†",
+      "pupilTeacherRatio": "–",
+      "numberOfSchools": "3"
+   },
+   {
+      "name": "New Horizons Gov School",
+      "location": {
+         "state": {
+            "name": "Virginia",
+            "abbr": "VA",
+            "county": "Hampton city"
+         }
+      },
+      "type": "9-Specialized public school district",
+      "grades": {
+         "lowest": "Ungraded",
+         "highest": "Ungraded"
+      },
+      "students": "0",
+      "fte": "†",
+      "pupilTeacherRatio": "–",
+      "numberOfSchools": "1"
+   },
+   {
+      "name": "New Horizons Regional Educ Ctr-Spec Ed",
+      "location": {
+         "state": {
+            "name": "Virginia",
+            "abbr": "VA",
+            "county": "Hampton city"
+         }
+      },
+      "type": "9-Specialized public school district",
+      "grades": {
+         "lowest": "Ungraded",
+         "highest": "Ungraded"
+      },
+      "students": "0",
+      "fte": "†",
+      "pupilTeacherRatio": "–",
+      "numberOfSchools": "2"
+   },
+   {
+      "name": "New Kent Co Pblc Schs",
+      "location": {
+         "state": {
+            "name": "Virginia",
+            "abbr": "VA",
+            "county": "New Kent County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "3354",
+      "fte": "214.45",
+      "pupilTeacherRatio": "15.64",
+      "numberOfSchools": "4"
+   },
+   {
+      "name": "Newport News City Pblc Schs",
+      "location": {
+         "state": {
+            "name": "Virginia",
+            "abbr": "VA",
+            "county": "Newport News city"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "28650",
+      "fte": "1791.09",
+      "pupilTeacherRatio": "16",
+      "numberOfSchools": "45"
+   },
+   {
+      "name": "Norfolk City Pblc Schs",
+      "location": {
+         "state": {
+            "name": "Virginia",
+            "abbr": "VA",
+            "county": "Norfolk city"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "29837",
+      "fte": "2157.46",
+      "pupilTeacherRatio": "13.83",
+      "numberOfSchools": "51"
+   },
+   {
+      "name": "Northampton Co Pblc Schs",
+      "location": {
+         "state": {
+            "name": "Virginia",
+            "abbr": "VA",
+            "county": "Northampton County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "1520",
+      "fte": "126.8",
+      "pupilTeacherRatio": "11.99",
+      "numberOfSchools": "5"
+   },
+   {
+      "name": "Northern Neck Regional Alternative Ed",
+      "location": {
+         "state": {
+            "name": "Virginia",
+            "abbr": "VA",
+            "county": "Richmond County"
+         }
+      },
+      "type": "9-Specialized public school district",
+      "grades": {
+         "lowest": "Ungraded",
+         "highest": "Ungraded"
+      },
+      "students": "0",
+      "fte": "†",
+      "pupilTeacherRatio": "–",
+      "numberOfSchools": "1"
+   },
+   {
+      "name": "Northern Neck Technical Center",
+      "location": {
+         "state": {
+            "name": "Virginia",
+            "abbr": "VA",
+            "county": "Richmond County"
+         }
+      },
+      "type": "9-Specialized public school district",
+      "grades": {
+         "lowest": "Ungraded",
+         "highest": "Ungraded"
+      },
+      "students": "0",
+      "fte": "†",
+      "pupilTeacherRatio": "–",
+      "numberOfSchools": "2"
+   },
+   {
+      "name": "Northumberland Co Pblc Schs",
+      "location": {
+         "state": {
+            "name": "Virginia",
+            "abbr": "VA",
+            "county": "Northumberland County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "1279",
+      "fte": "101.91",
+      "pupilTeacherRatio": "12.55",
+      "numberOfSchools": "3"
+   },
+   {
+      "name": "Northwestern Reg Ed Pgm",
+      "location": {
+         "state": {
+            "name": "Virginia",
+            "abbr": "VA",
+            "county": "Frederick County"
+         }
+      },
+      "type": "9-Specialized public school district",
+      "grades": {
+         "lowest": "Ungraded",
+         "highest": "Ungraded"
+      },
+      "students": "0",
+      "fte": "†",
+      "pupilTeacherRatio": "–",
+      "numberOfSchools": "1"
+   },
+   {
+      "name": "Norton City Pblc Schs",
+      "location": {
+         "state": {
+            "name": "Virginia",
+            "abbr": "VA",
+            "county": "Norton city"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "818",
+      "fte": "53.81",
+      "pupilTeacherRatio": "15.2",
+      "numberOfSchools": "2"
+   },
+   {
+      "name": "Nottoway Co Pblc Schs",
+      "location": {
+         "state": {
+            "name": "Virginia",
+            "abbr": "VA",
+            "county": "Nottoway County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "1990",
+      "fte": "148.24",
+      "pupilTeacherRatio": "13.42",
+      "numberOfSchools": "5"
+   },
+   {
+      "name": "Old Dom Job Corp",
+      "location": {
+         "state": {
+            "name": "Virginia",
+            "abbr": "VA",
+            "county": "Amherst County"
+         }
+      },
+      "type": "6-Federal agency providing elementary and/or secondary level instruction",
+      "grades": {
+         "lowest": "†",
+         "highest": "†"
+      },
+      "students": "0",
+      "fte": "†",
+      "pupilTeacherRatio": "–",
+      "numberOfSchools": "0"
+   },
+   {
+      "name": "Orange Co Pblc Schs",
+      "location": {
+         "state": {
+            "name": "Virginia",
+            "abbr": "VA",
+            "county": "Orange County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "5089",
+      "fte": "362.2",
+      "pupilTeacherRatio": "14.05",
+      "numberOfSchools": "11"
+   },
+   {
+      "name": "Page Co Pblc Schs",
+      "location": {
+         "state": {
+            "name": "Virginia",
+            "abbr": "VA",
+            "county": "Page County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "3352",
+      "fte": "233.05",
+      "pupilTeacherRatio": "14.38",
+      "numberOfSchools": "9"
+   },
+   {
+      "name": "Patrick Co Pblc Schs",
+      "location": {
+         "state": {
+            "name": "Virginia",
+            "abbr": "VA",
+            "county": "Patrick County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "2558",
+      "fte": "181.01",
+      "pupilTeacherRatio": "14.13",
+      "numberOfSchools": "7"
+   },
+   {
+      "name": "Petersburg City Pblc Schs",
+      "location": {
+         "state": {
+            "name": "Virginia",
+            "abbr": "VA",
+            "county": "Petersburg city"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "4209",
+      "fte": "308.25",
+      "pupilTeacherRatio": "13.65",
+      "numberOfSchools": "7"
+   },
+   {
+      "name": "Petersburg Regional Alternative",
+      "location": {
+         "state": {
+            "name": "Virginia",
+            "abbr": "VA",
+            "county": "Petersburg city"
+         }
+      },
+      "type": "9-Specialized public school district",
+      "grades": {
+         "lowest": "Ungraded",
+         "highest": "Ungraded"
+      },
+      "students": "0",
+      "fte": "†",
+      "pupilTeacherRatio": "–",
+      "numberOfSchools": "1"
+   },
+   {
+      "name": "Piedmont Alternative School",
+      "location": {
+         "state": {
+            "name": "Virginia",
+            "abbr": "VA",
+            "county": "Nottoway County"
+         }
+      },
+      "type": "9-Specialized public school district",
+      "grades": {
+         "lowest": "Ungraded",
+         "highest": "Ungraded"
+      },
+      "students": "0",
+      "fte": "†",
+      "pupilTeacherRatio": "–",
+      "numberOfSchools": "1"
+   },
+   {
+      "name": "Piedmont Gov Sch for Math/sci/tech",
+      "location": {
+         "state": {
+            "name": "Virginia",
+            "abbr": "VA",
+            "county": "Henry County"
+         }
+      },
+      "type": "9-Specialized public school district",
+      "grades": {
+         "lowest": "Ungraded",
+         "highest": "Ungraded"
+      },
+      "students": "0",
+      "fte": "†",
+      "pupilTeacherRatio": "–",
+      "numberOfSchools": "1"
+   },
+   {
+      "name": "Piedmont Regional Ed.",
+      "location": {
+         "state": {
+            "name": "Virginia",
+            "abbr": "VA",
+            "county": "Albemarle County"
+         }
+      },
+      "type": "9-Specialized public school district",
+      "grades": {
+         "lowest": "Ungraded",
+         "highest": "Ungraded"
+      },
+      "students": "0",
+      "fte": "†",
+      "pupilTeacherRatio": "–",
+      "numberOfSchools": "1"
+   },
+   {
+      "name": "Pittsylvania Co Pblc Schs",
+      "location": {
+         "state": {
+            "name": "Virginia",
+            "abbr": "VA",
+            "county": "Pittsylvania County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "8723",
+      "fte": "633.19",
+      "pupilTeacherRatio": "13.78",
+      "numberOfSchools": "20"
+   },
+   {
+      "name": "Poquoson City Pblc Schs",
+      "location": {
+         "state": {
+            "name": "Virginia",
+            "abbr": "VA",
+            "county": "Poquoson city"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "2114",
+      "fte": "144.91",
+      "pupilTeacherRatio": "14.59",
+      "numberOfSchools": "4"
+   },
+   {
+      "name": "Portsmouth City Pblc Schs",
+      "location": {
+         "state": {
+            "name": "Virginia",
+            "abbr": "VA",
+            "county": "Portsmouth city"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "13991",
+      "fte": "940.07",
+      "pupilTeacherRatio": "14.88",
+      "numberOfSchools": "24"
+   },
+   {
+      "name": "Powhatan Co Pblc Schs",
+      "location": {
+         "state": {
+            "name": "Virginia",
+            "abbr": "VA",
+            "county": "Powhatan County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "4346",
+      "fte": "318.14",
+      "pupilTeacherRatio": "13.66",
+      "numberOfSchools": "6"
+   },
+   {
+      "name": "Prince Edward Co Pblc Schs",
+      "location": {
+         "state": {
+            "name": "Virginia",
+            "abbr": "VA",
+            "county": "Prince Edward County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "2055",
+      "fte": "162.71",
+      "pupilTeacherRatio": "12.63",
+      "numberOfSchools": "4"
+   },
+   {
+      "name": "Prince George Co Pblc Schs",
+      "location": {
+         "state": {
+            "name": "Virginia",
+            "abbr": "VA",
+            "county": "Prince George County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "6353",
+      "fte": "424.19",
+      "pupilTeacherRatio": "14.98",
+      "numberOfSchools": "7"
+   },
+   {
+      "name": "Prince William Co Pblc Schs",
+      "location": {
+         "state": {
+            "name": "Virginia",
+            "abbr": "VA",
+            "county": "Prince William County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "92237",
+      "fte": "5696.94",
+      "pupilTeacherRatio": "16.19",
+      "numberOfSchools": "95"
+   },
+   {
+      "name": "Project Bridge/russell Co",
+      "location": {
+         "state": {
+            "name": "Virginia",
+            "abbr": "VA",
+            "county": "Russell County"
+         }
+      },
+      "type": "9-Specialized public school district",
+      "grades": {
+         "lowest": "Ungraded",
+         "highest": "Ungraded"
+      },
+      "students": "0",
+      "fte": "†",
+      "pupilTeacherRatio": "–",
+      "numberOfSchools": "1"
+   },
+   {
+      "name": "Project Renew/northampton Co",
+      "location": {
+         "state": {
+            "name": "Virginia",
+            "abbr": "VA",
+            "county": "Northampton County"
+         }
+      },
+      "type": "9-Specialized public school district",
+      "grades": {
+         "lowest": "Ungraded",
+         "highest": "Ungraded"
+      },
+      "students": "0",
+      "fte": "†",
+      "pupilTeacherRatio": "–",
+      "numberOfSchools": "1"
+   },
+   {
+      "name": "Project Return/fluvanna Co",
+      "location": {
+         "state": {
+            "name": "Virginia",
+            "abbr": "VA",
+            "county": "Fluvanna County"
+         }
+      },
+      "type": "9-Specialized public school district",
+      "grades": {
+         "lowest": "Ungraded",
+         "highest": "Ungraded"
+      },
+      "students": "0",
+      "fte": "†",
+      "pupilTeacherRatio": "–",
+      "numberOfSchools": "1"
+   },
+   {
+      "name": "Project Return/powhatan Co",
+      "location": {
+         "state": {
+            "name": "Virginia",
+            "abbr": "VA",
+            "county": "Powhatan County"
+         }
+      },
+      "type": "9-Specialized public school district",
+      "grades": {
+         "lowest": "Ungraded",
+         "highest": "Ungraded"
+      },
+      "students": "0",
+      "fte": "†",
+      "pupilTeacherRatio": "–",
+      "numberOfSchools": "1"
+   },
+   {
+      "name": "Pulaski Co Pblc Schs",
+      "location": {
+         "state": {
+            "name": "Virginia",
+            "abbr": "VA",
+            "county": "Pulaski County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "4096",
+      "fte": "269.36",
+      "pupilTeacherRatio": "15.21",
+      "numberOfSchools": "9"
+   },
+   {
+      "name": "Radford City Pblc Schs",
+      "location": {
+         "state": {
+            "name": "Virginia",
+            "abbr": "VA",
+            "county": "Radford city"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "1642",
+      "fte": "117.07",
+      "pupilTeacherRatio": "14.03",
+      "numberOfSchools": "4"
+   },
+   {
+      "name": "Rappahannock Co Pblc Schs",
+      "location": {
+         "state": {
+            "name": "Virginia",
+            "abbr": "VA",
+            "county": "Rappahannock County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "791",
+      "fte": "64.19",
+      "pupilTeacherRatio": "12.32",
+      "numberOfSchools": "2"
+   },
+   {
+      "name": "Reg Alt Ed Center/buena Vista",
+      "location": {
+         "state": {
+            "name": "Virginia",
+            "abbr": "VA",
+            "county": "Buena Vista city"
+         }
+      },
+      "type": "9-Specialized public school district",
+      "grades": {
+         "lowest": "Ungraded",
+         "highest": "Ungraded"
+      },
+      "students": "0",
+      "fte": "†",
+      "pupilTeacherRatio": "–",
+      "numberOfSchools": "1"
+   },
+   {
+      "name": "Reg Alternative Plus Self Project/roanoke City",
+      "location": {
+         "state": {
+            "name": "Virginia",
+            "abbr": "VA",
+            "county": "Roanoke city"
+         }
+      },
+      "type": "9-Specialized public school district",
+      "grades": {
+         "lowest": "Ungraded",
+         "highest": "Ungraded"
+      },
+      "students": "0",
+      "fte": "†",
+      "pupilTeacherRatio": "–",
+      "numberOfSchools": "1"
+   },
+   {
+      "name": "Regional Alternative Ed/king William",
+      "location": {
+         "state": {
+            "name": "Virginia",
+            "abbr": "VA",
+            "county": "King William County"
+         }
+      },
+      "type": "9-Specialized public school district",
+      "grades": {
+         "lowest": "Ungraded",
+         "highest": "Ungraded"
+      },
+      "students": "0",
+      "fte": "†",
+      "pupilTeacherRatio": "–",
+      "numberOfSchools": "1"
+   },
+   {
+      "name": "Regional Alternative Ed/stafford Co",
+      "location": {
+         "state": {
+            "name": "Virginia",
+            "abbr": "VA",
+            "county": "Stafford County"
+         }
+      },
+      "type": "9-Specialized public school district",
+      "grades": {
+         "lowest": "Ungraded",
+         "highest": "Ungraded"
+      },
+      "students": "0",
+      "fte": "†",
+      "pupilTeacherRatio": "–",
+      "numberOfSchools": "1"
+   },
+   {
+      "name": "Regional Alternative/pittslvania Co",
+      "location": {
+         "state": {
+            "name": "Virginia",
+            "abbr": "VA",
+            "county": "Pittsylvania County"
+         }
+      },
+      "type": "9-Specialized public school district",
+      "grades": {
+         "lowest": "Ungraded",
+         "highest": "Ungraded"
+      },
+      "students": "0",
+      "fte": "†",
+      "pupilTeacherRatio": "–",
+      "numberOfSchools": "1"
+   },
+   {
+      "name": "Regional Alternative/wythe Co",
+      "location": {
+         "state": {
+            "name": "Virginia",
+            "abbr": "VA",
+            "county": "Wythe County"
+         }
+      },
+      "type": "9-Specialized public school district",
+      "grades": {
+         "lowest": "Ungraded",
+         "highest": "Ungraded"
+      },
+      "students": "0",
+      "fte": "†",
+      "pupilTeacherRatio": "–",
+      "numberOfSchools": "1"
+   },
+   {
+      "name": "Regional Learning Academy/wise Co",
+      "location": {
+         "state": {
+            "name": "Virginia",
+            "abbr": "VA",
+            "county": "Wise County"
+         }
+      },
+      "type": "9-Specialized public school district",
+      "grades": {
+         "lowest": "Ungraded",
+         "highest": "Ungraded"
+      },
+      "students": "0",
+      "fte": "†",
+      "pupilTeacherRatio": "–",
+      "numberOfSchools": "1"
+   },
+   {
+      "name": "Renaissance/scott Co",
+      "location": {
+         "state": {
+            "name": "Virginia",
+            "abbr": "VA",
+            "county": "Scott County"
+         }
+      },
+      "type": "9-Specialized public school district",
+      "grades": {
+         "lowest": "Ungraded",
+         "highest": "Ungraded"
+      },
+      "students": "0",
+      "fte": "†",
+      "pupilTeacherRatio": "–",
+      "numberOfSchools": "1"
+   },
+   {
+      "name": "Richmond City Pblc Schs",
+      "location": {
+         "state": {
+            "name": "Virginia",
+            "abbr": "VA",
+            "county": "Richmond city"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "25211",
+      "fte": "1483.75",
+      "pupilTeacherRatio": "16.99",
+      "numberOfSchools": "54"
+   },
+   {
+      "name": "Richmond Co Pblc Schs",
+      "location": {
+         "state": {
+            "name": "Virginia",
+            "abbr": "VA",
+            "county": "Richmond County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "1301",
+      "fte": "89.33",
+      "pupilTeacherRatio": "14.56",
+      "numberOfSchools": "3"
+   },
+   {
+      "name": "Roanoke City Pblc Schs",
+      "location": {
+         "state": {
+            "name": "Virginia",
+            "abbr": "VA",
+            "county": "Roanoke city"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "14039",
+      "fte": "899.87",
+      "pupilTeacherRatio": "15.6",
+      "numberOfSchools": "26"
+   },
+   {
+      "name": "Roanoke Co Pblc Schs",
+      "location": {
+         "state": {
+            "name": "Virginia",
+            "abbr": "VA",
+            "county": "Roanoke County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "13999",
+      "fte": "1020.62",
+      "pupilTeacherRatio": "13.72",
+      "numberOfSchools": "28"
+   },
+   {
+      "name": "Roanoke Valley Gov Sch",
+      "location": {
+         "state": {
+            "name": "Virginia",
+            "abbr": "VA",
+            "county": "Roanoke city"
+         }
+      },
+      "type": "9-Specialized public school district",
+      "grades": {
+         "lowest": "Ungraded",
+         "highest": "Ungraded"
+      },
+      "students": "0",
+      "fte": "†",
+      "pupilTeacherRatio": "–",
+      "numberOfSchools": "1"
+   },
+   {
+      "name": "Rockbridge Co Pblc Schs",
+      "location": {
+         "state": {
+            "name": "Virginia",
+            "abbr": "VA",
+            "county": "Rockbridge County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "2819",
+      "fte": "217.15",
+      "pupilTeacherRatio": "12.98",
+      "numberOfSchools": "6"
+   },
+   {
+      "name": "Rockingham Co Pblc Schs",
+      "location": {
+         "state": {
+            "name": "Virginia",
+            "abbr": "VA",
+            "county": "Harrisonburg city"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "11911",
+      "fte": "786.95",
+      "pupilTeacherRatio": "15.14",
+      "numberOfSchools": "23"
+   },
+   {
+      "name": "Rowanty Vocational Tech Ctr",
+      "location": {
+         "state": {
+            "name": "Virginia",
+            "abbr": "VA",
+            "county": "Prince George County"
+         }
+      },
+      "type": "9-Specialized public school district",
+      "grades": {
+         "lowest": "Ungraded",
+         "highest": "Ungraded"
+      },
+      "students": "0",
+      "fte": "†",
+      "pupilTeacherRatio": "–",
+      "numberOfSchools": "1"
+   },
+   {
+      "name": "Russell Co Pblc Schs",
+      "location": {
+         "state": {
+            "name": "Virginia",
+            "abbr": "VA",
+            "county": "Russell County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "3715",
+      "fte": "267",
+      "pupilTeacherRatio": "13.91",
+      "numberOfSchools": "13"
+   },
+   {
+      "name": "S.east Va Trn Ct",
+      "location": {
+         "state": {
+            "name": "Virginia",
+            "abbr": "VA",
+            "county": "Chesapeake city"
+         }
+      },
+      "type": "5-State agency providing elementary and/or secondary level instruction",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "0",
+      "fte": "0",
+      "pupilTeacherRatio": "†",
+      "numberOfSchools": "1"
+   },
+   {
+      "name": "S.side Va Trn Ct",
+      "location": {
+         "state": {
+            "name": "Virginia",
+            "abbr": "VA",
+            "county": "Dinwiddie County"
+         }
+      },
+      "type": "5-State agency providing elementary and/or secondary level instruction",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "0",
+      "fte": "0",
+      "pupilTeacherRatio": "†",
+      "numberOfSchools": "1"
+   },
+   {
+      "name": "Salem City Pblc Schs",
+      "location": {
+         "state": {
+            "name": "Virginia",
+            "abbr": "VA",
+            "county": "Salem city"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "3926",
+      "fte": "260.94",
+      "pupilTeacherRatio": "15.05",
+      "numberOfSchools": "6"
+   },
+   {
+      "name": "Scott Co Pblc Schs",
+      "location": {
+         "state": {
+            "name": "Virginia",
+            "abbr": "VA",
+            "county": "Scott County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "3512",
+      "fte": "240.25",
+      "pupilTeacherRatio": "14.62",
+      "numberOfSchools": "14"
+   },
+   {
+      "name": "Shenandoah Co Pblc Schs",
+      "location": {
+         "state": {
+            "name": "Virginia",
+            "abbr": "VA",
+            "county": "Shenandoah County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "6002",
+      "fte": "445.8",
+      "pupilTeacherRatio": "13.46",
+      "numberOfSchools": "10"
+   },
+   {
+      "name": "Shenandoah Valley Governors School",
+      "location": {
+         "state": {
+            "name": "Virginia",
+            "abbr": "VA",
+            "county": "Augusta County"
+         }
+      },
+      "type": "9-Specialized public school district",
+      "grades": {
+         "lowest": "Ungraded",
+         "highest": "Ungraded"
+      },
+      "students": "0",
+      "fte": "†",
+      "pupilTeacherRatio": "–",
+      "numberOfSchools": "1"
+   },
+   {
+      "name": "Smyth Co Pblc Schs",
+      "location": {
+         "state": {
+            "name": "Virginia",
+            "abbr": "VA",
+            "county": "Smyth County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "4268",
+      "fte": "309.53",
+      "pupilTeacherRatio": "13.79",
+      "numberOfSchools": "14"
+   },
+   {
+      "name": "Southampton Co Pblc Schs",
+      "location": {
+         "state": {
+            "name": "Virginia",
+            "abbr": "VA",
+            "county": "Southampton County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "2803",
+      "fte": "180.45",
+      "pupilTeacherRatio": "15.53",
+      "numberOfSchools": "7"
+   },
+   {
+      "name": "Southside L.i.n.k. Project/brunswick Co",
+      "location": {
+         "state": {
+            "name": "Virginia",
+            "abbr": "VA",
+            "county": "Brunswick County"
+         }
+      },
+      "type": "9-Specialized public school district",
+      "grades": {
+         "lowest": "Ungraded",
+         "highest": "Ungraded"
+      },
+      "students": "0",
+      "fte": "†",
+      "pupilTeacherRatio": "–",
+      "numberOfSchools": "1"
+   },
+   {
+      "name": "Southwest Virginia Gov Sch",
+      "location": {
+         "state": {
+            "name": "Virginia",
+            "abbr": "VA",
+            "county": "Pulaski County"
+         }
+      },
+      "type": "9-Specialized public school district",
+      "grades": {
+         "lowest": "Ungraded",
+         "highest": "Ungraded"
+      },
+      "students": "0",
+      "fte": "†",
+      "pupilTeacherRatio": "–",
+      "numberOfSchools": "1"
+   },
+   {
+      "name": "Spotsylvania Co Pblc Schs",
+      "location": {
+         "state": {
+            "name": "Virginia",
+            "abbr": "VA",
+            "county": "Spotsylvania County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "23882",
+      "fte": "1417.53",
+      "pupilTeacherRatio": "16.85",
+      "numberOfSchools": "34"
+   },
+   {
+      "name": "Stafford Co Pblc Schs",
+      "location": {
+         "state": {
+            "name": "Virginia",
+            "abbr": "VA",
+            "county": "Stafford County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "30086",
+      "fte": "1769.26",
+      "pupilTeacherRatio": "17",
+      "numberOfSchools": "34"
+   },
+   {
+      "name": "Staunton City Pblc Schs",
+      "location": {
+         "state": {
+            "name": "Virginia",
+            "abbr": "VA",
+            "county": "Staunton city"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "2737",
+      "fte": "177.75",
+      "pupilTeacherRatio": "15.4",
+      "numberOfSchools": "6"
+   },
+   {
+      "name": "Suffolk City Pblc Schs",
+      "location": {
+         "state": {
+            "name": "Virginia",
+            "abbr": "VA",
+            "county": "Suffolk city"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "14322",
+      "fte": "995.22",
+      "pupilTeacherRatio": "14.39",
+      "numberOfSchools": "22"
+   },
+   {
+      "name": "Surry Co Pblc Schs",
+      "location": {
+         "state": {
+            "name": "Virginia",
+            "abbr": "VA",
+            "county": "Surry County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "738",
+      "fte": "79.02",
+      "pupilTeacherRatio": "9.34",
+      "numberOfSchools": "3"
+   },
+   {
+      "name": "Sussex Co Pblc Schs",
+      "location": {
+         "state": {
+            "name": "Virginia",
+            "abbr": "VA",
+            "county": "Sussex County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "1091",
+      "fte": "92.64",
+      "pupilTeacherRatio": "11.78",
+      "numberOfSchools": "3"
+   },
+   {
+      "name": "Sw Va Mental Health Institute",
+      "location": {
+         "state": {
+            "name": "Virginia",
+            "abbr": "VA",
+            "county": "Smyth County"
+         }
+      },
+      "type": "5-State agency providing elementary and/or secondary level instruction",
+      "grades": {
+         "lowest": "6th Grade",
+         "highest": "12th Grade"
+      },
+      "students": "0",
+      "fte": "0",
+      "pupilTeacherRatio": "†",
+      "numberOfSchools": "1"
+   },
+   {
+      "name": "Tazewell Co Pblc Schs",
+      "location": {
+         "state": {
+            "name": "Virginia",
+            "abbr": "VA",
+            "county": "Tazewell County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "5585",
+      "fte": "351.03",
+      "pupilTeacherRatio": "15.91",
+      "numberOfSchools": "14"
+   },
+   {
+      "name": "The Governor's School @ Innovation Park",
+      "location": {
+         "state": {
+            "name": "Virginia",
+            "abbr": "VA",
+            "county": "Prince William County"
+         }
+      },
+      "type": "9-Specialized public school district",
+      "grades": {
+         "lowest": "Ungraded",
+         "highest": "Ungraded"
+      },
+      "students": "0",
+      "fte": "†",
+      "pupilTeacherRatio": "–",
+      "numberOfSchools": "1"
+   },
+   {
+      "name": "The Regional Community Alternative Ed Continuum",
+      "location": {
+         "state": {
+            "name": "Virginia",
+            "abbr": "VA",
+            "county": "Fauquier County"
+         }
+      },
+      "type": "9-Specialized public school district",
+      "grades": {
+         "lowest": "Ungraded",
+         "highest": "Ungraded"
+      },
+      "students": "0",
+      "fte": "†",
+      "pupilTeacherRatio": "–",
+      "numberOfSchools": "1"
+   },
+   {
+      "name": "Three Rivers Pilot Project/york Co",
+      "location": {
+         "state": {
+            "name": "Virginia",
+            "abbr": "VA",
+            "county": "York County"
+         }
+      },
+      "type": "4-Regional Education Service Agency (RESA)",
+      "grades": {
+         "lowest": "Ungraded",
+         "highest": "Ungraded"
+      },
+      "students": "0",
+      "fte": "†",
+      "pupilTeacherRatio": "–",
+      "numberOfSchools": "0"
+   },
+   {
+      "name": "Tidewater Regional Alternative Ed Project",
+      "location": {
+         "state": {
+            "name": "Virginia",
+            "abbr": "VA",
+            "county": "Norfolk city"
+         }
+      },
+      "type": "9-Specialized public school district",
+      "grades": {
+         "lowest": "Ungraded",
+         "highest": "Ungraded"
+      },
+      "students": "0",
+      "fte": "†",
+      "pupilTeacherRatio": "–",
+      "numberOfSchools": "1"
+   },
+   {
+      "name": "Transition Support Resource Ctr/fairfax",
+      "location": {
+         "state": {
+            "name": "Virginia",
+            "abbr": "VA",
+            "county": "Fairfax County"
+         }
+      },
+      "type": "9-Specialized public school district",
+      "grades": {
+         "lowest": "Ungraded",
+         "highest": "Ungraded"
+      },
+      "students": "0",
+      "fte": "†",
+      "pupilTeacherRatio": "–",
+      "numberOfSchools": "1"
+   },
+   {
+      "name": "University of Va",
+      "location": {
+         "state": {
+            "name": "Virginia",
+            "abbr": "VA",
+            "county": "Albemarle County"
+         }
+      },
+      "type": "5-State agency providing elementary and/or secondary level instruction",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "0",
+      "fte": "0",
+      "pupilTeacherRatio": "†",
+      "numberOfSchools": "1"
+   },
+   {
+      "name": "Va Beach City Pblc Schs",
+      "location": {
+         "state": {
+            "name": "Virginia",
+            "abbr": "VA",
+            "county": "Virginia Beach city"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "68706",
+      "fte": "4244.49",
+      "pupilTeacherRatio": "16.19",
+      "numberOfSchools": "87"
+   },
+   {
+      "name": "Va Dept of Military Affairs",
+      "location": {
+         "state": {
+            "name": "Virginia",
+            "abbr": "VA",
+            "county": "Virginia Beach city"
+         }
+      },
+      "type": "5-State agency providing elementary and/or secondary level instruction",
+      "grades": {
+         "lowest": "†",
+         "highest": "†"
+      },
+      "students": "0",
+      "fte": "†",
+      "pupilTeacherRatio": "–",
+      "numberOfSchools": "0"
+   },
+   {
+      "name": "Valley Academy",
+      "location": {
+         "state": {
+            "name": "VIRGINIA",
+            "abbr": "VA",
+            "county": "Augusta County"
+         }
+      },
+      "type": "9-Specialized public school district",
+      "grades": {
+         "lowest": "†",
+         "highest": "†"
+      },
+      "students": "†",
+      "fte": "†",
+      "pupilTeacherRatio": "†",
+      "numberOfSchools": "1"
+   },
+   {
+      "name": "Valley Vocational Tech",
+      "location": {
+         "state": {
+            "name": "Virginia",
+            "abbr": "VA",
+            "county": "Augusta County"
+         }
+      },
+      "type": "9-Specialized public school district",
+      "grades": {
+         "lowest": "Ungraded",
+         "highest": "Ungraded"
+      },
+      "students": "0",
+      "fte": "†",
+      "pupilTeacherRatio": "–",
+      "numberOfSchools": "1"
+   },
+   {
+      "name": "Vsdb-Staunton",
+      "location": {
+         "state": {
+            "name": "Virginia",
+            "abbr": "VA",
+            "county": "Staunton city"
+         }
+      },
+      "type": "5-State agency providing elementary and/or secondary level instruction",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "80",
+      "fte": "26.01",
+      "pupilTeacherRatio": "3.08",
+      "numberOfSchools": "3"
+   },
+   {
+      "name": "Warren Co Pblc Schs",
+      "location": {
+         "state": {
+            "name": "Virginia",
+            "abbr": "VA",
+            "county": "Warren County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "5372",
+      "fte": "372.1",
+      "pupilTeacherRatio": "14.44",
+      "numberOfSchools": "9"
+   },
+   {
+      "name": "Washington Co Pblc Schs",
+      "location": {
+         "state": {
+            "name": "Virginia",
+            "abbr": "VA",
+            "county": "Washington County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "7050",
+      "fte": "496.63",
+      "pupilTeacherRatio": "14.2",
+      "numberOfSchools": "16"
+   },
+   {
+      "name": "Waynesboro City Pblc Schs",
+      "location": {
+         "state": {
+            "name": "Virginia",
+            "abbr": "VA",
+            "county": "Waynesboro city"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "2961",
+      "fte": "191.66",
+      "pupilTeacherRatio": "15.45",
+      "numberOfSchools": "7"
+   },
+   {
+      "name": "West Point Pblc Schs",
+      "location": {
+         "state": {
+            "name": "Virginia",
+            "abbr": "VA",
+            "county": "King William County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "802",
+      "fte": "62.67",
+      "pupilTeacherRatio": "12.8",
+      "numberOfSchools": "2"
+   },
+   {
+      "name": "Western St Hosp",
+      "location": {
+         "state": {
+            "name": "Virginia",
+            "abbr": "VA",
+            "county": "Staunton city"
+         }
+      },
+      "type": "5-State agency providing elementary and/or secondary level instruction",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "0",
+      "fte": "0",
+      "pupilTeacherRatio": "†",
+      "numberOfSchools": "1"
+   },
+   {
+      "name": "Westmoreland Co Pblc Schs",
+      "location": {
+         "state": {
+            "name": "Virginia",
+            "abbr": "VA",
+            "county": "Westmoreland County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "1603",
+      "fte": "127.9",
+      "pupilTeacherRatio": "12.53",
+      "numberOfSchools": "4"
+   },
+   {
+      "name": "Williamsburg-James City Pblc Schs",
+      "location": {
+         "state": {
+            "name": "Virginia",
+            "abbr": "VA",
+            "county": "Williamsburg city"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "11639",
+      "fte": "736.94",
+      "pupilTeacherRatio": "15.79",
+      "numberOfSchools": "16"
+   },
+   {
+      "name": "Wilson Workforce and Rehab",
+      "location": {
+         "state": {
+            "name": "Virginia",
+            "abbr": "VA",
+            "county": "Augusta County"
+         }
+      },
+      "type": "5-State agency providing elementary and/or secondary level instruction",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "0",
+      "fte": "0",
+      "pupilTeacherRatio": "†",
+      "numberOfSchools": "1"
+   },
+   {
+      "name": "Winchester City Pblc Schs",
+      "location": {
+         "state": {
+            "name": "Virginia",
+            "abbr": "VA",
+            "county": "Winchester city"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "4387",
+      "fte": "343.3",
+      "pupilTeacherRatio": "12.78",
+      "numberOfSchools": "7"
+   },
+   {
+      "name": "Wise Co Pblc Schs",
+      "location": {
+         "state": {
+            "name": "Virginia",
+            "abbr": "VA",
+            "county": "Wise County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "5631",
+      "fte": "399.59",
+      "pupilTeacherRatio": "14.09",
+      "numberOfSchools": "13"
+   },
+   {
+      "name": "Wythe Co Pblc Schs",
+      "location": {
+         "state": {
+            "name": "Virginia",
+            "abbr": "VA",
+            "county": "Wythe County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "3982",
+      "fte": "271.08",
+      "pupilTeacherRatio": "14.69",
+      "numberOfSchools": "13"
+   },
+   {
+      "name": "York Co Pblc Schs",
+      "location": {
+         "state": {
+            "name": "Virginia",
+            "abbr": "VA",
+            "county": "York County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "12978",
+      "fte": "827.2",
+      "pupilTeacherRatio": "15.69",
+      "numberOfSchools": "19"
+   }
+]

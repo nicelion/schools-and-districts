@@ -1,0 +1,3669 @@
+[
+   {
+      "name": "A.e. Phillips Laboratory School",
+      "location": {
+         "state": {
+            "name": "Louisiana",
+            "abbr": "LA",
+            "county": "Lincoln Parish"
+         }
+      },
+      "type": "8-Other education agencies",
+      "grades": {
+         "lowest": "Kindergarten",
+         "highest": "8th Grade"
+      },
+      "students": "410",
+      "fte": "18",
+      "pupilTeacherRatio": "22.78",
+      "numberOfSchools": "1"
+   },
+   {
+      "name": "Abramson Sci Academy",
+      "location": {
+         "state": {
+            "name": "LOUISIANA",
+            "abbr": "LA",
+            "county": "Orleans Parish"
+         }
+      },
+      "type": "7-Independent Charter District",
+      "grades": {
+         "lowest": "9th Grade",
+         "highest": "13th Grade"
+      },
+      "students": "605",
+      "fte": "33",
+      "pupilTeacherRatio": "18.33",
+      "numberOfSchools": "1"
+   },
+   {
+      "name": "Acadia Parish",
+      "location": {
+         "state": {
+            "name": "Louisiana",
+            "abbr": "LA",
+            "county": "Acadia Parish"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "9739",
+      "fte": "510.3",
+      "pupilTeacherRatio": "19.08",
+      "numberOfSchools": "27"
+   },
+   {
+      "name": "Acadiana Renaissance Charter Academy",
+      "location": {
+         "state": {
+            "name": "LOUISIANA",
+            "abbr": "LA",
+            "county": "Lafayette Parish"
+         }
+      },
+      "type": "7-Independent Charter District",
+      "grades": {
+         "lowest": "Kindergarten",
+         "highest": "8th Grade"
+      },
+      "students": "896",
+      "fte": "50.5",
+      "pupilTeacherRatio": "17.74",
+      "numberOfSchools": "1"
+   },
+   {
+      "name": "Advantage Charter Academy",
+      "location": {
+         "state": {
+            "name": "LOUISIANA",
+            "abbr": "LA",
+            "county": "East Baton Rouge Parish"
+         }
+      },
+      "type": "7-Independent Charter District",
+      "grades": {
+         "lowest": "Kindergarten",
+         "highest": "8th Grade"
+      },
+      "students": "491",
+      "fte": "34",
+      "pupilTeacherRatio": "14.44",
+      "numberOfSchools": "1"
+   },
+   {
+      "name": "Akili Academy of New Orleans",
+      "location": {
+         "state": {
+            "name": "LOUISIANA",
+            "abbr": "LA",
+            "county": "Orleans Parish"
+         }
+      },
+      "type": "7-Independent Charter District",
+      "grades": {
+         "lowest": "Kindergarten",
+         "highest": "8th Grade"
+      },
+      "students": "635",
+      "fte": "33",
+      "pupilTeacherRatio": "19.24",
+      "numberOfSchools": "1"
+   },
+   {
+      "name": "Alice M. Harte Elementary Charter School",
+      "location": {
+         "state": {
+            "name": "LOUISIANA",
+            "abbr": "LA",
+            "county": "Orleans Parish"
+         }
+      },
+      "type": "7-Independent Charter District",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "8th Grade"
+      },
+      "students": "794",
+      "fte": "37",
+      "pupilTeacherRatio": "21.46",
+      "numberOfSchools": "1"
+   },
+   {
+      "name": "Allen Parish",
+      "location": {
+         "state": {
+            "name": "Louisiana",
+            "abbr": "LA",
+            "county": "Allen Parish"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "4205",
+      "fte": "300",
+      "pupilTeacherRatio": "14.02",
+      "numberOfSchools": "11"
+   },
+   {
+      "name": "Arise Academy",
+      "location": {
+         "state": {
+            "name": "LOUISIANA",
+            "abbr": "LA",
+            "county": "Orleans Parish"
+         }
+      },
+      "type": "7-Independent Charter District",
+      "grades": {
+         "lowest": "Kindergarten",
+         "highest": "8th Grade"
+      },
+      "students": "484",
+      "fte": "24.75",
+      "pupilTeacherRatio": "19.56",
+      "numberOfSchools": "1"
+   },
+   {
+      "name": "Arthur Ashe Charter School",
+      "location": {
+         "state": {
+            "name": "LOUISIANA",
+            "abbr": "LA",
+            "county": "Orleans Parish"
+         }
+      },
+      "type": "7-Independent Charter District",
+      "grades": {
+         "lowest": "Kindergarten",
+         "highest": "8th Grade"
+      },
+      "students": "824",
+      "fte": "34",
+      "pupilTeacherRatio": "24.24",
+      "numberOfSchools": "1"
+   },
+   {
+      "name": "Ascension Parish",
+      "location": {
+         "state": {
+            "name": "Louisiana",
+            "abbr": "LA",
+            "county": "Ascension Parish"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "23066",
+      "fte": "1292.3",
+      "pupilTeacherRatio": "17.85",
+      "numberOfSchools": "28"
+   },
+   {
+      "name": "Assumption Parish",
+      "location": {
+         "state": {
+            "name": "Louisiana",
+            "abbr": "LA",
+            "county": "Assumption Parish"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "3283",
+      "fte": "167",
+      "pupilTeacherRatio": "19.66",
+      "numberOfSchools": "9"
+   },
+   {
+      "name": "Athlos Academy of Jefferson Parish",
+      "location": {
+         "state": {
+            "name": "LOUISIANA",
+            "abbr": "LA",
+            "county": "Jefferson Parish"
+         }
+      },
+      "type": "7-Independent Charter District",
+      "grades": {
+         "lowest": "Kindergarten",
+         "highest": "8th Grade"
+      },
+      "students": "1131",
+      "fte": "56",
+      "pupilTeacherRatio": "20.2",
+      "numberOfSchools": "1"
+   },
+   {
+      "name": "Audubon Charter School",
+      "location": {
+         "state": {
+            "name": "LOUISIANA",
+            "abbr": "LA",
+            "county": "Orleans Parish"
+         }
+      },
+      "type": "7-Independent Charter District",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "8th Grade"
+      },
+      "students": "862",
+      "fte": "55.25",
+      "pupilTeacherRatio": "15.6",
+      "numberOfSchools": "1"
+   },
+   {
+      "name": "Audubon Charter School - Gentilly",
+      "location": {
+         "state": {
+            "name": "LOUISIANA",
+            "abbr": "LA",
+            "county": "Orleans Parish"
+         }
+      },
+      "type": "7-Independent Charter District",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "3rd Grade"
+      },
+      "students": "176",
+      "fte": "14",
+      "pupilTeacherRatio": "12.57",
+      "numberOfSchools": "1"
+   },
+   {
+      "name": "Avoyelles Parish",
+      "location": {
+         "state": {
+            "name": "Louisiana",
+            "abbr": "LA",
+            "county": "Avoyelles Parish"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "5054",
+      "fte": "225",
+      "pupilTeacherRatio": "22.46",
+      "numberOfSchools": "10"
+   },
+   {
+      "name": "Avoyelles Public Charter School",
+      "location": {
+         "state": {
+            "name": "Louisiana",
+            "abbr": "LA",
+            "county": "Avoyelles Parish"
+         }
+      },
+      "type": "7-Independent Charter District",
+      "grades": {
+         "lowest": "Kindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "737",
+      "fte": "36",
+      "pupilTeacherRatio": "20.47",
+      "numberOfSchools": "1"
+   },
+   {
+      "name": "Baton Rouge University Preparatory Elementary",
+      "location": {
+         "state": {
+            "name": "LOUISIANA",
+            "abbr": "LA",
+            "county": "East Baton Rouge Parish"
+         }
+      },
+      "type": "7-Independent Charter District",
+      "grades": {
+         "lowest": "Kindergarten",
+         "highest": "5th Grade"
+      },
+      "students": "375",
+      "fte": "17.64",
+      "pupilTeacherRatio": "21.26",
+      "numberOfSchools": "1"
+   },
+   {
+      "name": "Beauregard Parish",
+      "location": {
+         "state": {
+            "name": "Louisiana",
+            "abbr": "LA",
+            "county": "Beauregard Parish"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "5866",
+      "fte": "337.44",
+      "pupilTeacherRatio": "17.38",
+      "numberOfSchools": "12"
+   },
+   {
+      "name": "Belle Chasse Academy",
+      "location": {
+         "state": {
+            "name": "Louisiana",
+            "abbr": "LA",
+            "county": "Plaquemines Parish"
+         }
+      },
+      "type": "7-Independent Charter District",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "8th Grade"
+      },
+      "students": "912",
+      "fte": "49",
+      "pupilTeacherRatio": "18.61",
+      "numberOfSchools": "1"
+   },
+   {
+      "name": "Benjamin Franklin High School",
+      "location": {
+         "state": {
+            "name": "LOUISIANA",
+            "abbr": "LA",
+            "county": "Orleans Parish"
+         }
+      },
+      "type": "7-Independent Charter District",
+      "grades": {
+         "lowest": "9th Grade",
+         "highest": "12th Grade"
+      },
+      "students": "997",
+      "fte": "50.1",
+      "pupilTeacherRatio": "19.9",
+      "numberOfSchools": "1"
+   },
+   {
+      "name": "Bienville Parish",
+      "location": {
+         "state": {
+            "name": "Louisiana",
+            "abbr": "LA",
+            "county": "Bienville Parish"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "2171",
+      "fte": "171.13",
+      "pupilTeacherRatio": "12.69",
+      "numberOfSchools": "9"
+   },
+   {
+      "name": "Bossier Parish",
+      "location": {
+         "state": {
+            "name": "Louisiana",
+            "abbr": "LA",
+            "county": "Bossier Parish"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "22633",
+      "fte": "1214.5",
+      "pupilTeacherRatio": "18.64",
+      "numberOfSchools": "33"
+   },
+   {
+      "name": "Bricolage Academy",
+      "location": {
+         "state": {
+            "name": "LOUISIANA",
+            "abbr": "LA",
+            "county": "Orleans Parish"
+         }
+      },
+      "type": "7-Independent Charter District",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "6th Grade"
+      },
+      "students": "697",
+      "fte": "32.5",
+      "pupilTeacherRatio": "21.45",
+      "numberOfSchools": "1"
+   },
+   {
+      "name": "Caddo Parish",
+      "location": {
+         "state": {
+            "name": "Louisiana",
+            "abbr": "LA",
+            "county": "Caddo Parish"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "37466",
+      "fte": "1675.8",
+      "pupilTeacherRatio": "22.36",
+      "numberOfSchools": "63"
+   },
+   {
+      "name": "Calcasieu Parish",
+      "location": {
+         "state": {
+            "name": "Louisiana",
+            "abbr": "LA",
+            "county": "Calcasieu Parish"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "31444",
+      "fte": "1863.23",
+      "pupilTeacherRatio": "16.88",
+      "numberOfSchools": "58"
+   },
+   {
+      "name": "Caldwell Parish",
+      "location": {
+         "state": {
+            "name": "Louisiana",
+            "abbr": "LA",
+            "county": "Caldwell Parish"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Kindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "1520",
+      "fte": "103.69",
+      "pupilTeacherRatio": "14.66",
+      "numberOfSchools": "5"
+   },
+   {
+      "name": "Cameron Parish",
+      "location": {
+         "state": {
+            "name": "Louisiana",
+            "abbr": "LA",
+            "county": "Cameron Parish"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "1339",
+      "fte": "124.81",
+      "pupilTeacherRatio": "10.73",
+      "numberOfSchools": "4"
+   },
+   {
+      "name": "Catahoula Parish",
+      "location": {
+         "state": {
+            "name": "Louisiana",
+            "abbr": "LA",
+            "county": "Catahoula Parish"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "1143",
+      "fte": "70.67",
+      "pupilTeacherRatio": "16.17",
+      "numberOfSchools": "5"
+   },
+   {
+      "name": "Celerity Dalton Charter School",
+      "location": {
+         "state": {
+            "name": "LOUISIANA",
+            "abbr": "LA",
+            "county": "East Baton Rouge Parish"
+         }
+      },
+      "type": "7-Independent Charter District",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "7th Grade"
+      },
+      "students": "293",
+      "fte": "16",
+      "pupilTeacherRatio": "18.31",
+      "numberOfSchools": "1"
+   },
+   {
+      "name": "Celerity Lanier Charter School",
+      "location": {
+         "state": {
+            "name": "LOUISIANA",
+            "abbr": "LA",
+            "county": "East Baton Rouge Parish"
+         }
+      },
+      "type": "7-Independent Charter District",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "7th Grade"
+      },
+      "students": "285",
+      "fte": "14",
+      "pupilTeacherRatio": "20.36",
+      "numberOfSchools": "1"
+   },
+   {
+      "name": "Central Community School District",
+      "location": {
+         "state": {
+            "name": "Louisiana",
+            "abbr": "LA",
+            "county": "East Baton Rouge Parish"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "4793",
+      "fte": "260",
+      "pupilTeacherRatio": "18.43",
+      "numberOfSchools": "5"
+   },
+   {
+      "name": "City of Baker School District",
+      "location": {
+         "state": {
+            "name": "Louisiana",
+            "abbr": "LA",
+            "county": "East Baton Rouge Parish"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "1313",
+      "fte": "81.25",
+      "pupilTeacherRatio": "16.16",
+      "numberOfSchools": "4"
+   },
+   {
+      "name": "City of Bogalusa School District",
+      "location": {
+         "state": {
+            "name": "Louisiana",
+            "abbr": "LA",
+            "county": "Washington Parish"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "1904",
+      "fte": "93.1",
+      "pupilTeacherRatio": "20.45",
+      "numberOfSchools": "4"
+   },
+   {
+      "name": "City of Monroe School District",
+      "location": {
+         "state": {
+            "name": "Louisiana",
+            "abbr": "LA",
+            "county": "Ouachita Parish"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "8178",
+      "fte": "466.42",
+      "pupilTeacherRatio": "17.53",
+      "numberOfSchools": "19"
+   },
+   {
+      "name": "Claiborne Parish",
+      "location": {
+         "state": {
+            "name": "Louisiana",
+            "abbr": "LA",
+            "county": "Claiborne Parish"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "1643",
+      "fte": "87.71",
+      "pupilTeacherRatio": "18.73",
+      "numberOfSchools": "6"
+   },
+   {
+      "name": "Collegiate Baton Rouge",
+      "location": {
+         "state": {
+            "name": "LOUISIANA",
+            "abbr": "LA",
+            "county": "East Baton Rouge Parish"
+         }
+      },
+      "type": "7-Independent Charter District",
+      "grades": {
+         "lowest": "9th Grade",
+         "highest": "11th Grade"
+      },
+      "students": "419",
+      "fte": "19",
+      "pupilTeacherRatio": "22.05",
+      "numberOfSchools": "1"
+   },
+   {
+      "name": "Community School for Apprenticeship Learning Inc.",
+      "location": {
+         "state": {
+            "name": "Louisiana",
+            "abbr": "LA",
+            "county": "East Baton Rouge Parish"
+         }
+      },
+      "type": "7-Independent Charter District",
+      "grades": {
+         "lowest": "9th Grade",
+         "highest": "12th Grade"
+      },
+      "students": "570",
+      "fte": "30.57",
+      "pupilTeacherRatio": "18.65",
+      "numberOfSchools": "1"
+   },
+   {
+      "name": "Concordia Parish",
+      "location": {
+         "state": {
+            "name": "Louisiana",
+            "abbr": "LA",
+            "county": "Concordia Parish"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "3309",
+      "fte": "225.52",
+      "pupilTeacherRatio": "14.67",
+      "numberOfSchools": "10"
+   },
+   {
+      "name": "D'arbonne Woods Charter School",
+      "location": {
+         "state": {
+            "name": "Louisiana",
+            "abbr": "LA",
+            "county": "Union Parish"
+         }
+      },
+      "type": "7-Independent Charter District",
+      "grades": {
+         "lowest": "Kindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "977",
+      "fte": "57.53",
+      "pupilTeacherRatio": "16.98",
+      "numberOfSchools": "1"
+   },
+   {
+      "name": "Delhi Charter School",
+      "location": {
+         "state": {
+            "name": "Louisiana",
+            "abbr": "LA",
+            "county": "Richland Parish"
+         }
+      },
+      "type": "7-Independent Charter District",
+      "grades": {
+         "lowest": "Kindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "849",
+      "fte": "42.7",
+      "pupilTeacherRatio": "19.88",
+      "numberOfSchools": "1"
+   },
+   {
+      "name": "Delta Charter Group",
+      "location": {
+         "state": {
+            "name": "LOUISIANA",
+            "abbr": "LA",
+            "county": "Concordia Parish"
+         }
+      },
+      "type": "7-Independent Charter District",
+      "grades": {
+         "lowest": "Kindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "474",
+      "fte": "29.83",
+      "pupilTeacherRatio": "15.89",
+      "numberOfSchools": "1"
+   },
+   {
+      "name": "Democracy Prep Baton Rouge",
+      "location": {
+         "state": {
+            "name": "LOUISIANA",
+            "abbr": "LA",
+            "county": "East Baton Rouge Parish"
+         }
+      },
+      "type": "7-Independent Charter District",
+      "grades": {
+         "lowest": "Kindergarten",
+         "highest": "8th Grade"
+      },
+      "students": "549",
+      "fte": "26",
+      "pupilTeacherRatio": "21.12",
+      "numberOfSchools": "1"
+   },
+   {
+      "name": "Desoto Parish",
+      "location": {
+         "state": {
+            "name": "Louisiana",
+            "abbr": "LA",
+            "county": "De Soto Parish"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "4946",
+      "fte": "300",
+      "pupilTeacherRatio": "16.49",
+      "numberOfSchools": "9"
+   },
+   {
+      "name": "Dr Martin Luther King Charter School for Sci Tech",
+      "location": {
+         "state": {
+            "name": "LOUISIANA",
+            "abbr": "LA",
+            "county": "Orleans Parish"
+         }
+      },
+      "type": "7-Independent Charter District",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "914",
+      "fte": "48",
+      "pupilTeacherRatio": "19.04",
+      "numberOfSchools": "1"
+   },
+   {
+      "name": "Dwight D. Eisenhower Charter School",
+      "location": {
+         "state": {
+            "name": "LOUISIANA",
+            "abbr": "LA",
+            "county": "Orleans Parish"
+         }
+      },
+      "type": "7-Independent Charter District",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "8th Grade"
+      },
+      "students": "680",
+      "fte": "35",
+      "pupilTeacherRatio": "19.43",
+      "numberOfSchools": "1"
+   },
+   {
+      "name": "East Baton Rouge Parish",
+      "location": {
+         "state": {
+            "name": "Louisiana",
+            "abbr": "LA",
+            "county": "East Baton Rouge Parish"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "41291",
+      "fte": "2195.47",
+      "pupilTeacherRatio": "18.81",
+      "numberOfSchools": "83"
+   },
+   {
+      "name": "East Carroll Parish",
+      "location": {
+         "state": {
+            "name": "Louisiana",
+            "abbr": "LA",
+            "county": "East Carroll Parish"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "932",
+      "fte": "54.3",
+      "pupilTeacherRatio": "17.16",
+      "numberOfSchools": "3"
+   },
+   {
+      "name": "East Feliciana Parish",
+      "location": {
+         "state": {
+            "name": "Louisiana",
+            "abbr": "LA",
+            "county": "East Feliciana Parish"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "1795",
+      "fte": "126",
+      "pupilTeacherRatio": "14.25",
+      "numberOfSchools": "7"
+   },
+   {
+      "name": "Edna Karr High School",
+      "location": {
+         "state": {
+            "name": "LOUISIANA",
+            "abbr": "LA",
+            "county": "Orleans Parish"
+         }
+      },
+      "type": "7-Independent Charter District",
+      "grades": {
+         "lowest": "9th Grade",
+         "highest": "13th Grade"
+      },
+      "students": "1073",
+      "fte": "56",
+      "pupilTeacherRatio": "19.16",
+      "numberOfSchools": "1"
+   },
+   {
+      "name": "Einstein Charter at Sherwood Forest",
+      "location": {
+         "state": {
+            "name": "LOUISIANA",
+            "abbr": "LA",
+            "county": "Orleans Parish"
+         }
+      },
+      "type": "7-Independent Charter District",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "5th Grade"
+      },
+      "students": "490",
+      "fte": "25",
+      "pupilTeacherRatio": "19.6",
+      "numberOfSchools": "1"
+   },
+   {
+      "name": "Einstein Charter High School at Sarah Towles Reed",
+      "location": {
+         "state": {
+            "name": "LOUISIANA",
+            "abbr": "LA",
+            "county": "Orleans Parish"
+         }
+      },
+      "type": "7-Independent Charter District",
+      "grades": {
+         "lowest": "9th Grade",
+         "highest": "12th Grade"
+      },
+      "students": "401",
+      "fte": "23",
+      "pupilTeacherRatio": "17.43",
+      "numberOfSchools": "1"
+   },
+   {
+      "name": "Einstein Charter Middle Sch at Sarah Towles Reed",
+      "location": {
+         "state": {
+            "name": "LOUISIANA",
+            "abbr": "LA",
+            "county": "Orleans Parish"
+         }
+      },
+      "type": "7-Independent Charter District",
+      "grades": {
+         "lowest": "6th Grade",
+         "highest": "8th Grade"
+      },
+      "students": "441",
+      "fte": "16",
+      "pupilTeacherRatio": "27.56",
+      "numberOfSchools": "1"
+   },
+   {
+      "name": "Einstein Charter School at Village De L'est",
+      "location": {
+         "state": {
+            "name": "LOUISIANA",
+            "abbr": "LA",
+            "county": "Orleans Parish"
+         }
+      },
+      "type": "7-Independent Charter District",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "5th Grade"
+      },
+      "students": "467",
+      "fte": "23",
+      "pupilTeacherRatio": "20.3",
+      "numberOfSchools": "1"
+   },
+   {
+      "name": "Eleanor Mcmain Secondary School",
+      "location": {
+         "state": {
+            "name": "LOUISIANA",
+            "abbr": "LA",
+            "county": "Orleans Parish"
+         }
+      },
+      "type": "7-Independent Charter District",
+      "grades": {
+         "lowest": "8th Grade",
+         "highest": "13th Grade"
+      },
+      "students": "887",
+      "fte": "47.53",
+      "pupilTeacherRatio": "18.66",
+      "numberOfSchools": "1"
+   },
+   {
+      "name": "Encore Academy",
+      "location": {
+         "state": {
+            "name": "LOUISIANA",
+            "abbr": "LA",
+            "county": "Orleans Parish"
+         }
+      },
+      "type": "7-Independent Charter District",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "8th Grade"
+      },
+      "students": "620",
+      "fte": "39",
+      "pupilTeacherRatio": "15.9",
+      "numberOfSchools": "1"
+   },
+   {
+      "name": "Esperanza Charter School",
+      "location": {
+         "state": {
+            "name": "LOUISIANA",
+            "abbr": "LA",
+            "county": "Orleans Parish"
+         }
+      },
+      "type": "7-Independent Charter District",
+      "grades": {
+         "lowest": "Kindergarten",
+         "highest": "8th Grade"
+      },
+      "students": "564",
+      "fte": "27",
+      "pupilTeacherRatio": "20.89",
+      "numberOfSchools": "1"
+   },
+   {
+      "name": "Evangeline Parish",
+      "location": {
+         "state": {
+            "name": "Louisiana",
+            "abbr": "LA",
+            "county": "Evangeline Parish"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "5711",
+      "fte": "289.29",
+      "pupilTeacherRatio": "19.74",
+      "numberOfSchools": "11"
+   },
+   {
+      "name": "Fannie C. Williams Charter School",
+      "location": {
+         "state": {
+            "name": "LOUISIANA",
+            "abbr": "LA",
+            "county": "Orleans Parish"
+         }
+      },
+      "type": "7-Independent Charter District",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "8th Grade"
+      },
+      "students": "565",
+      "fte": "31",
+      "pupilTeacherRatio": "18.23",
+      "numberOfSchools": "1"
+   },
+   {
+      "name": "Firstline Live Oak",
+      "location": {
+         "state": {
+            "name": "LOUISIANA",
+            "abbr": "LA",
+            "county": "Orleans Parish"
+         }
+      },
+      "type": "7-Independent Charter District",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "8th Grade"
+      },
+      "students": "601",
+      "fte": "29",
+      "pupilTeacherRatio": "20.72",
+      "numberOfSchools": "1"
+   },
+   {
+      "name": "Franklin Parish",
+      "location": {
+         "state": {
+            "name": "Louisiana",
+            "abbr": "LA",
+            "county": "Franklin Parish"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "2968",
+      "fte": "187.68",
+      "pupilTeacherRatio": "15.81",
+      "numberOfSchools": "6"
+   },
+   {
+      "name": "G W Carver High School",
+      "location": {
+         "state": {
+            "name": "LOUISIANA",
+            "abbr": "LA",
+            "county": "Orleans Parish"
+         }
+      },
+      "type": "7-Independent Charter District",
+      "grades": {
+         "lowest": "9th Grade",
+         "highest": "12th Grade"
+      },
+      "students": "807",
+      "fte": "37",
+      "pupilTeacherRatio": "21.81",
+      "numberOfSchools": "1"
+   },
+   {
+      "name": "Geo Next Generation High School",
+      "location": {
+         "state": {
+            "name": "LOUISIANA",
+            "abbr": "LA",
+            "county": "East Baton Rouge Parish"
+         }
+      },
+      "type": "7-Independent Charter District",
+      "grades": {
+         "lowest": "9th Grade",
+         "highest": "9th Grade"
+      },
+      "students": "96",
+      "fte": "5.95",
+      "pupilTeacherRatio": "16.13",
+      "numberOfSchools": "1"
+   },
+   {
+      "name": "Geo Prep Academy of Greater Baton Rouge",
+      "location": {
+         "state": {
+            "name": "LOUISIANA",
+            "abbr": "LA",
+            "county": "East Baton Rouge Parish"
+         }
+      },
+      "type": "7-Independent Charter District",
+      "grades": {
+         "lowest": "Kindergarten",
+         "highest": "7th Grade"
+      },
+      "students": "677",
+      "fte": "36.86",
+      "pupilTeacherRatio": "18.37",
+      "numberOfSchools": "1"
+   },
+   {
+      "name": "Geo Prep Mid-City of Greater Baton Rouge",
+      "location": {
+         "state": {
+            "name": "LOUISIANA",
+            "abbr": "LA",
+            "county": "East Baton Rouge Parish"
+         }
+      },
+      "type": "7-Independent Charter District",
+      "grades": {
+         "lowest": "Kindergarten",
+         "highest": "8th Grade"
+      },
+      "students": "715",
+      "fte": "36.99",
+      "pupilTeacherRatio": "19.33",
+      "numberOfSchools": "1"
+   },
+   {
+      "name": "Glen Oaks Middle School",
+      "location": {
+         "state": {
+            "name": "LOUISIANA",
+            "abbr": "LA",
+            "county": "East Baton Rouge Parish"
+         }
+      },
+      "type": "7-Independent Charter District",
+      "grades": {
+         "lowest": "6th Grade",
+         "highest": "8th Grade"
+      },
+      "students": "280",
+      "fte": "12",
+      "pupilTeacherRatio": "23.33",
+      "numberOfSchools": "1"
+   },
+   {
+      "name": "Grant Parish",
+      "location": {
+         "state": {
+            "name": "Louisiana",
+            "abbr": "LA",
+            "county": "Grant Parish"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "2937",
+      "fte": "174.88",
+      "pupilTeacherRatio": "16.79",
+      "numberOfSchools": "8"
+   },
+   {
+      "name": "Greater Grace Charter Academy Inc",
+      "location": {
+         "state": {
+            "name": "LOUISIANA",
+            "abbr": "LA",
+            "county": "St. James Parish"
+         }
+      },
+      "type": "7-Independent Charter District",
+      "grades": {
+         "lowest": "Kindergarten",
+         "highest": "8th Grade"
+      },
+      "students": "76",
+      "fte": "8",
+      "pupilTeacherRatio": "9.5",
+      "numberOfSchools": "1"
+   },
+   {
+      "name": "Harriet Tubman Charter School",
+      "location": {
+         "state": {
+            "name": "LOUISIANA",
+            "abbr": "LA",
+            "county": "Orleans Parish"
+         }
+      },
+      "type": "7-Independent Charter District",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "8th Grade"
+      },
+      "students": "1002",
+      "fte": "41",
+      "pupilTeacherRatio": "24.44",
+      "numberOfSchools": "1"
+   },
+   {
+      "name": "Howard School",
+      "location": {
+         "state": {
+            "name": "Louisiana",
+            "abbr": "LA",
+            "county": "Lincoln Parish"
+         }
+      },
+      "type": "8-Other education agencies",
+      "grades": {
+         "lowest": "3rd Grade",
+         "highest": "12th Grade"
+      },
+      "students": "94",
+      "fte": "1",
+      "pupilTeacherRatio": "94",
+      "numberOfSchools": "1"
+   },
+   {
+      "name": "Iberia Parish",
+      "location": {
+         "state": {
+            "name": "Louisiana",
+            "abbr": "LA",
+            "county": "Iberia Parish"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "11989",
+      "fte": "645.98",
+      "pupilTeacherRatio": "18.56",
+      "numberOfSchools": "22"
+   },
+   {
+      "name": "Iberville Charter Academy",
+      "location": {
+         "state": {
+            "name": "LOUISIANA",
+            "abbr": "LA",
+            "county": "Iberville Parish"
+         }
+      },
+      "type": "7-Independent Charter District",
+      "grades": {
+         "lowest": "Kindergarten",
+         "highest": "8th Grade"
+      },
+      "students": "392",
+      "fte": "19",
+      "pupilTeacherRatio": "20.63",
+      "numberOfSchools": "1"
+   },
+   {
+      "name": "Iberville Parish",
+      "location": {
+         "state": {
+            "name": "Louisiana",
+            "abbr": "LA",
+            "county": "Iberville Parish"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "4539",
+      "fte": "342",
+      "pupilTeacherRatio": "13.27",
+      "numberOfSchools": "7"
+   },
+   {
+      "name": "Idea Public Schools",
+      "location": {
+         "state": {
+            "name": "LOUISIANA",
+            "abbr": "LA",
+            "county": "East Baton Rouge Parish"
+         }
+      },
+      "type": "7-Independent Charter District",
+      "grades": {
+         "lowest": "Kindergarten",
+         "highest": "5th Grade"
+      },
+      "students": "207",
+      "fte": "5",
+      "pupilTeacherRatio": "41.4",
+      "numberOfSchools": "1"
+   },
+   {
+      "name": "Impact Charter School",
+      "location": {
+         "state": {
+            "name": "LOUISIANA",
+            "abbr": "LA",
+            "county": "East Baton Rouge Parish"
+         }
+      },
+      "type": "7-Independent Charter District",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "8th Grade"
+      },
+      "students": "411",
+      "fte": "25.85",
+      "pupilTeacherRatio": "15.9",
+      "numberOfSchools": "1"
+   },
+   {
+      "name": "International School of Louisiana",
+      "location": {
+         "state": {
+            "name": "Louisiana",
+            "abbr": "LA",
+            "county": "Orleans Parish"
+         }
+      },
+      "type": "7-Independent Charter District",
+      "grades": {
+         "lowest": "Kindergarten",
+         "highest": "8th Grade"
+      },
+      "students": "1401",
+      "fte": "97.73",
+      "pupilTeacherRatio": "14.34",
+      "numberOfSchools": "1"
+   },
+   {
+      "name": "Jackson Parish",
+      "location": {
+         "state": {
+            "name": "Louisiana",
+            "abbr": "LA",
+            "county": "Jackson Parish"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "2263",
+      "fte": "128.76",
+      "pupilTeacherRatio": "17.58",
+      "numberOfSchools": "5"
+   },
+   {
+      "name": "James M. Singleton Charter School",
+      "location": {
+         "state": {
+            "name": "LOUISIANA",
+            "abbr": "LA",
+            "county": "Orleans Parish"
+         }
+      },
+      "type": "7-Independent Charter District",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "8th Grade"
+      },
+      "students": "392",
+      "fte": "20",
+      "pupilTeacherRatio": "19.6",
+      "numberOfSchools": "1"
+   },
+   {
+      "name": "Jcfa Lafayette",
+      "location": {
+         "state": {
+            "name": "LOUISIANA",
+            "abbr": "LA",
+            "county": "Lafayette Parish"
+         }
+      },
+      "type": "7-Independent Charter District",
+      "grades": {
+         "lowest": "9th Grade",
+         "highest": "12th Grade"
+      },
+      "students": "68",
+      "fte": "2",
+      "pupilTeacherRatio": "34",
+      "numberOfSchools": "1"
+   },
+   {
+      "name": "Jcfa-East",
+      "location": {
+         "state": {
+            "name": "LOUISIANA",
+            "abbr": "LA",
+            "county": "Jefferson Parish"
+         }
+      },
+      "type": "7-Independent Charter District",
+      "grades": {
+         "lowest": "8th Grade",
+         "highest": "12th Grade"
+      },
+      "students": "230",
+      "fte": "10",
+      "pupilTeacherRatio": "23",
+      "numberOfSchools": "1"
+   },
+   {
+      "name": "Jefferson Davis Parish",
+      "location": {
+         "state": {
+            "name": "Louisiana",
+            "abbr": "LA",
+            "county": "Jefferson Davis Parish"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "5705",
+      "fte": "302",
+      "pupilTeacherRatio": "18.89",
+      "numberOfSchools": "13"
+   },
+   {
+      "name": "Jefferson Parish",
+      "location": {
+         "state": {
+            "name": "Louisiana",
+            "abbr": "LA",
+            "county": "Jefferson Parish"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "49862",
+      "fte": "2362.9",
+      "pupilTeacherRatio": "21.1",
+      "numberOfSchools": "84"
+   },
+   {
+      "name": "John F. Kennedy High School",
+      "location": {
+         "state": {
+            "name": "LOUISIANA",
+            "abbr": "LA",
+            "county": "Orleans Parish"
+         }
+      },
+      "type": "7-Independent Charter District",
+      "grades": {
+         "lowest": "9th Grade",
+         "highest": "12th Grade"
+      },
+      "students": "629",
+      "fte": "25.94",
+      "pupilTeacherRatio": "24.25",
+      "numberOfSchools": "1"
+   },
+   {
+      "name": "Joseph A. Craig Charter School",
+      "location": {
+         "state": {
+            "name": "LOUISIANA",
+            "abbr": "LA",
+            "county": "Orleans Parish"
+         }
+      },
+      "type": "7-Independent Charter District",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "8th Grade"
+      },
+      "students": "241",
+      "fte": "13",
+      "pupilTeacherRatio": "18.54",
+      "numberOfSchools": "1"
+   },
+   {
+      "name": "Js Clark Leadership Academy",
+      "location": {
+         "state": {
+            "name": "LOUISIANA",
+            "abbr": "LA",
+            "county": "St. Landry Parish"
+         }
+      },
+      "type": "7-Independent Charter District",
+      "grades": {
+         "lowest": "5th Grade",
+         "highest": "12th Grade"
+      },
+      "students": "249",
+      "fte": "12.4",
+      "pupilTeacherRatio": "20.08",
+      "numberOfSchools": "1"
+   },
+   {
+      "name": "Kenilworth Science and Technology Charter School",
+      "location": {
+         "state": {
+            "name": "LOUISIANA",
+            "abbr": "LA",
+            "county": "Orleans Parish"
+         }
+      },
+      "type": "7-Independent Charter District",
+      "grades": {
+         "lowest": "6th Grade",
+         "highest": "8th Grade"
+      },
+      "students": "402",
+      "fte": "27.7",
+      "pupilTeacherRatio": "14.51",
+      "numberOfSchools": "1"
+   },
+   {
+      "name": "Kipp Believe",
+      "location": {
+         "state": {
+            "name": "LOUISIANA",
+            "abbr": "LA",
+            "county": "Orleans Parish"
+         }
+      },
+      "type": "7-Independent Charter District",
+      "grades": {
+         "lowest": "Kindergarten",
+         "highest": "8th Grade"
+      },
+      "students": "728",
+      "fte": "51",
+      "pupilTeacherRatio": "14.27",
+      "numberOfSchools": "1"
+   },
+   {
+      "name": "Kipp Booker T Washington",
+      "location": {
+         "state": {
+            "name": "LOUISIANA",
+            "abbr": "LA",
+            "county": "Orleans Parish"
+         }
+      },
+      "type": "7-Independent Charter District",
+      "grades": {
+         "lowest": "9th Grade",
+         "highest": "12th Grade"
+      },
+      "students": "559",
+      "fte": "38",
+      "pupilTeacherRatio": "14.71",
+      "numberOfSchools": "1"
+   },
+   {
+      "name": "Kipp Central City",
+      "location": {
+         "state": {
+            "name": "LOUISIANA",
+            "abbr": "LA",
+            "county": "Orleans Parish"
+         }
+      },
+      "type": "7-Independent Charter District",
+      "grades": {
+         "lowest": "Kindergarten",
+         "highest": "8th Grade"
+      },
+      "students": "962",
+      "fte": "65",
+      "pupilTeacherRatio": "14.8",
+      "numberOfSchools": "1"
+   },
+   {
+      "name": "Kipp East Community",
+      "location": {
+         "state": {
+            "name": "LOUISIANA",
+            "abbr": "LA",
+            "county": "Orleans Parish"
+         }
+      },
+      "type": "7-Independent Charter District",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "5th Grade"
+      },
+      "students": "649",
+      "fte": "45",
+      "pupilTeacherRatio": "14.42",
+      "numberOfSchools": "1"
+   },
+   {
+      "name": "Kipp Leadership",
+      "location": {
+         "state": {
+            "name": "LOUISIANA",
+            "abbr": "LA",
+            "county": "Orleans Parish"
+         }
+      },
+      "type": "7-Independent Charter District",
+      "grades": {
+         "lowest": "Kindergarten",
+         "highest": "8th Grade"
+      },
+      "students": "883",
+      "fte": "58",
+      "pupilTeacherRatio": "15.22",
+      "numberOfSchools": "1"
+   },
+   {
+      "name": "Kipp Morial",
+      "location": {
+         "state": {
+            "name": "LOUISIANA",
+            "abbr": "LA",
+            "county": "Orleans Parish"
+         }
+      },
+      "type": "7-Independent Charter District",
+      "grades": {
+         "lowest": "Kindergarten",
+         "highest": "8th Grade"
+      },
+      "students": "967",
+      "fte": "72",
+      "pupilTeacherRatio": "13.43",
+      "numberOfSchools": "1"
+   },
+   {
+      "name": "Kipp Renaissance",
+      "location": {
+         "state": {
+            "name": "LOUISIANA",
+            "abbr": "LA",
+            "county": "Orleans Parish"
+         }
+      },
+      "type": "7-Independent Charter District",
+      "grades": {
+         "lowest": "9th Grade",
+         "highest": "13th Grade"
+      },
+      "students": "623",
+      "fte": "38",
+      "pupilTeacherRatio": "16.39",
+      "numberOfSchools": "1"
+   },
+   {
+      "name": "La Schools for the Deaf and Visually Impaired",
+      "location": {
+         "state": {
+            "name": "Louisiana",
+            "abbr": "LA",
+            "county": "East Baton Rouge Parish"
+         }
+      },
+      "type": "9-Specialized public school district",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "183",
+      "fte": "3.5",
+      "pupilTeacherRatio": "52.29",
+      "numberOfSchools": "2"
+   },
+   {
+      "name": "Lafayette Academy",
+      "location": {
+         "state": {
+            "name": "LOUISIANA",
+            "abbr": "LA",
+            "county": "Orleans Parish"
+         }
+      },
+      "type": "7-Independent Charter District",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "8th Grade"
+      },
+      "students": "971",
+      "fte": "55",
+      "pupilTeacherRatio": "17.65",
+      "numberOfSchools": "1"
+   },
+   {
+      "name": "Lafayette Charter Foundation",
+      "location": {
+         "state": {
+            "name": "LOUISIANA",
+            "abbr": "LA",
+            "county": "Lafayette Parish"
+         }
+      },
+      "type": "7-Independent Charter District",
+      "grades": {
+         "lowest": "Kindergarten",
+         "highest": "8th Grade"
+      },
+      "students": "979",
+      "fte": "45.96",
+      "pupilTeacherRatio": "21.3",
+      "numberOfSchools": "1"
+   },
+   {
+      "name": "Lafayette Parish",
+      "location": {
+         "state": {
+            "name": "Louisiana",
+            "abbr": "LA",
+            "county": "Lafayette Parish"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "31430",
+      "fte": "1650",
+      "pupilTeacherRatio": "19.05",
+      "numberOfSchools": "46"
+   },
+   {
+      "name": "Lafourche Parish",
+      "location": {
+         "state": {
+            "name": "Louisiana",
+            "abbr": "LA",
+            "county": "Lafourche Parish"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "14652",
+      "fte": "736.18",
+      "pupilTeacherRatio": "19.9",
+      "numberOfSchools": "31"
+   },
+   {
+      "name": "Lake Charles Charter Academy Foundation Inc.",
+      "location": {
+         "state": {
+            "name": "Louisiana",
+            "abbr": "LA",
+            "county": "Calcasieu Parish"
+         }
+      },
+      "type": "7-Independent Charter District",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "8th Grade"
+      },
+      "students": "982",
+      "fte": "50",
+      "pupilTeacherRatio": "19.64",
+      "numberOfSchools": "1"
+   },
+   {
+      "name": "Lake Charles College Prep",
+      "location": {
+         "state": {
+            "name": "LOUISIANA",
+            "abbr": "LA",
+            "county": "Calcasieu Parish"
+         }
+      },
+      "type": "7-Independent Charter District",
+      "grades": {
+         "lowest": "9th Grade",
+         "highest": "12th Grade"
+      },
+      "students": "505",
+      "fte": "27",
+      "pupilTeacherRatio": "18.7",
+      "numberOfSchools": "1"
+   },
+   {
+      "name": "Lake Forest Elementary Charter School",
+      "location": {
+         "state": {
+            "name": "LOUISIANA",
+            "abbr": "LA",
+            "county": "Orleans Parish"
+         }
+      },
+      "type": "7-Independent Charter District",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "8th Grade"
+      },
+      "students": "660",
+      "fte": "42.83",
+      "pupilTeacherRatio": "15.41",
+      "numberOfSchools": "1"
+   },
+   {
+      "name": "Langston Hughes Charter Academy",
+      "location": {
+         "state": {
+            "name": "LOUISIANA",
+            "abbr": "LA",
+            "county": "Orleans Parish"
+         }
+      },
+      "type": "7-Independent Charter District",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "8th Grade"
+      },
+      "students": "810",
+      "fte": "33",
+      "pupilTeacherRatio": "24.55",
+      "numberOfSchools": "1"
+   },
+   {
+      "name": "Lasalle Parish",
+      "location": {
+         "state": {
+            "name": "Louisiana",
+            "abbr": "LA",
+            "county": "LaSalle Parish"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "2656",
+      "fte": "163.16",
+      "pupilTeacherRatio": "16.28",
+      "numberOfSchools": "9"
+   },
+   {
+      "name": "Lawrence D. Crocker College Prep",
+      "location": {
+         "state": {
+            "name": "LOUISIANA",
+            "abbr": "LA",
+            "county": "Orleans Parish"
+         }
+      },
+      "type": "7-Independent Charter District",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "8th Grade"
+      },
+      "students": "538",
+      "fte": "25.7",
+      "pupilTeacherRatio": "20.93",
+      "numberOfSchools": "1"
+   },
+   {
+      "name": "Lincoln Parish",
+      "location": {
+         "state": {
+            "name": "Louisiana",
+            "abbr": "LA",
+            "county": "Lincoln Parish"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "5467",
+      "fte": "334.84",
+      "pupilTeacherRatio": "16.33",
+      "numberOfSchools": "12"
+   },
+   {
+      "name": "Lincoln Preparatory School",
+      "location": {
+         "state": {
+            "name": "LOUISIANA",
+            "abbr": "LA",
+            "county": "Lincoln Parish"
+         }
+      },
+      "type": "7-Independent Charter District",
+      "grades": {
+         "lowest": "Kindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "477",
+      "fte": "35",
+      "pupilTeacherRatio": "13.63",
+      "numberOfSchools": "1"
+   },
+   {
+      "name": "Living School Inc.",
+      "location": {
+         "state": {
+            "name": "LOUISIANA",
+            "abbr": "LA",
+            "county": "Orleans Parish"
+         }
+      },
+      "type": "7-Independent Charter District",
+      "grades": {
+         "lowest": "9th Grade",
+         "highest": "9th Grade"
+      },
+      "students": "55",
+      "fte": "4.05",
+      "pupilTeacherRatio": "13.58",
+      "numberOfSchools": "1"
+   },
+   {
+      "name": "Livingston Collegiate Academy",
+      "location": {
+         "state": {
+            "name": "LOUISIANA",
+            "abbr": "LA",
+            "county": "Orleans Parish"
+         }
+      },
+      "type": "7-Independent Charter District",
+      "grades": {
+         "lowest": "9th Grade",
+         "highest": "12th Grade"
+      },
+      "students": "617",
+      "fte": "30",
+      "pupilTeacherRatio": "20.57",
+      "numberOfSchools": "1"
+   },
+   {
+      "name": "Livingston Parish",
+      "location": {
+         "state": {
+            "name": "Louisiana",
+            "abbr": "LA",
+            "county": "Livingston Parish"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "25781",
+      "fte": "1272.87",
+      "pupilTeacherRatio": "20.25",
+      "numberOfSchools": "44"
+   },
+   {
+      "name": "Lord Beaconsfield Landry-Oliver Perry Walker High",
+      "location": {
+         "state": {
+            "name": "LOUISIANA",
+            "abbr": "LA",
+            "county": "Orleans Parish"
+         }
+      },
+      "type": "7-Independent Charter District",
+      "grades": {
+         "lowest": "9th Grade",
+         "highest": "12th Grade"
+      },
+      "students": "939",
+      "fte": "43",
+      "pupilTeacherRatio": "21.84",
+      "numberOfSchools": "1"
+   },
+   {
+      "name": "Louisiana Key Academy",
+      "location": {
+         "state": {
+            "name": "LOUISIANA",
+            "abbr": "LA",
+            "county": "East Baton Rouge Parish"
+         }
+      },
+      "type": "7-Independent Charter District",
+      "grades": {
+         "lowest": "Kindergarten",
+         "highest": "8th Grade"
+      },
+      "students": "380",
+      "fte": "46",
+      "pupilTeacherRatio": "8.26",
+      "numberOfSchools": "1"
+   },
+   {
+      "name": "Louisiana School for Math Science & the Arts",
+      "location": {
+         "state": {
+            "name": "Louisiana",
+            "abbr": "LA",
+            "county": "Natchitoches Parish"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "10th Grade",
+         "highest": "12th Grade"
+      },
+      "students": "358",
+      "fte": "42",
+      "pupilTeacherRatio": "8.52",
+      "numberOfSchools": "1"
+   },
+   {
+      "name": "Louisiana Special Education Center",
+      "location": {
+         "state": {
+            "name": "Louisiana",
+            "abbr": "LA",
+            "county": "Rapides Parish"
+         }
+      },
+      "type": "9-Specialized public school district",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "38",
+      "fte": "0",
+      "pupilTeacherRatio": "†",
+      "numberOfSchools": "1"
+   },
+   {
+      "name": "Louisiana Virtual Charter Academy",
+      "location": {
+         "state": {
+            "name": "LOUISIANA",
+            "abbr": "LA",
+            "county": "Orleans Parish"
+         }
+      },
+      "type": "7-Independent Charter District",
+      "grades": {
+         "lowest": "Kindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "1920",
+      "fte": "49.97",
+      "pupilTeacherRatio": "38.42",
+      "numberOfSchools": "1"
+   },
+   {
+      "name": "Lsu Laboratory School",
+      "location": {
+         "state": {
+            "name": "Louisiana",
+            "abbr": "LA",
+            "county": "East Baton Rouge Parish"
+         }
+      },
+      "type": "8-Other education agencies",
+      "grades": {
+         "lowest": "Kindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "1416",
+      "fte": "86",
+      "pupilTeacherRatio": "16.47",
+      "numberOfSchools": "1"
+   },
+   {
+      "name": "Lusher Charter School",
+      "location": {
+         "state": {
+            "name": "LOUISIANA",
+            "abbr": "LA",
+            "county": "Orleans Parish"
+         }
+      },
+      "type": "7-Independent Charter District",
+      "grades": {
+         "lowest": "Kindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "1861",
+      "fte": "104.31",
+      "pupilTeacherRatio": "17.84",
+      "numberOfSchools": "1"
+   },
+   {
+      "name": "Lycee Francais De La Nouvelle-Orleans",
+      "location": {
+         "state": {
+            "name": "Louisiana",
+            "abbr": "LA",
+            "county": "Orleans Parish"
+         }
+      },
+      "type": "7-Independent Charter District",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "9th Grade"
+      },
+      "students": "1035",
+      "fte": "61",
+      "pupilTeacherRatio": "16.97",
+      "numberOfSchools": "1"
+   },
+   {
+      "name": "Madison Parish",
+      "location": {
+         "state": {
+            "name": "Louisiana",
+            "abbr": "LA",
+            "county": "Madison Parish"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "1183",
+      "fte": "57.02",
+      "pupilTeacherRatio": "20.75",
+      "numberOfSchools": "5"
+   },
+   {
+      "name": "Martin Behrman Charter Acad of Creative Arts & Sci",
+      "location": {
+         "state": {
+            "name": "LOUISIANA",
+            "abbr": "LA",
+            "county": "Orleans Parish"
+         }
+      },
+      "type": "7-Independent Charter District",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "8th Grade"
+      },
+      "students": "841",
+      "fte": "38.88",
+      "pupilTeacherRatio": "21.63",
+      "numberOfSchools": "1"
+   },
+   {
+      "name": "Mary D. Coghill Charter School",
+      "location": {
+         "state": {
+            "name": "LOUISIANA",
+            "abbr": "LA",
+            "county": "Orleans Parish"
+         }
+      },
+      "type": "7-Independent Charter District",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "8th Grade"
+      },
+      "students": "541",
+      "fte": "26",
+      "pupilTeacherRatio": "20.81",
+      "numberOfSchools": "1"
+   },
+   {
+      "name": "Mcdonogh 35 Senior High School",
+      "location": {
+         "state": {
+            "name": "LOUISIANA",
+            "abbr": "LA",
+            "county": "Orleans Parish"
+         }
+      },
+      "type": "7-Independent Charter District",
+      "grades": {
+         "lowest": "9th Grade",
+         "highest": "9th Grade"
+      },
+      "students": "168",
+      "fte": "13.75",
+      "pupilTeacherRatio": "12.22",
+      "numberOfSchools": "1"
+   },
+   {
+      "name": "Mcdonogh 42 Charter School",
+      "location": {
+         "state": {
+            "name": "LOUISIANA",
+            "abbr": "LA",
+            "county": "Orleans Parish"
+         }
+      },
+      "type": "7-Independent Charter District",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "8th Grade"
+      },
+      "students": "481",
+      "fte": "24.5",
+      "pupilTeacherRatio": "19.63",
+      "numberOfSchools": "1"
+   },
+   {
+      "name": "Mildred Osborne Charter School",
+      "location": {
+         "state": {
+            "name": "LOUISIANA",
+            "abbr": "LA",
+            "county": "Orleans Parish"
+         }
+      },
+      "type": "7-Independent Charter District",
+      "grades": {
+         "lowest": "Kindergarten",
+         "highest": "8th Grade"
+      },
+      "students": "538",
+      "fte": "26.81",
+      "pupilTeacherRatio": "20.07",
+      "numberOfSchools": "1"
+   },
+   {
+      "name": "Morehouse Parish",
+      "location": {
+         "state": {
+            "name": "Louisiana",
+            "abbr": "LA",
+            "county": "Morehouse Parish"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "3566",
+      "fte": "190.04",
+      "pupilTeacherRatio": "18.76",
+      "numberOfSchools": "5"
+   },
+   {
+      "name": "Morris Jeff Community School",
+      "location": {
+         "state": {
+            "name": "LOUISIANA",
+            "abbr": "LA",
+            "county": "Orleans Parish"
+         }
+      },
+      "type": "7-Independent Charter District",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "8th Grade"
+      },
+      "students": "877",
+      "fte": "71.73",
+      "pupilTeacherRatio": "12.23",
+      "numberOfSchools": "1"
+   },
+   {
+      "name": "Natchitoches Parish",
+      "location": {
+         "state": {
+            "name": "Louisiana",
+            "abbr": "LA",
+            "county": "Natchitoches Parish"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "5836",
+      "fte": "284.38",
+      "pupilTeacherRatio": "20.52",
+      "numberOfSchools": "15"
+   },
+   {
+      "name": "New Harmony High Institute",
+      "location": {
+         "state": {
+            "name": "LOUISIANA",
+            "abbr": "LA",
+            "county": "Orleans Parish"
+         }
+      },
+      "type": "7-Independent Charter District",
+      "grades": {
+         "lowest": "9th Grade",
+         "highest": "12th Grade"
+      },
+      "students": "102",
+      "fte": "8.79",
+      "pupilTeacherRatio": "11.6",
+      "numberOfSchools": "1"
+   },
+   {
+      "name": "New Orleans Center for Creative Arts",
+      "location": {
+         "state": {
+            "name": "Louisiana",
+            "abbr": "LA",
+            "county": "Orleans Parish"
+         }
+      },
+      "type": "9-Specialized public school district",
+      "grades": {
+         "lowest": "9th Grade",
+         "highest": "12th Grade"
+      },
+      "students": "234",
+      "fte": "0",
+      "pupilTeacherRatio": "†",
+      "numberOfSchools": "1"
+   },
+   {
+      "name": "New Orleans Charter Science and Mathematics Hs",
+      "location": {
+         "state": {
+            "name": "LOUISIANA",
+            "abbr": "LA",
+            "county": "Orleans Parish"
+         }
+      },
+      "type": "7-Independent Charter District",
+      "grades": {
+         "lowest": "9th Grade",
+         "highest": "12th Grade"
+      },
+      "students": "456",
+      "fte": "34",
+      "pupilTeacherRatio": "13.41",
+      "numberOfSchools": "1"
+   },
+   {
+      "name": "New Orleans Military & Maritime Academy",
+      "location": {
+         "state": {
+            "name": "Louisiana",
+            "abbr": "LA",
+            "county": "Orleans Parish"
+         }
+      },
+      "type": "7-Independent Charter District",
+      "grades": {
+         "lowest": "8th Grade",
+         "highest": "13th Grade"
+      },
+      "students": "939",
+      "fte": "62.97",
+      "pupilTeacherRatio": "14.91",
+      "numberOfSchools": "1"
+   },
+   {
+      "name": "New Vision Learning Academy",
+      "location": {
+         "state": {
+            "name": "Louisiana",
+            "abbr": "LA",
+            "county": "Ouachita Parish"
+         }
+      },
+      "type": "7-Independent Charter District",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "6th Grade"
+      },
+      "students": "312",
+      "fte": "13.57",
+      "pupilTeacherRatio": "22.99",
+      "numberOfSchools": "1"
+   },
+   {
+      "name": "Noble Minds",
+      "location": {
+         "state": {
+            "name": "LOUISIANA",
+            "abbr": "LA",
+            "county": "Orleans Parish"
+         }
+      },
+      "type": "7-Independent Charter District",
+      "grades": {
+         "lowest": "Kindergarten",
+         "highest": "4th Grade"
+      },
+      "students": "94",
+      "fte": "5",
+      "pupilTeacherRatio": "18.8",
+      "numberOfSchools": "1"
+   },
+   {
+      "name": "Northeast Claiborne Charter",
+      "location": {
+         "state": {
+            "name": "LOUISIANA",
+            "abbr": "LA",
+            "county": "Union County"
+         }
+      },
+      "type": "7-Independent Charter District",
+      "grades": {
+         "lowest": "Kindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "180",
+      "fte": "4",
+      "pupilTeacherRatio": "45",
+      "numberOfSchools": "1"
+   },
+   {
+      "name": "Office of Juvenile Justice",
+      "location": {
+         "state": {
+            "name": "Louisiana",
+            "abbr": "LA",
+            "county": "East Baton Rouge Parish"
+         }
+      },
+      "type": "5-State agency providing elementary and/or secondary level instruction",
+      "grades": {
+         "lowest": "Kindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "172",
+      "fte": "34",
+      "pupilTeacherRatio": "5.06",
+      "numberOfSchools": "3"
+   },
+   {
+      "name": "Opportunities Academy",
+      "location": {
+         "state": {
+            "name": "LOUISIANA",
+            "abbr": "LA",
+            "county": "Orleans Parish"
+         }
+      },
+      "type": "7-Independent Charter District",
+      "grades": {
+         "lowest": "12th Grade",
+         "highest": "12th Grade"
+      },
+      "students": "67",
+      "fte": "0",
+      "pupilTeacherRatio": "†",
+      "numberOfSchools": "1"
+   },
+   {
+      "name": "Orleans Parish",
+      "location": {
+         "state": {
+            "name": "Louisiana",
+            "abbr": "LA",
+            "county": "Orleans Parish"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "13th Grade"
+      },
+      "students": "4612",
+      "fte": "243.97",
+      "pupilTeacherRatio": "18.9",
+      "numberOfSchools": "11"
+   },
+   {
+      "name": "Ouachita Parish",
+      "location": {
+         "state": {
+            "name": "Louisiana",
+            "abbr": "LA",
+            "county": "Ouachita Parish"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "19058",
+      "fte": "1054.6",
+      "pupilTeacherRatio": "18.07",
+      "numberOfSchools": "36"
+   },
+   {
+      "name": "Paul Habans Charter School",
+      "location": {
+         "state": {
+            "name": "LOUISIANA",
+            "abbr": "LA",
+            "county": "Orleans Parish"
+         }
+      },
+      "type": "7-Independent Charter District",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "8th Grade"
+      },
+      "students": "838",
+      "fte": "46",
+      "pupilTeacherRatio": "18.22",
+      "numberOfSchools": "1"
+   },
+   {
+      "name": "Phillis Wheatley Community School",
+      "location": {
+         "state": {
+            "name": "LOUISIANA",
+            "abbr": "LA",
+            "county": "Orleans Parish"
+         }
+      },
+      "type": "7-Independent Charter District",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "8th Grade"
+      },
+      "students": "852",
+      "fte": "31",
+      "pupilTeacherRatio": "27.48",
+      "numberOfSchools": "1"
+   },
+   {
+      "name": "Pierre A. Capdau Charter School at Avery Alexander",
+      "location": {
+         "state": {
+            "name": "LOUISIANA",
+            "abbr": "LA",
+            "county": "Orleans Parish"
+         }
+      },
+      "type": "7-Independent Charter District",
+      "grades": {
+         "lowest": "Kindergarten",
+         "highest": "10th Grade"
+      },
+      "students": "687",
+      "fte": "36.76",
+      "pupilTeacherRatio": "18.69",
+      "numberOfSchools": "1"
+   },
+   {
+      "name": "Plaquemines Parish",
+      "location": {
+         "state": {
+            "name": "Louisiana",
+            "abbr": "LA",
+            "county": "Plaquemines Parish"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "4045",
+      "fte": "178.13",
+      "pupilTeacherRatio": "22.71",
+      "numberOfSchools": "8"
+   },
+   {
+      "name": "Pointe Coupee Parish",
+      "location": {
+         "state": {
+            "name": "Louisiana",
+            "abbr": "LA",
+            "county": "Pointe Coupee Parish"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "2841",
+      "fte": "164",
+      "pupilTeacherRatio": "17.32",
+      "numberOfSchools": "5"
+   },
+   {
+      "name": "Rapides Parish",
+      "location": {
+         "state": {
+            "name": "Louisiana",
+            "abbr": "LA",
+            "county": "Rapides Parish"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "22855",
+      "fte": "1276.71",
+      "pupilTeacherRatio": "17.9",
+      "numberOfSchools": "47"
+   },
+   {
+      "name": "Recovery School District-Lde",
+      "location": {
+         "state": {
+            "name": "Louisiana",
+            "abbr": "LA",
+            "county": "East Baton Rouge Parish"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "8th Grade"
+      },
+      "students": "1010",
+      "fte": "53",
+      "pupilTeacherRatio": "19.06",
+      "numberOfSchools": "1"
+   },
+   {
+      "name": "Red River Charter Academy",
+      "location": {
+         "state": {
+            "name": "LOUISIANA",
+            "abbr": "LA",
+            "county": "Avoyelles Parish"
+         }
+      },
+      "type": "7-Independent Charter District",
+      "grades": {
+         "lowest": "6th Grade",
+         "highest": "8th Grade"
+      },
+      "students": "196",
+      "fte": "8",
+      "pupilTeacherRatio": "24.5",
+      "numberOfSchools": "1"
+   },
+   {
+      "name": "Red River Parish",
+      "location": {
+         "state": {
+            "name": "Louisiana",
+            "abbr": "LA",
+            "county": "Red River Parish"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "1453",
+      "fte": "93.23",
+      "pupilTeacherRatio": "15.59",
+      "numberOfSchools": "5"
+   },
+   {
+      "name": "Renew Accelerated High School",
+      "location": {
+         "state": {
+            "name": "LOUISIANA",
+            "abbr": "LA",
+            "county": "Orleans Parish"
+         }
+      },
+      "type": "7-Independent Charter District",
+      "grades": {
+         "lowest": "9th Grade",
+         "highest": "12th Grade"
+      },
+      "students": "224",
+      "fte": "12",
+      "pupilTeacherRatio": "18.67",
+      "numberOfSchools": "1"
+   },
+   {
+      "name": "Renew Dolores T. Aaron Elementary",
+      "location": {
+         "state": {
+            "name": "LOUISIANA",
+            "abbr": "LA",
+            "county": "Orleans Parish"
+         }
+      },
+      "type": "7-Independent Charter District",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "8th Grade"
+      },
+      "students": "777",
+      "fte": "38",
+      "pupilTeacherRatio": "20.45",
+      "numberOfSchools": "1"
+   },
+   {
+      "name": "Renew Schaumburg Elementary",
+      "location": {
+         "state": {
+            "name": "LOUISIANA",
+            "abbr": "LA",
+            "county": "Orleans Parish"
+         }
+      },
+      "type": "7-Independent Charter District",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "8th Grade"
+      },
+      "students": "785",
+      "fte": "40",
+      "pupilTeacherRatio": "19.63",
+      "numberOfSchools": "1"
+   },
+   {
+      "name": "Renew Scitech Academy at Laurel",
+      "location": {
+         "state": {
+            "name": "LOUISIANA",
+            "abbr": "LA",
+            "county": "Orleans Parish"
+         }
+      },
+      "type": "7-Independent Charter District",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "8th Grade"
+      },
+      "students": "678",
+      "fte": "37",
+      "pupilTeacherRatio": "18.32",
+      "numberOfSchools": "1"
+   },
+   {
+      "name": "Richland Parish",
+      "location": {
+         "state": {
+            "name": "Louisiana",
+            "abbr": "LA",
+            "county": "Richland Parish"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "2738",
+      "fte": "142.44",
+      "pupilTeacherRatio": "19.22",
+      "numberOfSchools": "12"
+   },
+   {
+      "name": "Robert Russa Moton Charter School",
+      "location": {
+         "state": {
+            "name": "LOUISIANA",
+            "abbr": "LA",
+            "county": "Orleans Parish"
+         }
+      },
+      "type": "7-Independent Charter District",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "8th Grade"
+      },
+      "students": "458",
+      "fte": "21.64",
+      "pupilTeacherRatio": "21.16",
+      "numberOfSchools": "1"
+   },
+   {
+      "name": "Rosenwald Collegiate Academy",
+      "location": {
+         "state": {
+            "name": "LOUISIANA",
+            "abbr": "LA",
+            "county": "Orleans Parish"
+         }
+      },
+      "type": "7-Independent Charter District",
+      "grades": {
+         "lowest": "9th Grade",
+         "highest": "10th Grade"
+      },
+      "students": "259",
+      "fte": "16",
+      "pupilTeacherRatio": "16.19",
+      "numberOfSchools": "1"
+   },
+   {
+      "name": "Rsd-Capitol Education Foundation",
+      "location": {
+         "state": {
+            "name": "LOUISIANA",
+            "abbr": "LA",
+            "county": "East Baton Rouge Parish"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "9th Grade",
+         "highest": "12th Grade"
+      },
+      "students": "354",
+      "fte": "19",
+      "pupilTeacherRatio": "18.63",
+      "numberOfSchools": "1"
+   },
+   {
+      "name": "Sabine Parish",
+      "location": {
+         "state": {
+            "name": "Louisiana",
+            "abbr": "LA",
+            "county": "Sabine Parish"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "4327",
+      "fte": "243",
+      "pupilTeacherRatio": "17.81",
+      "numberOfSchools": "10"
+   },
+   {
+      "name": "Samuel J. Green Charter School",
+      "location": {
+         "state": {
+            "name": "LOUISIANA",
+            "abbr": "LA",
+            "county": "Orleans Parish"
+         }
+      },
+      "type": "7-Independent Charter District",
+      "grades": {
+         "lowest": "Kindergarten",
+         "highest": "8th Grade"
+      },
+      "students": "490",
+      "fte": "24",
+      "pupilTeacherRatio": "20.42",
+      "numberOfSchools": "1"
+   },
+   {
+      "name": "Sophie B. Wright Institute of Academic Excellence",
+      "location": {
+         "state": {
+            "name": "LOUISIANA",
+            "abbr": "LA",
+            "county": "Orleans Parish"
+         }
+      },
+      "type": "7-Independent Charter District",
+      "grades": {
+         "lowest": "6th Grade",
+         "highest": "12th Grade"
+      },
+      "students": "475",
+      "fte": "31.46",
+      "pupilTeacherRatio": "15.1",
+      "numberOfSchools": "1"
+   },
+   {
+      "name": "Southern University Lab School",
+      "location": {
+         "state": {
+            "name": "Louisiana",
+            "abbr": "LA",
+            "county": "East Baton Rouge Parish"
+         }
+      },
+      "type": "8-Other education agencies",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "588",
+      "fte": "27.48",
+      "pupilTeacherRatio": "21.4",
+      "numberOfSchools": "2"
+   },
+   {
+      "name": "Southwest Louisiana Charter Academy",
+      "location": {
+         "state": {
+            "name": "LOUISIANA",
+            "abbr": "LA",
+            "county": "Calcasieu Parish"
+         }
+      },
+      "type": "7-Independent Charter District",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "8th Grade"
+      },
+      "students": "716",
+      "fte": "38",
+      "pupilTeacherRatio": "18.84",
+      "numberOfSchools": "1"
+   },
+   {
+      "name": "Special School District",
+      "location": {
+         "state": {
+            "name": "Louisiana",
+            "abbr": "LA",
+            "county": "East Baton Rouge Parish"
+         }
+      },
+      "type": "9-Specialized public school district",
+      "grades": {
+         "lowest": "Kindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "158",
+      "fte": "2",
+      "pupilTeacherRatio": "79",
+      "numberOfSchools": "17"
+   },
+   {
+      "name": "St. Bernard Parish",
+      "location": {
+         "state": {
+            "name": "Louisiana",
+            "abbr": "LA",
+            "county": "St. Bernard Parish"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "7941",
+      "fte": "452.86",
+      "pupilTeacherRatio": "17.54",
+      "numberOfSchools": "12"
+   },
+   {
+      "name": "St. Charles Parish",
+      "location": {
+         "state": {
+            "name": "Louisiana",
+            "abbr": "LA",
+            "county": "St. Charles Parish"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "9440",
+      "fte": "638.23",
+      "pupilTeacherRatio": "14.79",
+      "numberOfSchools": "15"
+   },
+   {
+      "name": "St. Helena Parish",
+      "location": {
+         "state": {
+            "name": "Louisiana",
+            "abbr": "LA",
+            "county": "St. Helena Parish"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "1214",
+      "fte": "63",
+      "pupilTeacherRatio": "19.27",
+      "numberOfSchools": "3"
+   },
+   {
+      "name": "St. James Parish",
+      "location": {
+         "state": {
+            "name": "Louisiana",
+            "abbr": "LA",
+            "county": "St. James Parish"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "3684",
+      "fte": "274",
+      "pupilTeacherRatio": "13.45",
+      "numberOfSchools": "6"
+   },
+   {
+      "name": "St. John the Baptist Parish",
+      "location": {
+         "state": {
+            "name": "Louisiana",
+            "abbr": "LA",
+            "county": "St. John the Baptist Parish"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "13th Grade"
+      },
+      "students": "5918",
+      "fte": "377.04",
+      "pupilTeacherRatio": "15.7",
+      "numberOfSchools": "10"
+   },
+   {
+      "name": "St. Landry Parish",
+      "location": {
+         "state": {
+            "name": "Louisiana",
+            "abbr": "LA",
+            "county": "St. Landry Parish"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "12965",
+      "fte": "775.45",
+      "pupilTeacherRatio": "16.72",
+      "numberOfSchools": "33"
+   },
+   {
+      "name": "St. Martin Parish",
+      "location": {
+         "state": {
+            "name": "Louisiana",
+            "abbr": "LA",
+            "county": "St. Martin Parish"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "7695",
+      "fte": "376.31",
+      "pupilTeacherRatio": "20.45",
+      "numberOfSchools": "16"
+   },
+   {
+      "name": "St. Mary Parish",
+      "location": {
+         "state": {
+            "name": "Louisiana",
+            "abbr": "LA",
+            "county": "St. Mary Parish"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "8407",
+      "fte": "448.76",
+      "pupilTeacherRatio": "18.73",
+      "numberOfSchools": "21"
+   },
+   {
+      "name": "St. Tammany Parish",
+      "location": {
+         "state": {
+            "name": "Louisiana",
+            "abbr": "LA",
+            "county": "St. Tammany Parish"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "38229",
+      "fte": "2035.52",
+      "pupilTeacherRatio": "18.78",
+      "numberOfSchools": "55"
+   },
+   {
+      "name": "Success Preparatory Academy",
+      "location": {
+         "state": {
+            "name": "LOUISIANA",
+            "abbr": "LA",
+            "county": "Orleans Parish"
+         }
+      },
+      "type": "7-Independent Charter District",
+      "grades": {
+         "lowest": "Kindergarten",
+         "highest": "8th Grade"
+      },
+      "students": "444",
+      "fte": "26",
+      "pupilTeacherRatio": "17.08",
+      "numberOfSchools": "1"
+   },
+   {
+      "name": "Tangipahoa Parish",
+      "location": {
+         "state": {
+            "name": "Louisiana",
+            "abbr": "LA",
+            "county": "Tangipahoa Parish"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "19835",
+      "fte": "1090.27",
+      "pupilTeacherRatio": "18.19",
+      "numberOfSchools": "34"
+   },
+   {
+      "name": "Tensas Parish",
+      "location": {
+         "state": {
+            "name": "Louisiana",
+            "abbr": "LA",
+            "county": "Tensas Parish"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "391",
+      "fte": "23.09",
+      "pupilTeacherRatio": "16.93",
+      "numberOfSchools": "2"
+   },
+   {
+      "name": "Terrebonne Parish",
+      "location": {
+         "state": {
+            "name": "Louisiana",
+            "abbr": "LA",
+            "county": "Terrebonne Parish"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "16970",
+      "fte": "891.08",
+      "pupilTeacherRatio": "19.04",
+      "numberOfSchools": "32"
+   },
+   {
+      "name": "The Max Charter School",
+      "location": {
+         "state": {
+            "name": "Louisiana",
+            "abbr": "LA",
+            "county": "Lafourche Parish"
+         }
+      },
+      "type": "7-Independent Charter District",
+      "grades": {
+         "lowest": "1st Grade",
+         "highest": "8th Grade"
+      },
+      "students": "120",
+      "fte": "10",
+      "pupilTeacherRatio": "12",
+      "numberOfSchools": "1"
+   },
+   {
+      "name": "The Net 2 Charter High School",
+      "location": {
+         "state": {
+            "name": "LOUISIANA",
+            "abbr": "LA",
+            "county": "Orleans Parish"
+         }
+      },
+      "type": "7-Independent Charter District",
+      "grades": {
+         "lowest": "9th Grade",
+         "highest": "13th Grade"
+      },
+      "students": "172",
+      "fte": "11",
+      "pupilTeacherRatio": "15.64",
+      "numberOfSchools": "1"
+   },
+   {
+      "name": "The Net Charter High School",
+      "location": {
+         "state": {
+            "name": "LOUISIANA",
+            "abbr": "LA",
+            "county": "Orleans Parish"
+         }
+      },
+      "type": "7-Independent Charter District",
+      "grades": {
+         "lowest": "9th Grade",
+         "highest": "13th Grade"
+      },
+      "students": "146",
+      "fte": "11",
+      "pupilTeacherRatio": "13.27",
+      "numberOfSchools": "1"
+   },
+   {
+      "name": "Thrive Academy",
+      "location": {
+         "state": {
+            "name": "LOUISIANA",
+            "abbr": "LA",
+            "county": "East Baton Rouge Parish"
+         }
+      },
+      "type": "9-Specialized public school district",
+      "grades": {
+         "lowest": "6th Grade",
+         "highest": "12th Grade"
+      },
+      "students": "173",
+      "fte": "20.11",
+      "pupilTeacherRatio": "8.6",
+      "numberOfSchools": "1"
+   },
+   {
+      "name": "Union Parish",
+      "location": {
+         "state": {
+            "name": "Louisiana",
+            "abbr": "LA",
+            "county": "Union Parish"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "2001",
+      "fte": "109.11",
+      "pupilTeacherRatio": "18.34",
+      "numberOfSchools": "5"
+   },
+   {
+      "name": "University View Academy Inc. (Frm La Connections)",
+      "location": {
+         "state": {
+            "name": "Louisiana",
+            "abbr": "LA",
+            "county": "East Baton Rouge Parish"
+         }
+      },
+      "type": "7-Independent Charter District",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "3209",
+      "fte": "157",
+      "pupilTeacherRatio": "20.44",
+      "numberOfSchools": "1"
+   },
+   {
+      "name": "V. B. Glencoe Charter School",
+      "location": {
+         "state": {
+            "name": "Louisiana",
+            "abbr": "LA",
+            "county": "St. Mary Parish"
+         }
+      },
+      "type": "7-Independent Charter District",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "9th Grade"
+      },
+      "students": "375",
+      "fte": "26.85",
+      "pupilTeacherRatio": "13.97",
+      "numberOfSchools": "1"
+   },
+   {
+      "name": "Vermilion Parish",
+      "location": {
+         "state": {
+            "name": "Louisiana",
+            "abbr": "LA",
+            "county": "Vermilion Parish"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "9568",
+      "fte": "542.29",
+      "pupilTeacherRatio": "17.64",
+      "numberOfSchools": "20"
+   },
+   {
+      "name": "Vernon Parish",
+      "location": {
+         "state": {
+            "name": "Louisiana",
+            "abbr": "LA",
+            "county": "Vernon Parish"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "8541",
+      "fte": "489.36",
+      "pupilTeacherRatio": "17.45",
+      "numberOfSchools": "18"
+   },
+   {
+      "name": "Voices for International Business & Education",
+      "location": {
+         "state": {
+            "name": "Louisiana",
+            "abbr": "LA",
+            "county": "Orleans Parish"
+         }
+      },
+      "type": "7-Independent Charter District",
+      "grades": {
+         "lowest": "9th Grade",
+         "highest": "13th Grade"
+      },
+      "students": "456",
+      "fte": "29.69",
+      "pupilTeacherRatio": "15.36",
+      "numberOfSchools": "1"
+   },
+   {
+      "name": "Walter L. Cohen College Prep",
+      "location": {
+         "state": {
+            "name": "LOUISIANA",
+            "abbr": "LA",
+            "county": "Orleans Parish"
+         }
+      },
+      "type": "7-Independent Charter District",
+      "grades": {
+         "lowest": "7th Grade",
+         "highest": "12th Grade"
+      },
+      "students": "258",
+      "fte": "19.87",
+      "pupilTeacherRatio": "12.98",
+      "numberOfSchools": "1"
+   },
+   {
+      "name": "Washington Parish",
+      "location": {
+         "state": {
+            "name": "Louisiana",
+            "abbr": "LA",
+            "county": "Washington Parish"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "5090",
+      "fte": "285.24",
+      "pupilTeacherRatio": "17.84",
+      "numberOfSchools": "10"
+   },
+   {
+      "name": "Webster Parish",
+      "location": {
+         "state": {
+            "name": "Louisiana",
+            "abbr": "LA",
+            "county": "Webster Parish"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "5941",
+      "fte": "305",
+      "pupilTeacherRatio": "19.48",
+      "numberOfSchools": "14"
+   },
+   {
+      "name": "West Baton Rouge Parish",
+      "location": {
+         "state": {
+            "name": "Louisiana",
+            "abbr": "LA",
+            "county": "West Baton Rouge Parish"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "3443",
+      "fte": "230",
+      "pupilTeacherRatio": "14.97",
+      "numberOfSchools": "10"
+   },
+   {
+      "name": "West Carroll Parish",
+      "location": {
+         "state": {
+            "name": "Louisiana",
+            "abbr": "LA",
+            "county": "West Carroll Parish"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "1952",
+      "fte": "120.1",
+      "pupilTeacherRatio": "16.25",
+      "numberOfSchools": "5"
+   },
+   {
+      "name": "West Feliciana Parish",
+      "location": {
+         "state": {
+            "name": "Louisiana",
+            "abbr": "LA",
+            "county": "West Feliciana Parish"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "2217",
+      "fte": "147.94",
+      "pupilTeacherRatio": "14.99",
+      "numberOfSchools": "4"
+   },
+   {
+      "name": "Willow Charter Academy",
+      "location": {
+         "state": {
+            "name": "LOUISIANA",
+            "abbr": "LA",
+            "county": "Lafayette Parish"
+         }
+      },
+      "type": "7-Independent Charter District",
+      "grades": {
+         "lowest": "Kindergarten",
+         "highest": "8th Grade"
+      },
+      "students": "613",
+      "fte": "30.99",
+      "pupilTeacherRatio": "19.78",
+      "numberOfSchools": "1"
+   },
+   {
+      "name": "Wilson Charter School",
+      "location": {
+         "state": {
+            "name": "LOUISIANA",
+            "abbr": "LA",
+            "county": "Orleans Parish"
+         }
+      },
+      "type": "7-Independent Charter District",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "8th Grade"
+      },
+      "students": "698",
+      "fte": "38",
+      "pupilTeacherRatio": "18.37",
+      "numberOfSchools": "1"
+   },
+   {
+      "name": "Winn Parish",
+      "location": {
+         "state": {
+            "name": "Louisiana",
+            "abbr": "LA",
+            "county": "Winn Parish"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "2120",
+      "fte": "117.14",
+      "pupilTeacherRatio": "18.1",
+      "numberOfSchools": "6"
+   },
+   {
+      "name": "Zachary Community School District",
+      "location": {
+         "state": {
+            "name": "Louisiana",
+            "abbr": "LA",
+            "county": "East Baton Rouge Parish"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "5550",
+      "fte": "309",
+      "pupilTeacherRatio": "17.96",
+      "numberOfSchools": "7"
+   }
+]

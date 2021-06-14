@@ -1,0 +1,2795 @@
+[
+   {
+      "name": "Achievement School District",
+      "location": {
+         "state": {
+            "name": "Tennessee",
+            "abbr": "TN",
+            "county": "Davidson County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "11169",
+      "fte": "501.3",
+      "pupilTeacherRatio": "22.28",
+      "numberOfSchools": "30"
+   },
+   {
+      "name": "Alamo",
+      "location": {
+         "state": {
+            "name": "Tennessee",
+            "abbr": "TN",
+            "county": "Crockett County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "6th Grade"
+      },
+      "students": "643",
+      "fte": "42",
+      "pupilTeacherRatio": "15.31",
+      "numberOfSchools": "1"
+   },
+   {
+      "name": "Alcoa",
+      "location": {
+         "state": {
+            "name": "Tennessee",
+            "abbr": "TN",
+            "county": "Blount County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "2134",
+      "fte": "123.8",
+      "pupilTeacherRatio": "17.24",
+      "numberOfSchools": "4"
+   },
+   {
+      "name": "Alvin C York Institute",
+      "location": {
+         "state": {
+            "name": "Tennessee",
+            "abbr": "TN",
+            "county": "Fentress County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "9th Grade",
+         "highest": "12th Grade"
+      },
+      "students": "516",
+      "fte": "42.5",
+      "pupilTeacherRatio": "12.14",
+      "numberOfSchools": "1"
+   },
+   {
+      "name": "Anderson County",
+      "location": {
+         "state": {
+            "name": "Tennessee",
+            "abbr": "TN",
+            "county": "Anderson County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "6436",
+      "fte": "430.5",
+      "pupilTeacherRatio": "14.95",
+      "numberOfSchools": "18"
+   },
+   {
+      "name": "Arlington",
+      "location": {
+         "state": {
+            "name": "TENNESSEE",
+            "abbr": "TN",
+            "county": "Shelby County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "4847",
+      "fte": "273.5",
+      "pupilTeacherRatio": "17.72",
+      "numberOfSchools": "4"
+   },
+   {
+      "name": "Athens",
+      "location": {
+         "state": {
+            "name": "Tennessee",
+            "abbr": "TN",
+            "county": "McMinn County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "8th Grade"
+      },
+      "students": "1786",
+      "fte": "103.6",
+      "pupilTeacherRatio": "17.24",
+      "numberOfSchools": "5"
+   },
+   {
+      "name": "Bartlett",
+      "location": {
+         "state": {
+            "name": "TENNESSEE",
+            "abbr": "TN",
+            "county": "Shelby County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "9134",
+      "fte": "547.3",
+      "pupilTeacherRatio": "16.69",
+      "numberOfSchools": "10"
+   },
+   {
+      "name": "Bedford County",
+      "location": {
+         "state": {
+            "name": "Tennessee",
+            "abbr": "TN",
+            "county": "Bedford County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "8968",
+      "fte": "571",
+      "pupilTeacherRatio": "15.71",
+      "numberOfSchools": "14"
+   },
+   {
+      "name": "Bells",
+      "location": {
+         "state": {
+            "name": "Tennessee",
+            "abbr": "TN",
+            "county": "Crockett County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "5th Grade"
+      },
+      "students": "422",
+      "fte": "28",
+      "pupilTeacherRatio": "15.07",
+      "numberOfSchools": "1"
+   },
+   {
+      "name": "Benton County",
+      "location": {
+         "state": {
+            "name": "Tennessee",
+            "abbr": "TN",
+            "county": "Benton County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "2142",
+      "fte": "159",
+      "pupilTeacherRatio": "13.47",
+      "numberOfSchools": "8"
+   },
+   {
+      "name": "Bledsoe County",
+      "location": {
+         "state": {
+            "name": "Tennessee",
+            "abbr": "TN",
+            "county": "Bledsoe County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "1723",
+      "fte": "112.3",
+      "pupilTeacherRatio": "15.34",
+      "numberOfSchools": "5"
+   },
+   {
+      "name": "Blount County",
+      "location": {
+         "state": {
+            "name": "Tennessee",
+            "abbr": "TN",
+            "county": "Blount County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "10663",
+      "fte": "697.5",
+      "pupilTeacherRatio": "15.29",
+      "numberOfSchools": "22"
+   },
+   {
+      "name": "Bradford",
+      "location": {
+         "state": {
+            "name": "Tennessee",
+            "abbr": "TN",
+            "county": "Gibson County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "607",
+      "fte": "38.4",
+      "pupilTeacherRatio": "15.81",
+      "numberOfSchools": "2"
+   },
+   {
+      "name": "Bradley County",
+      "location": {
+         "state": {
+            "name": "Tennessee",
+            "abbr": "TN",
+            "county": "Bradley County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "10263",
+      "fte": "657.6",
+      "pupilTeacherRatio": "15.61",
+      "numberOfSchools": "17"
+   },
+   {
+      "name": "Bristol",
+      "location": {
+         "state": {
+            "name": "Tennessee",
+            "abbr": "TN",
+            "county": "Sullivan County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "4021",
+      "fte": "260.8",
+      "pupilTeacherRatio": "15.42",
+      "numberOfSchools": "8"
+   },
+   {
+      "name": "Campbell County",
+      "location": {
+         "state": {
+            "name": "Tennessee",
+            "abbr": "TN",
+            "county": "Campbell County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "5407",
+      "fte": "328",
+      "pupilTeacherRatio": "16.48",
+      "numberOfSchools": "15"
+   },
+   {
+      "name": "Cannon County",
+      "location": {
+         "state": {
+            "name": "Tennessee",
+            "abbr": "TN",
+            "county": "Cannon County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "2023",
+      "fte": "134",
+      "pupilTeacherRatio": "15.1",
+      "numberOfSchools": "7"
+   },
+   {
+      "name": "Carroll County",
+      "location": {
+         "state": {
+            "name": "Tennessee",
+            "abbr": "TN",
+            "county": "Carroll County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "2",
+      "fte": "9",
+      "pupilTeacherRatio": "0.22",
+      "numberOfSchools": "2"
+   },
+   {
+      "name": "Carter County",
+      "location": {
+         "state": {
+            "name": "Tennessee",
+            "abbr": "TN",
+            "county": "Carter County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "5096",
+      "fte": "378.2",
+      "pupilTeacherRatio": "13.47",
+      "numberOfSchools": "15"
+   },
+   {
+      "name": "Cheatham County",
+      "location": {
+         "state": {
+            "name": "Tennessee",
+            "abbr": "TN",
+            "county": "Cheatham County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "6037",
+      "fte": "372.1",
+      "pupilTeacherRatio": "16.22",
+      "numberOfSchools": "13"
+   },
+   {
+      "name": "Chester County",
+      "location": {
+         "state": {
+            "name": "Tennessee",
+            "abbr": "TN",
+            "county": "Chester County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "2838",
+      "fte": "184",
+      "pupilTeacherRatio": "15.42",
+      "numberOfSchools": "6"
+   },
+   {
+      "name": "Claiborne County",
+      "location": {
+         "state": {
+            "name": "Tennessee",
+            "abbr": "TN",
+            "county": "Claiborne County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "4137",
+      "fte": "295.1",
+      "pupilTeacherRatio": "14.02",
+      "numberOfSchools": "13"
+   },
+   {
+      "name": "Clay County",
+      "location": {
+         "state": {
+            "name": "Tennessee",
+            "abbr": "TN",
+            "county": "Clay County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "1104",
+      "fte": "66.2",
+      "pupilTeacherRatio": "16.68",
+      "numberOfSchools": "4"
+   },
+   {
+      "name": "Cleveland",
+      "location": {
+         "state": {
+            "name": "Tennessee",
+            "abbr": "TN",
+            "county": "Bradley County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "5814",
+      "fte": "368.3",
+      "pupilTeacherRatio": "15.79",
+      "numberOfSchools": "9"
+   },
+   {
+      "name": "Clinton",
+      "location": {
+         "state": {
+            "name": "Tennessee",
+            "abbr": "TN",
+            "county": "Anderson County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "6th Grade"
+      },
+      "students": "974",
+      "fte": "64",
+      "pupilTeacherRatio": "15.22",
+      "numberOfSchools": "3"
+   },
+   {
+      "name": "Cocke County",
+      "location": {
+         "state": {
+            "name": "Tennessee",
+            "abbr": "TN",
+            "county": "Cocke County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "4515",
+      "fte": "296.1",
+      "pupilTeacherRatio": "15.25",
+      "numberOfSchools": "12"
+   },
+   {
+      "name": "Coffee County",
+      "location": {
+         "state": {
+            "name": "Tennessee",
+            "abbr": "TN",
+            "county": "Coffee County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "4302",
+      "fte": "290.3",
+      "pupilTeacherRatio": "14.82",
+      "numberOfSchools": "10"
+   },
+   {
+      "name": "Collierville",
+      "location": {
+         "state": {
+            "name": "TENNESSEE",
+            "abbr": "TN",
+            "county": "Shelby County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "9188",
+      "fte": "562.5",
+      "pupilTeacherRatio": "16.33",
+      "numberOfSchools": "9"
+   },
+   {
+      "name": "Crockett County",
+      "location": {
+         "state": {
+            "name": "Tennessee",
+            "abbr": "TN",
+            "county": "Crockett County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "2012",
+      "fte": "128.9",
+      "pupilTeacherRatio": "15.61",
+      "numberOfSchools": "5"
+   },
+   {
+      "name": "Cumberland County",
+      "location": {
+         "state": {
+            "name": "Tennessee",
+            "abbr": "TN",
+            "county": "Cumberland County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "7303",
+      "fte": "456.4",
+      "pupilTeacherRatio": "16",
+      "numberOfSchools": "12"
+   },
+   {
+      "name": "Davidson County",
+      "location": {
+         "state": {
+            "name": "Tennessee",
+            "abbr": "TN",
+            "county": "Davidson County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "85588",
+      "fte": "5529.6",
+      "pupilTeacherRatio": "15.48",
+      "numberOfSchools": "168"
+   },
+   {
+      "name": "Dayton",
+      "location": {
+         "state": {
+            "name": "Tennessee",
+            "abbr": "TN",
+            "county": "Rhea County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "8th Grade"
+      },
+      "students": "879",
+      "fte": "56.9",
+      "pupilTeacherRatio": "15.45",
+      "numberOfSchools": "1"
+   },
+   {
+      "name": "Decatur County",
+      "location": {
+         "state": {
+            "name": "Tennessee",
+            "abbr": "TN",
+            "county": "Decatur County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "1601",
+      "fte": "108.5",
+      "pupilTeacherRatio": "14.76",
+      "numberOfSchools": "4"
+   },
+   {
+      "name": "Dekalb County",
+      "location": {
+         "state": {
+            "name": "Tennessee",
+            "abbr": "TN",
+            "county": "DeKalb County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "2965",
+      "fte": "195.9",
+      "pupilTeacherRatio": "15.14",
+      "numberOfSchools": "6"
+   },
+   {
+      "name": "Dickson County",
+      "location": {
+         "state": {
+            "name": "Tennessee",
+            "abbr": "TN",
+            "county": "Dickson County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "8240",
+      "fte": "562.5",
+      "pupilTeacherRatio": "14.65",
+      "numberOfSchools": "18"
+   },
+   {
+      "name": "Dyer County",
+      "location": {
+         "state": {
+            "name": "Tennessee",
+            "abbr": "TN",
+            "county": "Dyer County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "3896",
+      "fte": "234",
+      "pupilTeacherRatio": "16.65",
+      "numberOfSchools": "8"
+   },
+   {
+      "name": "Dyersburg",
+      "location": {
+         "state": {
+            "name": "Tennessee",
+            "abbr": "TN",
+            "county": "Dyer County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "2595",
+      "fte": "175.5",
+      "pupilTeacherRatio": "14.79",
+      "numberOfSchools": "4"
+   },
+   {
+      "name": "Elizabethton",
+      "location": {
+         "state": {
+            "name": "Tennessee",
+            "abbr": "TN",
+            "county": "Carter County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "2584",
+      "fte": "181.2",
+      "pupilTeacherRatio": "14.26",
+      "numberOfSchools": "5"
+   },
+   {
+      "name": "Etowah",
+      "location": {
+         "state": {
+            "name": "Tennessee",
+            "abbr": "TN",
+            "county": "McMinn County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "8th Grade"
+      },
+      "students": "387",
+      "fte": "22.4",
+      "pupilTeacherRatio": "17.28",
+      "numberOfSchools": "1"
+   },
+   {
+      "name": "Fayette County Public Schools",
+      "location": {
+         "state": {
+            "name": "Tennessee",
+            "abbr": "TN",
+            "county": "Fayette County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "3498",
+      "fte": "210.9",
+      "pupilTeacherRatio": "16.59",
+      "numberOfSchools": "7"
+   },
+   {
+      "name": "Fayetteville",
+      "location": {
+         "state": {
+            "name": "Tennessee",
+            "abbr": "TN",
+            "county": "Lincoln County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "1402",
+      "fte": "94.4",
+      "pupilTeacherRatio": "14.85",
+      "numberOfSchools": "3"
+   },
+   {
+      "name": "Fentress County",
+      "location": {
+         "state": {
+            "name": "Tennessee",
+            "abbr": "TN",
+            "county": "Fentress County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "2243",
+      "fte": "135.6",
+      "pupilTeacherRatio": "16.54",
+      "numberOfSchools": "6"
+   },
+   {
+      "name": "Franklin County",
+      "location": {
+         "state": {
+            "name": "Tennessee",
+            "abbr": "TN",
+            "county": "Franklin County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "5311",
+      "fte": "333.7",
+      "pupilTeacherRatio": "15.92",
+      "numberOfSchools": "11"
+   },
+   {
+      "name": "Franklin SSD",
+      "location": {
+         "state": {
+            "name": "Tennessee",
+            "abbr": "TN",
+            "county": "Williamson County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "8th Grade"
+      },
+      "students": "3636",
+      "fte": "312",
+      "pupilTeacherRatio": "11.65",
+      "numberOfSchools": "8"
+   },
+   {
+      "name": "Germantown",
+      "location": {
+         "state": {
+            "name": "TENNESSEE",
+            "abbr": "TN",
+            "county": "Shelby County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "6196",
+      "fte": "364.7",
+      "pupilTeacherRatio": "16.99",
+      "numberOfSchools": "6"
+   },
+   {
+      "name": "Gibson Co Sp Dist",
+      "location": {
+         "state": {
+            "name": "Tennessee",
+            "abbr": "TN",
+            "county": "Gibson County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "4013",
+      "fte": "236.7",
+      "pupilTeacherRatio": "16.95",
+      "numberOfSchools": "9"
+   },
+   {
+      "name": "Giles County",
+      "location": {
+         "state": {
+            "name": "Tennessee",
+            "abbr": "TN",
+            "county": "Giles County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "3774",
+      "fte": "253.2",
+      "pupilTeacherRatio": "14.91",
+      "numberOfSchools": "8"
+   },
+   {
+      "name": "Grainger County",
+      "location": {
+         "state": {
+            "name": "Tennessee",
+            "abbr": "TN",
+            "county": "Grainger County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "3315",
+      "fte": "215.2",
+      "pupilTeacherRatio": "15.4",
+      "numberOfSchools": "9"
+   },
+   {
+      "name": "Greene County",
+      "location": {
+         "state": {
+            "name": "Tennessee",
+            "abbr": "TN",
+            "county": "Greene County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "6458",
+      "fte": "423.3",
+      "pupilTeacherRatio": "15.26",
+      "numberOfSchools": "16"
+   },
+   {
+      "name": "Greeneville",
+      "location": {
+         "state": {
+            "name": "Tennessee",
+            "abbr": "TN",
+            "county": "Greene County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "2940",
+      "fte": "200",
+      "pupilTeacherRatio": "14.7",
+      "numberOfSchools": "7"
+   },
+   {
+      "name": "Grundy County",
+      "location": {
+         "state": {
+            "name": "Tennessee",
+            "abbr": "TN",
+            "county": "Grundy County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "1947",
+      "fte": "145.1",
+      "pupilTeacherRatio": "13.42",
+      "numberOfSchools": "8"
+   },
+   {
+      "name": "Hamblen County",
+      "location": {
+         "state": {
+            "name": "Tennessee",
+            "abbr": "TN",
+            "county": "Hamblen County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "10511",
+      "fte": "666.5",
+      "pupilTeacherRatio": "15.77",
+      "numberOfSchools": "18"
+   },
+   {
+      "name": "Hamilton County",
+      "location": {
+         "state": {
+            "name": "Tennessee",
+            "abbr": "TN",
+            "county": "Hamilton County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "45342",
+      "fte": "3028.2",
+      "pupilTeacherRatio": "14.97",
+      "numberOfSchools": "79"
+   },
+   {
+      "name": "Hancock County",
+      "location": {
+         "state": {
+            "name": "Tennessee",
+            "abbr": "TN",
+            "county": "Hancock County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "976",
+      "fte": "75.3",
+      "pupilTeacherRatio": "12.96",
+      "numberOfSchools": "3"
+   },
+   {
+      "name": "Hardeman County Schools",
+      "location": {
+         "state": {
+            "name": "Tennessee",
+            "abbr": "TN",
+            "county": "Hardeman County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "3503",
+      "fte": "250.5",
+      "pupilTeacherRatio": "13.98",
+      "numberOfSchools": "9"
+   },
+   {
+      "name": "Hardin County",
+      "location": {
+         "state": {
+            "name": "Tennessee",
+            "abbr": "TN",
+            "county": "Hardin County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "3547",
+      "fte": "224.3",
+      "pupilTeacherRatio": "15.81",
+      "numberOfSchools": "7"
+   },
+   {
+      "name": "Hawkins County",
+      "location": {
+         "state": {
+            "name": "Tennessee",
+            "abbr": "TN",
+            "county": "Hawkins County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "6519",
+      "fte": "486.6",
+      "pupilTeacherRatio": "13.4",
+      "numberOfSchools": "18"
+   },
+   {
+      "name": "Haywood County",
+      "location": {
+         "state": {
+            "name": "Tennessee",
+            "abbr": "TN",
+            "county": "Haywood County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "2835",
+      "fte": "198.3",
+      "pupilTeacherRatio": "14.3",
+      "numberOfSchools": "5"
+   },
+   {
+      "name": "Henderson County",
+      "location": {
+         "state": {
+            "name": "Tennessee",
+            "abbr": "TN",
+            "county": "Henderson County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "3992",
+      "fte": "254.8",
+      "pupilTeacherRatio": "15.67",
+      "numberOfSchools": "9"
+   },
+   {
+      "name": "Henry County",
+      "location": {
+         "state": {
+            "name": "Tennessee",
+            "abbr": "TN",
+            "county": "Henry County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "3046",
+      "fte": "201",
+      "pupilTeacherRatio": "15.15",
+      "numberOfSchools": "6"
+   },
+   {
+      "name": "Hickman County",
+      "location": {
+         "state": {
+            "name": "Tennessee",
+            "abbr": "TN",
+            "county": "Hickman County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "3392",
+      "fte": "221",
+      "pupilTeacherRatio": "15.35",
+      "numberOfSchools": "8"
+   },
+   {
+      "name": "Hollow Rock - Bruceton",
+      "location": {
+         "state": {
+            "name": "Tennessee",
+            "abbr": "TN",
+            "county": "Carroll County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "651",
+      "fte": "46.2",
+      "pupilTeacherRatio": "14.09",
+      "numberOfSchools": "2"
+   },
+   {
+      "name": "Houston County",
+      "location": {
+         "state": {
+            "name": "Tennessee",
+            "abbr": "TN",
+            "county": "Houston County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "1360",
+      "fte": "84",
+      "pupilTeacherRatio": "16.19",
+      "numberOfSchools": "5"
+   },
+   {
+      "name": "Humboldt City Schools",
+      "location": {
+         "state": {
+            "name": "Tennessee",
+            "abbr": "TN",
+            "county": "Gibson County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "1192",
+      "fte": "77",
+      "pupilTeacherRatio": "15.48",
+      "numberOfSchools": "3"
+   },
+   {
+      "name": "Humphreys County",
+      "location": {
+         "state": {
+            "name": "Tennessee",
+            "abbr": "TN",
+            "county": "Humphreys County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "2970",
+      "fte": "183.8",
+      "pupilTeacherRatio": "16.16",
+      "numberOfSchools": "7"
+   },
+   {
+      "name": "Huntingdon Special School District",
+      "location": {
+         "state": {
+            "name": "Tennessee",
+            "abbr": "TN",
+            "county": "Carroll County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "1362",
+      "fte": "89.5",
+      "pupilTeacherRatio": "15.22",
+      "numberOfSchools": "4"
+   },
+   {
+      "name": "Jackson County",
+      "location": {
+         "state": {
+            "name": "Tennessee",
+            "abbr": "TN",
+            "county": "Jackson County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "1426",
+      "fte": "98.9",
+      "pupilTeacherRatio": "14.42",
+      "numberOfSchools": "4"
+   },
+   {
+      "name": "Jefferson County",
+      "location": {
+         "state": {
+            "name": "Tennessee",
+            "abbr": "TN",
+            "county": "Jefferson County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "7221",
+      "fte": "453.2",
+      "pupilTeacherRatio": "15.93",
+      "numberOfSchools": "13"
+   },
+   {
+      "name": "Johnson City",
+      "location": {
+         "state": {
+            "name": "Tennessee",
+            "abbr": "TN",
+            "county": "Washington County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "8098",
+      "fte": "505.7",
+      "pupilTeacherRatio": "16.01",
+      "numberOfSchools": "12"
+   },
+   {
+      "name": "Johnson County",
+      "location": {
+         "state": {
+            "name": "Tennessee",
+            "abbr": "TN",
+            "county": "Johnson County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "2102",
+      "fte": "144.5",
+      "pupilTeacherRatio": "14.55",
+      "numberOfSchools": "7"
+   },
+   {
+      "name": "Kingsport",
+      "location": {
+         "state": {
+            "name": "Tennessee",
+            "abbr": "TN",
+            "county": "Sullivan County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "7599",
+      "fte": "504",
+      "pupilTeacherRatio": "15.08",
+      "numberOfSchools": "12"
+   },
+   {
+      "name": "Knox County",
+      "location": {
+         "state": {
+            "name": "Tennessee",
+            "abbr": "TN",
+            "county": "Knox County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "61545",
+      "fte": "3925.3",
+      "pupilTeacherRatio": "15.68",
+      "numberOfSchools": "91"
+   },
+   {
+      "name": "Lake County",
+      "location": {
+         "state": {
+            "name": "Tennessee",
+            "abbr": "TN",
+            "county": "Lake County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "747",
+      "fte": "56.6",
+      "pupilTeacherRatio": "13.2",
+      "numberOfSchools": "3"
+   },
+   {
+      "name": "Lakeland",
+      "location": {
+         "state": {
+            "name": "TENNESSEE",
+            "abbr": "TN",
+            "county": "Shelby County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "8th Grade"
+      },
+      "students": "1872",
+      "fte": "115.2",
+      "pupilTeacherRatio": "16.25",
+      "numberOfSchools": "2"
+   },
+   {
+      "name": "Lauderdale County",
+      "location": {
+         "state": {
+            "name": "Tennessee",
+            "abbr": "TN",
+            "county": "Lauderdale County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "3896",
+      "fte": "269.3",
+      "pupilTeacherRatio": "14.47",
+      "numberOfSchools": "7"
+   },
+   {
+      "name": "Lawrence County",
+      "location": {
+         "state": {
+            "name": "Tennessee",
+            "abbr": "TN",
+            "county": "Lawrence County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "6970",
+      "fte": "428.7",
+      "pupilTeacherRatio": "16.26",
+      "numberOfSchools": "13"
+   },
+   {
+      "name": "Lebanon",
+      "location": {
+         "state": {
+            "name": "Tennessee",
+            "abbr": "TN",
+            "county": "Wilson County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "8th Grade"
+      },
+      "students": "3983",
+      "fte": "249.8",
+      "pupilTeacherRatio": "15.94",
+      "numberOfSchools": "6"
+   },
+   {
+      "name": "Lenoir City",
+      "location": {
+         "state": {
+            "name": "Tennessee",
+            "abbr": "TN",
+            "county": "Loudon County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "2435",
+      "fte": "134.7",
+      "pupilTeacherRatio": "18.08",
+      "numberOfSchools": "3"
+   },
+   {
+      "name": "Lewis County",
+      "location": {
+         "state": {
+            "name": "Tennessee",
+            "abbr": "TN",
+            "county": "Lewis County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "1716",
+      "fte": "115.7",
+      "pupilTeacherRatio": "14.83",
+      "numberOfSchools": "4"
+   },
+   {
+      "name": "Lexington",
+      "location": {
+         "state": {
+            "name": "Tennessee",
+            "abbr": "TN",
+            "county": "Henderson County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "8th Grade"
+      },
+      "students": "872",
+      "fte": "56.2",
+      "pupilTeacherRatio": "15.52",
+      "numberOfSchools": "2"
+   },
+   {
+      "name": "Lincoln County",
+      "location": {
+         "state": {
+            "name": "Tennessee",
+            "abbr": "TN",
+            "county": "Lincoln County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "3945",
+      "fte": "240.2",
+      "pupilTeacherRatio": "16.42",
+      "numberOfSchools": "8"
+   },
+   {
+      "name": "Loudon County",
+      "location": {
+         "state": {
+            "name": "Tennessee",
+            "abbr": "TN",
+            "county": "Loudon County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "4876",
+      "fte": "310.1",
+      "pupilTeacherRatio": "15.72",
+      "numberOfSchools": "9"
+   },
+   {
+      "name": "Macon County",
+      "location": {
+         "state": {
+            "name": "Tennessee",
+            "abbr": "TN",
+            "county": "Macon County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "4018",
+      "fte": "253.4",
+      "pupilTeacherRatio": "15.86",
+      "numberOfSchools": "8"
+   },
+   {
+      "name": "Madison County",
+      "location": {
+         "state": {
+            "name": "Tennessee",
+            "abbr": "TN",
+            "county": "Madison County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "12729",
+      "fte": "818.4",
+      "pupilTeacherRatio": "15.55",
+      "numberOfSchools": "23"
+   },
+   {
+      "name": "Manchester",
+      "location": {
+         "state": {
+            "name": "Tennessee",
+            "abbr": "TN",
+            "county": "Coffee County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "8th Grade"
+      },
+      "students": "1475",
+      "fte": "98",
+      "pupilTeacherRatio": "15.05",
+      "numberOfSchools": "3"
+   },
+   {
+      "name": "Marion County",
+      "location": {
+         "state": {
+            "name": "Tennessee",
+            "abbr": "TN",
+            "county": "Marion County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "4048",
+      "fte": "252",
+      "pupilTeacherRatio": "16.06",
+      "numberOfSchools": "11"
+   },
+   {
+      "name": "Marshall County",
+      "location": {
+         "state": {
+            "name": "Tennessee",
+            "abbr": "TN",
+            "county": "Marshall County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "5446",
+      "fte": "332",
+      "pupilTeacherRatio": "16.4",
+      "numberOfSchools": "10"
+   },
+   {
+      "name": "Maryville",
+      "location": {
+         "state": {
+            "name": "Tennessee",
+            "abbr": "TN",
+            "county": "Blount County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "5443",
+      "fte": "329.8",
+      "pupilTeacherRatio": "16.5",
+      "numberOfSchools": "7"
+   },
+   {
+      "name": "Maury County",
+      "location": {
+         "state": {
+            "name": "Tennessee",
+            "abbr": "TN",
+            "county": "Maury County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "13043",
+      "fte": "846.7",
+      "pupilTeacherRatio": "15.4",
+      "numberOfSchools": "23"
+   },
+   {
+      "name": "Mckenzie",
+      "location": {
+         "state": {
+            "name": "Tennessee",
+            "abbr": "TN",
+            "county": "Carroll County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "1255",
+      "fte": "85",
+      "pupilTeacherRatio": "14.76",
+      "numberOfSchools": "3"
+   },
+   {
+      "name": "Mcminn County",
+      "location": {
+         "state": {
+            "name": "Tennessee",
+            "abbr": "TN",
+            "county": "McMinn County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "5493",
+      "fte": "343",
+      "pupilTeacherRatio": "16.01",
+      "numberOfSchools": "9"
+   },
+   {
+      "name": "Mcnairy County",
+      "location": {
+         "state": {
+            "name": "Tennessee",
+            "abbr": "TN",
+            "county": "McNairy County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "4070",
+      "fte": "294.1",
+      "pupilTeacherRatio": "13.84",
+      "numberOfSchools": "10"
+   },
+   {
+      "name": "Meigs County",
+      "location": {
+         "state": {
+            "name": "Tennessee",
+            "abbr": "TN",
+            "county": "Meigs County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "1742",
+      "fte": "119",
+      "pupilTeacherRatio": "14.64",
+      "numberOfSchools": "4"
+   },
+   {
+      "name": "Milan",
+      "location": {
+         "state": {
+            "name": "Tennessee",
+            "abbr": "TN",
+            "county": "Gibson County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "2013",
+      "fte": "132.5",
+      "pupilTeacherRatio": "15.19",
+      "numberOfSchools": "3"
+   },
+   {
+      "name": "Millington Municipal Schools",
+      "location": {
+         "state": {
+            "name": "TENNESSEE",
+            "abbr": "TN",
+            "county": "Shelby County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "2633",
+      "fte": "164.3",
+      "pupilTeacherRatio": "16.03",
+      "numberOfSchools": "4"
+   },
+   {
+      "name": "Monroe County",
+      "location": {
+         "state": {
+            "name": "Tennessee",
+            "abbr": "TN",
+            "county": "Monroe County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "5262",
+      "fte": "330.1",
+      "pupilTeacherRatio": "15.94",
+      "numberOfSchools": "12"
+   },
+   {
+      "name": "Montgomery County",
+      "location": {
+         "state": {
+            "name": "Tennessee",
+            "abbr": "TN",
+            "county": "Montgomery County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "36582",
+      "fte": "2168",
+      "pupilTeacherRatio": "16.87",
+      "numberOfSchools": "39"
+   },
+   {
+      "name": "Moore County",
+      "location": {
+         "state": {
+            "name": "Tennessee",
+            "abbr": "TN",
+            "county": "Moore County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "891",
+      "fte": "60.5",
+      "pupilTeacherRatio": "14.73",
+      "numberOfSchools": "2"
+   },
+   {
+      "name": "Morgan County",
+      "location": {
+         "state": {
+            "name": "Tennessee",
+            "abbr": "TN",
+            "county": "Morgan County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "2806",
+      "fte": "195",
+      "pupilTeacherRatio": "14.39",
+      "numberOfSchools": "8"
+   },
+   {
+      "name": "Murfreesboro",
+      "location": {
+         "state": {
+            "name": "Tennessee",
+            "abbr": "TN",
+            "county": "Rutherford County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "8th Grade"
+      },
+      "students": "9216",
+      "fte": "604.6",
+      "pupilTeacherRatio": "15.24",
+      "numberOfSchools": "13"
+   },
+   {
+      "name": "Newport",
+      "location": {
+         "state": {
+            "name": "Tennessee",
+            "abbr": "TN",
+            "county": "Cocke County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "8th Grade"
+      },
+      "students": "682",
+      "fte": "49",
+      "pupilTeacherRatio": "13.92",
+      "numberOfSchools": "1"
+   },
+   {
+      "name": "Oak Ridge",
+      "location": {
+         "state": {
+            "name": "Tennessee",
+            "abbr": "TN",
+            "county": "Anderson County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "4775",
+      "fte": "328.1",
+      "pupilTeacherRatio": "14.55",
+      "numberOfSchools": "8"
+   },
+   {
+      "name": "Obion County",
+      "location": {
+         "state": {
+            "name": "Tennessee",
+            "abbr": "TN",
+            "county": "Obion County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "3281",
+      "fte": "227.2",
+      "pupilTeacherRatio": "14.44",
+      "numberOfSchools": "7"
+   },
+   {
+      "name": "Oneida",
+      "location": {
+         "state": {
+            "name": "Tennessee",
+            "abbr": "TN",
+            "county": "Scott County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "1282",
+      "fte": "85",
+      "pupilTeacherRatio": "15.08",
+      "numberOfSchools": "3"
+   },
+   {
+      "name": "Overton County",
+      "location": {
+         "state": {
+            "name": "Tennessee",
+            "abbr": "TN",
+            "county": "Overton County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "3206",
+      "fte": "196.9",
+      "pupilTeacherRatio": "16.28",
+      "numberOfSchools": "9"
+   },
+   {
+      "name": "Paris",
+      "location": {
+         "state": {
+            "name": "Tennessee",
+            "abbr": "TN",
+            "county": "Henry County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "8th Grade"
+      },
+      "students": "1613",
+      "fte": "104",
+      "pupilTeacherRatio": "15.51",
+      "numberOfSchools": "3"
+   },
+   {
+      "name": "Perry County",
+      "location": {
+         "state": {
+            "name": "Tennessee",
+            "abbr": "TN",
+            "county": "Perry County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "1058",
+      "fte": "76.2",
+      "pupilTeacherRatio": "13.88",
+      "numberOfSchools": "5"
+   },
+   {
+      "name": "Pickett County",
+      "location": {
+         "state": {
+            "name": "Tennessee",
+            "abbr": "TN",
+            "county": "Pickett County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "642",
+      "fte": "46.3",
+      "pupilTeacherRatio": "13.87",
+      "numberOfSchools": "2"
+   },
+   {
+      "name": "Polk County",
+      "location": {
+         "state": {
+            "name": "Tennessee",
+            "abbr": "TN",
+            "county": "Polk County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "2269",
+      "fte": "145",
+      "pupilTeacherRatio": "15.65",
+      "numberOfSchools": "7"
+   },
+   {
+      "name": "Putnam County",
+      "location": {
+         "state": {
+            "name": "Tennessee",
+            "abbr": "TN",
+            "county": "Putnam County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "11916",
+      "fte": "695.5",
+      "pupilTeacherRatio": "17.13",
+      "numberOfSchools": "22"
+   },
+   {
+      "name": "Rhea County",
+      "location": {
+         "state": {
+            "name": "Tennessee",
+            "abbr": "TN",
+            "county": "Rhea County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "4225",
+      "fte": "279.3",
+      "pupilTeacherRatio": "15.13",
+      "numberOfSchools": "7"
+   },
+   {
+      "name": "Richard City",
+      "location": {
+         "state": {
+            "name": "Tennessee",
+            "abbr": "TN",
+            "county": "Marion County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "270",
+      "fte": "15.7",
+      "pupilTeacherRatio": "17.2",
+      "numberOfSchools": "1"
+   },
+   {
+      "name": "Roane County",
+      "location": {
+         "state": {
+            "name": "Tennessee",
+            "abbr": "TN",
+            "county": "Roane County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "6514",
+      "fte": "410.4",
+      "pupilTeacherRatio": "15.87",
+      "numberOfSchools": "17"
+   },
+   {
+      "name": "Robertson County",
+      "location": {
+         "state": {
+            "name": "Tennessee",
+            "abbr": "TN",
+            "county": "Robertson County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "12680",
+      "fte": "742.3",
+      "pupilTeacherRatio": "17.08",
+      "numberOfSchools": "25"
+   },
+   {
+      "name": "Rogersville",
+      "location": {
+         "state": {
+            "name": "Tennessee",
+            "abbr": "TN",
+            "county": "Hawkins County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "8th Grade"
+      },
+      "students": "653",
+      "fte": "44",
+      "pupilTeacherRatio": "14.84",
+      "numberOfSchools": "1"
+   },
+   {
+      "name": "Rutherford County",
+      "location": {
+         "state": {
+            "name": "Tennessee",
+            "abbr": "TN",
+            "county": "Rutherford County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "47458",
+      "fte": "3083.9",
+      "pupilTeacherRatio": "15.39",
+      "numberOfSchools": "50"
+   },
+   {
+      "name": "Scott County",
+      "location": {
+         "state": {
+            "name": "Tennessee",
+            "abbr": "TN",
+            "county": "Scott County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "2945",
+      "fte": "210.6",
+      "pupilTeacherRatio": "13.98",
+      "numberOfSchools": "7"
+   },
+   {
+      "name": "Sequatchie County",
+      "location": {
+         "state": {
+            "name": "Tennessee",
+            "abbr": "TN",
+            "county": "Sequatchie County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "2189",
+      "fte": "135",
+      "pupilTeacherRatio": "16.21",
+      "numberOfSchools": "3"
+   },
+   {
+      "name": "Sevier County",
+      "location": {
+         "state": {
+            "name": "Tennessee",
+            "abbr": "TN",
+            "county": "Sevier County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "14662",
+      "fte": "1027.9",
+      "pupilTeacherRatio": "14.26",
+      "numberOfSchools": "30"
+   },
+   {
+      "name": "Shelby County",
+      "location": {
+         "state": {
+            "name": "Tennessee",
+            "abbr": "TN",
+            "county": "Shelby County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "113198",
+      "fte": "6897",
+      "pupilTeacherRatio": "16.41",
+      "numberOfSchools": "223"
+   },
+   {
+      "name": "Smith County",
+      "location": {
+         "state": {
+            "name": "Tennessee",
+            "abbr": "TN",
+            "county": "Smith County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "3099",
+      "fte": "204.7",
+      "pupilTeacherRatio": "15.14",
+      "numberOfSchools": "9"
+   },
+   {
+      "name": "South Carroll",
+      "location": {
+         "state": {
+            "name": "Tennessee",
+            "abbr": "TN",
+            "county": "Carroll County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "348",
+      "fte": "23.5",
+      "pupilTeacherRatio": "14.81",
+      "numberOfSchools": "1"
+   },
+   {
+      "name": "Stewart County",
+      "location": {
+         "state": {
+            "name": "Tennessee",
+            "abbr": "TN",
+            "county": "Stewart County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "2050",
+      "fte": "124.8",
+      "pupilTeacherRatio": "16.43",
+      "numberOfSchools": "6"
+   },
+   {
+      "name": "Sullivan County",
+      "location": {
+         "state": {
+            "name": "Tennessee",
+            "abbr": "TN",
+            "county": "Sullivan County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "9247",
+      "fte": "616.6",
+      "pupilTeacherRatio": "15",
+      "numberOfSchools": "23"
+   },
+   {
+      "name": "Sumner County",
+      "location": {
+         "state": {
+            "name": "Tennessee",
+            "abbr": "TN",
+            "county": "Sumner County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "30425",
+      "fte": "2130",
+      "pupilTeacherRatio": "14.28",
+      "numberOfSchools": "49"
+   },
+   {
+      "name": "Sweetwater",
+      "location": {
+         "state": {
+            "name": "Tennessee",
+            "abbr": "TN",
+            "county": "Monroe County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "8th Grade"
+      },
+      "students": "1459",
+      "fte": "88.6",
+      "pupilTeacherRatio": "16.47",
+      "numberOfSchools": "4"
+   },
+   {
+      "name": "Tennessee School for Blind",
+      "location": {
+         "state": {
+            "name": "Tennessee",
+            "abbr": "TN",
+            "county": "Davidson County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "115",
+      "fte": "37",
+      "pupilTeacherRatio": "3.11",
+      "numberOfSchools": "1"
+   },
+   {
+      "name": "Tennessee School for the Deaf",
+      "location": {
+         "state": {
+            "name": "Tennessee",
+            "abbr": "TN",
+            "county": "Knox County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "145",
+      "fte": "41.7",
+      "pupilTeacherRatio": "3.48",
+      "numberOfSchools": "3"
+   },
+   {
+      "name": "Tennessee State Board of Education",
+      "location": {
+         "state": {
+            "name": "TENNESSEE",
+            "abbr": "TN",
+            "county": "Davidson County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Kindergarten",
+         "highest": "11th Grade"
+      },
+      "students": "841",
+      "fte": "47",
+      "pupilTeacherRatio": "17.89",
+      "numberOfSchools": "3"
+   },
+   {
+      "name": "Tipton County",
+      "location": {
+         "state": {
+            "name": "Tennessee",
+            "abbr": "TN",
+            "county": "Tipton County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "10681",
+      "fte": "654.3",
+      "pupilTeacherRatio": "16.32",
+      "numberOfSchools": "14"
+   },
+   {
+      "name": "Trenton",
+      "location": {
+         "state": {
+            "name": "Tennessee",
+            "abbr": "TN",
+            "county": "Gibson County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "1331",
+      "fte": "84.6",
+      "pupilTeacherRatio": "15.73",
+      "numberOfSchools": "3"
+   },
+   {
+      "name": "Trousdale County",
+      "location": {
+         "state": {
+            "name": "Tennessee",
+            "abbr": "TN",
+            "county": "Trousdale County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "1316",
+      "fte": "83",
+      "pupilTeacherRatio": "15.86",
+      "numberOfSchools": "3"
+   },
+   {
+      "name": "Tullahoma",
+      "location": {
+         "state": {
+            "name": "Tennessee",
+            "abbr": "TN",
+            "county": "Coffee County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "3633",
+      "fte": "243",
+      "pupilTeacherRatio": "14.95",
+      "numberOfSchools": "7"
+   },
+   {
+      "name": "Unicoi County",
+      "location": {
+         "state": {
+            "name": "Tennessee",
+            "abbr": "TN",
+            "county": "Unicoi County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "2336",
+      "fte": "164.5",
+      "pupilTeacherRatio": "14.2",
+      "numberOfSchools": "7"
+   },
+   {
+      "name": "Union City",
+      "location": {
+         "state": {
+            "name": "Tennessee",
+            "abbr": "TN",
+            "county": "Obion County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "1635",
+      "fte": "104.1",
+      "pupilTeacherRatio": "15.71",
+      "numberOfSchools": "3"
+   },
+   {
+      "name": "Union County",
+      "location": {
+         "state": {
+            "name": "Tennessee",
+            "abbr": "TN",
+            "county": "Union County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "4832",
+      "fte": "244.5",
+      "pupilTeacherRatio": "19.76",
+      "numberOfSchools": "11"
+   },
+   {
+      "name": "Van Buren County",
+      "location": {
+         "state": {
+            "name": "Tennessee",
+            "abbr": "TN",
+            "county": "Van Buren County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "767",
+      "fte": "57.9",
+      "pupilTeacherRatio": "13.25",
+      "numberOfSchools": "2"
+   },
+   {
+      "name": "Warren County",
+      "location": {
+         "state": {
+            "name": "Tennessee",
+            "abbr": "TN",
+            "county": "Warren County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "6492",
+      "fte": "437.1",
+      "pupilTeacherRatio": "14.85",
+      "numberOfSchools": "11"
+   },
+   {
+      "name": "Washington County",
+      "location": {
+         "state": {
+            "name": "Tennessee",
+            "abbr": "TN",
+            "county": "Washington County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "8503",
+      "fte": "544.2",
+      "pupilTeacherRatio": "15.62",
+      "numberOfSchools": "16"
+   },
+   {
+      "name": "Wayne County",
+      "location": {
+         "state": {
+            "name": "Tennessee",
+            "abbr": "TN",
+            "county": "Wayne County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "2190",
+      "fte": "166",
+      "pupilTeacherRatio": "13.19",
+      "numberOfSchools": "8"
+   },
+   {
+      "name": "Weakley County",
+      "location": {
+         "state": {
+            "name": "Tennessee",
+            "abbr": "TN",
+            "county": "Weakley County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "4090",
+      "fte": "275.8",
+      "pupilTeacherRatio": "14.83",
+      "numberOfSchools": "11"
+   },
+   {
+      "name": "West Carroll Sp Dist",
+      "location": {
+         "state": {
+            "name": "Tennessee",
+            "abbr": "TN",
+            "county": "Carroll County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "940",
+      "fte": "66.6",
+      "pupilTeacherRatio": "14.11",
+      "numberOfSchools": "3"
+   },
+   {
+      "name": "West Tennessee School for the Deaf",
+      "location": {
+         "state": {
+            "name": "Tennessee",
+            "abbr": "TN",
+            "county": "Madison County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "6th Grade"
+      },
+      "students": "42",
+      "fte": "9",
+      "pupilTeacherRatio": "4.67",
+      "numberOfSchools": "1"
+   },
+   {
+      "name": "White County",
+      "location": {
+         "state": {
+            "name": "Tennessee",
+            "abbr": "TN",
+            "county": "White County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "3947",
+      "fte": "252.6",
+      "pupilTeacherRatio": "15.63",
+      "numberOfSchools": "8"
+   },
+   {
+      "name": "Williamson County",
+      "location": {
+         "state": {
+            "name": "Tennessee",
+            "abbr": "TN",
+            "county": "Williamson County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "41387",
+      "fte": "2503.8",
+      "pupilTeacherRatio": "16.53",
+      "numberOfSchools": "48"
+   },
+   {
+      "name": "Wilson County",
+      "location": {
+         "state": {
+            "name": "Tennessee",
+            "abbr": "TN",
+            "county": "Wilson County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "19015",
+      "fte": "1145",
+      "pupilTeacherRatio": "16.61",
+      "numberOfSchools": "23"
+   }
+]

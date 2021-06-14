@@ -1,0 +1,3517 @@
+[
+   {
+      "name": "Adair County",
+      "location": {
+         "state": {
+            "name": "Kentucky",
+            "abbr": "KY",
+            "county": "Adair County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "2763",
+      "fte": "174",
+      "pupilTeacherRatio": "15.88",
+      "numberOfSchools": "5"
+   },
+   {
+      "name": "Allen County",
+      "location": {
+         "state": {
+            "name": "Kentucky",
+            "abbr": "KY",
+            "county": "Allen County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "3172",
+      "fte": "185.3",
+      "pupilTeacherRatio": "17.12",
+      "numberOfSchools": "5"
+   },
+   {
+      "name": "Anchorage Independent",
+      "location": {
+         "state": {
+            "name": "Kentucky",
+            "abbr": "KY",
+            "county": "Jefferson County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "8th Grade"
+      },
+      "students": "393",
+      "fte": "38.04",
+      "pupilTeacherRatio": "10.33",
+      "numberOfSchools": "1"
+   },
+   {
+      "name": "Anderson County",
+      "location": {
+         "state": {
+            "name": "Kentucky",
+            "abbr": "KY",
+            "county": "Anderson County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "3808",
+      "fte": "220",
+      "pupilTeacherRatio": "17.31",
+      "numberOfSchools": "8"
+   },
+   {
+      "name": "Ashland Independent",
+      "location": {
+         "state": {
+            "name": "Kentucky",
+            "abbr": "KY",
+            "county": "Boyd County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "3411",
+      "fte": "231.5",
+      "pupilTeacherRatio": "14.73",
+      "numberOfSchools": "9"
+   },
+   {
+      "name": "Augusta Independent",
+      "location": {
+         "state": {
+            "name": "Kentucky",
+            "abbr": "KY",
+            "county": "Bracken County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "299",
+      "fte": "21.42",
+      "pupilTeacherRatio": "13.96",
+      "numberOfSchools": "1"
+   },
+   {
+      "name": "Ballard County",
+      "location": {
+         "state": {
+            "name": "Kentucky",
+            "abbr": "KY",
+            "county": "Ballard County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "1189",
+      "fte": "76",
+      "pupilTeacherRatio": "15.64",
+      "numberOfSchools": "5"
+   },
+   {
+      "name": "Barbourville Independent",
+      "location": {
+         "state": {
+            "name": "Kentucky",
+            "abbr": "KY",
+            "county": "Knox County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "692",
+      "fte": "41",
+      "pupilTeacherRatio": "16.88",
+      "numberOfSchools": "1"
+   },
+   {
+      "name": "Bardstown Independent",
+      "location": {
+         "state": {
+            "name": "Kentucky",
+            "abbr": "KY",
+            "county": "Nelson County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "2782",
+      "fte": "161",
+      "pupilTeacherRatio": "17.28",
+      "numberOfSchools": "6"
+   },
+   {
+      "name": "Barren County",
+      "location": {
+         "state": {
+            "name": "Kentucky",
+            "abbr": "KY",
+            "county": "Barren County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "5406",
+      "fte": "312.55",
+      "pupilTeacherRatio": "17.3",
+      "numberOfSchools": "11"
+   },
+   {
+      "name": "Bath County",
+      "location": {
+         "state": {
+            "name": "Kentucky",
+            "abbr": "KY",
+            "county": "Bath County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "2058",
+      "fte": "126.7",
+      "pupilTeacherRatio": "16.24",
+      "numberOfSchools": "5"
+   },
+   {
+      "name": "Beechwood Independent",
+      "location": {
+         "state": {
+            "name": "Kentucky",
+            "abbr": "KY",
+            "county": "Kenton County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "1502",
+      "fte": "83.5",
+      "pupilTeacherRatio": "17.99",
+      "numberOfSchools": "3"
+   },
+   {
+      "name": "Bell County",
+      "location": {
+         "state": {
+            "name": "Kentucky",
+            "abbr": "KY",
+            "county": "Bell County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "2672",
+      "fte": "173",
+      "pupilTeacherRatio": "15.45",
+      "numberOfSchools": "8"
+   },
+   {
+      "name": "Bellevue Independent",
+      "location": {
+         "state": {
+            "name": "Kentucky",
+            "abbr": "KY",
+            "county": "Campbell County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "664",
+      "fte": "40.96",
+      "pupilTeacherRatio": "16.21",
+      "numberOfSchools": "2"
+   },
+   {
+      "name": "Berea Independent",
+      "location": {
+         "state": {
+            "name": "Kentucky",
+            "abbr": "KY",
+            "county": "Madison County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "1160",
+      "fte": "77",
+      "pupilTeacherRatio": "15.06",
+      "numberOfSchools": "3"
+   },
+   {
+      "name": "Boone County",
+      "location": {
+         "state": {
+            "name": "Kentucky",
+            "abbr": "KY",
+            "county": "Boone County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "21351",
+      "fte": "1323.43",
+      "pupilTeacherRatio": "16.13",
+      "numberOfSchools": "26"
+   },
+   {
+      "name": "Bourbon County",
+      "location": {
+         "state": {
+            "name": "Kentucky",
+            "abbr": "KY",
+            "county": "Bourbon County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "2965",
+      "fte": "172.89",
+      "pupilTeacherRatio": "17.15",
+      "numberOfSchools": "6"
+   },
+   {
+      "name": "Bowling Green Independent",
+      "location": {
+         "state": {
+            "name": "Kentucky",
+            "abbr": "KY",
+            "county": "Warren County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "4416",
+      "fte": "273.97",
+      "pupilTeacherRatio": "16.12",
+      "numberOfSchools": "10"
+   },
+   {
+      "name": "Boyd County",
+      "location": {
+         "state": {
+            "name": "Kentucky",
+            "abbr": "KY",
+            "county": "Boyd County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "3322",
+      "fte": "243.39",
+      "pupilTeacherRatio": "13.65",
+      "numberOfSchools": "12"
+   },
+   {
+      "name": "Boyle County",
+      "location": {
+         "state": {
+            "name": "Kentucky",
+            "abbr": "KY",
+            "county": "Boyle County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "2817",
+      "fte": "178.34",
+      "pupilTeacherRatio": "15.8",
+      "numberOfSchools": "7"
+   },
+   {
+      "name": "Bracken County",
+      "location": {
+         "state": {
+            "name": "Kentucky",
+            "abbr": "KY",
+            "county": "Bracken County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "1275",
+      "fte": "73",
+      "pupilTeacherRatio": "17.47",
+      "numberOfSchools": "3"
+   },
+   {
+      "name": "Breathitt County",
+      "location": {
+         "state": {
+            "name": "Kentucky",
+            "abbr": "KY",
+            "county": "Breathitt County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "1939",
+      "fte": "104",
+      "pupilTeacherRatio": "18.64",
+      "numberOfSchools": "7"
+   },
+   {
+      "name": "Breckinridge County",
+      "location": {
+         "state": {
+            "name": "Kentucky",
+            "abbr": "KY",
+            "county": "Breckinridge County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "2783",
+      "fte": "159",
+      "pupilTeacherRatio": "17.5",
+      "numberOfSchools": "6"
+   },
+   {
+      "name": "Bullitt County",
+      "location": {
+         "state": {
+            "name": "Kentucky",
+            "abbr": "KY",
+            "county": "Bullitt County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "13330",
+      "fte": "756.17",
+      "pupilTeacherRatio": "17.63",
+      "numberOfSchools": "25"
+   },
+   {
+      "name": "Burgin Independent",
+      "location": {
+         "state": {
+            "name": "Kentucky",
+            "abbr": "KY",
+            "county": "Mercer County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "511",
+      "fte": "38",
+      "pupilTeacherRatio": "13.45",
+      "numberOfSchools": "1"
+   },
+   {
+      "name": "Butler County",
+      "location": {
+         "state": {
+            "name": "Kentucky",
+            "abbr": "KY",
+            "county": "Butler County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "2359",
+      "fte": "129",
+      "pupilTeacherRatio": "18.29",
+      "numberOfSchools": "6"
+   },
+   {
+      "name": "Caldwell County",
+      "location": {
+         "state": {
+            "name": "Kentucky",
+            "abbr": "KY",
+            "county": "Caldwell County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "1990",
+      "fte": "113",
+      "pupilTeacherRatio": "17.61",
+      "numberOfSchools": "4"
+   },
+   {
+      "name": "Calloway County",
+      "location": {
+         "state": {
+            "name": "Kentucky",
+            "abbr": "KY",
+            "county": "Calloway County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "3079",
+      "fte": "179",
+      "pupilTeacherRatio": "17.2",
+      "numberOfSchools": "8"
+   },
+   {
+      "name": "Campbell County",
+      "location": {
+         "state": {
+            "name": "Kentucky",
+            "abbr": "KY",
+            "county": "Campbell County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "5203",
+      "fte": "316.5",
+      "pupilTeacherRatio": "16.44",
+      "numberOfSchools": "10"
+   },
+   {
+      "name": "Campbellsville Independent",
+      "location": {
+         "state": {
+            "name": "Kentucky",
+            "abbr": "KY",
+            "county": "Taylor County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "1249",
+      "fte": "79.55",
+      "pupilTeacherRatio": "15.7",
+      "numberOfSchools": "4"
+   },
+   {
+      "name": "Carlisle County",
+      "location": {
+         "state": {
+            "name": "Kentucky",
+            "abbr": "KY",
+            "county": "Carlisle County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "773",
+      "fte": "53",
+      "pupilTeacherRatio": "14.58",
+      "numberOfSchools": "3"
+   },
+   {
+      "name": "Carroll County",
+      "location": {
+         "state": {
+            "name": "Kentucky",
+            "abbr": "KY",
+            "county": "Carroll County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "2173",
+      "fte": "148",
+      "pupilTeacherRatio": "14.68",
+      "numberOfSchools": "5"
+   },
+   {
+      "name": "Carter County",
+      "location": {
+         "state": {
+            "name": "Kentucky",
+            "abbr": "KY",
+            "county": "Carter County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "4342",
+      "fte": "263",
+      "pupilTeacherRatio": "16.51",
+      "numberOfSchools": "12"
+   },
+   {
+      "name": "Casey County",
+      "location": {
+         "state": {
+            "name": "Kentucky",
+            "abbr": "KY",
+            "county": "Casey County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "2406",
+      "fte": "146.99",
+      "pupilTeacherRatio": "16.37",
+      "numberOfSchools": "5"
+   },
+   {
+      "name": "Caverna Independent",
+      "location": {
+         "state": {
+            "name": "Kentucky",
+            "abbr": "KY",
+            "county": "Barren County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "704",
+      "fte": "49",
+      "pupilTeacherRatio": "14.37",
+      "numberOfSchools": "3"
+   },
+   {
+      "name": "Central Kentucky Educational Cooperative",
+      "location": {
+         "state": {
+            "name": "Kentucky",
+            "abbr": "KY",
+            "county": "Fayette County"
+         }
+      },
+      "type": "4-Regional Education Service Agency (RESA)",
+      "grades": {
+         "lowest": "†",
+         "highest": "†"
+      },
+      "students": "†",
+      "fte": "†",
+      "pupilTeacherRatio": "†",
+      "numberOfSchools": "0"
+   },
+   {
+      "name": "Christian County",
+      "location": {
+         "state": {
+            "name": "Kentucky",
+            "abbr": "KY",
+            "county": "Christian County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "9045",
+      "fte": "506.94",
+      "pupilTeacherRatio": "17.84",
+      "numberOfSchools": "18"
+   },
+   {
+      "name": "Clark County",
+      "location": {
+         "state": {
+            "name": "Kentucky",
+            "abbr": "KY",
+            "county": "Clark County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "5633",
+      "fte": "354.33",
+      "pupilTeacherRatio": "15.9",
+      "numberOfSchools": "9"
+   },
+   {
+      "name": "Clay County",
+      "location": {
+         "state": {
+            "name": "Kentucky",
+            "abbr": "KY",
+            "county": "Clay County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "3235",
+      "fte": "231.63",
+      "pupilTeacherRatio": "13.97",
+      "numberOfSchools": "10"
+   },
+   {
+      "name": "Clinton County",
+      "location": {
+         "state": {
+            "name": "Kentucky",
+            "abbr": "KY",
+            "county": "Clinton County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "1765",
+      "fte": "119.41",
+      "pupilTeacherRatio": "14.78",
+      "numberOfSchools": "5"
+   },
+   {
+      "name": "Cloverport Independent",
+      "location": {
+         "state": {
+            "name": "Kentucky",
+            "abbr": "KY",
+            "county": "Breckinridge County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "340",
+      "fte": "23",
+      "pupilTeacherRatio": "14.78",
+      "numberOfSchools": "3"
+   },
+   {
+      "name": "Corbin Independent",
+      "location": {
+         "state": {
+            "name": "Kentucky",
+            "abbr": "KY",
+            "county": "Whitley County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "3093",
+      "fte": "179",
+      "pupilTeacherRatio": "17.28",
+      "numberOfSchools": "9"
+   },
+   {
+      "name": "Covington Independent",
+      "location": {
+         "state": {
+            "name": "Kentucky",
+            "abbr": "KY",
+            "county": "Kenton County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "4119",
+      "fte": "276.56",
+      "pupilTeacherRatio": "14.89",
+      "numberOfSchools": "11"
+   },
+   {
+      "name": "Craft Academy",
+      "location": {
+         "state": {
+            "name": "KENTUCKY",
+            "abbr": "KY",
+            "county": "Rowan County"
+         }
+      },
+      "type": "8-Other education agencies",
+      "grades": {
+         "lowest": "11th Grade",
+         "highest": "12th Grade"
+      },
+      "students": "1",
+      "fte": "0",
+      "pupilTeacherRatio": "†",
+      "numberOfSchools": "0"
+   },
+   {
+      "name": "Crittenden County",
+      "location": {
+         "state": {
+            "name": "Kentucky",
+            "abbr": "KY",
+            "county": "Crittenden County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "1443",
+      "fte": "89",
+      "pupilTeacherRatio": "16.21",
+      "numberOfSchools": "4"
+   },
+   {
+      "name": "Cumberland County",
+      "location": {
+         "state": {
+            "name": "Kentucky",
+            "abbr": "KY",
+            "county": "Cumberland County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "980",
+      "fte": "64.35",
+      "pupilTeacherRatio": "15.23",
+      "numberOfSchools": "3"
+   },
+   {
+      "name": "Danville Independent",
+      "location": {
+         "state": {
+            "name": "Kentucky",
+            "abbr": "KY",
+            "county": "Boyle County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "1971",
+      "fte": "136.9",
+      "pupilTeacherRatio": "14.4",
+      "numberOfSchools": "5"
+   },
+   {
+      "name": "Daviess County",
+      "location": {
+         "state": {
+            "name": "Kentucky",
+            "abbr": "KY",
+            "county": "Daviess County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "12048",
+      "fte": "688.3",
+      "pupilTeacherRatio": "17.5",
+      "numberOfSchools": "23"
+   },
+   {
+      "name": "Dawson Springs Independent",
+      "location": {
+         "state": {
+            "name": "Kentucky",
+            "abbr": "KY",
+            "county": "Hopkins County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "605",
+      "fte": "43",
+      "pupilTeacherRatio": "14.07",
+      "numberOfSchools": "2"
+   },
+   {
+      "name": "Dayton Independent",
+      "location": {
+         "state": {
+            "name": "Kentucky",
+            "abbr": "KY",
+            "county": "Campbell County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "1003",
+      "fte": "64",
+      "pupilTeacherRatio": "15.67",
+      "numberOfSchools": "3"
+   },
+   {
+      "name": "East Bernstadt Independent",
+      "location": {
+         "state": {
+            "name": "Kentucky",
+            "abbr": "KY",
+            "county": "Laurel County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "8th Grade"
+      },
+      "students": "549",
+      "fte": "31",
+      "pupilTeacherRatio": "17.71",
+      "numberOfSchools": "1"
+   },
+   {
+      "name": "Edmonson County",
+      "location": {
+         "state": {
+            "name": "Kentucky",
+            "abbr": "KY",
+            "county": "Edmonson County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "1927",
+      "fte": "115.9",
+      "pupilTeacherRatio": "16.63",
+      "numberOfSchools": "5"
+   },
+   {
+      "name": "Elizabethtown Independent",
+      "location": {
+         "state": {
+            "name": "Kentucky",
+            "abbr": "KY",
+            "county": "Hardin County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "2520",
+      "fte": "157.73",
+      "pupilTeacherRatio": "15.98",
+      "numberOfSchools": "6"
+   },
+   {
+      "name": "Elliott County",
+      "location": {
+         "state": {
+            "name": "Kentucky",
+            "abbr": "KY",
+            "county": "Elliott County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "1036",
+      "fte": "73",
+      "pupilTeacherRatio": "14.19",
+      "numberOfSchools": "4"
+   },
+   {
+      "name": "Eminence Independent",
+      "location": {
+         "state": {
+            "name": "Kentucky",
+            "abbr": "KY",
+            "county": "Henry County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "989",
+      "fte": "60.61",
+      "pupilTeacherRatio": "16.32",
+      "numberOfSchools": "3"
+   },
+   {
+      "name": "Erlanger-Elsmere Independent",
+      "location": {
+         "state": {
+            "name": "Kentucky",
+            "abbr": "KY",
+            "county": "Kenton County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "2605",
+      "fte": "160.5",
+      "pupilTeacherRatio": "16.23",
+      "numberOfSchools": "8"
+   },
+   {
+      "name": "Estill County",
+      "location": {
+         "state": {
+            "name": "Kentucky",
+            "abbr": "KY",
+            "county": "Estill County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "2417",
+      "fte": "137.47",
+      "pupilTeacherRatio": "17.58",
+      "numberOfSchools": "6"
+   },
+   {
+      "name": "Fairview Independent",
+      "location": {
+         "state": {
+            "name": "Kentucky",
+            "abbr": "KY",
+            "county": "Boyd County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "701",
+      "fte": "39.6",
+      "pupilTeacherRatio": "17.7",
+      "numberOfSchools": "2"
+   },
+   {
+      "name": "Fayette County",
+      "location": {
+         "state": {
+            "name": "Kentucky",
+            "abbr": "KY",
+            "county": "Fayette County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "43342",
+      "fte": "2931.9",
+      "pupilTeacherRatio": "14.78",
+      "numberOfSchools": "80"
+   },
+   {
+      "name": "Fleming County",
+      "location": {
+         "state": {
+            "name": "Kentucky",
+            "abbr": "KY",
+            "county": "Fleming County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "2194",
+      "fte": "137.99",
+      "pupilTeacherRatio": "15.9",
+      "numberOfSchools": "6"
+   },
+   {
+      "name": "Floyd County",
+      "location": {
+         "state": {
+            "name": "Kentucky",
+            "abbr": "KY",
+            "county": "Floyd County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "5865",
+      "fte": "371.86",
+      "pupilTeacherRatio": "15.77",
+      "numberOfSchools": "14"
+   },
+   {
+      "name": "Fort Thomas Independent",
+      "location": {
+         "state": {
+            "name": "Kentucky",
+            "abbr": "KY",
+            "county": "Campbell County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "3177",
+      "fte": "183.5",
+      "pupilTeacherRatio": "17.31",
+      "numberOfSchools": "5"
+   },
+   {
+      "name": "Frankfort Independent",
+      "location": {
+         "state": {
+            "name": "Kentucky",
+            "abbr": "KY",
+            "county": "Franklin County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "961",
+      "fte": "65.93",
+      "pupilTeacherRatio": "14.58",
+      "numberOfSchools": "4"
+   },
+   {
+      "name": "Franklin County",
+      "location": {
+         "state": {
+            "name": "Kentucky",
+            "abbr": "KY",
+            "county": "Franklin County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "6534",
+      "fte": "395",
+      "pupilTeacherRatio": "16.54",
+      "numberOfSchools": "15"
+   },
+   {
+      "name": "Fulton County",
+      "location": {
+         "state": {
+            "name": "Kentucky",
+            "abbr": "KY",
+            "county": "Fulton County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "653",
+      "fte": "44",
+      "pupilTeacherRatio": "14.84",
+      "numberOfSchools": "3"
+   },
+   {
+      "name": "Fulton Independent",
+      "location": {
+         "state": {
+            "name": "Kentucky",
+            "abbr": "KY",
+            "county": "Fulton County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "320",
+      "fte": "28",
+      "pupilTeacherRatio": "11.43",
+      "numberOfSchools": "1"
+   },
+   {
+      "name": "Gallatin County",
+      "location": {
+         "state": {
+            "name": "Kentucky",
+            "abbr": "KY",
+            "county": "Gallatin County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "1634",
+      "fte": "93",
+      "pupilTeacherRatio": "17.57",
+      "numberOfSchools": "4"
+   },
+   {
+      "name": "Garrard County",
+      "location": {
+         "state": {
+            "name": "Kentucky",
+            "abbr": "KY",
+            "county": "Garrard County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "2645",
+      "fte": "175",
+      "pupilTeacherRatio": "15.11",
+      "numberOfSchools": "5"
+   },
+   {
+      "name": "Glasgow Independent",
+      "location": {
+         "state": {
+            "name": "Kentucky",
+            "abbr": "KY",
+            "county": "Barren County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "2485",
+      "fte": "154.9",
+      "pupilTeacherRatio": "16.04",
+      "numberOfSchools": "7"
+   },
+   {
+      "name": "Grant County",
+      "location": {
+         "state": {
+            "name": "Kentucky",
+            "abbr": "KY",
+            "county": "Grant County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "3666",
+      "fte": "227.94",
+      "pupilTeacherRatio": "16.08",
+      "numberOfSchools": "6"
+   },
+   {
+      "name": "Graves County",
+      "location": {
+         "state": {
+            "name": "Kentucky",
+            "abbr": "KY",
+            "county": "Graves County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "4259",
+      "fte": "262",
+      "pupilTeacherRatio": "16.26",
+      "numberOfSchools": "11"
+   },
+   {
+      "name": "Grayson County",
+      "location": {
+         "state": {
+            "name": "Kentucky",
+            "abbr": "KY",
+            "county": "Grayson County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "4292",
+      "fte": "267",
+      "pupilTeacherRatio": "16.07",
+      "numberOfSchools": "8"
+   },
+   {
+      "name": "Green County",
+      "location": {
+         "state": {
+            "name": "Kentucky",
+            "abbr": "KY",
+            "county": "Green County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "1663",
+      "fte": "108.89",
+      "pupilTeacherRatio": "15.27",
+      "numberOfSchools": "4"
+   },
+   {
+      "name": "Green River Regional Educational Cooperative",
+      "location": {
+         "state": {
+            "name": "Kentucky",
+            "abbr": "KY",
+            "county": "Warren County"
+         }
+      },
+      "type": "4-Regional Education Service Agency (RESA)",
+      "grades": {
+         "lowest": "†",
+         "highest": "†"
+      },
+      "students": "†",
+      "fte": "†",
+      "pupilTeacherRatio": "†",
+      "numberOfSchools": "0"
+   },
+   {
+      "name": "Greenup County",
+      "location": {
+         "state": {
+            "name": "Kentucky",
+            "abbr": "KY",
+            "county": "Greenup County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "2875",
+      "fte": "180",
+      "pupilTeacherRatio": "15.97",
+      "numberOfSchools": "7"
+   },
+   {
+      "name": "Hancock County",
+      "location": {
+         "state": {
+            "name": "Kentucky",
+            "abbr": "KY",
+            "county": "Hancock County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "1674",
+      "fte": "101.75",
+      "pupilTeacherRatio": "16.45",
+      "numberOfSchools": "4"
+   },
+   {
+      "name": "Hardin County",
+      "location": {
+         "state": {
+            "name": "Kentucky",
+            "abbr": "KY",
+            "county": "Hardin County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "15288",
+      "fte": "892.79",
+      "pupilTeacherRatio": "17.12",
+      "numberOfSchools": "27"
+   },
+   {
+      "name": "Harlan County",
+      "location": {
+         "state": {
+            "name": "Kentucky",
+            "abbr": "KY",
+            "county": "Harlan County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "3968",
+      "fte": "245.06",
+      "pupilTeacherRatio": "16.19",
+      "numberOfSchools": "11"
+   },
+   {
+      "name": "Harlan Independent",
+      "location": {
+         "state": {
+            "name": "Kentucky",
+            "abbr": "KY",
+            "county": "Harlan County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "731",
+      "fte": "45.1",
+      "pupilTeacherRatio": "16.21",
+      "numberOfSchools": "3"
+   },
+   {
+      "name": "Harrison County",
+      "location": {
+         "state": {
+            "name": "Kentucky",
+            "abbr": "KY",
+            "county": "Harrison County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "2998",
+      "fte": "172",
+      "pupilTeacherRatio": "17.43",
+      "numberOfSchools": "7"
+   },
+   {
+      "name": "Hart County",
+      "location": {
+         "state": {
+            "name": "Kentucky",
+            "abbr": "KY",
+            "county": "Hart County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "2466",
+      "fte": "155.98",
+      "pupilTeacherRatio": "15.81",
+      "numberOfSchools": "6"
+   },
+   {
+      "name": "Hazard Independent",
+      "location": {
+         "state": {
+            "name": "Kentucky",
+            "abbr": "KY",
+            "county": "Perry County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "991",
+      "fte": "68.99",
+      "pupilTeacherRatio": "14.36",
+      "numberOfSchools": "5"
+   },
+   {
+      "name": "Henderson County",
+      "location": {
+         "state": {
+            "name": "Kentucky",
+            "abbr": "KY",
+            "county": "Henderson County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "7496",
+      "fte": "456.3",
+      "pupilTeacherRatio": "16.43",
+      "numberOfSchools": "13"
+   },
+   {
+      "name": "Henry County",
+      "location": {
+         "state": {
+            "name": "Kentucky",
+            "abbr": "KY",
+            "county": "Henry County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "2159",
+      "fte": "136",
+      "pupilTeacherRatio": "15.88",
+      "numberOfSchools": "6"
+   },
+   {
+      "name": "Hickman County",
+      "location": {
+         "state": {
+            "name": "Kentucky",
+            "abbr": "KY",
+            "county": "Hickman County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "793",
+      "fte": "53",
+      "pupilTeacherRatio": "14.96",
+      "numberOfSchools": "2"
+   },
+   {
+      "name": "Hopkins County",
+      "location": {
+         "state": {
+            "name": "Kentucky",
+            "abbr": "KY",
+            "county": "Hopkins County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "6850",
+      "fte": "426.2",
+      "pupilTeacherRatio": "16.07",
+      "numberOfSchools": "19"
+   },
+   {
+      "name": "Jackson County",
+      "location": {
+         "state": {
+            "name": "Kentucky",
+            "abbr": "KY",
+            "county": "Jackson County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "2159",
+      "fte": "151",
+      "pupilTeacherRatio": "14.3",
+      "numberOfSchools": "8"
+   },
+   {
+      "name": "Jackson Independent",
+      "location": {
+         "state": {
+            "name": "Kentucky",
+            "abbr": "KY",
+            "county": "Breathitt County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "332",
+      "fte": "18",
+      "pupilTeacherRatio": "18.44",
+      "numberOfSchools": "1"
+   },
+   {
+      "name": "Jefferson County",
+      "location": {
+         "state": {
+            "name": "Kentucky",
+            "abbr": "KY",
+            "county": "Jefferson County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "100348",
+      "fte": "6160.96",
+      "pupilTeacherRatio": "16.29",
+      "numberOfSchools": "170"
+   },
+   {
+      "name": "Jefferson County Exceptional Child Education Services",
+      "location": {
+         "state": {
+            "name": "Kentucky",
+            "abbr": "KY",
+            "county": "Jefferson County"
+         }
+      },
+      "type": "4-Regional Education Service Agency (RESA)",
+      "grades": {
+         "lowest": "†",
+         "highest": "†"
+      },
+      "students": "†",
+      "fte": "†",
+      "pupilTeacherRatio": "†",
+      "numberOfSchools": "0"
+   },
+   {
+      "name": "Jenkins Independent",
+      "location": {
+         "state": {
+            "name": "Kentucky",
+            "abbr": "KY",
+            "county": "Letcher County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "436",
+      "fte": "30",
+      "pupilTeacherRatio": "14.53",
+      "numberOfSchools": "1"
+   },
+   {
+      "name": "Jessamine County",
+      "location": {
+         "state": {
+            "name": "Kentucky",
+            "abbr": "KY",
+            "county": "Jessamine County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "8675",
+      "fte": "549.03",
+      "pupilTeacherRatio": "15.8",
+      "numberOfSchools": "14"
+   },
+   {
+      "name": "Johnson County",
+      "location": {
+         "state": {
+            "name": "Kentucky",
+            "abbr": "KY",
+            "county": "Johnson County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "3590",
+      "fte": "234.5",
+      "pupilTeacherRatio": "15.31",
+      "numberOfSchools": "11"
+   },
+   {
+      "name": "Kenton County",
+      "location": {
+         "state": {
+            "name": "Kentucky",
+            "abbr": "KY",
+            "county": "Kenton County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "14602",
+      "fte": "786.55",
+      "pupilTeacherRatio": "18.56",
+      "numberOfSchools": "23"
+   },
+   {
+      "name": "Kentucky Educational Development Corporation",
+      "location": {
+         "state": {
+            "name": "Kentucky",
+            "abbr": "KY",
+            "county": "Boyd County"
+         }
+      },
+      "type": "4-Regional Education Service Agency (RESA)",
+      "grades": {
+         "lowest": "†",
+         "highest": "†"
+      },
+      "students": "†",
+      "fte": "†",
+      "pupilTeacherRatio": "†",
+      "numberOfSchools": "0"
+   },
+   {
+      "name": "Kentucky School for the Blind District",
+      "location": {
+         "state": {
+            "name": "Kentucky",
+            "abbr": "KY",
+            "county": "Jefferson County"
+         }
+      },
+      "type": "5-State agency providing elementary and/or secondary level instruction",
+      "grades": {
+         "lowest": "Kindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "65",
+      "fte": "0",
+      "pupilTeacherRatio": "†",
+      "numberOfSchools": "1"
+   },
+   {
+      "name": "Kentucky School for the Deaf District",
+      "location": {
+         "state": {
+            "name": "Kentucky",
+            "abbr": "KY",
+            "county": "Boyle County"
+         }
+      },
+      "type": "5-State agency providing elementary and/or secondary level instruction",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "86",
+      "fte": "0",
+      "pupilTeacherRatio": "†",
+      "numberOfSchools": "1"
+   },
+   {
+      "name": "Kentucky Tech System",
+      "location": {
+         "state": {
+            "name": "Kentucky",
+            "abbr": "KY",
+            "county": "Woodford County"
+         }
+      },
+      "type": "5-State agency providing elementary and/or secondary level instruction",
+      "grades": {
+         "lowest": "8th Grade",
+         "highest": "12th Grade"
+      },
+      "students": "28",
+      "fte": "0",
+      "pupilTeacherRatio": "†",
+      "numberOfSchools": "57"
+   },
+   {
+      "name": "Kentucky Valley Educational Corporation",
+      "location": {
+         "state": {
+            "name": "Kentucky",
+            "abbr": "KY",
+            "county": "Perry County"
+         }
+      },
+      "type": "4-Regional Education Service Agency (RESA)",
+      "grades": {
+         "lowest": "†",
+         "highest": "†"
+      },
+      "students": "†",
+      "fte": "†",
+      "pupilTeacherRatio": "†",
+      "numberOfSchools": "0"
+   },
+   {
+      "name": "Knott County",
+      "location": {
+         "state": {
+            "name": "Kentucky",
+            "abbr": "KY",
+            "county": "Knott County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "2284",
+      "fte": "158.5",
+      "pupilTeacherRatio": "14.41",
+      "numberOfSchools": "7"
+   },
+   {
+      "name": "Knox County",
+      "location": {
+         "state": {
+            "name": "Kentucky",
+            "abbr": "KY",
+            "county": "Knox County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "4360",
+      "fte": "308",
+      "pupilTeacherRatio": "14.16",
+      "numberOfSchools": "13"
+   },
+   {
+      "name": "Larue County",
+      "location": {
+         "state": {
+            "name": "Kentucky",
+            "abbr": "KY",
+            "county": "Larue County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "2426",
+      "fte": "147.86",
+      "pupilTeacherRatio": "16.41",
+      "numberOfSchools": "5"
+   },
+   {
+      "name": "Laurel County",
+      "location": {
+         "state": {
+            "name": "Kentucky",
+            "abbr": "KY",
+            "county": "Laurel County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "9388",
+      "fte": "537",
+      "pupilTeacherRatio": "17.48",
+      "numberOfSchools": "19"
+   },
+   {
+      "name": "Lawrence County",
+      "location": {
+         "state": {
+            "name": "Kentucky",
+            "abbr": "KY",
+            "county": "Lawrence County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "2571",
+      "fte": "171.67",
+      "pupilTeacherRatio": "14.98",
+      "numberOfSchools": "6"
+   },
+   {
+      "name": "Lee County",
+      "location": {
+         "state": {
+            "name": "Kentucky",
+            "abbr": "KY",
+            "county": "Lee County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "890",
+      "fte": "54",
+      "pupilTeacherRatio": "16.48",
+      "numberOfSchools": "2"
+   },
+   {
+      "name": "Leslie County",
+      "location": {
+         "state": {
+            "name": "Kentucky",
+            "abbr": "KY",
+            "county": "Leslie County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "1767",
+      "fte": "103",
+      "pupilTeacherRatio": "17.16",
+      "numberOfSchools": "5"
+   },
+   {
+      "name": "Letcher County",
+      "location": {
+         "state": {
+            "name": "Kentucky",
+            "abbr": "KY",
+            "county": "Letcher County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "2993",
+      "fte": "200.6",
+      "pupilTeacherRatio": "14.92",
+      "numberOfSchools": "10"
+   },
+   {
+      "name": "Lewis County",
+      "location": {
+         "state": {
+            "name": "Kentucky",
+            "abbr": "KY",
+            "county": "Lewis County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "2259",
+      "fte": "141",
+      "pupilTeacherRatio": "16.02",
+      "numberOfSchools": "7"
+   },
+   {
+      "name": "Lincoln County",
+      "location": {
+         "state": {
+            "name": "Kentucky",
+            "abbr": "KY",
+            "county": "Lincoln County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "3701",
+      "fte": "245",
+      "pupilTeacherRatio": "15.11",
+      "numberOfSchools": "7"
+   },
+   {
+      "name": "Livingston County",
+      "location": {
+         "state": {
+            "name": "Kentucky",
+            "abbr": "KY",
+            "county": "Livingston County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "1198",
+      "fte": "74.1",
+      "pupilTeacherRatio": "16.17",
+      "numberOfSchools": "4"
+   },
+   {
+      "name": "Logan County",
+      "location": {
+         "state": {
+            "name": "Kentucky",
+            "abbr": "KY",
+            "county": "Logan County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "3547",
+      "fte": "212",
+      "pupilTeacherRatio": "16.73",
+      "numberOfSchools": "7"
+   },
+   {
+      "name": "Ludlow Independent",
+      "location": {
+         "state": {
+            "name": "Kentucky",
+            "abbr": "KY",
+            "county": "Kenton County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "855",
+      "fte": "54.43",
+      "pupilTeacherRatio": "15.71",
+      "numberOfSchools": "2"
+   },
+   {
+      "name": "Lyon County",
+      "location": {
+         "state": {
+            "name": "Kentucky",
+            "abbr": "KY",
+            "county": "Lyon County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "970",
+      "fte": "53",
+      "pupilTeacherRatio": "18.3",
+      "numberOfSchools": "5"
+   },
+   {
+      "name": "Madison County",
+      "location": {
+         "state": {
+            "name": "Kentucky",
+            "abbr": "KY",
+            "county": "Madison County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "12017",
+      "fte": "678.2",
+      "pupilTeacherRatio": "17.72",
+      "numberOfSchools": "22"
+   },
+   {
+      "name": "Magoffin County",
+      "location": {
+         "state": {
+            "name": "Kentucky",
+            "abbr": "KY",
+            "county": "Magoffin County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "2075",
+      "fte": "131",
+      "pupilTeacherRatio": "15.84",
+      "numberOfSchools": "5"
+   },
+   {
+      "name": "Marion County",
+      "location": {
+         "state": {
+            "name": "Kentucky",
+            "abbr": "KY",
+            "county": "Marion County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "3309",
+      "fte": "197.25",
+      "pupilTeacherRatio": "16.78",
+      "numberOfSchools": "8"
+   },
+   {
+      "name": "Marshall County",
+      "location": {
+         "state": {
+            "name": "Kentucky",
+            "abbr": "KY",
+            "county": "Marshall County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "4807",
+      "fte": "284.2",
+      "pupilTeacherRatio": "16.91",
+      "numberOfSchools": "13"
+   },
+   {
+      "name": "Martin County",
+      "location": {
+         "state": {
+            "name": "Kentucky",
+            "abbr": "KY",
+            "county": "Martin County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "1911",
+      "fte": "113",
+      "pupilTeacherRatio": "16.91",
+      "numberOfSchools": "6"
+   },
+   {
+      "name": "Mason County",
+      "location": {
+         "state": {
+            "name": "Kentucky",
+            "abbr": "KY",
+            "county": "Mason County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "2777",
+      "fte": "168",
+      "pupilTeacherRatio": "16.53",
+      "numberOfSchools": "4"
+   },
+   {
+      "name": "Mayfield Independent",
+      "location": {
+         "state": {
+            "name": "Kentucky",
+            "abbr": "KY",
+            "county": "Graves County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "2031",
+      "fte": "110",
+      "pupilTeacherRatio": "18.46",
+      "numberOfSchools": "3"
+   },
+   {
+      "name": "Mccracken County",
+      "location": {
+         "state": {
+            "name": "Kentucky",
+            "abbr": "KY",
+            "county": "McCracken County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "7223",
+      "fte": "407.5",
+      "pupilTeacherRatio": "17.73",
+      "numberOfSchools": "14"
+   },
+   {
+      "name": "Mccreary County",
+      "location": {
+         "state": {
+            "name": "Kentucky",
+            "abbr": "KY",
+            "county": "McCreary County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "2955",
+      "fte": "176.37",
+      "pupilTeacherRatio": "16.75",
+      "numberOfSchools": "7"
+   },
+   {
+      "name": "Mclean County",
+      "location": {
+         "state": {
+            "name": "Kentucky",
+            "abbr": "KY",
+            "county": "McLean County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "1558",
+      "fte": "101.76",
+      "pupilTeacherRatio": "15.31",
+      "numberOfSchools": "5"
+   },
+   {
+      "name": "Meade County",
+      "location": {
+         "state": {
+            "name": "Kentucky",
+            "abbr": "KY",
+            "county": "Meade County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "5020",
+      "fte": "263.38",
+      "pupilTeacherRatio": "19.06",
+      "numberOfSchools": "10"
+   },
+   {
+      "name": "Menifee County",
+      "location": {
+         "state": {
+            "name": "Kentucky",
+            "abbr": "KY",
+            "county": "Menifee County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "978",
+      "fte": "75",
+      "pupilTeacherRatio": "13.04",
+      "numberOfSchools": "4"
+   },
+   {
+      "name": "Mercer County",
+      "location": {
+         "state": {
+            "name": "Kentucky",
+            "abbr": "KY",
+            "county": "Mercer County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "2822",
+      "fte": "174",
+      "pupilTeacherRatio": "16.22",
+      "numberOfSchools": "6"
+   },
+   {
+      "name": "Metcalfe County",
+      "location": {
+         "state": {
+            "name": "Kentucky",
+            "abbr": "KY",
+            "county": "Metcalfe County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "1558",
+      "fte": "90",
+      "pupilTeacherRatio": "17.31",
+      "numberOfSchools": "3"
+   },
+   {
+      "name": "Middlesboro Independent",
+      "location": {
+         "state": {
+            "name": "Kentucky",
+            "abbr": "KY",
+            "county": "Bell County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "1201",
+      "fte": "85",
+      "pupilTeacherRatio": "14.13",
+      "numberOfSchools": "6"
+   },
+   {
+      "name": "Monroe County",
+      "location": {
+         "state": {
+            "name": "Kentucky",
+            "abbr": "KY",
+            "county": "Monroe County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "1894",
+      "fte": "125.11",
+      "pupilTeacherRatio": "15.14",
+      "numberOfSchools": "5"
+   },
+   {
+      "name": "Montgomery County",
+      "location": {
+         "state": {
+            "name": "Kentucky",
+            "abbr": "KY",
+            "county": "Montgomery County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "4704",
+      "fte": "271.3",
+      "pupilTeacherRatio": "17.34",
+      "numberOfSchools": "9"
+   },
+   {
+      "name": "Morgan County",
+      "location": {
+         "state": {
+            "name": "Kentucky",
+            "abbr": "KY",
+            "county": "Morgan County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "2007",
+      "fte": "117",
+      "pupilTeacherRatio": "17.15",
+      "numberOfSchools": "8"
+   },
+   {
+      "name": "Muhlenberg County",
+      "location": {
+         "state": {
+            "name": "Kentucky",
+            "abbr": "KY",
+            "county": "Muhlenberg County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "4692",
+      "fte": "286",
+      "pupilTeacherRatio": "16.41",
+      "numberOfSchools": "11"
+   },
+   {
+      "name": "Murray Independent",
+      "location": {
+         "state": {
+            "name": "Kentucky",
+            "abbr": "KY",
+            "county": "Calloway County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "1834",
+      "fte": "116.97",
+      "pupilTeacherRatio": "15.68",
+      "numberOfSchools": "4"
+   },
+   {
+      "name": "Nelson County",
+      "location": {
+         "state": {
+            "name": "Kentucky",
+            "abbr": "KY",
+            "county": "Nelson County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "4734",
+      "fte": "268.2",
+      "pupilTeacherRatio": "17.65",
+      "numberOfSchools": "11"
+   },
+   {
+      "name": "Newport Independent",
+      "location": {
+         "state": {
+            "name": "Kentucky",
+            "abbr": "KY",
+            "county": "Campbell County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "1528",
+      "fte": "136.8",
+      "pupilTeacherRatio": "11.17",
+      "numberOfSchools": "5"
+   },
+   {
+      "name": "Nicholas County",
+      "location": {
+         "state": {
+            "name": "Kentucky",
+            "abbr": "KY",
+            "county": "Nicholas County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "1124",
+      "fte": "65",
+      "pupilTeacherRatio": "17.29",
+      "numberOfSchools": "2"
+   },
+   {
+      "name": "Northern Kentucky Cooperative for Educational Services",
+      "location": {
+         "state": {
+            "name": "Kentucky",
+            "abbr": "KY",
+            "county": "Campbell County"
+         }
+      },
+      "type": "4-Regional Education Service Agency (RESA)",
+      "grades": {
+         "lowest": "†",
+         "highest": "†"
+      },
+      "students": "†",
+      "fte": "†",
+      "pupilTeacherRatio": "†",
+      "numberOfSchools": "0"
+   },
+   {
+      "name": "Ohio County",
+      "location": {
+         "state": {
+            "name": "Kentucky",
+            "abbr": "KY",
+            "county": "Ohio County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "4299",
+      "fte": "247.24",
+      "pupilTeacherRatio": "17.39",
+      "numberOfSchools": "10"
+   },
+   {
+      "name": "Ohio Valley Educational Cooperative",
+      "location": {
+         "state": {
+            "name": "Kentucky",
+            "abbr": "KY",
+            "county": "Shelby County"
+         }
+      },
+      "type": "4-Regional Education Service Agency (RESA)",
+      "grades": {
+         "lowest": "†",
+         "highest": "†"
+      },
+      "students": "†",
+      "fte": "†",
+      "pupilTeacherRatio": "†",
+      "numberOfSchools": "0"
+   },
+   {
+      "name": "Oldham County",
+      "location": {
+         "state": {
+            "name": "Kentucky",
+            "abbr": "KY",
+            "county": "Oldham County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "12941",
+      "fte": "765.3",
+      "pupilTeacherRatio": "16.91",
+      "numberOfSchools": "21"
+   },
+   {
+      "name": "Owen County",
+      "location": {
+         "state": {
+            "name": "Kentucky",
+            "abbr": "KY",
+            "county": "Owen County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "1923",
+      "fte": "109",
+      "pupilTeacherRatio": "17.64",
+      "numberOfSchools": "3"
+   },
+   {
+      "name": "Owensboro Independent",
+      "location": {
+         "state": {
+            "name": "Kentucky",
+            "abbr": "KY",
+            "county": "Daviess County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "5176",
+      "fte": "343.5",
+      "pupilTeacherRatio": "15.07",
+      "numberOfSchools": "13"
+   },
+   {
+      "name": "Owsley County",
+      "location": {
+         "state": {
+            "name": "Kentucky",
+            "abbr": "KY",
+            "county": "Owsley County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "772",
+      "fte": "62",
+      "pupilTeacherRatio": "12.45",
+      "numberOfSchools": "2"
+   },
+   {
+      "name": "Paducah Independent",
+      "location": {
+         "state": {
+            "name": "Kentucky",
+            "abbr": "KY",
+            "county": "McCracken County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "3308",
+      "fte": "203.22",
+      "pupilTeacherRatio": "16.28",
+      "numberOfSchools": "7"
+   },
+   {
+      "name": "Paintsville Independent",
+      "location": {
+         "state": {
+            "name": "Kentucky",
+            "abbr": "KY",
+            "county": "Johnson County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "749",
+      "fte": "47.94",
+      "pupilTeacherRatio": "15.62",
+      "numberOfSchools": "2"
+   },
+   {
+      "name": "Paris Independent",
+      "location": {
+         "state": {
+            "name": "Kentucky",
+            "abbr": "KY",
+            "county": "Bourbon County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "743",
+      "fte": "47.57",
+      "pupilTeacherRatio": "15.62",
+      "numberOfSchools": "4"
+   },
+   {
+      "name": "Pendleton County",
+      "location": {
+         "state": {
+            "name": "Kentucky",
+            "abbr": "KY",
+            "county": "Pendleton County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "2417",
+      "fte": "133",
+      "pupilTeacherRatio": "18.17",
+      "numberOfSchools": "4"
+   },
+   {
+      "name": "Perry County",
+      "location": {
+         "state": {
+            "name": "Kentucky",
+            "abbr": "KY",
+            "county": "Perry County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "4052",
+      "fte": "232.83",
+      "pupilTeacherRatio": "17.4",
+      "numberOfSchools": "11"
+   },
+   {
+      "name": "Pike County",
+      "location": {
+         "state": {
+            "name": "Kentucky",
+            "abbr": "KY",
+            "county": "Pike County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "8492",
+      "fte": "495",
+      "pupilTeacherRatio": "17.16",
+      "numberOfSchools": "19"
+   },
+   {
+      "name": "Pikeville Independent",
+      "location": {
+         "state": {
+            "name": "Kentucky",
+            "abbr": "KY",
+            "county": "Pike County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "1161",
+      "fte": "78",
+      "pupilTeacherRatio": "14.88",
+      "numberOfSchools": "2"
+   },
+   {
+      "name": "Pineville Independent",
+      "location": {
+         "state": {
+            "name": "Kentucky",
+            "abbr": "KY",
+            "county": "Bell County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "616",
+      "fte": "37.78",
+      "pupilTeacherRatio": "16.3",
+      "numberOfSchools": "3"
+   },
+   {
+      "name": "Powell County",
+      "location": {
+         "state": {
+            "name": "Kentucky",
+            "abbr": "KY",
+            "county": "Powell County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "2297",
+      "fte": "140.44",
+      "pupilTeacherRatio": "16.36",
+      "numberOfSchools": "6"
+   },
+   {
+      "name": "Pulaski County",
+      "location": {
+         "state": {
+            "name": "Kentucky",
+            "abbr": "KY",
+            "county": "Pulaski County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "8710",
+      "fte": "498.13",
+      "pupilTeacherRatio": "17.49",
+      "numberOfSchools": "14"
+   },
+   {
+      "name": "Raceland-Worthington Independent",
+      "location": {
+         "state": {
+            "name": "Kentucky",
+            "abbr": "KY",
+            "county": "Greenup County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "1102",
+      "fte": "62.3",
+      "pupilTeacherRatio": "17.69",
+      "numberOfSchools": "5"
+   },
+   {
+      "name": "Robertson County",
+      "location": {
+         "state": {
+            "name": "Kentucky",
+            "abbr": "KY",
+            "county": "Robertson County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "448",
+      "fte": "24",
+      "pupilTeacherRatio": "18.67",
+      "numberOfSchools": "1"
+   },
+   {
+      "name": "Rockcastle County",
+      "location": {
+         "state": {
+            "name": "Kentucky",
+            "abbr": "KY",
+            "county": "Rockcastle County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "2812",
+      "fte": "181",
+      "pupilTeacherRatio": "15.54",
+      "numberOfSchools": "6"
+   },
+   {
+      "name": "Rowan County",
+      "location": {
+         "state": {
+            "name": "Kentucky",
+            "abbr": "KY",
+            "county": "Rowan County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "3548",
+      "fte": "189.94",
+      "pupilTeacherRatio": "18.68",
+      "numberOfSchools": "10"
+   },
+   {
+      "name": "Russell County",
+      "location": {
+         "state": {
+            "name": "Kentucky",
+            "abbr": "KY",
+            "county": "Russell County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "3114",
+      "fte": "183",
+      "pupilTeacherRatio": "17.02",
+      "numberOfSchools": "5"
+   },
+   {
+      "name": "Russell Independent",
+      "location": {
+         "state": {
+            "name": "Kentucky",
+            "abbr": "KY",
+            "county": "Greenup County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "2297",
+      "fte": "135.25",
+      "pupilTeacherRatio": "16.98",
+      "numberOfSchools": "4"
+   },
+   {
+      "name": "Russellville Independent",
+      "location": {
+         "state": {
+            "name": "Kentucky",
+            "abbr": "KY",
+            "county": "Logan County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Kindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "1023",
+      "fte": "70",
+      "pupilTeacherRatio": "14.61",
+      "numberOfSchools": "3"
+   },
+   {
+      "name": "Science Hill Independent",
+      "location": {
+         "state": {
+            "name": "Kentucky",
+            "abbr": "KY",
+            "county": "Pulaski County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "8th Grade"
+      },
+      "students": "428",
+      "fte": "24",
+      "pupilTeacherRatio": "17.83",
+      "numberOfSchools": "1"
+   },
+   {
+      "name": "Scott County",
+      "location": {
+         "state": {
+            "name": "Kentucky",
+            "abbr": "KY",
+            "county": "Scott County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "9925",
+      "fte": "590.53",
+      "pupilTeacherRatio": "16.81",
+      "numberOfSchools": "17"
+   },
+   {
+      "name": "Shelby County",
+      "location": {
+         "state": {
+            "name": "Kentucky",
+            "abbr": "KY",
+            "county": "Shelby County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "7304",
+      "fte": "429.36",
+      "pupilTeacherRatio": "17.01",
+      "numberOfSchools": "14"
+   },
+   {
+      "name": "Simpson County",
+      "location": {
+         "state": {
+            "name": "Kentucky",
+            "abbr": "KY",
+            "county": "Simpson County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "3158",
+      "fte": "189.82",
+      "pupilTeacherRatio": "16.64",
+      "numberOfSchools": "6"
+   },
+   {
+      "name": "Somerset Independent",
+      "location": {
+         "state": {
+            "name": "Kentucky",
+            "abbr": "KY",
+            "county": "Pulaski County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "1695",
+      "fte": "108.5",
+      "pupilTeacherRatio": "15.62",
+      "numberOfSchools": "3"
+   },
+   {
+      "name": "Southeast/southcentral Education Cooperative",
+      "location": {
+         "state": {
+            "name": "Kentucky",
+            "abbr": "KY",
+            "county": "Madison County"
+         }
+      },
+      "type": "4-Regional Education Service Agency (RESA)",
+      "grades": {
+         "lowest": "†",
+         "highest": "†"
+      },
+      "students": "†",
+      "fte": "†",
+      "pupilTeacherRatio": "†",
+      "numberOfSchools": "0"
+   },
+   {
+      "name": "Southgate Independent",
+      "location": {
+         "state": {
+            "name": "Kentucky",
+            "abbr": "KY",
+            "county": "Campbell County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "8th Grade"
+      },
+      "students": "212",
+      "fte": "14.4",
+      "pupilTeacherRatio": "14.72",
+      "numberOfSchools": "1"
+   },
+   {
+      "name": "Spencer County",
+      "location": {
+         "state": {
+            "name": "Kentucky",
+            "abbr": "KY",
+            "county": "Spencer County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "3169",
+      "fte": "172.89",
+      "pupilTeacherRatio": "18.33",
+      "numberOfSchools": "5"
+   },
+   {
+      "name": "Taylor County",
+      "location": {
+         "state": {
+            "name": "Kentucky",
+            "abbr": "KY",
+            "county": "Taylor County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "2783",
+      "fte": "158.91",
+      "pupilTeacherRatio": "17.51",
+      "numberOfSchools": "5"
+   },
+   {
+      "name": "Todd County",
+      "location": {
+         "state": {
+            "name": "Kentucky",
+            "abbr": "KY",
+            "county": "Todd County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "2061",
+      "fte": "118.78",
+      "pupilTeacherRatio": "17.35",
+      "numberOfSchools": "5"
+   },
+   {
+      "name": "Trigg County",
+      "location": {
+         "state": {
+            "name": "Kentucky",
+            "abbr": "KY",
+            "county": "Trigg County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "2044",
+      "fte": "121",
+      "pupilTeacherRatio": "16.89",
+      "numberOfSchools": "4"
+   },
+   {
+      "name": "Trimble County",
+      "location": {
+         "state": {
+            "name": "Kentucky",
+            "abbr": "KY",
+            "county": "Trimble County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "1219",
+      "fte": "67.47",
+      "pupilTeacherRatio": "18.07",
+      "numberOfSchools": "4"
+   },
+   {
+      "name": "Union County",
+      "location": {
+         "state": {
+            "name": "Kentucky",
+            "abbr": "KY",
+            "county": "Union County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "2174",
+      "fte": "148.49",
+      "pupilTeacherRatio": "14.64",
+      "numberOfSchools": "8"
+   },
+   {
+      "name": "Walton-Verona Independent",
+      "location": {
+         "state": {
+            "name": "Kentucky",
+            "abbr": "KY",
+            "county": "Boone County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "1868",
+      "fte": "109",
+      "pupilTeacherRatio": "17.14",
+      "numberOfSchools": "4"
+   },
+   {
+      "name": "Warren County",
+      "location": {
+         "state": {
+            "name": "Kentucky",
+            "abbr": "KY",
+            "county": "Warren County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "17508",
+      "fte": "996.1",
+      "pupilTeacherRatio": "17.58",
+      "numberOfSchools": "36"
+   },
+   {
+      "name": "Washington County",
+      "location": {
+         "state": {
+            "name": "Kentucky",
+            "abbr": "KY",
+            "county": "Washington County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "1774",
+      "fte": "103.26",
+      "pupilTeacherRatio": "17.18",
+      "numberOfSchools": "6"
+   },
+   {
+      "name": "Wayne County",
+      "location": {
+         "state": {
+            "name": "Kentucky",
+            "abbr": "KY",
+            "county": "Wayne County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "3314",
+      "fte": "203",
+      "pupilTeacherRatio": "16.33",
+      "numberOfSchools": "8"
+   },
+   {
+      "name": "Webster County",
+      "location": {
+         "state": {
+            "name": "Kentucky",
+            "abbr": "KY",
+            "county": "Webster County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "2258",
+      "fte": "125",
+      "pupilTeacherRatio": "18.06",
+      "numberOfSchools": "6"
+   },
+   {
+      "name": "West Kentucky Educational Cooperative",
+      "location": {
+         "state": {
+            "name": "Kentucky",
+            "abbr": "KY",
+            "county": "Calloway County"
+         }
+      },
+      "type": "4-Regional Education Service Agency (RESA)",
+      "grades": {
+         "lowest": "†",
+         "highest": "†"
+      },
+      "students": "†",
+      "fte": "†",
+      "pupilTeacherRatio": "†",
+      "numberOfSchools": "0"
+   },
+   {
+      "name": "West Point Independent",
+      "location": {
+         "state": {
+            "name": "Kentucky",
+            "abbr": "KY",
+            "county": "Hardin County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "8th Grade"
+      },
+      "students": "149",
+      "fte": "10",
+      "pupilTeacherRatio": "14.9",
+      "numberOfSchools": "1"
+   },
+   {
+      "name": "Whitley County",
+      "location": {
+         "state": {
+            "name": "Kentucky",
+            "abbr": "KY",
+            "county": "Whitley County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "4373",
+      "fte": "287.97",
+      "pupilTeacherRatio": "15.19",
+      "numberOfSchools": "11"
+   },
+   {
+      "name": "Williamsburg Independent",
+      "location": {
+         "state": {
+            "name": "Kentucky",
+            "abbr": "KY",
+            "county": "Whitley County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "882",
+      "fte": "57",
+      "pupilTeacherRatio": "15.47",
+      "numberOfSchools": "1"
+   },
+   {
+      "name": "Williamstown Independent",
+      "location": {
+         "state": {
+            "name": "Kentucky",
+            "abbr": "KY",
+            "county": "Grant County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "960",
+      "fte": "53.05",
+      "pupilTeacherRatio": "18.1",
+      "numberOfSchools": "4"
+   },
+   {
+      "name": "Wolfe County",
+      "location": {
+         "state": {
+            "name": "Kentucky",
+            "abbr": "KY",
+            "county": "Wolfe County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Kindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "1234",
+      "fte": "83",
+      "pupilTeacherRatio": "14.87",
+      "numberOfSchools": "7"
+   },
+   {
+      "name": "Woodford County",
+      "location": {
+         "state": {
+            "name": "Kentucky",
+            "abbr": "KY",
+            "county": "Woodford County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "4253",
+      "fte": "240.27",
+      "pupilTeacherRatio": "17.7",
+      "numberOfSchools": "7"
+   }
+]

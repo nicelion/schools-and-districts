@@ -1,0 +1,3099 @@
+[
+   {
+      "name": "Academy for Math Engineering & Science",
+      "location": {
+         "state": {
+            "name": "Utah",
+            "abbr": "UT",
+            "county": "Salt Lake County"
+         }
+      },
+      "type": "7-Independent Charter District",
+      "grades": {
+         "lowest": "9th Grade",
+         "highest": "12th Grade"
+      },
+      "students": "483",
+      "fte": "22.05",
+      "pupilTeacherRatio": "21.9",
+      "numberOfSchools": "1"
+   },
+   {
+      "name": "Advantage Arts Academy",
+      "location": {
+         "state": {
+            "name": "UTAH",
+            "abbr": "UT",
+            "county": "Salt Lake County"
+         }
+      },
+      "type": "7-Independent Charter District",
+      "grades": {
+         "lowest": "–",
+         "highest": "–"
+      },
+      "students": "†",
+      "fte": "†",
+      "pupilTeacherRatio": "†",
+      "numberOfSchools": "0"
+   },
+   {
+      "name": "Alpine District",
+      "location": {
+         "state": {
+            "name": "Utah",
+            "abbr": "UT",
+            "county": "Utah County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "83540",
+      "fte": "3253.9",
+      "pupilTeacherRatio": "25.67",
+      "numberOfSchools": "91"
+   },
+   {
+      "name": "American Academy of Innovation",
+      "location": {
+         "state": {
+            "name": "UTAH",
+            "abbr": "UT",
+            "county": "Salt Lake County"
+         }
+      },
+      "type": "7-Independent Charter District",
+      "grades": {
+         "lowest": "6th Grade",
+         "highest": "12th Grade"
+      },
+      "students": "395",
+      "fte": "23.42",
+      "pupilTeacherRatio": "16.87",
+      "numberOfSchools": "1"
+   },
+   {
+      "name": "American Leadership Academy",
+      "location": {
+         "state": {
+            "name": "Utah",
+            "abbr": "UT",
+            "county": "Utah County"
+         }
+      },
+      "type": "7-Independent Charter District",
+      "grades": {
+         "lowest": "Kindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "1778",
+      "fte": "84.13",
+      "pupilTeacherRatio": "21.13",
+      "numberOfSchools": "1"
+   },
+   {
+      "name": "American Preparatory Academy",
+      "location": {
+         "state": {
+            "name": "Utah",
+            "abbr": "UT",
+            "county": "Salt Lake County"
+         }
+      },
+      "type": "7-Independent Charter District",
+      "grades": {
+         "lowest": "Kindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "5353",
+      "fte": "247.84",
+      "pupilTeacherRatio": "21.6",
+      "numberOfSchools": "6"
+   },
+   {
+      "name": "Ascent Academies of Utah",
+      "location": {
+         "state": {
+            "name": "Utah",
+            "abbr": "UT",
+            "county": "Davis County"
+         }
+      },
+      "type": "7-Independent Charter District",
+      "grades": {
+         "lowest": "Kindergarten",
+         "highest": "9th Grade"
+      },
+      "students": "2334",
+      "fte": "120.42",
+      "pupilTeacherRatio": "19.38",
+      "numberOfSchools": "4"
+   },
+   {
+      "name": "Athenian Eacademy",
+      "location": {
+         "state": {
+            "name": "UTAH",
+            "abbr": "UT",
+            "county": "Utah County"
+         }
+      },
+      "type": "7-Independent Charter District",
+      "grades": {
+         "lowest": "Kindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "667",
+      "fte": "25.11",
+      "pupilTeacherRatio": "26.56",
+      "numberOfSchools": "1"
+   },
+   {
+      "name": "Athlos Academy of Utah",
+      "location": {
+         "state": {
+            "name": "UTAH",
+            "abbr": "UT",
+            "county": "Salt Lake County"
+         }
+      },
+      "type": "7-Independent Charter District",
+      "grades": {
+         "lowest": "Kindergarten",
+         "highest": "8th Grade"
+      },
+      "students": "814",
+      "fte": "52.29",
+      "pupilTeacherRatio": "15.57",
+      "numberOfSchools": "1"
+   },
+   {
+      "name": "Bear River Charter School",
+      "location": {
+         "state": {
+            "name": "Utah",
+            "abbr": "UT",
+            "county": "Cache County"
+         }
+      },
+      "type": "7-Independent Charter District",
+      "grades": {
+         "lowest": "Kindergarten",
+         "highest": "8th Grade"
+      },
+      "students": "176",
+      "fte": "10.86",
+      "pupilTeacherRatio": "16.21",
+      "numberOfSchools": "1"
+   },
+   {
+      "name": "Beaver District",
+      "location": {
+         "state": {
+            "name": "Utah",
+            "abbr": "UT",
+            "county": "Beaver County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "1560",
+      "fte": "76.67",
+      "pupilTeacherRatio": "20.35",
+      "numberOfSchools": "7"
+   },
+   {
+      "name": "Beehive Science & Technology Academy",
+      "location": {
+         "state": {
+            "name": "Utah",
+            "abbr": "UT",
+            "county": "Salt Lake County"
+         }
+      },
+      "type": "7-Independent Charter District",
+      "grades": {
+         "lowest": "6th Grade",
+         "highest": "12th Grade"
+      },
+      "students": "315",
+      "fte": "17.38",
+      "pupilTeacherRatio": "18.12",
+      "numberOfSchools": "1"
+   },
+   {
+      "name": "Bonneville Academy",
+      "location": {
+         "state": {
+            "name": "UTAH",
+            "abbr": "UT",
+            "county": "Tooele County"
+         }
+      },
+      "type": "7-Independent Charter District",
+      "grades": {
+         "lowest": "Kindergarten",
+         "highest": "8th Grade"
+      },
+      "students": "555",
+      "fte": "31.92",
+      "pupilTeacherRatio": "17.39",
+      "numberOfSchools": "1"
+   },
+   {
+      "name": "Box Elder District",
+      "location": {
+         "state": {
+            "name": "Utah",
+            "abbr": "UT",
+            "county": "Box Elder County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "12111",
+      "fte": "545.07",
+      "pupilTeacherRatio": "22.22",
+      "numberOfSchools": "24"
+   },
+   {
+      "name": "Bridge Elementary School",
+      "location": {
+         "state": {
+            "name": "UTAH",
+            "abbr": "UT",
+            "county": "Weber County"
+         }
+      },
+      "type": "7-Independent Charter District",
+      "grades": {
+         "lowest": "–",
+         "highest": "–"
+      },
+      "students": "†",
+      "fte": "†",
+      "pupilTeacherRatio": "†",
+      "numberOfSchools": "0"
+   },
+   {
+      "name": "C.s. Lewis Academy",
+      "location": {
+         "state": {
+            "name": "Utah",
+            "abbr": "UT",
+            "county": "Utah County"
+         }
+      },
+      "type": "7-Independent Charter District",
+      "grades": {
+         "lowest": "Kindergarten",
+         "highest": "6th Grade"
+      },
+      "students": "318",
+      "fte": "15",
+      "pupilTeacherRatio": "21.2",
+      "numberOfSchools": "1"
+   },
+   {
+      "name": "Cache District",
+      "location": {
+         "state": {
+            "name": "Utah",
+            "abbr": "UT",
+            "county": "Cache County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "19260",
+      "fte": "795.16",
+      "pupilTeacherRatio": "24.22",
+      "numberOfSchools": "26"
+   },
+   {
+      "name": "Canyon Grove Academy",
+      "location": {
+         "state": {
+            "name": "Utah",
+            "abbr": "UT",
+            "county": "Utah County"
+         }
+      },
+      "type": "7-Independent Charter District",
+      "grades": {
+         "lowest": "Kindergarten",
+         "highest": "8th Grade"
+      },
+      "students": "653",
+      "fte": "14.41",
+      "pupilTeacherRatio": "45.32",
+      "numberOfSchools": "1"
+   },
+   {
+      "name": "Canyon Rim Academy",
+      "location": {
+         "state": {
+            "name": "Utah",
+            "abbr": "UT",
+            "county": "Salt Lake County"
+         }
+      },
+      "type": "7-Independent Charter District",
+      "grades": {
+         "lowest": "Kindergarten",
+         "highest": "6th Grade"
+      },
+      "students": "512",
+      "fte": "21.5",
+      "pupilTeacherRatio": "23.81",
+      "numberOfSchools": "1"
+   },
+   {
+      "name": "Canyons District",
+      "location": {
+         "state": {
+            "name": "Utah",
+            "abbr": "UT",
+            "county": "Salt Lake County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "35127",
+      "fte": "1515.11",
+      "pupilTeacherRatio": "23.18",
+      "numberOfSchools": "51"
+   },
+   {
+      "name": "Capstone Classical Academy",
+      "location": {
+         "state": {
+            "name": "UTAH",
+            "abbr": "UT",
+            "county": "Weber County"
+         }
+      },
+      "type": "7-Independent Charter District",
+      "grades": {
+         "lowest": "6th Grade",
+         "highest": "12th Grade"
+      },
+      "students": "177",
+      "fte": "15.35",
+      "pupilTeacherRatio": "11.53",
+      "numberOfSchools": "1"
+   },
+   {
+      "name": "Carbon District",
+      "location": {
+         "state": {
+            "name": "Utah",
+            "abbr": "UT",
+            "county": "Carbon County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "3628",
+      "fte": "177.53",
+      "pupilTeacherRatio": "20.44",
+      "numberOfSchools": "9"
+   },
+   {
+      "name": "Central Utah Ed. Services",
+      "location": {
+         "state": {
+            "name": "Utah",
+            "abbr": "UT",
+            "county": "Sevier County"
+         }
+      },
+      "type": "4-Regional Education Service Agency (RESA)",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "0",
+      "fte": "0",
+      "pupilTeacherRatio": "†",
+      "numberOfSchools": "0"
+   },
+   {
+      "name": "Channing Hall",
+      "location": {
+         "state": {
+            "name": "Utah",
+            "abbr": "UT",
+            "county": "Salt Lake County"
+         }
+      },
+      "type": "7-Independent Charter District",
+      "grades": {
+         "lowest": "Kindergarten",
+         "highest": "8th Grade"
+      },
+      "students": "621",
+      "fte": "31.45",
+      "pupilTeacherRatio": "19.75",
+      "numberOfSchools": "1"
+   },
+   {
+      "name": "City Academy",
+      "location": {
+         "state": {
+            "name": "Utah",
+            "abbr": "UT",
+            "county": "Salt Lake County"
+         }
+      },
+      "type": "7-Independent Charter District",
+      "grades": {
+         "lowest": "7th Grade",
+         "highest": "12th Grade"
+      },
+      "students": "147",
+      "fte": "15.39",
+      "pupilTeacherRatio": "9.55",
+      "numberOfSchools": "1"
+   },
+   {
+      "name": "Daggett District",
+      "location": {
+         "state": {
+            "name": "Utah",
+            "abbr": "UT",
+            "county": "Daggett County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "219",
+      "fte": "16.02",
+      "pupilTeacherRatio": "13.67",
+      "numberOfSchools": "4"
+   },
+   {
+      "name": "Davinci Academy",
+      "location": {
+         "state": {
+            "name": "Utah",
+            "abbr": "UT",
+            "county": "Weber County"
+         }
+      },
+      "type": "7-Independent Charter District",
+      "grades": {
+         "lowest": "Kindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "1264",
+      "fte": "58.4",
+      "pupilTeacherRatio": "21.64",
+      "numberOfSchools": "1"
+   },
+   {
+      "name": "Davis District",
+      "location": {
+         "state": {
+            "name": "Utah",
+            "abbr": "UT",
+            "county": "Davis County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "74773",
+      "fte": "3055.61",
+      "pupilTeacherRatio": "24.47",
+      "numberOfSchools": "93"
+   },
+   {
+      "name": "Dixie Montessori Academy",
+      "location": {
+         "state": {
+            "name": "Utah",
+            "abbr": "UT",
+            "county": "Washington County"
+         }
+      },
+      "type": "7-Independent Charter District",
+      "grades": {
+         "lowest": "Kindergarten",
+         "highest": "7th Grade"
+      },
+      "students": "277",
+      "fte": "17.23",
+      "pupilTeacherRatio": "16.08",
+      "numberOfSchools": "1"
+   },
+   {
+      "name": "Dual Immersion Academy",
+      "location": {
+         "state": {
+            "name": "Utah",
+            "abbr": "UT",
+            "county": "Salt Lake County"
+         }
+      },
+      "type": "7-Independent Charter District",
+      "grades": {
+         "lowest": "Kindergarten",
+         "highest": "8th Grade"
+      },
+      "students": "474",
+      "fte": "27.56",
+      "pupilTeacherRatio": "17.2",
+      "numberOfSchools": "1"
+   },
+   {
+      "name": "Duchesne District",
+      "location": {
+         "state": {
+            "name": "Utah",
+            "abbr": "UT",
+            "county": "Duchesne County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "5314",
+      "fte": "266.42",
+      "pupilTeacherRatio": "19.95",
+      "numberOfSchools": "14"
+   },
+   {
+      "name": "Early Light Academy at Daybreak",
+      "location": {
+         "state": {
+            "name": "Utah",
+            "abbr": "UT",
+            "county": "Salt Lake County"
+         }
+      },
+      "type": "7-Independent Charter District",
+      "grades": {
+         "lowest": "Kindergarten",
+         "highest": "9th Grade"
+      },
+      "students": "1007",
+      "fte": "47.49",
+      "pupilTeacherRatio": "21.2",
+      "numberOfSchools": "1"
+   },
+   {
+      "name": "East Hollywood High",
+      "location": {
+         "state": {
+            "name": "Utah",
+            "abbr": "UT",
+            "county": "Salt Lake County"
+         }
+      },
+      "type": "7-Independent Charter District",
+      "grades": {
+         "lowest": "9th Grade",
+         "highest": "12th Grade"
+      },
+      "students": "313",
+      "fte": "17.41",
+      "pupilTeacherRatio": "17.98",
+      "numberOfSchools": "1"
+   },
+   {
+      "name": "Edith Bowen Laboratory School",
+      "location": {
+         "state": {
+            "name": "Utah",
+            "abbr": "UT",
+            "county": "Cache County"
+         }
+      },
+      "type": "7-Independent Charter District",
+      "grades": {
+         "lowest": "Kindergarten",
+         "highest": "6th Grade"
+      },
+      "students": "359",
+      "fte": "17.75",
+      "pupilTeacherRatio": "20.23",
+      "numberOfSchools": "1"
+   },
+   {
+      "name": "Emery District",
+      "location": {
+         "state": {
+            "name": "Utah",
+            "abbr": "UT",
+            "county": "Emery County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "2283",
+      "fte": "125.55",
+      "pupilTeacherRatio": "18.18",
+      "numberOfSchools": "10"
+   },
+   {
+      "name": "Endeavor Hall",
+      "location": {
+         "state": {
+            "name": "Utah",
+            "abbr": "UT",
+            "county": "Salt Lake County"
+         }
+      },
+      "type": "7-Independent Charter District",
+      "grades": {
+         "lowest": "Kindergarten",
+         "highest": "6th Grade"
+      },
+      "students": "342",
+      "fte": "20.63",
+      "pupilTeacherRatio": "16.58",
+      "numberOfSchools": "1"
+   },
+   {
+      "name": "Entheos Academy",
+      "location": {
+         "state": {
+            "name": "Utah",
+            "abbr": "UT",
+            "county": "Salt Lake County"
+         }
+      },
+      "type": "7-Independent Charter District",
+      "grades": {
+         "lowest": "Kindergarten",
+         "highest": "8th Grade"
+      },
+      "students": "1053",
+      "fte": "50.51",
+      "pupilTeacherRatio": "20.85",
+      "numberOfSchools": "2"
+   },
+   {
+      "name": "Esperanza School",
+      "location": {
+         "state": {
+            "name": "Utah",
+            "abbr": "UT",
+            "county": "Salt Lake County"
+         }
+      },
+      "type": "7-Independent Charter District",
+      "grades": {
+         "lowest": "Kindergarten",
+         "highest": "6th Grade"
+      },
+      "students": "536",
+      "fte": "23",
+      "pupilTeacherRatio": "23.3",
+      "numberOfSchools": "1"
+   },
+   {
+      "name": "Excelsior Academy",
+      "location": {
+         "state": {
+            "name": "Utah",
+            "abbr": "UT",
+            "county": "Tooele County"
+         }
+      },
+      "type": "7-Independent Charter District",
+      "grades": {
+         "lowest": "Kindergarten",
+         "highest": "8th Grade"
+      },
+      "students": "1322",
+      "fte": "50.91",
+      "pupilTeacherRatio": "25.97",
+      "numberOfSchools": "1"
+   },
+   {
+      "name": "Fast Forward High",
+      "location": {
+         "state": {
+            "name": "Utah",
+            "abbr": "UT",
+            "county": "Cache County"
+         }
+      },
+      "type": "7-Independent Charter District",
+      "grades": {
+         "lowest": "9th Grade",
+         "highest": "12th Grade"
+      },
+      "students": "256",
+      "fte": "18.66",
+      "pupilTeacherRatio": "13.72",
+      "numberOfSchools": "1"
+   },
+   {
+      "name": "Franklin Discovery Academy",
+      "location": {
+         "state": {
+            "name": "UTAH",
+            "abbr": "UT",
+            "county": "Utah County"
+         }
+      },
+      "type": "7-Independent Charter District",
+      "grades": {
+         "lowest": "Kindergarten",
+         "highest": "6th Grade"
+      },
+      "students": "576",
+      "fte": "28.6",
+      "pupilTeacherRatio": "20.14",
+      "numberOfSchools": "1"
+   },
+   {
+      "name": "Freedom Preparatory Academy",
+      "location": {
+         "state": {
+            "name": "Utah",
+            "abbr": "UT",
+            "county": "Utah County"
+         }
+      },
+      "type": "7-Independent Charter District",
+      "grades": {
+         "lowest": "Kindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "1903",
+      "fte": "100.31",
+      "pupilTeacherRatio": "18.97",
+      "numberOfSchools": "2"
+   },
+   {
+      "name": "Garfield District",
+      "location": {
+         "state": {
+            "name": "Utah",
+            "abbr": "UT",
+            "county": "Garfield County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "987",
+      "fte": "55.85",
+      "pupilTeacherRatio": "17.67",
+      "numberOfSchools": "9"
+   },
+   {
+      "name": "Gateway Preparatory Academy",
+      "location": {
+         "state": {
+            "name": "Utah",
+            "abbr": "UT",
+            "county": "Iron County"
+         }
+      },
+      "type": "7-Independent Charter District",
+      "grades": {
+         "lowest": "Kindergarten",
+         "highest": "8th Grade"
+      },
+      "students": "677",
+      "fte": "30.34",
+      "pupilTeacherRatio": "22.31",
+      "numberOfSchools": "1"
+   },
+   {
+      "name": "George Washington Academy",
+      "location": {
+         "state": {
+            "name": "Utah",
+            "abbr": "UT",
+            "county": "Washington County"
+         }
+      },
+      "type": "7-Independent Charter District",
+      "grades": {
+         "lowest": "Kindergarten",
+         "highest": "7th Grade"
+      },
+      "students": "999",
+      "fte": "46.02",
+      "pupilTeacherRatio": "21.71",
+      "numberOfSchools": "1"
+   },
+   {
+      "name": "Good Foundations Academy",
+      "location": {
+         "state": {
+            "name": "Utah",
+            "abbr": "UT",
+            "county": "Weber County"
+         }
+      },
+      "type": "7-Independent Charter District",
+      "grades": {
+         "lowest": "Kindergarten",
+         "highest": "6th Grade"
+      },
+      "students": "487",
+      "fte": "25.03",
+      "pupilTeacherRatio": "19.46",
+      "numberOfSchools": "1"
+   },
+   {
+      "name": "Grand District",
+      "location": {
+         "state": {
+            "name": "Utah",
+            "abbr": "UT",
+            "county": "Grand County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "1552",
+      "fte": "92.18",
+      "pupilTeacherRatio": "16.84",
+      "numberOfSchools": "4"
+   },
+   {
+      "name": "Granite District",
+      "location": {
+         "state": {
+            "name": "Utah",
+            "abbr": "UT",
+            "county": "Salt Lake County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "66276",
+      "fte": "2810.25",
+      "pupilTeacherRatio": "23.58",
+      "numberOfSchools": "92"
+   },
+   {
+      "name": "Greenwood Charter School",
+      "location": {
+         "state": {
+            "name": "UTAH",
+            "abbr": "UT",
+            "county": "Weber County"
+         }
+      },
+      "type": "7-Independent Charter District",
+      "grades": {
+         "lowest": "Kindergarten",
+         "highest": "8th Grade"
+      },
+      "students": "378",
+      "fte": "20.16",
+      "pupilTeacherRatio": "18.75",
+      "numberOfSchools": "1"
+   },
+   {
+      "name": "Guadalupe School",
+      "location": {
+         "state": {
+            "name": "Utah",
+            "abbr": "UT",
+            "county": "Salt Lake County"
+         }
+      },
+      "type": "7-Independent Charter District",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "6th Grade"
+      },
+      "students": "404",
+      "fte": "14.75",
+      "pupilTeacherRatio": "27.39",
+      "numberOfSchools": "1"
+   },
+   {
+      "name": "Hawthorn Academy",
+      "location": {
+         "state": {
+            "name": "Utah",
+            "abbr": "UT",
+            "county": "Salt Lake County"
+         }
+      },
+      "type": "7-Independent Charter District",
+      "grades": {
+         "lowest": "Kindergarten",
+         "highest": "9th Grade"
+      },
+      "students": "1408",
+      "fte": "69.72",
+      "pupilTeacherRatio": "20.2",
+      "numberOfSchools": "2"
+   },
+   {
+      "name": "Highmark Charter School",
+      "location": {
+         "state": {
+            "name": "Utah",
+            "abbr": "UT",
+            "county": "Davis County"
+         }
+      },
+      "type": "7-Independent Charter District",
+      "grades": {
+         "lowest": "Kindergarten",
+         "highest": "9th Grade"
+      },
+      "students": "621",
+      "fte": "31.72",
+      "pupilTeacherRatio": "19.58",
+      "numberOfSchools": "1"
+   },
+   {
+      "name": "Ignite Entrepreneurship Academy",
+      "location": {
+         "state": {
+            "name": "UTAH",
+            "abbr": "UT",
+            "county": "Utah County"
+         }
+      },
+      "type": "7-Independent Charter District",
+      "grades": {
+         "lowest": "Kindergarten",
+         "highest": "8th Grade"
+      },
+      "students": "542",
+      "fte": "19.03",
+      "pupilTeacherRatio": "28.48",
+      "numberOfSchools": "1"
+   },
+   {
+      "name": "Intech Collegiate High School",
+      "location": {
+         "state": {
+            "name": "Utah",
+            "abbr": "UT",
+            "county": "Cache County"
+         }
+      },
+      "type": "7-Independent Charter District",
+      "grades": {
+         "lowest": "9th Grade",
+         "highest": "12th Grade"
+      },
+      "students": "158",
+      "fte": "8.89",
+      "pupilTeacherRatio": "17.77",
+      "numberOfSchools": "1"
+   },
+   {
+      "name": "Iron District",
+      "location": {
+         "state": {
+            "name": "Utah",
+            "abbr": "UT",
+            "county": "Iron County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "9923",
+      "fte": "445.77",
+      "pupilTeacherRatio": "22.26",
+      "numberOfSchools": "17"
+   },
+   {
+      "name": "Itineris Early College High",
+      "location": {
+         "state": {
+            "name": "Utah",
+            "abbr": "UT",
+            "county": "Salt Lake County"
+         }
+      },
+      "type": "7-Independent Charter District",
+      "grades": {
+         "lowest": "10th Grade",
+         "highest": "12th Grade"
+      },
+      "students": "407",
+      "fte": "18.09",
+      "pupilTeacherRatio": "22.5",
+      "numberOfSchools": "1"
+   },
+   {
+      "name": "Jefferson Academy",
+      "location": {
+         "state": {
+            "name": "Utah",
+            "abbr": "UT",
+            "county": "Davis County"
+         }
+      },
+      "type": "7-Independent Charter District",
+      "grades": {
+         "lowest": "Kindergarten",
+         "highest": "6th Grade"
+      },
+      "students": "581",
+      "fte": "25.9",
+      "pupilTeacherRatio": "22.43",
+      "numberOfSchools": "1"
+   },
+   {
+      "name": "John Hancock Charter School",
+      "location": {
+         "state": {
+            "name": "Utah",
+            "abbr": "UT",
+            "county": "Utah County"
+         }
+      },
+      "type": "7-Independent Charter District",
+      "grades": {
+         "lowest": "Kindergarten",
+         "highest": "6th Grade"
+      },
+      "students": "159",
+      "fte": "10.34",
+      "pupilTeacherRatio": "15.38",
+      "numberOfSchools": "1"
+   },
+   {
+      "name": "Jordan District",
+      "location": {
+         "state": {
+            "name": "Utah",
+            "abbr": "UT",
+            "county": "Salt Lake County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "57771",
+      "fte": "2535.29",
+      "pupilTeacherRatio": "22.79",
+      "numberOfSchools": "63"
+   },
+   {
+      "name": "Juab District",
+      "location": {
+         "state": {
+            "name": "Utah",
+            "abbr": "UT",
+            "county": "Juab County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "2687",
+      "fte": "114.65",
+      "pupilTeacherRatio": "23.44",
+      "numberOfSchools": "5"
+   },
+   {
+      "name": "Kane District",
+      "location": {
+         "state": {
+            "name": "Utah",
+            "abbr": "UT",
+            "county": "Kane County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "1353",
+      "fte": "71.7",
+      "pupilTeacherRatio": "18.87",
+      "numberOfSchools": "10"
+   },
+   {
+      "name": "Karl G. Maeser Preparatory Academy",
+      "location": {
+         "state": {
+            "name": "Utah",
+            "abbr": "UT",
+            "county": "Utah County"
+         }
+      },
+      "type": "7-Independent Charter District",
+      "grades": {
+         "lowest": "7th Grade",
+         "highest": "12th Grade"
+      },
+      "students": "634",
+      "fte": "37.01",
+      "pupilTeacherRatio": "17.13",
+      "numberOfSchools": "1"
+   },
+   {
+      "name": "Lakeview Academy",
+      "location": {
+         "state": {
+            "name": "Utah",
+            "abbr": "UT",
+            "county": "Utah County"
+         }
+      },
+      "type": "7-Independent Charter District",
+      "grades": {
+         "lowest": "Kindergarten",
+         "highest": "9th Grade"
+      },
+      "students": "1024",
+      "fte": "47.3",
+      "pupilTeacherRatio": "21.65",
+      "numberOfSchools": "1"
+   },
+   {
+      "name": "Leadership Academy of Utah",
+      "location": {
+         "state": {
+            "name": "UTAH",
+            "abbr": "UT",
+            "county": "Davis County"
+         }
+      },
+      "type": "7-Independent Charter District",
+      "grades": {
+         "lowest": "6th Grade",
+         "highest": "12th Grade"
+      },
+      "students": "494",
+      "fte": "17.69",
+      "pupilTeacherRatio": "27.93",
+      "numberOfSchools": "1"
+   },
+   {
+      "name": "Leadership Learning Academy",
+      "location": {
+         "state": {
+            "name": "Utah",
+            "abbr": "UT",
+            "county": "Davis County"
+         }
+      },
+      "type": "7-Independent Charter District",
+      "grades": {
+         "lowest": "Kindergarten",
+         "highest": "6th Grade"
+      },
+      "students": "906",
+      "fte": "42.88",
+      "pupilTeacherRatio": "21.13",
+      "numberOfSchools": "2"
+   },
+   {
+      "name": "Legacy Preparatory Academy",
+      "location": {
+         "state": {
+            "name": "Utah",
+            "abbr": "UT",
+            "county": "Davis County"
+         }
+      },
+      "type": "7-Independent Charter District",
+      "grades": {
+         "lowest": "Kindergarten",
+         "highest": "9th Grade"
+      },
+      "students": "1119",
+      "fte": "55.06",
+      "pupilTeacherRatio": "20.32",
+      "numberOfSchools": "1"
+   },
+   {
+      "name": "Lincoln Academy",
+      "location": {
+         "state": {
+            "name": "Utah",
+            "abbr": "UT",
+            "county": "Utah County"
+         }
+      },
+      "type": "7-Independent Charter District",
+      "grades": {
+         "lowest": "Kindergarten",
+         "highest": "9th Grade"
+      },
+      "students": "903",
+      "fte": "39.92",
+      "pupilTeacherRatio": "22.62",
+      "numberOfSchools": "1"
+   },
+   {
+      "name": "Logan City District",
+      "location": {
+         "state": {
+            "name": "Utah",
+            "abbr": "UT",
+            "county": "Cache County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "5733",
+      "fte": "255.8",
+      "pupilTeacherRatio": "22.41",
+      "numberOfSchools": "10"
+   },
+   {
+      "name": "Lumen Scholar Institute",
+      "location": {
+         "state": {
+            "name": "UTAH",
+            "abbr": "UT",
+            "county": "Utah County"
+         }
+      },
+      "type": "7-Independent Charter District",
+      "grades": {
+         "lowest": "Kindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "320",
+      "fte": "26.96",
+      "pupilTeacherRatio": "11.87",
+      "numberOfSchools": "1"
+   },
+   {
+      "name": "Mana Academy Charter School",
+      "location": {
+         "state": {
+            "name": "Utah",
+            "abbr": "UT",
+            "county": "Salt Lake County"
+         }
+      },
+      "type": "7-Independent Charter District",
+      "grades": {
+         "lowest": "Kindergarten",
+         "highest": "11th Grade"
+      },
+      "students": "319",
+      "fte": "14.09",
+      "pupilTeacherRatio": "22.64",
+      "numberOfSchools": "1"
+   },
+   {
+      "name": "Maria Montessori Academy",
+      "location": {
+         "state": {
+            "name": "Utah",
+            "abbr": "UT",
+            "county": "Weber County"
+         }
+      },
+      "type": "7-Independent Charter District",
+      "grades": {
+         "lowest": "Kindergarten",
+         "highest": "9th Grade"
+      },
+      "students": "417",
+      "fte": "26.94",
+      "pupilTeacherRatio": "15.48",
+      "numberOfSchools": "1"
+   },
+   {
+      "name": "Merit College Preparatory Academy",
+      "location": {
+         "state": {
+            "name": "Utah",
+            "abbr": "UT",
+            "county": "Utah County"
+         }
+      },
+      "type": "7-Independent Charter District",
+      "grades": {
+         "lowest": "7th Grade",
+         "highest": "12th Grade"
+      },
+      "students": "471",
+      "fte": "35.15",
+      "pupilTeacherRatio": "13.4",
+      "numberOfSchools": "1"
+   },
+   {
+      "name": "Millard District",
+      "location": {
+         "state": {
+            "name": "Utah",
+            "abbr": "UT",
+            "county": "Millard County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "3125",
+      "fte": "152.97",
+      "pupilTeacherRatio": "20.43",
+      "numberOfSchools": "10"
+   },
+   {
+      "name": "Moab Charter School",
+      "location": {
+         "state": {
+            "name": "Utah",
+            "abbr": "UT",
+            "county": "Grand County"
+         }
+      },
+      "type": "7-Independent Charter District",
+      "grades": {
+         "lowest": "Kindergarten",
+         "highest": "6th Grade"
+      },
+      "students": "76",
+      "fte": "7.4",
+      "pupilTeacherRatio": "10.27",
+      "numberOfSchools": "1"
+   },
+   {
+      "name": "Monticello Academy",
+      "location": {
+         "state": {
+            "name": "Utah",
+            "abbr": "UT",
+            "county": "Salt Lake County"
+         }
+      },
+      "type": "7-Independent Charter District",
+      "grades": {
+         "lowest": "Kindergarten",
+         "highest": "8th Grade"
+      },
+      "students": "662",
+      "fte": "35.91",
+      "pupilTeacherRatio": "18.43",
+      "numberOfSchools": "1"
+   },
+   {
+      "name": "Morgan District",
+      "location": {
+         "state": {
+            "name": "Utah",
+            "abbr": "UT",
+            "county": "Morgan County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "3216",
+      "fte": "150.97",
+      "pupilTeacherRatio": "21.3",
+      "numberOfSchools": "7"
+   },
+   {
+      "name": "Mountain Heights Academy",
+      "location": {
+         "state": {
+            "name": "Utah",
+            "abbr": "UT",
+            "county": "Salt Lake County"
+         }
+      },
+      "type": "7-Independent Charter District",
+      "grades": {
+         "lowest": "7th Grade",
+         "highest": "12th Grade"
+      },
+      "students": "731",
+      "fte": "59.58",
+      "pupilTeacherRatio": "12.27",
+      "numberOfSchools": "1"
+   },
+   {
+      "name": "Mountain Sunrise Academy",
+      "location": {
+         "state": {
+            "name": "UTAH",
+            "abbr": "UT",
+            "county": "Utah County"
+         }
+      },
+      "type": "7-Independent Charter District",
+      "grades": {
+         "lowest": "–",
+         "highest": "–"
+      },
+      "students": "†",
+      "fte": "†",
+      "pupilTeacherRatio": "†",
+      "numberOfSchools": "0"
+   },
+   {
+      "name": "Mountain West Montessori Academy",
+      "location": {
+         "state": {
+            "name": "Utah",
+            "abbr": "UT",
+            "county": "Salt Lake County"
+         }
+      },
+      "type": "7-Independent Charter District",
+      "grades": {
+         "lowest": "Kindergarten",
+         "highest": "9th Grade"
+      },
+      "students": "502",
+      "fte": "22.94",
+      "pupilTeacherRatio": "21.88",
+      "numberOfSchools": "1"
+   },
+   {
+      "name": "Mountainville Academy",
+      "location": {
+         "state": {
+            "name": "Utah",
+            "abbr": "UT",
+            "county": "Utah County"
+         }
+      },
+      "type": "7-Independent Charter District",
+      "grades": {
+         "lowest": "Kindergarten",
+         "highest": "9th Grade"
+      },
+      "students": "657",
+      "fte": "41.52",
+      "pupilTeacherRatio": "15.82",
+      "numberOfSchools": "1"
+   },
+   {
+      "name": "Murray District",
+      "location": {
+         "state": {
+            "name": "Utah",
+            "abbr": "UT",
+            "county": "Salt Lake County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "6559",
+      "fte": "286.08",
+      "pupilTeacherRatio": "22.93",
+      "numberOfSchools": "12"
+   },
+   {
+      "name": "Navigator Pointe Academy",
+      "location": {
+         "state": {
+            "name": "Utah",
+            "abbr": "UT",
+            "county": "Salt Lake County"
+         }
+      },
+      "type": "7-Independent Charter District",
+      "grades": {
+         "lowest": "Kindergarten",
+         "highest": "9th Grade"
+      },
+      "students": "455",
+      "fte": "27.89",
+      "pupilTeacherRatio": "16.31",
+      "numberOfSchools": "1"
+   },
+   {
+      "name": "Nebo District",
+      "location": {
+         "state": {
+            "name": "Utah",
+            "abbr": "UT",
+            "county": "Utah County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "34171",
+      "fte": "1443.3",
+      "pupilTeacherRatio": "23.68",
+      "numberOfSchools": "45"
+   },
+   {
+      "name": "No. Ut. Acad. for Math Engineering & Science",
+      "location": {
+         "state": {
+            "name": "Utah",
+            "abbr": "UT",
+            "county": "Davis County"
+         }
+      },
+      "type": "7-Independent Charter District",
+      "grades": {
+         "lowest": "10th Grade",
+         "highest": "12th Grade"
+      },
+      "students": "1032",
+      "fte": "44.11",
+      "pupilTeacherRatio": "23.4",
+      "numberOfSchools": "2"
+   },
+   {
+      "name": "Noah Webster Academy",
+      "location": {
+         "state": {
+            "name": "Utah",
+            "abbr": "UT",
+            "county": "Utah County"
+         }
+      },
+      "type": "7-Independent Charter District",
+      "grades": {
+         "lowest": "Kindergarten",
+         "highest": "6th Grade"
+      },
+      "students": "523",
+      "fte": "21.67",
+      "pupilTeacherRatio": "24.13",
+      "numberOfSchools": "1"
+   },
+   {
+      "name": "North Davis Preparatory Academy",
+      "location": {
+         "state": {
+            "name": "Utah",
+            "abbr": "UT",
+            "county": "Davis County"
+         }
+      },
+      "type": "7-Independent Charter District",
+      "grades": {
+         "lowest": "Kindergarten",
+         "highest": "9th Grade"
+      },
+      "students": "1003",
+      "fte": "46.13",
+      "pupilTeacherRatio": "21.74",
+      "numberOfSchools": "1"
+   },
+   {
+      "name": "North Sanpete District",
+      "location": {
+         "state": {
+            "name": "Utah",
+            "abbr": "UT",
+            "county": "Sanpete County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "2660",
+      "fte": "120.22",
+      "pupilTeacherRatio": "22.13",
+      "numberOfSchools": "8"
+   },
+   {
+      "name": "North Star Academy",
+      "location": {
+         "state": {
+            "name": "Utah",
+            "abbr": "UT",
+            "county": "Salt Lake County"
+         }
+      },
+      "type": "7-Independent Charter District",
+      "grades": {
+         "lowest": "Kindergarten",
+         "highest": "9th Grade"
+      },
+      "students": "527",
+      "fte": "25.36",
+      "pupilTeacherRatio": "20.78",
+      "numberOfSchools": "1"
+   },
+   {
+      "name": "North Summit District",
+      "location": {
+         "state": {
+            "name": "Utah",
+            "abbr": "UT",
+            "county": "Summit County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "1040",
+      "fte": "57.21",
+      "pupilTeacherRatio": "18.18",
+      "numberOfSchools": "4"
+   },
+   {
+      "name": "Northeastern Utah Ed. Serv.",
+      "location": {
+         "state": {
+            "name": "Utah",
+            "abbr": "UT",
+            "county": "Wasatch County"
+         }
+      },
+      "type": "4-Regional Education Service Agency (RESA)",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "0",
+      "fte": "0",
+      "pupilTeacherRatio": "†",
+      "numberOfSchools": "0"
+   },
+   {
+      "name": "Odyssey Charter School",
+      "location": {
+         "state": {
+            "name": "Utah",
+            "abbr": "UT",
+            "county": "Utah County"
+         }
+      },
+      "type": "7-Independent Charter District",
+      "grades": {
+         "lowest": "Kindergarten",
+         "highest": "6th Grade"
+      },
+      "students": "411",
+      "fte": "24.2",
+      "pupilTeacherRatio": "16.98",
+      "numberOfSchools": "1"
+   },
+   {
+      "name": "Ogden City District",
+      "location": {
+         "state": {
+            "name": "Utah",
+            "abbr": "UT",
+            "county": "Weber County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "11637",
+      "fte": "563.27",
+      "pupilTeacherRatio": "20.66",
+      "numberOfSchools": "22"
+   },
+   {
+      "name": "Ogden Preparatory Academy",
+      "location": {
+         "state": {
+            "name": "Utah",
+            "abbr": "UT",
+            "county": "Weber County"
+         }
+      },
+      "type": "7-Independent Charter District",
+      "grades": {
+         "lowest": "Kindergarten",
+         "highest": "9th Grade"
+      },
+      "students": "1059",
+      "fte": "55.21",
+      "pupilTeacherRatio": "19.18",
+      "numberOfSchools": "1"
+   },
+   {
+      "name": "Open Classroom",
+      "location": {
+         "state": {
+            "name": "Utah",
+            "abbr": "UT",
+            "county": "Salt Lake County"
+         }
+      },
+      "type": "7-Independent Charter District",
+      "grades": {
+         "lowest": "Kindergarten",
+         "highest": "8th Grade"
+      },
+      "students": "338",
+      "fte": "17.5",
+      "pupilTeacherRatio": "19.31",
+      "numberOfSchools": "1"
+   },
+   {
+      "name": "Pacific Heritage Academy",
+      "location": {
+         "state": {
+            "name": "Utah",
+            "abbr": "UT",
+            "county": "Salt Lake County"
+         }
+      },
+      "type": "7-Independent Charter District",
+      "grades": {
+         "lowest": "Kindergarten",
+         "highest": "8th Grade"
+      },
+      "students": "389",
+      "fte": "22.19",
+      "pupilTeacherRatio": "17.53",
+      "numberOfSchools": "1"
+   },
+   {
+      "name": "Paradigm High School",
+      "location": {
+         "state": {
+            "name": "Utah",
+            "abbr": "UT",
+            "county": "Salt Lake County"
+         }
+      },
+      "type": "7-Independent Charter District",
+      "grades": {
+         "lowest": "7th Grade",
+         "highest": "12th Grade"
+      },
+      "students": "433",
+      "fte": "30.1",
+      "pupilTeacherRatio": "14.39",
+      "numberOfSchools": "1"
+   },
+   {
+      "name": "Park City District",
+      "location": {
+         "state": {
+            "name": "Utah",
+            "abbr": "UT",
+            "county": "Summit County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "4905",
+      "fte": "279.04",
+      "pupilTeacherRatio": "17.58",
+      "numberOfSchools": "12"
+   },
+   {
+      "name": "Pinnacle Canyon Academy",
+      "location": {
+         "state": {
+            "name": "Utah",
+            "abbr": "UT",
+            "county": "Carbon County"
+         }
+      },
+      "type": "7-Independent Charter District",
+      "grades": {
+         "lowest": "Kindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "456",
+      "fte": "28.3",
+      "pupilTeacherRatio": "16.11",
+      "numberOfSchools": "1"
+   },
+   {
+      "name": "Piute District",
+      "location": {
+         "state": {
+            "name": "Utah",
+            "abbr": "UT",
+            "county": "Piute County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "308",
+      "fte": "25.19",
+      "pupilTeacherRatio": "12.23",
+      "numberOfSchools": "5"
+   },
+   {
+      "name": "Promontory School of Expeditionary Learning",
+      "location": {
+         "state": {
+            "name": "Utah",
+            "abbr": "UT",
+            "county": "Box Elder County"
+         }
+      },
+      "type": "7-Independent Charter District",
+      "grades": {
+         "lowest": "Kindergarten",
+         "highest": "8th Grade"
+      },
+      "students": "443",
+      "fte": "22.54",
+      "pupilTeacherRatio": "19.65",
+      "numberOfSchools": "1"
+   },
+   {
+      "name": "Providence Hall",
+      "location": {
+         "state": {
+            "name": "Utah",
+            "abbr": "UT",
+            "county": "Salt Lake County"
+         }
+      },
+      "type": "7-Independent Charter District",
+      "grades": {
+         "lowest": "Kindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "2095",
+      "fte": "121.61",
+      "pupilTeacherRatio": "17.23",
+      "numberOfSchools": "1"
+   },
+   {
+      "name": "Provo District",
+      "location": {
+         "state": {
+            "name": "Utah",
+            "abbr": "UT",
+            "county": "Utah County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "17005",
+      "fte": "699.43",
+      "pupilTeacherRatio": "24.31",
+      "numberOfSchools": "23"
+   },
+   {
+      "name": "Quest Academy",
+      "location": {
+         "state": {
+            "name": "Utah",
+            "abbr": "UT",
+            "county": "Weber County"
+         }
+      },
+      "type": "7-Independent Charter District",
+      "grades": {
+         "lowest": "Kindergarten",
+         "highest": "9th Grade"
+      },
+      "students": "1000",
+      "fte": "44.8",
+      "pupilTeacherRatio": "22.32",
+      "numberOfSchools": "1"
+   },
+   {
+      "name": "Ranches Academy",
+      "location": {
+         "state": {
+            "name": "Utah",
+            "abbr": "UT",
+            "county": "Utah County"
+         }
+      },
+      "type": "7-Independent Charter District",
+      "grades": {
+         "lowest": "Kindergarten",
+         "highest": "6th Grade"
+      },
+      "students": "371",
+      "fte": "16.49",
+      "pupilTeacherRatio": "22.5",
+      "numberOfSchools": "1"
+   },
+   {
+      "name": "Reagan Academy",
+      "location": {
+         "state": {
+            "name": "Utah",
+            "abbr": "UT",
+            "county": "Utah County"
+         }
+      },
+      "type": "7-Independent Charter District",
+      "grades": {
+         "lowest": "Kindergarten",
+         "highest": "8th Grade"
+      },
+      "students": "681",
+      "fte": "35.11",
+      "pupilTeacherRatio": "19.4",
+      "numberOfSchools": "1"
+   },
+   {
+      "name": "Real Salt Lake Academy High School",
+      "location": {
+         "state": {
+            "name": "UTAH",
+            "abbr": "UT",
+            "county": "Salt Lake County"
+         }
+      },
+      "type": "7-Independent Charter District",
+      "grades": {
+         "lowest": "9th Grade",
+         "highest": "12th Grade"
+      },
+      "students": "337",
+      "fte": "15.06",
+      "pupilTeacherRatio": "22.38",
+      "numberOfSchools": "1"
+   },
+   {
+      "name": "Renaissance Academy",
+      "location": {
+         "state": {
+            "name": "Utah",
+            "abbr": "UT",
+            "county": "Utah County"
+         }
+      },
+      "type": "7-Independent Charter District",
+      "grades": {
+         "lowest": "Kindergarten",
+         "highest": "8th Grade"
+      },
+      "students": "724",
+      "fte": "42.33",
+      "pupilTeacherRatio": "17.1",
+      "numberOfSchools": "1"
+   },
+   {
+      "name": "Rich District",
+      "location": {
+         "state": {
+            "name": "Utah",
+            "abbr": "UT",
+            "county": "Rich County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "506",
+      "fte": "33.14",
+      "pupilTeacherRatio": "15.27",
+      "numberOfSchools": "5"
+   },
+   {
+      "name": "Rockwell Charter High School",
+      "location": {
+         "state": {
+            "name": "Utah",
+            "abbr": "UT",
+            "county": "Utah County"
+         }
+      },
+      "type": "7-Independent Charter District",
+      "grades": {
+         "lowest": "7th Grade",
+         "highest": "12th Grade"
+      },
+      "students": "334",
+      "fte": "18.52",
+      "pupilTeacherRatio": "18.03",
+      "numberOfSchools": "1"
+   },
+   {
+      "name": "Roots Charter High School",
+      "location": {
+         "state": {
+            "name": "UTAH",
+            "abbr": "UT",
+            "county": "Salt Lake County"
+         }
+      },
+      "type": "7-Independent Charter District",
+      "grades": {
+         "lowest": "9th Grade",
+         "highest": "12th Grade"
+      },
+      "students": "196",
+      "fte": "11.27",
+      "pupilTeacherRatio": "17.39",
+      "numberOfSchools": "1"
+   },
+   {
+      "name": "Salt Lake Arts Academy",
+      "location": {
+         "state": {
+            "name": "Utah",
+            "abbr": "UT",
+            "county": "Salt Lake County"
+         }
+      },
+      "type": "7-Independent Charter District",
+      "grades": {
+         "lowest": "5th Grade",
+         "highest": "8th Grade"
+      },
+      "students": "408",
+      "fte": "21.56",
+      "pupilTeacherRatio": "18.92",
+      "numberOfSchools": "1"
+   },
+   {
+      "name": "Salt Lake Center for Science Education",
+      "location": {
+         "state": {
+            "name": "Utah",
+            "abbr": "UT",
+            "county": "Salt Lake County"
+         }
+      },
+      "type": "7-Independent Charter District",
+      "grades": {
+         "lowest": "7th Grade",
+         "highest": "12th Grade"
+      },
+      "students": "390",
+      "fte": "21.12",
+      "pupilTeacherRatio": "18.47",
+      "numberOfSchools": "1"
+   },
+   {
+      "name": "Salt Lake District",
+      "location": {
+         "state": {
+            "name": "Utah",
+            "abbr": "UT",
+            "county": "Salt Lake County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "22571",
+      "fte": "1138.04",
+      "pupilTeacherRatio": "19.83",
+      "numberOfSchools": "42"
+   },
+   {
+      "name": "Salt Lake School for the Performing Arts",
+      "location": {
+         "state": {
+            "name": "Utah",
+            "abbr": "UT",
+            "county": "Salt Lake County"
+         }
+      },
+      "type": "7-Independent Charter District",
+      "grades": {
+         "lowest": "9th Grade",
+         "highest": "12th Grade"
+      },
+      "students": "251",
+      "fte": "15.43",
+      "pupilTeacherRatio": "16.27",
+      "numberOfSchools": "1"
+   },
+   {
+      "name": "San Juan District",
+      "location": {
+         "state": {
+            "name": "Utah",
+            "abbr": "UT",
+            "county": "San Juan County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "3083",
+      "fte": "176.77",
+      "pupilTeacherRatio": "17.44",
+      "numberOfSchools": "12"
+   },
+   {
+      "name": "Scholar Academy",
+      "location": {
+         "state": {
+            "name": "Utah",
+            "abbr": "UT",
+            "county": "Tooele County"
+         }
+      },
+      "type": "7-Independent Charter District",
+      "grades": {
+         "lowest": "Kindergarten",
+         "highest": "8th Grade"
+      },
+      "students": "638",
+      "fte": "34.45",
+      "pupilTeacherRatio": "18.52",
+      "numberOfSchools": "1"
+   },
+   {
+      "name": "Sevier District",
+      "location": {
+         "state": {
+            "name": "Utah",
+            "abbr": "UT",
+            "county": "Sevier County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "4833",
+      "fte": "224.57",
+      "pupilTeacherRatio": "21.52",
+      "numberOfSchools": "14"
+   },
+   {
+      "name": "Soldier Hollow Charter School",
+      "location": {
+         "state": {
+            "name": "Utah",
+            "abbr": "UT",
+            "county": "Wasatch County"
+         }
+      },
+      "type": "7-Independent Charter District",
+      "grades": {
+         "lowest": "Kindergarten",
+         "highest": "8th Grade"
+      },
+      "students": "324",
+      "fte": "19",
+      "pupilTeacherRatio": "17.05",
+      "numberOfSchools": "1"
+   },
+   {
+      "name": "South Sanpete District",
+      "location": {
+         "state": {
+            "name": "Utah",
+            "abbr": "UT",
+            "county": "Sanpete County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "3419",
+      "fte": "174.82",
+      "pupilTeacherRatio": "19.56",
+      "numberOfSchools": "8"
+   },
+   {
+      "name": "South Summit District",
+      "location": {
+         "state": {
+            "name": "Utah",
+            "abbr": "UT",
+            "county": "Summit County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "1723",
+      "fte": "90.25",
+      "pupilTeacherRatio": "19.09",
+      "numberOfSchools": "6"
+   },
+   {
+      "name": "Southeast Ed. Service Center",
+      "location": {
+         "state": {
+            "name": "Utah",
+            "abbr": "UT",
+            "county": "Carbon County"
+         }
+      },
+      "type": "4-Regional Education Service Agency (RESA)",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "0",
+      "fte": "0",
+      "pupilTeacherRatio": "†",
+      "numberOfSchools": "0"
+   },
+   {
+      "name": "Southwest Educational Development Center",
+      "location": {
+         "state": {
+            "name": "Utah",
+            "abbr": "UT",
+            "county": "Iron County"
+         }
+      },
+      "type": "4-Regional Education Service Agency (RESA)",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "0",
+      "fte": "0",
+      "pupilTeacherRatio": "†",
+      "numberOfSchools": "0"
+   },
+   {
+      "name": "Spectrum Academy",
+      "location": {
+         "state": {
+            "name": "Utah",
+            "abbr": "UT",
+            "county": "Davis County"
+         }
+      },
+      "type": "7-Independent Charter District",
+      "grades": {
+         "lowest": "Kindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "1461",
+      "fte": "127.22",
+      "pupilTeacherRatio": "11.48",
+      "numberOfSchools": "2"
+   },
+   {
+      "name": "St. George Academy",
+      "location": {
+         "state": {
+            "name": "UTAH",
+            "abbr": "UT",
+            "county": "Washington County"
+         }
+      },
+      "type": "7-Independent Charter District",
+      "grades": {
+         "lowest": "8th Grade",
+         "highest": "12th Grade"
+      },
+      "students": "247",
+      "fte": "14.02",
+      "pupilTeacherRatio": "17.62",
+      "numberOfSchools": "1"
+   },
+   {
+      "name": "Success Academy",
+      "location": {
+         "state": {
+            "name": "Utah",
+            "abbr": "UT",
+            "county": "Iron County"
+         }
+      },
+      "type": "7-Independent Charter District",
+      "grades": {
+         "lowest": "9th Grade",
+         "highest": "12th Grade"
+      },
+      "students": "429",
+      "fte": "10.3",
+      "pupilTeacherRatio": "41.65",
+      "numberOfSchools": "2"
+   },
+   {
+      "name": "Summit Academy",
+      "location": {
+         "state": {
+            "name": "Utah",
+            "abbr": "UT",
+            "county": "Salt Lake County"
+         }
+      },
+      "type": "7-Independent Charter District",
+      "grades": {
+         "lowest": "Kindergarten",
+         "highest": "8th Grade"
+      },
+      "students": "2409",
+      "fte": "119.13",
+      "pupilTeacherRatio": "20.22",
+      "numberOfSchools": "3"
+   },
+   {
+      "name": "Summit Academy High School",
+      "location": {
+         "state": {
+            "name": "Utah",
+            "abbr": "UT",
+            "county": "Salt Lake County"
+         }
+      },
+      "type": "7-Independent Charter District",
+      "grades": {
+         "lowest": "9th Grade",
+         "highest": "12th Grade"
+      },
+      "students": "527",
+      "fte": "25.87",
+      "pupilTeacherRatio": "20.37",
+      "numberOfSchools": "1"
+   },
+   {
+      "name": "Syracuse Arts Academy",
+      "location": {
+         "state": {
+            "name": "Utah",
+            "abbr": "UT",
+            "county": "Davis County"
+         }
+      },
+      "type": "7-Independent Charter District",
+      "grades": {
+         "lowest": "Kindergarten",
+         "highest": "9th Grade"
+      },
+      "students": "1782",
+      "fte": "82.21",
+      "pupilTeacherRatio": "21.68",
+      "numberOfSchools": "2"
+   },
+   {
+      "name": "Terra Academy",
+      "location": {
+         "state": {
+            "name": "UTAH",
+            "abbr": "UT",
+            "county": "Uintah County"
+         }
+      },
+      "type": "7-Independent Charter District",
+      "grades": {
+         "lowest": "Kindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "631",
+      "fte": "29.96",
+      "pupilTeacherRatio": "21.06",
+      "numberOfSchools": "1"
+   },
+   {
+      "name": "The Center for Creativity Innovation and Discovery",
+      "location": {
+         "state": {
+            "name": "UTAH",
+            "abbr": "UT",
+            "county": "Cache County"
+         }
+      },
+      "type": "7-Independent Charter District",
+      "grades": {
+         "lowest": "Kindergarten",
+         "highest": "8th Grade"
+      },
+      "students": "510",
+      "fte": "20",
+      "pupilTeacherRatio": "25.5",
+      "numberOfSchools": "1"
+   },
+   {
+      "name": "Thomas Edison",
+      "location": {
+         "state": {
+            "name": "Utah",
+            "abbr": "UT",
+            "county": "Cache County"
+         }
+      },
+      "type": "7-Independent Charter District",
+      "grades": {
+         "lowest": "Kindergarten",
+         "highest": "8th Grade"
+      },
+      "students": "1142",
+      "fte": "56.82",
+      "pupilTeacherRatio": "20.1",
+      "numberOfSchools": "2"
+   },
+   {
+      "name": "Timpanogos Academy",
+      "location": {
+         "state": {
+            "name": "Utah",
+            "abbr": "UT",
+            "county": "Utah County"
+         }
+      },
+      "type": "7-Independent Charter District",
+      "grades": {
+         "lowest": "Kindergarten",
+         "highest": "6th Grade"
+      },
+      "students": "508",
+      "fte": "24.44",
+      "pupilTeacherRatio": "20.79",
+      "numberOfSchools": "1"
+   },
+   {
+      "name": "Tintic District",
+      "location": {
+         "state": {
+            "name": "Utah",
+            "abbr": "UT",
+            "county": "Juab County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "222",
+      "fte": "19.04",
+      "pupilTeacherRatio": "11.66",
+      "numberOfSchools": "5"
+   },
+   {
+      "name": "Tooele District",
+      "location": {
+         "state": {
+            "name": "Utah",
+            "abbr": "UT",
+            "county": "Tooele County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "17913",
+      "fte": "692.53",
+      "pupilTeacherRatio": "25.87",
+      "numberOfSchools": "26"
+   },
+   {
+      "name": "Treeside Charter School",
+      "location": {
+         "state": {
+            "name": "UTAH",
+            "abbr": "UT",
+            "county": "Utah County"
+         }
+      },
+      "type": "7-Independent Charter District",
+      "grades": {
+         "lowest": "Kindergarten",
+         "highest": "6th Grade"
+      },
+      "students": "459",
+      "fte": "24.13",
+      "pupilTeacherRatio": "19.02",
+      "numberOfSchools": "1"
+   },
+   {
+      "name": "Tuacahn High School for the Performing Arts",
+      "location": {
+         "state": {
+            "name": "Utah",
+            "abbr": "UT",
+            "county": "Washington County"
+         }
+      },
+      "type": "7-Independent Charter District",
+      "grades": {
+         "lowest": "9th Grade",
+         "highest": "12th Grade"
+      },
+      "students": "392",
+      "fte": "24.75",
+      "pupilTeacherRatio": "15.84",
+      "numberOfSchools": "1"
+   },
+   {
+      "name": "Uintah District",
+      "location": {
+         "state": {
+            "name": "Utah",
+            "abbr": "UT",
+            "county": "Uintah County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "7149",
+      "fte": "295.74",
+      "pupilTeacherRatio": "24.17",
+      "numberOfSchools": "13"
+   },
+   {
+      "name": "Uintah River High",
+      "location": {
+         "state": {
+            "name": "Utah",
+            "abbr": "UT",
+            "county": "Uintah County"
+         }
+      },
+      "type": "7-Independent Charter District",
+      "grades": {
+         "lowest": "9th Grade",
+         "highest": "12th Grade"
+      },
+      "students": "75",
+      "fte": "8.18",
+      "pupilTeacherRatio": "9.17",
+      "numberOfSchools": "1"
+   },
+   {
+      "name": "Usbe",
+      "location": {
+         "state": {
+            "name": "Utah",
+            "abbr": "UT",
+            "county": "Salt Lake County"
+         }
+      },
+      "type": "5-State agency providing elementary and/or secondary level instruction",
+      "grades": {
+         "lowest": "Kindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "0",
+      "fte": "0",
+      "pupilTeacherRatio": "†",
+      "numberOfSchools": "0"
+   },
+   {
+      "name": "Utah Career Path High School",
+      "location": {
+         "state": {
+            "name": "Utah",
+            "abbr": "UT",
+            "county": "Davis County"
+         }
+      },
+      "type": "7-Independent Charter District",
+      "grades": {
+         "lowest": "9th Grade",
+         "highest": "12th Grade"
+      },
+      "students": "170",
+      "fte": "9.58",
+      "pupilTeacherRatio": "17.75",
+      "numberOfSchools": "1"
+   },
+   {
+      "name": "Utah Connections Academy",
+      "location": {
+         "state": {
+            "name": "Utah",
+            "abbr": "UT",
+            "county": "Salt Lake County"
+         }
+      },
+      "type": "7-Independent Charter District",
+      "grades": {
+         "lowest": "Kindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "877",
+      "fte": "26.2",
+      "pupilTeacherRatio": "33.47",
+      "numberOfSchools": "1"
+   },
+   {
+      "name": "Utah County Academy of Science",
+      "location": {
+         "state": {
+            "name": "Utah",
+            "abbr": "UT",
+            "county": "Utah County"
+         }
+      },
+      "type": "7-Independent Charter District",
+      "grades": {
+         "lowest": "9th Grade",
+         "highest": "12th Grade"
+      },
+      "students": "605",
+      "fte": "21.81",
+      "pupilTeacherRatio": "27.74",
+      "numberOfSchools": "1"
+   },
+   {
+      "name": "Utah International Charter School",
+      "location": {
+         "state": {
+            "name": "Utah",
+            "abbr": "UT",
+            "county": "Salt Lake County"
+         }
+      },
+      "type": "7-Independent Charter District",
+      "grades": {
+         "lowest": "7th Grade",
+         "highest": "12th Grade"
+      },
+      "students": "230",
+      "fte": "18",
+      "pupilTeacherRatio": "12.78",
+      "numberOfSchools": "1"
+   },
+   {
+      "name": "Utah Military Academy",
+      "location": {
+         "state": {
+            "name": "UTAH",
+            "abbr": "UT",
+            "county": "Weber County"
+         }
+      },
+      "type": "7-Independent Charter District",
+      "grades": {
+         "lowest": "7th Grade",
+         "highest": "12th Grade"
+      },
+      "students": "1053",
+      "fte": "65.5",
+      "pupilTeacherRatio": "16.08",
+      "numberOfSchools": "2"
+   },
+   {
+      "name": "Utah Mountain",
+      "location": {
+         "state": {
+            "name": "UTAH",
+            "abbr": "UT",
+            "county": "Weber County"
+         }
+      },
+      "type": "7-Independent Charter District",
+      "grades": {
+         "lowest": "–",
+         "highest": "–"
+      },
+      "students": "†",
+      "fte": "†",
+      "pupilTeacherRatio": "†",
+      "numberOfSchools": "0"
+   },
+   {
+      "name": "Utah Schools for Deaf & Blind",
+      "location": {
+         "state": {
+            "name": "Utah",
+            "abbr": "UT",
+            "county": "Weber County"
+         }
+      },
+      "type": "5-State agency providing elementary and/or secondary level instruction",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "239",
+      "fte": "148.75",
+      "pupilTeacherRatio": "1.61",
+      "numberOfSchools": "8"
+   },
+   {
+      "name": "Utah Virtual Academy",
+      "location": {
+         "state": {
+            "name": "Utah",
+            "abbr": "UT",
+            "county": "Salt Lake County"
+         }
+      },
+      "type": "7-Independent Charter District",
+      "grades": {
+         "lowest": "Kindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "2148",
+      "fte": "84.74",
+      "pupilTeacherRatio": "25.35",
+      "numberOfSchools": "1"
+   },
+   {
+      "name": "Valley Academy",
+      "location": {
+         "state": {
+            "name": "Utah",
+            "abbr": "UT",
+            "county": "Washington County"
+         }
+      },
+      "type": "7-Independent Charter District",
+      "grades": {
+         "lowest": "Kindergarten",
+         "highest": "8th Grade"
+      },
+      "students": "442",
+      "fte": "27",
+      "pupilTeacherRatio": "16.37",
+      "numberOfSchools": "1"
+   },
+   {
+      "name": "Vanguard Academy",
+      "location": {
+         "state": {
+            "name": "UTAH",
+            "abbr": "UT",
+            "county": "Salt Lake County"
+         }
+      },
+      "type": "7-Independent Charter District",
+      "grades": {
+         "lowest": "7th Grade",
+         "highest": "12th Grade"
+      },
+      "students": "463",
+      "fte": "23.34",
+      "pupilTeacherRatio": "19.84",
+      "numberOfSchools": "1"
+   },
+   {
+      "name": "Venture Academy",
+      "location": {
+         "state": {
+            "name": "Utah",
+            "abbr": "UT",
+            "county": "Weber County"
+         }
+      },
+      "type": "7-Independent Charter District",
+      "grades": {
+         "lowest": "Kindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "777",
+      "fte": "41.73",
+      "pupilTeacherRatio": "18.62",
+      "numberOfSchools": "1"
+   },
+   {
+      "name": "Vista School",
+      "location": {
+         "state": {
+            "name": "Utah",
+            "abbr": "UT",
+            "county": "Washington County"
+         }
+      },
+      "type": "7-Independent Charter District",
+      "grades": {
+         "lowest": "Kindergarten",
+         "highest": "8th Grade"
+      },
+      "students": "934",
+      "fte": "47.49",
+      "pupilTeacherRatio": "19.67",
+      "numberOfSchools": "1"
+   },
+   {
+      "name": "Voyage Academy",
+      "location": {
+         "state": {
+            "name": "Utah",
+            "abbr": "UT",
+            "county": "Davis County"
+         }
+      },
+      "type": "7-Independent Charter District",
+      "grades": {
+         "lowest": "Kindergarten",
+         "highest": "6th Grade"
+      },
+      "students": "532",
+      "fte": "21.25",
+      "pupilTeacherRatio": "25.04",
+      "numberOfSchools": "1"
+   },
+   {
+      "name": "Walden School of Liberal Arts",
+      "location": {
+         "state": {
+            "name": "Utah",
+            "abbr": "UT",
+            "county": "Utah County"
+         }
+      },
+      "type": "7-Independent Charter District",
+      "grades": {
+         "lowest": "Kindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "438",
+      "fte": "32.8",
+      "pupilTeacherRatio": "13.35",
+      "numberOfSchools": "1"
+   },
+   {
+      "name": "Wallace Stegner Academy",
+      "location": {
+         "state": {
+            "name": "UTAH",
+            "abbr": "UT",
+            "county": "Salt Lake County"
+         }
+      },
+      "type": "7-Independent Charter District",
+      "grades": {
+         "lowest": "Kindergarten",
+         "highest": "8th Grade"
+      },
+      "students": "701",
+      "fte": "28.59",
+      "pupilTeacherRatio": "24.52",
+      "numberOfSchools": "1"
+   },
+   {
+      "name": "Wasatch District",
+      "location": {
+         "state": {
+            "name": "Utah",
+            "abbr": "UT",
+            "county": "Wasatch County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "7435",
+      "fte": "361.27",
+      "pupilTeacherRatio": "20.58",
+      "numberOfSchools": "9"
+   },
+   {
+      "name": "Wasatch Peak Academy",
+      "location": {
+         "state": {
+            "name": "Utah",
+            "abbr": "UT",
+            "county": "Davis County"
+         }
+      },
+      "type": "7-Independent Charter District",
+      "grades": {
+         "lowest": "Kindergarten",
+         "highest": "6th Grade"
+      },
+      "students": "432",
+      "fte": "20.85",
+      "pupilTeacherRatio": "20.72",
+      "numberOfSchools": "1"
+   },
+   {
+      "name": "Wasatch Waldorf Charter School",
+      "location": {
+         "state": {
+            "name": "UTAH",
+            "abbr": "UT",
+            "county": "Salt Lake County"
+         }
+      },
+      "type": "7-Independent Charter District",
+      "grades": {
+         "lowest": "Kindergarten",
+         "highest": "8th Grade"
+      },
+      "students": "638",
+      "fte": "31.93",
+      "pupilTeacherRatio": "19.98",
+      "numberOfSchools": "1"
+   },
+   {
+      "name": "Washington District",
+      "location": {
+         "state": {
+            "name": "Utah",
+            "abbr": "UT",
+            "county": "Washington County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "35920",
+      "fte": "1439",
+      "pupilTeacherRatio": "24.96",
+      "numberOfSchools": "53"
+   },
+   {
+      "name": "Wayne District",
+      "location": {
+         "state": {
+            "name": "Utah",
+            "abbr": "UT",
+            "county": "Wayne County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "473",
+      "fte": "30.8",
+      "pupilTeacherRatio": "15.36",
+      "numberOfSchools": "4"
+   },
+   {
+      "name": "Weber District",
+      "location": {
+         "state": {
+            "name": "Utah",
+            "abbr": "UT",
+            "county": "Weber County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "32910",
+      "fte": "1496.01",
+      "pupilTeacherRatio": "22",
+      "numberOfSchools": "47"
+   },
+   {
+      "name": "Weber State University Charter Academy",
+      "location": {
+         "state": {
+            "name": "Utah",
+            "abbr": "UT",
+            "county": "Weber County"
+         }
+      },
+      "type": "7-Independent Charter District",
+      "grades": {
+         "lowest": "Kindergarten",
+         "highest": "Kindergarten"
+      },
+      "students": "33",
+      "fte": "1",
+      "pupilTeacherRatio": "33",
+      "numberOfSchools": "1"
+   },
+   {
+      "name": "Weilenmann School of Discovery",
+      "location": {
+         "state": {
+            "name": "Utah",
+            "abbr": "UT",
+            "county": "Summit County"
+         }
+      },
+      "type": "7-Independent Charter District",
+      "grades": {
+         "lowest": "Kindergarten",
+         "highest": "8th Grade"
+      },
+      "students": "562",
+      "fte": "35.96",
+      "pupilTeacherRatio": "15.63",
+      "numberOfSchools": "1"
+   },
+   {
+      "name": "Winter Sports School",
+      "location": {
+         "state": {
+            "name": "Utah",
+            "abbr": "UT",
+            "county": "Summit County"
+         }
+      },
+      "type": "7-Independent Charter District",
+      "grades": {
+         "lowest": "9th Grade",
+         "highest": "12th Grade"
+      },
+      "students": "114",
+      "fte": "5",
+      "pupilTeacherRatio": "22.8",
+      "numberOfSchools": "1"
+   }
+]

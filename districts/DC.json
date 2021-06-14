@@ -1,0 +1,1218 @@
+[
+   {
+      "name": "Academy of Hope Adult Pcs",
+      "location": {
+         "state": {
+            "name": "DISTRICT OF COLUMBIA",
+            "abbr": "DC",
+            "county": "District of Columbia"
+         }
+      },
+      "type": "7-Independent Charter District",
+      "grades": {
+         "lowest": "Adult Education",
+         "highest": "Adult Education"
+      },
+      "students": "0",
+      "fte": "0",
+      "pupilTeacherRatio": "†",
+      "numberOfSchools": "0"
+   },
+   {
+      "name": "Achievement Preparatory Academy Pcs",
+      "location": {
+         "state": {
+            "name": "District of Columbia",
+            "abbr": "DC",
+            "county": "District of Columbia"
+         }
+      },
+      "type": "7-Independent Charter District",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "8th Grade"
+      },
+      "students": "750",
+      "fte": "58.75",
+      "pupilTeacherRatio": "12.77",
+      "numberOfSchools": "2"
+   },
+   {
+      "name": "Appletree Early Learning Pcs",
+      "location": {
+         "state": {
+            "name": "District of Columbia",
+            "abbr": "DC",
+            "county": "District of Columbia"
+         }
+      },
+      "type": "7-Independent Charter District",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "Prekindergarten"
+      },
+      "students": "544",
+      "fte": "93",
+      "pupilTeacherRatio": "5.85",
+      "numberOfSchools": "5"
+   },
+   {
+      "name": "Basis Dc Pcs",
+      "location": {
+         "state": {
+            "name": "District of Columbia",
+            "abbr": "DC",
+            "county": "District of Columbia"
+         }
+      },
+      "type": "7-Independent Charter District",
+      "grades": {
+         "lowest": "5th Grade",
+         "highest": "12th Grade"
+      },
+      "students": "640",
+      "fte": "46.73",
+      "pupilTeacherRatio": "13.7",
+      "numberOfSchools": "1"
+   },
+   {
+      "name": "Breakthrough Montessori Pcs",
+      "location": {
+         "state": {
+            "name": "DISTRICT OF COLUMBIA",
+            "abbr": "DC",
+            "county": "District of Columbia"
+         }
+      },
+      "type": "7-Independent Charter District",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "2nd Grade"
+      },
+      "students": "225",
+      "fte": "9",
+      "pupilTeacherRatio": "25",
+      "numberOfSchools": "1"
+   },
+   {
+      "name": "Bridges Pcs",
+      "location": {
+         "state": {
+            "name": "District of Columbia",
+            "abbr": "DC",
+            "county": "District of Columbia"
+         }
+      },
+      "type": "7-Independent Charter District",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "5th Grade"
+      },
+      "students": "415",
+      "fte": "44",
+      "pupilTeacherRatio": "9.43",
+      "numberOfSchools": "1"
+   },
+   {
+      "name": "Briya Pcs",
+      "location": {
+         "state": {
+            "name": "District of Columbia",
+            "abbr": "DC",
+            "county": "District of Columbia"
+         }
+      },
+      "type": "7-Independent Charter District",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "Prekindergarten"
+      },
+      "students": "63",
+      "fte": "0",
+      "pupilTeacherRatio": "†",
+      "numberOfSchools": "0"
+   },
+   {
+      "name": "Capital City Pcs",
+      "location": {
+         "state": {
+            "name": "District of Columbia",
+            "abbr": "DC",
+            "county": "District of Columbia"
+         }
+      },
+      "type": "7-Independent Charter District",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "1001",
+      "fte": "102.76",
+      "pupilTeacherRatio": "9.74",
+      "numberOfSchools": "3"
+   },
+   {
+      "name": "Carlos Rosario International Pcs",
+      "location": {
+         "state": {
+            "name": "District of Columbia",
+            "abbr": "DC",
+            "county": "District of Columbia"
+         }
+      },
+      "type": "7-Independent Charter District",
+      "grades": {
+         "lowest": "Adult Education",
+         "highest": "Adult Education"
+      },
+      "students": "0",
+      "fte": "0",
+      "pupilTeacherRatio": "†",
+      "numberOfSchools": "0"
+   },
+   {
+      "name": "Cedar Tree Academy Pcs",
+      "location": {
+         "state": {
+            "name": "District of Columbia",
+            "abbr": "DC",
+            "county": "District of Columbia"
+         }
+      },
+      "type": "7-Independent Charter District",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "Kindergarten"
+      },
+      "students": "362",
+      "fte": "17.66",
+      "pupilTeacherRatio": "20.5",
+      "numberOfSchools": "1"
+   },
+   {
+      "name": "Center City Pcs",
+      "location": {
+         "state": {
+            "name": "District of Columbia",
+            "abbr": "DC",
+            "county": "District of Columbia"
+         }
+      },
+      "type": "7-Independent Charter District",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "8th Grade"
+      },
+      "students": "1481",
+      "fte": "140.01",
+      "pupilTeacherRatio": "10.58",
+      "numberOfSchools": "6"
+   },
+   {
+      "name": "Cesar Chavez Pcs for Public Policy",
+      "location": {
+         "state": {
+            "name": "District of Columbia",
+            "abbr": "DC",
+            "county": "District of Columbia"
+         }
+      },
+      "type": "7-Independent Charter District",
+      "grades": {
+         "lowest": "8th Grade",
+         "highest": "12th Grade"
+      },
+      "students": "448",
+      "fte": "36",
+      "pupilTeacherRatio": "12.44",
+      "numberOfSchools": "2"
+   },
+   {
+      "name": "Community College Preparatory Academy Pcs",
+      "location": {
+         "state": {
+            "name": "District of Columbia",
+            "abbr": "DC",
+            "county": "District of Columbia"
+         }
+      },
+      "type": "7-Independent Charter District",
+      "grades": {
+         "lowest": "Adult Education",
+         "highest": "Adult Education"
+      },
+      "students": "0",
+      "fte": "0",
+      "pupilTeacherRatio": "†",
+      "numberOfSchools": "0"
+   },
+   {
+      "name": "Creative Minds International Pcs",
+      "location": {
+         "state": {
+            "name": "District of Columbia",
+            "abbr": "DC",
+            "county": "District of Columbia"
+         }
+      },
+      "type": "7-Independent Charter District",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "8th Grade"
+      },
+      "students": "526",
+      "fte": "49.5",
+      "pupilTeacherRatio": "10.63",
+      "numberOfSchools": "1"
+   },
+   {
+      "name": "Dc Bilingual Pcs",
+      "location": {
+         "state": {
+            "name": "District of Columbia",
+            "abbr": "DC",
+            "county": "District of Columbia"
+         }
+      },
+      "type": "7-Independent Charter District",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "5th Grade"
+      },
+      "students": "454",
+      "fte": "49",
+      "pupilTeacherRatio": "9.27",
+      "numberOfSchools": "1"
+   },
+   {
+      "name": "Dc Prep Pcs",
+      "location": {
+         "state": {
+            "name": "District of Columbia",
+            "abbr": "DC",
+            "county": "District of Columbia"
+         }
+      },
+      "type": "7-Independent Charter District",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "8th Grade"
+      },
+      "students": "2048",
+      "fte": "191.5",
+      "pupilTeacherRatio": "10.69",
+      "numberOfSchools": "5"
+   },
+   {
+      "name": "Dc Scholars Pcs",
+      "location": {
+         "state": {
+            "name": "District of Columbia",
+            "abbr": "DC",
+            "county": "District of Columbia"
+         }
+      },
+      "type": "7-Independent Charter District",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "8th Grade"
+      },
+      "students": "555",
+      "fte": "38",
+      "pupilTeacherRatio": "14.61",
+      "numberOfSchools": "1"
+   },
+   {
+      "name": "Digital Pioneers Academy Pcs",
+      "location": {
+         "state": {
+            "name": "DISTRICT OF COLUMBIA",
+            "abbr": "DC",
+            "county": "District of Columbia"
+         }
+      },
+      "type": "7-Independent Charter District",
+      "grades": {
+         "lowest": "6th Grade",
+         "highest": "7th Grade"
+      },
+      "students": "244",
+      "fte": "21",
+      "pupilTeacherRatio": "11.62",
+      "numberOfSchools": "1"
+   },
+   {
+      "name": "District of Columbia International School",
+      "location": {
+         "state": {
+            "name": "DISTRICT OF COLUMBIA",
+            "abbr": "DC",
+            "county": "District of Columbia"
+         }
+      },
+      "type": "7-Independent Charter District",
+      "grades": {
+         "lowest": "6th Grade",
+         "highest": "12th Grade"
+      },
+      "students": "1272",
+      "fte": "110",
+      "pupilTeacherRatio": "11.56",
+      "numberOfSchools": "1"
+   },
+   {
+      "name": "District of Columbia Public Schools",
+      "location": {
+         "state": {
+            "name": "District of Columbia",
+            "abbr": "DC",
+            "county": "District of Columbia"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "50971",
+      "fte": "4100.87",
+      "pupilTeacherRatio": "12.43",
+      "numberOfSchools": "115"
+   },
+   {
+      "name": "Dyrs",
+      "location": {
+         "state": {
+            "name": "District of Columbia",
+            "abbr": "DC",
+            "county": "Anne Arundel County"
+         }
+      },
+      "type": "5-State agency providing elementary and/or secondary level instruction",
+      "grades": {
+         "lowest": "9th Grade",
+         "highest": "12th Grade"
+      },
+      "students": "36",
+      "fte": "9",
+      "pupilTeacherRatio": "4",
+      "numberOfSchools": "1"
+   },
+   {
+      "name": "E.l. Haynes Pcs",
+      "location": {
+         "state": {
+            "name": "District of Columbia",
+            "abbr": "DC",
+            "county": "District of Columbia"
+         }
+      },
+      "type": "7-Independent Charter District",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "1145",
+      "fte": "96.7",
+      "pupilTeacherRatio": "11.84",
+      "numberOfSchools": "3"
+   },
+   {
+      "name": "Eagle Academy Pcs",
+      "location": {
+         "state": {
+            "name": "District of Columbia",
+            "abbr": "DC",
+            "county": "District of Columbia"
+         }
+      },
+      "type": "7-Independent Charter District",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "3rd Grade"
+      },
+      "students": "836",
+      "fte": "63",
+      "pupilTeacherRatio": "13.27",
+      "numberOfSchools": "2"
+   },
+   {
+      "name": "Early Childhood Academy Pcs",
+      "location": {
+         "state": {
+            "name": "District of Columbia",
+            "abbr": "DC",
+            "county": "District of Columbia"
+         }
+      },
+      "type": "7-Independent Charter District",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "3rd Grade"
+      },
+      "students": "285",
+      "fte": "16.98",
+      "pupilTeacherRatio": "16.78",
+      "numberOfSchools": "1"
+   },
+   {
+      "name": "Elsie Whitlow Stokes Community Freedom Pcs",
+      "location": {
+         "state": {
+            "name": "District of Columbia",
+            "abbr": "DC",
+            "county": "District of Columbia"
+         }
+      },
+      "type": "7-Independent Charter District",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "5th Grade"
+      },
+      "students": "540",
+      "fte": "55.5",
+      "pupilTeacherRatio": "9.73",
+      "numberOfSchools": "2"
+   },
+   {
+      "name": "Friendship Pcs",
+      "location": {
+         "state": {
+            "name": "District of Columbia",
+            "abbr": "DC",
+            "county": "District of Columbia"
+         }
+      },
+      "type": "7-Independent Charter District",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "4233",
+      "fte": "323.99",
+      "pupilTeacherRatio": "13.07",
+      "numberOfSchools": "16"
+   },
+   {
+      "name": "Goodwill Excel Center Pcs",
+      "location": {
+         "state": {
+            "name": "DISTRICT OF COLUMBIA",
+            "abbr": "DC",
+            "county": "District of Columbia"
+         }
+      },
+      "type": "7-Independent Charter District",
+      "grades": {
+         "lowest": "9th Grade",
+         "highest": "12th Grade"
+      },
+      "students": "378",
+      "fte": "16",
+      "pupilTeacherRatio": "23.63",
+      "numberOfSchools": "1"
+   },
+   {
+      "name": "Harmony Dc Pcs",
+      "location": {
+         "state": {
+            "name": "DISTRICT OF COLUMBIA",
+            "abbr": "DC",
+            "county": "District of Columbia"
+         }
+      },
+      "type": "7-Independent Charter District",
+      "grades": {
+         "lowest": "Kindergarten",
+         "highest": "5th Grade"
+      },
+      "students": "118",
+      "fte": "13.5",
+      "pupilTeacherRatio": "8.74",
+      "numberOfSchools": "1"
+   },
+   {
+      "name": "Hope Community Pcs",
+      "location": {
+         "state": {
+            "name": "District of Columbia",
+            "abbr": "DC",
+            "county": "District of Columbia"
+         }
+      },
+      "type": "7-Independent Charter District",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "8th Grade"
+      },
+      "students": "718",
+      "fte": "46",
+      "pupilTeacherRatio": "15.61",
+      "numberOfSchools": "2"
+   },
+   {
+      "name": "Howard University Middle School of Math and Science Pcs",
+      "location": {
+         "state": {
+            "name": "District of Columbia",
+            "abbr": "DC",
+            "county": "District of Columbia"
+         }
+      },
+      "type": "7-Independent Charter District",
+      "grades": {
+         "lowest": "6th Grade",
+         "highest": "8th Grade"
+      },
+      "students": "294",
+      "fte": "28",
+      "pupilTeacherRatio": "10.5",
+      "numberOfSchools": "1"
+   },
+   {
+      "name": "Idea Pcs",
+      "location": {
+         "state": {
+            "name": "District of Columbia",
+            "abbr": "DC",
+            "county": "District of Columbia"
+         }
+      },
+      "type": "7-Independent Charter District",
+      "grades": {
+         "lowest": "9th Grade",
+         "highest": "12th Grade"
+      },
+      "students": "305",
+      "fte": "31",
+      "pupilTeacherRatio": "9.84",
+      "numberOfSchools": "1"
+   },
+   {
+      "name": "Ingenuity Prep Pcs",
+      "location": {
+         "state": {
+            "name": "District of Columbia",
+            "abbr": "DC",
+            "county": "District of Columbia"
+         }
+      },
+      "type": "7-Independent Charter District",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "6th Grade"
+      },
+      "students": "640",
+      "fte": "72.5",
+      "pupilTeacherRatio": "8.83",
+      "numberOfSchools": "1"
+   },
+   {
+      "name": "Inspired Teaching Demonstration Pcs",
+      "location": {
+         "state": {
+            "name": "District of Columbia",
+            "abbr": "DC",
+            "county": "District of Columbia"
+         }
+      },
+      "type": "7-Independent Charter District",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "8th Grade"
+      },
+      "students": "494",
+      "fte": "35.68",
+      "pupilTeacherRatio": "13.85",
+      "numberOfSchools": "1"
+   },
+   {
+      "name": "Kingsman Academy Pcs",
+      "location": {
+         "state": {
+            "name": "DISTRICT OF COLUMBIA",
+            "abbr": "DC",
+            "county": "District of Columbia"
+         }
+      },
+      "type": "7-Independent Charter District",
+      "grades": {
+         "lowest": "6th Grade",
+         "highest": "12th Grade"
+      },
+      "students": "245",
+      "fte": "22",
+      "pupilTeacherRatio": "11.14",
+      "numberOfSchools": "1"
+   },
+   {
+      "name": "Kipp Dc Pcs",
+      "location": {
+         "state": {
+            "name": "District of Columbia",
+            "abbr": "DC",
+            "county": "District of Columbia"
+         }
+      },
+      "type": "7-Independent Charter District",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "6828",
+      "fte": "523.5",
+      "pupilTeacherRatio": "13.04",
+      "numberOfSchools": "18"
+   },
+   {
+      "name": "Latin American Montessori Bilingual Pcs",
+      "location": {
+         "state": {
+            "name": "District of Columbia",
+            "abbr": "DC",
+            "county": "District of Columbia"
+         }
+      },
+      "type": "7-Independent Charter District",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "5th Grade"
+      },
+      "students": "476",
+      "fte": "47.25",
+      "pupilTeacherRatio": "10.07",
+      "numberOfSchools": "1"
+   },
+   {
+      "name": "Layc Career Academy Pcs",
+      "location": {
+         "state": {
+            "name": "District of Columbia",
+            "abbr": "DC",
+            "county": "District of Columbia"
+         }
+      },
+      "type": "7-Independent Charter District",
+      "grades": {
+         "lowest": "Adult Education",
+         "highest": "Adult Education"
+      },
+      "students": "0",
+      "fte": "0",
+      "pupilTeacherRatio": "†",
+      "numberOfSchools": "0"
+   },
+   {
+      "name": "Lee Montessori Pcs",
+      "location": {
+         "state": {
+            "name": "District of Columbia",
+            "abbr": "DC",
+            "county": "District of Columbia"
+         }
+      },
+      "type": "7-Independent Charter District",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "6th Grade"
+      },
+      "students": "314",
+      "fte": "17.33",
+      "pupilTeacherRatio": "18.12",
+      "numberOfSchools": "2"
+   },
+   {
+      "name": "Mary Mcleod Bethune Day Academy Pcs",
+      "location": {
+         "state": {
+            "name": "District of Columbia",
+            "abbr": "DC",
+            "county": "District of Columbia"
+         }
+      },
+      "type": "7-Independent Charter District",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "8th Grade"
+      },
+      "students": "425",
+      "fte": "53",
+      "pupilTeacherRatio": "8.02",
+      "numberOfSchools": "1"
+   },
+   {
+      "name": "Maya Angelou Pcs",
+      "location": {
+         "state": {
+            "name": "District of Columbia",
+            "abbr": "DC",
+            "county": "District of Columbia"
+         }
+      },
+      "type": "7-Independent Charter District",
+      "grades": {
+         "lowest": "9th Grade",
+         "highest": "12th Grade"
+      },
+      "students": "197",
+      "fte": "20",
+      "pupilTeacherRatio": "9.85",
+      "numberOfSchools": "1"
+   },
+   {
+      "name": "Meridian Pcs",
+      "location": {
+         "state": {
+            "name": "District of Columbia",
+            "abbr": "DC",
+            "county": "District of Columbia"
+         }
+      },
+      "type": "7-Independent Charter District",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "8th Grade"
+      },
+      "students": "635",
+      "fte": "62",
+      "pupilTeacherRatio": "10.24",
+      "numberOfSchools": "1"
+   },
+   {
+      "name": "Monument Academy Pcs",
+      "location": {
+         "state": {
+            "name": "DISTRICT OF COLUMBIA",
+            "abbr": "DC",
+            "county": "District of Columbia"
+         }
+      },
+      "type": "7-Independent Charter District",
+      "grades": {
+         "lowest": "5th Grade",
+         "highest": "8th Grade"
+      },
+      "students": "110",
+      "fte": "18",
+      "pupilTeacherRatio": "6.11",
+      "numberOfSchools": "1"
+   },
+   {
+      "name": "Mundo Verde Bilingual Pcs",
+      "location": {
+         "state": {
+            "name": "District of Columbia",
+            "abbr": "DC",
+            "county": "District of Columbia"
+         }
+      },
+      "type": "7-Independent Charter District",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "5th Grade"
+      },
+      "students": "875",
+      "fte": "58",
+      "pupilTeacherRatio": "15.09",
+      "numberOfSchools": "2"
+   },
+   {
+      "name": "National Collegiate Preparatory Pchs",
+      "location": {
+         "state": {
+            "name": "District of Columbia",
+            "abbr": "DC",
+            "county": "District of Columbia"
+         }
+      },
+      "type": "7-Independent Charter District",
+      "grades": {
+         "lowest": "9th Grade",
+         "highest": "12th Grade"
+      },
+      "students": "119",
+      "fte": "18",
+      "pupilTeacherRatio": "6.61",
+      "numberOfSchools": "1"
+   },
+   {
+      "name": "Paul Pcs",
+      "location": {
+         "state": {
+            "name": "District of Columbia",
+            "abbr": "DC",
+            "county": "District of Columbia"
+         }
+      },
+      "type": "7-Independent Charter District",
+      "grades": {
+         "lowest": "6th Grade",
+         "highest": "12th Grade"
+      },
+      "students": "752",
+      "fte": "71.6",
+      "pupilTeacherRatio": "10.5",
+      "numberOfSchools": "2"
+   },
+   {
+      "name": "Perry Street Preparatory Pcs",
+      "location": {
+         "state": {
+            "name": "District of Columbia",
+            "abbr": "DC",
+            "county": "District of Columbia"
+         }
+      },
+      "type": "7-Independent Charter District",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "8th Grade"
+      },
+      "students": "408",
+      "fte": "36",
+      "pupilTeacherRatio": "11.33",
+      "numberOfSchools": "1"
+   },
+   {
+      "name": "Richard Wright Pcs for Journalism and Media Arts",
+      "location": {
+         "state": {
+            "name": "District of Columbia",
+            "abbr": "DC",
+            "county": "District of Columbia"
+         }
+      },
+      "type": "7-Independent Charter District",
+      "grades": {
+         "lowest": "8th Grade",
+         "highest": "12th Grade"
+      },
+      "students": "304",
+      "fte": "26",
+      "pupilTeacherRatio": "11.69",
+      "numberOfSchools": "1"
+   },
+   {
+      "name": "Rocketship Dc Pcs",
+      "location": {
+         "state": {
+            "name": "DISTRICT OF COLUMBIA",
+            "abbr": "DC",
+            "county": "District of Columbia"
+         }
+      },
+      "type": "7-Independent Charter District",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "5th Grade"
+      },
+      "students": "1306",
+      "fte": "72.5",
+      "pupilTeacherRatio": "18.01",
+      "numberOfSchools": "2"
+   },
+   {
+      "name": "Roots Pcs",
+      "location": {
+         "state": {
+            "name": "District of Columbia",
+            "abbr": "DC",
+            "county": "District of Columbia"
+         }
+      },
+      "type": "7-Independent Charter District",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "5th Grade"
+      },
+      "students": "120",
+      "fte": "10",
+      "pupilTeacherRatio": "12",
+      "numberOfSchools": "1"
+   },
+   {
+      "name": "Sela Pcs",
+      "location": {
+         "state": {
+            "name": "District of Columbia",
+            "abbr": "DC",
+            "county": "District of Columbia"
+         }
+      },
+      "type": "7-Independent Charter District",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "5th Grade"
+      },
+      "students": "235",
+      "fte": "21",
+      "pupilTeacherRatio": "11.19",
+      "numberOfSchools": "1"
+   },
+   {
+      "name": "Shining Stars Montessori Academy Pcs",
+      "location": {
+         "state": {
+            "name": "District of Columbia",
+            "abbr": "DC",
+            "county": "District of Columbia"
+         }
+      },
+      "type": "7-Independent Charter District",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "6th Grade"
+      },
+      "students": "295",
+      "fte": "19",
+      "pupilTeacherRatio": "15.53",
+      "numberOfSchools": "1"
+   },
+   {
+      "name": "St. Coletta Special Education Pcs",
+      "location": {
+         "state": {
+            "name": "District of Columbia",
+            "abbr": "DC",
+            "county": "District of Columbia"
+         }
+      },
+      "type": "7-Independent Charter District",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "250",
+      "fte": "22",
+      "pupilTeacherRatio": "11.36",
+      "numberOfSchools": "1"
+   },
+   {
+      "name": "Statesmen College Preparatory Academy for Boys Pcs",
+      "location": {
+         "state": {
+            "name": "DISTRICT OF COLUMBIA",
+            "abbr": "DC",
+            "county": "District of Columbia"
+         }
+      },
+      "type": "7-Independent Charter District",
+      "grades": {
+         "lowest": "4th Grade",
+         "highest": "5th Grade"
+      },
+      "students": "130",
+      "fte": "10",
+      "pupilTeacherRatio": "13",
+      "numberOfSchools": "1"
+   },
+   {
+      "name": "The Children's Guild Dc Pcs",
+      "location": {
+         "state": {
+            "name": "DISTRICT OF COLUMBIA",
+            "abbr": "DC",
+            "county": "District of Columbia"
+         }
+      },
+      "type": "7-Independent Charter District",
+      "grades": {
+         "lowest": "Kindergarten",
+         "highest": "8th Grade"
+      },
+      "students": "339",
+      "fte": "51.5",
+      "pupilTeacherRatio": "6.58",
+      "numberOfSchools": "1"
+   },
+   {
+      "name": "The Family Place Pcs",
+      "location": {
+         "state": {
+            "name": "DISTRICT OF COLUMBIA",
+            "abbr": "DC",
+            "county": "District of Columbia"
+         }
+      },
+      "type": "7-Independent Charter District",
+      "grades": {
+         "lowest": "Adult Education",
+         "highest": "Adult Education"
+      },
+      "students": "0",
+      "fte": "0",
+      "pupilTeacherRatio": "†",
+      "numberOfSchools": "0"
+   },
+   {
+      "name": "The Next Step/el Proximo Paso Pcs",
+      "location": {
+         "state": {
+            "name": "District of Columbia",
+            "abbr": "DC",
+            "county": "District of Columbia"
+         }
+      },
+      "type": "7-Independent Charter District",
+      "grades": {
+         "lowest": "Adult Education",
+         "highest": "Adult Education"
+      },
+      "students": "0",
+      "fte": "0",
+      "pupilTeacherRatio": "†",
+      "numberOfSchools": "0"
+   },
+   {
+      "name": "The Seed Pcs of Washington Dc",
+      "location": {
+         "state": {
+            "name": "District of Columbia",
+            "abbr": "DC",
+            "county": "District of Columbia"
+         }
+      },
+      "type": "7-Independent Charter District",
+      "grades": {
+         "lowest": "8th Grade",
+         "highest": "12th Grade"
+      },
+      "students": "246",
+      "fte": "28",
+      "pupilTeacherRatio": "8.79",
+      "numberOfSchools": "1"
+   },
+   {
+      "name": "Thurgood Marshall Academy Pcs",
+      "location": {
+         "state": {
+            "name": "District of Columbia",
+            "abbr": "DC",
+            "county": "District of Columbia"
+         }
+      },
+      "type": "7-Independent Charter District",
+      "grades": {
+         "lowest": "9th Grade",
+         "highest": "12th Grade"
+      },
+      "students": "393",
+      "fte": "36",
+      "pupilTeacherRatio": "10.92",
+      "numberOfSchools": "1"
+   },
+   {
+      "name": "Two Rivers Pcs",
+      "location": {
+         "state": {
+            "name": "District of Columbia",
+            "abbr": "DC",
+            "county": "District of Columbia"
+         }
+      },
+      "type": "7-Independent Charter District",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "8th Grade"
+      },
+      "students": "927",
+      "fte": "71.96",
+      "pupilTeacherRatio": "12.88",
+      "numberOfSchools": "2"
+   },
+   {
+      "name": "Washington Global Pcs",
+      "location": {
+         "state": {
+            "name": "DISTRICT OF COLUMBIA",
+            "abbr": "DC",
+            "county": "District of Columbia"
+         }
+      },
+      "type": "7-Independent Charter District",
+      "grades": {
+         "lowest": "6th Grade",
+         "highest": "8th Grade"
+      },
+      "students": "236",
+      "fte": "18",
+      "pupilTeacherRatio": "13.11",
+      "numberOfSchools": "1"
+   },
+   {
+      "name": "Washington Latin Pcs",
+      "location": {
+         "state": {
+            "name": "District of Columbia",
+            "abbr": "DC",
+            "county": "District of Columbia"
+         }
+      },
+      "type": "7-Independent Charter District",
+      "grades": {
+         "lowest": "5th Grade",
+         "highest": "12th Grade"
+      },
+      "students": "722",
+      "fte": "68.2",
+      "pupilTeacherRatio": "10.59",
+      "numberOfSchools": "2"
+   },
+   {
+      "name": "Washington Leadership Academy Pcs",
+      "location": {
+         "state": {
+            "name": "DISTRICT OF COLUMBIA",
+            "abbr": "DC",
+            "county": "District of Columbia"
+         }
+      },
+      "type": "7-Independent Charter District",
+      "grades": {
+         "lowest": "9th Grade",
+         "highest": "12th Grade"
+      },
+      "students": "397",
+      "fte": "43",
+      "pupilTeacherRatio": "9.23",
+      "numberOfSchools": "1"
+   },
+   {
+      "name": "Washington Yu Ying Pcs",
+      "location": {
+         "state": {
+            "name": "District of Columbia",
+            "abbr": "DC",
+            "county": "District of Columbia"
+         }
+      },
+      "type": "7-Independent Charter District",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "5th Grade"
+      },
+      "students": "573",
+      "fte": "49.75",
+      "pupilTeacherRatio": "11.52",
+      "numberOfSchools": "1"
+   },
+   {
+      "name": "Youthbuild Pcs",
+      "location": {
+         "state": {
+            "name": "District of Columbia",
+            "abbr": "DC",
+            "county": "District of Columbia"
+         }
+      },
+      "type": "7-Independent Charter District",
+      "grades": {
+         "lowest": "Adult Education",
+         "highest": "Adult Education"
+      },
+      "students": "0",
+      "fte": "0",
+      "pupilTeacherRatio": "†",
+      "numberOfSchools": "0"
+   }
+]

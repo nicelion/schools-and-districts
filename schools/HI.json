@@ -1,0 +1,6492 @@
+[
+   {
+      "name": "Admiral Arthur W Radford High School",
+      "location": {
+         "state": {
+            "name": "Hawaii",
+            "abbr": "HI "
+         }
+      },
+      "district": "Hawaii Department of Education",
+      "level": "High",
+      "type": "1-Regular school",
+      "charterSchool": "2-No",
+      "magnentSchool": "†",
+      "locale": "21-Suburb: Large",
+      "grades": {
+         "lowest": "9th Grade",
+         "highest": "12th Grade"
+      },
+      "students": "1199",
+      "fte": "76",
+      "pupilTeacherRatio": "15.78"
+   },
+   {
+      "name": "Admiral Chester W Nimitz Elementary School",
+      "location": {
+         "state": {
+            "name": "Hawaii",
+            "abbr": "HI "
+         }
+      },
+      "district": "Hawaii Department of Education",
+      "level": "Elementary",
+      "type": "1-Regular school",
+      "charterSchool": "2-No",
+      "magnentSchool": "†",
+      "locale": "21-Suburb: Large",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "6th Grade"
+      },
+      "students": "693",
+      "fte": "39.5",
+      "pupilTeacherRatio": "17.54"
+   },
+   {
+      "name": "Ahuimanu Elementary School",
+      "location": {
+         "state": {
+            "name": "Hawaii",
+            "abbr": "HI "
+         }
+      },
+      "district": "Hawaii Department of Education",
+      "level": "Elementary",
+      "type": "1-Regular school",
+      "charterSchool": "2-No",
+      "magnentSchool": "†",
+      "locale": "22-Suburb: Mid-size",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "6th Grade"
+      },
+      "students": "288",
+      "fte": "21.5",
+      "pupilTeacherRatio": "13.4"
+   },
+   {
+      "name": "Aiea Elementary School",
+      "location": {
+         "state": {
+            "name": "Hawaii",
+            "abbr": "HI "
+         }
+      },
+      "district": "Hawaii Department of Education",
+      "level": "Elementary",
+      "type": "1-Regular school",
+      "charterSchool": "2-No",
+      "magnentSchool": "†",
+      "locale": "21-Suburb: Large",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "6th Grade"
+      },
+      "students": "323",
+      "fte": "21",
+      "pupilTeacherRatio": "15.38"
+   },
+   {
+      "name": "Aiea High School",
+      "location": {
+         "state": {
+            "name": "Hawaii",
+            "abbr": "HI "
+         }
+      },
+      "district": "Hawaii Department of Education",
+      "level": "High",
+      "type": "1-Regular school",
+      "charterSchool": "2-No",
+      "magnentSchool": "†",
+      "locale": "21-Suburb: Large",
+      "grades": {
+         "lowest": "9th Grade",
+         "highest": "12th Grade"
+      },
+      "students": "1000",
+      "fte": "64.5",
+      "pupilTeacherRatio": "15.5"
+   },
+   {
+      "name": "Aiea Intermediate School",
+      "location": {
+         "state": {
+            "name": "Hawaii",
+            "abbr": "HI "
+         }
+      },
+      "district": "Hawaii Department of Education",
+      "level": "Middle",
+      "type": "1-Regular school",
+      "charterSchool": "2-No",
+      "magnentSchool": "†",
+      "locale": "21-Suburb: Large",
+      "grades": {
+         "lowest": "7th Grade",
+         "highest": "8th Grade"
+      },
+      "students": "605",
+      "fte": "37",
+      "pupilTeacherRatio": "16.35"
+   },
+   {
+      "name": "Aikahi Elementary School",
+      "location": {
+         "state": {
+            "name": "Hawaii",
+            "abbr": "HI "
+         }
+      },
+      "district": "Hawaii Department of Education",
+      "level": "Elementary",
+      "type": "1-Regular school",
+      "charterSchool": "2-No",
+      "magnentSchool": "†",
+      "locale": "22-Suburb: Mid-size",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "6th Grade"
+      },
+      "students": "503",
+      "fte": "33",
+      "pupilTeacherRatio": "15.24"
+   },
+   {
+      "name": "Aina Haina Elementary School",
+      "location": {
+         "state": {
+            "name": "Hawaii",
+            "abbr": "HI "
+         }
+      },
+      "district": "Hawaii Department of Education",
+      "level": "Elementary",
+      "type": "1-Regular school",
+      "charterSchool": "2-No",
+      "magnentSchool": "†",
+      "locale": "21-Suburb: Large",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "5th Grade"
+      },
+      "students": "462",
+      "fte": "27.5",
+      "pupilTeacherRatio": "16.8"
+   },
+   {
+      "name": "Ala Wai Elementary School",
+      "location": {
+         "state": {
+            "name": "Hawaii",
+            "abbr": "HI "
+         }
+      },
+      "district": "Hawaii Department of Education",
+      "level": "Elementary",
+      "type": "1-Regular school",
+      "charterSchool": "2-No",
+      "magnentSchool": "†",
+      "locale": "11-City: Large",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "5th Grade"
+      },
+      "students": "352",
+      "fte": "23",
+      "pupilTeacherRatio": "15.3"
+   },
+   {
+      "name": "Alaka'i O Kaua'i Charter School",
+      "location": {
+         "state": {
+            "name": "HAWAII",
+            "abbr": "HI "
+         }
+      },
+      "district": "Hawaii Department of Education",
+      "level": "Elementary",
+      "type": "1-Regular school",
+      "charterSchool": "1-Yes",
+      "magnentSchool": "†",
+      "locale": "41-Rural: Fringe",
+      "grades": {
+         "lowest": "Kindergarten",
+         "highest": "6th Grade"
+      },
+      "students": "149",
+      "fte": "8.25",
+      "pupilTeacherRatio": "18.06"
+   },
+   {
+      "name": "Aliamanu Elementary School",
+      "location": {
+         "state": {
+            "name": "Hawaii",
+            "abbr": "HI "
+         }
+      },
+      "district": "Hawaii Department of Education",
+      "level": "Elementary",
+      "type": "1-Regular school",
+      "charterSchool": "2-No",
+      "magnentSchool": "†",
+      "locale": "11-City: Large",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "6th Grade"
+      },
+      "students": "620",
+      "fte": "42",
+      "pupilTeacherRatio": "14.76"
+   },
+   {
+      "name": "Aliamanu Middle School",
+      "location": {
+         "state": {
+            "name": "Hawaii",
+            "abbr": "HI "
+         }
+      },
+      "district": "Hawaii Department of Education",
+      "level": "Middle",
+      "type": "1-Regular school",
+      "charterSchool": "2-No",
+      "magnentSchool": "†",
+      "locale": "11-City: Large",
+      "grades": {
+         "lowest": "7th Grade",
+         "highest": "8th Grade"
+      },
+      "students": "814",
+      "fte": "49",
+      "pupilTeacherRatio": "16.61"
+   },
+   {
+      "name": "Aliiolani Elementary School",
+      "location": {
+         "state": {
+            "name": "Hawaii",
+            "abbr": "HI "
+         }
+      },
+      "district": "Hawaii Department of Education",
+      "level": "Elementary",
+      "type": "1-Regular school",
+      "charterSchool": "2-No",
+      "magnentSchool": "†",
+      "locale": "11-City: Large",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "5th Grade"
+      },
+      "students": "239",
+      "fte": "16",
+      "pupilTeacherRatio": "14.94"
+   },
+   {
+      "name": "Alvah a Scott Elementary School",
+      "location": {
+         "state": {
+            "name": "Hawaii",
+            "abbr": "HI "
+         }
+      },
+      "district": "Hawaii Department of Education",
+      "level": "Elementary",
+      "type": "1-Regular school",
+      "charterSchool": "2-No",
+      "magnentSchool": "†",
+      "locale": "21-Suburb: Large",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "6th Grade"
+      },
+      "students": "483",
+      "fte": "30",
+      "pupilTeacherRatio": "16.1"
+   },
+   {
+      "name": "Anuenue School",
+      "location": {
+         "state": {
+            "name": "Hawaii",
+            "abbr": "HI "
+         }
+      },
+      "district": "Hawaii Department of Education",
+      "level": "Other",
+      "type": "1-Regular school",
+      "charterSchool": "2-No",
+      "magnentSchool": "†",
+      "locale": "11-City: Large",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "545",
+      "fte": "28",
+      "pupilTeacherRatio": "19.46"
+   },
+   {
+      "name": "August Ahrens Elementary School",
+      "location": {
+         "state": {
+            "name": "Hawaii",
+            "abbr": "HI "
+         }
+      },
+      "district": "Hawaii Department of Education",
+      "level": "Elementary",
+      "type": "1-Regular school",
+      "charterSchool": "2-No",
+      "magnentSchool": "†",
+      "locale": "21-Suburb: Large",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "6th Grade"
+      },
+      "students": "1294",
+      "fte": "77.5",
+      "pupilTeacherRatio": "16.7"
+   },
+   {
+      "name": "Barbers Point Elementary School",
+      "location": {
+         "state": {
+            "name": "Hawaii",
+            "abbr": "HI "
+         }
+      },
+      "district": "Hawaii Department of Education",
+      "level": "Elementary",
+      "type": "1-Regular school",
+      "charterSchool": "2-No",
+      "magnentSchool": "†",
+      "locale": "21-Suburb: Large",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "5th Grade"
+      },
+      "students": "492",
+      "fte": "35",
+      "pupilTeacherRatio": "14.06"
+   },
+   {
+      "name": "Blanche Pope Elementary School",
+      "location": {
+         "state": {
+            "name": "Hawaii",
+            "abbr": "HI "
+         }
+      },
+      "district": "Hawaii Department of Education",
+      "level": "Elementary",
+      "type": "1-Regular school",
+      "charterSchool": "2-No",
+      "magnentSchool": "†",
+      "locale": "22-Suburb: Mid-size",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "6th Grade"
+      },
+      "students": "226",
+      "fte": "16",
+      "pupilTeacherRatio": "14.13"
+   },
+   {
+      "name": "Castle High School",
+      "location": {
+         "state": {
+            "name": "Hawaii",
+            "abbr": "HI "
+         }
+      },
+      "district": "Hawaii Department of Education",
+      "level": "High",
+      "type": "1-Regular school",
+      "charterSchool": "2-No",
+      "magnentSchool": "†",
+      "locale": "22-Suburb: Mid-size",
+      "grades": {
+         "lowest": "9th Grade",
+         "highest": "12th Grade"
+      },
+      "students": "1107",
+      "fte": "80",
+      "pupilTeacherRatio": "13.84"
+   },
+   {
+      "name": "Central Middle School",
+      "location": {
+         "state": {
+            "name": "Hawaii",
+            "abbr": "HI "
+         }
+      },
+      "district": "Hawaii Department of Education",
+      "level": "Middle",
+      "type": "1-Regular school",
+      "charterSchool": "2-No",
+      "magnentSchool": "†",
+      "locale": "11-City: Large",
+      "grades": {
+         "lowest": "6th Grade",
+         "highest": "8th Grade"
+      },
+      "students": "399",
+      "fte": "25",
+      "pupilTeacherRatio": "15.96"
+   },
+   {
+      "name": "Chiefess Kamakahelei Middle School",
+      "location": {
+         "state": {
+            "name": "Hawaii",
+            "abbr": "HI "
+         }
+      },
+      "district": "Hawaii Department of Education",
+      "level": "Middle",
+      "type": "1-Regular school",
+      "charterSchool": "2-No",
+      "magnentSchool": "†",
+      "locale": "33-Town: Remote",
+      "grades": {
+         "lowest": "6th Grade",
+         "highest": "8th Grade"
+      },
+      "students": "964",
+      "fte": "63",
+      "pupilTeacherRatio": "15.3"
+   },
+   {
+      "name": "Chiefess Kapiolani Elementary School",
+      "location": {
+         "state": {
+            "name": "Hawaii",
+            "abbr": "HI "
+         }
+      },
+      "district": "Hawaii Department of Education",
+      "level": "Elementary",
+      "type": "1-Regular school",
+      "charterSchool": "2-No",
+      "magnentSchool": "†",
+      "locale": "33-Town: Remote",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "6th Grade"
+      },
+      "students": "363",
+      "fte": "23",
+      "pupilTeacherRatio": "15.78"
+   },
+   {
+      "name": "Connections - New Century Pcs",
+      "location": {
+         "state": {
+            "name": "Hawaii",
+            "abbr": "HI "
+         }
+      },
+      "district": "Hawaii Department of Education",
+      "level": "Other",
+      "type": "1-Regular school",
+      "charterSchool": "1-Yes",
+      "magnentSchool": "†",
+      "locale": "33-Town: Remote",
+      "grades": {
+         "lowest": "Kindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "335",
+      "fte": "26",
+      "pupilTeacherRatio": "12.88"
+   },
+   {
+      "name": "Daniel K Inouye Elementary School",
+      "location": {
+         "state": {
+            "name": "Hawaii",
+            "abbr": "HI "
+         }
+      },
+      "district": "Hawaii Department of Education",
+      "level": "Elementary",
+      "type": "1-Regular school",
+      "charterSchool": "2-No",
+      "magnentSchool": "†",
+      "locale": "21-Suburb: Large",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "5th Grade"
+      },
+      "students": "700",
+      "fte": "44",
+      "pupilTeacherRatio": "15.91"
+   },
+   {
+      "name": "Dreamhouse Ewa Beach",
+      "location": {
+         "state": {
+            "name": "HAWAII",
+            "abbr": "HI "
+         }
+      },
+      "district": "Hawaii Department of Education",
+      "level": "Middle",
+      "type": "1-Regular school",
+      "charterSchool": "1-Yes",
+      "magnentSchool": "†",
+      "locale": "21-Suburb: Large",
+      "grades": {
+         "lowest": "6th Grade",
+         "highest": "6th Grade"
+      },
+      "students": "85",
+      "fte": "12",
+      "pupilTeacherRatio": "7.08"
+   },
+   {
+      "name": "Eleele Elementary School",
+      "location": {
+         "state": {
+            "name": "Hawaii",
+            "abbr": "HI "
+         }
+      },
+      "district": "Hawaii Department of Education",
+      "level": "Elementary",
+      "type": "1-Regular school",
+      "charterSchool": "2-No",
+      "magnentSchool": "†",
+      "locale": "33-Town: Remote",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "5th Grade"
+      },
+      "students": "461",
+      "fte": "30",
+      "pupilTeacherRatio": "15.37"
+   },
+   {
+      "name": "Elsie H Wilcox Elementary School",
+      "location": {
+         "state": {
+            "name": "Hawaii",
+            "abbr": "HI "
+         }
+      },
+      "district": "Hawaii Department of Education",
+      "level": "Elementary",
+      "type": "1-Regular school",
+      "charterSchool": "2-No",
+      "magnentSchool": "†",
+      "locale": "33-Town: Remote",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "5th Grade"
+      },
+      "students": "782",
+      "fte": "52",
+      "pupilTeacherRatio": "15.04"
+   },
+   {
+      "name": "Enchanted Lake Elementary School",
+      "location": {
+         "state": {
+            "name": "Hawaii",
+            "abbr": "HI "
+         }
+      },
+      "district": "Hawaii Department of Education",
+      "level": "Elementary",
+      "type": "1-Regular school",
+      "charterSchool": "2-No",
+      "magnentSchool": "†",
+      "locale": "22-Suburb: Mid-size",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "6th Grade"
+      },
+      "students": "387",
+      "fte": "23",
+      "pupilTeacherRatio": "16.83"
+   },
+   {
+      "name": "Ernest Bowen Desilva Elementary School",
+      "location": {
+         "state": {
+            "name": "Hawaii",
+            "abbr": "HI "
+         }
+      },
+      "district": "Hawaii Department of Education",
+      "level": "Elementary",
+      "type": "1-Regular school",
+      "charterSchool": "2-No",
+      "magnentSchool": "†",
+      "locale": "33-Town: Remote",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "6th Grade"
+      },
+      "students": "487",
+      "fte": "23.5",
+      "pupilTeacherRatio": "20.72"
+   },
+   {
+      "name": "Ewa Beach Elementary School",
+      "location": {
+         "state": {
+            "name": "Hawaii",
+            "abbr": "HI "
+         }
+      },
+      "district": "Hawaii Department of Education",
+      "level": "Elementary",
+      "type": "1-Regular school",
+      "charterSchool": "2-No",
+      "magnentSchool": "†",
+      "locale": "21-Suburb: Large",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "6th Grade"
+      },
+      "students": "723",
+      "fte": "41",
+      "pupilTeacherRatio": "17.63"
+   },
+   {
+      "name": "Ewa Elementary School",
+      "location": {
+         "state": {
+            "name": "Hawaii",
+            "abbr": "HI "
+         }
+      },
+      "district": "Hawaii Department of Education",
+      "level": "Elementary",
+      "type": "1-Regular school",
+      "charterSchool": "2-No",
+      "magnentSchool": "†",
+      "locale": "21-Suburb: Large",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "6th Grade"
+      },
+      "students": "927",
+      "fte": "64",
+      "pupilTeacherRatio": "14.48"
+   },
+   {
+      "name": "Ewa Makai Middle School",
+      "location": {
+         "state": {
+            "name": "Hawaii",
+            "abbr": "HI "
+         }
+      },
+      "district": "Hawaii Department of Education",
+      "level": "Middle",
+      "type": "1-Regular school",
+      "charterSchool": "2-No",
+      "magnentSchool": "†",
+      "locale": "21-Suburb: Large",
+      "grades": {
+         "lowest": "6th Grade",
+         "highest": "8th Grade"
+      },
+      "students": "1390",
+      "fte": "74",
+      "pupilTeacherRatio": "18.78"
+   },
+   {
+      "name": "Governor Samuel Wilder King Intermediate School",
+      "location": {
+         "state": {
+            "name": "Hawaii",
+            "abbr": "HI "
+         }
+      },
+      "district": "Hawaii Department of Education",
+      "level": "Middle",
+      "type": "1-Regular school",
+      "charterSchool": "2-No",
+      "magnentSchool": "†",
+      "locale": "22-Suburb: Mid-size",
+      "grades": {
+         "lowest": "7th Grade",
+         "highest": "8th Grade"
+      },
+      "students": "629",
+      "fte": "42",
+      "pupilTeacherRatio": "14.98"
+   },
+   {
+      "name": "Governor Sanford B Dole Middle School",
+      "location": {
+         "state": {
+            "name": "Hawaii",
+            "abbr": "HI "
+         }
+      },
+      "district": "Hawaii Department of Education",
+      "level": "Middle",
+      "type": "1-Regular school",
+      "charterSchool": "2-No",
+      "magnentSchool": "†",
+      "locale": "11-City: Large",
+      "grades": {
+         "lowest": "6th Grade",
+         "highest": "8th Grade"
+      },
+      "students": "710",
+      "fte": "53.5",
+      "pupilTeacherRatio": "13.27"
+   },
+   {
+      "name": "Governor Wallace Rider Farrington High School",
+      "location": {
+         "state": {
+            "name": "Hawaii",
+            "abbr": "HI "
+         }
+      },
+      "district": "Hawaii Department of Education",
+      "level": "High",
+      "type": "1-Regular school",
+      "charterSchool": "2-No",
+      "magnentSchool": "†",
+      "locale": "11-City: Large",
+      "grades": {
+         "lowest": "9th Grade",
+         "highest": "12th Grade"
+      },
+      "students": "2396",
+      "fte": "138",
+      "pupilTeacherRatio": "17.36"
+   },
+   {
+      "name": "Gustav H Webling Elementary School",
+      "location": {
+         "state": {
+            "name": "Hawaii",
+            "abbr": "HI "
+         }
+      },
+      "district": "Hawaii Department of Education",
+      "level": "Elementary",
+      "type": "1-Regular school",
+      "charterSchool": "2-No",
+      "magnentSchool": "†",
+      "locale": "21-Suburb: Large",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "6th Grade"
+      },
+      "students": "432",
+      "fte": "25.5",
+      "pupilTeacherRatio": "16.94"
+   },
+   {
+      "name": "Haaheo Elementary School",
+      "location": {
+         "state": {
+            "name": "Hawaii",
+            "abbr": "HI "
+         }
+      },
+      "district": "Hawaii Department of Education",
+      "level": "Elementary",
+      "type": "1-Regular school",
+      "charterSchool": "2-No",
+      "magnentSchool": "†",
+      "locale": "33-Town: Remote",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "6th Grade"
+      },
+      "students": "195",
+      "fte": "13",
+      "pupilTeacherRatio": "15"
+   },
+   {
+      "name": "Hahaione Elementary School",
+      "location": {
+         "state": {
+            "name": "Hawaii",
+            "abbr": "HI "
+         }
+      },
+      "district": "Hawaii Department of Education",
+      "level": "Elementary",
+      "type": "1-Regular school",
+      "charterSchool": "2-No",
+      "magnentSchool": "†",
+      "locale": "21-Suburb: Large",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "5th Grade"
+      },
+      "students": "561",
+      "fte": "33.5",
+      "pupilTeacherRatio": "16.75"
+   },
+   {
+      "name": "Haiku Elementary School",
+      "location": {
+         "state": {
+            "name": "Hawaii",
+            "abbr": "HI "
+         }
+      },
+      "district": "Hawaii Department of Education",
+      "level": "Elementary",
+      "type": "1-Regular school",
+      "charterSchool": "2-No",
+      "magnentSchool": "†",
+      "locale": "31-Town: Fringe",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "5th Grade"
+      },
+      "students": "441",
+      "fte": "27",
+      "pupilTeacherRatio": "16.33"
+   },
+   {
+      "name": "Hakipuu Learning Center",
+      "location": {
+         "state": {
+            "name": "Hawaii",
+            "abbr": "HI "
+         }
+      },
+      "district": "Hawaii Department of Education",
+      "level": "Other",
+      "type": "1-Regular school",
+      "charterSchool": "1-Yes",
+      "magnentSchool": "†",
+      "locale": "22-Suburb: Mid-size",
+      "grades": {
+         "lowest": "4th Grade",
+         "highest": "12th Grade"
+      },
+      "students": "55",
+      "fte": "5",
+      "pupilTeacherRatio": "11"
+   },
+   {
+      "name": "Halau Ku Mana - a New Century Pcs",
+      "location": {
+         "state": {
+            "name": "Hawaii",
+            "abbr": "HI "
+         }
+      },
+      "district": "Hawaii Department of Education",
+      "level": "Other",
+      "type": "1-Regular school",
+      "charterSchool": "1-Yes",
+      "magnentSchool": "†",
+      "locale": "11-City: Large",
+      "grades": {
+         "lowest": "4th Grade",
+         "highest": "12th Grade"
+      },
+      "students": "131",
+      "fte": "17",
+      "pupilTeacherRatio": "7.71"
+   },
+   {
+      "name": "Haleiwa Elementary School",
+      "location": {
+         "state": {
+            "name": "Hawaii",
+            "abbr": "HI "
+         }
+      },
+      "district": "Hawaii Department of Education",
+      "level": "Elementary",
+      "type": "1-Regular school",
+      "charterSchool": "2-No",
+      "magnentSchool": "†",
+      "locale": "31-Town: Fringe",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "6th Grade"
+      },
+      "students": "218",
+      "fte": "14",
+      "pupilTeacherRatio": "15.57"
+   },
+   {
+      "name": "Hana High & Elementary School",
+      "location": {
+         "state": {
+            "name": "Hawaii",
+            "abbr": "HI "
+         }
+      },
+      "district": "Hawaii Department of Education",
+      "level": "Other",
+      "type": "1-Regular school",
+      "charterSchool": "2-No",
+      "magnentSchool": "†",
+      "locale": "43-Rural: Remote",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "364",
+      "fte": "31.5",
+      "pupilTeacherRatio": "11.56"
+   },
+   {
+      "name": "Hanalei Elementary School",
+      "location": {
+         "state": {
+            "name": "Hawaii",
+            "abbr": "HI "
+         }
+      },
+      "district": "Hawaii Department of Education",
+      "level": "Elementary",
+      "type": "1-Regular school",
+      "charterSchool": "2-No",
+      "magnentSchool": "†",
+      "locale": "33-Town: Remote",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "6th Grade"
+      },
+      "students": "231",
+      "fte": "16",
+      "pupilTeacherRatio": "14.44"
+   },
+   {
+      "name": "Hauula Elementary School",
+      "location": {
+         "state": {
+            "name": "Hawaii",
+            "abbr": "HI "
+         }
+      },
+      "district": "Hawaii Department of Education",
+      "level": "Elementary",
+      "type": "1-Regular school",
+      "charterSchool": "2-No",
+      "magnentSchool": "†",
+      "locale": "31-Town: Fringe",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "6th Grade"
+      },
+      "students": "382",
+      "fte": "27",
+      "pupilTeacherRatio": "14.15"
+   },
+   {
+      "name": "Hawaii Academy of Arts & Science Pcs",
+      "location": {
+         "state": {
+            "name": "Hawaii",
+            "abbr": "HI "
+         }
+      },
+      "district": "Hawaii Department of Education",
+      "level": "Other",
+      "type": "1-Regular school",
+      "charterSchool": "1-Yes",
+      "magnentSchool": "†",
+      "locale": "41-Rural: Fringe",
+      "grades": {
+         "lowest": "Kindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "710",
+      "fte": "39",
+      "pupilTeacherRatio": "18.21"
+   },
+   {
+      "name": "Hawaii School for the Deaf and Blind",
+      "location": {
+         "state": {
+            "name": "Hawaii",
+            "abbr": "HI "
+         }
+      },
+      "district": "Hawaii Department of Education",
+      "level": "Other",
+      "type": "2-Special education school",
+      "charterSchool": "2-No",
+      "magnentSchool": "†",
+      "locale": "11-City: Large",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "64",
+      "fte": "17",
+      "pupilTeacherRatio": "3.76"
+   },
+   {
+      "name": "Hawaii Technology Academy - Pcs",
+      "location": {
+         "state": {
+            "name": "Hawaii",
+            "abbr": "HI "
+         }
+      },
+      "district": "Hawaii Department of Education",
+      "level": "Other",
+      "type": "1-Regular school",
+      "charterSchool": "1-Yes",
+      "magnentSchool": "†",
+      "locale": "21-Suburb: Large",
+      "grades": {
+         "lowest": "Kindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "1285",
+      "fte": "73.5",
+      "pupilTeacherRatio": "17.48"
+   },
+   {
+      "name": "Heeia Elementary School",
+      "location": {
+         "state": {
+            "name": "Hawaii",
+            "abbr": "HI "
+         }
+      },
+      "district": "Hawaii Department of Education",
+      "level": "Elementary",
+      "type": "1-Regular school",
+      "charterSchool": "2-No",
+      "magnentSchool": "†",
+      "locale": "22-Suburb: Mid-size",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "6th Grade"
+      },
+      "students": "427",
+      "fte": "31",
+      "pupilTeacherRatio": "13.77"
+   },
+   {
+      "name": "Helemano Elementary School",
+      "location": {
+         "state": {
+            "name": "Hawaii",
+            "abbr": "HI "
+         }
+      },
+      "district": "Hawaii Department of Education",
+      "level": "Elementary",
+      "type": "1-Regular school",
+      "charterSchool": "2-No",
+      "magnentSchool": "†",
+      "locale": "21-Suburb: Large",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "5th Grade"
+      },
+      "students": "526",
+      "fte": "39",
+      "pupilTeacherRatio": "13.49"
+   },
+   {
+      "name": "Henry J Kaiser High School",
+      "location": {
+         "state": {
+            "name": "Hawaii",
+            "abbr": "HI "
+         }
+      },
+      "district": "Hawaii Department of Education",
+      "level": "High",
+      "type": "1-Regular school",
+      "charterSchool": "2-No",
+      "magnentSchool": "†",
+      "locale": "21-Suburb: Large",
+      "grades": {
+         "lowest": "9th Grade",
+         "highest": "12th Grade"
+      },
+      "students": "1175",
+      "fte": "67",
+      "pupilTeacherRatio": "17.54"
+   },
+   {
+      "name": "Henry Perrine Baldwin High School",
+      "location": {
+         "state": {
+            "name": "Hawaii",
+            "abbr": "HI "
+         }
+      },
+      "district": "Hawaii Department of Education",
+      "level": "High",
+      "type": "1-Regular school",
+      "charterSchool": "2-No",
+      "magnentSchool": "†",
+      "locale": "13-City: Small",
+      "grades": {
+         "lowest": "9th Grade",
+         "highest": "12th Grade"
+      },
+      "students": "1304",
+      "fte": "82",
+      "pupilTeacherRatio": "15.9"
+   },
+   {
+      "name": "Highlands Intermediate School",
+      "location": {
+         "state": {
+            "name": "Hawaii",
+            "abbr": "HI "
+         }
+      },
+      "district": "Hawaii Department of Education",
+      "level": "Middle",
+      "type": "1-Regular school",
+      "charterSchool": "2-No",
+      "magnentSchool": "†",
+      "locale": "21-Suburb: Large",
+      "grades": {
+         "lowest": "7th Grade",
+         "highest": "8th Grade"
+      },
+      "students": "920",
+      "fte": "58",
+      "pupilTeacherRatio": "15.86"
+   },
+   {
+      "name": "Hilo High School",
+      "location": {
+         "state": {
+            "name": "Hawaii",
+            "abbr": "HI "
+         }
+      },
+      "district": "Hawaii Department of Education",
+      "level": "High",
+      "type": "1-Regular school",
+      "charterSchool": "2-No",
+      "magnentSchool": "†",
+      "locale": "33-Town: Remote",
+      "grades": {
+         "lowest": "9th Grade",
+         "highest": "12th Grade"
+      },
+      "students": "1219",
+      "fte": "79",
+      "pupilTeacherRatio": "15.43"
+   },
+   {
+      "name": "Hilo Intermediate School",
+      "location": {
+         "state": {
+            "name": "Hawaii",
+            "abbr": "HI "
+         }
+      },
+      "district": "Hawaii Department of Education",
+      "level": "Middle",
+      "type": "1-Regular school",
+      "charterSchool": "2-No",
+      "magnentSchool": "†",
+      "locale": "33-Town: Remote",
+      "grades": {
+         "lowest": "7th Grade",
+         "highest": "8th Grade"
+      },
+      "students": "536",
+      "fte": "39",
+      "pupilTeacherRatio": "13.74"
+   },
+   {
+      "name": "Hilo Union Elementary School",
+      "location": {
+         "state": {
+            "name": "Hawaii",
+            "abbr": "HI "
+         }
+      },
+      "district": "Hawaii Department of Education",
+      "level": "Elementary",
+      "type": "1-Regular school",
+      "charterSchool": "2-No",
+      "magnentSchool": "†",
+      "locale": "33-Town: Remote",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "6th Grade"
+      },
+      "students": "426",
+      "fte": "34.5",
+      "pupilTeacherRatio": "12.35"
+   },
+   {
+      "name": "Hokulani Elementary School",
+      "location": {
+         "state": {
+            "name": "Hawaii",
+            "abbr": "HI "
+         }
+      },
+      "district": "Hawaii Department of Education",
+      "level": "Elementary",
+      "type": "1-Regular school",
+      "charterSchool": "2-No",
+      "magnentSchool": "†",
+      "locale": "11-City: Large",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "5th Grade"
+      },
+      "students": "329",
+      "fte": "23",
+      "pupilTeacherRatio": "14.3"
+   },
+   {
+      "name": "Holomua Elementary School",
+      "location": {
+         "state": {
+            "name": "Hawaii",
+            "abbr": "HI "
+         }
+      },
+      "district": "Hawaii Department of Education",
+      "level": "Elementary",
+      "type": "1-Regular school",
+      "charterSchool": "2-No",
+      "magnentSchool": "†",
+      "locale": "21-Suburb: Large",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "6th Grade"
+      },
+      "students": "1142",
+      "fte": "76",
+      "pupilTeacherRatio": "15.03"
+   },
+   {
+      "name": "Holualoa Elementary School",
+      "location": {
+         "state": {
+            "name": "Hawaii",
+            "abbr": "HI "
+         }
+      },
+      "district": "Hawaii Department of Education",
+      "level": "Elementary",
+      "type": "1-Regular school",
+      "charterSchool": "2-No",
+      "magnentSchool": "†",
+      "locale": "41-Rural: Fringe",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "5th Grade"
+      },
+      "students": "520",
+      "fte": "29.5",
+      "pupilTeacherRatio": "17.63"
+   },
+   {
+      "name": "Honaunau Elementary School",
+      "location": {
+         "state": {
+            "name": "Hawaii",
+            "abbr": "HI "
+         }
+      },
+      "district": "Hawaii Department of Education",
+      "level": "Elementary",
+      "type": "1-Regular school",
+      "charterSchool": "2-No",
+      "magnentSchool": "†",
+      "locale": "33-Town: Remote",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "5th Grade"
+      },
+      "students": "150",
+      "fte": "10",
+      "pupilTeacherRatio": "15"
+   },
+   {
+      "name": "Honokaa Elementary School",
+      "location": {
+         "state": {
+            "name": "Hawaii",
+            "abbr": "HI "
+         }
+      },
+      "district": "Hawaii Department of Education",
+      "level": "Elementary",
+      "type": "1-Regular school",
+      "charterSchool": "2-No",
+      "magnentSchool": "†",
+      "locale": "33-Town: Remote",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "6th Grade"
+      },
+      "students": "370",
+      "fte": "23",
+      "pupilTeacherRatio": "16.09"
+   },
+   {
+      "name": "Honokaa High & Intermediate School",
+      "location": {
+         "state": {
+            "name": "Hawaii",
+            "abbr": "HI "
+         }
+      },
+      "district": "Hawaii Department of Education",
+      "level": "High",
+      "type": "1-Regular school",
+      "charterSchool": "2-No",
+      "magnentSchool": "†",
+      "locale": "33-Town: Remote",
+      "grades": {
+         "lowest": "7th Grade",
+         "highest": "12th Grade"
+      },
+      "students": "609",
+      "fte": "40.5",
+      "pupilTeacherRatio": "15.04"
+   },
+   {
+      "name": "Honouliuli Middle School",
+      "location": {
+         "state": {
+            "name": "HAWAII",
+            "abbr": "HI "
+         }
+      },
+      "district": "Hawaii Department of Education",
+      "level": "Not Reported",
+      "type": "1-Regular school",
+      "charterSchool": "2-No",
+      "magnentSchool": "†",
+      "locale": "41-Rural: Fringe",
+      "grades": {
+         "lowest": "–",
+         "highest": "–"
+      },
+      "students": "†",
+      "fte": "†",
+      "pupilTeacherRatio": "†"
+   },
+   {
+      "name": "Honowai Elementary School",
+      "location": {
+         "state": {
+            "name": "Hawaii",
+            "abbr": "HI "
+         }
+      },
+      "district": "Hawaii Department of Education",
+      "level": "Elementary",
+      "type": "1-Regular school",
+      "charterSchool": "2-No",
+      "magnentSchool": "†",
+      "locale": "21-Suburb: Large",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "6th Grade"
+      },
+      "students": "682",
+      "fte": "45",
+      "pupilTeacherRatio": "15.16"
+   },
+   {
+      "name": "Hookele Elementary School",
+      "location": {
+         "state": {
+            "name": "HAWAII",
+            "abbr": "HI "
+         }
+      },
+      "district": "Hawaii Department of Education",
+      "level": "Elementary",
+      "type": "1-Regular school",
+      "charterSchool": "2-No",
+      "magnentSchool": "†",
+      "locale": "21-Suburb: Large",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "5th Grade"
+      },
+      "students": "857",
+      "fte": "49.5",
+      "pupilTeacherRatio": "17.31"
+   },
+   {
+      "name": "Hookena Elementary School",
+      "location": {
+         "state": {
+            "name": "Hawaii",
+            "abbr": "HI "
+         }
+      },
+      "district": "Hawaii Department of Education",
+      "level": "Elementary",
+      "type": "1-Regular school",
+      "charterSchool": "2-No",
+      "magnentSchool": "†",
+      "locale": "42-Rural: Distant",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "5th Grade"
+      },
+      "students": "111",
+      "fte": "7",
+      "pupilTeacherRatio": "15.86"
+   },
+   {
+      "name": "Iao Intermediate School",
+      "location": {
+         "state": {
+            "name": "Hawaii",
+            "abbr": "HI "
+         }
+      },
+      "district": "Hawaii Department of Education",
+      "level": "Middle",
+      "type": "1-Regular school",
+      "charterSchool": "2-No",
+      "magnentSchool": "†",
+      "locale": "13-City: Small",
+      "grades": {
+         "lowest": "6th Grade",
+         "highest": "8th Grade"
+      },
+      "students": "1004",
+      "fte": "67",
+      "pupilTeacherRatio": "14.99"
+   },
+   {
+      "name": "Iliahi Elementary School",
+      "location": {
+         "state": {
+            "name": "Hawaii",
+            "abbr": "HI "
+         }
+      },
+      "district": "Hawaii Department of Education",
+      "level": "Elementary",
+      "type": "1-Regular school",
+      "charterSchool": "2-No",
+      "magnentSchool": "†",
+      "locale": "21-Suburb: Large",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "5th Grade"
+      },
+      "students": "378",
+      "fte": "26",
+      "pupilTeacherRatio": "14.54"
+   },
+   {
+      "name": "Ilima Intermediate School",
+      "location": {
+         "state": {
+            "name": "Hawaii",
+            "abbr": "HI "
+         }
+      },
+      "district": "Hawaii Department of Education",
+      "level": "Middle",
+      "type": "1-Regular school",
+      "charterSchool": "2-No",
+      "magnentSchool": "†",
+      "locale": "21-Suburb: Large",
+      "grades": {
+         "lowest": "7th Grade",
+         "highest": "8th Grade"
+      },
+      "students": "855",
+      "fte": "51",
+      "pupilTeacherRatio": "16.76"
+   },
+   {
+      "name": "Innovations - Pcs",
+      "location": {
+         "state": {
+            "name": "Hawaii",
+            "abbr": "HI "
+         }
+      },
+      "district": "Hawaii Department of Education",
+      "level": "Elementary",
+      "type": "1-Regular school",
+      "charterSchool": "1-Yes",
+      "magnentSchool": "†",
+      "locale": "41-Rural: Fringe",
+      "grades": {
+         "lowest": "Kindergarten",
+         "highest": "8th Grade"
+      },
+      "students": "242",
+      "fte": "13",
+      "pupilTeacherRatio": "18.62"
+   },
+   {
+      "name": "Iroquois Point Elementary School",
+      "location": {
+         "state": {
+            "name": "Hawaii",
+            "abbr": "HI "
+         }
+      },
+      "district": "Hawaii Department of Education",
+      "level": "Elementary",
+      "type": "1-Regular school",
+      "charterSchool": "2-No",
+      "magnentSchool": "†",
+      "locale": "21-Suburb: Large",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "6th Grade"
+      },
+      "students": "705",
+      "fte": "43",
+      "pupilTeacherRatio": "16.4"
+   },
+   {
+      "name": "James Campbell High School",
+      "location": {
+         "state": {
+            "name": "Hawaii",
+            "abbr": "HI "
+         }
+      },
+      "district": "Hawaii Department of Education",
+      "level": "High",
+      "type": "1-Regular school",
+      "charterSchool": "2-No",
+      "magnentSchool": "†",
+      "locale": "21-Suburb: Large",
+      "grades": {
+         "lowest": "9th Grade",
+         "highest": "12th Grade"
+      },
+      "students": "3077",
+      "fte": "184",
+      "pupilTeacherRatio": "16.72"
+   },
+   {
+      "name": "Ka Umeke Kaeo - Pcs",
+      "location": {
+         "state": {
+            "name": "Hawaii",
+            "abbr": "HI "
+         }
+      },
+      "district": "Hawaii Department of Education",
+      "level": "Other",
+      "type": "1-Regular school",
+      "charterSchool": "1-Yes",
+      "magnentSchool": "†",
+      "locale": "33-Town: Remote",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "11th Grade"
+      },
+      "students": "213",
+      "fte": "19",
+      "pupilTeacherRatio": "11.21"
+   },
+   {
+      "name": "Ka Waihona O Ka Naauao - New Century Pcs",
+      "location": {
+         "state": {
+            "name": "Hawaii",
+            "abbr": "HI "
+         }
+      },
+      "district": "Hawaii Department of Education",
+      "level": "Elementary",
+      "type": "1-Regular school",
+      "charterSchool": "1-Yes",
+      "magnentSchool": "†",
+      "locale": "21-Suburb: Large",
+      "grades": {
+         "lowest": "Kindergarten",
+         "highest": "8th Grade"
+      },
+      "students": "694",
+      "fte": "54",
+      "pupilTeacherRatio": "12.85"
+   },
+   {
+      "name": "Ka'ohao Public Charter School",
+      "location": {
+         "state": {
+            "name": "Hawaii",
+            "abbr": "HI "
+         }
+      },
+      "district": "Hawaii Department of Education",
+      "level": "Elementary",
+      "type": "1-Regular school",
+      "charterSchool": "1-Yes",
+      "magnentSchool": "†",
+      "locale": "22-Suburb: Mid-size",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "6th Grade"
+      },
+      "students": "341",
+      "fte": "22.6",
+      "pupilTeacherRatio": "15.09"
+   },
+   {
+      "name": "Kaaawa Elementary School",
+      "location": {
+         "state": {
+            "name": "Hawaii",
+            "abbr": "HI "
+         }
+      },
+      "district": "Hawaii Department of Education",
+      "level": "Elementary",
+      "type": "1-Regular school",
+      "charterSchool": "2-No",
+      "magnentSchool": "†",
+      "locale": "31-Town: Fringe",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "6th Grade"
+      },
+      "students": "122",
+      "fte": "9.5",
+      "pupilTeacherRatio": "12.84"
+   },
+   {
+      "name": "Kaala Elementary School",
+      "location": {
+         "state": {
+            "name": "Hawaii",
+            "abbr": "HI "
+         }
+      },
+      "district": "Hawaii Department of Education",
+      "level": "Elementary",
+      "type": "1-Regular school",
+      "charterSchool": "2-No",
+      "magnentSchool": "†",
+      "locale": "21-Suburb: Large",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "5th Grade"
+      },
+      "students": "441",
+      "fte": "33",
+      "pupilTeacherRatio": "13.36"
+   },
+   {
+      "name": "Kaelepulu Elementary School",
+      "location": {
+         "state": {
+            "name": "Hawaii",
+            "abbr": "HI "
+         }
+      },
+      "district": "Hawaii Department of Education",
+      "level": "Elementary",
+      "type": "1-Regular school",
+      "charterSchool": "2-No",
+      "magnentSchool": "†",
+      "locale": "22-Suburb: Mid-size",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "6th Grade"
+      },
+      "students": "212",
+      "fte": "13",
+      "pupilTeacherRatio": "16.31"
+   },
+   {
+      "name": "Kaewai Elementary School",
+      "location": {
+         "state": {
+            "name": "Hawaii",
+            "abbr": "HI "
+         }
+      },
+      "district": "Hawaii Department of Education",
+      "level": "Elementary",
+      "type": "1-Regular school",
+      "charterSchool": "2-No",
+      "magnentSchool": "†",
+      "locale": "11-City: Large",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "5th Grade"
+      },
+      "students": "301",
+      "fte": "24",
+      "pupilTeacherRatio": "12.54"
+   },
+   {
+      "name": "Kahakai Elementary School",
+      "location": {
+         "state": {
+            "name": "Hawaii",
+            "abbr": "HI "
+         }
+      },
+      "district": "Hawaii Department of Education",
+      "level": "Elementary",
+      "type": "1-Regular school",
+      "charterSchool": "2-No",
+      "magnentSchool": "†",
+      "locale": "33-Town: Remote",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "5th Grade"
+      },
+      "students": "730",
+      "fte": "45",
+      "pupilTeacherRatio": "16.22"
+   },
+   {
+      "name": "Kahala Elementary School",
+      "location": {
+         "state": {
+            "name": "Hawaii",
+            "abbr": "HI "
+         }
+      },
+      "district": "Hawaii Department of Education",
+      "level": "Elementary",
+      "type": "1-Regular school",
+      "charterSchool": "2-No",
+      "magnentSchool": "†",
+      "locale": "11-City: Large",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "5th Grade"
+      },
+      "students": "404",
+      "fte": "27",
+      "pupilTeacherRatio": "14.96"
+   },
+   {
+      "name": "Kahaluu Elementary School",
+      "location": {
+         "state": {
+            "name": "Hawaii",
+            "abbr": "HI "
+         }
+      },
+      "district": "Hawaii Department of Education",
+      "level": "Elementary",
+      "type": "1-Regular school",
+      "charterSchool": "2-No",
+      "magnentSchool": "†",
+      "locale": "22-Suburb: Mid-size",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "6th Grade"
+      },
+      "students": "285",
+      "fte": "22",
+      "pupilTeacherRatio": "12.95"
+   },
+   {
+      "name": "Kahuku Elementary School",
+      "location": {
+         "state": {
+            "name": "Hawaii",
+            "abbr": "HI "
+         }
+      },
+      "district": "Hawaii Department of Education",
+      "level": "Elementary",
+      "type": "1-Regular school",
+      "charterSchool": "2-No",
+      "magnentSchool": "†",
+      "locale": "31-Town: Fringe",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "6th Grade"
+      },
+      "students": "406",
+      "fte": "28",
+      "pupilTeacherRatio": "14.5"
+   },
+   {
+      "name": "Kahuku High & Intermediate School",
+      "location": {
+         "state": {
+            "name": "Hawaii",
+            "abbr": "HI "
+         }
+      },
+      "district": "Hawaii Department of Education",
+      "level": "High",
+      "type": "1-Regular school",
+      "charterSchool": "2-No",
+      "magnentSchool": "†",
+      "locale": "31-Town: Fringe",
+      "grades": {
+         "lowest": "7th Grade",
+         "highest": "12th Grade"
+      },
+      "students": "1351",
+      "fte": "97.5",
+      "pupilTeacherRatio": "13.86"
+   },
+   {
+      "name": "Kahului Elementary School",
+      "location": {
+         "state": {
+            "name": "Hawaii",
+            "abbr": "HI "
+         }
+      },
+      "district": "Hawaii Department of Education",
+      "level": "Elementary",
+      "type": "1-Regular school",
+      "charterSchool": "2-No",
+      "magnentSchool": "†",
+      "locale": "13-City: Small",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "5th Grade"
+      },
+      "students": "948",
+      "fte": "66",
+      "pupilTeacherRatio": "14.36"
+   },
+   {
+      "name": "Kailua Elementary School",
+      "location": {
+         "state": {
+            "name": "Hawaii",
+            "abbr": "HI "
+         }
+      },
+      "district": "Hawaii Department of Education",
+      "level": "Elementary",
+      "type": "1-Regular school",
+      "charterSchool": "2-No",
+      "magnentSchool": "†",
+      "locale": "22-Suburb: Mid-size",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "6th Grade"
+      },
+      "students": "353",
+      "fte": "23",
+      "pupilTeacherRatio": "15.35"
+   },
+   {
+      "name": "Kailua High School",
+      "location": {
+         "state": {
+            "name": "Hawaii",
+            "abbr": "HI "
+         }
+      },
+      "district": "Hawaii Department of Education",
+      "level": "High",
+      "type": "1-Regular school",
+      "charterSchool": "2-No",
+      "magnentSchool": "†",
+      "locale": "22-Suburb: Mid-size",
+      "grades": {
+         "lowest": "9th Grade",
+         "highest": "12th Grade"
+      },
+      "students": "802",
+      "fte": "50.5",
+      "pupilTeacherRatio": "15.88"
+   },
+   {
+      "name": "Kailua Intermediate School",
+      "location": {
+         "state": {
+            "name": "Hawaii",
+            "abbr": "HI "
+         }
+      },
+      "district": "Hawaii Department of Education",
+      "level": "Middle",
+      "type": "1-Regular school",
+      "charterSchool": "2-No",
+      "magnentSchool": "†",
+      "locale": "22-Suburb: Mid-size",
+      "grades": {
+         "lowest": "7th Grade",
+         "highest": "8th Grade"
+      },
+      "students": "776",
+      "fte": "52",
+      "pupilTeacherRatio": "14.92"
+   },
+   {
+      "name": "Kaimiloa Elementary School",
+      "location": {
+         "state": {
+            "name": "Hawaii",
+            "abbr": "HI "
+         }
+      },
+      "district": "Hawaii Department of Education",
+      "level": "Elementary",
+      "type": "1-Regular school",
+      "charterSchool": "2-No",
+      "magnentSchool": "†",
+      "locale": "21-Suburb: Large",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "6th Grade"
+      },
+      "students": "652",
+      "fte": "43.5",
+      "pupilTeacherRatio": "14.99"
+   },
+   {
+      "name": "Kaimuki High School",
+      "location": {
+         "state": {
+            "name": "Hawaii",
+            "abbr": "HI "
+         }
+      },
+      "district": "Hawaii Department of Education",
+      "level": "High",
+      "type": "1-Regular school",
+      "charterSchool": "2-No",
+      "magnentSchool": "†",
+      "locale": "11-City: Large",
+      "grades": {
+         "lowest": "9th Grade",
+         "highest": "12th Grade"
+      },
+      "students": "688",
+      "fte": "52",
+      "pupilTeacherRatio": "13.23"
+   },
+   {
+      "name": "Kaimuki Middle School",
+      "location": {
+         "state": {
+            "name": "Hawaii",
+            "abbr": "HI "
+         }
+      },
+      "district": "Hawaii Department of Education",
+      "level": "Middle",
+      "type": "1-Regular school",
+      "charterSchool": "2-No",
+      "magnentSchool": "†",
+      "locale": "11-City: Large",
+      "grades": {
+         "lowest": "6th Grade",
+         "highest": "8th Grade"
+      },
+      "students": "1059",
+      "fte": "57.5",
+      "pupilTeacherRatio": "18.42"
+   },
+   {
+      "name": "Kainalu Elementary School",
+      "location": {
+         "state": {
+            "name": "Hawaii",
+            "abbr": "HI "
+         }
+      },
+      "district": "Hawaii Department of Education",
+      "level": "Elementary",
+      "type": "1-Regular school",
+      "charterSchool": "2-No",
+      "magnentSchool": "†",
+      "locale": "22-Suburb: Mid-size",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "6th Grade"
+      },
+      "students": "442",
+      "fte": "29",
+      "pupilTeacherRatio": "15.24"
+   },
+   {
+      "name": "Kalaheo Elementary School",
+      "location": {
+         "state": {
+            "name": "Hawaii",
+            "abbr": "HI "
+         }
+      },
+      "district": "Hawaii Department of Education",
+      "level": "Elementary",
+      "type": "1-Regular school",
+      "charterSchool": "2-No",
+      "magnentSchool": "†",
+      "locale": "33-Town: Remote",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "5th Grade"
+      },
+      "students": "415",
+      "fte": "27",
+      "pupilTeacherRatio": "15.37"
+   },
+   {
+      "name": "Kalaheo High School",
+      "location": {
+         "state": {
+            "name": "Hawaii",
+            "abbr": "HI "
+         }
+      },
+      "district": "Hawaii Department of Education",
+      "level": "High",
+      "type": "1-Regular school",
+      "charterSchool": "2-No",
+      "magnentSchool": "†",
+      "locale": "22-Suburb: Mid-size",
+      "grades": {
+         "lowest": "9th Grade",
+         "highest": "12th Grade"
+      },
+      "students": "813",
+      "fte": "48.5",
+      "pupilTeacherRatio": "16.76"
+   },
+   {
+      "name": "Kalani High School",
+      "location": {
+         "state": {
+            "name": "Hawaii",
+            "abbr": "HI "
+         }
+      },
+      "district": "Hawaii Department of Education",
+      "level": "High",
+      "type": "1-Regular school",
+      "charterSchool": "2-No",
+      "magnentSchool": "†",
+      "locale": "21-Suburb: Large",
+      "grades": {
+         "lowest": "9th Grade",
+         "highest": "12th Grade"
+      },
+      "students": "1465",
+      "fte": "83",
+      "pupilTeacherRatio": "17.65"
+   },
+   {
+      "name": "Kaleiopuu Elementary School",
+      "location": {
+         "state": {
+            "name": "Hawaii",
+            "abbr": "HI "
+         }
+      },
+      "district": "Hawaii Department of Education",
+      "level": "Elementary",
+      "type": "1-Regular school",
+      "charterSchool": "2-No",
+      "magnentSchool": "†",
+      "locale": "21-Suburb: Large",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "6th Grade"
+      },
+      "students": "879",
+      "fte": "53",
+      "pupilTeacherRatio": "16.58"
+   },
+   {
+      "name": "Kalihi Elementary School",
+      "location": {
+         "state": {
+            "name": "Hawaii",
+            "abbr": "HI "
+         }
+      },
+      "district": "Hawaii Department of Education",
+      "level": "Elementary",
+      "type": "1-Regular school",
+      "charterSchool": "2-No",
+      "magnentSchool": "†",
+      "locale": "41-Rural: Fringe",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "5th Grade"
+      },
+      "students": "216",
+      "fte": "20",
+      "pupilTeacherRatio": "10.8"
+   },
+   {
+      "name": "Kalihi Kai Elementary School",
+      "location": {
+         "state": {
+            "name": "Hawaii",
+            "abbr": "HI "
+         }
+      },
+      "district": "Hawaii Department of Education",
+      "level": "Elementary",
+      "type": "1-Regular school",
+      "charterSchool": "2-No",
+      "magnentSchool": "†",
+      "locale": "11-City: Large",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "5th Grade"
+      },
+      "students": "561",
+      "fte": "42",
+      "pupilTeacherRatio": "13.36"
+   },
+   {
+      "name": "Kalihi Uka Elementary School",
+      "location": {
+         "state": {
+            "name": "Hawaii",
+            "abbr": "HI "
+         }
+      },
+      "district": "Hawaii Department of Education",
+      "level": "Elementary",
+      "type": "1-Regular school",
+      "charterSchool": "2-No",
+      "magnentSchool": "†",
+      "locale": "11-City: Large",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "5th Grade"
+      },
+      "students": "267",
+      "fte": "15.5",
+      "pupilTeacherRatio": "17.23"
+   },
+   {
+      "name": "Kalihi Waena Elementary School",
+      "location": {
+         "state": {
+            "name": "Hawaii",
+            "abbr": "HI "
+         }
+      },
+      "district": "Hawaii Department of Education",
+      "level": "Elementary",
+      "type": "1-Regular school",
+      "charterSchool": "2-No",
+      "magnentSchool": "†",
+      "locale": "11-City: Large",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "5th Grade"
+      },
+      "students": "505",
+      "fte": "34",
+      "pupilTeacherRatio": "14.85"
+   },
+   {
+      "name": "Kamaile Academy Pcs",
+      "location": {
+         "state": {
+            "name": "Hawaii",
+            "abbr": "HI "
+         }
+      },
+      "district": "Hawaii Department of Education",
+      "level": "Other",
+      "type": "1-Regular school",
+      "charterSchool": "1-Yes",
+      "magnentSchool": "†",
+      "locale": "41-Rural: Fringe",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "889",
+      "fte": "68",
+      "pupilTeacherRatio": "13.07"
+   },
+   {
+      "name": "Kamalani Academy",
+      "location": {
+         "state": {
+            "name": "HAWAII",
+            "abbr": "HI "
+         }
+      },
+      "district": "Hawaii Department of Education",
+      "level": "Elementary",
+      "type": "1-Regular school",
+      "charterSchool": "1-Yes",
+      "magnentSchool": "†",
+      "locale": "21-Suburb: Large",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "8th Grade"
+      },
+      "students": "207",
+      "fte": "17.5",
+      "pupilTeacherRatio": "11.83"
+   },
+   {
+      "name": "Kamalii Elementary School",
+      "location": {
+         "state": {
+            "name": "Hawaii",
+            "abbr": "HI "
+         }
+      },
+      "district": "Hawaii Department of Education",
+      "level": "Elementary",
+      "type": "1-Regular school",
+      "charterSchool": "2-No",
+      "magnentSchool": "†",
+      "locale": "31-Town: Fringe",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "5th Grade"
+      },
+      "students": "488",
+      "fte": "32",
+      "pupilTeacherRatio": "15.25"
+   },
+   {
+      "name": "Kamiloiki Elementary School",
+      "location": {
+         "state": {
+            "name": "Hawaii",
+            "abbr": "HI "
+         }
+      },
+      "district": "Hawaii Department of Education",
+      "level": "Elementary",
+      "type": "1-Regular school",
+      "charterSchool": "2-No",
+      "magnentSchool": "†",
+      "locale": "21-Suburb: Large",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "5th Grade"
+      },
+      "students": "377",
+      "fte": "25.5",
+      "pupilTeacherRatio": "14.78"
+   },
+   {
+      "name": "Kaneohe Elementary School",
+      "location": {
+         "state": {
+            "name": "Hawaii",
+            "abbr": "HI "
+         }
+      },
+      "district": "Hawaii Department of Education",
+      "level": "Elementary",
+      "type": "1-Regular school",
+      "charterSchool": "2-No",
+      "magnentSchool": "†",
+      "locale": "22-Suburb: Mid-size",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "6th Grade"
+      },
+      "students": "642",
+      "fte": "39",
+      "pupilTeacherRatio": "16.46"
+   },
+   {
+      "name": "Kanoelani Elementary School",
+      "location": {
+         "state": {
+            "name": "Hawaii",
+            "abbr": "HI "
+         }
+      },
+      "district": "Hawaii Department of Education",
+      "level": "Elementary",
+      "type": "1-Regular school",
+      "charterSchool": "2-No",
+      "magnentSchool": "†",
+      "locale": "21-Suburb: Large",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "6th Grade"
+      },
+      "students": "779",
+      "fte": "51",
+      "pupilTeacherRatio": "15.27"
+   },
+   {
+      "name": "Kanu O Ka Aina - New Century Pcs",
+      "location": {
+         "state": {
+            "name": "Hawaii",
+            "abbr": "HI "
+         }
+      },
+      "district": "Hawaii Department of Education",
+      "level": "Other",
+      "type": "1-Regular school",
+      "charterSchool": "1-Yes",
+      "magnentSchool": "†",
+      "locale": "41-Rural: Fringe",
+      "grades": {
+         "lowest": "Kindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "486",
+      "fte": "32",
+      "pupilTeacherRatio": "15.19"
+   },
+   {
+      "name": "Kanuikapono Learning Center",
+      "location": {
+         "state": {
+            "name": "Hawaii",
+            "abbr": "HI "
+         }
+      },
+      "district": "Hawaii Department of Education",
+      "level": "Other",
+      "type": "1-Regular school",
+      "charterSchool": "1-Yes",
+      "magnentSchool": "†",
+      "locale": "33-Town: Remote",
+      "grades": {
+         "lowest": "Kindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "225",
+      "fte": "15",
+      "pupilTeacherRatio": "15"
+   },
+   {
+      "name": "Kapaa Elementary School",
+      "location": {
+         "state": {
+            "name": "Hawaii",
+            "abbr": "HI "
+         }
+      },
+      "district": "Hawaii Department of Education",
+      "level": "Elementary",
+      "type": "1-Regular school",
+      "charterSchool": "2-No",
+      "magnentSchool": "†",
+      "locale": "33-Town: Remote",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "5th Grade"
+      },
+      "students": "933",
+      "fte": "58",
+      "pupilTeacherRatio": "16.09"
+   },
+   {
+      "name": "Kapaa High School",
+      "location": {
+         "state": {
+            "name": "Hawaii",
+            "abbr": "HI "
+         }
+      },
+      "district": "Hawaii Department of Education",
+      "level": "High",
+      "type": "1-Regular school",
+      "charterSchool": "2-No",
+      "magnentSchool": "†",
+      "locale": "33-Town: Remote",
+      "grades": {
+         "lowest": "9th Grade",
+         "highest": "12th Grade"
+      },
+      "students": "1042",
+      "fte": "67",
+      "pupilTeacherRatio": "15.55"
+   },
+   {
+      "name": "Kapaa Middle School",
+      "location": {
+         "state": {
+            "name": "Hawaii",
+            "abbr": "HI "
+         }
+      },
+      "district": "Hawaii Department of Education",
+      "level": "Middle",
+      "type": "1-Regular school",
+      "charterSchool": "2-No",
+      "magnentSchool": "†",
+      "locale": "41-Rural: Fringe",
+      "grades": {
+         "lowest": "6th Grade",
+         "highest": "8th Grade"
+      },
+      "students": "602",
+      "fte": "29",
+      "pupilTeacherRatio": "20.76"
+   },
+   {
+      "name": "Kapalama Elementary School",
+      "location": {
+         "state": {
+            "name": "Hawaii",
+            "abbr": "HI "
+         }
+      },
+      "district": "Hawaii Department of Education",
+      "level": "Elementary",
+      "type": "1-Regular school",
+      "charterSchool": "2-No",
+      "magnentSchool": "†",
+      "locale": "11-City: Large",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "5th Grade"
+      },
+      "students": "592",
+      "fte": "38",
+      "pupilTeacherRatio": "15.58"
+   },
+   {
+      "name": "Kapolei Charter School by Goodwill Hawaii",
+      "location": {
+         "state": {
+            "name": "HAWAII",
+            "abbr": "HI "
+         }
+      },
+      "district": "Hawaii Department of Education",
+      "level": "Secondary",
+      "type": "1-Regular school",
+      "charterSchool": "1-Yes",
+      "magnentSchool": "†",
+      "locale": "41-Rural: Fringe",
+      "grades": {
+         "lowest": "9th Grade",
+         "highest": "11th Grade"
+      },
+      "students": "140",
+      "fte": "6",
+      "pupilTeacherRatio": "23.33"
+   },
+   {
+      "name": "Kapolei Elementary School",
+      "location": {
+         "state": {
+            "name": "Hawaii",
+            "abbr": "HI "
+         }
+      },
+      "district": "Hawaii Department of Education",
+      "level": "Elementary",
+      "type": "1-Regular school",
+      "charterSchool": "2-No",
+      "magnentSchool": "†",
+      "locale": "21-Suburb: Large",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "5th Grade"
+      },
+      "students": "778",
+      "fte": "54",
+      "pupilTeacherRatio": "14.41"
+   },
+   {
+      "name": "Kapolei High School",
+      "location": {
+         "state": {
+            "name": "Hawaii",
+            "abbr": "HI "
+         }
+      },
+      "district": "Hawaii Department of Education",
+      "level": "High",
+      "type": "1-Regular school",
+      "charterSchool": "2-No",
+      "magnentSchool": "†",
+      "locale": "21-Suburb: Large",
+      "grades": {
+         "lowest": "9th Grade",
+         "highest": "12th Grade"
+      },
+      "students": "1946",
+      "fte": "119",
+      "pupilTeacherRatio": "16.35"
+   },
+   {
+      "name": "Kapolei Middle School",
+      "location": {
+         "state": {
+            "name": "Hawaii",
+            "abbr": "HI "
+         }
+      },
+      "district": "Hawaii Department of Education",
+      "level": "Middle",
+      "type": "1-Regular school",
+      "charterSchool": "2-No",
+      "magnentSchool": "†",
+      "locale": "21-Suburb: Large",
+      "grades": {
+         "lowest": "6th Grade",
+         "highest": "8th Grade"
+      },
+      "students": "1487",
+      "fte": "93",
+      "pupilTeacherRatio": "15.99"
+   },
+   {
+      "name": "Kapunahala Elementary School",
+      "location": {
+         "state": {
+            "name": "Hawaii",
+            "abbr": "HI "
+         }
+      },
+      "district": "Hawaii Department of Education",
+      "level": "Elementary",
+      "type": "1-Regular school",
+      "charterSchool": "2-No",
+      "magnentSchool": "†",
+      "locale": "22-Suburb: Mid-size",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "6th Grade"
+      },
+      "students": "556",
+      "fte": "36",
+      "pupilTeacherRatio": "15.44"
+   },
+   {
+      "name": "Kau High & Pahala Elementary School",
+      "location": {
+         "state": {
+            "name": "Hawaii",
+            "abbr": "HI "
+         }
+      },
+      "district": "Hawaii Department of Education",
+      "level": "Other",
+      "type": "1-Regular school",
+      "charterSchool": "2-No",
+      "magnentSchool": "†",
+      "locale": "43-Rural: Remote",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "500",
+      "fte": "42",
+      "pupilTeacherRatio": "11.9"
+   },
+   {
+      "name": "Kauai High School",
+      "location": {
+         "state": {
+            "name": "Hawaii",
+            "abbr": "HI "
+         }
+      },
+      "district": "Hawaii Department of Education",
+      "level": "High",
+      "type": "1-Regular school",
+      "charterSchool": "2-No",
+      "magnentSchool": "†",
+      "locale": "33-Town: Remote",
+      "grades": {
+         "lowest": "9th Grade",
+         "highest": "12th Grade"
+      },
+      "students": "1168",
+      "fte": "71",
+      "pupilTeacherRatio": "16.45"
+   },
+   {
+      "name": "Kauluwela Elementary School",
+      "location": {
+         "state": {
+            "name": "Hawaii",
+            "abbr": "HI "
+         }
+      },
+      "district": "Hawaii Department of Education",
+      "level": "Elementary",
+      "type": "1-Regular school",
+      "charterSchool": "2-No",
+      "magnentSchool": "†",
+      "locale": "11-City: Large",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "5th Grade"
+      },
+      "students": "453",
+      "fte": "29",
+      "pupilTeacherRatio": "15.62"
+   },
+   {
+      "name": "Kaumana Elementary School",
+      "location": {
+         "state": {
+            "name": "Hawaii",
+            "abbr": "HI "
+         }
+      },
+      "district": "Hawaii Department of Education",
+      "level": "Elementary",
+      "type": "1-Regular school",
+      "charterSchool": "2-No",
+      "magnentSchool": "†",
+      "locale": "33-Town: Remote",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "6th Grade"
+      },
+      "students": "243",
+      "fte": "17",
+      "pupilTeacherRatio": "14.29"
+   },
+   {
+      "name": "Kaunakakai Elementary School",
+      "location": {
+         "state": {
+            "name": "Hawaii",
+            "abbr": "HI "
+         }
+      },
+      "district": "Hawaii Department of Education",
+      "level": "Elementary",
+      "type": "1-Regular school",
+      "charterSchool": "2-No",
+      "magnentSchool": "†",
+      "locale": "43-Rural: Remote",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "6th Grade"
+      },
+      "students": "300",
+      "fte": "18",
+      "pupilTeacherRatio": "16.67"
+   },
+   {
+      "name": "Kawaikini Ncpcs",
+      "location": {
+         "state": {
+            "name": "Hawaii",
+            "abbr": "HI "
+         }
+      },
+      "district": "Hawaii Department of Education",
+      "level": "Other",
+      "type": "1-Regular school",
+      "charterSchool": "1-Yes",
+      "magnentSchool": "†",
+      "locale": "41-Rural: Fringe",
+      "grades": {
+         "lowest": "Kindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "168",
+      "fte": "14",
+      "pupilTeacherRatio": "12"
+   },
+   {
+      "name": "Ke Ana Laahana - Pcs",
+      "location": {
+         "state": {
+            "name": "Hawaii",
+            "abbr": "HI "
+         }
+      },
+      "district": "Hawaii Department of Education",
+      "level": "High",
+      "type": "1-Regular school",
+      "charterSchool": "1-Yes",
+      "magnentSchool": "†",
+      "locale": "41-Rural: Fringe",
+      "grades": {
+         "lowest": "7th Grade",
+         "highest": "12th Grade"
+      },
+      "students": "41",
+      "fte": "4",
+      "pupilTeacherRatio": "10.25"
+   },
+   {
+      "name": "Ke Kula Niihau O Kekaha Learning Center - a Laboratory Pcs",
+      "location": {
+         "state": {
+            "name": "Hawaii",
+            "abbr": "HI "
+         }
+      },
+      "district": "Hawaii Department of Education",
+      "level": "Other",
+      "type": "1-Regular school",
+      "charterSchool": "1-Yes",
+      "magnentSchool": "†",
+      "locale": "33-Town: Remote",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "50",
+      "fte": "4",
+      "pupilTeacherRatio": "12.5"
+   },
+   {
+      "name": "Ke Kula O Ehunuikaimalino",
+      "location": {
+         "state": {
+            "name": "Hawaii",
+            "abbr": "HI "
+         }
+      },
+      "district": "Hawaii Department of Education",
+      "level": "Other",
+      "type": "1-Regular school",
+      "charterSchool": "2-No",
+      "magnentSchool": "†",
+      "locale": "41-Rural: Fringe",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "246",
+      "fte": "17",
+      "pupilTeacherRatio": "14.47"
+   },
+   {
+      "name": "Ke Kula O Nawahiokalaniopuu Iki - Laboratory Pcs",
+      "location": {
+         "state": {
+            "name": "Hawaii",
+            "abbr": "HI "
+         }
+      },
+      "district": "Hawaii Department of Education",
+      "level": "Elementary",
+      "type": "1-Regular school",
+      "charterSchool": "1-Yes",
+      "magnentSchool": "†",
+      "locale": "41-Rural: Fringe",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "8th Grade"
+      },
+      "students": "463",
+      "fte": "39",
+      "pupilTeacherRatio": "11.87"
+   },
+   {
+      "name": "Ke Kula O Samuel M Kamakau - a Laboratory Pcs",
+      "location": {
+         "state": {
+            "name": "Hawaii",
+            "abbr": "HI "
+         }
+      },
+      "district": "Hawaii Department of Education",
+      "level": "Other",
+      "type": "1-Regular school",
+      "charterSchool": "1-Yes",
+      "magnentSchool": "†",
+      "locale": "22-Suburb: Mid-size",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "124",
+      "fte": "10",
+      "pupilTeacherRatio": "12.4"
+   },
+   {
+      "name": "Keaau Elementary School",
+      "location": {
+         "state": {
+            "name": "Hawaii",
+            "abbr": "HI "
+         }
+      },
+      "district": "Hawaii Department of Education",
+      "level": "Elementary",
+      "type": "1-Regular school",
+      "charterSchool": "2-No",
+      "magnentSchool": "†",
+      "locale": "41-Rural: Fringe",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "5th Grade"
+      },
+      "students": "860",
+      "fte": "55",
+      "pupilTeacherRatio": "15.64"
+   },
+   {
+      "name": "Keaau High School",
+      "location": {
+         "state": {
+            "name": "Hawaii",
+            "abbr": "HI "
+         }
+      },
+      "district": "Hawaii Department of Education",
+      "level": "High",
+      "type": "1-Regular school",
+      "charterSchool": "2-No",
+      "magnentSchool": "†",
+      "locale": "33-Town: Remote",
+      "grades": {
+         "lowest": "9th Grade",
+         "highest": "12th Grade"
+      },
+      "students": "1029",
+      "fte": "69",
+      "pupilTeacherRatio": "14.91"
+   },
+   {
+      "name": "Keaau Middle School",
+      "location": {
+         "state": {
+            "name": "Hawaii",
+            "abbr": "HI "
+         }
+      },
+      "district": "Hawaii Department of Education",
+      "level": "Middle",
+      "type": "1-Regular school",
+      "charterSchool": "2-No",
+      "magnentSchool": "†",
+      "locale": "33-Town: Remote",
+      "grades": {
+         "lowest": "6th Grade",
+         "highest": "8th Grade"
+      },
+      "students": "756",
+      "fte": "50",
+      "pupilTeacherRatio": "15.12"
+   },
+   {
+      "name": "Kealakehe Elementary School",
+      "location": {
+         "state": {
+            "name": "Hawaii",
+            "abbr": "HI "
+         }
+      },
+      "district": "Hawaii Department of Education",
+      "level": "Elementary",
+      "type": "1-Regular school",
+      "charterSchool": "2-No",
+      "magnentSchool": "†",
+      "locale": "33-Town: Remote",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "5th Grade"
+      },
+      "students": "929",
+      "fte": "64.5",
+      "pupilTeacherRatio": "14.4"
+   },
+   {
+      "name": "Kealakehe High School",
+      "location": {
+         "state": {
+            "name": "Hawaii",
+            "abbr": "HI "
+         }
+      },
+      "district": "Hawaii Department of Education",
+      "level": "High",
+      "type": "1-Regular school",
+      "charterSchool": "2-No",
+      "magnentSchool": "†",
+      "locale": "41-Rural: Fringe",
+      "grades": {
+         "lowest": "9th Grade",
+         "highest": "12th Grade"
+      },
+      "students": "1357",
+      "fte": "78",
+      "pupilTeacherRatio": "17.4"
+   },
+   {
+      "name": "Kealakehe Intermediate School",
+      "location": {
+         "state": {
+            "name": "Hawaii",
+            "abbr": "HI "
+         }
+      },
+      "district": "Hawaii Department of Education",
+      "level": "Middle",
+      "type": "1-Regular school",
+      "charterSchool": "2-No",
+      "magnentSchool": "†",
+      "locale": "33-Town: Remote",
+      "grades": {
+         "lowest": "6th Grade",
+         "highest": "8th Grade"
+      },
+      "students": "711",
+      "fte": "51",
+      "pupilTeacherRatio": "13.94"
+   },
+   {
+      "name": "Keaukaha Elementary School",
+      "location": {
+         "state": {
+            "name": "Hawaii",
+            "abbr": "HI "
+         }
+      },
+      "district": "Hawaii Department of Education",
+      "level": "Elementary",
+      "type": "1-Regular school",
+      "charterSchool": "2-No",
+      "magnentSchool": "†",
+      "locale": "33-Town: Remote",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "6th Grade"
+      },
+      "students": "411",
+      "fte": "32",
+      "pupilTeacherRatio": "12.84"
+   },
+   {
+      "name": "Kekaha Elementary School",
+      "location": {
+         "state": {
+            "name": "Hawaii",
+            "abbr": "HI "
+         }
+      },
+      "district": "Hawaii Department of Education",
+      "level": "Elementary",
+      "type": "1-Regular school",
+      "charterSchool": "2-No",
+      "magnentSchool": "†",
+      "locale": "33-Town: Remote",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "5th Grade"
+      },
+      "students": "301",
+      "fte": "20",
+      "pupilTeacherRatio": "15.05"
+   },
+   {
+      "name": "Keolu Elementary School",
+      "location": {
+         "state": {
+            "name": "Hawaii",
+            "abbr": "HI "
+         }
+      },
+      "district": "Hawaii Department of Education",
+      "level": "Elementary",
+      "type": "1-Regular school",
+      "charterSchool": "2-No",
+      "magnentSchool": "†",
+      "locale": "22-Suburb: Mid-size",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "6th Grade"
+      },
+      "students": "119",
+      "fte": "9",
+      "pupilTeacherRatio": "13.22"
+   },
+   {
+      "name": "Keonepoko Elementary School",
+      "location": {
+         "state": {
+            "name": "Hawaii",
+            "abbr": "HI "
+         }
+      },
+      "district": "Hawaii Department of Education",
+      "level": "Elementary",
+      "type": "1-Regular school",
+      "charterSchool": "2-No",
+      "magnentSchool": "†",
+      "locale": "33-Town: Remote",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "6th Grade"
+      },
+      "students": "553",
+      "fte": "42",
+      "pupilTeacherRatio": "13.17"
+   },
+   {
+      "name": "Keoneula Elementary School",
+      "location": {
+         "state": {
+            "name": "Hawaii",
+            "abbr": "HI "
+         }
+      },
+      "district": "Hawaii Department of Education",
+      "level": "Elementary",
+      "type": "1-Regular school",
+      "charterSchool": "2-No",
+      "magnentSchool": "†",
+      "locale": "21-Suburb: Large",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "6th Grade"
+      },
+      "students": "926",
+      "fte": "52",
+      "pupilTeacherRatio": "17.81"
+   },
+   {
+      "name": "Kihei Charter School",
+      "location": {
+         "state": {
+            "name": "Hawaii",
+            "abbr": "HI "
+         }
+      },
+      "district": "Hawaii Department of Education",
+      "level": "Other",
+      "type": "1-Regular school",
+      "charterSchool": "1-Yes",
+      "magnentSchool": "†",
+      "locale": "41-Rural: Fringe",
+      "grades": {
+         "lowest": "Kindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "689",
+      "fte": "41.5",
+      "pupilTeacherRatio": "16.6"
+   },
+   {
+      "name": "Kihei Elementary School",
+      "location": {
+         "state": {
+            "name": "Hawaii",
+            "abbr": "HI "
+         }
+      },
+      "district": "Hawaii Department of Education",
+      "level": "Elementary",
+      "type": "1-Regular school",
+      "charterSchool": "2-No",
+      "magnentSchool": "†",
+      "locale": "31-Town: Fringe",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "5th Grade"
+      },
+      "students": "706",
+      "fte": "51",
+      "pupilTeacherRatio": "13.84"
+   },
+   {
+      "name": "Kilauea Elementary School",
+      "location": {
+         "state": {
+            "name": "Hawaii",
+            "abbr": "HI "
+         }
+      },
+      "district": "Hawaii Department of Education",
+      "level": "Elementary",
+      "type": "1-Regular school",
+      "charterSchool": "2-No",
+      "magnentSchool": "†",
+      "locale": "33-Town: Remote",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "6th Grade"
+      },
+      "students": "335",
+      "fte": "21",
+      "pupilTeacherRatio": "15.95"
+   },
+   {
+      "name": "Kilohana Elementary School",
+      "location": {
+         "state": {
+            "name": "Hawaii",
+            "abbr": "HI "
+         }
+      },
+      "district": "Hawaii Department of Education",
+      "level": "Elementary",
+      "type": "1-Regular school",
+      "charterSchool": "2-No",
+      "magnentSchool": "†",
+      "locale": "42-Rural: Distant",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "6th Grade"
+      },
+      "students": "71",
+      "fte": "10",
+      "pupilTeacherRatio": "7.1"
+   },
+   {
+      "name": "King David Kalakaua Middle School",
+      "location": {
+         "state": {
+            "name": "Hawaii",
+            "abbr": "HI "
+         }
+      },
+      "district": "Hawaii Department of Education",
+      "level": "Middle",
+      "type": "1-Regular school",
+      "charterSchool": "2-No",
+      "magnentSchool": "†",
+      "locale": "11-City: Large",
+      "grades": {
+         "lowest": "6th Grade",
+         "highest": "8th Grade"
+      },
+      "students": "1065",
+      "fte": "62",
+      "pupilTeacherRatio": "17.18"
+   },
+   {
+      "name": "King Kamehameha Iii Elementary School",
+      "location": {
+         "state": {
+            "name": "Hawaii",
+            "abbr": "HI "
+         }
+      },
+      "district": "Hawaii Department of Education",
+      "level": "Elementary",
+      "type": "1-Regular school",
+      "charterSchool": "2-No",
+      "magnentSchool": "†",
+      "locale": "31-Town: Fringe",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "5th Grade"
+      },
+      "students": "736",
+      "fte": "46",
+      "pupilTeacherRatio": "16"
+   },
+   {
+      "name": "King Kaumualii Elementary School",
+      "location": {
+         "state": {
+            "name": "Hawaii",
+            "abbr": "HI "
+         }
+      },
+      "district": "Hawaii Department of Education",
+      "level": "Elementary",
+      "type": "1-Regular school",
+      "charterSchool": "2-No",
+      "magnentSchool": "†",
+      "locale": "33-Town: Remote",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "5th Grade"
+      },
+      "students": "627",
+      "fte": "41",
+      "pupilTeacherRatio": "15.29"
+   },
+   {
+      "name": "King Kekaulike High School",
+      "location": {
+         "state": {
+            "name": "Hawaii",
+            "abbr": "HI "
+         }
+      },
+      "district": "Hawaii Department of Education",
+      "level": "High",
+      "type": "1-Regular school",
+      "charterSchool": "2-No",
+      "magnentSchool": "†",
+      "locale": "31-Town: Fringe",
+      "grades": {
+         "lowest": "9th Grade",
+         "highest": "12th Grade"
+      },
+      "students": "1129",
+      "fte": "77",
+      "pupilTeacherRatio": "14.66"
+   },
+   {
+      "name": "King Liholiho Elementary School",
+      "location": {
+         "state": {
+            "name": "Hawaii",
+            "abbr": "HI "
+         }
+      },
+      "district": "Hawaii Department of Education",
+      "level": "Elementary",
+      "type": "1-Regular school",
+      "charterSchool": "2-No",
+      "magnentSchool": "†",
+      "locale": "11-City: Large",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "5th Grade"
+      },
+      "students": "454",
+      "fte": "29",
+      "pupilTeacherRatio": "15.66"
+   },
+   {
+      "name": "King William Lunalilo Elementary School",
+      "location": {
+         "state": {
+            "name": "Hawaii",
+            "abbr": "HI "
+         }
+      },
+      "district": "Hawaii Department of Education",
+      "level": "Elementary",
+      "type": "1-Regular school",
+      "charterSchool": "2-No",
+      "magnentSchool": "†",
+      "locale": "11-City: Large",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "5th Grade"
+      },
+      "students": "281",
+      "fte": "22.5",
+      "pupilTeacherRatio": "12.49"
+   },
+   {
+      "name": "Kipapa Elementary School",
+      "location": {
+         "state": {
+            "name": "Hawaii",
+            "abbr": "HI "
+         }
+      },
+      "district": "Hawaii Department of Education",
+      "level": "Elementary",
+      "type": "1-Regular school",
+      "charterSchool": "2-No",
+      "magnentSchool": "†",
+      "locale": "21-Suburb: Large",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "5th Grade"
+      },
+      "students": "579",
+      "fte": "41",
+      "pupilTeacherRatio": "14.12"
+   },
+   {
+      "name": "Kohala Elementary School",
+      "location": {
+         "state": {
+            "name": "Hawaii",
+            "abbr": "HI "
+         }
+      },
+      "district": "Hawaii Department of Education",
+      "level": "Elementary",
+      "type": "1-Regular school",
+      "charterSchool": "2-No",
+      "magnentSchool": "†",
+      "locale": "33-Town: Remote",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "5th Grade"
+      },
+      "students": "343",
+      "fte": "23",
+      "pupilTeacherRatio": "14.91"
+   },
+   {
+      "name": "Kohala High School",
+      "location": {
+         "state": {
+            "name": "Hawaii",
+            "abbr": "HI "
+         }
+      },
+      "district": "Hawaii Department of Education",
+      "level": "High",
+      "type": "1-Regular school",
+      "charterSchool": "2-No",
+      "magnentSchool": "†",
+      "locale": "33-Town: Remote",
+      "grades": {
+         "lowest": "9th Grade",
+         "highest": "12th Grade"
+      },
+      "students": "266",
+      "fte": "19.5",
+      "pupilTeacherRatio": "13.64"
+   },
+   {
+      "name": "Kohala Middle School",
+      "location": {
+         "state": {
+            "name": "Hawaii",
+            "abbr": "HI "
+         }
+      },
+      "district": "Hawaii Department of Education",
+      "level": "Middle",
+      "type": "1-Regular school",
+      "charterSchool": "2-No",
+      "magnentSchool": "†",
+      "locale": "33-Town: Remote",
+      "grades": {
+         "lowest": "6th Grade",
+         "highest": "8th Grade"
+      },
+      "students": "190",
+      "fte": "14",
+      "pupilTeacherRatio": "13.57"
+   },
+   {
+      "name": "Koko Head Elementary School",
+      "location": {
+         "state": {
+            "name": "Hawaii",
+            "abbr": "HI "
+         }
+      },
+      "district": "Hawaii Department of Education",
+      "level": "Elementary",
+      "type": "1-Regular school",
+      "charterSchool": "2-No",
+      "magnentSchool": "†",
+      "locale": "21-Suburb: Large",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "5th Grade"
+      },
+      "students": "286",
+      "fte": "18.5",
+      "pupilTeacherRatio": "15.46"
+   },
+   {
+      "name": "Koloa Elementary School",
+      "location": {
+         "state": {
+            "name": "Hawaii",
+            "abbr": "HI "
+         }
+      },
+      "district": "Hawaii Department of Education",
+      "level": "Elementary",
+      "type": "1-Regular school",
+      "charterSchool": "2-No",
+      "magnentSchool": "†",
+      "locale": "33-Town: Remote",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "5th Grade"
+      },
+      "students": "312",
+      "fte": "21",
+      "pupilTeacherRatio": "14.86"
+   },
+   {
+      "name": "Kona Pacific - Pcs",
+      "location": {
+         "state": {
+            "name": "Hawaii",
+            "abbr": "HI "
+         }
+      },
+      "district": "Hawaii Department of Education",
+      "level": "Elementary",
+      "type": "1-Regular school",
+      "charterSchool": "1-Yes",
+      "magnentSchool": "†",
+      "locale": "41-Rural: Fringe",
+      "grades": {
+         "lowest": "Kindergarten",
+         "highest": "8th Grade"
+      },
+      "students": "178",
+      "fte": "15",
+      "pupilTeacherRatio": "11.87"
+   },
+   {
+      "name": "Konawaena Elementary School",
+      "location": {
+         "state": {
+            "name": "Hawaii",
+            "abbr": "HI "
+         }
+      },
+      "district": "Hawaii Department of Education",
+      "level": "Elementary",
+      "type": "1-Regular school",
+      "charterSchool": "2-No",
+      "magnentSchool": "†",
+      "locale": "33-Town: Remote",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "5th Grade"
+      },
+      "students": "545",
+      "fte": "33",
+      "pupilTeacherRatio": "16.52"
+   },
+   {
+      "name": "Konawaena High School",
+      "location": {
+         "state": {
+            "name": "Hawaii",
+            "abbr": "HI "
+         }
+      },
+      "district": "Hawaii Department of Education",
+      "level": "High",
+      "type": "1-Regular school",
+      "charterSchool": "2-No",
+      "magnentSchool": "†",
+      "locale": "41-Rural: Fringe",
+      "grades": {
+         "lowest": "9th Grade",
+         "highest": "12th Grade"
+      },
+      "students": "867",
+      "fte": "55",
+      "pupilTeacherRatio": "15.76"
+   },
+   {
+      "name": "Konawaena Middle School",
+      "location": {
+         "state": {
+            "name": "Hawaii",
+            "abbr": "HI "
+         }
+      },
+      "district": "Hawaii Department of Education",
+      "level": "Middle",
+      "type": "1-Regular school",
+      "charterSchool": "2-No",
+      "magnentSchool": "†",
+      "locale": "41-Rural: Fringe",
+      "grades": {
+         "lowest": "6th Grade",
+         "highest": "8th Grade"
+      },
+      "students": "715",
+      "fte": "47",
+      "pupilTeacherRatio": "15.21"
+   },
+   {
+      "name": "Kua O Ka La - Ncpcs",
+      "location": {
+         "state": {
+            "name": "Hawaii",
+            "abbr": "HI "
+         }
+      },
+      "district": "Hawaii Department of Education",
+      "level": "Other",
+      "type": "1-Regular school",
+      "charterSchool": "1-Yes",
+      "magnentSchool": "†",
+      "locale": "42-Rural: Distant",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "231",
+      "fte": "31",
+      "pupilTeacherRatio": "7.45"
+   },
+   {
+      "name": "Kualapuu School - Public Conversion Charter",
+      "location": {
+         "state": {
+            "name": "Hawaii",
+            "abbr": "HI "
+         }
+      },
+      "district": "Hawaii Department of Education",
+      "level": "Elementary",
+      "type": "1-Regular school",
+      "charterSchool": "1-Yes",
+      "magnentSchool": "†",
+      "locale": "43-Rural: Remote",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "6th Grade"
+      },
+      "students": "327",
+      "fte": "27",
+      "pupilTeacherRatio": "12.11"
+   },
+   {
+      "name": "Kula Aupuni Niihau a Kahelelani Aloha - Ncpcs",
+      "location": {
+         "state": {
+            "name": "Hawaii",
+            "abbr": "HI "
+         }
+      },
+      "district": "Hawaii Department of Education",
+      "level": "Other",
+      "type": "1-Regular school",
+      "charterSchool": "1-Yes",
+      "magnentSchool": "†",
+      "locale": "33-Town: Remote",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "33",
+      "fte": "3.5",
+      "pupilTeacherRatio": "9.43"
+   },
+   {
+      "name": "Kula Elementary School",
+      "location": {
+         "state": {
+            "name": "Hawaii",
+            "abbr": "HI "
+         }
+      },
+      "district": "Hawaii Department of Education",
+      "level": "Elementary",
+      "type": "1-Regular school",
+      "charterSchool": "2-No",
+      "magnentSchool": "†",
+      "locale": "41-Rural: Fringe",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "5th Grade"
+      },
+      "students": "451",
+      "fte": "27",
+      "pupilTeacherRatio": "16.7"
+   },
+   {
+      "name": "Lahaina Intermediate School",
+      "location": {
+         "state": {
+            "name": "Hawaii",
+            "abbr": "HI "
+         }
+      },
+      "district": "Hawaii Department of Education",
+      "level": "Middle",
+      "type": "1-Regular school",
+      "charterSchool": "2-No",
+      "magnentSchool": "†",
+      "locale": "31-Town: Fringe",
+      "grades": {
+         "lowest": "6th Grade",
+         "highest": "8th Grade"
+      },
+      "students": "732",
+      "fte": "48",
+      "pupilTeacherRatio": "15.25"
+   },
+   {
+      "name": "Lahainaluna High School",
+      "location": {
+         "state": {
+            "name": "Hawaii",
+            "abbr": "HI "
+         }
+      },
+      "district": "Hawaii Department of Education",
+      "level": "High",
+      "type": "1-Regular school",
+      "charterSchool": "2-No",
+      "magnentSchool": "†",
+      "locale": "41-Rural: Fringe",
+      "grades": {
+         "lowest": "9th Grade",
+         "highest": "12th Grade"
+      },
+      "students": "1061",
+      "fte": "67",
+      "pupilTeacherRatio": "15.84"
+   },
+   {
+      "name": "Laie Elementary School",
+      "location": {
+         "state": {
+            "name": "Hawaii",
+            "abbr": "HI "
+         }
+      },
+      "district": "Hawaii Department of Education",
+      "level": "Elementary",
+      "type": "1-Regular school",
+      "charterSchool": "2-No",
+      "magnentSchool": "†",
+      "locale": "31-Town: Fringe",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "6th Grade"
+      },
+      "students": "656",
+      "fte": "38",
+      "pupilTeacherRatio": "17.26"
+   },
+   {
+      "name": "Lanai High & Elementary School",
+      "location": {
+         "state": {
+            "name": "Hawaii",
+            "abbr": "HI "
+         }
+      },
+      "district": "Hawaii Department of Education",
+      "level": "Other",
+      "type": "1-Regular school",
+      "charterSchool": "2-No",
+      "magnentSchool": "†",
+      "locale": "32-Town: Distant",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "580",
+      "fte": "45",
+      "pupilTeacherRatio": "12.89"
+   },
+   {
+      "name": "Lanakila Elementary School",
+      "location": {
+         "state": {
+            "name": "Hawaii",
+            "abbr": "HI "
+         }
+      },
+      "district": "Hawaii Department of Education",
+      "level": "Elementary",
+      "type": "1-Regular school",
+      "charterSchool": "2-No",
+      "magnentSchool": "†",
+      "locale": "11-City: Large",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "5th Grade"
+      },
+      "students": "374",
+      "fte": "24",
+      "pupilTeacherRatio": "15.58"
+   },
+   {
+      "name": "Laupahoehoe Community - Pcs",
+      "location": {
+         "state": {
+            "name": "Hawaii",
+            "abbr": "HI "
+         }
+      },
+      "district": "Hawaii Department of Education",
+      "level": "Other",
+      "type": "1-Regular school",
+      "charterSchool": "1-Yes",
+      "magnentSchool": "†",
+      "locale": "43-Rural: Remote",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "350",
+      "fte": "22.5",
+      "pupilTeacherRatio": "15.56"
+   },
+   {
+      "name": "Lehua Elementary School",
+      "location": {
+         "state": {
+            "name": "Hawaii",
+            "abbr": "HI "
+         }
+      },
+      "district": "Hawaii Department of Education",
+      "level": "Elementary",
+      "type": "1-Regular school",
+      "charterSchool": "2-No",
+      "magnentSchool": "†",
+      "locale": "21-Suburb: Large",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "6th Grade"
+      },
+      "students": "271",
+      "fte": "21",
+      "pupilTeacherRatio": "12.9"
+   },
+   {
+      "name": "Leihoku Elementary School",
+      "location": {
+         "state": {
+            "name": "Hawaii",
+            "abbr": "HI "
+         }
+      },
+      "district": "Hawaii Department of Education",
+      "level": "Elementary",
+      "type": "1-Regular school",
+      "charterSchool": "2-No",
+      "magnentSchool": "†",
+      "locale": "21-Suburb: Large",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "6th Grade"
+      },
+      "students": "814",
+      "fte": "59",
+      "pupilTeacherRatio": "13.8"
+   },
+   {
+      "name": "Leilehua High School",
+      "location": {
+         "state": {
+            "name": "Hawaii",
+            "abbr": "HI "
+         }
+      },
+      "district": "Hawaii Department of Education",
+      "level": "High",
+      "type": "1-Regular school",
+      "charterSchool": "2-No",
+      "magnentSchool": "†",
+      "locale": "21-Suburb: Large",
+      "grades": {
+         "lowest": "9th Grade",
+         "highest": "12th Grade"
+      },
+      "students": "1645",
+      "fte": "109",
+      "pupilTeacherRatio": "15.09"
+   },
+   {
+      "name": "Lihikai Elementary School",
+      "location": {
+         "state": {
+            "name": "Hawaii",
+            "abbr": "HI "
+         }
+      },
+      "district": "Hawaii Department of Education",
+      "level": "Elementary",
+      "type": "1-Regular school",
+      "charterSchool": "2-No",
+      "magnentSchool": "†",
+      "locale": "13-City: Small",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "5th Grade"
+      },
+      "students": "864",
+      "fte": "50",
+      "pupilTeacherRatio": "17.28"
+   },
+   {
+      "name": "Linapuni Elementary School",
+      "location": {
+         "state": {
+            "name": "Hawaii",
+            "abbr": "HI "
+         }
+      },
+      "district": "Hawaii Department of Education",
+      "level": "Elementary",
+      "type": "1-Regular school",
+      "charterSchool": "2-No",
+      "magnentSchool": "†",
+      "locale": "11-City: Large",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "1st Grade"
+      },
+      "students": "150",
+      "fte": "11",
+      "pupilTeacherRatio": "13.64"
+   },
+   {
+      "name": "Lokelani Intermediate School",
+      "location": {
+         "state": {
+            "name": "Hawaii",
+            "abbr": "HI "
+         }
+      },
+      "district": "Hawaii Department of Education",
+      "level": "Middle",
+      "type": "1-Regular school",
+      "charterSchool": "2-No",
+      "magnentSchool": "†",
+      "locale": "31-Town: Fringe",
+      "grades": {
+         "lowest": "6th Grade",
+         "highest": "8th Grade"
+      },
+      "students": "540",
+      "fte": "33",
+      "pupilTeacherRatio": "16.36"
+   },
+   {
+      "name": "Lt Col Horrace Meek Hickam Elementary School",
+      "location": {
+         "state": {
+            "name": "Hawaii",
+            "abbr": "HI "
+         }
+      },
+      "district": "Hawaii Department of Education",
+      "level": "Elementary",
+      "type": "1-Regular school",
+      "charterSchool": "2-No",
+      "magnentSchool": "†",
+      "locale": "21-Suburb: Large",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "6th Grade"
+      },
+      "students": "580",
+      "fte": "36",
+      "pupilTeacherRatio": "16.11"
+   },
+   {
+      "name": "Maemae Elementary School",
+      "location": {
+         "state": {
+            "name": "Hawaii",
+            "abbr": "HI "
+         }
+      },
+      "district": "Hawaii Department of Education",
+      "level": "Elementary",
+      "type": "1-Regular school",
+      "charterSchool": "2-No",
+      "magnentSchool": "†",
+      "locale": "11-City: Large",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "6th Grade"
+      },
+      "students": "692",
+      "fte": "40.5",
+      "pupilTeacherRatio": "17.09"
+   },
+   {
+      "name": "Maili Elementary School",
+      "location": {
+         "state": {
+            "name": "Hawaii",
+            "abbr": "HI "
+         }
+      },
+      "district": "Hawaii Department of Education",
+      "level": "Elementary",
+      "type": "1-Regular school",
+      "charterSchool": "2-No",
+      "magnentSchool": "†",
+      "locale": "21-Suburb: Large",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "6th Grade"
+      },
+      "students": "745",
+      "fte": "53.5",
+      "pupilTeacherRatio": "13.93"
+   },
+   {
+      "name": "Major General William R Shafter Elementary School",
+      "location": {
+         "state": {
+            "name": "Hawaii",
+            "abbr": "HI "
+         }
+      },
+      "district": "Hawaii Department of Education",
+      "level": "Elementary",
+      "type": "1-Regular school",
+      "charterSchool": "2-No",
+      "magnentSchool": "†",
+      "locale": "11-City: Large",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "6th Grade"
+      },
+      "students": "424",
+      "fte": "27",
+      "pupilTeacherRatio": "15.7"
+   },
+   {
+      "name": "Major Sheldon Wheeler Elementary School",
+      "location": {
+         "state": {
+            "name": "Hawaii",
+            "abbr": "HI "
+         }
+      },
+      "district": "Hawaii Department of Education",
+      "level": "Elementary",
+      "type": "1-Regular school",
+      "charterSchool": "2-No",
+      "magnentSchool": "†",
+      "locale": "21-Suburb: Large",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "5th Grade"
+      },
+      "students": "707",
+      "fte": "49.5",
+      "pupilTeacherRatio": "14.28"
+   },
+   {
+      "name": "Major Sheldon Wheeler Middle School",
+      "location": {
+         "state": {
+            "name": "Hawaii",
+            "abbr": "HI "
+         }
+      },
+      "district": "Hawaii Department of Education",
+      "level": "Middle",
+      "type": "1-Regular school",
+      "charterSchool": "2-No",
+      "magnentSchool": "†",
+      "locale": "21-Suburb: Large",
+      "grades": {
+         "lowest": "6th Grade",
+         "highest": "8th Grade"
+      },
+      "students": "780",
+      "fte": "55",
+      "pupilTeacherRatio": "14.18"
+   },
+   {
+      "name": "Makaha Elementary School",
+      "location": {
+         "state": {
+            "name": "Hawaii",
+            "abbr": "HI "
+         }
+      },
+      "district": "Hawaii Department of Education",
+      "level": "Elementary",
+      "type": "1-Regular school",
+      "charterSchool": "2-No",
+      "magnentSchool": "†",
+      "locale": "21-Suburb: Large",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "6th Grade"
+      },
+      "students": "479",
+      "fte": "44",
+      "pupilTeacherRatio": "10.89"
+   },
+   {
+      "name": "Makakilo Elementary School",
+      "location": {
+         "state": {
+            "name": "Hawaii",
+            "abbr": "HI "
+         }
+      },
+      "district": "Hawaii Department of Education",
+      "level": "Elementary",
+      "type": "1-Regular school",
+      "charterSchool": "2-No",
+      "magnentSchool": "†",
+      "locale": "21-Suburb: Large",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "5th Grade"
+      },
+      "students": "470",
+      "fte": "31.5",
+      "pupilTeacherRatio": "14.92"
+   },
+   {
+      "name": "Makalapa Elementary School",
+      "location": {
+         "state": {
+            "name": "Hawaii",
+            "abbr": "HI "
+         }
+      },
+      "district": "Hawaii Department of Education",
+      "level": "Elementary",
+      "type": "1-Regular school",
+      "charterSchool": "2-No",
+      "magnentSchool": "†",
+      "locale": "21-Suburb: Large",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "6th Grade"
+      },
+      "students": "608",
+      "fte": "36",
+      "pupilTeacherRatio": "16.89"
+   },
+   {
+      "name": "Makawao Elementary School",
+      "location": {
+         "state": {
+            "name": "Hawaii",
+            "abbr": "HI "
+         }
+      },
+      "district": "Hawaii Department of Education",
+      "level": "Elementary",
+      "type": "1-Regular school",
+      "charterSchool": "2-No",
+      "magnentSchool": "†",
+      "locale": "31-Town: Fringe",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "5th Grade"
+      },
+      "students": "532",
+      "fte": "37",
+      "pupilTeacherRatio": "14.38"
+   },
+   {
+      "name": "Malama Honua Learning Center Pcs",
+      "location": {
+         "state": {
+            "name": "Hawaii",
+            "abbr": "HI "
+         }
+      },
+      "district": "Hawaii Department of Education",
+      "level": "Elementary",
+      "type": "1-Regular school",
+      "charterSchool": "1-Yes",
+      "magnentSchool": "†",
+      "locale": "22-Suburb: Mid-size",
+      "grades": {
+         "lowest": "Kindergarten",
+         "highest": "7th Grade"
+      },
+      "students": "150",
+      "fte": "11",
+      "pupilTeacherRatio": "13.64"
+   },
+   {
+      "name": "Manana Elementary School",
+      "location": {
+         "state": {
+            "name": "Hawaii",
+            "abbr": "HI "
+         }
+      },
+      "district": "Hawaii Department of Education",
+      "level": "Elementary",
+      "type": "1-Regular school",
+      "charterSchool": "2-No",
+      "magnentSchool": "†",
+      "locale": "21-Suburb: Large",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "6th Grade"
+      },
+      "students": "351",
+      "fte": "22",
+      "pupilTeacherRatio": "15.95"
+   },
+   {
+      "name": "Manoa Elementary School",
+      "location": {
+         "state": {
+            "name": "Hawaii",
+            "abbr": "HI "
+         }
+      },
+      "district": "Hawaii Department of Education",
+      "level": "Elementary",
+      "type": "1-Regular school",
+      "charterSchool": "2-No",
+      "magnentSchool": "†",
+      "locale": "11-City: Large",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "5th Grade"
+      },
+      "students": "516",
+      "fte": "32",
+      "pupilTeacherRatio": "16.13"
+   },
+   {
+      "name": "Maui High School",
+      "location": {
+         "state": {
+            "name": "Hawaii",
+            "abbr": "HI "
+         }
+      },
+      "district": "Hawaii Department of Education",
+      "level": "High",
+      "type": "1-Regular school",
+      "charterSchool": "2-No",
+      "magnentSchool": "†",
+      "locale": "13-City: Small",
+      "grades": {
+         "lowest": "9th Grade",
+         "highest": "12th Grade"
+      },
+      "students": "2082",
+      "fte": "124",
+      "pupilTeacherRatio": "16.79"
+   },
+   {
+      "name": "Maui Waena Intermediate School",
+      "location": {
+         "state": {
+            "name": "Hawaii",
+            "abbr": "HI "
+         }
+      },
+      "district": "Hawaii Department of Education",
+      "level": "Middle",
+      "type": "1-Regular school",
+      "charterSchool": "2-No",
+      "magnentSchool": "†",
+      "locale": "13-City: Small",
+      "grades": {
+         "lowest": "6th Grade",
+         "highest": "8th Grade"
+      },
+      "students": "1162",
+      "fte": "69",
+      "pupilTeacherRatio": "16.84"
+   },
+   {
+      "name": "Mauka Lani Elementary School",
+      "location": {
+         "state": {
+            "name": "Hawaii",
+            "abbr": "HI "
+         }
+      },
+      "district": "Hawaii Department of Education",
+      "level": "Elementary",
+      "type": "1-Regular school",
+      "charterSchool": "2-No",
+      "magnentSchool": "†",
+      "locale": "21-Suburb: Large",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "5th Grade"
+      },
+      "students": "580",
+      "fte": "42",
+      "pupilTeacherRatio": "13.81"
+   },
+   {
+      "name": "Maunaloa Elementary School",
+      "location": {
+         "state": {
+            "name": "Hawaii",
+            "abbr": "HI "
+         }
+      },
+      "district": "Hawaii Department of Education",
+      "level": "Elementary",
+      "type": "1-Regular school",
+      "charterSchool": "2-No",
+      "magnentSchool": "†",
+      "locale": "43-Rural: Remote",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "6th Grade"
+      },
+      "students": "36",
+      "fte": "6",
+      "pupilTeacherRatio": "6"
+   },
+   {
+      "name": "Maunawili Elementary School",
+      "location": {
+         "state": {
+            "name": "Hawaii",
+            "abbr": "HI "
+         }
+      },
+      "district": "Hawaii Department of Education",
+      "level": "Elementary",
+      "type": "1-Regular school",
+      "charterSchool": "2-No",
+      "magnentSchool": "†",
+      "locale": "22-Suburb: Mid-size",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "6th Grade"
+      },
+      "students": "358",
+      "fte": "23",
+      "pupilTeacherRatio": "15.57"
+   },
+   {
+      "name": "Mayor John H Wilson Elementary School",
+      "location": {
+         "state": {
+            "name": "Hawaii",
+            "abbr": "HI "
+         }
+      },
+      "district": "Hawaii Department of Education",
+      "level": "Elementary",
+      "type": "1-Regular school",
+      "charterSchool": "2-No",
+      "magnentSchool": "†",
+      "locale": "11-City: Large",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "5th Grade"
+      },
+      "students": "572",
+      "fte": "36",
+      "pupilTeacherRatio": "15.89"
+   },
+   {
+      "name": "Mayor Joseph J Fern Elementary School",
+      "location": {
+         "state": {
+            "name": "Hawaii",
+            "abbr": "HI "
+         }
+      },
+      "district": "Hawaii Department of Education",
+      "level": "Elementary",
+      "type": "1-Regular school",
+      "charterSchool": "2-No",
+      "magnentSchool": "†",
+      "locale": "11-City: Large",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "5th Grade"
+      },
+      "students": "409",
+      "fte": "32",
+      "pupilTeacherRatio": "12.78"
+   },
+   {
+      "name": "Mililani High School",
+      "location": {
+         "state": {
+            "name": "Hawaii",
+            "abbr": "HI "
+         }
+      },
+      "district": "Hawaii Department of Education",
+      "level": "High",
+      "type": "1-Regular school",
+      "charterSchool": "2-No",
+      "magnentSchool": "†",
+      "locale": "21-Suburb: Large",
+      "grades": {
+         "lowest": "9th Grade",
+         "highest": "12th Grade"
+      },
+      "students": "2620",
+      "fte": "147",
+      "pupilTeacherRatio": "17.82"
+   },
+   {
+      "name": "Mililani Ike Elementary School",
+      "location": {
+         "state": {
+            "name": "Hawaii",
+            "abbr": "HI "
+         }
+      },
+      "district": "Hawaii Department of Education",
+      "level": "Elementary",
+      "type": "1-Regular school",
+      "charterSchool": "2-No",
+      "magnentSchool": "†",
+      "locale": "21-Suburb: Large",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "5th Grade"
+      },
+      "students": "629",
+      "fte": "39",
+      "pupilTeacherRatio": "16.13"
+   },
+   {
+      "name": "Mililani Mauka Elementary School",
+      "location": {
+         "state": {
+            "name": "Hawaii",
+            "abbr": "HI "
+         }
+      },
+      "district": "Hawaii Department of Education",
+      "level": "Elementary",
+      "type": "1-Regular school",
+      "charterSchool": "2-No",
+      "magnentSchool": "†",
+      "locale": "21-Suburb: Large",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "5th Grade"
+      },
+      "students": "784",
+      "fte": "51",
+      "pupilTeacherRatio": "15.37"
+   },
+   {
+      "name": "Mililani Middle School",
+      "location": {
+         "state": {
+            "name": "Hawaii",
+            "abbr": "HI "
+         }
+      },
+      "district": "Hawaii Department of Education",
+      "level": "Middle",
+      "type": "1-Regular school",
+      "charterSchool": "2-No",
+      "magnentSchool": "†",
+      "locale": "21-Suburb: Large",
+      "grades": {
+         "lowest": "6th Grade",
+         "highest": "8th Grade"
+      },
+      "students": "1875",
+      "fte": "103",
+      "pupilTeacherRatio": "18.2"
+   },
+   {
+      "name": "Mililani Uka Elementary School",
+      "location": {
+         "state": {
+            "name": "Hawaii",
+            "abbr": "HI "
+         }
+      },
+      "district": "Hawaii Department of Education",
+      "level": "Elementary",
+      "type": "1-Regular school",
+      "charterSchool": "2-No",
+      "magnentSchool": "†",
+      "locale": "21-Suburb: Large",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "5th Grade"
+      },
+      "students": "717",
+      "fte": "43",
+      "pupilTeacherRatio": "16.67"
+   },
+   {
+      "name": "Mililani Waena Elementary School",
+      "location": {
+         "state": {
+            "name": "Hawaii",
+            "abbr": "HI "
+         }
+      },
+      "district": "Hawaii Department of Education",
+      "level": "Elementary",
+      "type": "1-Regular school",
+      "charterSchool": "2-No",
+      "magnentSchool": "†",
+      "locale": "21-Suburb: Large",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "5th Grade"
+      },
+      "students": "779",
+      "fte": "46",
+      "pupilTeacherRatio": "16.93"
+   },
+   {
+      "name": "Moanalua Elementary School",
+      "location": {
+         "state": {
+            "name": "Hawaii",
+            "abbr": "HI "
+         }
+      },
+      "district": "Hawaii Department of Education",
+      "level": "Elementary",
+      "type": "1-Regular school",
+      "charterSchool": "2-No",
+      "magnentSchool": "†",
+      "locale": "11-City: Large",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "6th Grade"
+      },
+      "students": "656",
+      "fte": "39",
+      "pupilTeacherRatio": "16.82"
+   },
+   {
+      "name": "Moanalua High School",
+      "location": {
+         "state": {
+            "name": "Hawaii",
+            "abbr": "HI "
+         }
+      },
+      "district": "Hawaii Department of Education",
+      "level": "High",
+      "type": "1-Regular school",
+      "charterSchool": "2-No",
+      "magnentSchool": "†",
+      "locale": "11-City: Large",
+      "grades": {
+         "lowest": "9th Grade",
+         "highest": "12th Grade"
+      },
+      "students": "2021",
+      "fte": "122",
+      "pupilTeacherRatio": "16.57"
+   },
+   {
+      "name": "Moanalua Middle School",
+      "location": {
+         "state": {
+            "name": "Hawaii",
+            "abbr": "HI "
+         }
+      },
+      "district": "Hawaii Department of Education",
+      "level": "Middle",
+      "type": "1-Regular school",
+      "charterSchool": "2-No",
+      "magnentSchool": "†",
+      "locale": "11-City: Large",
+      "grades": {
+         "lowest": "7th Grade",
+         "highest": "8th Grade"
+      },
+      "students": "852",
+      "fte": "48",
+      "pupilTeacherRatio": "17.75"
+   },
+   {
+      "name": "Mokapu Elementary School",
+      "location": {
+         "state": {
+            "name": "Hawaii",
+            "abbr": "HI "
+         }
+      },
+      "district": "Hawaii Department of Education",
+      "level": "Elementary",
+      "type": "1-Regular school",
+      "charterSchool": "2-No",
+      "magnentSchool": "†",
+      "locale": "22-Suburb: Mid-size",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "6th Grade"
+      },
+      "students": "879",
+      "fte": "53.5",
+      "pupilTeacherRatio": "16.43"
+   },
+   {
+      "name": "Mokulele Elementary School",
+      "location": {
+         "state": {
+            "name": "Hawaii",
+            "abbr": "HI "
+         }
+      },
+      "district": "Hawaii Department of Education",
+      "level": "Elementary",
+      "type": "1-Regular school",
+      "charterSchool": "2-No",
+      "magnentSchool": "†",
+      "locale": "21-Suburb: Large",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "6th Grade"
+      },
+      "students": "239",
+      "fte": "20",
+      "pupilTeacherRatio": "11.95"
+   },
+   {
+      "name": "Molokai High School",
+      "location": {
+         "state": {
+            "name": "Hawaii",
+            "abbr": "HI "
+         }
+      },
+      "district": "Hawaii Department of Education",
+      "level": "High",
+      "type": "1-Regular school",
+      "charterSchool": "2-No",
+      "magnentSchool": "†",
+      "locale": "43-Rural: Remote",
+      "grades": {
+         "lowest": "9th Grade",
+         "highest": "12th Grade"
+      },
+      "students": "322",
+      "fte": "25",
+      "pupilTeacherRatio": "12.88"
+   },
+   {
+      "name": "Molokai Middle School",
+      "location": {
+         "state": {
+            "name": "Hawaii",
+            "abbr": "HI "
+         }
+      },
+      "district": "Hawaii Department of Education",
+      "level": "Middle",
+      "type": "1-Regular school",
+      "charterSchool": "2-No",
+      "magnentSchool": "†",
+      "locale": "43-Rural: Remote",
+      "grades": {
+         "lowest": "7th Grade",
+         "highest": "8th Grade"
+      },
+      "students": "188",
+      "fte": "14.5",
+      "pupilTeacherRatio": "12.97"
+   },
+   {
+      "name": "Momilani Elementary School",
+      "location": {
+         "state": {
+            "name": "Hawaii",
+            "abbr": "HI "
+         }
+      },
+      "district": "Hawaii Department of Education",
+      "level": "Elementary",
+      "type": "1-Regular school",
+      "charterSchool": "2-No",
+      "magnentSchool": "†",
+      "locale": "21-Suburb: Large",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "6th Grade"
+      },
+      "students": "415",
+      "fte": "21",
+      "pupilTeacherRatio": "19.76"
+   },
+   {
+      "name": "Mountain View Elementary School",
+      "location": {
+         "state": {
+            "name": "Hawaii",
+            "abbr": "HI "
+         }
+      },
+      "district": "Hawaii Department of Education",
+      "level": "Elementary",
+      "type": "1-Regular school",
+      "charterSchool": "2-No",
+      "magnentSchool": "†",
+      "locale": "42-Rural: Distant",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "5th Grade"
+      },
+      "students": "447",
+      "fte": "36.5",
+      "pupilTeacherRatio": "12.25"
+   },
+   {
+      "name": "Myron B. Thompson Academy - a New Century Pcs",
+      "location": {
+         "state": {
+            "name": "Hawaii",
+            "abbr": "HI "
+         }
+      },
+      "district": "Hawaii Department of Education",
+      "level": "Other",
+      "type": "1-Regular school",
+      "charterSchool": "1-Yes",
+      "magnentSchool": "†",
+      "locale": "11-City: Large",
+      "grades": {
+         "lowest": "Kindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "585",
+      "fte": "18.9",
+      "pupilTeacherRatio": "30.95"
+   },
+   {
+      "name": "Na Wai Ola - Pcs",
+      "location": {
+         "state": {
+            "name": "Hawaii",
+            "abbr": "HI "
+         }
+      },
+      "district": "Hawaii Department of Education",
+      "level": "Elementary",
+      "type": "1-Regular school",
+      "charterSchool": "1-Yes",
+      "magnentSchool": "†",
+      "locale": "42-Rural: Distant",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "6th Grade"
+      },
+      "students": "147",
+      "fte": "11",
+      "pupilTeacherRatio": "13.36"
+   },
+   {
+      "name": "Naalehu Elementary School",
+      "location": {
+         "state": {
+            "name": "Hawaii",
+            "abbr": "HI "
+         }
+      },
+      "district": "Hawaii Department of Education",
+      "level": "Elementary",
+      "type": "1-Regular school",
+      "charterSchool": "2-No",
+      "magnentSchool": "†",
+      "locale": "43-Rural: Remote",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "6th Grade"
+      },
+      "students": "381",
+      "fte": "26",
+      "pupilTeacherRatio": "14.65"
+   },
+   {
+      "name": "Nanaikapono Elementary School",
+      "location": {
+         "state": {
+            "name": "Hawaii",
+            "abbr": "HI "
+         }
+      },
+      "district": "Hawaii Department of Education",
+      "level": "Elementary",
+      "type": "1-Regular school",
+      "charterSchool": "2-No",
+      "magnentSchool": "†",
+      "locale": "21-Suburb: Large",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "6th Grade"
+      },
+      "students": "748",
+      "fte": "54",
+      "pupilTeacherRatio": "13.85"
+   },
+   {
+      "name": "Nanakuli Elementary School",
+      "location": {
+         "state": {
+            "name": "Hawaii",
+            "abbr": "HI "
+         }
+      },
+      "district": "Hawaii Department of Education",
+      "level": "Elementary",
+      "type": "1-Regular school",
+      "charterSchool": "2-No",
+      "magnentSchool": "†",
+      "locale": "21-Suburb: Large",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "6th Grade"
+      },
+      "students": "366",
+      "fte": "24",
+      "pupilTeacherRatio": "15.25"
+   },
+   {
+      "name": "Nanakuli High & Intermediate School",
+      "location": {
+         "state": {
+            "name": "Hawaii",
+            "abbr": "HI "
+         }
+      },
+      "district": "Hawaii Department of Education",
+      "level": "High",
+      "type": "1-Regular school",
+      "charterSchool": "2-No",
+      "magnentSchool": "†",
+      "locale": "21-Suburb: Large",
+      "grades": {
+         "lowest": "7th Grade",
+         "highest": "12th Grade"
+      },
+      "students": "1043",
+      "fte": "83",
+      "pupilTeacherRatio": "12.57"
+   },
+   {
+      "name": "Niihau High & Elementary School",
+      "location": {
+         "state": {
+            "name": "Hawaii",
+            "abbr": "HI "
+         }
+      },
+      "district": "Hawaii Department of Education",
+      "level": "Other",
+      "type": "1-Regular school",
+      "charterSchool": "2-No",
+      "magnentSchool": "†",
+      "locale": "33-Town: Remote",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "10",
+      "fte": "2",
+      "pupilTeacherRatio": "5"
+   },
+   {
+      "name": "Niu Valley Middle School",
+      "location": {
+         "state": {
+            "name": "Hawaii",
+            "abbr": "HI "
+         }
+      },
+      "district": "Hawaii Department of Education",
+      "level": "Middle",
+      "type": "1-Regular school",
+      "charterSchool": "2-No",
+      "magnentSchool": "†",
+      "locale": "21-Suburb: Large",
+      "grades": {
+         "lowest": "6th Grade",
+         "highest": "8th Grade"
+      },
+      "students": "821",
+      "fte": "50",
+      "pupilTeacherRatio": "16.42"
+   },
+   {
+      "name": "Noelani Elementary School",
+      "location": {
+         "state": {
+            "name": "Hawaii",
+            "abbr": "HI "
+         }
+      },
+      "district": "Hawaii Department of Education",
+      "level": "Elementary",
+      "type": "1-Regular school",
+      "charterSchool": "2-No",
+      "magnentSchool": "†",
+      "locale": "11-City: Large",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "5th Grade"
+      },
+      "students": "433",
+      "fte": "25",
+      "pupilTeacherRatio": "17.32"
+   },
+   {
+      "name": "Nuuanu Elementary School",
+      "location": {
+         "state": {
+            "name": "Hawaii",
+            "abbr": "HI "
+         }
+      },
+      "district": "Hawaii Department of Education",
+      "level": "Elementary",
+      "type": "1-Regular school",
+      "charterSchool": "2-No",
+      "magnentSchool": "†",
+      "locale": "11-City: Large",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "5th Grade"
+      },
+      "students": "359",
+      "fte": "22.5",
+      "pupilTeacherRatio": "15.96"
+   },
+   {
+      "name": "Olomana School",
+      "location": {
+         "state": {
+            "name": "Hawaii",
+            "abbr": "HI "
+         }
+      },
+      "district": "Hawaii Department of Education",
+      "level": "High",
+      "type": "4-Alternative/other school",
+      "charterSchool": "2-No",
+      "magnentSchool": "†",
+      "locale": "41-Rural: Fringe",
+      "grades": {
+         "lowest": "7th Grade",
+         "highest": "12th Grade"
+      },
+      "students": "103",
+      "fte": "39",
+      "pupilTeacherRatio": "2.64"
+   },
+   {
+      "name": "Paauilo Elementary & Intermediate School",
+      "location": {
+         "state": {
+            "name": "Hawaii",
+            "abbr": "HI "
+         }
+      },
+      "district": "Hawaii Department of Education",
+      "level": "Other",
+      "type": "1-Regular school",
+      "charterSchool": "2-No",
+      "magnentSchool": "†",
+      "locale": "42-Rural: Distant",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "9th Grade"
+      },
+      "students": "195",
+      "fte": "13",
+      "pupilTeacherRatio": "15"
+   },
+   {
+      "name": "Pahoa Elementary School",
+      "location": {
+         "state": {
+            "name": "Hawaii",
+            "abbr": "HI "
+         }
+      },
+      "district": "Hawaii Department of Education",
+      "level": "Elementary",
+      "type": "1-Regular school",
+      "charterSchool": "2-No",
+      "magnentSchool": "†",
+      "locale": "33-Town: Remote",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "6th Grade"
+      },
+      "students": "366",
+      "fte": "24",
+      "pupilTeacherRatio": "15.25"
+   },
+   {
+      "name": "Pahoa High & Intermediate School",
+      "location": {
+         "state": {
+            "name": "Hawaii",
+            "abbr": "HI "
+         }
+      },
+      "district": "Hawaii Department of Education",
+      "level": "High",
+      "type": "1-Regular school",
+      "charterSchool": "2-No",
+      "magnentSchool": "†",
+      "locale": "33-Town: Remote",
+      "grades": {
+         "lowest": "7th Grade",
+         "highest": "12th Grade"
+      },
+      "students": "607",
+      "fte": "41",
+      "pupilTeacherRatio": "14.8"
+   },
+   {
+      "name": "Paia Elementary School",
+      "location": {
+         "state": {
+            "name": "Hawaii",
+            "abbr": "HI "
+         }
+      },
+      "district": "Hawaii Department of Education",
+      "level": "Elementary",
+      "type": "1-Regular school",
+      "charterSchool": "2-No",
+      "magnentSchool": "†",
+      "locale": "41-Rural: Fringe",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "5th Grade"
+      },
+      "students": "408",
+      "fte": "28",
+      "pupilTeacherRatio": "14.57"
+   },
+   {
+      "name": "Palisades Elementary School",
+      "location": {
+         "state": {
+            "name": "Hawaii",
+            "abbr": "HI "
+         }
+      },
+      "district": "Hawaii Department of Education",
+      "level": "Elementary",
+      "type": "1-Regular school",
+      "charterSchool": "2-No",
+      "magnentSchool": "†",
+      "locale": "21-Suburb: Large",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "6th Grade"
+      },
+      "students": "430",
+      "fte": "27",
+      "pupilTeacherRatio": "15.93"
+   },
+   {
+      "name": "Palolo Elementary School",
+      "location": {
+         "state": {
+            "name": "Hawaii",
+            "abbr": "HI "
+         }
+      },
+      "district": "Hawaii Department of Education",
+      "level": "Elementary",
+      "type": "1-Regular school",
+      "charterSchool": "2-No",
+      "magnentSchool": "†",
+      "locale": "11-City: Large",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "5th Grade"
+      },
+      "students": "257",
+      "fte": "21.5",
+      "pupilTeacherRatio": "11.95"
+   },
+   {
+      "name": "Pauoa Elementary School",
+      "location": {
+         "state": {
+            "name": "Hawaii",
+            "abbr": "HI "
+         }
+      },
+      "district": "Hawaii Department of Education",
+      "level": "Elementary",
+      "type": "1-Regular school",
+      "charterSchool": "2-No",
+      "magnentSchool": "†",
+      "locale": "11-City: Large",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "5th Grade"
+      },
+      "students": "319",
+      "fte": "21",
+      "pupilTeacherRatio": "15.19"
+   },
+   {
+      "name": "Pearl City Elementary School",
+      "location": {
+         "state": {
+            "name": "Hawaii",
+            "abbr": "HI "
+         }
+      },
+      "district": "Hawaii Department of Education",
+      "level": "Elementary",
+      "type": "1-Regular school",
+      "charterSchool": "2-No",
+      "magnentSchool": "†",
+      "locale": "21-Suburb: Large",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "6th Grade"
+      },
+      "students": "431",
+      "fte": "28",
+      "pupilTeacherRatio": "15.39"
+   },
+   {
+      "name": "Pearl City High School",
+      "location": {
+         "state": {
+            "name": "Hawaii",
+            "abbr": "HI "
+         }
+      },
+      "district": "Hawaii Department of Education",
+      "level": "High",
+      "type": "1-Regular school",
+      "charterSchool": "2-No",
+      "magnentSchool": "†",
+      "locale": "21-Suburb: Large",
+      "grades": {
+         "lowest": "9th Grade",
+         "highest": "12th Grade"
+      },
+      "students": "1591",
+      "fte": "100",
+      "pupilTeacherRatio": "15.91"
+   },
+   {
+      "name": "Pearl City Highlands School",
+      "location": {
+         "state": {
+            "name": "Hawaii",
+            "abbr": "HI "
+         }
+      },
+      "district": "Hawaii Department of Education",
+      "level": "Elementary",
+      "type": "1-Regular school",
+      "charterSchool": "2-No",
+      "magnentSchool": "†",
+      "locale": "21-Suburb: Large",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "6th Grade"
+      },
+      "students": "555",
+      "fte": "29",
+      "pupilTeacherRatio": "19.14"
+   },
+   {
+      "name": "Pearl Harbor Elementary School",
+      "location": {
+         "state": {
+            "name": "Hawaii",
+            "abbr": "HI "
+         }
+      },
+      "district": "Hawaii Department of Education",
+      "level": "Elementary",
+      "type": "1-Regular school",
+      "charterSchool": "2-No",
+      "magnentSchool": "†",
+      "locale": "11-City: Large",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "6th Grade"
+      },
+      "students": "476",
+      "fte": "39.5",
+      "pupilTeacherRatio": "12.05"
+   },
+   {
+      "name": "Pearl Harbor Kai Elementary School",
+      "location": {
+         "state": {
+            "name": "Hawaii",
+            "abbr": "HI "
+         }
+      },
+      "district": "Hawaii Department of Education",
+      "level": "Elementary",
+      "type": "1-Regular school",
+      "charterSchool": "2-No",
+      "magnentSchool": "†",
+      "locale": "21-Suburb: Large",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "6th Grade"
+      },
+      "students": "407",
+      "fte": "29",
+      "pupilTeacherRatio": "14.03"
+   },
+   {
+      "name": "Pearl Ridge Elementary School",
+      "location": {
+         "state": {
+            "name": "Hawaii",
+            "abbr": "HI "
+         }
+      },
+      "district": "Hawaii Department of Education",
+      "level": "Elementary",
+      "type": "1-Regular school",
+      "charterSchool": "2-No",
+      "magnentSchool": "†",
+      "locale": "21-Suburb: Large",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "6th Grade"
+      },
+      "students": "497",
+      "fte": "32",
+      "pupilTeacherRatio": "15.53"
+   },
+   {
+      "name": "Pohakea Elementary School",
+      "location": {
+         "state": {
+            "name": "Hawaii",
+            "abbr": "HI "
+         }
+      },
+      "district": "Hawaii Department of Education",
+      "level": "Elementary",
+      "type": "1-Regular school",
+      "charterSchool": "2-No",
+      "magnentSchool": "†",
+      "locale": "21-Suburb: Large",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "6th Grade"
+      },
+      "students": "474",
+      "fte": "29",
+      "pupilTeacherRatio": "16.34"
+   },
+   {
+      "name": "Pohukaina School",
+      "location": {
+         "state": {
+            "name": "Hawaii",
+            "abbr": "HI "
+         }
+      },
+      "district": "Hawaii Department of Education",
+      "level": "Not Reported",
+      "type": "2-Special education school",
+      "charterSchool": "†",
+      "magnentSchool": "†",
+      "locale": "11-City: Large",
+      "grades": {
+         "lowest": "–",
+         "highest": "–"
+      },
+      "students": "†",
+      "fte": "†",
+      "pupilTeacherRatio": "†"
+   },
+   {
+      "name": "Pomaikai Elementary School",
+      "location": {
+         "state": {
+            "name": "Hawaii",
+            "abbr": "HI "
+         }
+      },
+      "district": "Hawaii Department of Education",
+      "level": "Elementary",
+      "type": "1-Regular school",
+      "charterSchool": "2-No",
+      "magnentSchool": "†",
+      "locale": "13-City: Small",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "5th Grade"
+      },
+      "students": "618",
+      "fte": "40.5",
+      "pupilTeacherRatio": "15.26"
+   },
+   {
+      "name": "President Abraham Lincoln Elementary School",
+      "location": {
+         "state": {
+            "name": "Hawaii",
+            "abbr": "HI "
+         }
+      },
+      "district": "Hawaii Department of Education",
+      "level": "Elementary",
+      "type": "1-Regular school",
+      "charterSchool": "2-No",
+      "magnentSchool": "†",
+      "locale": "11-City: Large",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "5th Grade"
+      },
+      "students": "336",
+      "fte": "25",
+      "pupilTeacherRatio": "13.44"
+   },
+   {
+      "name": "President George Washington Middle School",
+      "location": {
+         "state": {
+            "name": "Hawaii",
+            "abbr": "HI "
+         }
+      },
+      "district": "Hawaii Department of Education",
+      "level": "Middle",
+      "type": "1-Regular school",
+      "charterSchool": "2-No",
+      "magnentSchool": "†",
+      "locale": "11-City: Large",
+      "grades": {
+         "lowest": "6th Grade",
+         "highest": "8th Grade"
+      },
+      "students": "763",
+      "fte": "56",
+      "pupilTeacherRatio": "13.63"
+   },
+   {
+      "name": "President Theodore Roosevelt High School",
+      "location": {
+         "state": {
+            "name": "Hawaii",
+            "abbr": "HI "
+         }
+      },
+      "district": "Hawaii Department of Education",
+      "level": "High",
+      "type": "1-Regular school",
+      "charterSchool": "2-No",
+      "magnentSchool": "†",
+      "locale": "11-City: Large",
+      "grades": {
+         "lowest": "9th Grade",
+         "highest": "12th Grade"
+      },
+      "students": "1440",
+      "fte": "79",
+      "pupilTeacherRatio": "18.23"
+   },
+   {
+      "name": "President Thomas Jefferson Elementary School",
+      "location": {
+         "state": {
+            "name": "Hawaii",
+            "abbr": "HI "
+         }
+      },
+      "district": "Hawaii Department of Education",
+      "level": "Elementary",
+      "type": "1-Regular school",
+      "charterSchool": "2-No",
+      "magnentSchool": "†",
+      "locale": "11-City: Large",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "5th Grade"
+      },
+      "students": "339",
+      "fte": "22.5",
+      "pupilTeacherRatio": "15.07"
+   },
+   {
+      "name": "President William Mckinley High School",
+      "location": {
+         "state": {
+            "name": "Hawaii",
+            "abbr": "HI "
+         }
+      },
+      "district": "Hawaii Department of Education",
+      "level": "High",
+      "type": "1-Regular school",
+      "charterSchool": "2-No",
+      "magnentSchool": "†",
+      "locale": "11-City: Large",
+      "grades": {
+         "lowest": "9th Grade",
+         "highest": "12th Grade"
+      },
+      "students": "1663",
+      "fte": "93.5",
+      "pupilTeacherRatio": "17.79"
+   },
+   {
+      "name": "Prince David Kawananakoa Middle School",
+      "location": {
+         "state": {
+            "name": "Hawaii",
+            "abbr": "HI "
+         }
+      },
+      "district": "Hawaii Department of Education",
+      "level": "Middle",
+      "type": "1-Regular school",
+      "charterSchool": "2-No",
+      "magnentSchool": "†",
+      "locale": "11-City: Large",
+      "grades": {
+         "lowest": "6th Grade",
+         "highest": "8th Grade"
+      },
+      "students": "739",
+      "fte": "42",
+      "pupilTeacherRatio": "17.6"
+   },
+   {
+      "name": "Prince Jonah Kalanianaole Elementary & Intermediate School",
+      "location": {
+         "state": {
+            "name": "Hawaii",
+            "abbr": "HI "
+         }
+      },
+      "district": "Hawaii Department of Education",
+      "level": "Elementary",
+      "type": "1-Regular school",
+      "charterSchool": "2-No",
+      "magnentSchool": "†",
+      "locale": "33-Town: Remote",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "8th Grade"
+      },
+      "students": "305",
+      "fte": "23",
+      "pupilTeacherRatio": "13.26"
+   },
+   {
+      "name": "Prince Jonah Kuhio Elementary School",
+      "location": {
+         "state": {
+            "name": "Hawaii",
+            "abbr": "HI "
+         }
+      },
+      "district": "Hawaii Department of Education",
+      "level": "Elementary",
+      "type": "1-Regular school",
+      "charterSchool": "2-No",
+      "magnentSchool": "†",
+      "locale": "11-City: Large",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "5th Grade"
+      },
+      "students": "195",
+      "fte": "16",
+      "pupilTeacherRatio": "12.19"
+   },
+   {
+      "name": "Princess Miriam K Likelike Elementary School",
+      "location": {
+         "state": {
+            "name": "Hawaii",
+            "abbr": "HI "
+         }
+      },
+      "district": "Hawaii Department of Education",
+      "level": "Elementary",
+      "type": "1-Regular school",
+      "charterSchool": "2-No",
+      "magnentSchool": "†",
+      "locale": "11-City: Large",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "5th Grade"
+      },
+      "students": "317",
+      "fte": "21",
+      "pupilTeacherRatio": "15.1"
+   },
+   {
+      "name": "Princess Nahienaena Elementary School",
+      "location": {
+         "state": {
+            "name": "Hawaii",
+            "abbr": "HI "
+         }
+      },
+      "district": "Hawaii Department of Education",
+      "level": "Elementary",
+      "type": "1-Regular school",
+      "charterSchool": "2-No",
+      "magnentSchool": "†",
+      "locale": "31-Town: Fringe",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "5th Grade"
+      },
+      "students": "755",
+      "fte": "50",
+      "pupilTeacherRatio": "15.1"
+   },
+   {
+      "name": "Princess Victoria Kaiulani Elementary School",
+      "location": {
+         "state": {
+            "name": "Hawaii",
+            "abbr": "HI "
+         }
+      },
+      "district": "Hawaii Department of Education",
+      "level": "Elementary",
+      "type": "1-Regular school",
+      "charterSchool": "2-No",
+      "magnentSchool": "†",
+      "locale": "11-City: Large",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "5th Grade"
+      },
+      "students": "354",
+      "fte": "24",
+      "pupilTeacherRatio": "14.75"
+   },
+   {
+      "name": "Pukalani Elementary School",
+      "location": {
+         "state": {
+            "name": "Hawaii",
+            "abbr": "HI "
+         }
+      },
+      "district": "Hawaii Department of Education",
+      "level": "Elementary",
+      "type": "1-Regular school",
+      "charterSchool": "2-No",
+      "magnentSchool": "†",
+      "locale": "31-Town: Fringe",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "5th Grade"
+      },
+      "students": "437",
+      "fte": "30",
+      "pupilTeacherRatio": "14.57"
+   },
+   {
+      "name": "Puohala Elementary School",
+      "location": {
+         "state": {
+            "name": "Hawaii",
+            "abbr": "HI "
+         }
+      },
+      "district": "Hawaii Department of Education",
+      "level": "Elementary",
+      "type": "1-Regular school",
+      "charterSchool": "2-No",
+      "magnentSchool": "†",
+      "locale": "22-Suburb: Mid-size",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "8th Grade"
+      },
+      "students": "271",
+      "fte": "18.5",
+      "pupilTeacherRatio": "14.65"
+   },
+   {
+      "name": "Puu Kukui Elementary School",
+      "location": {
+         "state": {
+            "name": "Hawaii",
+            "abbr": "HI "
+         }
+      },
+      "district": "Hawaii Department of Education",
+      "level": "Elementary",
+      "type": "1-Regular school",
+      "charterSchool": "2-No",
+      "magnentSchool": "†",
+      "locale": "13-City: Small",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "5th Grade"
+      },
+      "students": "770",
+      "fte": "45",
+      "pupilTeacherRatio": "17.11"
+   },
+   {
+      "name": "Puuhale Elementary School",
+      "location": {
+         "state": {
+            "name": "Hawaii",
+            "abbr": "HI "
+         }
+      },
+      "district": "Hawaii Department of Education",
+      "level": "Elementary",
+      "type": "1-Regular school",
+      "charterSchool": "2-No",
+      "magnentSchool": "†",
+      "locale": "11-City: Large",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "5th Grade"
+      },
+      "students": "230",
+      "fte": "22.5",
+      "pupilTeacherRatio": "10.22"
+   },
+   {
+      "name": "Queen Kaahumanu Elementary School",
+      "location": {
+         "state": {
+            "name": "Hawaii",
+            "abbr": "HI "
+         }
+      },
+      "district": "Hawaii Department of Education",
+      "level": "Elementary",
+      "type": "1-Regular school",
+      "charterSchool": "2-No",
+      "magnentSchool": "†",
+      "locale": "11-City: Large",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "5th Grade"
+      },
+      "students": "520",
+      "fte": "36.5",
+      "pupilTeacherRatio": "14.25"
+   },
+   {
+      "name": "Red Hill Elementary School",
+      "location": {
+         "state": {
+            "name": "Hawaii",
+            "abbr": "HI "
+         }
+      },
+      "district": "Hawaii Department of Education",
+      "level": "Elementary",
+      "type": "1-Regular school",
+      "charterSchool": "2-No",
+      "magnentSchool": "†",
+      "locale": "11-City: Large",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "6th Grade"
+      },
+      "students": "456",
+      "fte": "28",
+      "pupilTeacherRatio": "16.29"
+   },
+   {
+      "name": "Reverend Benjamin Parker Elementary School",
+      "location": {
+         "state": {
+            "name": "Hawaii",
+            "abbr": "HI "
+         }
+      },
+      "district": "Hawaii Department of Education",
+      "level": "Elementary",
+      "type": "1-Regular school",
+      "charterSchool": "2-No",
+      "magnentSchool": "†",
+      "locale": "22-Suburb: Mid-size",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "6th Grade"
+      },
+      "students": "316",
+      "fte": "25",
+      "pupilTeacherRatio": "12.64"
+   },
+   {
+      "name": "Robert Louis Stevenson Middle School",
+      "location": {
+         "state": {
+            "name": "Hawaii",
+            "abbr": "HI "
+         }
+      },
+      "district": "Hawaii Department of Education",
+      "level": "Middle",
+      "type": "1-Regular school",
+      "charterSchool": "2-No",
+      "magnentSchool": "†",
+      "locale": "11-City: Large",
+      "grades": {
+         "lowest": "6th Grade",
+         "highest": "8th Grade"
+      },
+      "students": "688",
+      "fte": "44",
+      "pupilTeacherRatio": "15.64"
+   },
+   {
+      "name": "Royal Elementary School",
+      "location": {
+         "state": {
+            "name": "Hawaii",
+            "abbr": "HI "
+         }
+      },
+      "district": "Hawaii Department of Education",
+      "level": "Elementary",
+      "type": "1-Regular school",
+      "charterSchool": "2-No",
+      "magnentSchool": "†",
+      "locale": "11-City: Large",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "5th Grade"
+      },
+      "students": "372",
+      "fte": "25",
+      "pupilTeacherRatio": "14.88"
+   },
+   {
+      "name": "Salt Lake Elementary School",
+      "location": {
+         "state": {
+            "name": "Hawaii",
+            "abbr": "HI "
+         }
+      },
+      "district": "Hawaii Department of Education",
+      "level": "Elementary",
+      "type": "1-Regular school",
+      "charterSchool": "2-No",
+      "magnentSchool": "†",
+      "locale": "11-City: Large",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "6th Grade"
+      },
+      "students": "713",
+      "fte": "44",
+      "pupilTeacherRatio": "16.2"
+   },
+   {
+      "name": "Samuel Enoka Kalama Intermediate School",
+      "location": {
+         "state": {
+            "name": "Hawaii",
+            "abbr": "HI "
+         }
+      },
+      "district": "Hawaii Department of Education",
+      "level": "Middle",
+      "type": "1-Regular school",
+      "charterSchool": "2-No",
+      "magnentSchool": "†",
+      "locale": "31-Town: Fringe",
+      "grades": {
+         "lowest": "6th Grade",
+         "highest": "8th Grade"
+      },
+      "students": "953",
+      "fte": "70",
+      "pupilTeacherRatio": "13.61"
+   },
+   {
+      "name": "School for Examining Essential Questions of Sustainability",
+      "location": {
+         "state": {
+            "name": "Hawaii",
+            "abbr": "HI "
+         }
+      },
+      "district": "Hawaii Department of Education",
+      "level": "Middle",
+      "type": "1-Regular school",
+      "charterSchool": "1-Yes",
+      "magnentSchool": "†",
+      "locale": "11-City: Large",
+      "grades": {
+         "lowest": "6th Grade",
+         "highest": "8th Grade"
+      },
+      "students": "189",
+      "fte": "15",
+      "pupilTeacherRatio": "12.6"
+   },
+   {
+      "name": "Sergeant Samuel K Solomon Elementary School",
+      "location": {
+         "state": {
+            "name": "Hawaii",
+            "abbr": "HI "
+         }
+      },
+      "district": "Hawaii Department of Education",
+      "level": "Elementary",
+      "type": "1-Regular school",
+      "charterSchool": "2-No",
+      "magnentSchool": "†",
+      "locale": "21-Suburb: Large",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "5th Grade"
+      },
+      "students": "820",
+      "fte": "54",
+      "pupilTeacherRatio": "15.19"
+   },
+   {
+      "name": "Sunset Beach Elementary School",
+      "location": {
+         "state": {
+            "name": "Hawaii",
+            "abbr": "HI "
+         }
+      },
+      "district": "Hawaii Department of Education",
+      "level": "Elementary",
+      "type": "1-Regular school",
+      "charterSchool": "2-No",
+      "magnentSchool": "†",
+      "locale": "41-Rural: Fringe",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "6th Grade"
+      },
+      "students": "420",
+      "fte": "28",
+      "pupilTeacherRatio": "15"
+   },
+   {
+      "name": "University Laboratory School",
+      "location": {
+         "state": {
+            "name": "Hawaii",
+            "abbr": "HI "
+         }
+      },
+      "district": "Hawaii Department of Education",
+      "level": "Other",
+      "type": "1-Regular school",
+      "charterSchool": "1-Yes",
+      "magnentSchool": "†",
+      "locale": "11-City: Large",
+      "grades": {
+         "lowest": "Kindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "443",
+      "fte": "36.2",
+      "pupilTeacherRatio": "12.24"
+   },
+   {
+      "name": "Volcano School of Arts & Sciences - a Community Pcs",
+      "location": {
+         "state": {
+            "name": "Hawaii",
+            "abbr": "HI "
+         }
+      },
+      "district": "Hawaii Department of Education",
+      "level": "Elementary",
+      "type": "1-Regular school",
+      "charterSchool": "1-Yes",
+      "magnentSchool": "†",
+      "locale": "43-Rural: Remote",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "8th Grade"
+      },
+      "students": "223",
+      "fte": "15.82",
+      "pupilTeacherRatio": "14.1"
+   },
+   {
+      "name": "Voyager - a Public Charter School",
+      "location": {
+         "state": {
+            "name": "Hawaii",
+            "abbr": "HI "
+         }
+      },
+      "district": "Hawaii Department of Education",
+      "level": "Elementary",
+      "type": "1-Regular school",
+      "charterSchool": "1-Yes",
+      "magnentSchool": "†",
+      "locale": "11-City: Large",
+      "grades": {
+         "lowest": "Kindergarten",
+         "highest": "8th Grade"
+      },
+      "students": "284",
+      "fte": "21",
+      "pupilTeacherRatio": "13.52"
+   },
+   {
+      "name": "Wahiawa Elementary School",
+      "location": {
+         "state": {
+            "name": "Hawaii",
+            "abbr": "HI "
+         }
+      },
+      "district": "Hawaii Department of Education",
+      "level": "Elementary",
+      "type": "1-Regular school",
+      "charterSchool": "2-No",
+      "magnentSchool": "†",
+      "locale": "21-Suburb: Large",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "5th Grade"
+      },
+      "students": "412",
+      "fte": "31",
+      "pupilTeacherRatio": "13.29"
+   },
+   {
+      "name": "Wahiawa Middle School",
+      "location": {
+         "state": {
+            "name": "Hawaii",
+            "abbr": "HI "
+         }
+      },
+      "district": "Hawaii Department of Education",
+      "level": "Middle",
+      "type": "1-Regular school",
+      "charterSchool": "2-No",
+      "magnentSchool": "†",
+      "locale": "41-Rural: Fringe",
+      "grades": {
+         "lowest": "6th Grade",
+         "highest": "8th Grade"
+      },
+      "students": "821",
+      "fte": "57",
+      "pupilTeacherRatio": "14.4"
+   },
+   {
+      "name": "Waiahole Elementary School",
+      "location": {
+         "state": {
+            "name": "Hawaii",
+            "abbr": "HI "
+         }
+      },
+      "district": "Hawaii Department of Education",
+      "level": "Elementary",
+      "type": "1-Regular school",
+      "charterSchool": "2-No",
+      "magnentSchool": "†",
+      "locale": "41-Rural: Fringe",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "6th Grade"
+      },
+      "students": "90",
+      "fte": "8.5",
+      "pupilTeacherRatio": "10.59"
+   },
+   {
+      "name": "Waiakea Elementary School",
+      "location": {
+         "state": {
+            "name": "Hawaii",
+            "abbr": "HI "
+         }
+      },
+      "district": "Hawaii Department of Education",
+      "level": "Elementary",
+      "type": "1-Regular school",
+      "charterSchool": "2-No",
+      "magnentSchool": "†",
+      "locale": "33-Town: Remote",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "5th Grade"
+      },
+      "students": "857",
+      "fte": "57",
+      "pupilTeacherRatio": "15.04"
+   },
+   {
+      "name": "Waiakea High School",
+      "location": {
+         "state": {
+            "name": "Hawaii",
+            "abbr": "HI "
+         }
+      },
+      "district": "Hawaii Department of Education",
+      "level": "High",
+      "type": "1-Regular school",
+      "charterSchool": "2-No",
+      "magnentSchool": "†",
+      "locale": "33-Town: Remote",
+      "grades": {
+         "lowest": "9th Grade",
+         "highest": "12th Grade"
+      },
+      "students": "1282",
+      "fte": "79",
+      "pupilTeacherRatio": "16.23"
+   },
+   {
+      "name": "Waiakea Intermediate School",
+      "location": {
+         "state": {
+            "name": "Hawaii",
+            "abbr": "HI "
+         }
+      },
+      "district": "Hawaii Department of Education",
+      "level": "Middle",
+      "type": "1-Regular school",
+      "charterSchool": "2-No",
+      "magnentSchool": "†",
+      "locale": "33-Town: Remote",
+      "grades": {
+         "lowest": "6th Grade",
+         "highest": "8th Grade"
+      },
+      "students": "903",
+      "fte": "55",
+      "pupilTeacherRatio": "16.42"
+   },
+   {
+      "name": "Waiakeawaena Elementary School",
+      "location": {
+         "state": {
+            "name": "Hawaii",
+            "abbr": "HI "
+         }
+      },
+      "district": "Hawaii Department of Education",
+      "level": "Elementary",
+      "type": "1-Regular school",
+      "charterSchool": "2-No",
+      "magnentSchool": "†",
+      "locale": "33-Town: Remote",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "5th Grade"
+      },
+      "students": "731",
+      "fte": "51",
+      "pupilTeacherRatio": "14.33"
+   },
+   {
+      "name": "Waialae Elementary - Pcs",
+      "location": {
+         "state": {
+            "name": "Hawaii",
+            "abbr": "HI "
+         }
+      },
+      "district": "Hawaii Department of Education",
+      "level": "Elementary",
+      "type": "1-Regular school",
+      "charterSchool": "1-Yes",
+      "magnentSchool": "†",
+      "locale": "11-City: Large",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "5th Grade"
+      },
+      "students": "498",
+      "fte": "38",
+      "pupilTeacherRatio": "13.11"
+   },
+   {
+      "name": "Waialua Elementary School",
+      "location": {
+         "state": {
+            "name": "Hawaii",
+            "abbr": "HI "
+         }
+      },
+      "district": "Hawaii Department of Education",
+      "level": "Elementary",
+      "type": "1-Regular school",
+      "charterSchool": "2-No",
+      "magnentSchool": "†",
+      "locale": "31-Town: Fringe",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "6th Grade"
+      },
+      "students": "520",
+      "fte": "30",
+      "pupilTeacherRatio": "17.33"
+   },
+   {
+      "name": "Waialua High & Intermediate School",
+      "location": {
+         "state": {
+            "name": "Hawaii",
+            "abbr": "HI "
+         }
+      },
+      "district": "Hawaii Department of Education",
+      "level": "High",
+      "type": "1-Regular school",
+      "charterSchool": "2-No",
+      "magnentSchool": "†",
+      "locale": "31-Town: Fringe",
+      "grades": {
+         "lowest": "7th Grade",
+         "highest": "12th Grade"
+      },
+      "students": "645",
+      "fte": "44",
+      "pupilTeacherRatio": "14.66"
+   },
+   {
+      "name": "Waianae Elementary School",
+      "location": {
+         "state": {
+            "name": "Hawaii",
+            "abbr": "HI "
+         }
+      },
+      "district": "Hawaii Department of Education",
+      "level": "Elementary",
+      "type": "1-Regular school",
+      "charterSchool": "2-No",
+      "magnentSchool": "†",
+      "locale": "21-Suburb: Large",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "6th Grade"
+      },
+      "students": "464",
+      "fte": "33",
+      "pupilTeacherRatio": "14.06"
+   },
+   {
+      "name": "Waianae High School",
+      "location": {
+         "state": {
+            "name": "Hawaii",
+            "abbr": "HI "
+         }
+      },
+      "district": "Hawaii Department of Education",
+      "level": "High",
+      "type": "1-Regular school",
+      "charterSchool": "2-No",
+      "magnentSchool": "†",
+      "locale": "21-Suburb: Large",
+      "grades": {
+         "lowest": "9th Grade",
+         "highest": "12th Grade"
+      },
+      "students": "1762",
+      "fte": "128.5",
+      "pupilTeacherRatio": "13.71"
+   },
+   {
+      "name": "Waianae Intermediate School",
+      "location": {
+         "state": {
+            "name": "Hawaii",
+            "abbr": "HI "
+         }
+      },
+      "district": "Hawaii Department of Education",
+      "level": "Middle",
+      "type": "1-Regular school",
+      "charterSchool": "2-No",
+      "magnentSchool": "†",
+      "locale": "21-Suburb: Large",
+      "grades": {
+         "lowest": "7th Grade",
+         "highest": "8th Grade"
+      },
+      "students": "926",
+      "fte": "62",
+      "pupilTeacherRatio": "14.94"
+   },
+   {
+      "name": "Waiau Elementary School",
+      "location": {
+         "state": {
+            "name": "Hawaii",
+            "abbr": "HI "
+         }
+      },
+      "district": "Hawaii Department of Education",
+      "level": "Elementary",
+      "type": "1-Regular school",
+      "charterSchool": "2-No",
+      "magnentSchool": "†",
+      "locale": "21-Suburb: Large",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "6th Grade"
+      },
+      "students": "489",
+      "fte": "34",
+      "pupilTeacherRatio": "14.38"
+   },
+   {
+      "name": "Waihee Elementary School",
+      "location": {
+         "state": {
+            "name": "Hawaii",
+            "abbr": "HI "
+         }
+      },
+      "district": "Hawaii Department of Education",
+      "level": "Elementary",
+      "type": "1-Regular school",
+      "charterSchool": "2-No",
+      "magnentSchool": "†",
+      "locale": "41-Rural: Fringe",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "5th Grade"
+      },
+      "students": "596",
+      "fte": "38",
+      "pupilTeacherRatio": "15.68"
+   },
+   {
+      "name": "Waikele Elementary School",
+      "location": {
+         "state": {
+            "name": "Hawaii",
+            "abbr": "HI "
+         }
+      },
+      "district": "Hawaii Department of Education",
+      "level": "Elementary",
+      "type": "1-Regular school",
+      "charterSchool": "2-No",
+      "magnentSchool": "†",
+      "locale": "21-Suburb: Large",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "6th Grade"
+      },
+      "students": "576",
+      "fte": "37",
+      "pupilTeacherRatio": "15.57"
+   },
+   {
+      "name": "Waikiki Elementary School",
+      "location": {
+         "state": {
+            "name": "Hawaii",
+            "abbr": "HI "
+         }
+      },
+      "district": "Hawaii Department of Education",
+      "level": "Elementary",
+      "type": "1-Regular school",
+      "charterSchool": "2-No",
+      "magnentSchool": "†",
+      "locale": "11-City: Large",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "5th Grade"
+      },
+      "students": "584",
+      "fte": "32",
+      "pupilTeacherRatio": "18.25"
+   },
+   {
+      "name": "Waikoloa Elementary and Middle School",
+      "location": {
+         "state": {
+            "name": "Hawaii",
+            "abbr": "HI "
+         }
+      },
+      "district": "Hawaii Department of Education",
+      "level": "Elementary",
+      "type": "1-Regular school",
+      "charterSchool": "2-No",
+      "magnentSchool": "†",
+      "locale": "41-Rural: Fringe",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "8th Grade"
+      },
+      "students": "804",
+      "fte": "53.5",
+      "pupilTeacherRatio": "15.03"
+   },
+   {
+      "name": "Wailuku Elementary School",
+      "location": {
+         "state": {
+            "name": "Hawaii",
+            "abbr": "HI "
+         }
+      },
+      "district": "Hawaii Department of Education",
+      "level": "Elementary",
+      "type": "1-Regular school",
+      "charterSchool": "2-No",
+      "magnentSchool": "†",
+      "locale": "13-City: Small",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "5th Grade"
+      },
+      "students": "651",
+      "fte": "43",
+      "pupilTeacherRatio": "15.14"
+   },
+   {
+      "name": "Waimalu Elementary School",
+      "location": {
+         "state": {
+            "name": "Hawaii",
+            "abbr": "HI "
+         }
+      },
+      "district": "Hawaii Department of Education",
+      "level": "Elementary",
+      "type": "1-Regular school",
+      "charterSchool": "2-No",
+      "magnentSchool": "†",
+      "locale": "21-Suburb: Large",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "6th Grade"
+      },
+      "students": "409",
+      "fte": "33",
+      "pupilTeacherRatio": "12.39"
+   },
+   {
+      "name": "Waimanalo Elementary & Intermediate School",
+      "location": {
+         "state": {
+            "name": "Hawaii",
+            "abbr": "HI "
+         }
+      },
+      "district": "Hawaii Department of Education",
+      "level": "Elementary",
+      "type": "1-Regular school",
+      "charterSchool": "2-No",
+      "magnentSchool": "†",
+      "locale": "22-Suburb: Mid-size",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "8th Grade"
+      },
+      "students": "421",
+      "fte": "35",
+      "pupilTeacherRatio": "12.03"
+   },
+   {
+      "name": "Waimea Canyon Middle School",
+      "location": {
+         "state": {
+            "name": "Hawaii",
+            "abbr": "HI "
+         }
+      },
+      "district": "Hawaii Department of Education",
+      "level": "Middle",
+      "type": "1-Regular school",
+      "charterSchool": "2-No",
+      "magnentSchool": "†",
+      "locale": "33-Town: Remote",
+      "grades": {
+         "lowest": "6th Grade",
+         "highest": "8th Grade"
+      },
+      "students": "502",
+      "fte": "33.5",
+      "pupilTeacherRatio": "14.99"
+   },
+   {
+      "name": "Waimea Elementary School",
+      "location": {
+         "state": {
+            "name": "Hawaii",
+            "abbr": "HI "
+         }
+      },
+      "district": "Hawaii Department of Education",
+      "level": "Elementary",
+      "type": "1-Regular school",
+      "charterSchool": "2-No",
+      "magnentSchool": "†",
+      "locale": "33-Town: Remote",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "5th Grade"
+      },
+      "students": "507",
+      "fte": "37.5",
+      "pupilTeacherRatio": "13.52"
+   },
+   {
+      "name": "Waimea High School",
+      "location": {
+         "state": {
+            "name": "Hawaii",
+            "abbr": "HI "
+         }
+      },
+      "district": "Hawaii Department of Education",
+      "level": "High",
+      "type": "1-Regular school",
+      "charterSchool": "2-No",
+      "magnentSchool": "†",
+      "locale": "33-Town: Remote",
+      "grades": {
+         "lowest": "9th Grade",
+         "highest": "12th Grade"
+      },
+      "students": "676",
+      "fte": "45.5",
+      "pupilTeacherRatio": "14.86"
+   },
+   {
+      "name": "Waimea Middle - Pccs",
+      "location": {
+         "state": {
+            "name": "Hawaii",
+            "abbr": "HI "
+         }
+      },
+      "district": "Hawaii Department of Education",
+      "level": "Middle",
+      "type": "1-Regular school",
+      "charterSchool": "1-Yes",
+      "magnentSchool": "†",
+      "locale": "33-Town: Remote",
+      "grades": {
+         "lowest": "6th Grade",
+         "highest": "8th Grade"
+      },
+      "students": "256",
+      "fte": "24",
+      "pupilTeacherRatio": "10.67"
+   },
+   {
+      "name": "Waipahu Elementary School",
+      "location": {
+         "state": {
+            "name": "Hawaii",
+            "abbr": "HI "
+         }
+      },
+      "district": "Hawaii Department of Education",
+      "level": "Elementary",
+      "type": "1-Regular school",
+      "charterSchool": "2-No",
+      "magnentSchool": "†",
+      "locale": "21-Suburb: Large",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "6th Grade"
+      },
+      "students": "996",
+      "fte": "78",
+      "pupilTeacherRatio": "12.77"
+   },
+   {
+      "name": "Waipahu High School",
+      "location": {
+         "state": {
+            "name": "Hawaii",
+            "abbr": "HI "
+         }
+      },
+      "district": "Hawaii Department of Education",
+      "level": "High",
+      "type": "1-Regular school",
+      "charterSchool": "2-No",
+      "magnentSchool": "†",
+      "locale": "21-Suburb: Large",
+      "grades": {
+         "lowest": "9th Grade",
+         "highest": "12th Grade"
+      },
+      "students": "2777",
+      "fte": "164",
+      "pupilTeacherRatio": "16.93"
+   },
+   {
+      "name": "Waipahu Intermediate School",
+      "location": {
+         "state": {
+            "name": "Hawaii",
+            "abbr": "HI "
+         }
+      },
+      "district": "Hawaii Department of Education",
+      "level": "Middle",
+      "type": "1-Regular school",
+      "charterSchool": "2-No",
+      "magnentSchool": "†",
+      "locale": "21-Suburb: Large",
+      "grades": {
+         "lowest": "7th Grade",
+         "highest": "8th Grade"
+      },
+      "students": "1349",
+      "fte": "81",
+      "pupilTeacherRatio": "16.65"
+   },
+   {
+      "name": "West Hawaii Explorations Academy",
+      "location": {
+         "state": {
+            "name": "Hawaii",
+            "abbr": "HI "
+         }
+      },
+      "district": "Hawaii Department of Education",
+      "level": "High",
+      "type": "1-Regular school",
+      "charterSchool": "1-Yes",
+      "magnentSchool": "†",
+      "locale": "41-Rural: Fringe",
+      "grades": {
+         "lowest": "6th Grade",
+         "highest": "12th Grade"
+      },
+      "students": "280",
+      "fte": "20.5",
+      "pupilTeacherRatio": "13.66"
+   },
+   {
+      "name": "William P Jarrett Middle School",
+      "location": {
+         "state": {
+            "name": "Hawaii",
+            "abbr": "HI "
+         }
+      },
+      "district": "Hawaii Department of Education",
+      "level": "Middle",
+      "type": "1-Regular school",
+      "charterSchool": "2-No",
+      "magnentSchool": "†",
+      "locale": "11-City: Large",
+      "grades": {
+         "lowest": "6th Grade",
+         "highest": "8th Grade"
+      },
+      "students": "274",
+      "fte": "22",
+      "pupilTeacherRatio": "12.45"
+   }
+]

@@ -1,0 +1,857 @@
+[
+   {
+      "name": "Academia Antonia Alonso",
+      "location": {
+         "state": {
+            "name": "Delaware",
+            "abbr": "DE",
+            "county": "New Castle County"
+         }
+      },
+      "type": "7-Independent Charter District",
+      "grades": {
+         "lowest": "Kindergarten",
+         "highest": "5th Grade"
+      },
+      "students": "595",
+      "fte": "39",
+      "pupilTeacherRatio": "15.26",
+      "numberOfSchools": "1"
+   },
+   {
+      "name": "Academy of Dover Charter School",
+      "location": {
+         "state": {
+            "name": "Delaware",
+            "abbr": "DE",
+            "county": "Kent County"
+         }
+      },
+      "type": "7-Independent Charter District",
+      "grades": {
+         "lowest": "Kindergarten",
+         "highest": "5th Grade"
+      },
+      "students": "266",
+      "fte": "19",
+      "pupilTeacherRatio": "14",
+      "numberOfSchools": "1"
+   },
+   {
+      "name": "Appoquinimink School District",
+      "location": {
+         "state": {
+            "name": "Delaware",
+            "abbr": "DE",
+            "county": "New Castle County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "11737",
+      "fte": "755",
+      "pupilTeacherRatio": "15.55",
+      "numberOfSchools": "17"
+   },
+   {
+      "name": "Brandywine School District",
+      "location": {
+         "state": {
+            "name": "Delaware",
+            "abbr": "DE",
+            "county": "New Castle County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "10548",
+      "fte": "765",
+      "pupilTeacherRatio": "13.79",
+      "numberOfSchools": "17"
+   },
+   {
+      "name": "Caesar Rodney School District",
+      "location": {
+         "state": {
+            "name": "Delaware",
+            "abbr": "DE",
+            "county": "Kent County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "8183",
+      "fte": "553",
+      "pupilTeacherRatio": "14.8",
+      "numberOfSchools": "13"
+   },
+   {
+      "name": "Campus Community School",
+      "location": {
+         "state": {
+            "name": "Delaware",
+            "abbr": "DE",
+            "county": "Kent County"
+         }
+      },
+      "type": "7-Independent Charter District",
+      "grades": {
+         "lowest": "Kindergarten",
+         "highest": "8th Grade"
+      },
+      "students": "420",
+      "fte": "24",
+      "pupilTeacherRatio": "17.5",
+      "numberOfSchools": "1"
+   },
+   {
+      "name": "Cape Henlopen School District",
+      "location": {
+         "state": {
+            "name": "Delaware",
+            "abbr": "DE",
+            "county": "Sussex County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "5860",
+      "fte": "453",
+      "pupilTeacherRatio": "12.94",
+      "numberOfSchools": "9"
+   },
+   {
+      "name": "Capital School District",
+      "location": {
+         "state": {
+            "name": "Delaware",
+            "abbr": "DE",
+            "county": "Kent County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "6491",
+      "fte": "484",
+      "pupilTeacherRatio": "13.41",
+      "numberOfSchools": "12"
+   },
+   {
+      "name": "Charter School of New Castle",
+      "location": {
+         "state": {
+            "name": "Delaware",
+            "abbr": "DE",
+            "county": "New Castle County"
+         }
+      },
+      "type": "7-Independent Charter District",
+      "grades": {
+         "lowest": "Kindergarten",
+         "highest": "8th Grade"
+      },
+      "students": "766",
+      "fte": "47",
+      "pupilTeacherRatio": "16.3",
+      "numberOfSchools": "1"
+   },
+   {
+      "name": "Charter School of Wilmington",
+      "location": {
+         "state": {
+            "name": "Delaware",
+            "abbr": "DE",
+            "county": "New Castle County"
+         }
+      },
+      "type": "7-Independent Charter District",
+      "grades": {
+         "lowest": "9th Grade",
+         "highest": "12th Grade"
+      },
+      "students": "971",
+      "fte": "47",
+      "pupilTeacherRatio": "20.66",
+      "numberOfSchools": "1"
+   },
+   {
+      "name": "Christina School District",
+      "location": {
+         "state": {
+            "name": "Delaware",
+            "abbr": "DE",
+            "county": "New Castle County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "13370",
+      "fte": "1103",
+      "pupilTeacherRatio": "12.12",
+      "numberOfSchools": "28"
+   },
+   {
+      "name": "Colonial School District",
+      "location": {
+         "state": {
+            "name": "Delaware",
+            "abbr": "DE",
+            "county": "New Castle County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "9921",
+      "fte": "678",
+      "pupilTeacherRatio": "14.63",
+      "numberOfSchools": "15"
+   },
+   {
+      "name": "Corrections - Doe",
+      "location": {
+         "state": {
+            "name": "Delaware",
+            "abbr": "DE",
+            "county": "Kent County"
+         }
+      },
+      "type": "5-State agency providing elementary and/or secondary level instruction",
+      "grades": {
+         "lowest": "†",
+         "highest": "†"
+      },
+      "students": "0",
+      "fte": "0",
+      "pupilTeacherRatio": "†",
+      "numberOfSchools": "0"
+   },
+   {
+      "name": "Delaware Adolescent Program Inc. (Dapi)",
+      "location": {
+         "state": {
+            "name": "Delaware",
+            "abbr": "DE",
+            "county": "New Castle County"
+         }
+      },
+      "type": "4-Regional Education Service Agency (RESA)",
+      "grades": {
+         "lowest": "Ungraded",
+         "highest": "Ungraded"
+      },
+      "students": "0",
+      "fte": "†",
+      "pupilTeacherRatio": "–",
+      "numberOfSchools": "0"
+   },
+   {
+      "name": "Delaware Military Academy",
+      "location": {
+         "state": {
+            "name": "Delaware",
+            "abbr": "DE",
+            "county": "New Castle County"
+         }
+      },
+      "type": "7-Independent Charter District",
+      "grades": {
+         "lowest": "9th Grade",
+         "highest": "12th Grade"
+      },
+      "students": "578",
+      "fte": "26",
+      "pupilTeacherRatio": "22.23",
+      "numberOfSchools": "1"
+   },
+   {
+      "name": "Delmar School District",
+      "location": {
+         "state": {
+            "name": "Delaware",
+            "abbr": "DE",
+            "county": "Sussex County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "5th Grade",
+         "highest": "12th Grade"
+      },
+      "students": "1395",
+      "fte": "72",
+      "pupilTeacherRatio": "19.38",
+      "numberOfSchools": "3"
+   },
+   {
+      "name": "Dept. of Svs. for Children Youth & Their Families",
+      "location": {
+         "state": {
+            "name": "Delaware",
+            "abbr": "DE",
+            "county": "New Castle County"
+         }
+      },
+      "type": "5-State agency providing elementary and/or secondary level instruction",
+      "grades": {
+         "lowest": "†",
+         "highest": "†"
+      },
+      "students": "0",
+      "fte": "0",
+      "pupilTeacherRatio": "†",
+      "numberOfSchools": "0"
+   },
+   {
+      "name": "Early College High School at Del State",
+      "location": {
+         "state": {
+            "name": "Delaware",
+            "abbr": "DE",
+            "county": "Kent County"
+         }
+      },
+      "type": "7-Independent Charter District",
+      "grades": {
+         "lowest": "9th Grade",
+         "highest": "12th Grade"
+      },
+      "students": "421",
+      "fte": "13",
+      "pupilTeacherRatio": "32.38",
+      "numberOfSchools": "1"
+   },
+   {
+      "name": "East Side Charter School",
+      "location": {
+         "state": {
+            "name": "Delaware",
+            "abbr": "DE",
+            "county": "New Castle County"
+         }
+      },
+      "type": "7-Independent Charter District",
+      "grades": {
+         "lowest": "Kindergarten",
+         "highest": "8th Grade"
+      },
+      "students": "426",
+      "fte": "33",
+      "pupilTeacherRatio": "12.91",
+      "numberOfSchools": "1"
+   },
+   {
+      "name": "Edison (Thomas A.) Charter School",
+      "location": {
+         "state": {
+            "name": "Delaware",
+            "abbr": "DE",
+            "county": "New Castle County"
+         }
+      },
+      "type": "7-Independent Charter District",
+      "grades": {
+         "lowest": "Kindergarten",
+         "highest": "8th Grade"
+      },
+      "students": "728",
+      "fte": "43",
+      "pupilTeacherRatio": "16.93",
+      "numberOfSchools": "1"
+   },
+   {
+      "name": "First State Military Academy",
+      "location": {
+         "state": {
+            "name": "Delaware",
+            "abbr": "DE",
+            "county": "Kent County"
+         }
+      },
+      "type": "7-Independent Charter District",
+      "grades": {
+         "lowest": "9th Grade",
+         "highest": "12th Grade"
+      },
+      "students": "452",
+      "fte": "24",
+      "pupilTeacherRatio": "18.83",
+      "numberOfSchools": "1"
+   },
+   {
+      "name": "First State Montessori Academy",
+      "location": {
+         "state": {
+            "name": "Delaware",
+            "abbr": "DE",
+            "county": "New Castle County"
+         }
+      },
+      "type": "7-Independent Charter District",
+      "grades": {
+         "lowest": "Kindergarten",
+         "highest": "8th Grade"
+      },
+      "students": "599",
+      "fte": "32",
+      "pupilTeacherRatio": "18.72",
+      "numberOfSchools": "1"
+   },
+   {
+      "name": "Freire Charter School Wilmington",
+      "location": {
+         "state": {
+            "name": "DELAWARE",
+            "abbr": "DE",
+            "county": "New Castle County"
+         }
+      },
+      "type": "7-Independent Charter District",
+      "grades": {
+         "lowest": "8th Grade",
+         "highest": "12th Grade"
+      },
+      "students": "487",
+      "fte": "26",
+      "pupilTeacherRatio": "18.73",
+      "numberOfSchools": "1"
+   },
+   {
+      "name": "Gateway Lab School",
+      "location": {
+         "state": {
+            "name": "Delaware",
+            "abbr": "DE",
+            "county": "New Castle County"
+         }
+      },
+      "type": "7-Independent Charter District",
+      "grades": {
+         "lowest": "3rd Grade",
+         "highest": "8th Grade"
+      },
+      "students": "177",
+      "fte": "23",
+      "pupilTeacherRatio": "7.7",
+      "numberOfSchools": "1"
+   },
+   {
+      "name": "Great Oaks Charter School",
+      "location": {
+         "state": {
+            "name": "DELAWARE",
+            "abbr": "DE",
+            "county": "New Castle County"
+         }
+      },
+      "type": "7-Independent Charter District",
+      "grades": {
+         "lowest": "6th Grade",
+         "highest": "10th Grade"
+      },
+      "students": "479",
+      "fte": "25",
+      "pupilTeacherRatio": "19.16",
+      "numberOfSchools": "1"
+   },
+   {
+      "name": "Indian River School District",
+      "location": {
+         "state": {
+            "name": "Delaware",
+            "abbr": "DE",
+            "county": "Sussex County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "10942",
+      "fte": "783",
+      "pupilTeacherRatio": "13.97",
+      "numberOfSchools": "16"
+   },
+   {
+      "name": "Kuumba Academy Charter School",
+      "location": {
+         "state": {
+            "name": "Delaware",
+            "abbr": "DE",
+            "county": "New Castle County"
+         }
+      },
+      "type": "7-Independent Charter District",
+      "grades": {
+         "lowest": "Kindergarten",
+         "highest": "8th Grade"
+      },
+      "students": "668",
+      "fte": "51",
+      "pupilTeacherRatio": "13.1",
+      "numberOfSchools": "1"
+   },
+   {
+      "name": "Lake Forest School District",
+      "location": {
+         "state": {
+            "name": "Delaware",
+            "abbr": "DE",
+            "county": "Kent County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "3721",
+      "fte": "254",
+      "pupilTeacherRatio": "14.65",
+      "numberOfSchools": "7"
+   },
+   {
+      "name": "Las Americas Aspira Academy",
+      "location": {
+         "state": {
+            "name": "Delaware",
+            "abbr": "DE",
+            "county": "New Castle County"
+         }
+      },
+      "type": "7-Independent Charter District",
+      "grades": {
+         "lowest": "Kindergarten",
+         "highest": "8th Grade"
+      },
+      "students": "946",
+      "fte": "65",
+      "pupilTeacherRatio": "14.55",
+      "numberOfSchools": "1"
+   },
+   {
+      "name": "Laurel School District",
+      "location": {
+         "state": {
+            "name": "Delaware",
+            "abbr": "DE",
+            "county": "Sussex County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "2645",
+      "fte": "168",
+      "pupilTeacherRatio": "15.74",
+      "numberOfSchools": "4"
+   },
+   {
+      "name": "Milford School District",
+      "location": {
+         "state": {
+            "name": "Delaware",
+            "abbr": "DE",
+            "county": "Sussex County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "4244",
+      "fte": "278",
+      "pupilTeacherRatio": "15.27",
+      "numberOfSchools": "6"
+   },
+   {
+      "name": "Mot Charter School",
+      "location": {
+         "state": {
+            "name": "Delaware",
+            "abbr": "DE",
+            "county": "New Castle County"
+         }
+      },
+      "type": "7-Independent Charter District",
+      "grades": {
+         "lowest": "Kindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "1375",
+      "fte": "80",
+      "pupilTeacherRatio": "17.19",
+      "numberOfSchools": "1"
+   },
+   {
+      "name": "New Castle County Vocational-Technical School District",
+      "location": {
+         "state": {
+            "name": "Delaware",
+            "abbr": "DE",
+            "county": "New Castle County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "9th Grade",
+         "highest": "12th Grade"
+      },
+      "students": "4615",
+      "fte": "347",
+      "pupilTeacherRatio": "13.3",
+      "numberOfSchools": "4"
+   },
+   {
+      "name": "Newark Charter School",
+      "location": {
+         "state": {
+            "name": "Delaware",
+            "abbr": "DE",
+            "county": "New Castle County"
+         }
+      },
+      "type": "7-Independent Charter District",
+      "grades": {
+         "lowest": "Kindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "2412",
+      "fte": "141",
+      "pupilTeacherRatio": "17.11",
+      "numberOfSchools": "1"
+   },
+   {
+      "name": "Odyssey Charter School",
+      "location": {
+         "state": {
+            "name": "Delaware",
+            "abbr": "DE",
+            "county": "New Castle County"
+         }
+      },
+      "type": "7-Independent Charter District",
+      "grades": {
+         "lowest": "Kindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "1916",
+      "fte": "156",
+      "pupilTeacherRatio": "12.28",
+      "numberOfSchools": "1"
+   },
+   {
+      "name": "Polytech School District",
+      "location": {
+         "state": {
+            "name": "Delaware",
+            "abbr": "DE",
+            "county": "Kent County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "9th Grade",
+         "highest": "12th Grade"
+      },
+      "students": "1192",
+      "fte": "86",
+      "pupilTeacherRatio": "13.86",
+      "numberOfSchools": "1"
+   },
+   {
+      "name": "Positive Outcomes Charter School",
+      "location": {
+         "state": {
+            "name": "Delaware",
+            "abbr": "DE",
+            "county": "Kent County"
+         }
+      },
+      "type": "7-Independent Charter District",
+      "grades": {
+         "lowest": "7th Grade",
+         "highest": "12th Grade"
+      },
+      "students": "121",
+      "fte": "15",
+      "pupilTeacherRatio": "8.07",
+      "numberOfSchools": "1"
+   },
+   {
+      "name": "Providence Creek Academy Charter School",
+      "location": {
+         "state": {
+            "name": "Delaware",
+            "abbr": "DE",
+            "county": "Kent County"
+         }
+      },
+      "type": "7-Independent Charter District",
+      "grades": {
+         "lowest": "Kindergarten",
+         "highest": "8th Grade"
+      },
+      "students": "703",
+      "fte": "40",
+      "pupilTeacherRatio": "17.58",
+      "numberOfSchools": "1"
+   },
+   {
+      "name": "Red Clay Consolidated School District",
+      "location": {
+         "state": {
+            "name": "Delaware",
+            "abbr": "DE",
+            "county": "New Castle County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "15520",
+      "fte": "1086",
+      "pupilTeacherRatio": "14.29",
+      "numberOfSchools": "28"
+   },
+   {
+      "name": "Seaford School District",
+      "location": {
+         "state": {
+            "name": "Delaware",
+            "abbr": "DE",
+            "county": "Sussex County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "3465",
+      "fte": "233",
+      "pupilTeacherRatio": "14.87",
+      "numberOfSchools": "7"
+   },
+   {
+      "name": "Smyrna School District",
+      "location": {
+         "state": {
+            "name": "Delaware",
+            "abbr": "DE",
+            "county": "Kent County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "5882",
+      "fte": "381",
+      "pupilTeacherRatio": "15.44",
+      "numberOfSchools": "8"
+   },
+   {
+      "name": "Sussex Academy",
+      "location": {
+         "state": {
+            "name": "Delaware",
+            "abbr": "DE",
+            "county": "Sussex County"
+         }
+      },
+      "type": "7-Independent Charter District",
+      "grades": {
+         "lowest": "6th Grade",
+         "highest": "12th Grade"
+      },
+      "students": "858",
+      "fte": "41",
+      "pupilTeacherRatio": "20.93",
+      "numberOfSchools": "1"
+   },
+   {
+      "name": "Sussex Montessori School",
+      "location": {
+         "state": {
+            "name": "DELAWARE",
+            "abbr": "DE",
+            "county": "New Castle County"
+         }
+      },
+      "type": "7-Independent Charter District",
+      "grades": {
+         "lowest": "–",
+         "highest": "–"
+      },
+      "students": "†",
+      "fte": "†",
+      "pupilTeacherRatio": "†",
+      "numberOfSchools": "0"
+   },
+   {
+      "name": "Sussex Technical School District",
+      "location": {
+         "state": {
+            "name": "Delaware",
+            "abbr": "DE",
+            "county": "Sussex County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "9th Grade",
+         "highest": "12th Grade"
+      },
+      "students": "1241",
+      "fte": "85",
+      "pupilTeacherRatio": "14.6",
+      "numberOfSchools": "1"
+   },
+   {
+      "name": "Woodbridge School District",
+      "location": {
+         "state": {
+            "name": "Delaware",
+            "abbr": "DE",
+            "county": "Sussex County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "2594",
+      "fte": "173",
+      "pupilTeacherRatio": "14.99",
+      "numberOfSchools": "4"
+   }
+]

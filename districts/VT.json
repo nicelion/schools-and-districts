@@ -1,0 +1,3555 @@
+[
+   {
+      "name": "Addison Central Supervisory Union",
+      "location": {
+         "state": {
+            "name": "Vermont",
+            "abbr": "VT",
+            "county": "Addison County"
+         }
+      },
+      "type": "3-Supervisory union administrative center (or county superintendent's office serving the same purpose)",
+      "grades": {
+         "lowest": "†",
+         "highest": "†"
+      },
+      "students": "†",
+      "fte": "27",
+      "pupilTeacherRatio": "–",
+      "numberOfSchools": "0"
+   },
+   {
+      "name": "Addison Central Unified School District",
+      "location": {
+         "state": {
+            "name": "VERMONT",
+            "abbr": "VT",
+            "county": "Addison County"
+         }
+      },
+      "type": "2-Local school district that is a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "1808",
+      "fte": "146.91",
+      "pupilTeacherRatio": "12.31",
+      "numberOfSchools": "9"
+   },
+   {
+      "name": "Addison Northwest Supervisory Union",
+      "location": {
+         "state": {
+            "name": "Vermont",
+            "abbr": "VT",
+            "county": "Addison County"
+         }
+      },
+      "type": "3-Supervisory union administrative center (or county superintendent's office serving the same purpose)",
+      "grades": {
+         "lowest": "†",
+         "highest": "†"
+      },
+      "students": "†",
+      "fte": "0",
+      "pupilTeacherRatio": "–",
+      "numberOfSchools": "0"
+   },
+   {
+      "name": "Addison Northwest Unified School District",
+      "location": {
+         "state": {
+            "name": "VERMONT",
+            "abbr": "VT",
+            "county": "Addison County"
+         }
+      },
+      "type": "2-Local school district that is a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "953",
+      "fte": "85.25",
+      "pupilTeacherRatio": "11.18",
+      "numberOfSchools": "4"
+   },
+   {
+      "name": "Addison Rutland Supervisory Union",
+      "location": {
+         "state": {
+            "name": "Vermont",
+            "abbr": "VT",
+            "county": "Rutland County"
+         }
+      },
+      "type": "3-Supervisory union administrative center (or county superintendent's office serving the same purpose)",
+      "grades": {
+         "lowest": "†",
+         "highest": "†"
+      },
+      "students": "†",
+      "fte": "19.03",
+      "pupilTeacherRatio": "–",
+      "numberOfSchools": "0"
+   },
+   {
+      "name": "Alburg School District",
+      "location": {
+         "state": {
+            "name": "Vermont",
+            "abbr": "VT",
+            "county": "Grand Isle County"
+         }
+      },
+      "type": "2-Local school district that is a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "230",
+      "fte": "22.7",
+      "pupilTeacherRatio": "10.13",
+      "numberOfSchools": "1"
+   },
+   {
+      "name": "Arlington School District",
+      "location": {
+         "state": {
+            "name": "Vermont",
+            "abbr": "VT",
+            "county": "Bennington County"
+         }
+      },
+      "type": "2-Local school district that is a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "411",
+      "fte": "39.4",
+      "pupilTeacherRatio": "10.43",
+      "numberOfSchools": "2"
+   },
+   {
+      "name": "Averill School District",
+      "location": {
+         "state": {
+            "name": "Vermont",
+            "abbr": "VT",
+            "county": "Essex County"
+         }
+      },
+      "type": "2-Local school district that is a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "0",
+      "fte": "0",
+      "pupilTeacherRatio": "†",
+      "numberOfSchools": "0"
+   },
+   {
+      "name": "Averys Gore School District",
+      "location": {
+         "state": {
+            "name": "Vermont",
+            "abbr": "VT",
+            "county": "Essex County"
+         }
+      },
+      "type": "2-Local school district that is a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "0",
+      "fte": "0",
+      "pupilTeacherRatio": "†",
+      "numberOfSchools": "0"
+   },
+   {
+      "name": "Barnard School District",
+      "location": {
+         "state": {
+            "name": "Vermont",
+            "abbr": "VT",
+            "county": "Windsor County"
+         }
+      },
+      "type": "2-Local school district that is a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "6th Grade"
+      },
+      "students": "79",
+      "fte": "7.1",
+      "pupilTeacherRatio": "11.13",
+      "numberOfSchools": "1"
+   },
+   {
+      "name": "Barre Supervisory Union",
+      "location": {
+         "state": {
+            "name": "Vermont",
+            "abbr": "VT",
+            "county": "Washington County"
+         }
+      },
+      "type": "3-Supervisory union administrative center (or county superintendent's office serving the same purpose)",
+      "grades": {
+         "lowest": "†",
+         "highest": "†"
+      },
+      "students": "†",
+      "fte": "1",
+      "pupilTeacherRatio": "–",
+      "numberOfSchools": "0"
+   },
+   {
+      "name": "Barre Unified Union School District #97",
+      "location": {
+         "state": {
+            "name": "VERMONT",
+            "abbr": "VT",
+            "county": "Washington County"
+         }
+      },
+      "type": "2-Local school district that is a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "2367",
+      "fte": "228.5",
+      "pupilTeacherRatio": "10.36",
+      "numberOfSchools": "4"
+   },
+   {
+      "name": "Barstow Unified School District",
+      "location": {
+         "state": {
+            "name": "VERMONT",
+            "abbr": "VT",
+            "county": "Rutland County"
+         }
+      },
+      "type": "2-Local school district that is a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "227",
+      "fte": "17.1",
+      "pupilTeacherRatio": "13.27",
+      "numberOfSchools": "1"
+   },
+   {
+      "name": "Battenkill Valley Supervisory Union",
+      "location": {
+         "state": {
+            "name": "Vermont",
+            "abbr": "VT",
+            "county": "Bennington County"
+         }
+      },
+      "type": "3-Supervisory union administrative center (or county superintendent's office serving the same purpose)",
+      "grades": {
+         "lowest": "†",
+         "highest": "†"
+      },
+      "students": "†",
+      "fte": "6",
+      "pupilTeacherRatio": "–",
+      "numberOfSchools": "0"
+   },
+   {
+      "name": "Bellows Falls UHSD #27",
+      "location": {
+         "state": {
+            "name": "Vermont",
+            "abbr": "VT",
+            "county": "Windham County"
+         }
+      },
+      "type": "2-Local school district that is a component of a supervisory union",
+      "grades": {
+         "lowest": "9th Grade",
+         "highest": "12th Grade"
+      },
+      "students": "313",
+      "fte": "28.34",
+      "pupilTeacherRatio": "11.04",
+      "numberOfSchools": "1"
+   },
+   {
+      "name": "Bennington Rutland Supervisory Union",
+      "location": {
+         "state": {
+            "name": "Vermont",
+            "abbr": "VT",
+            "county": "Bennington County"
+         }
+      },
+      "type": "3-Supervisory union administrative center (or county superintendent's office serving the same purpose)",
+      "grades": {
+         "lowest": "†",
+         "highest": "†"
+      },
+      "students": "†",
+      "fte": "26.64",
+      "pupilTeacherRatio": "–",
+      "numberOfSchools": "0"
+   },
+   {
+      "name": "Blue Mountain USD #21",
+      "location": {
+         "state": {
+            "name": "Vermont",
+            "abbr": "VT",
+            "county": "Orange County"
+         }
+      },
+      "type": "2-Local school district that is a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "419",
+      "fte": "36.4",
+      "pupilTeacherRatio": "11.51",
+      "numberOfSchools": "1"
+   },
+   {
+      "name": "Brighton School District",
+      "location": {
+         "state": {
+            "name": "Vermont",
+            "abbr": "VT",
+            "county": "Essex County"
+         }
+      },
+      "type": "2-Local school district that is a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "8th Grade"
+      },
+      "students": "122",
+      "fte": "10.4",
+      "pupilTeacherRatio": "11.73",
+      "numberOfSchools": "1"
+   },
+   {
+      "name": "Buels Gore School District",
+      "location": {
+         "state": {
+            "name": "Vermont",
+            "abbr": "VT",
+            "county": "Chittenden County"
+         }
+      },
+      "type": "2-Local school district that is a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "0",
+      "fte": "0",
+      "pupilTeacherRatio": "†",
+      "numberOfSchools": "0"
+   },
+   {
+      "name": "Burlington School District",
+      "location": {
+         "state": {
+            "name": "Vermont",
+            "abbr": "VT",
+            "county": "Chittenden County"
+         }
+      },
+      "type": "2-Local school district that is a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "3837",
+      "fte": "301.49",
+      "pupilTeacherRatio": "12.73",
+      "numberOfSchools": "10"
+   },
+   {
+      "name": "Burlington Supervisory District",
+      "location": {
+         "state": {
+            "name": "Vermont",
+            "abbr": "VT",
+            "county": "Chittenden County"
+         }
+      },
+      "type": "3-Supervisory union administrative center (or county superintendent's office serving the same purpose)",
+      "grades": {
+         "lowest": "†",
+         "highest": "†"
+      },
+      "students": "†",
+      "fte": "25.68",
+      "pupilTeacherRatio": "–",
+      "numberOfSchools": "0"
+   },
+   {
+      "name": "Cabot School District",
+      "location": {
+         "state": {
+            "name": "Vermont",
+            "abbr": "VT",
+            "county": "Washington County"
+         }
+      },
+      "type": "2-Local school district that is a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "156",
+      "fte": "25.14",
+      "pupilTeacherRatio": "6.21",
+      "numberOfSchools": "1"
+   },
+   {
+      "name": "Caledonia Central Supervisory Union",
+      "location": {
+         "state": {
+            "name": "Vermont",
+            "abbr": "VT",
+            "county": "Caledonia County"
+         }
+      },
+      "type": "3-Supervisory union administrative center (or county superintendent's office serving the same purpose)",
+      "grades": {
+         "lowest": "†",
+         "highest": "†"
+      },
+      "students": "†",
+      "fte": "4.3",
+      "pupilTeacherRatio": "–",
+      "numberOfSchools": "0"
+   },
+   {
+      "name": "Caledonia Cooperative Unified School District",
+      "location": {
+         "state": {
+            "name": "VERMONT",
+            "abbr": "VT",
+            "county": "Caledonia County"
+         }
+      },
+      "type": "2-Local school district that is a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "576",
+      "fte": "52.4",
+      "pupilTeacherRatio": "10.99",
+      "numberOfSchools": "3"
+   },
+   {
+      "name": "Cambridge School District",
+      "location": {
+         "state": {
+            "name": "Vermont",
+            "abbr": "VT",
+            "county": "Lamoille County"
+         }
+      },
+      "type": "2-Local school district that is a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "6th Grade"
+      },
+      "students": "358",
+      "fte": "26.72",
+      "pupilTeacherRatio": "13.4",
+      "numberOfSchools": "1"
+   },
+   {
+      "name": "Canaan School District",
+      "location": {
+         "state": {
+            "name": "Vermont",
+            "abbr": "VT",
+            "county": "Essex County"
+         }
+      },
+      "type": "2-Local school district that is a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "180",
+      "fte": "20.86",
+      "pupilTeacherRatio": "8.63",
+      "numberOfSchools": "1"
+   },
+   {
+      "name": "Central Vermont Supervisory Union",
+      "location": {
+         "state": {
+            "name": "VERMONT",
+            "abbr": "VT",
+            "county": "Orange County"
+         }
+      },
+      "type": "3-Supervisory union administrative center (or county superintendent's office serving the same purpose)",
+      "grades": {
+         "lowest": "†",
+         "highest": "†"
+      },
+      "students": "†",
+      "fte": "18",
+      "pupilTeacherRatio": "–",
+      "numberOfSchools": "0"
+   },
+   {
+      "name": "Champlain Islands Unified Union School District #66",
+      "location": {
+         "state": {
+            "name": "VERMONT",
+            "abbr": "VT",
+            "county": "Grand Isle County"
+         }
+      },
+      "type": "2-Local school district that is a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "257",
+      "fte": "27.3",
+      "pupilTeacherRatio": "9.41",
+      "numberOfSchools": "3"
+   },
+   {
+      "name": "Champlain Valley Supervisory District",
+      "location": {
+         "state": {
+            "name": "Vermont",
+            "abbr": "VT",
+            "county": "Chittenden County"
+         }
+      },
+      "type": "3-Supervisory union administrative center (or county superintendent's office serving the same purpose)",
+      "grades": {
+         "lowest": "†",
+         "highest": "†"
+      },
+      "students": "†",
+      "fte": "73.8",
+      "pupilTeacherRatio": "–",
+      "numberOfSchools": "0"
+   },
+   {
+      "name": "Champlain Valley Unified School District",
+      "location": {
+         "state": {
+            "name": "VERMONT",
+            "abbr": "VT",
+            "county": "Chittenden County"
+         }
+      },
+      "type": "2-Local school district that is a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "4315",
+      "fte": "274.13",
+      "pupilTeacherRatio": "15.74",
+      "numberOfSchools": "5"
+   },
+   {
+      "name": "Charleston School District",
+      "location": {
+         "state": {
+            "name": "Vermont",
+            "abbr": "VT",
+            "county": "Orleans County"
+         }
+      },
+      "type": "2-Local school district that is a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "8th Grade"
+      },
+      "students": "115",
+      "fte": "11.34",
+      "pupilTeacherRatio": "10.14",
+      "numberOfSchools": "1"
+   },
+   {
+      "name": "Colchester School District",
+      "location": {
+         "state": {
+            "name": "Vermont",
+            "abbr": "VT",
+            "county": "Chittenden County"
+         }
+      },
+      "type": "2-Local school district that is a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "2412",
+      "fte": "171.6",
+      "pupilTeacherRatio": "14.06",
+      "numberOfSchools": "5"
+   },
+   {
+      "name": "Colchester Supervisory District",
+      "location": {
+         "state": {
+            "name": "Vermont",
+            "abbr": "VT",
+            "county": "Chittenden County"
+         }
+      },
+      "type": "3-Supervisory union administrative center (or county superintendent's office serving the same purpose)",
+      "grades": {
+         "lowest": "†",
+         "highest": "†"
+      },
+      "students": "†",
+      "fte": "5",
+      "pupilTeacherRatio": "–",
+      "numberOfSchools": "0"
+   },
+   {
+      "name": "Coventry School District",
+      "location": {
+         "state": {
+            "name": "Vermont",
+            "abbr": "VT",
+            "county": "Orleans County"
+         }
+      },
+      "type": "2-Local school district that is a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "141",
+      "fte": "11",
+      "pupilTeacherRatio": "12.82",
+      "numberOfSchools": "1"
+   },
+   {
+      "name": "Craftsbury School District",
+      "location": {
+         "state": {
+            "name": "Vermont",
+            "abbr": "VT",
+            "county": "Orleans County"
+         }
+      },
+      "type": "2-Local school district that is a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "210",
+      "fte": "21.19",
+      "pupilTeacherRatio": "9.91",
+      "numberOfSchools": "1"
+   },
+   {
+      "name": "Danville School District",
+      "location": {
+         "state": {
+            "name": "Vermont",
+            "abbr": "VT",
+            "county": "Caledonia County"
+         }
+      },
+      "type": "2-Local school district that is a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "379",
+      "fte": "43.32",
+      "pupilTeacherRatio": "8.75",
+      "numberOfSchools": "1"
+   },
+   {
+      "name": "Department of Corrections",
+      "location": {
+         "state": {
+            "name": "Vermont",
+            "abbr": "VT",
+            "county": "Washington County"
+         }
+      },
+      "type": "5-State agency providing elementary and/or secondary level instruction",
+      "grades": {
+         "lowest": "Adult Education",
+         "highest": "Adult Education"
+      },
+      "students": "0",
+      "fte": "†",
+      "pupilTeacherRatio": "–",
+      "numberOfSchools": "0"
+   },
+   {
+      "name": "Derby School District",
+      "location": {
+         "state": {
+            "name": "Vermont",
+            "abbr": "VT",
+            "county": "Orleans County"
+         }
+      },
+      "type": "2-Local school district that is a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "6th Grade"
+      },
+      "students": "495",
+      "fte": "32.5",
+      "pupilTeacherRatio": "15.23",
+      "numberOfSchools": "1"
+   },
+   {
+      "name": "Echo Valley Community School District",
+      "location": {
+         "state": {
+            "name": "VERMONT",
+            "abbr": "VT",
+            "county": "Orange County"
+         }
+      },
+      "type": "2-Local school district that is a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "191",
+      "fte": "13.4",
+      "pupilTeacherRatio": "14.25",
+      "numberOfSchools": "2"
+   },
+   {
+      "name": "Enosburgh-Richford Unified Union School District #88",
+      "location": {
+         "state": {
+            "name": "VERMONT",
+            "abbr": "VT",
+            "county": "Franklin County"
+         }
+      },
+      "type": "2-Local school district that is a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "1118",
+      "fte": "97.65",
+      "pupilTeacherRatio": "11.45",
+      "numberOfSchools": "5"
+   },
+   {
+      "name": "Essex North Supervisory Union",
+      "location": {
+         "state": {
+            "name": "Vermont",
+            "abbr": "VT",
+            "county": "Essex County"
+         }
+      },
+      "type": "3-Supervisory union administrative center (or county superintendent's office serving the same purpose)",
+      "grades": {
+         "lowest": "†",
+         "highest": "†"
+      },
+      "students": "†",
+      "fte": "3.5",
+      "pupilTeacherRatio": "–",
+      "numberOfSchools": "0"
+   },
+   {
+      "name": "Essex-Westford Educational Community Unified School District",
+      "location": {
+         "state": {
+            "name": "VERMONT",
+            "abbr": "VT",
+            "county": "Chittenden County"
+         }
+      },
+      "type": "2-Local school district that is a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "3930",
+      "fte": "346.73",
+      "pupilTeacherRatio": "11.33",
+      "numberOfSchools": "10"
+   },
+   {
+      "name": "Essex-Westford Supervisory District",
+      "location": {
+         "state": {
+            "name": "VERMONT",
+            "abbr": "VT",
+            "county": "Chittenden County"
+         }
+      },
+      "type": "3-Supervisory union administrative center (or county superintendent's office serving the same purpose)",
+      "grades": {
+         "lowest": "†",
+         "highest": "†"
+      },
+      "students": "†",
+      "fte": "0",
+      "pupilTeacherRatio": "–",
+      "numberOfSchools": "0"
+   },
+   {
+      "name": "Fairfax School District",
+      "location": {
+         "state": {
+            "name": "Vermont",
+            "abbr": "VT",
+            "county": "Franklin County"
+         }
+      },
+      "type": "2-Local school district that is a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "1021",
+      "fte": "65.9",
+      "pupilTeacherRatio": "15.49",
+      "numberOfSchools": "2"
+   },
+   {
+      "name": "Ferdinand School District",
+      "location": {
+         "state": {
+            "name": "Vermont",
+            "abbr": "VT",
+            "county": "Orleans County"
+         }
+      },
+      "type": "2-Local school district that is a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "0",
+      "fte": "0",
+      "pupilTeacherRatio": "†",
+      "numberOfSchools": "0"
+   },
+   {
+      "name": "First Branch Unified School District",
+      "location": {
+         "state": {
+            "name": "VERMONT",
+            "abbr": "VT",
+            "county": "Windsor County"
+         }
+      },
+      "type": "2-Local school district that is a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "294",
+      "fte": "25",
+      "pupilTeacherRatio": "11.76",
+      "numberOfSchools": "2"
+   },
+   {
+      "name": "Fletcher School District",
+      "location": {
+         "state": {
+            "name": "Vermont",
+            "abbr": "VT",
+            "county": "Franklin County"
+         }
+      },
+      "type": "2-Local school district that is a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "113",
+      "fte": "9",
+      "pupilTeacherRatio": "12.56",
+      "numberOfSchools": "1"
+   },
+   {
+      "name": "Franklin Northeast Supervisory Union",
+      "location": {
+         "state": {
+            "name": "Vermont",
+            "abbr": "VT",
+            "county": "Franklin County"
+         }
+      },
+      "type": "3-Supervisory union administrative center (or county superintendent's office serving the same purpose)",
+      "grades": {
+         "lowest": "†",
+         "highest": "†"
+      },
+      "students": "†",
+      "fte": "37.9",
+      "pupilTeacherRatio": "–",
+      "numberOfSchools": "0"
+   },
+   {
+      "name": "Franklin Northwest Supervisory Union",
+      "location": {
+         "state": {
+            "name": "Vermont",
+            "abbr": "VT",
+            "county": "Franklin County"
+         }
+      },
+      "type": "3-Supervisory union administrative center (or county superintendent's office serving the same purpose)",
+      "grades": {
+         "lowest": "†",
+         "highest": "†"
+      },
+      "students": "†",
+      "fte": "2",
+      "pupilTeacherRatio": "–",
+      "numberOfSchools": "0"
+   },
+   {
+      "name": "Franklin West Supervisory Union",
+      "location": {
+         "state": {
+            "name": "Vermont",
+            "abbr": "VT",
+            "county": "Franklin County"
+         }
+      },
+      "type": "3-Supervisory union administrative center (or county superintendent's office serving the same purpose)",
+      "grades": {
+         "lowest": "†",
+         "highest": "†"
+      },
+      "students": "†",
+      "fte": "21.5",
+      "pupilTeacherRatio": "–",
+      "numberOfSchools": "0"
+   },
+   {
+      "name": "Georgia School District",
+      "location": {
+         "state": {
+            "name": "Vermont",
+            "abbr": "VT",
+            "county": "Franklin County"
+         }
+      },
+      "type": "2-Local school district that is a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "676",
+      "fte": "53",
+      "pupilTeacherRatio": "12.75",
+      "numberOfSchools": "1"
+   },
+   {
+      "name": "Glastenbury School District",
+      "location": {
+         "state": {
+            "name": "Vermont",
+            "abbr": "VT",
+            "county": "Bennington County"
+         }
+      },
+      "type": "2-Local school district that is a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "0",
+      "fte": "0",
+      "pupilTeacherRatio": "†",
+      "numberOfSchools": "0"
+   },
+   {
+      "name": "Grand Isle Supervisory Union",
+      "location": {
+         "state": {
+            "name": "Vermont",
+            "abbr": "VT",
+            "county": "Grand Isle County"
+         }
+      },
+      "type": "3-Supervisory union administrative center (or county superintendent's office serving the same purpose)",
+      "grades": {
+         "lowest": "†",
+         "highest": "†"
+      },
+      "students": "†",
+      "fte": "0",
+      "pupilTeacherRatio": "–",
+      "numberOfSchools": "0"
+   },
+   {
+      "name": "Granville Hancock Unified School District",
+      "location": {
+         "state": {
+            "name": "VERMONT",
+            "abbr": "VT",
+            "county": "Windsor County"
+         }
+      },
+      "type": "2-Local school district that is a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "2",
+      "fte": "0",
+      "pupilTeacherRatio": "†",
+      "numberOfSchools": "0"
+   },
+   {
+      "name": "Greater Rutland County Supervisory Union",
+      "location": {
+         "state": {
+            "name": "VERMONT",
+            "abbr": "VT",
+            "county": "Rutland County"
+         }
+      },
+      "type": "3-Supervisory union administrative center (or county superintendent's office serving the same purpose)",
+      "grades": {
+         "lowest": "†",
+         "highest": "†"
+      },
+      "students": "†",
+      "fte": "28",
+      "pupilTeacherRatio": "–",
+      "numberOfSchools": "0"
+   },
+   {
+      "name": "Green Mountain Unified School District",
+      "location": {
+         "state": {
+            "name": "VERMONT",
+            "abbr": "VT",
+            "county": "Windsor County"
+         }
+      },
+      "type": "2-Local school district that is a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "685",
+      "fte": "53.53",
+      "pupilTeacherRatio": "12.8",
+      "numberOfSchools": "3"
+   },
+   {
+      "name": "Hartford School District",
+      "location": {
+         "state": {
+            "name": "Vermont",
+            "abbr": "VT",
+            "county": "Windsor County"
+         }
+      },
+      "type": "2-Local school district that is a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "1504",
+      "fte": "170.28",
+      "pupilTeacherRatio": "8.83",
+      "numberOfSchools": "6"
+   },
+   {
+      "name": "Hartford Supervisory District",
+      "location": {
+         "state": {
+            "name": "Vermont",
+            "abbr": "VT",
+            "county": "Windsor County"
+         }
+      },
+      "type": "3-Supervisory union administrative center (or county superintendent's office serving the same purpose)",
+      "grades": {
+         "lowest": "†",
+         "highest": "†"
+      },
+      "students": "†",
+      "fte": "13.5",
+      "pupilTeacherRatio": "–",
+      "numberOfSchools": "0"
+   },
+   {
+      "name": "Hartland School District",
+      "location": {
+         "state": {
+            "name": "Vermont",
+            "abbr": "VT",
+            "county": "Windsor County"
+         }
+      },
+      "type": "2-Local school district that is a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "322",
+      "fte": "21.4",
+      "pupilTeacherRatio": "15.05",
+      "numberOfSchools": "1"
+   },
+   {
+      "name": "Harwood Unified School District",
+      "location": {
+         "state": {
+            "name": "VERMONT",
+            "abbr": "VT",
+            "county": "Washington County"
+         }
+      },
+      "type": "2-Local school district that is a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "1873",
+      "fte": "168.92",
+      "pupilTeacherRatio": "11.09",
+      "numberOfSchools": "7"
+   },
+   {
+      "name": "Harwood Unified Union Supervisory District",
+      "location": {
+         "state": {
+            "name": "Vermont",
+            "abbr": "VT",
+            "county": "Washington County"
+         }
+      },
+      "type": "3-Supervisory union administrative center (or county superintendent's office serving the same purpose)",
+      "grades": {
+         "lowest": "†",
+         "highest": "†"
+      },
+      "students": "†",
+      "fte": "0",
+      "pupilTeacherRatio": "–",
+      "numberOfSchools": "0"
+   },
+   {
+      "name": "Hazen UHSD #26",
+      "location": {
+         "state": {
+            "name": "Vermont",
+            "abbr": "VT",
+            "county": "Caledonia County"
+         }
+      },
+      "type": "2-Local school district that is a component of a supervisory union",
+      "grades": {
+         "lowest": "7th Grade",
+         "highest": "12th Grade"
+      },
+      "students": "296",
+      "fte": "31.5",
+      "pupilTeacherRatio": "9.4",
+      "numberOfSchools": "1"
+   },
+   {
+      "name": "Holland School District",
+      "location": {
+         "state": {
+            "name": "Vermont",
+            "abbr": "VT",
+            "county": "Orleans County"
+         }
+      },
+      "type": "2-Local school district that is a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "6th Grade"
+      },
+      "students": "0",
+      "fte": "0",
+      "pupilTeacherRatio": "†",
+      "numberOfSchools": "0"
+   },
+   {
+      "name": "Ira School District",
+      "location": {
+         "state": {
+            "name": "Vermont",
+            "abbr": "VT",
+            "county": "Rutland County"
+         }
+      },
+      "type": "2-Local school district that is a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "5",
+      "fte": "0",
+      "pupilTeacherRatio": "†",
+      "numberOfSchools": "0"
+   },
+   {
+      "name": "Jay School District",
+      "location": {
+         "state": {
+            "name": "Vermont",
+            "abbr": "VT",
+            "county": "Orleans County"
+         }
+      },
+      "type": "2-Local school district that is a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "6th Grade"
+      },
+      "students": "1",
+      "fte": "0",
+      "pupilTeacherRatio": "†",
+      "numberOfSchools": "0"
+   },
+   {
+      "name": "Jay/westfield Joint Elementary School District",
+      "location": {
+         "state": {
+            "name": "Vermont",
+            "abbr": "VT",
+            "county": "Orleans County"
+         }
+      },
+      "type": "2-Local school district that is a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "6th Grade"
+      },
+      "students": "96",
+      "fte": "6.8",
+      "pupilTeacherRatio": "14.12",
+      "numberOfSchools": "1"
+   },
+   {
+      "name": "Kingdom East Supervisory District",
+      "location": {
+         "state": {
+            "name": "VERMONT",
+            "abbr": "VT",
+            "county": "Caledonia County"
+         }
+      },
+      "type": "3-Supervisory union administrative center (or county superintendent's office serving the same purpose)",
+      "grades": {
+         "lowest": "†",
+         "highest": "†"
+      },
+      "students": "†",
+      "fte": "2",
+      "pupilTeacherRatio": "–",
+      "numberOfSchools": "0"
+   },
+   {
+      "name": "Kingdom East Unified Union School District",
+      "location": {
+         "state": {
+            "name": "VERMONT",
+            "abbr": "VT",
+            "county": "Caledonia County"
+         }
+      },
+      "type": "2-Local school district that is a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "1836",
+      "fte": "126.79",
+      "pupilTeacherRatio": "14.48",
+      "numberOfSchools": "7"
+   },
+   {
+      "name": "Lake Region UHSD #24",
+      "location": {
+         "state": {
+            "name": "Vermont",
+            "abbr": "VT",
+            "county": "Orleans County"
+         }
+      },
+      "type": "2-Local school district that is a component of a supervisory union",
+      "grades": {
+         "lowest": "9th Grade",
+         "highest": "12th Grade"
+      },
+      "students": "366",
+      "fte": "32",
+      "pupilTeacherRatio": "11.44",
+      "numberOfSchools": "1"
+   },
+   {
+      "name": "Lake Region Union Elementary Middle School District",
+      "location": {
+         "state": {
+            "name": "VERMONT",
+            "abbr": "VT",
+            "county": "Orleans County"
+         }
+      },
+      "type": "2-Local school district that is a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "8th Grade"
+      },
+      "students": "780",
+      "fte": "62.45",
+      "pupilTeacherRatio": "12.49",
+      "numberOfSchools": "6"
+   },
+   {
+      "name": "Lamoille North Modified USD #058a",
+      "location": {
+         "state": {
+            "name": "VERMONT",
+            "abbr": "VT",
+            "county": "Lamoille County"
+         }
+      },
+      "type": "2-Local school district that is a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "6th Grade"
+      },
+      "students": "737",
+      "fte": "61.9",
+      "pupilTeacherRatio": "11.91",
+      "numberOfSchools": "4"
+   },
+   {
+      "name": "Lamoille North Modified USD #058b",
+      "location": {
+         "state": {
+            "name": "VERMONT",
+            "abbr": "VT",
+            "county": "Lamoille County"
+         }
+      },
+      "type": "2-Local school district that is a component of a supervisory union",
+      "grades": {
+         "lowest": "7th Grade",
+         "highest": "12th Grade"
+      },
+      "students": "755",
+      "fte": "80.75",
+      "pupilTeacherRatio": "9.35",
+      "numberOfSchools": "3"
+   },
+   {
+      "name": "Lamoille North Supervisory Union",
+      "location": {
+         "state": {
+            "name": "Vermont",
+            "abbr": "VT",
+            "county": "Lamoille County"
+         }
+      },
+      "type": "3-Supervisory union administrative center (or county superintendent's office serving the same purpose)",
+      "grades": {
+         "lowest": "†",
+         "highest": "†"
+      },
+      "students": "†",
+      "fte": "28.4",
+      "pupilTeacherRatio": "–",
+      "numberOfSchools": "0"
+   },
+   {
+      "name": "Lamoille South Supervisory Union",
+      "location": {
+         "state": {
+            "name": "Vermont",
+            "abbr": "VT",
+            "county": "Lamoille County"
+         }
+      },
+      "type": "3-Supervisory union administrative center (or county superintendent's office serving the same purpose)",
+      "grades": {
+         "lowest": "†",
+         "highest": "†"
+      },
+      "students": "†",
+      "fte": "2.8",
+      "pupilTeacherRatio": "–",
+      "numberOfSchools": "0"
+   },
+   {
+      "name": "Lamoille South Unified Union School District #90",
+      "location": {
+         "state": {
+            "name": "VERMONT",
+            "abbr": "VT",
+            "county": "Lamoille County"
+         }
+      },
+      "type": "2-Local school district that is a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "1716",
+      "fte": "116.57",
+      "pupilTeacherRatio": "14.72",
+      "numberOfSchools": "6"
+   },
+   {
+      "name": "Lewis School District",
+      "location": {
+         "state": {
+            "name": "Vermont",
+            "abbr": "VT",
+            "county": "Essex County"
+         }
+      },
+      "type": "2-Local school district that is a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "0",
+      "fte": "0",
+      "pupilTeacherRatio": "†",
+      "numberOfSchools": "0"
+   },
+   {
+      "name": "Lowell School District",
+      "location": {
+         "state": {
+            "name": "Vermont",
+            "abbr": "VT",
+            "county": "Orleans County"
+         }
+      },
+      "type": "2-Local school district that is a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "8th Grade"
+      },
+      "students": "95",
+      "fte": "7.75",
+      "pupilTeacherRatio": "12.26",
+      "numberOfSchools": "1"
+   },
+   {
+      "name": "Ludlow Mt. Holly Unified Union School District",
+      "location": {
+         "state": {
+            "name": "VERMONT",
+            "abbr": "VT",
+            "county": "Windsor County"
+         }
+      },
+      "type": "2-Local school district that is a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "317",
+      "fte": "31.8",
+      "pupilTeacherRatio": "9.97",
+      "numberOfSchools": "3"
+   },
+   {
+      "name": "Maple Run Supervisory District",
+      "location": {
+         "state": {
+            "name": "Vermont",
+            "abbr": "VT",
+            "county": "Franklin County"
+         }
+      },
+      "type": "3-Supervisory union administrative center (or county superintendent's office serving the same purpose)",
+      "grades": {
+         "lowest": "†",
+         "highest": "†"
+      },
+      "students": "†",
+      "fte": "41.96",
+      "pupilTeacherRatio": "–",
+      "numberOfSchools": "0"
+   },
+   {
+      "name": "Maple Run Unified School District",
+      "location": {
+         "state": {
+            "name": "VERMONT",
+            "abbr": "VT",
+            "county": "Franklin County"
+         }
+      },
+      "type": "2-Local school district that is a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "2738",
+      "fte": "229.07",
+      "pupilTeacherRatio": "11.95",
+      "numberOfSchools": "5"
+   },
+   {
+      "name": "Marlboro School District",
+      "location": {
+         "state": {
+            "name": "Vermont",
+            "abbr": "VT",
+            "county": "Windham County"
+         }
+      },
+      "type": "2-Local school district that is a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "119",
+      "fte": "9.84",
+      "pupilTeacherRatio": "12.09",
+      "numberOfSchools": "1"
+   },
+   {
+      "name": "Mettawee School District",
+      "location": {
+         "state": {
+            "name": "VERMONT",
+            "abbr": "VT",
+            "county": "Bennington County"
+         }
+      },
+      "type": "2-Local school district that is a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "236",
+      "fte": "15.6",
+      "pupilTeacherRatio": "15.13",
+      "numberOfSchools": "1"
+   },
+   {
+      "name": "Mill River Unified School District",
+      "location": {
+         "state": {
+            "name": "VERMONT",
+            "abbr": "VT",
+            "county": "Rutland County"
+         }
+      },
+      "type": "2-Local school district that is a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "896",
+      "fte": "65.75",
+      "pupilTeacherRatio": "13.63",
+      "numberOfSchools": "5"
+   },
+   {
+      "name": "Mill River Unified Union Supervisory District",
+      "location": {
+         "state": {
+            "name": "Vermont",
+            "abbr": "VT",
+            "county": "Rutland County"
+         }
+      },
+      "type": "3-Supervisory union administrative center (or county superintendent's office serving the same purpose)",
+      "grades": {
+         "lowest": "†",
+         "highest": "†"
+      },
+      "students": "†",
+      "fte": "17.75",
+      "pupilTeacherRatio": "–",
+      "numberOfSchools": "0"
+   },
+   {
+      "name": "Milton Incorporated School District",
+      "location": {
+         "state": {
+            "name": "Vermont",
+            "abbr": "VT",
+            "county": "Chittenden County"
+         }
+      },
+      "type": "2-Local school district that is a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "1612",
+      "fte": "136",
+      "pupilTeacherRatio": "11.85",
+      "numberOfSchools": "3"
+   },
+   {
+      "name": "Milton Supervisory District",
+      "location": {
+         "state": {
+            "name": "Vermont",
+            "abbr": "VT",
+            "county": "Chittenden County"
+         }
+      },
+      "type": "3-Supervisory union administrative center (or county superintendent's office serving the same purpose)",
+      "grades": {
+         "lowest": "†",
+         "highest": "†"
+      },
+      "students": "†",
+      "fte": "0",
+      "pupilTeacherRatio": "–",
+      "numberOfSchools": "0"
+   },
+   {
+      "name": "Missisquoi Valley School District #89",
+      "location": {
+         "state": {
+            "name": "VERMONT",
+            "abbr": "VT",
+            "county": "Franklin County"
+         }
+      },
+      "type": "2-Local school district that is a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "1886",
+      "fte": "184.2",
+      "pupilTeacherRatio": "10.24",
+      "numberOfSchools": "4"
+   },
+   {
+      "name": "Montpelier Roxbury Supervisory District",
+      "location": {
+         "state": {
+            "name": "VERMONT",
+            "abbr": "VT",
+            "county": "Washington County"
+         }
+      },
+      "type": "3-Supervisory union administrative center (or county superintendent's office serving the same purpose)",
+      "grades": {
+         "lowest": "†",
+         "highest": "†"
+      },
+      "students": "†",
+      "fte": "7.5",
+      "pupilTeacherRatio": "–",
+      "numberOfSchools": "0"
+   },
+   {
+      "name": "Montpelier Roxbury Unified Union School District",
+      "location": {
+         "state": {
+            "name": "VERMONT",
+            "abbr": "VT",
+            "county": "Washington County"
+         }
+      },
+      "type": "2-Local school district that is a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "1257",
+      "fte": "103.85",
+      "pupilTeacherRatio": "12.1",
+      "numberOfSchools": "4"
+   },
+   {
+      "name": "Morgan School District",
+      "location": {
+         "state": {
+            "name": "Vermont",
+            "abbr": "VT",
+            "county": "Orleans County"
+         }
+      },
+      "type": "2-Local school district that is a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "6th Grade"
+      },
+      "students": "0",
+      "fte": "0",
+      "pupilTeacherRatio": "†",
+      "numberOfSchools": "0"
+   },
+   {
+      "name": "Mount Anthony UHSD #14",
+      "location": {
+         "state": {
+            "name": "Vermont",
+            "abbr": "VT",
+            "county": "Bennington County"
+         }
+      },
+      "type": "2-Local school district that is a component of a supervisory union",
+      "grades": {
+         "lowest": "6th Grade",
+         "highest": "12th Grade"
+      },
+      "students": "1500",
+      "fte": "110",
+      "pupilTeacherRatio": "13.64",
+      "numberOfSchools": "2"
+   },
+   {
+      "name": "Mount Ascutney School District #86",
+      "location": {
+         "state": {
+            "name": "VERMONT",
+            "abbr": "VT",
+            "county": "Windsor County"
+         }
+      },
+      "type": "2-Local school district that is a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "688",
+      "fte": "48.6",
+      "pupilTeacherRatio": "14.16",
+      "numberOfSchools": "2"
+   },
+   {
+      "name": "Mount Mansfield Unified Union School District #401",
+      "location": {
+         "state": {
+            "name": "VERMONT",
+            "abbr": "VT",
+            "county": "Chittenden County"
+         }
+      },
+      "type": "2-Local school district that is a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "2645",
+      "fte": "225.08",
+      "pupilTeacherRatio": "11.75",
+      "numberOfSchools": "8"
+   },
+   {
+      "name": "Mount Mansfield Unified Union School District (Supervisory)",
+      "location": {
+         "state": {
+            "name": "Vermont",
+            "abbr": "VT",
+            "county": "Chittenden County"
+         }
+      },
+      "type": "3-Supervisory union administrative center (or county superintendent's office serving the same purpose)",
+      "grades": {
+         "lowest": "†",
+         "highest": "†"
+      },
+      "students": "†",
+      "fte": "3",
+      "pupilTeacherRatio": "–",
+      "numberOfSchools": "0"
+   },
+   {
+      "name": "Mt. Abraham Unified School District",
+      "location": {
+         "state": {
+            "name": "VERMONT",
+            "abbr": "VT",
+            "county": "Addison County"
+         }
+      },
+      "type": "2-Local school district that is a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "1473",
+      "fte": "125.52",
+      "pupilTeacherRatio": "11.74",
+      "numberOfSchools": "6"
+   },
+   {
+      "name": "Mt. Abraham Unified School District (Supervisory)",
+      "location": {
+         "state": {
+            "name": "Vermont",
+            "abbr": "VT",
+            "county": "Addison County"
+         }
+      },
+      "type": "3-Supervisory union administrative center (or county superintendent's office serving the same purpose)",
+      "grades": {
+         "lowest": "†",
+         "highest": "†"
+      },
+      "students": "†",
+      "fte": "5.95",
+      "pupilTeacherRatio": "–",
+      "numberOfSchools": "0"
+   },
+   {
+      "name": "Newport City School District",
+      "location": {
+         "state": {
+            "name": "Vermont",
+            "abbr": "VT",
+            "county": "Orleans County"
+         }
+      },
+      "type": "2-Local school district that is a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "6th Grade"
+      },
+      "students": "346",
+      "fte": "26.32",
+      "pupilTeacherRatio": "13.15",
+      "numberOfSchools": "1"
+   },
+   {
+      "name": "Newport Town School District",
+      "location": {
+         "state": {
+            "name": "Vermont",
+            "abbr": "VT",
+            "county": "Orleans County"
+         }
+      },
+      "type": "2-Local school district that is a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "8th Grade"
+      },
+      "students": "106",
+      "fte": "7.8",
+      "pupilTeacherRatio": "13.59",
+      "numberOfSchools": "1"
+   },
+   {
+      "name": "North Bennington Incorporated School District",
+      "location": {
+         "state": {
+            "name": "Vermont",
+            "abbr": "VT",
+            "county": "Bennington County"
+         }
+      },
+      "type": "2-Local school district that is a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "6th Grade"
+      },
+      "students": "126",
+      "fte": "0",
+      "pupilTeacherRatio": "†",
+      "numberOfSchools": "0"
+   },
+   {
+      "name": "North Country Junior UHSD #22",
+      "location": {
+         "state": {
+            "name": "Vermont",
+            "abbr": "VT",
+            "county": "Orleans County"
+         }
+      },
+      "type": "2-Local school district that is a component of a supervisory union",
+      "grades": {
+         "lowest": "7th Grade",
+         "highest": "8th Grade"
+      },
+      "students": "268",
+      "fte": "23",
+      "pupilTeacherRatio": "11.65",
+      "numberOfSchools": "1"
+   },
+   {
+      "name": "North Country Senior UHSD #22",
+      "location": {
+         "state": {
+            "name": "Vermont",
+            "abbr": "VT",
+            "county": "Orleans County"
+         }
+      },
+      "type": "2-Local school district that is a component of a supervisory union",
+      "grades": {
+         "lowest": "9th Grade",
+         "highest": "12th Grade"
+      },
+      "students": "701",
+      "fte": "68",
+      "pupilTeacherRatio": "10.31",
+      "numberOfSchools": "2"
+   },
+   {
+      "name": "North Country Supervisory Union",
+      "location": {
+         "state": {
+            "name": "Vermont",
+            "abbr": "VT",
+            "county": "Orleans County"
+         }
+      },
+      "type": "3-Supervisory union administrative center (or county superintendent's office serving the same purpose)",
+      "grades": {
+         "lowest": "†",
+         "highest": "†"
+      },
+      "students": "†",
+      "fte": "53.8",
+      "pupilTeacherRatio": "–",
+      "numberOfSchools": "0"
+   },
+   {
+      "name": "Northeast Kingdom Choice School District",
+      "location": {
+         "state": {
+            "name": "VERMONT",
+            "abbr": "VT",
+            "county": "Essex County"
+         }
+      },
+      "type": "2-Local school district that is a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "143",
+      "fte": "0",
+      "pupilTeacherRatio": "†",
+      "numberOfSchools": "0"
+   },
+   {
+      "name": "Northeast Kingdom Learning Services",
+      "location": {
+         "state": {
+            "name": "Vermont",
+            "abbr": "VT",
+            "county": "Orleans County"
+         }
+      },
+      "type": "4-Regional Education Service Agency (RESA)",
+      "grades": {
+         "lowest": "†",
+         "highest": "†"
+      },
+      "students": "†",
+      "fte": "†",
+      "pupilTeacherRatio": "†",
+      "numberOfSchools": "0"
+   },
+   {
+      "name": "Northern Mountain Valley Unified Union School District #85",
+      "location": {
+         "state": {
+            "name": "VERMONT",
+            "abbr": "VT",
+            "county": "Franklin County"
+         }
+      },
+      "type": "2-Local school district that is a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "812",
+      "fte": "63.49",
+      "pupilTeacherRatio": "12.79",
+      "numberOfSchools": "4"
+   },
+   {
+      "name": "Norwich School District",
+      "location": {
+         "state": {
+            "name": "Vermont",
+            "abbr": "VT",
+            "county": "Windsor County"
+         }
+      },
+      "type": "2-Local school district that is a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "340",
+      "fte": "23.4",
+      "pupilTeacherRatio": "14.53",
+      "numberOfSchools": "1"
+   },
+   {
+      "name": "Orange East Supervisory Union",
+      "location": {
+         "state": {
+            "name": "Vermont",
+            "abbr": "VT",
+            "county": "Orange County"
+         }
+      },
+      "type": "3-Supervisory union administrative center (or county superintendent's office serving the same purpose)",
+      "grades": {
+         "lowest": "†",
+         "highest": "†"
+      },
+      "students": "†",
+      "fte": "29",
+      "pupilTeacherRatio": "–",
+      "numberOfSchools": "0"
+   },
+   {
+      "name": "Orange Southwest Supervisory Union",
+      "location": {
+         "state": {
+            "name": "Vermont",
+            "abbr": "VT",
+            "county": "Orange County"
+         }
+      },
+      "type": "3-Supervisory union administrative center (or county superintendent's office serving the same purpose)",
+      "grades": {
+         "lowest": "†",
+         "highest": "†"
+      },
+      "students": "†",
+      "fte": "14",
+      "pupilTeacherRatio": "–",
+      "numberOfSchools": "0"
+   },
+   {
+      "name": "Orange Southwest Unified School District",
+      "location": {
+         "state": {
+            "name": "VERMONT",
+            "abbr": "VT",
+            "county": "Orange County"
+         }
+      },
+      "type": "2-Local school district that is a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "908",
+      "fte": "84.7",
+      "pupilTeacherRatio": "10.72",
+      "numberOfSchools": "5"
+   },
+   {
+      "name": "Orleans Central Supervisory Union",
+      "location": {
+         "state": {
+            "name": "Vermont",
+            "abbr": "VT",
+            "county": "Orleans County"
+         }
+      },
+      "type": "3-Supervisory union administrative center (or county superintendent's office serving the same purpose)",
+      "grades": {
+         "lowest": "†",
+         "highest": "†"
+      },
+      "students": "†",
+      "fte": "24.36",
+      "pupilTeacherRatio": "–",
+      "numberOfSchools": "0"
+   },
+   {
+      "name": "Orleans Southwest Supervisory Union",
+      "location": {
+         "state": {
+            "name": "Vermont",
+            "abbr": "VT",
+            "county": "Caledonia County"
+         }
+      },
+      "type": "3-Supervisory union administrative center (or county superintendent's office serving the same purpose)",
+      "grades": {
+         "lowest": "†",
+         "highest": "†"
+      },
+      "students": "†",
+      "fte": "0.5",
+      "pupilTeacherRatio": "–",
+      "numberOfSchools": "0"
+   },
+   {
+      "name": "Orleans Southwest Union Elementary School District #94",
+      "location": {
+         "state": {
+            "name": "VERMONT",
+            "abbr": "VT",
+            "county": "Caledonia County"
+         }
+      },
+      "type": "2-Local school district that is a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "6th Grade"
+      },
+      "students": "360",
+      "fte": "33.36",
+      "pupilTeacherRatio": "10.79",
+      "numberOfSchools": "3"
+   },
+   {
+      "name": "Otter Valley Unified Union School District #53",
+      "location": {
+         "state": {
+            "name": "VERMONT",
+            "abbr": "VT",
+            "county": "Rutland County"
+         }
+      },
+      "type": "2-Local school district that is a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "1278",
+      "fte": "96.15",
+      "pupilTeacherRatio": "13.29",
+      "numberOfSchools": "4"
+   },
+   {
+      "name": "Oxbow Unified Union School District #91",
+      "location": {
+         "state": {
+            "name": "VERMONT",
+            "abbr": "VT",
+            "county": "Orange County"
+         }
+      },
+      "type": "2-Local school district that is a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "721",
+      "fte": "62.6",
+      "pupilTeacherRatio": "11.52",
+      "numberOfSchools": "4"
+   },
+   {
+      "name": "Paine Mountain School District",
+      "location": {
+         "state": {
+            "name": "VERMONT",
+            "abbr": "VT",
+            "county": "Orange County"
+         }
+      },
+      "type": "2-Local school district that is a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "1088",
+      "fte": "79.8",
+      "pupilTeacherRatio": "13.63",
+      "numberOfSchools": "4"
+   },
+   {
+      "name": "Patricia Hannaford Career Center School District",
+      "location": {
+         "state": {
+            "name": "Vermont",
+            "abbr": "VT",
+            "county": "Addison County"
+         }
+      },
+      "type": "9-Specialized public school district",
+      "grades": {
+         "lowest": "9th Grade",
+         "highest": "12th Grade"
+      },
+      "students": "0",
+      "fte": "17.32",
+      "pupilTeacherRatio": "0",
+      "numberOfSchools": "1"
+   },
+   {
+      "name": "Peacham School District",
+      "location": {
+         "state": {
+            "name": "Vermont",
+            "abbr": "VT",
+            "county": "Caledonia County"
+         }
+      },
+      "type": "2-Local school district that is a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "94",
+      "fte": "8.73",
+      "pupilTeacherRatio": "10.77",
+      "numberOfSchools": "1"
+   },
+   {
+      "name": "Pittsfield School District",
+      "location": {
+         "state": {
+            "name": "Vermont",
+            "abbr": "VT",
+            "county": "Windsor County"
+         }
+      },
+      "type": "2-Local school district that is a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "7",
+      "fte": "0",
+      "pupilTeacherRatio": "†",
+      "numberOfSchools": "0"
+   },
+   {
+      "name": "Quarry Valley Unified Union School District #70",
+      "location": {
+         "state": {
+            "name": "VERMONT",
+            "abbr": "VT",
+            "county": "Rutland County"
+         }
+      },
+      "type": "2-Local school district that is a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "1100",
+      "fte": "97.8",
+      "pupilTeacherRatio": "11.25",
+      "numberOfSchools": "5"
+   },
+   {
+      "name": "Rivendell Interstate School District",
+      "location": {
+         "state": {
+            "name": "Vermont",
+            "abbr": "VT",
+            "county": "Grafton County"
+         }
+      },
+      "type": "2-Local school district that is a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "457",
+      "fte": "35.81",
+      "pupilTeacherRatio": "12.76",
+      "numberOfSchools": "3"
+   },
+   {
+      "name": "Rivendell Interstate Supervisory District",
+      "location": {
+         "state": {
+            "name": "Vermont",
+            "abbr": "VT",
+            "county": "Grafton County"
+         }
+      },
+      "type": "3-Supervisory union administrative center (or county superintendent's office serving the same purpose)",
+      "grades": {
+         "lowest": "†",
+         "highest": "†"
+      },
+      "students": "†",
+      "fte": "11.32",
+      "pupilTeacherRatio": "–",
+      "numberOfSchools": "0"
+   },
+   {
+      "name": "River Valley Technical Center",
+      "location": {
+         "state": {
+            "name": "Vermont",
+            "abbr": "VT",
+            "county": "Windsor County"
+         }
+      },
+      "type": "9-Specialized public school district",
+      "grades": {
+         "lowest": "9th Grade",
+         "highest": "12th Grade"
+      },
+      "students": "0",
+      "fte": "14.9",
+      "pupilTeacherRatio": "0",
+      "numberOfSchools": "1"
+   },
+   {
+      "name": "River Valleys Unified School District #73",
+      "location": {
+         "state": {
+            "name": "VERMONT",
+            "abbr": "VT",
+            "county": "Windham County"
+         }
+      },
+      "type": "2-Local school district that is a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "190",
+      "fte": "15.2",
+      "pupilTeacherRatio": "12.5",
+      "numberOfSchools": "2"
+   },
+   {
+      "name": "Rochester Stockbridge Unified School District",
+      "location": {
+         "state": {
+            "name": "VERMONT",
+            "abbr": "VT",
+            "county": "Windsor County"
+         }
+      },
+      "type": "2-Local school district that is a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "153",
+      "fte": "18.92",
+      "pupilTeacherRatio": "8.09",
+      "numberOfSchools": "2"
+   },
+   {
+      "name": "Rockingham School District",
+      "location": {
+         "state": {
+            "name": "Vermont",
+            "abbr": "VT",
+            "county": "Windham County"
+         }
+      },
+      "type": "2-Local school district that is a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "8th Grade"
+      },
+      "students": "578",
+      "fte": "39.5",
+      "pupilTeacherRatio": "14.63",
+      "numberOfSchools": "3"
+   },
+   {
+      "name": "Rutland City School District",
+      "location": {
+         "state": {
+            "name": "Vermont",
+            "abbr": "VT",
+            "county": "Rutland County"
+         }
+      },
+      "type": "2-Local school district that is a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "2048",
+      "fte": "206.7",
+      "pupilTeacherRatio": "9.91",
+      "numberOfSchools": "6"
+   },
+   {
+      "name": "Rutland City Supervisory District",
+      "location": {
+         "state": {
+            "name": "Vermont",
+            "abbr": "VT",
+            "county": "Rutland County"
+         }
+      },
+      "type": "3-Supervisory union administrative center (or county superintendent's office serving the same purpose)",
+      "grades": {
+         "lowest": "†",
+         "highest": "†"
+      },
+      "students": "†",
+      "fte": "9",
+      "pupilTeacherRatio": "–",
+      "numberOfSchools": "0"
+   },
+   {
+      "name": "Rutland Northeast Supervisory Union",
+      "location": {
+         "state": {
+            "name": "Vermont",
+            "abbr": "VT",
+            "county": "Rutland County"
+         }
+      },
+      "type": "3-Supervisory union administrative center (or county superintendent's office serving the same purpose)",
+      "grades": {
+         "lowest": "†",
+         "highest": "†"
+      },
+      "students": "†",
+      "fte": "25.3",
+      "pupilTeacherRatio": "–",
+      "numberOfSchools": "0"
+   },
+   {
+      "name": "Rutland Town School District",
+      "location": {
+         "state": {
+            "name": "Vermont",
+            "abbr": "VT",
+            "county": "Rutland County"
+         }
+      },
+      "type": "2-Local school district that is a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "377",
+      "fte": "30",
+      "pupilTeacherRatio": "12.57",
+      "numberOfSchools": "1"
+   },
+   {
+      "name": "Saint Johnsbury School District",
+      "location": {
+         "state": {
+            "name": "Vermont",
+            "abbr": "VT",
+            "county": "Caledonia County"
+         }
+      },
+      "type": "2-Local school district that is a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "1103",
+      "fte": "48.4",
+      "pupilTeacherRatio": "22.79",
+      "numberOfSchools": "1"
+   },
+   {
+      "name": "Saint Johnsbury Supervisory District",
+      "location": {
+         "state": {
+            "name": "Vermont",
+            "abbr": "VT",
+            "county": "Caledonia County"
+         }
+      },
+      "type": "3-Supervisory union administrative center (or county superintendent's office serving the same purpose)",
+      "grades": {
+         "lowest": "†",
+         "highest": "†"
+      },
+      "students": "†",
+      "fte": "9.6",
+      "pupilTeacherRatio": "–",
+      "numberOfSchools": "0"
+   },
+   {
+      "name": "Sandgate School District",
+      "location": {
+         "state": {
+            "name": "Vermont",
+            "abbr": "VT",
+            "county": "Bennington County"
+         }
+      },
+      "type": "2-Local school district that is a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "22",
+      "fte": "0",
+      "pupilTeacherRatio": "†",
+      "numberOfSchools": "0"
+   },
+   {
+      "name": "School Administrative Unit #70",
+      "location": {
+         "state": {
+            "name": "Vermont",
+            "abbr": "VT",
+            "county": "Grafton County"
+         }
+      },
+      "type": "3-Supervisory union administrative center (or county superintendent's office serving the same purpose)",
+      "grades": {
+         "lowest": "†",
+         "highest": "†"
+      },
+      "students": "†",
+      "fte": "†",
+      "pupilTeacherRatio": "†",
+      "numberOfSchools": "0"
+   },
+   {
+      "name": "Searsburg School District",
+      "location": {
+         "state": {
+            "name": "Vermont",
+            "abbr": "VT",
+            "county": "Windham County"
+         }
+      },
+      "type": "2-Local school district that is a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "3",
+      "fte": "0",
+      "pupilTeacherRatio": "†",
+      "numberOfSchools": "0"
+   },
+   {
+      "name": "Sharon School District",
+      "location": {
+         "state": {
+            "name": "Vermont",
+            "abbr": "VT",
+            "county": "Windsor County"
+         }
+      },
+      "type": "2-Local school district that is a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "216",
+      "fte": "13",
+      "pupilTeacherRatio": "16.62",
+      "numberOfSchools": "1"
+   },
+   {
+      "name": "Slate Valley Unified Union School District #62",
+      "location": {
+         "state": {
+            "name": "VERMONT",
+            "abbr": "VT",
+            "county": "Rutland County"
+         }
+      },
+      "type": "2-Local school district that is a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "1249",
+      "fte": "109.08",
+      "pupilTeacherRatio": "11.45",
+      "numberOfSchools": "6"
+   },
+   {
+      "name": "Somerset School District",
+      "location": {
+         "state": {
+            "name": "Vermont",
+            "abbr": "VT",
+            "county": "Windham County"
+         }
+      },
+      "type": "2-Local school district that is a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "0",
+      "fte": "0",
+      "pupilTeacherRatio": "†",
+      "numberOfSchools": "0"
+   },
+   {
+      "name": "South Burlington School District",
+      "location": {
+         "state": {
+            "name": "Vermont",
+            "abbr": "VT",
+            "county": "Chittenden County"
+         }
+      },
+      "type": "2-Local school district that is a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "2772",
+      "fte": "192.06",
+      "pupilTeacherRatio": "14.43",
+      "numberOfSchools": "5"
+   },
+   {
+      "name": "South Burlington Supervisory District",
+      "location": {
+         "state": {
+            "name": "Vermont",
+            "abbr": "VT",
+            "county": "Chittenden County"
+         }
+      },
+      "type": "3-Supervisory union administrative center (or county superintendent's office serving the same purpose)",
+      "grades": {
+         "lowest": "†",
+         "highest": "†"
+      },
+      "students": "†",
+      "fte": "5",
+      "pupilTeacherRatio": "–",
+      "numberOfSchools": "0"
+   },
+   {
+      "name": "South Hero School District",
+      "location": {
+         "state": {
+            "name": "Vermont",
+            "abbr": "VT",
+            "county": "Grand Isle County"
+         }
+      },
+      "type": "2-Local school district that is a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "152",
+      "fte": "15.1",
+      "pupilTeacherRatio": "10.07",
+      "numberOfSchools": "1"
+   },
+   {
+      "name": "Southern Valley Unified School District",
+      "location": {
+         "state": {
+            "name": "VERMONT",
+            "abbr": "VT",
+            "county": "Windham County"
+         }
+      },
+      "type": "2-Local school district that is a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "130",
+      "fte": "11.9",
+      "pupilTeacherRatio": "10.92",
+      "numberOfSchools": "2"
+   },
+   {
+      "name": "Southwest Vermont Career Development Center",
+      "location": {
+         "state": {
+            "name": "Vermont",
+            "abbr": "VT",
+            "county": "Bennington County"
+         }
+      },
+      "type": "9-Specialized public school district",
+      "grades": {
+         "lowest": "9th Grade",
+         "highest": "12th Grade"
+      },
+      "students": "0",
+      "fte": "15",
+      "pupilTeacherRatio": "0",
+      "numberOfSchools": "1"
+   },
+   {
+      "name": "Southwest Vermont Supervisory Union",
+      "location": {
+         "state": {
+            "name": "Vermont",
+            "abbr": "VT",
+            "county": "Bennington County"
+         }
+      },
+      "type": "3-Supervisory union administrative center (or county superintendent's office serving the same purpose)",
+      "grades": {
+         "lowest": "†",
+         "highest": "†"
+      },
+      "students": "†",
+      "fte": "74.82",
+      "pupilTeacherRatio": "–",
+      "numberOfSchools": "0"
+   },
+   {
+      "name": "Southwest Vermont Union Elementary School District #87",
+      "location": {
+         "state": {
+            "name": "VERMONT",
+            "abbr": "VT",
+            "county": "Bennington County"
+         }
+      },
+      "type": "2-Local school district that is a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "6th Grade"
+      },
+      "students": "1504",
+      "fte": "87.45",
+      "pupilTeacherRatio": "17.2",
+      "numberOfSchools": "6"
+   },
+   {
+      "name": "Springfield School District",
+      "location": {
+         "state": {
+            "name": "Vermont",
+            "abbr": "VT",
+            "county": "Windsor County"
+         }
+      },
+      "type": "2-Local school district that is a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "1269",
+      "fte": "91.8",
+      "pupilTeacherRatio": "13.82",
+      "numberOfSchools": "4"
+   },
+   {
+      "name": "Springfield Supervisory District",
+      "location": {
+         "state": {
+            "name": "Vermont",
+            "abbr": "VT",
+            "county": "Windsor County"
+         }
+      },
+      "type": "3-Supervisory union administrative center (or county superintendent's office serving the same purpose)",
+      "grades": {
+         "lowest": "†",
+         "highest": "†"
+      },
+      "students": "†",
+      "fte": "22.64",
+      "pupilTeacherRatio": "–",
+      "numberOfSchools": "0"
+   },
+   {
+      "name": "Stamford School District",
+      "location": {
+         "state": {
+            "name": "Vermont",
+            "abbr": "VT",
+            "county": "Bennington County"
+         }
+      },
+      "type": "2-Local school district that is a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "61",
+      "fte": "6.6",
+      "pupilTeacherRatio": "9.24",
+      "numberOfSchools": "1"
+   },
+   {
+      "name": "Stannard School District",
+      "location": {
+         "state": {
+            "name": "Vermont",
+            "abbr": "VT",
+            "county": "Caledonia County"
+         }
+      },
+      "type": "2-Local school district that is a component of a supervisory union",
+      "grades": {
+         "lowest": "7th Grade",
+         "highest": "12th Grade"
+      },
+      "students": "1",
+      "fte": "0",
+      "pupilTeacherRatio": "†",
+      "numberOfSchools": "0"
+   },
+   {
+      "name": "Strafford School District",
+      "location": {
+         "state": {
+            "name": "Vermont",
+            "abbr": "VT",
+            "county": "Orange County"
+         }
+      },
+      "type": "2-Local school district that is a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "159",
+      "fte": "9.7",
+      "pupilTeacherRatio": "16.39",
+      "numberOfSchools": "1"
+   },
+   {
+      "name": "Stratton School District",
+      "location": {
+         "state": {
+            "name": "Vermont",
+            "abbr": "VT",
+            "county": "Windham County"
+         }
+      },
+      "type": "2-Local school district that is a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "53",
+      "fte": "0",
+      "pupilTeacherRatio": "†",
+      "numberOfSchools": "0"
+   },
+   {
+      "name": "Taconic and Green Regional School District",
+      "location": {
+         "state": {
+            "name": "VERMONT",
+            "abbr": "VT",
+            "county": "Bennington County"
+         }
+      },
+      "type": "2-Local school district that is a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "1732",
+      "fte": "82.06",
+      "pupilTeacherRatio": "21.11",
+      "numberOfSchools": "5"
+   },
+   {
+      "name": "Thetford School District",
+      "location": {
+         "state": {
+            "name": "Vermont",
+            "abbr": "VT",
+            "county": "Orange County"
+         }
+      },
+      "type": "2-Local school district that is a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "446",
+      "fte": "17.6",
+      "pupilTeacherRatio": "25.34",
+      "numberOfSchools": "1"
+   },
+   {
+      "name": "Troy School District",
+      "location": {
+         "state": {
+            "name": "Vermont",
+            "abbr": "VT",
+            "county": "Orleans County"
+         }
+      },
+      "type": "2-Local school district that is a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "8th Grade"
+      },
+      "students": "195",
+      "fte": "11.6",
+      "pupilTeacherRatio": "16.81",
+      "numberOfSchools": "1"
+   },
+   {
+      "name": "Twin Valley Unified School District",
+      "location": {
+         "state": {
+            "name": "VERMONT",
+            "abbr": "VT",
+            "county": "Windham County"
+         }
+      },
+      "type": "2-Local school district that is a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "426",
+      "fte": "41.8",
+      "pupilTeacherRatio": "10.19",
+      "numberOfSchools": "2"
+   },
+   {
+      "name": "Twinfield USD #33",
+      "location": {
+         "state": {
+            "name": "Vermont",
+            "abbr": "VT",
+            "county": "Washington County"
+         }
+      },
+      "type": "2-Local school district that is a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "349",
+      "fte": "38.57",
+      "pupilTeacherRatio": "9.05",
+      "numberOfSchools": "1"
+   },
+   {
+      "name": "Two Rivers Supervisory Union",
+      "location": {
+         "state": {
+            "name": "Vermont",
+            "abbr": "VT",
+            "county": "Windsor County"
+         }
+      },
+      "type": "3-Supervisory union administrative center (or county superintendent's office serving the same purpose)",
+      "grades": {
+         "lowest": "†",
+         "highest": "†"
+      },
+      "students": "†",
+      "fte": "23.7",
+      "pupilTeacherRatio": "–",
+      "numberOfSchools": "0"
+   },
+   {
+      "name": "University of Vermont",
+      "location": {
+         "state": {
+            "name": "Vermont",
+            "abbr": "VT",
+            "county": "Washington County"
+         }
+      },
+      "type": "4-Regional Education Service Agency (RESA)",
+      "grades": {
+         "lowest": "†",
+         "highest": "†"
+      },
+      "students": "†",
+      "fte": "†",
+      "pupilTeacherRatio": "†",
+      "numberOfSchools": "0"
+   },
+   {
+      "name": "Vernon School District",
+      "location": {
+         "state": {
+            "name": "Vermont",
+            "abbr": "VT",
+            "county": "Windham County"
+         }
+      },
+      "type": "2-Local school district that is a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "198",
+      "fte": "14.4",
+      "pupilTeacherRatio": "13.75",
+      "numberOfSchools": "1"
+   },
+   {
+      "name": "Waits River Valley USD #36",
+      "location": {
+         "state": {
+            "name": "Vermont",
+            "abbr": "VT",
+            "county": "Orange County"
+         }
+      },
+      "type": "2-Local school district that is a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "248",
+      "fte": "23.78",
+      "pupilTeacherRatio": "10.43",
+      "numberOfSchools": "1"
+   },
+   {
+      "name": "Warners Grant School District",
+      "location": {
+         "state": {
+            "name": "Vermont",
+            "abbr": "VT",
+            "county": "Essex County"
+         }
+      },
+      "type": "2-Local school district that is a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "0",
+      "fte": "0",
+      "pupilTeacherRatio": "†",
+      "numberOfSchools": "0"
+   },
+   {
+      "name": "Warrens Grant School District",
+      "location": {
+         "state": {
+            "name": "Vermont",
+            "abbr": "VT",
+            "county": "Essex County"
+         }
+      },
+      "type": "2-Local school district that is a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "0",
+      "fte": "0",
+      "pupilTeacherRatio": "†",
+      "numberOfSchools": "0"
+   },
+   {
+      "name": "Washington Central Supervisory Union",
+      "location": {
+         "state": {
+            "name": "Vermont",
+            "abbr": "VT",
+            "county": "Washington County"
+         }
+      },
+      "type": "3-Supervisory union administrative center (or county superintendent's office serving the same purpose)",
+      "grades": {
+         "lowest": "†",
+         "highest": "†"
+      },
+      "students": "†",
+      "fte": "26.85",
+      "pupilTeacherRatio": "–",
+      "numberOfSchools": "0"
+   },
+   {
+      "name": "Washington Central Unified Union School District #92",
+      "location": {
+         "state": {
+            "name": "VERMONT",
+            "abbr": "VT",
+            "county": "Washington County"
+         }
+      },
+      "type": "2-Local school district that is a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "1557",
+      "fte": "126.98",
+      "pupilTeacherRatio": "12.26",
+      "numberOfSchools": "6"
+   },
+   {
+      "name": "Weathersfield School District",
+      "location": {
+         "state": {
+            "name": "Vermont",
+            "abbr": "VT",
+            "county": "Windsor County"
+         }
+      },
+      "type": "2-Local school district that is a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "261",
+      "fte": "17",
+      "pupilTeacherRatio": "15.35",
+      "numberOfSchools": "1"
+   },
+   {
+      "name": "Wells Spring Unified Union School District",
+      "location": {
+         "state": {
+            "name": "VERMONT",
+            "abbr": "VT",
+            "county": "Rutland County"
+         }
+      },
+      "type": "2-Local school district that is a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "183",
+      "fte": "15.9",
+      "pupilTeacherRatio": "11.51",
+      "numberOfSchools": "2"
+   },
+   {
+      "name": "West River Valley Modified Union Education District #72a",
+      "location": {
+         "state": {
+            "name": "VERMONT",
+            "abbr": "VT",
+            "county": "Windham County"
+         }
+      },
+      "type": "2-Local school district that is a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "6th Grade"
+      },
+      "students": "284",
+      "fte": "17.47",
+      "pupilTeacherRatio": "16.26",
+      "numberOfSchools": "3"
+   },
+   {
+      "name": "West River Valley Modified Union Education District #72b",
+      "location": {
+         "state": {
+            "name": "VERMONT",
+            "abbr": "VT",
+            "county": "Windham County"
+         }
+      },
+      "type": "2-Local school district that is a component of a supervisory union",
+      "grades": {
+         "lowest": "6th Grade",
+         "highest": "12th Grade"
+      },
+      "students": "290",
+      "fte": "28.17",
+      "pupilTeacherRatio": "10.29",
+      "numberOfSchools": "1"
+   },
+   {
+      "name": "Westfield School District",
+      "location": {
+         "state": {
+            "name": "Vermont",
+            "abbr": "VT",
+            "county": "Orleans County"
+         }
+      },
+      "type": "2-Local school district that is a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "6th Grade"
+      },
+      "students": "1",
+      "fte": "0",
+      "pupilTeacherRatio": "†",
+      "numberOfSchools": "0"
+   },
+   {
+      "name": "Westmore School District",
+      "location": {
+         "state": {
+            "name": "Vermont",
+            "abbr": "VT",
+            "county": "Orleans County"
+         }
+      },
+      "type": "2-Local school district that is a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "8th Grade"
+      },
+      "students": "2",
+      "fte": "0",
+      "pupilTeacherRatio": "†",
+      "numberOfSchools": "0"
+   },
+   {
+      "name": "White River Unified School District",
+      "location": {
+         "state": {
+            "name": "VERMONT",
+            "abbr": "VT",
+            "county": "Windsor County"
+         }
+      },
+      "type": "2-Local school district that is a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "634",
+      "fte": "62.02",
+      "pupilTeacherRatio": "10.22",
+      "numberOfSchools": "4"
+   },
+   {
+      "name": "White River Valley Supervisory Union",
+      "location": {
+         "state": {
+            "name": "Vermont",
+            "abbr": "VT",
+            "county": "Windsor County"
+         }
+      },
+      "type": "3-Supervisory union administrative center (or county superintendent's office serving the same purpose)",
+      "grades": {
+         "lowest": "†",
+         "highest": "†"
+      },
+      "students": "†",
+      "fte": "29.33",
+      "pupilTeacherRatio": "–",
+      "numberOfSchools": "0"
+   },
+   {
+      "name": "Windham Central Supervisory Union",
+      "location": {
+         "state": {
+            "name": "Vermont",
+            "abbr": "VT",
+            "county": "Windham County"
+         }
+      },
+      "type": "3-Supervisory union administrative center (or county superintendent's office serving the same purpose)",
+      "grades": {
+         "lowest": "†",
+         "highest": "†"
+      },
+      "students": "†",
+      "fte": "24.25",
+      "pupilTeacherRatio": "–",
+      "numberOfSchools": "0"
+   },
+   {
+      "name": "Windham Northeast Supervisory Union",
+      "location": {
+         "state": {
+            "name": "Vermont",
+            "abbr": "VT",
+            "county": "Windham County"
+         }
+      },
+      "type": "3-Supervisory union administrative center (or county superintendent's office serving the same purpose)",
+      "grades": {
+         "lowest": "†",
+         "highest": "†"
+      },
+      "students": "†",
+      "fte": "45.71",
+      "pupilTeacherRatio": "–",
+      "numberOfSchools": "0"
+   },
+   {
+      "name": "Windham Northeast Union Elementary School District #95",
+      "location": {
+         "state": {
+            "name": "VERMONT",
+            "abbr": "VT",
+            "county": "Windham County"
+         }
+      },
+      "type": "2-Local school district that is a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "8th Grade"
+      },
+      "students": "286",
+      "fte": "22.46",
+      "pupilTeacherRatio": "12.73",
+      "numberOfSchools": "2"
+   },
+   {
+      "name": "Windham School District",
+      "location": {
+         "state": {
+            "name": "Vermont",
+            "abbr": "VT",
+            "county": "Windham County"
+         }
+      },
+      "type": "2-Local school district that is a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "6th Grade"
+      },
+      "students": "21",
+      "fte": "2",
+      "pupilTeacherRatio": "10.5",
+      "numberOfSchools": "1"
+   },
+   {
+      "name": "Windham Southeast Supervisory Union",
+      "location": {
+         "state": {
+            "name": "Vermont",
+            "abbr": "VT",
+            "county": "Windham County"
+         }
+      },
+      "type": "3-Supervisory union administrative center (or county superintendent's office serving the same purpose)",
+      "grades": {
+         "lowest": "†",
+         "highest": "†"
+      },
+      "students": "†",
+      "fte": "52.98",
+      "pupilTeacherRatio": "–",
+      "numberOfSchools": "0"
+   },
+   {
+      "name": "Windham Southeast Unified Union School District #96",
+      "location": {
+         "state": {
+            "name": "VERMONT",
+            "abbr": "VT",
+            "county": "Windham County"
+         }
+      },
+      "type": "2-Local school district that is a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "2498",
+      "fte": "212.01",
+      "pupilTeacherRatio": "11.78",
+      "numberOfSchools": "9"
+   },
+   {
+      "name": "Windham Southwest Supervisory Union",
+      "location": {
+         "state": {
+            "name": "Vermont",
+            "abbr": "VT",
+            "county": "Windham County"
+         }
+      },
+      "type": "3-Supervisory union administrative center (or county superintendent's office serving the same purpose)",
+      "grades": {
+         "lowest": "†",
+         "highest": "†"
+      },
+      "students": "†",
+      "fte": "14",
+      "pupilTeacherRatio": "–",
+      "numberOfSchools": "0"
+   },
+   {
+      "name": "Windsor Central Modified Unified Union School District #76a",
+      "location": {
+         "state": {
+            "name": "VERMONT",
+            "abbr": "VT",
+            "county": "Windsor County"
+         }
+      },
+      "type": "2-Local school district that is a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "6th Grade"
+      },
+      "students": "467",
+      "fte": "34.94",
+      "pupilTeacherRatio": "13.37",
+      "numberOfSchools": "4"
+   },
+   {
+      "name": "Windsor Central Modified Unified Union School District #76b",
+      "location": {
+         "state": {
+            "name": "VERMONT",
+            "abbr": "VT",
+            "county": "Windsor County"
+         }
+      },
+      "type": "2-Local school district that is a component of a supervisory union",
+      "grades": {
+         "lowest": "7th Grade",
+         "highest": "12th Grade"
+      },
+      "students": "500",
+      "fte": "38.44",
+      "pupilTeacherRatio": "13.01",
+      "numberOfSchools": "1"
+   },
+   {
+      "name": "Windsor Central Supervisory Union",
+      "location": {
+         "state": {
+            "name": "Vermont",
+            "abbr": "VT",
+            "county": "Windsor County"
+         }
+      },
+      "type": "3-Supervisory union administrative center (or county superintendent's office serving the same purpose)",
+      "grades": {
+         "lowest": "†",
+         "highest": "†"
+      },
+      "students": "†",
+      "fte": "12",
+      "pupilTeacherRatio": "–",
+      "numberOfSchools": "0"
+   },
+   {
+      "name": "Windsor Southeast Supervisory Union",
+      "location": {
+         "state": {
+            "name": "Vermont",
+            "abbr": "VT",
+            "county": "Windsor County"
+         }
+      },
+      "type": "3-Supervisory union administrative center (or county superintendent's office serving the same purpose)",
+      "grades": {
+         "lowest": "†",
+         "highest": "†"
+      },
+      "students": "†",
+      "fte": "66.2",
+      "pupilTeacherRatio": "–",
+      "numberOfSchools": "0"
+   },
+   {
+      "name": "Winhall School District",
+      "location": {
+         "state": {
+            "name": "Vermont",
+            "abbr": "VT",
+            "county": "Bennington County"
+         }
+      },
+      "type": "2-Local school district that is a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "160",
+      "fte": "0",
+      "pupilTeacherRatio": "†",
+      "numberOfSchools": "0"
+   },
+   {
+      "name": "Winooski School District",
+      "location": {
+         "state": {
+            "name": "Vermont",
+            "abbr": "VT",
+            "county": "Chittenden County"
+         }
+      },
+      "type": "2-Local school district that is a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "837",
+      "fte": "94.52",
+      "pupilTeacherRatio": "8.86",
+      "numberOfSchools": "3"
+   },
+   {
+      "name": "Winooski Supervisory District",
+      "location": {
+         "state": {
+            "name": "Vermont",
+            "abbr": "VT",
+            "county": "Chittenden County"
+         }
+      },
+      "type": "3-Supervisory union administrative center (or county superintendent's office serving the same purpose)",
+      "grades": {
+         "lowest": "†",
+         "highest": "†"
+      },
+      "students": "†",
+      "fte": "0",
+      "pupilTeacherRatio": "–",
+      "numberOfSchools": "0"
+   },
+   {
+      "name": "Wolcott School District",
+      "location": {
+         "state": {
+            "name": "Vermont",
+            "abbr": "VT",
+            "county": "Lamoille County"
+         }
+      },
+      "type": "2-Local school district that is a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "129",
+      "fte": "12.6",
+      "pupilTeacherRatio": "10.24",
+      "numberOfSchools": "1"
+   },
+   {
+      "name": "Woodside Juvenile Rehabilitation Center",
+      "location": {
+         "state": {
+            "name": "Vermont",
+            "abbr": "VT",
+            "county": "Chittenden County"
+         }
+      },
+      "type": "5-State agency providing elementary and/or secondary level instruction",
+      "grades": {
+         "lowest": "7th Grade",
+         "highest": "12th Grade"
+      },
+      "students": "21",
+      "fte": "0",
+      "pupilTeacherRatio": "†",
+      "numberOfSchools": "1"
+   }
+]

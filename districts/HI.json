@@ -1,0 +1,21 @@
+[
+   {
+      "name": "Hawaii Department of Education",
+      "location": {
+         "state": {
+            "name": "Hawaii",
+            "abbr": "HI",
+            "county": "Honolulu County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "181088",
+      "fte": "12220.77",
+      "pupilTeacherRatio": "14.82",
+      "numberOfSchools": "293"
+   }
+]

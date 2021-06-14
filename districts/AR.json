@@ -1,0 +1,5569 @@
+[
+   {
+      "name": "Academics Plus Charter School",
+      "location": {
+         "state": {
+            "name": "Arkansas",
+            "abbr": "AR",
+            "county": "Pulaski County"
+         }
+      },
+      "type": "7-Independent Charter District",
+      "grades": {
+         "lowest": "Kindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "1552",
+      "fte": "109.19",
+      "pupilTeacherRatio": "14.21",
+      "numberOfSchools": "3"
+   },
+   {
+      "name": "Alma School District",
+      "location": {
+         "state": {
+            "name": "Arkansas",
+            "abbr": "AR",
+            "county": "Crawford County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Kindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "3297",
+      "fte": "302.82",
+      "pupilTeacherRatio": "10.89",
+      "numberOfSchools": "4"
+   },
+   {
+      "name": "Alpena School District",
+      "location": {
+         "state": {
+            "name": "Arkansas",
+            "abbr": "AR",
+            "county": "Boone County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "514",
+      "fte": "82.26",
+      "pupilTeacherRatio": "6.25",
+      "numberOfSchools": "2"
+   },
+   {
+      "name": "Arch Ford Educ. Service Coop",
+      "location": {
+         "state": {
+            "name": "Arkansas",
+            "abbr": "AR",
+            "county": "Conway County"
+         }
+      },
+      "type": "4-Regional Education Service Agency (RESA)",
+      "grades": {
+         "lowest": "†",
+         "highest": "†"
+      },
+      "students": "†",
+      "fte": "†",
+      "pupilTeacherRatio": "†",
+      "numberOfSchools": "0"
+   },
+   {
+      "name": "Ark. River Educ  Service Coop",
+      "location": {
+         "state": {
+            "name": "Arkansas",
+            "abbr": "AR",
+            "county": "Jefferson County"
+         }
+      },
+      "type": "4-Regional Education Service Agency (RESA)",
+      "grades": {
+         "lowest": "9th Grade",
+         "highest": "12th Grade"
+      },
+      "students": "0",
+      "fte": "0",
+      "pupilTeacherRatio": "†",
+      "numberOfSchools": "0"
+   },
+   {
+      "name": "Ark. School for the Blind",
+      "location": {
+         "state": {
+            "name": "Arkansas",
+            "abbr": "AR",
+            "county": "Pulaski County"
+         }
+      },
+      "type": "5-State agency providing elementary and/or secondary level instruction",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "99",
+      "fte": "27.23",
+      "pupilTeacherRatio": "3.64",
+      "numberOfSchools": "2"
+   },
+   {
+      "name": "Ark. School for the Deaf",
+      "location": {
+         "state": {
+            "name": "Arkansas",
+            "abbr": "AR",
+            "county": "Pulaski County"
+         }
+      },
+      "type": "5-State agency providing elementary and/or secondary level instruction",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "116",
+      "fte": "37.07",
+      "pupilTeacherRatio": "3.13",
+      "numberOfSchools": "1"
+   },
+   {
+      "name": "Arkadelphia School District",
+      "location": {
+         "state": {
+            "name": "Arkansas",
+            "abbr": "AR",
+            "county": "Clark County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "1815",
+      "fte": "135.98",
+      "pupilTeacherRatio": "13.35",
+      "numberOfSchools": "5"
+   },
+   {
+      "name": "Arkansas Connections Academy",
+      "location": {
+         "state": {
+            "name": "ARKANSAS",
+            "abbr": "AR",
+            "county": "Benton County"
+         }
+      },
+      "type": "7-Independent Charter District",
+      "grades": {
+         "lowest": "Kindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "1597",
+      "fte": "50.03",
+      "pupilTeacherRatio": "31.92",
+      "numberOfSchools": "1"
+   },
+   {
+      "name": "Arkansas Correctional Schools",
+      "location": {
+         "state": {
+            "name": "Arkansas",
+            "abbr": "AR",
+            "county": "Jefferson County"
+         }
+      },
+      "type": "5-State agency providing elementary and/or secondary level instruction",
+      "grades": {
+         "lowest": "9th Grade",
+         "highest": "12th Grade"
+      },
+      "students": "0",
+      "fte": "0",
+      "pupilTeacherRatio": "†",
+      "numberOfSchools": "0"
+   },
+   {
+      "name": "Arkansas Northeastern College Technical Center",
+      "location": {
+         "state": {
+            "name": "Arkansas",
+            "abbr": "AR",
+            "county": "Mississippi County"
+         }
+      },
+      "type": "8-Other education agencies",
+      "grades": {
+         "lowest": "9th Grade",
+         "highest": "12th Grade"
+      },
+      "students": "0",
+      "fte": "0",
+      "pupilTeacherRatio": "†",
+      "numberOfSchools": "1"
+   },
+   {
+      "name": "Arkansas Virtual Academy",
+      "location": {
+         "state": {
+            "name": "Arkansas",
+            "abbr": "AR",
+            "county": "Pulaski County"
+         }
+      },
+      "type": "7-Independent Charter District",
+      "grades": {
+         "lowest": "Kindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "2474",
+      "fte": "133.46",
+      "pupilTeacherRatio": "18.54",
+      "numberOfSchools": "3"
+   },
+   {
+      "name": "Arkansas Youth Services School System",
+      "location": {
+         "state": {
+            "name": "Arkansas",
+            "abbr": "AR",
+            "county": "Pulaski County"
+         }
+      },
+      "type": "5-State agency providing elementary and/or secondary level instruction",
+      "grades": {
+         "lowest": "7th Grade",
+         "highest": "12th Grade"
+      },
+      "students": "150",
+      "fte": "29.98",
+      "pupilTeacherRatio": "5",
+      "numberOfSchools": "5"
+   },
+   {
+      "name": "Armorel School District",
+      "location": {
+         "state": {
+            "name": "Arkansas",
+            "abbr": "AR",
+            "county": "Mississippi County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "423",
+      "fte": "52.33",
+      "pupilTeacherRatio": "8.08",
+      "numberOfSchools": "2"
+   },
+   {
+      "name": "Ashdown School District",
+      "location": {
+         "state": {
+            "name": "Arkansas",
+            "abbr": "AR",
+            "county": "Little River County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Kindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "1406",
+      "fte": "138.04",
+      "pupilTeacherRatio": "10.19",
+      "numberOfSchools": "4"
+   },
+   {
+      "name": "Asu Area Center",
+      "location": {
+         "state": {
+            "name": "Arkansas",
+            "abbr": "AR",
+            "county": "White County"
+         }
+      },
+      "type": "8-Other education agencies",
+      "grades": {
+         "lowest": "9th Grade",
+         "highest": "12th Grade"
+      },
+      "students": "0",
+      "fte": "0",
+      "pupilTeacherRatio": "†",
+      "numberOfSchools": "1"
+   },
+   {
+      "name": "Atkins School District",
+      "location": {
+         "state": {
+            "name": "Arkansas",
+            "abbr": "AR",
+            "county": "Pope County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "986",
+      "fte": "104.45",
+      "pupilTeacherRatio": "9.44",
+      "numberOfSchools": "3"
+   },
+   {
+      "name": "Augusta School District",
+      "location": {
+         "state": {
+            "name": "Arkansas",
+            "abbr": "AR",
+            "county": "Woodruff County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "358",
+      "fte": "42.94",
+      "pupilTeacherRatio": "8.34",
+      "numberOfSchools": "2"
+   },
+   {
+      "name": "Bald Knob School District",
+      "location": {
+         "state": {
+            "name": "Arkansas",
+            "abbr": "AR",
+            "county": "White County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "1212",
+      "fte": "118.1",
+      "pupilTeacherRatio": "10.26",
+      "numberOfSchools": "3"
+   },
+   {
+      "name": "Barton-Lexa School District",
+      "location": {
+         "state": {
+            "name": "Arkansas",
+            "abbr": "AR",
+            "county": "Phillips County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "733",
+      "fte": "62.05",
+      "pupilTeacherRatio": "11.81",
+      "numberOfSchools": "2"
+   },
+   {
+      "name": "Batesville School District",
+      "location": {
+         "state": {
+            "name": "Arkansas",
+            "abbr": "AR",
+            "county": "Independence County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "3414",
+      "fte": "247.25",
+      "pupilTeacherRatio": "13.81",
+      "numberOfSchools": "5"
+   },
+   {
+      "name": "Bauxite School District",
+      "location": {
+         "state": {
+            "name": "Arkansas",
+            "abbr": "AR",
+            "county": "Saline County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "1680",
+      "fte": "134.18",
+      "pupilTeacherRatio": "12.52",
+      "numberOfSchools": "4"
+   },
+   {
+      "name": "Bay School District",
+      "location": {
+         "state": {
+            "name": "Arkansas",
+            "abbr": "AR",
+            "county": "Craighead County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Kindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "621",
+      "fte": "41.88",
+      "pupilTeacherRatio": "14.83",
+      "numberOfSchools": "2"
+   },
+   {
+      "name": "Bearden School District",
+      "location": {
+         "state": {
+            "name": "Arkansas",
+            "abbr": "AR",
+            "county": "Ouachita County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Kindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "488",
+      "fte": "49.43",
+      "pupilTeacherRatio": "9.87",
+      "numberOfSchools": "2"
+   },
+   {
+      "name": "Beebe School District",
+      "location": {
+         "state": {
+            "name": "Arkansas",
+            "abbr": "AR",
+            "county": "White County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "3356",
+      "fte": "236.82",
+      "pupilTeacherRatio": "14.17",
+      "numberOfSchools": "5"
+   },
+   {
+      "name": "Benton County School of Arts",
+      "location": {
+         "state": {
+            "name": "Arkansas",
+            "abbr": "AR",
+            "county": "Benton County"
+         }
+      },
+      "type": "7-Independent Charter District",
+      "grades": {
+         "lowest": "Kindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "1113",
+      "fte": "96.89",
+      "pupilTeacherRatio": "11.49",
+      "numberOfSchools": "2"
+   },
+   {
+      "name": "Benton School District",
+      "location": {
+         "state": {
+            "name": "Arkansas",
+            "abbr": "AR",
+            "county": "Saline County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "5648",
+      "fte": "367.41",
+      "pupilTeacherRatio": "15.37",
+      "numberOfSchools": "7"
+   },
+   {
+      "name": "Bentonville School District",
+      "location": {
+         "state": {
+            "name": "Arkansas",
+            "abbr": "AR",
+            "county": "Benton County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Kindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "17848",
+      "fte": "1182.66",
+      "pupilTeacherRatio": "15.09",
+      "numberOfSchools": "22"
+   },
+   {
+      "name": "Bergman School District",
+      "location": {
+         "state": {
+            "name": "Arkansas",
+            "abbr": "AR",
+            "county": "Boone County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "1176",
+      "fte": "111.69",
+      "pupilTeacherRatio": "10.53",
+      "numberOfSchools": "3"
+   },
+   {
+      "name": "Berryville School District",
+      "location": {
+         "state": {
+            "name": "Arkansas",
+            "abbr": "AR",
+            "county": "Carroll County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "1880",
+      "fte": "147.19",
+      "pupilTeacherRatio": "12.77",
+      "numberOfSchools": "4"
+   },
+   {
+      "name": "Bismarck School District",
+      "location": {
+         "state": {
+            "name": "Arkansas",
+            "abbr": "AR",
+            "county": "Hot Spring County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "1017",
+      "fte": "107.5",
+      "pupilTeacherRatio": "9.46",
+      "numberOfSchools": "3"
+   },
+   {
+      "name": "Blevins School District",
+      "location": {
+         "state": {
+            "name": "Arkansas",
+            "abbr": "AR",
+            "county": "Hempstead County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "524",
+      "fte": "52.42",
+      "pupilTeacherRatio": "10",
+      "numberOfSchools": "2"
+   },
+   {
+      "name": "Blytheville School District",
+      "location": {
+         "state": {
+            "name": "Arkansas",
+            "abbr": "AR",
+            "county": "Mississippi County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "1900",
+      "fte": "167.94",
+      "pupilTeacherRatio": "11.31",
+      "numberOfSchools": "4"
+   },
+   {
+      "name": "Booneville School District",
+      "location": {
+         "state": {
+            "name": "Arkansas",
+            "abbr": "AR",
+            "county": "Logan County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "1272",
+      "fte": "117.46",
+      "pupilTeacherRatio": "10.83",
+      "numberOfSchools": "3"
+   },
+   {
+      "name": "Bradford School District",
+      "location": {
+         "state": {
+            "name": "Arkansas",
+            "abbr": "AR",
+            "county": "White County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "494",
+      "fte": "40.06",
+      "pupilTeacherRatio": "12.33",
+      "numberOfSchools": "2"
+   },
+   {
+      "name": "Brinkley School District",
+      "location": {
+         "state": {
+            "name": "Arkansas",
+            "abbr": "AR",
+            "county": "Monroe County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "511",
+      "fte": "43.97",
+      "pupilTeacherRatio": "11.62",
+      "numberOfSchools": "2"
+   },
+   {
+      "name": "Brookland School District",
+      "location": {
+         "state": {
+            "name": "Arkansas",
+            "abbr": "AR",
+            "county": "Craighead County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "2816",
+      "fte": "174.57",
+      "pupilTeacherRatio": "16.13",
+      "numberOfSchools": "4"
+   },
+   {
+      "name": "Bryant School District",
+      "location": {
+         "state": {
+            "name": "Arkansas",
+            "abbr": "AR",
+            "county": "Saline County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "9459",
+      "fte": "605.23",
+      "pupilTeacherRatio": "15.63",
+      "numberOfSchools": "12"
+   },
+   {
+      "name": "Buffalo Is. Central Sch. Dist.",
+      "location": {
+         "state": {
+            "name": "Arkansas",
+            "abbr": "AR",
+            "county": "Craighead County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "766",
+      "fte": "72.55",
+      "pupilTeacherRatio": "10.56",
+      "numberOfSchools": "2"
+   },
+   {
+      "name": "Cabot School District",
+      "location": {
+         "state": {
+            "name": "Arkansas",
+            "abbr": "AR",
+            "county": "Lonoke County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "10851",
+      "fte": "669.61",
+      "pupilTeacherRatio": "16.2",
+      "numberOfSchools": "16"
+   },
+   {
+      "name": "Caddo Hills School District",
+      "location": {
+         "state": {
+            "name": "Arkansas",
+            "abbr": "AR",
+            "county": "Montgomery County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "586",
+      "fte": "58.1",
+      "pupilTeacherRatio": "10.09",
+      "numberOfSchools": "2"
+   },
+   {
+      "name": "Calico Rock School District",
+      "location": {
+         "state": {
+            "name": "Arkansas",
+            "abbr": "AR",
+            "county": "Izard County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Kindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "371",
+      "fte": "36.49",
+      "pupilTeacherRatio": "10.17",
+      "numberOfSchools": "2"
+   },
+   {
+      "name": "Camden Fairview School Dist.",
+      "location": {
+         "state": {
+            "name": "Arkansas",
+            "abbr": "AR",
+            "county": "Ouachita County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "2387",
+      "fte": "185.22",
+      "pupilTeacherRatio": "12.89",
+      "numberOfSchools": "5"
+   },
+   {
+      "name": "Capitol City Lighthouse Academy",
+      "location": {
+         "state": {
+            "name": "ARKANSAS",
+            "abbr": "AR",
+            "county": "Pulaski County"
+         }
+      },
+      "type": "7-Independent Charter District",
+      "grades": {
+         "lowest": "Kindergarten",
+         "highest": "5th Grade"
+      },
+      "students": "164",
+      "fte": "12.21",
+      "pupilTeacherRatio": "13.43",
+      "numberOfSchools": "1"
+   },
+   {
+      "name": "Carlisle School District",
+      "location": {
+         "state": {
+            "name": "Arkansas",
+            "abbr": "AR",
+            "county": "Lonoke County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "706",
+      "fte": "53.19",
+      "pupilTeacherRatio": "13.27",
+      "numberOfSchools": "2"
+   },
+   {
+      "name": "Cave City School District",
+      "location": {
+         "state": {
+            "name": "Arkansas",
+            "abbr": "AR",
+            "county": "Sharp County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "1237",
+      "fte": "118.56",
+      "pupilTeacherRatio": "10.43",
+      "numberOfSchools": "3"
+   },
+   {
+      "name": "Cedar Ridge School District",
+      "location": {
+         "state": {
+            "name": "Arkansas",
+            "abbr": "AR",
+            "county": "Independence County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Kindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "699",
+      "fte": "95.42",
+      "pupilTeacherRatio": "7.33",
+      "numberOfSchools": "2"
+   },
+   {
+      "name": "Cedarville School District",
+      "location": {
+         "state": {
+            "name": "Arkansas",
+            "abbr": "AR",
+            "county": "Crawford County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Kindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "765",
+      "fte": "86.98",
+      "pupilTeacherRatio": "8.8",
+      "numberOfSchools": "3"
+   },
+   {
+      "name": "Centerpoint School District",
+      "location": {
+         "state": {
+            "name": "Arkansas",
+            "abbr": "AR",
+            "county": "Pike County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "1037",
+      "fte": "95.35",
+      "pupilTeacherRatio": "10.88",
+      "numberOfSchools": "3"
+   },
+   {
+      "name": "Charleston School District",
+      "location": {
+         "state": {
+            "name": "Arkansas",
+            "abbr": "AR",
+            "county": "Franklin County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "914",
+      "fte": "80.8",
+      "pupilTeacherRatio": "11.31",
+      "numberOfSchools": "2"
+   },
+   {
+      "name": "Clarendon School District",
+      "location": {
+         "state": {
+            "name": "Arkansas",
+            "abbr": "AR",
+            "county": "Monroe County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "434",
+      "fte": "46.75",
+      "pupilTeacherRatio": "9.28",
+      "numberOfSchools": "2"
+   },
+   {
+      "name": "Clarksville School District",
+      "location": {
+         "state": {
+            "name": "Arkansas",
+            "abbr": "AR",
+            "county": "Johnson County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Kindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "2539",
+      "fte": "177.43",
+      "pupilTeacherRatio": "14.31",
+      "numberOfSchools": "5"
+   },
+   {
+      "name": "Cleveland County School Dist.",
+      "location": {
+         "state": {
+            "name": "Arkansas",
+            "abbr": "AR",
+            "county": "Cleveland County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "840",
+      "fte": "73.85",
+      "pupilTeacherRatio": "11.37",
+      "numberOfSchools": "3"
+   },
+   {
+      "name": "Clinton School District",
+      "location": {
+         "state": {
+            "name": "Arkansas",
+            "abbr": "AR",
+            "county": "Van Buren County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "1346",
+      "fte": "105.44",
+      "pupilTeacherRatio": "12.77",
+      "numberOfSchools": "3"
+   },
+   {
+      "name": "Concord School District",
+      "location": {
+         "state": {
+            "name": "Arkansas",
+            "abbr": "AR",
+            "county": "Cleburne County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Kindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "433",
+      "fte": "51.62",
+      "pupilTeacherRatio": "8.39",
+      "numberOfSchools": "2"
+   },
+   {
+      "name": "Conway School District",
+      "location": {
+         "state": {
+            "name": "Arkansas",
+            "abbr": "AR",
+            "county": "Faulkner County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "10393",
+      "fte": "637.18",
+      "pupilTeacherRatio": "16.31",
+      "numberOfSchools": "19"
+   },
+   {
+      "name": "Corning School District",
+      "location": {
+         "state": {
+            "name": "Arkansas",
+            "abbr": "AR",
+            "county": "Clay County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "895",
+      "fte": "73.04",
+      "pupilTeacherRatio": "12.25",
+      "numberOfSchools": "3"
+   },
+   {
+      "name": "Cossatot River School District",
+      "location": {
+         "state": {
+            "name": "Arkansas",
+            "abbr": "AR",
+            "county": "Polk County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Kindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "967",
+      "fte": "106.64",
+      "pupilTeacherRatio": "9.07",
+      "numberOfSchools": "4"
+   },
+   {
+      "name": "Cotter School District",
+      "location": {
+         "state": {
+            "name": "Arkansas",
+            "abbr": "AR",
+            "county": "Baxter County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "801",
+      "fte": "80.26",
+      "pupilTeacherRatio": "9.98",
+      "numberOfSchools": "2"
+   },
+   {
+      "name": "County Line School District",
+      "location": {
+         "state": {
+            "name": "Arkansas",
+            "abbr": "AR",
+            "county": "Franklin County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "512",
+      "fte": "40.09",
+      "pupilTeacherRatio": "12.77",
+      "numberOfSchools": "2"
+   },
+   {
+      "name": "Cross County School District",
+      "location": {
+         "state": {
+            "name": "Arkansas",
+            "abbr": "AR",
+            "county": "Cross County"
+         }
+      },
+      "type": "7-Independent Charter District",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "619",
+      "fte": "55.9",
+      "pupilTeacherRatio": "11.07",
+      "numberOfSchools": "2"
+   },
+   {
+      "name": "Crossett School District",
+      "location": {
+         "state": {
+            "name": "Arkansas",
+            "abbr": "AR",
+            "county": "Ashley County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "1780",
+      "fte": "128.13",
+      "pupilTeacherRatio": "13.89",
+      "numberOfSchools": "3"
+   },
+   {
+      "name": "Crowley's Ridge Education Coop",
+      "location": {
+         "state": {
+            "name": "Arkansas",
+            "abbr": "AR",
+            "county": "Poinsett County"
+         }
+      },
+      "type": "4-Regional Education Service Agency (RESA)",
+      "grades": {
+         "lowest": "†",
+         "highest": "†"
+      },
+      "students": "†",
+      "fte": "†",
+      "pupilTeacherRatio": "†",
+      "numberOfSchools": "0"
+   },
+   {
+      "name": "Cutter-Morning Star Sch. Dist.",
+      "location": {
+         "state": {
+            "name": "Arkansas",
+            "abbr": "AR",
+            "county": "Garland County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "695",
+      "fte": "73.86",
+      "pupilTeacherRatio": "9.41",
+      "numberOfSchools": "2"
+   },
+   {
+      "name": "Danville School District",
+      "location": {
+         "state": {
+            "name": "Arkansas",
+            "abbr": "AR",
+            "county": "Yell County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "861",
+      "fte": "103.73",
+      "pupilTeacherRatio": "8.3",
+      "numberOfSchools": "3"
+   },
+   {
+      "name": "Dardanelle School District",
+      "location": {
+         "state": {
+            "name": "Arkansas",
+            "abbr": "AR",
+            "county": "Yell County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Kindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "2098",
+      "fte": "178.81",
+      "pupilTeacherRatio": "11.73",
+      "numberOfSchools": "4"
+   },
+   {
+      "name": "Dawson Education Service Coop",
+      "location": {
+         "state": {
+            "name": "Arkansas",
+            "abbr": "AR",
+            "county": "Clark County"
+         }
+      },
+      "type": "4-Regional Education Service Agency (RESA)",
+      "grades": {
+         "lowest": "†",
+         "highest": "†"
+      },
+      "students": "†",
+      "fte": "†",
+      "pupilTeacherRatio": "†",
+      "numberOfSchools": "0"
+   },
+   {
+      "name": "Decatur School District",
+      "location": {
+         "state": {
+            "name": "Arkansas",
+            "abbr": "AR",
+            "county": "Benton County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "572",
+      "fte": "72.83",
+      "pupilTeacherRatio": "7.85",
+      "numberOfSchools": "3"
+   },
+   {
+      "name": "Deer/mt. Judea School District",
+      "location": {
+         "state": {
+            "name": "Arkansas",
+            "abbr": "AR",
+            "county": "Newton County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "454",
+      "fte": "67.26",
+      "pupilTeacherRatio": "6.75",
+      "numberOfSchools": "2"
+   },
+   {
+      "name": "Dequeen School District",
+      "location": {
+         "state": {
+            "name": "Arkansas",
+            "abbr": "AR",
+            "county": "Sevier County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Kindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "2382",
+      "fte": "187.73",
+      "pupilTeacherRatio": "12.69",
+      "numberOfSchools": "5"
+   },
+   {
+      "name": "Dequeen/mena Educ. Coop",
+      "location": {
+         "state": {
+            "name": "Arkansas",
+            "abbr": "AR",
+            "county": "Sevier County"
+         }
+      },
+      "type": "4-Regional Education Service Agency (RESA)",
+      "grades": {
+         "lowest": "9th Grade",
+         "highest": "12th Grade"
+      },
+      "students": "0",
+      "fte": "0",
+      "pupilTeacherRatio": "†",
+      "numberOfSchools": "0"
+   },
+   {
+      "name": "Dermott School District",
+      "location": {
+         "state": {
+            "name": "Arkansas",
+            "abbr": "AR",
+            "county": "Chicot County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "349",
+      "fte": "34.01",
+      "pupilTeacherRatio": "10.26",
+      "numberOfSchools": "2"
+   },
+   {
+      "name": "Des Arc School District",
+      "location": {
+         "state": {
+            "name": "Arkansas",
+            "abbr": "AR",
+            "county": "Prairie County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "573",
+      "fte": "43.18",
+      "pupilTeacherRatio": "13.27",
+      "numberOfSchools": "2"
+   },
+   {
+      "name": "Dewitt School District",
+      "location": {
+         "state": {
+            "name": "Arkansas",
+            "abbr": "AR",
+            "county": "Arkansas County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "1225",
+      "fte": "103.77",
+      "pupilTeacherRatio": "11.8",
+      "numberOfSchools": "4"
+   },
+   {
+      "name": "Dhs Division of Developmental Disabilities Services",
+      "location": {
+         "state": {
+            "name": "Arkansas",
+            "abbr": "AR",
+            "county": "Pulaski County"
+         }
+      },
+      "type": "5-State agency providing elementary and/or secondary level instruction",
+      "grades": {
+         "lowest": "3rd Grade",
+         "highest": "12th Grade"
+      },
+      "students": "0",
+      "fte": "0",
+      "pupilTeacherRatio": "†",
+      "numberOfSchools": "0"
+   },
+   {
+      "name": "Dierks School District",
+      "location": {
+         "state": {
+            "name": "Arkansas",
+            "abbr": "AR",
+            "county": "Howard County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Kindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "543",
+      "fte": "77.31",
+      "pupilTeacherRatio": "7.02",
+      "numberOfSchools": "2"
+   },
+   {
+      "name": "Dollarway School District",
+      "location": {
+         "state": {
+            "name": "Arkansas",
+            "abbr": "AR",
+            "county": "Jefferson County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "1020",
+      "fte": "83.94",
+      "pupilTeacherRatio": "12.15",
+      "numberOfSchools": "3"
+   },
+   {
+      "name": "Dover School District",
+      "location": {
+         "state": {
+            "name": "Arkansas",
+            "abbr": "AR",
+            "county": "Pope County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "1344",
+      "fte": "116.76",
+      "pupilTeacherRatio": "11.51",
+      "numberOfSchools": "3"
+   },
+   {
+      "name": "Drew Central School District",
+      "location": {
+         "state": {
+            "name": "Arkansas",
+            "abbr": "AR",
+            "county": "Drew County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "1141",
+      "fte": "83.48",
+      "pupilTeacherRatio": "13.67",
+      "numberOfSchools": "3"
+   },
+   {
+      "name": "Dumas School District",
+      "location": {
+         "state": {
+            "name": "Arkansas",
+            "abbr": "AR",
+            "county": "Desha County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "1207",
+      "fte": "108.46",
+      "pupilTeacherRatio": "11.13",
+      "numberOfSchools": "4"
+   },
+   {
+      "name": "Earle School District",
+      "location": {
+         "state": {
+            "name": "Arkansas",
+            "abbr": "AR",
+            "county": "Crittenden County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "540",
+      "fte": "82.17",
+      "pupilTeacherRatio": "6.57",
+      "numberOfSchools": "2"
+   },
+   {
+      "name": "East Arkansas Career Center",
+      "location": {
+         "state": {
+            "name": "Arkansas",
+            "abbr": "AR",
+            "county": "St. Francis County"
+         }
+      },
+      "type": "8-Other education agencies",
+      "grades": {
+         "lowest": "9th Grade",
+         "highest": "12th Grade"
+      },
+      "students": "0",
+      "fte": "0",
+      "pupilTeacherRatio": "†",
+      "numberOfSchools": "1"
+   },
+   {
+      "name": "East End School District",
+      "location": {
+         "state": {
+            "name": "Arkansas",
+            "abbr": "AR",
+            "county": "Perry County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "660",
+      "fte": "55.06",
+      "pupilTeacherRatio": "11.99",
+      "numberOfSchools": "2"
+   },
+   {
+      "name": "East Poinsett Co. School Dist.",
+      "location": {
+         "state": {
+            "name": "Arkansas",
+            "abbr": "AR",
+            "county": "Poinsett County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "735",
+      "fte": "58.65",
+      "pupilTeacherRatio": "12.53",
+      "numberOfSchools": "3"
+   },
+   {
+      "name": "El Dorado School District",
+      "location": {
+         "state": {
+            "name": "Arkansas",
+            "abbr": "AR",
+            "county": "Union County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "4220",
+      "fte": "319.47",
+      "pupilTeacherRatio": "13.21",
+      "numberOfSchools": "7"
+   },
+   {
+      "name": "Elkins School District",
+      "location": {
+         "state": {
+            "name": "Arkansas",
+            "abbr": "AR",
+            "county": "Washington County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "1290",
+      "fte": "99.34",
+      "pupilTeacherRatio": "12.99",
+      "numberOfSchools": "4"
+   },
+   {
+      "name": "Emerson-Taylor School District",
+      "location": {
+         "state": {
+            "name": "Arkansas",
+            "abbr": "AR",
+            "county": "Columbia County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Kindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "1034",
+      "fte": "101.02",
+      "pupilTeacherRatio": "10.24",
+      "numberOfSchools": "6"
+   },
+   {
+      "name": "England School District",
+      "location": {
+         "state": {
+            "name": "Arkansas",
+            "abbr": "AR",
+            "county": "Lonoke County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "661",
+      "fte": "58.01",
+      "pupilTeacherRatio": "11.39",
+      "numberOfSchools": "2"
+   },
+   {
+      "name": "Estem High Charter",
+      "location": {
+         "state": {
+            "name": "Arkansas",
+            "abbr": "AR",
+            "county": "Pulaski County"
+         }
+      },
+      "type": "7-Independent Charter District",
+      "grades": {
+         "lowest": "Kindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "3202",
+      "fte": "237.03",
+      "pupilTeacherRatio": "13.51",
+      "numberOfSchools": "5"
+   },
+   {
+      "name": "Eureka Springs School District",
+      "location": {
+         "state": {
+            "name": "Arkansas",
+            "abbr": "AR",
+            "county": "Carroll County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "688",
+      "fte": "59.42",
+      "pupilTeacherRatio": "11.58",
+      "numberOfSchools": "3"
+   },
+   {
+      "name": "Exalt Academy of Southwest Little Rock",
+      "location": {
+         "state": {
+            "name": "ARKANSAS",
+            "abbr": "AR",
+            "county": "Pulaski County"
+         }
+      },
+      "type": "7-Independent Charter District",
+      "grades": {
+         "lowest": "Kindergarten",
+         "highest": "8th Grade"
+      },
+      "students": "486",
+      "fte": "42.62",
+      "pupilTeacherRatio": "11.4",
+      "numberOfSchools": "1"
+   },
+   {
+      "name": "Farmington School District",
+      "location": {
+         "state": {
+            "name": "Arkansas",
+            "abbr": "AR",
+            "county": "Washington County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Kindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "2556",
+      "fte": "189.85",
+      "pupilTeacherRatio": "13.46",
+      "numberOfSchools": "5"
+   },
+   {
+      "name": "Fayetteville School District",
+      "location": {
+         "state": {
+            "name": "Arkansas",
+            "abbr": "AR",
+            "county": "Washington County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "10628",
+      "fte": "736.99",
+      "pupilTeacherRatio": "14.42",
+      "numberOfSchools": "16"
+   },
+   {
+      "name": "Flippin School District",
+      "location": {
+         "state": {
+            "name": "Arkansas",
+            "abbr": "AR",
+            "county": "Marion County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "947",
+      "fte": "96.83",
+      "pupilTeacherRatio": "9.78",
+      "numberOfSchools": "3"
+   },
+   {
+      "name": "Fordyce School District",
+      "location": {
+         "state": {
+            "name": "Arkansas",
+            "abbr": "AR",
+            "county": "Dallas County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "778",
+      "fte": "61.22",
+      "pupilTeacherRatio": "12.71",
+      "numberOfSchools": "2"
+   },
+   {
+      "name": "Foreman School District",
+      "location": {
+         "state": {
+            "name": "Arkansas",
+            "abbr": "AR",
+            "county": "Little River County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Kindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "496",
+      "fte": "52.22",
+      "pupilTeacherRatio": "9.5",
+      "numberOfSchools": "2"
+   },
+   {
+      "name": "Forrest City School District",
+      "location": {
+         "state": {
+            "name": "Arkansas",
+            "abbr": "AR",
+            "county": "St. Francis County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "2495",
+      "fte": "160.17",
+      "pupilTeacherRatio": "15.58",
+      "numberOfSchools": "5"
+   },
+   {
+      "name": "Fort Smith School District",
+      "location": {
+         "state": {
+            "name": "Arkansas",
+            "abbr": "AR",
+            "county": "Sebastian County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "14748",
+      "fte": "1051.72",
+      "pupilTeacherRatio": "14.02",
+      "numberOfSchools": "26"
+   },
+   {
+      "name": "Fouke School District",
+      "location": {
+         "state": {
+            "name": "Arkansas",
+            "abbr": "AR",
+            "county": "Miller County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "1169",
+      "fte": "95.7",
+      "pupilTeacherRatio": "12.22",
+      "numberOfSchools": "3"
+   },
+   {
+      "name": "Fountain Lake School District",
+      "location": {
+         "state": {
+            "name": "Arkansas",
+            "abbr": "AR",
+            "county": "Garland County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "1407",
+      "fte": "103.06",
+      "pupilTeacherRatio": "13.65",
+      "numberOfSchools": "3"
+   },
+   {
+      "name": "Friendship Aspire Academy Little Rock",
+      "location": {
+         "state": {
+            "name": "ARKANSAS",
+            "abbr": "AR",
+            "county": "Pulaski County"
+         }
+      },
+      "type": "7-Independent Charter District",
+      "grades": {
+         "lowest": "Kindergarten",
+         "highest": "8th Grade"
+      },
+      "students": "231",
+      "fte": "21.19",
+      "pupilTeacherRatio": "10.9",
+      "numberOfSchools": "2"
+   },
+   {
+      "name": "Friendship Aspire Academy Pine Bluff",
+      "location": {
+         "state": {
+            "name": "ARKANSAS",
+            "abbr": "AR",
+            "county": "Jefferson County"
+         }
+      },
+      "type": "7-Independent Charter District",
+      "grades": {
+         "lowest": "Kindergarten",
+         "highest": "2nd Grade"
+      },
+      "students": "239",
+      "fte": "13.97",
+      "pupilTeacherRatio": "17.11",
+      "numberOfSchools": "1"
+   },
+   {
+      "name": "Future School of Fort Smith",
+      "location": {
+         "state": {
+            "name": "ARKANSAS",
+            "abbr": "AR",
+            "county": "Sebastian County"
+         }
+      },
+      "type": "7-Independent Charter District",
+      "grades": {
+         "lowest": "10th Grade",
+         "highest": "12th Grade"
+      },
+      "students": "226",
+      "fte": "125.06",
+      "pupilTeacherRatio": "1.81",
+      "numberOfSchools": "1"
+   },
+   {
+      "name": "Genoa Central School District",
+      "location": {
+         "state": {
+            "name": "Arkansas",
+            "abbr": "AR",
+            "county": "Miller County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Kindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "1168",
+      "fte": "90.03",
+      "pupilTeacherRatio": "12.97",
+      "numberOfSchools": "3"
+   },
+   {
+      "name": "Gentry School District",
+      "location": {
+         "state": {
+            "name": "Arkansas",
+            "abbr": "AR",
+            "county": "Benton County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Kindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "1466",
+      "fte": "122.62",
+      "pupilTeacherRatio": "11.96",
+      "numberOfSchools": "4"
+   },
+   {
+      "name": "Glen Rose School District",
+      "location": {
+         "state": {
+            "name": "Arkansas",
+            "abbr": "AR",
+            "county": "Hot Spring County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "1063",
+      "fte": "84.14",
+      "pupilTeacherRatio": "12.63",
+      "numberOfSchools": "3"
+   },
+   {
+      "name": "Gosnell School District",
+      "location": {
+         "state": {
+            "name": "Arkansas",
+            "abbr": "AR",
+            "county": "Mississippi County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Kindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "1215",
+      "fte": "121.89",
+      "pupilTeacherRatio": "9.97",
+      "numberOfSchools": "2"
+   },
+   {
+      "name": "Graduate Arkansas School",
+      "location": {
+         "state": {
+            "name": "Arkansas",
+            "abbr": "AR",
+            "county": "Pulaski County"
+         }
+      },
+      "type": "7-Independent Charter District",
+      "grades": {
+         "lowest": "9th Grade",
+         "highest": "12th Grade"
+      },
+      "students": "119",
+      "fte": "8.48",
+      "pupilTeacherRatio": "14.03",
+      "numberOfSchools": "1"
+   },
+   {
+      "name": "Gravette School District",
+      "location": {
+         "state": {
+            "name": "Arkansas",
+            "abbr": "AR",
+            "county": "Benton County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "1956",
+      "fte": "137.13",
+      "pupilTeacherRatio": "14.26",
+      "numberOfSchools": "4"
+   },
+   {
+      "name": "Great Rivers Educ. Serv. Coop",
+      "location": {
+         "state": {
+            "name": "Arkansas",
+            "abbr": "AR",
+            "county": "Phillips County"
+         }
+      },
+      "type": "4-Regional Education Service Agency (RESA)",
+      "grades": {
+         "lowest": "†",
+         "highest": "†"
+      },
+      "students": "†",
+      "fte": "†",
+      "pupilTeacherRatio": "†",
+      "numberOfSchools": "0"
+   },
+   {
+      "name": "Green Forest School District",
+      "location": {
+         "state": {
+            "name": "Arkansas",
+            "abbr": "AR",
+            "county": "Carroll County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "1418",
+      "fte": "133.63",
+      "pupilTeacherRatio": "10.61",
+      "numberOfSchools": "3"
+   },
+   {
+      "name": "Greenbrier School District",
+      "location": {
+         "state": {
+            "name": "Arkansas",
+            "abbr": "AR",
+            "county": "Faulkner County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "3613",
+      "fte": "224.18",
+      "pupilTeacherRatio": "16.12",
+      "numberOfSchools": "7"
+   },
+   {
+      "name": "Greene Co. Tech School Dist.",
+      "location": {
+         "state": {
+            "name": "Arkansas",
+            "abbr": "AR",
+            "county": "Greene County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "3844",
+      "fte": "257.02",
+      "pupilTeacherRatio": "14.96",
+      "numberOfSchools": "6"
+   },
+   {
+      "name": "Greenland School District",
+      "location": {
+         "state": {
+            "name": "Arkansas",
+            "abbr": "AR",
+            "county": "Washington County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Kindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "753",
+      "fte": "71.21",
+      "pupilTeacherRatio": "10.57",
+      "numberOfSchools": "3"
+   },
+   {
+      "name": "Greenwood School District",
+      "location": {
+         "state": {
+            "name": "Arkansas",
+            "abbr": "AR",
+            "county": "Sebastian County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "3833",
+      "fte": "311.52",
+      "pupilTeacherRatio": "12.3",
+      "numberOfSchools": "6"
+   },
+   {
+      "name": "Gurdon School District",
+      "location": {
+         "state": {
+            "name": "Arkansas",
+            "abbr": "AR",
+            "county": "Clark County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "723",
+      "fte": "65.07",
+      "pupilTeacherRatio": "11.11",
+      "numberOfSchools": "3"
+   },
+   {
+      "name": "Guy-Perkins School District",
+      "location": {
+         "state": {
+            "name": "Arkansas",
+            "abbr": "AR",
+            "county": "Faulkner County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "354",
+      "fte": "40.68",
+      "pupilTeacherRatio": "8.7",
+      "numberOfSchools": "2"
+   },
+   {
+      "name": "Haas Hall Academy",
+      "location": {
+         "state": {
+            "name": "Arkansas",
+            "abbr": "AR",
+            "county": "Washington County"
+         }
+      },
+      "type": "7-Independent Charter District",
+      "grades": {
+         "lowest": "7th Grade",
+         "highest": "12th Grade"
+      },
+      "students": "1001",
+      "fte": "69.99",
+      "pupilTeacherRatio": "14.3",
+      "numberOfSchools": "3"
+   },
+   {
+      "name": "Haas Hall Bentonville",
+      "location": {
+         "state": {
+            "name": "ARKANSAS",
+            "abbr": "AR",
+            "county": "Washington County"
+         }
+      },
+      "type": "7-Independent Charter District",
+      "grades": {
+         "lowest": "7th Grade",
+         "highest": "12th Grade"
+      },
+      "students": "356",
+      "fte": "21.95",
+      "pupilTeacherRatio": "16.22",
+      "numberOfSchools": "1"
+   },
+   {
+      "name": "Hackett School District",
+      "location": {
+         "state": {
+            "name": "Arkansas",
+            "abbr": "AR",
+            "county": "Sebastian County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "776",
+      "fte": "90.21",
+      "pupilTeacherRatio": "8.6",
+      "numberOfSchools": "2"
+   },
+   {
+      "name": "Hamburg School District",
+      "location": {
+         "state": {
+            "name": "Arkansas",
+            "abbr": "AR",
+            "county": "Ashley County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "1836",
+      "fte": "133.48",
+      "pupilTeacherRatio": "13.75",
+      "numberOfSchools": "5"
+   },
+   {
+      "name": "Hampton School District",
+      "location": {
+         "state": {
+            "name": "Arkansas",
+            "abbr": "AR",
+            "county": "Calhoun County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "559",
+      "fte": "47.27",
+      "pupilTeacherRatio": "11.83",
+      "numberOfSchools": "2"
+   },
+   {
+      "name": "Harmony Grove School District",
+      "location": {
+         "state": {
+            "name": "Arkansas",
+            "abbr": "AR",
+            "county": "Ouachita County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "982",
+      "fte": "85.02",
+      "pupilTeacherRatio": "11.55",
+      "numberOfSchools": "4"
+   },
+   {
+      "name": "Harmony Grove School District",
+      "location": {
+         "state": {
+            "name": "Arkansas",
+            "abbr": "AR",
+            "county": "Saline County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "1223",
+      "fte": "98.34",
+      "pupilTeacherRatio": "12.44",
+      "numberOfSchools": "4"
+   },
+   {
+      "name": "Harrisburg School District",
+      "location": {
+         "state": {
+            "name": "Arkansas",
+            "abbr": "AR",
+            "county": "Poinsett County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Kindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "1129",
+      "fte": "101.98",
+      "pupilTeacherRatio": "11.07",
+      "numberOfSchools": "4"
+   },
+   {
+      "name": "Harrison School District",
+      "location": {
+         "state": {
+            "name": "Arkansas",
+            "abbr": "AR",
+            "county": "Boone County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Kindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "2727",
+      "fte": "229.94",
+      "pupilTeacherRatio": "11.86",
+      "numberOfSchools": "5"
+   },
+   {
+      "name": "Hazen School District",
+      "location": {
+         "state": {
+            "name": "Arkansas",
+            "abbr": "AR",
+            "county": "Prairie County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "601",
+      "fte": "43.82",
+      "pupilTeacherRatio": "13.72",
+      "numberOfSchools": "2"
+   },
+   {
+      "name": "Heber Springs School District",
+      "location": {
+         "state": {
+            "name": "Arkansas",
+            "abbr": "AR",
+            "county": "Cleburne County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Kindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "1536",
+      "fte": "127.29",
+      "pupilTeacherRatio": "12.07",
+      "numberOfSchools": "3"
+   },
+   {
+      "name": "Hector School District",
+      "location": {
+         "state": {
+            "name": "Arkansas",
+            "abbr": "AR",
+            "county": "Pope County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Kindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "609",
+      "fte": "67.6",
+      "pupilTeacherRatio": "9.01",
+      "numberOfSchools": "2"
+   },
+   {
+      "name": "Helena/ W.helena School Dist.",
+      "location": {
+         "state": {
+            "name": "Arkansas",
+            "abbr": "AR",
+            "county": "Phillips County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "1228",
+      "fte": "103.99",
+      "pupilTeacherRatio": "11.81",
+      "numberOfSchools": "2"
+   },
+   {
+      "name": "Hermitage School District",
+      "location": {
+         "state": {
+            "name": "Arkansas",
+            "abbr": "AR",
+            "county": "Bradley County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "468",
+      "fte": "37.6",
+      "pupilTeacherRatio": "12.45",
+      "numberOfSchools": "2"
+   },
+   {
+      "name": "Highland School District",
+      "location": {
+         "state": {
+            "name": "Arkansas",
+            "abbr": "AR",
+            "county": "Sharp County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Kindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "1608",
+      "fte": "135.05",
+      "pupilTeacherRatio": "11.91",
+      "numberOfSchools": "3"
+   },
+   {
+      "name": "Hillcrest School District",
+      "location": {
+         "state": {
+            "name": "Arkansas",
+            "abbr": "AR",
+            "county": "Lawrence County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "471",
+      "fte": "54.33",
+      "pupilTeacherRatio": "8.67",
+      "numberOfSchools": "2"
+   },
+   {
+      "name": "Hope School District",
+      "location": {
+         "state": {
+            "name": "Arkansas",
+            "abbr": "AR",
+            "county": "Hempstead County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "2408",
+      "fte": "203.78",
+      "pupilTeacherRatio": "11.82",
+      "numberOfSchools": "6"
+   },
+   {
+      "name": "Horatio School District",
+      "location": {
+         "state": {
+            "name": "Arkansas",
+            "abbr": "AR",
+            "county": "Sevier County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "834",
+      "fte": "90.23",
+      "pupilTeacherRatio": "9.24",
+      "numberOfSchools": "2"
+   },
+   {
+      "name": "Hot Springs School District",
+      "location": {
+         "state": {
+            "name": "Arkansas",
+            "abbr": "AR",
+            "county": "Garland County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "3708",
+      "fte": "274.32",
+      "pupilTeacherRatio": "13.52",
+      "numberOfSchools": "6"
+   },
+   {
+      "name": "Hoxie School District",
+      "location": {
+         "state": {
+            "name": "Arkansas",
+            "abbr": "AR",
+            "county": "Lawrence County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "859",
+      "fte": "81.16",
+      "pupilTeacherRatio": "10.58",
+      "numberOfSchools": "2"
+   },
+   {
+      "name": "Huntsville School District",
+      "location": {
+         "state": {
+            "name": "Arkansas",
+            "abbr": "AR",
+            "county": "Madison County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "2304",
+      "fte": "167.97",
+      "pupilTeacherRatio": "13.72",
+      "numberOfSchools": "6"
+   },
+   {
+      "name": "Imboden Charter School District",
+      "location": {
+         "state": {
+            "name": "Arkansas",
+            "abbr": "AR",
+            "county": "Lawrence County"
+         }
+      },
+      "type": "7-Independent Charter District",
+      "grades": {
+         "lowest": "Kindergarten",
+         "highest": "8th Grade"
+      },
+      "students": "58",
+      "fte": "3.82",
+      "pupilTeacherRatio": "15.18",
+      "numberOfSchools": "1"
+   },
+   {
+      "name": "Izard Co. Cons. School Dist.",
+      "location": {
+         "state": {
+            "name": "Arkansas",
+            "abbr": "AR",
+            "county": "Izard County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "556",
+      "fte": "57.16",
+      "pupilTeacherRatio": "9.73",
+      "numberOfSchools": "3"
+   },
+   {
+      "name": "Jackson Co. School District",
+      "location": {
+         "state": {
+            "name": "Arkansas",
+            "abbr": "AR",
+            "county": "Jackson County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "950",
+      "fte": "82.02",
+      "pupilTeacherRatio": "11.58",
+      "numberOfSchools": "3"
+   },
+   {
+      "name": "Jacksonville Lighthouse Charter",
+      "location": {
+         "state": {
+            "name": "Arkansas",
+            "abbr": "AR",
+            "county": "Pulaski County"
+         }
+      },
+      "type": "7-Independent Charter District",
+      "grades": {
+         "lowest": "Kindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "857",
+      "fte": "65.63",
+      "pupilTeacherRatio": "13.06",
+      "numberOfSchools": "3"
+   },
+   {
+      "name": "Jacksonville North Pulaski School District",
+      "location": {
+         "state": {
+            "name": "ARKANSAS",
+            "abbr": "AR",
+            "county": "Pulaski County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "4314",
+      "fte": "290.58",
+      "pupilTeacherRatio": "14.85",
+      "numberOfSchools": "8"
+   },
+   {
+      "name": "Jasper School District",
+      "location": {
+         "state": {
+            "name": "Arkansas",
+            "abbr": "AR",
+            "county": "Newton County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "891",
+      "fte": "118.22",
+      "pupilTeacherRatio": "7.54",
+      "numberOfSchools": "6"
+   },
+   {
+      "name": "Jessieville School District",
+      "location": {
+         "state": {
+            "name": "Arkansas",
+            "abbr": "AR",
+            "county": "Garland County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "873",
+      "fte": "62.21",
+      "pupilTeacherRatio": "14.03",
+      "numberOfSchools": "3"
+   },
+   {
+      "name": "Jonesboro School District",
+      "location": {
+         "state": {
+            "name": "Arkansas",
+            "abbr": "AR",
+            "county": "Craighead County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "6719",
+      "fte": "428.21",
+      "pupilTeacherRatio": "15.69",
+      "numberOfSchools": "11"
+   },
+   {
+      "name": "Junction City School District",
+      "location": {
+         "state": {
+            "name": "Arkansas",
+            "abbr": "AR",
+            "county": "Union County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Kindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "683",
+      "fte": "70.17",
+      "pupilTeacherRatio": "9.73",
+      "numberOfSchools": "2"
+   },
+   {
+      "name": "Kipp Delta Public Schools",
+      "location": {
+         "state": {
+            "name": "Arkansas",
+            "abbr": "AR",
+            "county": "Phillips County"
+         }
+      },
+      "type": "7-Independent Charter District",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "1337",
+      "fte": "112.12",
+      "pupilTeacherRatio": "11.92",
+      "numberOfSchools": "5"
+   },
+   {
+      "name": "Kirby School District",
+      "location": {
+         "state": {
+            "name": "Arkansas",
+            "abbr": "AR",
+            "county": "Pike County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "404",
+      "fte": "39.52",
+      "pupilTeacherRatio": "10.22",
+      "numberOfSchools": "2"
+   },
+   {
+      "name": "Lafayette County School District",
+      "location": {
+         "state": {
+            "name": "Arkansas",
+            "abbr": "AR",
+            "county": "Lafayette County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "545",
+      "fte": "58.26",
+      "pupilTeacherRatio": "9.35",
+      "numberOfSchools": "2"
+   },
+   {
+      "name": "Lake Hamilton School District",
+      "location": {
+         "state": {
+            "name": "Arkansas",
+            "abbr": "AR",
+            "county": "Garland County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "4467",
+      "fte": "263.36",
+      "pupilTeacherRatio": "16.96",
+      "numberOfSchools": "6"
+   },
+   {
+      "name": "Lakeside School District",
+      "location": {
+         "state": {
+            "name": "Arkansas",
+            "abbr": "AR",
+            "county": "Garland County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "3570",
+      "fte": "230.54",
+      "pupilTeacherRatio": "15.49",
+      "numberOfSchools": "4"
+   },
+   {
+      "name": "Lakeside School District (Chicot County)",
+      "location": {
+         "state": {
+            "name": "Arkansas",
+            "abbr": "AR",
+            "county": "Chicot County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "1002",
+      "fte": "89.66",
+      "pupilTeacherRatio": "11.18",
+      "numberOfSchools": "4"
+   },
+   {
+      "name": "Lamar School District",
+      "location": {
+         "state": {
+            "name": "Arkansas",
+            "abbr": "AR",
+            "county": "Johnson County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "1396",
+      "fte": "114.12",
+      "pupilTeacherRatio": "12.23",
+      "numberOfSchools": "3"
+   },
+   {
+      "name": "Lavaca School District",
+      "location": {
+         "state": {
+            "name": "Arkansas",
+            "abbr": "AR",
+            "county": "Sebastian County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "868",
+      "fte": "103.5",
+      "pupilTeacherRatio": "8.39",
+      "numberOfSchools": "3"
+   },
+   {
+      "name": "Lawrence County School District",
+      "location": {
+         "state": {
+            "name": "Arkansas",
+            "abbr": "AR",
+            "county": "Lawrence County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "1002",
+      "fte": "85.85",
+      "pupilTeacherRatio": "11.67",
+      "numberOfSchools": "2"
+   },
+   {
+      "name": "Lead Hill School District",
+      "location": {
+         "state": {
+            "name": "Arkansas",
+            "abbr": "AR",
+            "county": "Boone County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "361",
+      "fte": "58.29",
+      "pupilTeacherRatio": "6.19",
+      "numberOfSchools": "2"
+   },
+   {
+      "name": "Lee County School District",
+      "location": {
+         "state": {
+            "name": "Arkansas",
+            "abbr": "AR",
+            "county": "Lee County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "644",
+      "fte": "70.42",
+      "pupilTeacherRatio": "9.15",
+      "numberOfSchools": "2"
+   },
+   {
+      "name": "Lincoln School District",
+      "location": {
+         "state": {
+            "name": "Arkansas",
+            "abbr": "AR",
+            "county": "Washington County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "1105",
+      "fte": "98.77",
+      "pupilTeacherRatio": "11.19",
+      "numberOfSchools": "3"
+   },
+   {
+      "name": "Lisa Academy Charter",
+      "location": {
+         "state": {
+            "name": "Arkansas",
+            "abbr": "AR",
+            "county": "Pulaski County"
+         }
+      },
+      "type": "7-Independent Charter District",
+      "grades": {
+         "lowest": "Kindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "2825",
+      "fte": "196.77",
+      "pupilTeacherRatio": "14.36",
+      "numberOfSchools": "7"
+   },
+   {
+      "name": "Little Rock Preparatory Academy",
+      "location": {
+         "state": {
+            "name": "Arkansas",
+            "abbr": "AR",
+            "county": "Pulaski County"
+         }
+      },
+      "type": "7-Independent Charter District",
+      "grades": {
+         "lowest": "Kindergarten",
+         "highest": "8th Grade"
+      },
+      "students": "242",
+      "fte": "23.21",
+      "pupilTeacherRatio": "10.43",
+      "numberOfSchools": "2"
+   },
+   {
+      "name": "Little Rock School District",
+      "location": {
+         "state": {
+            "name": "Arkansas",
+            "abbr": "AR",
+            "county": "Pulaski County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "23237",
+      "fte": "1660.3",
+      "pupilTeacherRatio": "14",
+      "numberOfSchools": "44"
+   },
+   {
+      "name": "Lonoke School District",
+      "location": {
+         "state": {
+            "name": "Arkansas",
+            "abbr": "AR",
+            "county": "Lonoke County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "1725",
+      "fte": "129",
+      "pupilTeacherRatio": "13.37",
+      "numberOfSchools": "4"
+   },
+   {
+      "name": "Magazine School District",
+      "location": {
+         "state": {
+            "name": "Arkansas",
+            "abbr": "AR",
+            "county": "Logan County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "590",
+      "fte": "56.61",
+      "pupilTeacherRatio": "10.42",
+      "numberOfSchools": "2"
+   },
+   {
+      "name": "Magnet Cove School Dist.",
+      "location": {
+         "state": {
+            "name": "Arkansas",
+            "abbr": "AR",
+            "county": "Hot Spring County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "753",
+      "fte": "77.27",
+      "pupilTeacherRatio": "9.75",
+      "numberOfSchools": "2"
+   },
+   {
+      "name": "Magnolia School District",
+      "location": {
+         "state": {
+            "name": "Arkansas",
+            "abbr": "AR",
+            "county": "Columbia County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "2788",
+      "fte": "219.76",
+      "pupilTeacherRatio": "12.69",
+      "numberOfSchools": "5"
+   },
+   {
+      "name": "Malvern School District",
+      "location": {
+         "state": {
+            "name": "Arkansas",
+            "abbr": "AR",
+            "county": "Hot Spring County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "2009",
+      "fte": "162.59",
+      "pupilTeacherRatio": "12.36",
+      "numberOfSchools": "4"
+   },
+   {
+      "name": "Mammoth Spring School District",
+      "location": {
+         "state": {
+            "name": "Arkansas",
+            "abbr": "AR",
+            "county": "Fulton County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "520",
+      "fte": "53.01",
+      "pupilTeacherRatio": "9.81",
+      "numberOfSchools": "2"
+   },
+   {
+      "name": "Manila School District",
+      "location": {
+         "state": {
+            "name": "Arkansas",
+            "abbr": "AR",
+            "county": "Mississippi County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "1111",
+      "fte": "95.83",
+      "pupilTeacherRatio": "11.59",
+      "numberOfSchools": "3"
+   },
+   {
+      "name": "Mansfield School District",
+      "location": {
+         "state": {
+            "name": "Arkansas",
+            "abbr": "AR",
+            "county": "Scott County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Kindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "757",
+      "fte": "110.56",
+      "pupilTeacherRatio": "6.85",
+      "numberOfSchools": "3"
+   },
+   {
+      "name": "Marion School District",
+      "location": {
+         "state": {
+            "name": "Arkansas",
+            "abbr": "AR",
+            "county": "Crittenden County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "4021",
+      "fte": "326.82",
+      "pupilTeacherRatio": "12.3",
+      "numberOfSchools": "5"
+   },
+   {
+      "name": "Marked Tree School District",
+      "location": {
+         "state": {
+            "name": "Arkansas",
+            "abbr": "AR",
+            "county": "Poinsett County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "508",
+      "fte": "39.79",
+      "pupilTeacherRatio": "12.77",
+      "numberOfSchools": "2"
+   },
+   {
+      "name": "Marmaduke School District",
+      "location": {
+         "state": {
+            "name": "Arkansas",
+            "abbr": "AR",
+            "county": "Greene County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "787",
+      "fte": "76.36",
+      "pupilTeacherRatio": "10.31",
+      "numberOfSchools": "2"
+   },
+   {
+      "name": "Marvell School District",
+      "location": {
+         "state": {
+            "name": "Arkansas",
+            "abbr": "AR",
+            "county": "Phillips County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "364",
+      "fte": "36.05",
+      "pupilTeacherRatio": "10.1",
+      "numberOfSchools": "2"
+   },
+   {
+      "name": "Mayflower School District",
+      "location": {
+         "state": {
+            "name": "Arkansas",
+            "abbr": "AR",
+            "county": "Faulkner County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "1085",
+      "fte": "80.57",
+      "pupilTeacherRatio": "13.47",
+      "numberOfSchools": "3"
+   },
+   {
+      "name": "Maynard School District",
+      "location": {
+         "state": {
+            "name": "Arkansas",
+            "abbr": "AR",
+            "county": "Randolph County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "546",
+      "fte": "58.57",
+      "pupilTeacherRatio": "9.32",
+      "numberOfSchools": "2"
+   },
+   {
+      "name": "Mccrory School District",
+      "location": {
+         "state": {
+            "name": "Arkansas",
+            "abbr": "AR",
+            "county": "Woodruff County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "620",
+      "fte": "57.18",
+      "pupilTeacherRatio": "10.84",
+      "numberOfSchools": "2"
+   },
+   {
+      "name": "Mcgehee School District",
+      "location": {
+         "state": {
+            "name": "Arkansas",
+            "abbr": "AR",
+            "county": "Desha County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "1195",
+      "fte": "107.61",
+      "pupilTeacherRatio": "11.1",
+      "numberOfSchools": "2"
+   },
+   {
+      "name": "Melbourne School District",
+      "location": {
+         "state": {
+            "name": "Arkansas",
+            "abbr": "AR",
+            "county": "Izard County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "931",
+      "fte": "85.33",
+      "pupilTeacherRatio": "10.91",
+      "numberOfSchools": "2"
+   },
+   {
+      "name": "Mena School District",
+      "location": {
+         "state": {
+            "name": "Arkansas",
+            "abbr": "AR",
+            "county": "Polk County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "1763",
+      "fte": "147.28",
+      "pupilTeacherRatio": "11.97",
+      "numberOfSchools": "5"
+   },
+   {
+      "name": "Mid South Community College",
+      "location": {
+         "state": {
+            "name": "Arkansas",
+            "abbr": "AR",
+            "county": "Crittenden County"
+         }
+      },
+      "type": "8-Other education agencies",
+      "grades": {
+         "lowest": "9th Grade",
+         "highest": "12th Grade"
+      },
+      "students": "0",
+      "fte": "0",
+      "pupilTeacherRatio": "†",
+      "numberOfSchools": "1"
+   },
+   {
+      "name": "Midland School District",
+      "location": {
+         "state": {
+            "name": "Arkansas",
+            "abbr": "AR",
+            "county": "Independence County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "545",
+      "fte": "71.31",
+      "pupilTeacherRatio": "7.64",
+      "numberOfSchools": "2"
+   },
+   {
+      "name": "Mineral Springs School Dist.",
+      "location": {
+         "state": {
+            "name": "Arkansas",
+            "abbr": "AR",
+            "county": "Howard County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Kindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "411",
+      "fte": "51.67",
+      "pupilTeacherRatio": "7.95",
+      "numberOfSchools": "2"
+   },
+   {
+      "name": "Monticello School District",
+      "location": {
+         "state": {
+            "name": "Arkansas",
+            "abbr": "AR",
+            "county": "Drew County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "1844",
+      "fte": "139.36",
+      "pupilTeacherRatio": "13.23",
+      "numberOfSchools": "5"
+   },
+   {
+      "name": "Mount Ida School District",
+      "location": {
+         "state": {
+            "name": "Arkansas",
+            "abbr": "AR",
+            "county": "Montgomery County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Kindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "447",
+      "fte": "45",
+      "pupilTeacherRatio": "9.93",
+      "numberOfSchools": "2"
+   },
+   {
+      "name": "Mountain Home School District",
+      "location": {
+         "state": {
+            "name": "Arkansas",
+            "abbr": "AR",
+            "county": "Baxter County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "3992",
+      "fte": "269.23",
+      "pupilTeacherRatio": "14.83",
+      "numberOfSchools": "6"
+   },
+   {
+      "name": "Mountain Pine School District",
+      "location": {
+         "state": {
+            "name": "Arkansas",
+            "abbr": "AR",
+            "county": "Garland County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "604",
+      "fte": "65",
+      "pupilTeacherRatio": "9.29",
+      "numberOfSchools": "2"
+   },
+   {
+      "name": "Mountain View School District",
+      "location": {
+         "state": {
+            "name": "Arkansas",
+            "abbr": "AR",
+            "county": "Stone County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "1643",
+      "fte": "149.42",
+      "pupilTeacherRatio": "11",
+      "numberOfSchools": "7"
+   },
+   {
+      "name": "Mountainburg School District",
+      "location": {
+         "state": {
+            "name": "Arkansas",
+            "abbr": "AR",
+            "county": "Crawford County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "659",
+      "fte": "88.2",
+      "pupilTeacherRatio": "7.47",
+      "numberOfSchools": "3"
+   },
+   {
+      "name": "Mt. Vernon/enola School Dist.",
+      "location": {
+         "state": {
+            "name": "Arkansas",
+            "abbr": "AR",
+            "county": "Faulkner County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "545",
+      "fte": "39.51",
+      "pupilTeacherRatio": "13.79",
+      "numberOfSchools": "2"
+   },
+   {
+      "name": "Mulberry School District",
+      "location": {
+         "state": {
+            "name": "Arkansas",
+            "abbr": "AR",
+            "county": "Crawford County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "461",
+      "fte": "46.23",
+      "pupilTeacherRatio": "9.97",
+      "numberOfSchools": "3"
+   },
+   {
+      "name": "N. Little Rock School District",
+      "location": {
+         "state": {
+            "name": "Arkansas",
+            "abbr": "AR",
+            "county": "Pulaski County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "8681",
+      "fte": "583.27",
+      "pupilTeacherRatio": "14.88",
+      "numberOfSchools": "14"
+   },
+   {
+      "name": "Nashville School District",
+      "location": {
+         "state": {
+            "name": "Arkansas",
+            "abbr": "AR",
+            "county": "Howard County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Kindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "1924",
+      "fte": "150.57",
+      "pupilTeacherRatio": "12.78",
+      "numberOfSchools": "4"
+   },
+   {
+      "name": "National Park Technology Center",
+      "location": {
+         "state": {
+            "name": "Arkansas",
+            "abbr": "AR",
+            "county": "Garland County"
+         }
+      },
+      "type": "8-Other education agencies",
+      "grades": {
+         "lowest": "9th Grade",
+         "highest": "12th Grade"
+      },
+      "students": "0",
+      "fte": "0",
+      "pupilTeacherRatio": "†",
+      "numberOfSchools": "1"
+   },
+   {
+      "name": "Nemo Vista School District",
+      "location": {
+         "state": {
+            "name": "Arkansas",
+            "abbr": "AR",
+            "county": "Conway County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "515",
+      "fte": "73.93",
+      "pupilTeacherRatio": "6.97",
+      "numberOfSchools": "3"
+   },
+   {
+      "name": "Nettleton School District",
+      "location": {
+         "state": {
+            "name": "Arkansas",
+            "abbr": "AR",
+            "county": "Craighead County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "3717",
+      "fte": "259.33",
+      "pupilTeacherRatio": "14.33",
+      "numberOfSchools": "7"
+   },
+   {
+      "name": "Nevada School District",
+      "location": {
+         "state": {
+            "name": "Arkansas",
+            "abbr": "AR",
+            "county": "Nevada County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Kindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "394",
+      "fte": "40.29",
+      "pupilTeacherRatio": "9.78",
+      "numberOfSchools": "2"
+   },
+   {
+      "name": "Newport School District",
+      "location": {
+         "state": {
+            "name": "Arkansas",
+            "abbr": "AR",
+            "county": "Jackson County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "1245",
+      "fte": "103.19",
+      "pupilTeacherRatio": "12.07",
+      "numberOfSchools": "2"
+   },
+   {
+      "name": "Norfork School District",
+      "location": {
+         "state": {
+            "name": "Arkansas",
+            "abbr": "AR",
+            "county": "Baxter County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Kindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "423",
+      "fte": "46.44",
+      "pupilTeacherRatio": "9.11",
+      "numberOfSchools": "2"
+   },
+   {
+      "name": "North Arkansas College Secondary Center",
+      "location": {
+         "state": {
+            "name": "Arkansas",
+            "abbr": "AR",
+            "county": "Boone County"
+         }
+      },
+      "type": "8-Other education agencies",
+      "grades": {
+         "lowest": "9th Grade",
+         "highest": "12th Grade"
+      },
+      "students": "0",
+      "fte": "0",
+      "pupilTeacherRatio": "†",
+      "numberOfSchools": "1"
+   },
+   {
+      "name": "North Central Ark. Educ Coop",
+      "location": {
+         "state": {
+            "name": "Arkansas",
+            "abbr": "AR",
+            "county": "Izard County"
+         }
+      },
+      "type": "4-Regional Education Service Agency (RESA)",
+      "grades": {
+         "lowest": "†",
+         "highest": "†"
+      },
+      "students": "†",
+      "fte": "†",
+      "pupilTeacherRatio": "†",
+      "numberOfSchools": "0"
+   },
+   {
+      "name": "Northeast Ark. Educ. Coop",
+      "location": {
+         "state": {
+            "name": "Arkansas",
+            "abbr": "AR",
+            "county": "Lawrence County"
+         }
+      },
+      "type": "4-Regional Education Service Agency (RESA)",
+      "grades": {
+         "lowest": "†",
+         "highest": "†"
+      },
+      "students": "†",
+      "fte": "†",
+      "pupilTeacherRatio": "†",
+      "numberOfSchools": "0"
+   },
+   {
+      "name": "Northwest Ark. Education Coop",
+      "location": {
+         "state": {
+            "name": "Arkansas",
+            "abbr": "AR",
+            "county": "Washington County"
+         }
+      },
+      "type": "4-Regional Education Service Agency (RESA)",
+      "grades": {
+         "lowest": "†",
+         "highest": "†"
+      },
+      "students": "†",
+      "fte": "†",
+      "pupilTeacherRatio": "†",
+      "numberOfSchools": "0"
+   },
+   {
+      "name": "Northwest Arkansas Community College Regional Center",
+      "location": {
+         "state": {
+            "name": "Arkansas",
+            "abbr": "AR",
+            "county": "Washington County"
+         }
+      },
+      "type": "8-Other education agencies",
+      "grades": {
+         "lowest": "9th Grade",
+         "highest": "12th Grade"
+      },
+      "students": "0",
+      "fte": "0",
+      "pupilTeacherRatio": "†",
+      "numberOfSchools": "1"
+   },
+   {
+      "name": "Omaha School District",
+      "location": {
+         "state": {
+            "name": "Arkansas",
+            "abbr": "AR",
+            "county": "Boone County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "435",
+      "fte": "80.24",
+      "pupilTeacherRatio": "5.42",
+      "numberOfSchools": "2"
+   },
+   {
+      "name": "Osceola School District",
+      "location": {
+         "state": {
+            "name": "Arkansas",
+            "abbr": "AR",
+            "county": "Mississippi County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "1147",
+      "fte": "109.06",
+      "pupilTeacherRatio": "10.52",
+      "numberOfSchools": "4"
+   },
+   {
+      "name": "Ouachita River School District",
+      "location": {
+         "state": {
+            "name": "Arkansas",
+            "abbr": "AR",
+            "county": "Polk County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "763",
+      "fte": "76.18",
+      "pupilTeacherRatio": "10.02",
+      "numberOfSchools": "3"
+   },
+   {
+      "name": "Ouachita School District",
+      "location": {
+         "state": {
+            "name": "Arkansas",
+            "abbr": "AR",
+            "county": "Hot Spring County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "549",
+      "fte": "49.17",
+      "pupilTeacherRatio": "11.17",
+      "numberOfSchools": "2"
+   },
+   {
+      "name": "Ouachita Vocational Center",
+      "location": {
+         "state": {
+            "name": "Arkansas",
+            "abbr": "AR",
+            "county": "Hot Spring County"
+         }
+      },
+      "type": "8-Other education agencies",
+      "grades": {
+         "lowest": "9th Grade",
+         "highest": "12th Grade"
+      },
+      "students": "0",
+      "fte": "0",
+      "pupilTeacherRatio": "†",
+      "numberOfSchools": "1"
+   },
+   {
+      "name": "Ozark Mountain School District",
+      "location": {
+         "state": {
+            "name": "Arkansas",
+            "abbr": "AR",
+            "county": "Searcy County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Kindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "620",
+      "fte": "99.9",
+      "pupilTeacherRatio": "6.21",
+      "numberOfSchools": "3"
+   },
+   {
+      "name": "Ozark School District",
+      "location": {
+         "state": {
+            "name": "Arkansas",
+            "abbr": "AR",
+            "county": "Franklin County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "1767",
+      "fte": "136",
+      "pupilTeacherRatio": "12.99",
+      "numberOfSchools": "4"
+   },
+   {
+      "name": "Ozarks Unlitd. Resource Coop",
+      "location": {
+         "state": {
+            "name": "Arkansas",
+            "abbr": "AR",
+            "county": "Boone County"
+         }
+      },
+      "type": "4-Regional Education Service Agency (RESA)",
+      "grades": {
+         "lowest": "†",
+         "highest": "†"
+      },
+      "students": "†",
+      "fte": "†",
+      "pupilTeacherRatio": "†",
+      "numberOfSchools": "0"
+   },
+   {
+      "name": "Palestine-Wheatley Sch. Dist.",
+      "location": {
+         "state": {
+            "name": "Arkansas",
+            "abbr": "AR",
+            "county": "St. Francis County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "828",
+      "fte": "66.2",
+      "pupilTeacherRatio": "12.51",
+      "numberOfSchools": "2"
+   },
+   {
+      "name": "Pangburn School District",
+      "location": {
+         "state": {
+            "name": "Arkansas",
+            "abbr": "AR",
+            "county": "White County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Kindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "804",
+      "fte": "84.55",
+      "pupilTeacherRatio": "9.51",
+      "numberOfSchools": "2"
+   },
+   {
+      "name": "Paragould School District",
+      "location": {
+         "state": {
+            "name": "Arkansas",
+            "abbr": "AR",
+            "county": "Greene County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "3255",
+      "fte": "217.51",
+      "pupilTeacherRatio": "14.96",
+      "numberOfSchools": "7"
+   },
+   {
+      "name": "Paris School District",
+      "location": {
+         "state": {
+            "name": "Arkansas",
+            "abbr": "AR",
+            "county": "Logan County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "1072",
+      "fte": "100.69",
+      "pupilTeacherRatio": "10.65",
+      "numberOfSchools": "3"
+   },
+   {
+      "name": "Parkers Chapel School Dist.",
+      "location": {
+         "state": {
+            "name": "Arkansas",
+            "abbr": "AR",
+            "county": "Union County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "881",
+      "fte": "97.24",
+      "pupilTeacherRatio": "9.06",
+      "numberOfSchools": "2"
+   },
+   {
+      "name": "Pea Ridge School District",
+      "location": {
+         "state": {
+            "name": "Arkansas",
+            "abbr": "AR",
+            "county": "Benton County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "2271",
+      "fte": "146.84",
+      "pupilTeacherRatio": "15.47",
+      "numberOfSchools": "4"
+   },
+   {
+      "name": "Perryville School District",
+      "location": {
+         "state": {
+            "name": "Arkansas",
+            "abbr": "AR",
+            "county": "Perry County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Kindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "913",
+      "fte": "74.6",
+      "pupilTeacherRatio": "12.24",
+      "numberOfSchools": "2"
+   },
+   {
+      "name": "Phillips Community College Career & Technical Center",
+      "location": {
+         "state": {
+            "name": "Arkansas",
+            "abbr": "AR",
+            "county": "Arkansas County"
+         }
+      },
+      "type": "8-Other education agencies",
+      "grades": {
+         "lowest": "9th Grade",
+         "highest": "12th Grade"
+      },
+      "students": "0",
+      "fte": "0",
+      "pupilTeacherRatio": "†",
+      "numberOfSchools": "1"
+   },
+   {
+      "name": "Piggott School District",
+      "location": {
+         "state": {
+            "name": "Arkansas",
+            "abbr": "AR",
+            "county": "Clay County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "881",
+      "fte": "70.3",
+      "pupilTeacherRatio": "12.53",
+      "numberOfSchools": "2"
+   },
+   {
+      "name": "Pine Bluff Lighthouse Academy",
+      "location": {
+         "state": {
+            "name": "Arkansas",
+            "abbr": "AR",
+            "county": "Jefferson County"
+         }
+      },
+      "type": "7-Independent Charter District",
+      "grades": {
+         "lowest": "Kindergarten",
+         "highest": "8th Grade"
+      },
+      "students": "256",
+      "fte": "18.02",
+      "pupilTeacherRatio": "14.21",
+      "numberOfSchools": "2"
+   },
+   {
+      "name": "Pine Bluff School District",
+      "location": {
+         "state": {
+            "name": "Arkansas",
+            "abbr": "AR",
+            "county": "Jefferson County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "3059",
+      "fte": "219.47",
+      "pupilTeacherRatio": "13.94",
+      "numberOfSchools": "6"
+   },
+   {
+      "name": "Pocahontas School District",
+      "location": {
+         "state": {
+            "name": "Arkansas",
+            "abbr": "AR",
+            "county": "Randolph County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "2122",
+      "fte": "179.63",
+      "pupilTeacherRatio": "11.81",
+      "numberOfSchools": "4"
+   },
+   {
+      "name": "Pottsville School District",
+      "location": {
+         "state": {
+            "name": "Arkansas",
+            "abbr": "AR",
+            "county": "Pope County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "1762",
+      "fte": "164.09",
+      "pupilTeacherRatio": "10.74",
+      "numberOfSchools": "4"
+   },
+   {
+      "name": "Poyen School District",
+      "location": {
+         "state": {
+            "name": "Arkansas",
+            "abbr": "AR",
+            "county": "Grant County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "602",
+      "fte": "70.97",
+      "pupilTeacherRatio": "8.48",
+      "numberOfSchools": "2"
+   },
+   {
+      "name": "Prairie Grove School District",
+      "location": {
+         "state": {
+            "name": "Arkansas",
+            "abbr": "AR",
+            "county": "Washington County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "2058",
+      "fte": "146.04",
+      "pupilTeacherRatio": "14.09",
+      "numberOfSchools": "3"
+   },
+   {
+      "name": "Prescott School District",
+      "location": {
+         "state": {
+            "name": "Arkansas",
+            "abbr": "AR",
+            "county": "Nevada County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Kindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "916",
+      "fte": "81.55",
+      "pupilTeacherRatio": "11.23",
+      "numberOfSchools": "3"
+   },
+   {
+      "name": "Pulaski Co. Spec. School Dist.",
+      "location": {
+         "state": {
+            "name": "Arkansas",
+            "abbr": "AR",
+            "county": "Pulaski County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "12274",
+      "fte": "981.24",
+      "pupilTeacherRatio": "12.51",
+      "numberOfSchools": "24"
+   },
+   {
+      "name": "Quitman School District",
+      "location": {
+         "state": {
+            "name": "Arkansas",
+            "abbr": "AR",
+            "county": "Cleburne County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "746",
+      "fte": "57.71",
+      "pupilTeacherRatio": "12.93",
+      "numberOfSchools": "3"
+   },
+   {
+      "name": "Rector School District",
+      "location": {
+         "state": {
+            "name": "Arkansas",
+            "abbr": "AR",
+            "county": "Clay County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "630",
+      "fte": "43.2",
+      "pupilTeacherRatio": "14.58",
+      "numberOfSchools": "2"
+   },
+   {
+      "name": "Responsive Ed Solutions Northwest Ark Classical Academy",
+      "location": {
+         "state": {
+            "name": "Arkansas",
+            "abbr": "AR",
+            "county": "Benton County"
+         }
+      },
+      "type": "7-Independent Charter District",
+      "grades": {
+         "lowest": "Kindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "1064",
+      "fte": "70.56",
+      "pupilTeacherRatio": "15.08",
+      "numberOfSchools": "3"
+   },
+   {
+      "name": "Responsive Ed Solutions Premier High Sch of Northlittle Rock",
+      "location": {
+         "state": {
+            "name": "ARKANSAS",
+            "abbr": "AR",
+            "county": "Pulaski County"
+         }
+      },
+      "type": "7-Independent Charter District",
+      "grades": {
+         "lowest": "9th Grade",
+         "highest": "12th Grade"
+      },
+      "students": "70",
+      "fte": "4.03",
+      "pupilTeacherRatio": "17.37",
+      "numberOfSchools": "1"
+   },
+   {
+      "name": "Responsive Ed Solutions Premier High School of Little Rock",
+      "location": {
+         "state": {
+            "name": "Arkansas",
+            "abbr": "AR",
+            "county": "Pulaski County"
+         }
+      },
+      "type": "7-Independent Charter District",
+      "grades": {
+         "lowest": "9th Grade",
+         "highest": "12th Grade"
+      },
+      "students": "95",
+      "fte": "5.02",
+      "pupilTeacherRatio": "18.92",
+      "numberOfSchools": "1"
+   },
+   {
+      "name": "Rivercrest School District #57",
+      "location": {
+         "state": {
+            "name": "Arkansas",
+            "abbr": "AR",
+            "county": "Mississippi County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "1149",
+      "fte": "110.67",
+      "pupilTeacherRatio": "10.38",
+      "numberOfSchools": "2"
+   },
+   {
+      "name": "Riverside School District",
+      "location": {
+         "state": {
+            "name": "Arkansas",
+            "abbr": "AR",
+            "county": "Craighead County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "802",
+      "fte": "62.98",
+      "pupilTeacherRatio": "12.73",
+      "numberOfSchools": "3"
+   },
+   {
+      "name": "Riverview School District",
+      "location": {
+         "state": {
+            "name": "Arkansas",
+            "abbr": "AR",
+            "county": "White County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "1232",
+      "fte": "119.94",
+      "pupilTeacherRatio": "10.27",
+      "numberOfSchools": "4"
+   },
+   {
+      "name": "Rogers School District",
+      "location": {
+         "state": {
+            "name": "Arkansas",
+            "abbr": "AR",
+            "county": "Benton County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "16053",
+      "fte": "1167.26",
+      "pupilTeacherRatio": "13.75",
+      "numberOfSchools": "23"
+   },
+   {
+      "name": "Rose Bud School District",
+      "location": {
+         "state": {
+            "name": "Arkansas",
+            "abbr": "AR",
+            "county": "White County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "766",
+      "fte": "79.98",
+      "pupilTeacherRatio": "9.58",
+      "numberOfSchools": "2"
+   },
+   {
+      "name": "Russellville School District",
+      "location": {
+         "state": {
+            "name": "Arkansas",
+            "abbr": "AR",
+            "county": "Pope County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "5439",
+      "fte": "441.72",
+      "pupilTeacherRatio": "12.31",
+      "numberOfSchools": "10"
+   },
+   {
+      "name": "Salem School District",
+      "location": {
+         "state": {
+            "name": "Arkansas",
+            "abbr": "AR",
+            "county": "Fulton County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Kindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "841",
+      "fte": "74.53",
+      "pupilTeacherRatio": "11.28",
+      "numberOfSchools": "2"
+   },
+   {
+      "name": "Saline County Vocational Center",
+      "location": {
+         "state": {
+            "name": "Arkansas",
+            "abbr": "AR",
+            "county": "Saline County"
+         }
+      },
+      "type": "8-Other education agencies",
+      "grades": {
+         "lowest": "9th Grade",
+         "highest": "12th Grade"
+      },
+      "students": "0",
+      "fte": "0",
+      "pupilTeacherRatio": "†",
+      "numberOfSchools": "1"
+   },
+   {
+      "name": "Sau-Tech Career Center",
+      "location": {
+         "state": {
+            "name": "Arkansas",
+            "abbr": "AR",
+            "county": "Calhoun County"
+         }
+      },
+      "type": "8-Other education agencies",
+      "grades": {
+         "lowest": "9th Grade",
+         "highest": "12th Grade"
+      },
+      "students": "0",
+      "fte": "0",
+      "pupilTeacherRatio": "†",
+      "numberOfSchools": "1"
+   },
+   {
+      "name": "Scholarmade Achievement Place",
+      "location": {
+         "state": {
+            "name": "ARKANSAS",
+            "abbr": "AR",
+            "county": "Pulaski County"
+         }
+      },
+      "type": "7-Independent Charter District",
+      "grades": {
+         "lowest": "Kindergarten",
+         "highest": "6th Grade"
+      },
+      "students": "333",
+      "fte": "26.6",
+      "pupilTeacherRatio": "12.52",
+      "numberOfSchools": "2"
+   },
+   {
+      "name": "Scranton School District",
+      "location": {
+         "state": {
+            "name": "Arkansas",
+            "abbr": "AR",
+            "county": "Logan County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Kindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "450",
+      "fte": "48.43",
+      "pupilTeacherRatio": "9.29",
+      "numberOfSchools": "2"
+   },
+   {
+      "name": "Searcy County School District",
+      "location": {
+         "state": {
+            "name": "Arkansas",
+            "abbr": "AR",
+            "county": "Searcy County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "843",
+      "fte": "83.91",
+      "pupilTeacherRatio": "10.05",
+      "numberOfSchools": "4"
+   },
+   {
+      "name": "Searcy School District",
+      "location": {
+         "state": {
+            "name": "Arkansas",
+            "abbr": "AR",
+            "county": "White County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Kindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "4017",
+      "fte": "290.81",
+      "pupilTeacherRatio": "13.81",
+      "numberOfSchools": "6"
+   },
+   {
+      "name": "Sheridan School District",
+      "location": {
+         "state": {
+            "name": "Arkansas",
+            "abbr": "AR",
+            "county": "Grant County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "4229",
+      "fte": "255.46",
+      "pupilTeacherRatio": "16.55",
+      "numberOfSchools": "7"
+   },
+   {
+      "name": "Shirley School District",
+      "location": {
+         "state": {
+            "name": "Arkansas",
+            "abbr": "AR",
+            "county": "Van Buren County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Kindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "350",
+      "fte": "33.38",
+      "pupilTeacherRatio": "10.49",
+      "numberOfSchools": "2"
+   },
+   {
+      "name": "Siloam Springs School District",
+      "location": {
+         "state": {
+            "name": "Arkansas",
+            "abbr": "AR",
+            "county": "Benton County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "4511",
+      "fte": "298.63",
+      "pupilTeacherRatio": "15.11",
+      "numberOfSchools": "6"
+   },
+   {
+      "name": "Sloan-Hendrix School Dist.",
+      "location": {
+         "state": {
+            "name": "Arkansas",
+            "abbr": "AR",
+            "county": "Lawrence County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "737",
+      "fte": "58.08",
+      "pupilTeacherRatio": "12.69",
+      "numberOfSchools": "2"
+   },
+   {
+      "name": "Smackover School District",
+      "location": {
+         "state": {
+            "name": "Arkansas",
+            "abbr": "AR",
+            "county": "Union County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "1143",
+      "fte": "87.96",
+      "pupilTeacherRatio": "12.99",
+      "numberOfSchools": "3"
+   },
+   {
+      "name": "So. Conway Co. School District",
+      "location": {
+         "state": {
+            "name": "Arkansas",
+            "abbr": "AR",
+            "county": "Conway County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "2362",
+      "fte": "197.53",
+      "pupilTeacherRatio": "11.96",
+      "numberOfSchools": "6"
+   },
+   {
+      "name": "South Ark Career Center",
+      "location": {
+         "state": {
+            "name": "Arkansas",
+            "abbr": "AR",
+            "county": "Union County"
+         }
+      },
+      "type": "8-Other education agencies",
+      "grades": {
+         "lowest": "9th Grade",
+         "highest": "12th Grade"
+      },
+      "students": "0",
+      "fte": "0",
+      "pupilTeacherRatio": "†",
+      "numberOfSchools": "1"
+   },
+   {
+      "name": "South Central Service Coop",
+      "location": {
+         "state": {
+            "name": "Arkansas",
+            "abbr": "AR",
+            "county": "Ouachita County"
+         }
+      },
+      "type": "4-Regional Education Service Agency (RESA)",
+      "grades": {
+         "lowest": "†",
+         "highest": "†"
+      },
+      "students": "†",
+      "fte": "†",
+      "pupilTeacherRatio": "†",
+      "numberOfSchools": "0"
+   },
+   {
+      "name": "South Pike County School District",
+      "location": {
+         "state": {
+            "name": "Arkansas",
+            "abbr": "AR",
+            "county": "Pike County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "711",
+      "fte": "80.93",
+      "pupilTeacherRatio": "8.79",
+      "numberOfSchools": "3"
+   },
+   {
+      "name": "South Side School District",
+      "location": {
+         "state": {
+            "name": "Arkansas",
+            "abbr": "AR",
+            "county": "Van Buren County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "536",
+      "fte": "59.07",
+      "pupilTeacherRatio": "9.07",
+      "numberOfSchools": "2"
+   },
+   {
+      "name": "Southeast Ark. Educ. Coop",
+      "location": {
+         "state": {
+            "name": "Arkansas",
+            "abbr": "AR",
+            "county": "Drew County"
+         }
+      },
+      "type": "4-Regional Education Service Agency (RESA)",
+      "grades": {
+         "lowest": "†",
+         "highest": "†"
+      },
+      "students": "†",
+      "fte": "†",
+      "pupilTeacherRatio": "†",
+      "numberOfSchools": "0"
+   },
+   {
+      "name": "Southeast Arkansas Preparatory High School",
+      "location": {
+         "state": {
+            "name": "ARKANSAS",
+            "abbr": "AR",
+            "county": "Jefferson County"
+         }
+      },
+      "type": "7-Independent Charter District",
+      "grades": {
+         "lowest": "9th Grade",
+         "highest": "12th Grade"
+      },
+      "students": "107",
+      "fte": "11.58",
+      "pupilTeacherRatio": "9.24",
+      "numberOfSchools": "1"
+   },
+   {
+      "name": "Southside School District",
+      "location": {
+         "state": {
+            "name": "Arkansas",
+            "abbr": "AR",
+            "county": "Independence County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "2242",
+      "fte": "161.58",
+      "pupilTeacherRatio": "13.88",
+      "numberOfSchools": "4"
+   },
+   {
+      "name": "Southwest Ark. Coop",
+      "location": {
+         "state": {
+            "name": "Arkansas",
+            "abbr": "AR",
+            "county": "Hempstead County"
+         }
+      },
+      "type": "4-Regional Education Service Agency (RESA)",
+      "grades": {
+         "lowest": "†",
+         "highest": "†"
+      },
+      "students": "†",
+      "fte": "†",
+      "pupilTeacherRatio": "†",
+      "numberOfSchools": "0"
+   },
+   {
+      "name": "Spring Hill School District",
+      "location": {
+         "state": {
+            "name": "Arkansas",
+            "abbr": "AR",
+            "county": "Hempstead County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Kindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "589",
+      "fte": "51.22",
+      "pupilTeacherRatio": "11.5",
+      "numberOfSchools": "2"
+   },
+   {
+      "name": "Springdale School District",
+      "location": {
+         "state": {
+            "name": "Arkansas",
+            "abbr": "AR",
+            "county": "Washington County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "23470",
+      "fte": "1602.05",
+      "pupilTeacherRatio": "14.65",
+      "numberOfSchools": "29"
+   },
+   {
+      "name": "Star City School District",
+      "location": {
+         "state": {
+            "name": "Arkansas",
+            "abbr": "AR",
+            "county": "Lincoln County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "1509",
+      "fte": "113.06",
+      "pupilTeacherRatio": "13.35",
+      "numberOfSchools": "3"
+   },
+   {
+      "name": "Strong-Huttig School District",
+      "location": {
+         "state": {
+            "name": "Arkansas",
+            "abbr": "AR",
+            "county": "Union County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "304",
+      "fte": "31.99",
+      "pupilTeacherRatio": "9.5",
+      "numberOfSchools": "1"
+   },
+   {
+      "name": "Stuttgart School District",
+      "location": {
+         "state": {
+            "name": "Arkansas",
+            "abbr": "AR",
+            "county": "Arkansas County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "1600",
+      "fte": "123.78",
+      "pupilTeacherRatio": "12.93",
+      "numberOfSchools": "4"
+   },
+   {
+      "name": "Texarkana School District",
+      "location": {
+         "state": {
+            "name": "Arkansas",
+            "abbr": "AR",
+            "county": "Miller County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "4070",
+      "fte": "327.31",
+      "pupilTeacherRatio": "12.43",
+      "numberOfSchools": "9"
+   },
+   {
+      "name": "The Excel Center",
+      "location": {
+         "state": {
+            "name": "ARKANSAS",
+            "abbr": "AR",
+            "county": "Pulaski County"
+         }
+      },
+      "type": "7-Independent Charter District",
+      "grades": {
+         "lowest": "Ungraded",
+         "highest": "Ungraded"
+      },
+      "students": "93",
+      "fte": "15.11",
+      "pupilTeacherRatio": "6.15",
+      "numberOfSchools": "1"
+   },
+   {
+      "name": "Trumann School District",
+      "location": {
+         "state": {
+            "name": "Arkansas",
+            "abbr": "AR",
+            "county": "Poinsett County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "1543",
+      "fte": "107.64",
+      "pupilTeacherRatio": "14.33",
+      "numberOfSchools": "3"
+   },
+   {
+      "name": "Two Rivers School District",
+      "location": {
+         "state": {
+            "name": "Arkansas",
+            "abbr": "AR",
+            "county": "Yell County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "872",
+      "fte": "79.36",
+      "pupilTeacherRatio": "10.99",
+      "numberOfSchools": "2"
+   },
+   {
+      "name": "Valley Springs School District",
+      "location": {
+         "state": {
+            "name": "Arkansas",
+            "abbr": "AR",
+            "county": "Boone County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "885",
+      "fte": "80.29",
+      "pupilTeacherRatio": "11.02",
+      "numberOfSchools": "3"
+   },
+   {
+      "name": "Valley View School District",
+      "location": {
+         "state": {
+            "name": "Arkansas",
+            "abbr": "AR",
+            "county": "Craighead County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "2965",
+      "fte": "190.02",
+      "pupilTeacherRatio": "15.6",
+      "numberOfSchools": "4"
+   },
+   {
+      "name": "Van Buren School District",
+      "location": {
+         "state": {
+            "name": "Arkansas",
+            "abbr": "AR",
+            "county": "Crawford County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "5737",
+      "fte": "460.68",
+      "pupilTeacherRatio": "12.45",
+      "numberOfSchools": "11"
+   },
+   {
+      "name": "Vilonia School District",
+      "location": {
+         "state": {
+            "name": "Arkansas",
+            "abbr": "AR",
+            "county": "Faulkner County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "3160",
+      "fte": "205.86",
+      "pupilTeacherRatio": "15.35",
+      "numberOfSchools": "5"
+   },
+   {
+      "name": "Viola School District",
+      "location": {
+         "state": {
+            "name": "Arkansas",
+            "abbr": "AR",
+            "county": "Fulton County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Kindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "357",
+      "fte": "71.19",
+      "pupilTeacherRatio": "5.01",
+      "numberOfSchools": "2"
+   },
+   {
+      "name": "Waldron School District",
+      "location": {
+         "state": {
+            "name": "Arkansas",
+            "abbr": "AR",
+            "county": "Scott County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "1573",
+      "fte": "126.47",
+      "pupilTeacherRatio": "12.44",
+      "numberOfSchools": "3"
+   },
+   {
+      "name": "Warren School District",
+      "location": {
+         "state": {
+            "name": "Arkansas",
+            "abbr": "AR",
+            "county": "Bradley County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Kindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "1564",
+      "fte": "117.56",
+      "pupilTeacherRatio": "13.3",
+      "numberOfSchools": "5"
+   },
+   {
+      "name": "Watson Chapel School District",
+      "location": {
+         "state": {
+            "name": "Arkansas",
+            "abbr": "AR",
+            "county": "Jefferson County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Kindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "2233",
+      "fte": "159.69",
+      "pupilTeacherRatio": "13.98",
+      "numberOfSchools": "5"
+   },
+   {
+      "name": "West Fork School District",
+      "location": {
+         "state": {
+            "name": "Arkansas",
+            "abbr": "AR",
+            "county": "Washington County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "1044",
+      "fte": "101.37",
+      "pupilTeacherRatio": "10.3",
+      "numberOfSchools": "3"
+   },
+   {
+      "name": "West Memphis School District",
+      "location": {
+         "state": {
+            "name": "Arkansas",
+            "abbr": "AR",
+            "county": "Crittenden County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "5304",
+      "fte": "448.89",
+      "pupilTeacherRatio": "11.82",
+      "numberOfSchools": "10"
+   },
+   {
+      "name": "West Side School District",
+      "location": {
+         "state": {
+            "name": "Arkansas",
+            "abbr": "AR",
+            "county": "Cleburne County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "485",
+      "fte": "44.7",
+      "pupilTeacherRatio": "10.85",
+      "numberOfSchools": "2"
+   },
+   {
+      "name": "Westark Technical Center",
+      "location": {
+         "state": {
+            "name": "Arkansas",
+            "abbr": "AR",
+            "county": "Sebastian County"
+         }
+      },
+      "type": "8-Other education agencies",
+      "grades": {
+         "lowest": "9th Grade",
+         "highest": "12th Grade"
+      },
+      "students": "0",
+      "fte": "0",
+      "pupilTeacherRatio": "†",
+      "numberOfSchools": "1"
+   },
+   {
+      "name": "Western Arkansas Coop",
+      "location": {
+         "state": {
+            "name": "Arkansas",
+            "abbr": "AR",
+            "county": "Franklin County"
+         }
+      },
+      "type": "4-Regional Education Service Agency (RESA)",
+      "grades": {
+         "lowest": "†",
+         "highest": "†"
+      },
+      "students": "†",
+      "fte": "†",
+      "pupilTeacherRatio": "†",
+      "numberOfSchools": "0"
+   },
+   {
+      "name": "Western Yell Co. School Dist.",
+      "location": {
+         "state": {
+            "name": "Arkansas",
+            "abbr": "AR",
+            "county": "Yell County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "370",
+      "fte": "46.34",
+      "pupilTeacherRatio": "7.98",
+      "numberOfSchools": "2"
+   },
+   {
+      "name": "Westside Cons. School District",
+      "location": {
+         "state": {
+            "name": "Arkansas",
+            "abbr": "AR",
+            "county": "Craighead County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "1814",
+      "fte": "125.87",
+      "pupilTeacherRatio": "14.41",
+      "numberOfSchools": "3"
+   },
+   {
+      "name": "Westside School District",
+      "location": {
+         "state": {
+            "name": "Arkansas",
+            "abbr": "AR",
+            "county": "Johnson County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "637",
+      "fte": "57.14",
+      "pupilTeacherRatio": "11.15",
+      "numberOfSchools": "2"
+   },
+   {
+      "name": "White Co. Central School Dist.",
+      "location": {
+         "state": {
+            "name": "Arkansas",
+            "abbr": "AR",
+            "county": "White County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "848",
+      "fte": "64.68",
+      "pupilTeacherRatio": "13.11",
+      "numberOfSchools": "2"
+   },
+   {
+      "name": "White Hall School District",
+      "location": {
+         "state": {
+            "name": "Arkansas",
+            "abbr": "AR",
+            "county": "Jefferson County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Kindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "2970",
+      "fte": "190.76",
+      "pupilTeacherRatio": "15.57",
+      "numberOfSchools": "6"
+   },
+   {
+      "name": "Wilbur D. Mills Educ. Coop",
+      "location": {
+         "state": {
+            "name": "Arkansas",
+            "abbr": "AR",
+            "county": "White County"
+         }
+      },
+      "type": "4-Regional Education Service Agency (RESA)",
+      "grades": {
+         "lowest": "†",
+         "highest": "†"
+      },
+      "students": "†",
+      "fte": "†",
+      "pupilTeacherRatio": "†",
+      "numberOfSchools": "0"
+   },
+   {
+      "name": "Wonderview School District",
+      "location": {
+         "state": {
+            "name": "Arkansas",
+            "abbr": "AR",
+            "county": "Conway County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "473",
+      "fte": "44.3",
+      "pupilTeacherRatio": "10.68",
+      "numberOfSchools": "2"
+   },
+   {
+      "name": "Woodlawn School District",
+      "location": {
+         "state": {
+            "name": "Arkansas",
+            "abbr": "AR",
+            "county": "Cleveland County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Kindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "555",
+      "fte": "43.24",
+      "pupilTeacherRatio": "12.84",
+      "numberOfSchools": "2"
+   },
+   {
+      "name": "Wynne School District",
+      "location": {
+         "state": {
+            "name": "Arkansas",
+            "abbr": "AR",
+            "county": "Cross County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Kindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "2635",
+      "fte": "219.63",
+      "pupilTeacherRatio": "12",
+      "numberOfSchools": "4"
+   },
+   {
+      "name": "Yellville-Summit School Dist.",
+      "location": {
+         "state": {
+            "name": "Arkansas",
+            "abbr": "AR",
+            "county": "Marion County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "907",
+      "fte": "73.28",
+      "pupilTeacherRatio": "12.38",
+      "numberOfSchools": "2"
+   }
+]

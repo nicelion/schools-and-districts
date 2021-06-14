@@ -1,0 +1,6386 @@
+[
+   {
+      "name": "Adair-Casey Comm School District",
+      "location": {
+         "state": {
+            "name": "Iowa",
+            "abbr": "IA",
+            "county": "Guthrie County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "259",
+      "fte": "24.54",
+      "pupilTeacherRatio": "10.55",
+      "numberOfSchools": "2"
+   },
+   {
+      "name": "Adel Desoto Minburn Comm School District",
+      "location": {
+         "state": {
+            "name": "Iowa",
+            "abbr": "IA",
+            "county": "Dallas County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "2046",
+      "fte": "128",
+      "pupilTeacherRatio": "15.98",
+      "numberOfSchools": "4"
+   },
+   {
+      "name": "Aea 11 Heartland Aea",
+      "location": {
+         "state": {
+            "name": "Iowa",
+            "abbr": "IA",
+            "county": "Polk County"
+         }
+      },
+      "type": "4-Regional Education Service Agency (RESA)",
+      "grades": {
+         "lowest": "†",
+         "highest": "†"
+      },
+      "students": "†",
+      "fte": "17.07",
+      "pupilTeacherRatio": "–",
+      "numberOfSchools": "0"
+   },
+   {
+      "name": "Aea 13 Green Hills Aea",
+      "location": {
+         "state": {
+            "name": "Iowa",
+            "abbr": "IA",
+            "county": "Pottawattamie County"
+         }
+      },
+      "type": "4-Regional Education Service Agency (RESA)",
+      "grades": {
+         "lowest": "†",
+         "highest": "†"
+      },
+      "students": "†",
+      "fte": "20.81",
+      "pupilTeacherRatio": "–",
+      "numberOfSchools": "0"
+   },
+   {
+      "name": "Agwsr Comm School District",
+      "location": {
+         "state": {
+            "name": "Iowa",
+            "abbr": "IA",
+            "county": "Hardin County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "670",
+      "fte": "48.27",
+      "pupilTeacherRatio": "13.88",
+      "numberOfSchools": "5"
+   },
+   {
+      "name": "Ahstw Comm School District",
+      "location": {
+         "state": {
+            "name": "Iowa",
+            "abbr": "IA",
+            "county": "Pottawattamie County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "736",
+      "fte": "57.17",
+      "pupilTeacherRatio": "12.87",
+      "numberOfSchools": "3"
+   },
+   {
+      "name": "Akron Westfield Comm School District",
+      "location": {
+         "state": {
+            "name": "Iowa",
+            "abbr": "IA",
+            "county": "Plymouth County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "642",
+      "fte": "48.05",
+      "pupilTeacherRatio": "13.36",
+      "numberOfSchools": "3"
+   },
+   {
+      "name": "Albert City-Truesdale Comm School District",
+      "location": {
+         "state": {
+            "name": "Iowa",
+            "abbr": "IA",
+            "county": "Buena Vista County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "114",
+      "fte": "12.18",
+      "pupilTeacherRatio": "9.36",
+      "numberOfSchools": "1"
+   },
+   {
+      "name": "Albia Comm School District",
+      "location": {
+         "state": {
+            "name": "Iowa",
+            "abbr": "IA",
+            "county": "Monroe County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "1198",
+      "fte": "76.06",
+      "pupilTeacherRatio": "15.75",
+      "numberOfSchools": "5"
+   },
+   {
+      "name": "Alburnett Comm School District",
+      "location": {
+         "state": {
+            "name": "Iowa",
+            "abbr": "IA",
+            "county": "Linn County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "695",
+      "fte": "52.53",
+      "pupilTeacherRatio": "13.23",
+      "numberOfSchools": "3"
+   },
+   {
+      "name": "Alden Comm School District",
+      "location": {
+         "state": {
+            "name": "Iowa",
+            "abbr": "IA",
+            "county": "Hardin County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "173",
+      "fte": "18.18",
+      "pupilTeacherRatio": "9.52",
+      "numberOfSchools": "1"
+   },
+   {
+      "name": "Algona Comm School District",
+      "location": {
+         "state": {
+            "name": "Iowa",
+            "abbr": "IA",
+            "county": "Kossuth County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "1530",
+      "fte": "92.25",
+      "pupilTeacherRatio": "16.59",
+      "numberOfSchools": "5"
+   },
+   {
+      "name": "Allamakee Comm School District",
+      "location": {
+         "state": {
+            "name": "Iowa",
+            "abbr": "IA",
+            "county": "Allamakee County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "1152",
+      "fte": "78",
+      "pupilTeacherRatio": "14.77",
+      "numberOfSchools": "4"
+   },
+   {
+      "name": "Alta-Aurelia Comm School District",
+      "location": {
+         "state": {
+            "name": "Iowa",
+            "abbr": "IA",
+            "county": "Buena Vista County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "818",
+      "fte": "62.6",
+      "pupilTeacherRatio": "13.07",
+      "numberOfSchools": "4"
+   },
+   {
+      "name": "Ames Comm School District",
+      "location": {
+         "state": {
+            "name": "Iowa",
+            "abbr": "IA",
+            "county": "Story County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "4972",
+      "fte": "335.73",
+      "pupilTeacherRatio": "14.81",
+      "numberOfSchools": "8"
+   },
+   {
+      "name": "Anamosa Comm School District",
+      "location": {
+         "state": {
+            "name": "Iowa",
+            "abbr": "IA",
+            "county": "Jones County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "1264",
+      "fte": "90.37",
+      "pupilTeacherRatio": "13.99",
+      "numberOfSchools": "3"
+   },
+   {
+      "name": "Andrew Comm School District",
+      "location": {
+         "state": {
+            "name": "Iowa",
+            "abbr": "IA",
+            "county": "Jackson County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "166",
+      "fte": "17.69",
+      "pupilTeacherRatio": "9.38",
+      "numberOfSchools": "2"
+   },
+   {
+      "name": "Ankeny Comm School District",
+      "location": {
+         "state": {
+            "name": "Iowa",
+            "abbr": "IA",
+            "county": "Polk County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "12394",
+      "fte": "735.64",
+      "pupilTeacherRatio": "16.85",
+      "numberOfSchools": "16"
+   },
+   {
+      "name": "Aplington-Parkersburg Comm School District",
+      "location": {
+         "state": {
+            "name": "Iowa",
+            "abbr": "IA",
+            "county": "Butler County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "855",
+      "fte": "62.69",
+      "pupilTeacherRatio": "13.64",
+      "numberOfSchools": "4"
+   },
+   {
+      "name": "Ar-We-Va Comm School District",
+      "location": {
+         "state": {
+            "name": "Iowa",
+            "abbr": "IA",
+            "county": "Crawford County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "240",
+      "fte": "17.67",
+      "pupilTeacherRatio": "13.58",
+      "numberOfSchools": "2"
+   },
+   {
+      "name": "Atlantic Comm School District",
+      "location": {
+         "state": {
+            "name": "Iowa",
+            "abbr": "IA",
+            "county": "Cass County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "1485",
+      "fte": "106.03",
+      "pupilTeacherRatio": "14.01",
+      "numberOfSchools": "4"
+   },
+   {
+      "name": "Audubon Comm School District",
+      "location": {
+         "state": {
+            "name": "Iowa",
+            "abbr": "IA",
+            "county": "Audubon County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "552",
+      "fte": "44.1",
+      "pupilTeacherRatio": "12.52",
+      "numberOfSchools": "2"
+   },
+   {
+      "name": "Ballard Comm School District",
+      "location": {
+         "state": {
+            "name": "Iowa",
+            "abbr": "IA",
+            "county": "Story County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "1846",
+      "fte": "117",
+      "pupilTeacherRatio": "15.78",
+      "numberOfSchools": "4"
+   },
+   {
+      "name": "Baxter Comm School District",
+      "location": {
+         "state": {
+            "name": "Iowa",
+            "abbr": "IA",
+            "county": "Jasper County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "451",
+      "fte": "34.35",
+      "pupilTeacherRatio": "13.13",
+      "numberOfSchools": "2"
+   },
+   {
+      "name": "Bcluw Comm School District",
+      "location": {
+         "state": {
+            "name": "Iowa",
+            "abbr": "IA",
+            "county": "Grundy County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "557",
+      "fte": "43.59",
+      "pupilTeacherRatio": "12.78",
+      "numberOfSchools": "3"
+   },
+   {
+      "name": "Bedford Comm School District",
+      "location": {
+         "state": {
+            "name": "Iowa",
+            "abbr": "IA",
+            "county": "Taylor County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "518",
+      "fte": "42.69",
+      "pupilTeacherRatio": "12.13",
+      "numberOfSchools": "2"
+   },
+   {
+      "name": "Belle Plaine Comm School District",
+      "location": {
+         "state": {
+            "name": "Iowa",
+            "abbr": "IA",
+            "county": "Benton County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "518",
+      "fte": "40.95",
+      "pupilTeacherRatio": "12.65",
+      "numberOfSchools": "2"
+   },
+   {
+      "name": "Bellevue Comm School District",
+      "location": {
+         "state": {
+            "name": "Iowa",
+            "abbr": "IA",
+            "county": "Jackson County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "779",
+      "fte": "47.43",
+      "pupilTeacherRatio": "16.42",
+      "numberOfSchools": "2"
+   },
+   {
+      "name": "Belmond-Klemme Comm School District",
+      "location": {
+         "state": {
+            "name": "Iowa",
+            "abbr": "IA",
+            "county": "Wright County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "739",
+      "fte": "55.44",
+      "pupilTeacherRatio": "13.33",
+      "numberOfSchools": "3"
+   },
+   {
+      "name": "Bennett Comm School District",
+      "location": {
+         "state": {
+            "name": "Iowa",
+            "abbr": "IA",
+            "county": "Cedar County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "82",
+      "fte": "9.89",
+      "pupilTeacherRatio": "8.29",
+      "numberOfSchools": "1"
+   },
+   {
+      "name": "Benton Comm School District",
+      "location": {
+         "state": {
+            "name": "Iowa",
+            "abbr": "IA",
+            "county": "Benton County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "1637",
+      "fte": "102.36",
+      "pupilTeacherRatio": "15.99",
+      "numberOfSchools": "5"
+   },
+   {
+      "name": "Bettendorf Comm School District",
+      "location": {
+         "state": {
+            "name": "Iowa",
+            "abbr": "IA",
+            "county": "Scott County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "4869",
+      "fte": "313.48",
+      "pupilTeacherRatio": "15.53",
+      "numberOfSchools": "7"
+   },
+   {
+      "name": "Bondurant-Farrar Comm School District",
+      "location": {
+         "state": {
+            "name": "Iowa",
+            "abbr": "IA",
+            "county": "Polk County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "2484",
+      "fte": "148.59",
+      "pupilTeacherRatio": "16.72",
+      "numberOfSchools": "4"
+   },
+   {
+      "name": "Boone Comm School District",
+      "location": {
+         "state": {
+            "name": "Iowa",
+            "abbr": "IA",
+            "county": "Boone County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "2031",
+      "fte": "141.44",
+      "pupilTeacherRatio": "14.36",
+      "numberOfSchools": "5"
+   },
+   {
+      "name": "Boyden-Hull Comm School District",
+      "location": {
+         "state": {
+            "name": "Iowa",
+            "abbr": "IA",
+            "county": "Sioux County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "658",
+      "fte": "45.9",
+      "pupilTeacherRatio": "14.34",
+      "numberOfSchools": "2"
+   },
+   {
+      "name": "Boyer Valley Comm School District",
+      "location": {
+         "state": {
+            "name": "Iowa",
+            "abbr": "IA",
+            "county": "Harrison County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "433",
+      "fte": "35.82",
+      "pupilTeacherRatio": "12.09",
+      "numberOfSchools": "2"
+   },
+   {
+      "name": "Brooklyn-Guernsey-Malcom Comm School District",
+      "location": {
+         "state": {
+            "name": "Iowa",
+            "abbr": "IA",
+            "county": "Poweshiek County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "580",
+      "fte": "43.36",
+      "pupilTeacherRatio": "13.38",
+      "numberOfSchools": "2"
+   },
+   {
+      "name": "Burlington Comm School District",
+      "location": {
+         "state": {
+            "name": "Iowa",
+            "abbr": "IA",
+            "county": "Des Moines County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "3581",
+      "fte": "274.87",
+      "pupilTeacherRatio": "13.03",
+      "numberOfSchools": "7"
+   },
+   {
+      "name": "Cal Comm School District",
+      "location": {
+         "state": {
+            "name": "Iowa",
+            "abbr": "IA",
+            "county": "Franklin County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "139",
+      "fte": "14.89",
+      "pupilTeacherRatio": "9.34",
+      "numberOfSchools": "1"
+   },
+   {
+      "name": "Calamus-Wheatland Comm School District",
+      "location": {
+         "state": {
+            "name": "Iowa",
+            "abbr": "IA",
+            "county": "Clinton County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "457",
+      "fte": "40.23",
+      "pupilTeacherRatio": "11.36",
+      "numberOfSchools": "2"
+   },
+   {
+      "name": "Cam Comm School District",
+      "location": {
+         "state": {
+            "name": "Iowa",
+            "abbr": "IA",
+            "county": "Cass County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "1040",
+      "fte": "45.28",
+      "pupilTeacherRatio": "22.97",
+      "numberOfSchools": "7"
+   },
+   {
+      "name": "Camanche Comm School District",
+      "location": {
+         "state": {
+            "name": "Iowa",
+            "abbr": "IA",
+            "county": "Clinton County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "979",
+      "fte": "71.73",
+      "pupilTeacherRatio": "13.65",
+      "numberOfSchools": "3"
+   },
+   {
+      "name": "Cardinal Comm School District",
+      "location": {
+         "state": {
+            "name": "Iowa",
+            "abbr": "IA",
+            "county": "Wapello County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "1051",
+      "fte": "71.57",
+      "pupilTeacherRatio": "14.68",
+      "numberOfSchools": "3"
+   },
+   {
+      "name": "Carlisle Comm School District",
+      "location": {
+         "state": {
+            "name": "Iowa",
+            "abbr": "IA",
+            "county": "Warren County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "2242",
+      "fte": "135.14",
+      "pupilTeacherRatio": "16.59",
+      "numberOfSchools": "4"
+   },
+   {
+      "name": "Carroll Comm School District",
+      "location": {
+         "state": {
+            "name": "Iowa",
+            "abbr": "IA",
+            "county": "Carroll County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "1882",
+      "fte": "119.86",
+      "pupilTeacherRatio": "15.7",
+      "numberOfSchools": "4"
+   },
+   {
+      "name": "Cedar Falls Comm School District",
+      "location": {
+         "state": {
+            "name": "Iowa",
+            "abbr": "IA",
+            "county": "Black Hawk County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "5733",
+      "fte": "395.76",
+      "pupilTeacherRatio": "14.49",
+      "numberOfSchools": "10"
+   },
+   {
+      "name": "Cedar Rapids Comm School District",
+      "location": {
+         "state": {
+            "name": "Iowa",
+            "abbr": "IA",
+            "county": "Linn County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "16598",
+      "fte": "1119.3",
+      "pupilTeacherRatio": "14.83",
+      "numberOfSchools": "31"
+   },
+   {
+      "name": "Center Point-Urbana Comm School District",
+      "location": {
+         "state": {
+            "name": "Iowa",
+            "abbr": "IA",
+            "county": "Linn County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "1588",
+      "fte": "100",
+      "pupilTeacherRatio": "15.88",
+      "numberOfSchools": "4"
+   },
+   {
+      "name": "Centerville Comm School District",
+      "location": {
+         "state": {
+            "name": "Iowa",
+            "abbr": "IA",
+            "county": "Appanoose County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "1408",
+      "fte": "95.54",
+      "pupilTeacherRatio": "14.74",
+      "numberOfSchools": "5"
+   },
+   {
+      "name": "Central City Comm School District",
+      "location": {
+         "state": {
+            "name": "Iowa",
+            "abbr": "IA",
+            "county": "Linn County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "476",
+      "fte": "33",
+      "pupilTeacherRatio": "14.42",
+      "numberOfSchools": "2"
+   },
+   {
+      "name": "Central Comm School District",
+      "location": {
+         "state": {
+            "name": "Iowa",
+            "abbr": "IA",
+            "county": "Clayton County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "431",
+      "fte": "33.66",
+      "pupilTeacherRatio": "12.8",
+      "numberOfSchools": "2"
+   },
+   {
+      "name": "Central Decatur Comm School District",
+      "location": {
+         "state": {
+            "name": "Iowa",
+            "abbr": "IA",
+            "county": "Decatur County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "705",
+      "fte": "50.02",
+      "pupilTeacherRatio": "14.09",
+      "numberOfSchools": "3"
+   },
+   {
+      "name": "Central Dewitt School District",
+      "location": {
+         "state": {
+            "name": "Iowa",
+            "abbr": "IA",
+            "county": "Clinton County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "1646",
+      "fte": "118.39",
+      "pupilTeacherRatio": "13.9",
+      "numberOfSchools": "4"
+   },
+   {
+      "name": "Central Lee Comm School District",
+      "location": {
+         "state": {
+            "name": "Iowa",
+            "abbr": "IA",
+            "county": "Lee County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "1180",
+      "fte": "73.29",
+      "pupilTeacherRatio": "16.1",
+      "numberOfSchools": "3"
+   },
+   {
+      "name": "Central Lyon Comm School District",
+      "location": {
+         "state": {
+            "name": "Iowa",
+            "abbr": "IA",
+            "county": "Lyon County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "789",
+      "fte": "62.07",
+      "pupilTeacherRatio": "12.71",
+      "numberOfSchools": "3"
+   },
+   {
+      "name": "Central Rivers Aea",
+      "location": {
+         "state": {
+            "name": "Iowa",
+            "abbr": "IA",
+            "county": "Black Hawk County"
+         }
+      },
+      "type": "4-Regional Education Service Agency (RESA)",
+      "grades": {
+         "lowest": "†",
+         "highest": "†"
+      },
+      "students": "†",
+      "fte": "88.02",
+      "pupilTeacherRatio": "–",
+      "numberOfSchools": "0"
+   },
+   {
+      "name": "Central Springs Comm School District",
+      "location": {
+         "state": {
+            "name": "Iowa",
+            "abbr": "IA",
+            "county": "Worth County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "784",
+      "fte": "53.72",
+      "pupilTeacherRatio": "14.59",
+      "numberOfSchools": "4"
+   },
+   {
+      "name": "Chariton Comm School District",
+      "location": {
+         "state": {
+            "name": "Iowa",
+            "abbr": "IA",
+            "county": "Lucas County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "1267",
+      "fte": "89.56",
+      "pupilTeacherRatio": "14.15",
+      "numberOfSchools": "4"
+   },
+   {
+      "name": "Charles City Comm School District",
+      "location": {
+         "state": {
+            "name": "Iowa",
+            "abbr": "IA",
+            "county": "Floyd County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "1610",
+      "fte": "110.79",
+      "pupilTeacherRatio": "14.53",
+      "numberOfSchools": "4"
+   },
+   {
+      "name": "Charter Oak-Ute Comm School District",
+      "location": {
+         "state": {
+            "name": "Iowa",
+            "abbr": "IA",
+            "county": "Crawford County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "196",
+      "fte": "17.54",
+      "pupilTeacherRatio": "11.17",
+      "numberOfSchools": "2"
+   },
+   {
+      "name": "Cherokee Comm School District",
+      "location": {
+         "state": {
+            "name": "Iowa",
+            "abbr": "IA",
+            "county": "Cherokee County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "1170",
+      "fte": "74.72",
+      "pupilTeacherRatio": "15.66",
+      "numberOfSchools": "3"
+   },
+   {
+      "name": "Clarinda Comm School District",
+      "location": {
+         "state": {
+            "name": "Iowa",
+            "abbr": "IA",
+            "county": "Page County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "1185",
+      "fte": "81.89",
+      "pupilTeacherRatio": "14.47",
+      "numberOfSchools": "4"
+   },
+   {
+      "name": "Clarion-Goldfield-Dows Comm School District",
+      "location": {
+         "state": {
+            "name": "Iowa",
+            "abbr": "IA",
+            "county": "Wright County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "1020",
+      "fte": "67.06",
+      "pupilTeacherRatio": "15.21",
+      "numberOfSchools": "3"
+   },
+   {
+      "name": "Clarke Comm School District",
+      "location": {
+         "state": {
+            "name": "Iowa",
+            "abbr": "IA",
+            "county": "Clarke County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "1372",
+      "fte": "108.97",
+      "pupilTeacherRatio": "12.59",
+      "numberOfSchools": "3"
+   },
+   {
+      "name": "Clarksville Comm School District",
+      "location": {
+         "state": {
+            "name": "Iowa",
+            "abbr": "IA",
+            "county": "Butler County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "320",
+      "fte": "26.19",
+      "pupilTeacherRatio": "12.22",
+      "numberOfSchools": "2"
+   },
+   {
+      "name": "Clay Central-Everly Comm School District",
+      "location": {
+         "state": {
+            "name": "Iowa",
+            "abbr": "IA",
+            "county": "Clay County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "83",
+      "fte": "10.73",
+      "pupilTeacherRatio": "7.74",
+      "numberOfSchools": "1"
+   },
+   {
+      "name": "Clayton Ridge Comm School District",
+      "location": {
+         "state": {
+            "name": "Iowa",
+            "abbr": "IA",
+            "county": "Clayton County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "1132",
+      "fte": "42.94",
+      "pupilTeacherRatio": "26.36",
+      "numberOfSchools": "4"
+   },
+   {
+      "name": "Clear Creek Amana Comm School District",
+      "location": {
+         "state": {
+            "name": "Iowa",
+            "abbr": "IA",
+            "county": "Johnson County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "2750",
+      "fte": "214.64",
+      "pupilTeacherRatio": "12.81",
+      "numberOfSchools": "7"
+   },
+   {
+      "name": "Clear Lake Comm School District",
+      "location": {
+         "state": {
+            "name": "Iowa",
+            "abbr": "IA",
+            "county": "Cerro Gordo County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "1477",
+      "fte": "92.43",
+      "pupilTeacherRatio": "15.98",
+      "numberOfSchools": "3"
+   },
+   {
+      "name": "Clinton Comm School District",
+      "location": {
+         "state": {
+            "name": "Iowa",
+            "abbr": "IA",
+            "county": "Clinton County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "3542",
+      "fte": "262.02",
+      "pupilTeacherRatio": "13.52",
+      "numberOfSchools": "6"
+   },
+   {
+      "name": "Colfax-Mingo Comm School District",
+      "location": {
+         "state": {
+            "name": "Iowa",
+            "abbr": "IA",
+            "county": "Jasper County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "751",
+      "fte": "55.17",
+      "pupilTeacherRatio": "13.61",
+      "numberOfSchools": "2"
+   },
+   {
+      "name": "College Comm School District",
+      "location": {
+         "state": {
+            "name": "Iowa",
+            "abbr": "IA",
+            "county": "Linn County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "5819",
+      "fte": "368.49",
+      "pupilTeacherRatio": "15.79",
+      "numberOfSchools": "10"
+   },
+   {
+      "name": "Collins-Maxwell Comm School District",
+      "location": {
+         "state": {
+            "name": "Iowa",
+            "abbr": "IA",
+            "county": "Story County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "398",
+      "fte": "38.11",
+      "pupilTeacherRatio": "10.44",
+      "numberOfSchools": "2"
+   },
+   {
+      "name": "Colo-Nesco Comm School District",
+      "location": {
+         "state": {
+            "name": "Iowa",
+            "abbr": "IA",
+            "county": "Story County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "436",
+      "fte": "37.82",
+      "pupilTeacherRatio": "11.53",
+      "numberOfSchools": "2"
+   },
+   {
+      "name": "Columbus Comm School District",
+      "location": {
+         "state": {
+            "name": "Iowa",
+            "abbr": "IA",
+            "county": "Louisa County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "700",
+      "fte": "57.14",
+      "pupilTeacherRatio": "12.25",
+      "numberOfSchools": "3"
+   },
+   {
+      "name": "Coon Rapids-Bayard Comm School District",
+      "location": {
+         "state": {
+            "name": "Iowa",
+            "abbr": "IA",
+            "county": "Carroll County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "435",
+      "fte": "38.26",
+      "pupilTeacherRatio": "11.37",
+      "numberOfSchools": "2"
+   },
+   {
+      "name": "Corning Comm School District",
+      "location": {
+         "state": {
+            "name": "Iowa",
+            "abbr": "IA",
+            "county": "Adams County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "399",
+      "fte": "38.86",
+      "pupilTeacherRatio": "10.27",
+      "numberOfSchools": "2"
+   },
+   {
+      "name": "Council Bluffs Comm School District",
+      "location": {
+         "state": {
+            "name": "Iowa",
+            "abbr": "IA",
+            "county": "Pottawattamie County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "9201",
+      "fte": "581.4",
+      "pupilTeacherRatio": "15.83",
+      "numberOfSchools": "15"
+   },
+   {
+      "name": "Creston Comm School District",
+      "location": {
+         "state": {
+            "name": "Iowa",
+            "abbr": "IA",
+            "county": "Union County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "1504",
+      "fte": "114.59",
+      "pupilTeacherRatio": "13.13",
+      "numberOfSchools": "4"
+   },
+   {
+      "name": "Dallas Center-Grimes Comm School District",
+      "location": {
+         "state": {
+            "name": "Iowa",
+            "abbr": "IA",
+            "county": "Dallas County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "3478",
+      "fte": "208.17",
+      "pupilTeacherRatio": "16.71",
+      "numberOfSchools": "7"
+   },
+   {
+      "name": "Danville Comm School District",
+      "location": {
+         "state": {
+            "name": "Iowa",
+            "abbr": "IA",
+            "county": "Des Moines County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "736",
+      "fte": "46.09",
+      "pupilTeacherRatio": "15.97",
+      "numberOfSchools": "2"
+   },
+   {
+      "name": "Davenport Comm School District",
+      "location": {
+         "state": {
+            "name": "Iowa",
+            "abbr": "IA",
+            "county": "Scott County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "15324",
+      "fte": "1093.35",
+      "pupilTeacherRatio": "14.02",
+      "numberOfSchools": "30"
+   },
+   {
+      "name": "Davis County Comm School District",
+      "location": {
+         "state": {
+            "name": "Iowa",
+            "abbr": "IA",
+            "county": "Davis County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "1300",
+      "fte": "87.85",
+      "pupilTeacherRatio": "14.8",
+      "numberOfSchools": "3"
+   },
+   {
+      "name": "Decorah Community School District",
+      "location": {
+         "state": {
+            "name": "Iowa",
+            "abbr": "IA",
+            "county": "Winneshiek County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "1766",
+      "fte": "120.61",
+      "pupilTeacherRatio": "14.64",
+      "numberOfSchools": "5"
+   },
+   {
+      "name": "Delwood Comm School District",
+      "location": {
+         "state": {
+            "name": "Iowa",
+            "abbr": "IA",
+            "county": "Clinton County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "156",
+      "fte": "14.04",
+      "pupilTeacherRatio": "11.11",
+      "numberOfSchools": "1"
+   },
+   {
+      "name": "Denison Comm School District",
+      "location": {
+         "state": {
+            "name": "Iowa",
+            "abbr": "IA",
+            "county": "Crawford County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "2414",
+      "fte": "151.03",
+      "pupilTeacherRatio": "15.98",
+      "numberOfSchools": "5"
+   },
+   {
+      "name": "Denver Comm School District",
+      "location": {
+         "state": {
+            "name": "Iowa",
+            "abbr": "IA",
+            "county": "Bremer County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "921",
+      "fte": "59.25",
+      "pupilTeacherRatio": "15.54",
+      "numberOfSchools": "4"
+   },
+   {
+      "name": "Des Moines Independent Comm School District",
+      "location": {
+         "state": {
+            "name": "Iowa",
+            "abbr": "IA",
+            "county": "Polk County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "33402",
+      "fte": "2225.55",
+      "pupilTeacherRatio": "15.01",
+      "numberOfSchools": "61"
+   },
+   {
+      "name": "Diagonal Comm School District",
+      "location": {
+         "state": {
+            "name": "Iowa",
+            "abbr": "IA",
+            "county": "Ringgold County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "138",
+      "fte": "13.4",
+      "pupilTeacherRatio": "10.3",
+      "numberOfSchools": "2"
+   },
+   {
+      "name": "Dike-New Hartford Comm School District",
+      "location": {
+         "state": {
+            "name": "Iowa",
+            "abbr": "IA",
+            "county": "Grundy County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "945",
+      "fte": "64.99",
+      "pupilTeacherRatio": "14.54",
+      "numberOfSchools": "4"
+   },
+   {
+      "name": "Dubuque Comm School District",
+      "location": {
+         "state": {
+            "name": "Iowa",
+            "abbr": "IA",
+            "county": "Dubuque County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "11064",
+      "fte": "835.56",
+      "pupilTeacherRatio": "13.24",
+      "numberOfSchools": "18"
+   },
+   {
+      "name": "Dunkerton Comm School District",
+      "location": {
+         "state": {
+            "name": "Iowa",
+            "abbr": "IA",
+            "county": "Black Hawk County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "428",
+      "fte": "39.46",
+      "pupilTeacherRatio": "10.85",
+      "numberOfSchools": "2"
+   },
+   {
+      "name": "Durant Comm School District",
+      "location": {
+         "state": {
+            "name": "Iowa",
+            "abbr": "IA",
+            "county": "Cedar County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "663",
+      "fte": "47.81",
+      "pupilTeacherRatio": "13.87",
+      "numberOfSchools": "3"
+   },
+   {
+      "name": "Eagle Grove Comm School District",
+      "location": {
+         "state": {
+            "name": "Iowa",
+            "abbr": "IA",
+            "county": "Wright County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "1008",
+      "fte": "76.08",
+      "pupilTeacherRatio": "13.25",
+      "numberOfSchools": "3"
+   },
+   {
+      "name": "Earlham Comm School District",
+      "location": {
+         "state": {
+            "name": "Iowa",
+            "abbr": "IA",
+            "county": "Madison County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "631",
+      "fte": "46.15",
+      "pupilTeacherRatio": "13.67",
+      "numberOfSchools": "3"
+   },
+   {
+      "name": "East Buchanan Comm School District",
+      "location": {
+         "state": {
+            "name": "Iowa",
+            "abbr": "IA",
+            "county": "Buchanan County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "612",
+      "fte": "46.36",
+      "pupilTeacherRatio": "13.2",
+      "numberOfSchools": "3"
+   },
+   {
+      "name": "East Marshall Comm School District",
+      "location": {
+         "state": {
+            "name": "Iowa",
+            "abbr": "IA",
+            "county": "Marshall County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "824",
+      "fte": "54.01",
+      "pupilTeacherRatio": "15.26",
+      "numberOfSchools": "3"
+   },
+   {
+      "name": "East Mills Comm School District",
+      "location": {
+         "state": {
+            "name": "Iowa",
+            "abbr": "IA",
+            "county": "Mills County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "440",
+      "fte": "38.98",
+      "pupilTeacherRatio": "11.29",
+      "numberOfSchools": "2"
+   },
+   {
+      "name": "East Sac County Comm School District",
+      "location": {
+         "state": {
+            "name": "Iowa",
+            "abbr": "IA",
+            "county": "Sac County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "850",
+      "fte": "70.25",
+      "pupilTeacherRatio": "12.1",
+      "numberOfSchools": "4"
+   },
+   {
+      "name": "East Union Comm School District",
+      "location": {
+         "state": {
+            "name": "Iowa",
+            "abbr": "IA",
+            "county": "Union County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "552",
+      "fte": "43.47",
+      "pupilTeacherRatio": "12.7",
+      "numberOfSchools": "2"
+   },
+   {
+      "name": "Eastern Allamakee Comm School District",
+      "location": {
+         "state": {
+            "name": "Iowa",
+            "abbr": "IA",
+            "county": "Allamakee County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "334",
+      "fte": "26.83",
+      "pupilTeacherRatio": "12.45",
+      "numberOfSchools": "3"
+   },
+   {
+      "name": "Easton Valley Comm School District",
+      "location": {
+         "state": {
+            "name": "Iowa",
+            "abbr": "IA",
+            "county": "Jackson County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "478",
+      "fte": "42.21",
+      "pupilTeacherRatio": "11.32",
+      "numberOfSchools": "2"
+   },
+   {
+      "name": "Eddyville-Blakesburg- Fremont CSD",
+      "location": {
+         "state": {
+            "name": "Iowa",
+            "abbr": "IA",
+            "county": "Wapello County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "1014",
+      "fte": "84.14",
+      "pupilTeacherRatio": "12.05",
+      "numberOfSchools": "4"
+   },
+   {
+      "name": "Edgewood-Colesburg Comm School District",
+      "location": {
+         "state": {
+            "name": "Iowa",
+            "abbr": "IA",
+            "county": "Clayton County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "529",
+      "fte": "43.72",
+      "pupilTeacherRatio": "12.1",
+      "numberOfSchools": "2"
+   },
+   {
+      "name": "Eldora-New Providence Comm School District",
+      "location": {
+         "state": {
+            "name": "Iowa",
+            "abbr": "IA",
+            "county": "Hardin County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "574",
+      "fte": "48.01",
+      "pupilTeacherRatio": "11.96",
+      "numberOfSchools": "2"
+   },
+   {
+      "name": "Emmetsburg Comm School District",
+      "location": {
+         "state": {
+            "name": "Iowa",
+            "abbr": "IA",
+            "county": "Palo Alto County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "826",
+      "fte": "59.14",
+      "pupilTeacherRatio": "13.97",
+      "numberOfSchools": "3"
+   },
+   {
+      "name": "English Valleys Comm School District",
+      "location": {
+         "state": {
+            "name": "Iowa",
+            "abbr": "IA",
+            "county": "Iowa County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "472",
+      "fte": "39.72",
+      "pupilTeacherRatio": "11.88",
+      "numberOfSchools": "2"
+   },
+   {
+      "name": "Essex Comm School District",
+      "location": {
+         "state": {
+            "name": "Iowa",
+            "abbr": "IA",
+            "county": "Page County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "171",
+      "fte": "21.61",
+      "pupilTeacherRatio": "7.91",
+      "numberOfSchools": "2"
+   },
+   {
+      "name": "Estherville Lincoln Central Com Sch Dist",
+      "location": {
+         "state": {
+            "name": "Iowa",
+            "abbr": "IA",
+            "county": "Emmet County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "1313",
+      "fte": "101.21",
+      "pupilTeacherRatio": "12.97",
+      "numberOfSchools": "3"
+   },
+   {
+      "name": "Exira-Elk Horn- Kimballton Comm Sch Dist",
+      "location": {
+         "state": {
+            "name": "Iowa",
+            "abbr": "IA",
+            "county": "Shelby County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "400",
+      "fte": "33.42",
+      "pupilTeacherRatio": "11.97",
+      "numberOfSchools": "2"
+   },
+   {
+      "name": "Fairfield Comm School District",
+      "location": {
+         "state": {
+            "name": "Iowa",
+            "abbr": "IA",
+            "county": "Jefferson County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "1640",
+      "fte": "114.35",
+      "pupilTeacherRatio": "14.34",
+      "numberOfSchools": "4"
+   },
+   {
+      "name": "Forest City Comm School District",
+      "location": {
+         "state": {
+            "name": "Iowa",
+            "abbr": "IA",
+            "county": "Winnebago County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "1159",
+      "fte": "85.41",
+      "pupilTeacherRatio": "13.57",
+      "numberOfSchools": "3"
+   },
+   {
+      "name": "Fort Dodge Comm School District",
+      "location": {
+         "state": {
+            "name": "Iowa",
+            "abbr": "IA",
+            "county": "Webster County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "3841",
+      "fte": "247.36",
+      "pupilTeacherRatio": "15.53",
+      "numberOfSchools": "7"
+   },
+   {
+      "name": "Fort Madison Comm School District",
+      "location": {
+         "state": {
+            "name": "Iowa",
+            "abbr": "IA",
+            "county": "Lee County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "1881",
+      "fte": "131.6",
+      "pupilTeacherRatio": "14.29",
+      "numberOfSchools": "4"
+   },
+   {
+      "name": "Fremont-Mills Comm School District",
+      "location": {
+         "state": {
+            "name": "Iowa",
+            "abbr": "IA",
+            "county": "Fremont County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "527",
+      "fte": "39.71",
+      "pupilTeacherRatio": "13.27",
+      "numberOfSchools": "2"
+   },
+   {
+      "name": "Galva-Holstein Comm School District",
+      "location": {
+         "state": {
+            "name": "Iowa",
+            "abbr": "IA",
+            "county": "Ida County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "450",
+      "fte": "39.23",
+      "pupilTeacherRatio": "11.47",
+      "numberOfSchools": "3"
+   },
+   {
+      "name": "Garner-Hayfield-Ventura Comm School District",
+      "location": {
+         "state": {
+            "name": "Iowa",
+            "abbr": "IA",
+            "county": "Hancock County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "1006",
+      "fte": "70.2",
+      "pupilTeacherRatio": "14.33",
+      "numberOfSchools": "3"
+   },
+   {
+      "name": "George-Little Rock Comm School District",
+      "location": {
+         "state": {
+            "name": "Iowa",
+            "abbr": "IA",
+            "county": "Lyon County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "412",
+      "fte": "34.26",
+      "pupilTeacherRatio": "12.03",
+      "numberOfSchools": "4"
+   },
+   {
+      "name": "Gilbert Comm School District",
+      "location": {
+         "state": {
+            "name": "Iowa",
+            "abbr": "IA",
+            "county": "Story County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "1591",
+      "fte": "99.8",
+      "pupilTeacherRatio": "15.94",
+      "numberOfSchools": "4"
+   },
+   {
+      "name": "Gilmore City-Bradgate Comm School District",
+      "location": {
+         "state": {
+            "name": "Iowa",
+            "abbr": "IA",
+            "county": "Humboldt County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "136",
+      "fte": "12.52",
+      "pupilTeacherRatio": "10.86",
+      "numberOfSchools": "1"
+   },
+   {
+      "name": "Gladbrook-Reinbeck Comm School District",
+      "location": {
+         "state": {
+            "name": "Iowa",
+            "abbr": "IA",
+            "county": "Grundy County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "492",
+      "fte": "45.6",
+      "pupilTeacherRatio": "10.79",
+      "numberOfSchools": "2"
+   },
+   {
+      "name": "Glenwood Comm School District",
+      "location": {
+         "state": {
+            "name": "Iowa",
+            "abbr": "IA",
+            "county": "Mills County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "2077",
+      "fte": "130.51",
+      "pupilTeacherRatio": "15.91",
+      "numberOfSchools": "4"
+   },
+   {
+      "name": "Glidden-Ralston Comm School District",
+      "location": {
+         "state": {
+            "name": "Iowa",
+            "abbr": "IA",
+            "county": "Carroll County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "345",
+      "fte": "29.57",
+      "pupilTeacherRatio": "11.67",
+      "numberOfSchools": "2"
+   },
+   {
+      "name": "Gmg Comm School District",
+      "location": {
+         "state": {
+            "name": "Iowa",
+            "abbr": "IA",
+            "county": "Marshall County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "509",
+      "fte": "40",
+      "pupilTeacherRatio": "12.73",
+      "numberOfSchools": "2"
+   },
+   {
+      "name": "Graettinger-Terril Comm School District",
+      "location": {
+         "state": {
+            "name": "Iowa",
+            "abbr": "IA",
+            "county": "Palo Alto County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "348",
+      "fte": "32.47",
+      "pupilTeacherRatio": "10.72",
+      "numberOfSchools": "3"
+   },
+   {
+      "name": "Grant Wood Aea",
+      "location": {
+         "state": {
+            "name": "Iowa",
+            "abbr": "IA",
+            "county": "Linn County"
+         }
+      },
+      "type": "4-Regional Education Service Agency (RESA)",
+      "grades": {
+         "lowest": "†",
+         "highest": "†"
+      },
+      "students": "†",
+      "fte": "25.78",
+      "pupilTeacherRatio": "–",
+      "numberOfSchools": "0"
+   },
+   {
+      "name": "Great Prairie Aea",
+      "location": {
+         "state": {
+            "name": "Iowa",
+            "abbr": "IA",
+            "county": "Wapello County"
+         }
+      },
+      "type": "4-Regional Education Service Agency (RESA)",
+      "grades": {
+         "lowest": "†",
+         "highest": "†"
+      },
+      "students": "†",
+      "fte": "19.44",
+      "pupilTeacherRatio": "–",
+      "numberOfSchools": "0"
+   },
+   {
+      "name": "Greene County Comm School District",
+      "location": {
+         "state": {
+            "name": "Iowa",
+            "abbr": "IA",
+            "county": "Greene County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "1274",
+      "fte": "96.7",
+      "pupilTeacherRatio": "13.17",
+      "numberOfSchools": "3"
+   },
+   {
+      "name": "Grinnell-Newburg Comm School District",
+      "location": {
+         "state": {
+            "name": "Iowa",
+            "abbr": "IA",
+            "county": "Poweshiek County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "1754",
+      "fte": "121.08",
+      "pupilTeacherRatio": "14.49",
+      "numberOfSchools": "5"
+   },
+   {
+      "name": "Griswold Comm School District",
+      "location": {
+         "state": {
+            "name": "Iowa",
+            "abbr": "IA",
+            "county": "Cass County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "460",
+      "fte": "42.41",
+      "pupilTeacherRatio": "10.85",
+      "numberOfSchools": "2"
+   },
+   {
+      "name": "Grundy Center Comm School District",
+      "location": {
+         "state": {
+            "name": "Iowa",
+            "abbr": "IA",
+            "county": "Grundy County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "736",
+      "fte": "63.66",
+      "pupilTeacherRatio": "11.56",
+      "numberOfSchools": "3"
+   },
+   {
+      "name": "Guthrie Center Comm School District",
+      "location": {
+         "state": {
+            "name": "Iowa",
+            "abbr": "IA",
+            "county": "Guthrie County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "523",
+      "fte": "47.65",
+      "pupilTeacherRatio": "10.98",
+      "numberOfSchools": "2"
+   },
+   {
+      "name": "H-L-V Comm School District",
+      "location": {
+         "state": {
+            "name": "Iowa",
+            "abbr": "IA",
+            "county": "Iowa County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "338",
+      "fte": "24.54",
+      "pupilTeacherRatio": "13.77",
+      "numberOfSchools": "2"
+   },
+   {
+      "name": "Hamburg Comm School District",
+      "location": {
+         "state": {
+            "name": "Iowa",
+            "abbr": "IA",
+            "county": "Fremont County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "154",
+      "fte": "13.98",
+      "pupilTeacherRatio": "11.02",
+      "numberOfSchools": "2"
+   },
+   {
+      "name": "Hampton-Dumont Comm School District",
+      "location": {
+         "state": {
+            "name": "Iowa",
+            "abbr": "IA",
+            "county": "Franklin County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "1332",
+      "fte": "110.88",
+      "pupilTeacherRatio": "12.01",
+      "numberOfSchools": "4"
+   },
+   {
+      "name": "Harlan Comm School District",
+      "location": {
+         "state": {
+            "name": "Iowa",
+            "abbr": "IA",
+            "county": "Shelby County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "1533",
+      "fte": "99.01",
+      "pupilTeacherRatio": "15.48",
+      "numberOfSchools": "4"
+   },
+   {
+      "name": "Harris-Lake Park Comm School District",
+      "location": {
+         "state": {
+            "name": "Iowa",
+            "abbr": "IA",
+            "county": "Dickinson County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "334",
+      "fte": "26.75",
+      "pupilTeacherRatio": "12.49",
+      "numberOfSchools": "2"
+   },
+   {
+      "name": "Hartley-Melvin-Sanborn Comm School District",
+      "location": {
+         "state": {
+            "name": "Iowa",
+            "abbr": "IA",
+            "county": "O'Brien County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "639",
+      "fte": "54.51",
+      "pupilTeacherRatio": "11.72",
+      "numberOfSchools": "3"
+   },
+   {
+      "name": "Highland Comm School District",
+      "location": {
+         "state": {
+            "name": "Iowa",
+            "abbr": "IA",
+            "county": "Washington County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "614",
+      "fte": "48.43",
+      "pupilTeacherRatio": "12.68",
+      "numberOfSchools": "3"
+   },
+   {
+      "name": "Hinton Comm School District",
+      "location": {
+         "state": {
+            "name": "Iowa",
+            "abbr": "IA",
+            "county": "Plymouth County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "801",
+      "fte": "51.96",
+      "pupilTeacherRatio": "15.42",
+      "numberOfSchools": "3"
+   },
+   {
+      "name": "Howard-Winneshiek Comm School District",
+      "location": {
+         "state": {
+            "name": "Iowa",
+            "abbr": "IA",
+            "county": "Howard County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "1096",
+      "fte": "83.33",
+      "pupilTeacherRatio": "13.15",
+      "numberOfSchools": "3"
+   },
+   {
+      "name": "Hubbard-Radcliffe Comm School District",
+      "location": {
+         "state": {
+            "name": "Iowa",
+            "abbr": "IA",
+            "county": "Hardin County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "398",
+      "fte": "29.07",
+      "pupilTeacherRatio": "13.69",
+      "numberOfSchools": "2"
+   },
+   {
+      "name": "Hudson Comm School District",
+      "location": {
+         "state": {
+            "name": "Iowa",
+            "abbr": "IA",
+            "county": "Black Hawk County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "786",
+      "fte": "52.96",
+      "pupilTeacherRatio": "14.84",
+      "numberOfSchools": "2"
+   },
+   {
+      "name": "Humboldt Comm School District",
+      "location": {
+         "state": {
+            "name": "Iowa",
+            "abbr": "IA",
+            "county": "Humboldt County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "1518",
+      "fte": "91.99",
+      "pupilTeacherRatio": "16.5",
+      "numberOfSchools": "4"
+   },
+   {
+      "name": "Ikm-Manning Comm School District",
+      "location": {
+         "state": {
+            "name": "Iowa",
+            "abbr": "IA",
+            "county": "Carroll County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "705",
+      "fte": "51.7",
+      "pupilTeacherRatio": "13.64",
+      "numberOfSchools": "3"
+   },
+   {
+      "name": "Independence Comm School District",
+      "location": {
+         "state": {
+            "name": "Iowa",
+            "abbr": "IA",
+            "county": "Buchanan County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "1496",
+      "fte": "99.99",
+      "pupilTeacherRatio": "14.96",
+      "numberOfSchools": "4"
+   },
+   {
+      "name": "Indianola Comm School District",
+      "location": {
+         "state": {
+            "name": "Iowa",
+            "abbr": "IA",
+            "county": "Warren County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "3663",
+      "fte": "221.37",
+      "pupilTeacherRatio": "16.55",
+      "numberOfSchools": "6"
+   },
+   {
+      "name": "Interstate 35 Comm School District",
+      "location": {
+         "state": {
+            "name": "Iowa",
+            "abbr": "IA",
+            "county": "Madison County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "848",
+      "fte": "60.06",
+      "pupilTeacherRatio": "14.12",
+      "numberOfSchools": "3"
+   },
+   {
+      "name": "Iowa City Comm School District",
+      "location": {
+         "state": {
+            "name": "Iowa",
+            "abbr": "IA",
+            "county": "Johnson County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "14939",
+      "fte": "974.61",
+      "pupilTeacherRatio": "15.33",
+      "numberOfSchools": "28"
+   },
+   {
+      "name": "Iowa Falls Comm School District",
+      "location": {
+         "state": {
+            "name": "Iowa",
+            "abbr": "IA",
+            "county": "Hardin County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "1314",
+      "fte": "91.3",
+      "pupilTeacherRatio": "14.39",
+      "numberOfSchools": "4"
+   },
+   {
+      "name": "Iowa Valley Comm School District",
+      "location": {
+         "state": {
+            "name": "Iowa",
+            "abbr": "IA",
+            "county": "Iowa County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "580",
+      "fte": "39.59",
+      "pupilTeacherRatio": "14.65",
+      "numberOfSchools": "2"
+   },
+   {
+      "name": "Janesville Consolidated School District",
+      "location": {
+         "state": {
+            "name": "Iowa",
+            "abbr": "IA",
+            "county": "Bremer County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "457",
+      "fte": "31.57",
+      "pupilTeacherRatio": "14.48",
+      "numberOfSchools": "2"
+   },
+   {
+      "name": "Jesup Comm School District",
+      "location": {
+         "state": {
+            "name": "Iowa",
+            "abbr": "IA",
+            "county": "Buchanan County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "1063",
+      "fte": "66.64",
+      "pupilTeacherRatio": "15.95",
+      "numberOfSchools": "6"
+   },
+   {
+      "name": "Johnston Comm School District",
+      "location": {
+         "state": {
+            "name": "Iowa",
+            "abbr": "IA",
+            "county": "Polk County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "7517",
+      "fte": "437.86",
+      "pupilTeacherRatio": "17.17",
+      "numberOfSchools": "8"
+   },
+   {
+      "name": "Keokuk Comm School District",
+      "location": {
+         "state": {
+            "name": "Iowa",
+            "abbr": "IA",
+            "county": "Lee County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "1892",
+      "fte": "123.89",
+      "pupilTeacherRatio": "15.27",
+      "numberOfSchools": "5"
+   },
+   {
+      "name": "Keota Comm School District",
+      "location": {
+         "state": {
+            "name": "Iowa",
+            "abbr": "IA",
+            "county": "Keokuk County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "332",
+      "fte": "27.71",
+      "pupilTeacherRatio": "11.98",
+      "numberOfSchools": "2"
+   },
+   {
+      "name": "Keystone Aea",
+      "location": {
+         "state": {
+            "name": "Iowa",
+            "abbr": "IA",
+            "county": "Clayton County"
+         }
+      },
+      "type": "4-Regional Education Service Agency (RESA)",
+      "grades": {
+         "lowest": "†",
+         "highest": "†"
+      },
+      "students": "†",
+      "fte": "16.4",
+      "pupilTeacherRatio": "–",
+      "numberOfSchools": "0"
+   },
+   {
+      "name": "Kingsley-Pierson Comm School District",
+      "location": {
+         "state": {
+            "name": "Iowa",
+            "abbr": "IA",
+            "county": "Plymouth County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "437",
+      "fte": "34.13",
+      "pupilTeacherRatio": "12.8",
+      "numberOfSchools": "4"
+   },
+   {
+      "name": "Knoxville Comm School District",
+      "location": {
+         "state": {
+            "name": "Iowa",
+            "abbr": "IA",
+            "county": "Marion County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "1721",
+      "fte": "118",
+      "pupilTeacherRatio": "14.58",
+      "numberOfSchools": "4"
+   },
+   {
+      "name": "Lake Mills Comm School District",
+      "location": {
+         "state": {
+            "name": "Iowa",
+            "abbr": "IA",
+            "county": "Winnebago County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "700",
+      "fte": "52.4",
+      "pupilTeacherRatio": "13.36",
+      "numberOfSchools": "3"
+   },
+   {
+      "name": "Lamoni Comm School District",
+      "location": {
+         "state": {
+            "name": "Iowa",
+            "abbr": "IA",
+            "county": "Decatur County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "337",
+      "fte": "30.63",
+      "pupilTeacherRatio": "11",
+      "numberOfSchools": "3"
+   },
+   {
+      "name": "Laurens-Marathon Comm School District",
+      "location": {
+         "state": {
+            "name": "Iowa",
+            "abbr": "IA",
+            "county": "Pocahontas County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "154",
+      "fte": "16.45",
+      "pupilTeacherRatio": "9.36",
+      "numberOfSchools": "2"
+   },
+   {
+      "name": "Lawton-Bronson Comm School District",
+      "location": {
+         "state": {
+            "name": "Iowa",
+            "abbr": "IA",
+            "county": "Woodbury County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "700",
+      "fte": "48.79",
+      "pupilTeacherRatio": "14.35",
+      "numberOfSchools": "2"
+   },
+   {
+      "name": "Le Mars Comm School District",
+      "location": {
+         "state": {
+            "name": "Iowa",
+            "abbr": "IA",
+            "county": "Plymouth County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "2283",
+      "fte": "137.6",
+      "pupilTeacherRatio": "16.59",
+      "numberOfSchools": "6"
+   },
+   {
+      "name": "Lenox Comm School District",
+      "location": {
+         "state": {
+            "name": "Iowa",
+            "abbr": "IA",
+            "county": "Taylor County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "508",
+      "fte": "41.74",
+      "pupilTeacherRatio": "12.17",
+      "numberOfSchools": "2"
+   },
+   {
+      "name": "Lewis Central Comm School District",
+      "location": {
+         "state": {
+            "name": "Iowa",
+            "abbr": "IA",
+            "county": "Pottawattamie County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "3017",
+      "fte": "183.67",
+      "pupilTeacherRatio": "16.43",
+      "numberOfSchools": "4"
+   },
+   {
+      "name": "Linn-Mar Comm School District",
+      "location": {
+         "state": {
+            "name": "Iowa",
+            "abbr": "IA",
+            "county": "Linn County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "7937",
+      "fte": "483.5",
+      "pupilTeacherRatio": "16.42",
+      "numberOfSchools": "10"
+   },
+   {
+      "name": "Lisbon Comm School District",
+      "location": {
+         "state": {
+            "name": "Iowa",
+            "abbr": "IA",
+            "county": "Linn County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "698",
+      "fte": "47.11",
+      "pupilTeacherRatio": "14.82",
+      "numberOfSchools": "3"
+   },
+   {
+      "name": "Logan-Magnolia Comm School District",
+      "location": {
+         "state": {
+            "name": "Iowa",
+            "abbr": "IA",
+            "county": "Harrison County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "699",
+      "fte": "47.8",
+      "pupilTeacherRatio": "14.62",
+      "numberOfSchools": "2"
+   },
+   {
+      "name": "Lone Tree Comm School District",
+      "location": {
+         "state": {
+            "name": "Iowa",
+            "abbr": "IA",
+            "county": "Johnson County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "483",
+      "fte": "37.71",
+      "pupilTeacherRatio": "12.81",
+      "numberOfSchools": "2"
+   },
+   {
+      "name": "Louisa-Muscatine Comm School District",
+      "location": {
+         "state": {
+            "name": "Iowa",
+            "abbr": "IA",
+            "county": "Louisa County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "862",
+      "fte": "67.01",
+      "pupilTeacherRatio": "12.86",
+      "numberOfSchools": "3"
+   },
+   {
+      "name": "Luverne Comm School District",
+      "location": {
+         "state": {
+            "name": "Iowa",
+            "abbr": "IA",
+            "county": "Kossuth County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "49",
+      "fte": "8.66",
+      "pupilTeacherRatio": "5.66",
+      "numberOfSchools": "1"
+   },
+   {
+      "name": "Lynnville-Sully Comm School District",
+      "location": {
+         "state": {
+            "name": "Iowa",
+            "abbr": "IA",
+            "county": "Jasper County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "553",
+      "fte": "40.23",
+      "pupilTeacherRatio": "13.75",
+      "numberOfSchools": "3"
+   },
+   {
+      "name": "Madrid Comm School District",
+      "location": {
+         "state": {
+            "name": "Iowa",
+            "abbr": "IA",
+            "county": "Boone County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "723",
+      "fte": "50.79",
+      "pupilTeacherRatio": "14.24",
+      "numberOfSchools": "3"
+   },
+   {
+      "name": "Manson Northwest Webster Comm School District",
+      "location": {
+         "state": {
+            "name": "Iowa",
+            "abbr": "IA",
+            "county": "Calhoun County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "801",
+      "fte": "63.29",
+      "pupilTeacherRatio": "12.66",
+      "numberOfSchools": "2"
+   },
+   {
+      "name": "Maple Valley-Anthon Oto Comm School District",
+      "location": {
+         "state": {
+            "name": "Iowa",
+            "abbr": "IA",
+            "county": "Monona County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "661",
+      "fte": "54.25",
+      "pupilTeacherRatio": "12.18",
+      "numberOfSchools": "4"
+   },
+   {
+      "name": "Maquoketa Comm School District",
+      "location": {
+         "state": {
+            "name": "Iowa",
+            "abbr": "IA",
+            "county": "Jackson County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "1405",
+      "fte": "115.72",
+      "pupilTeacherRatio": "12.14",
+      "numberOfSchools": "4"
+   },
+   {
+      "name": "Maquoketa Valley Comm School District",
+      "location": {
+         "state": {
+            "name": "Iowa",
+            "abbr": "IA",
+            "county": "Delaware County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "732",
+      "fte": "50.4",
+      "pupilTeacherRatio": "14.52",
+      "numberOfSchools": "5"
+   },
+   {
+      "name": "Marcus-Meriden-Cleghorn Comm School District",
+      "location": {
+         "state": {
+            "name": "Iowa",
+            "abbr": "IA",
+            "county": "Cherokee County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "349",
+      "fte": "34.5",
+      "pupilTeacherRatio": "10.12",
+      "numberOfSchools": "2"
+   },
+   {
+      "name": "Marion Independent School District",
+      "location": {
+         "state": {
+            "name": "Iowa",
+            "abbr": "IA",
+            "county": "Linn County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "2184",
+      "fte": "163.74",
+      "pupilTeacherRatio": "13.34",
+      "numberOfSchools": "6"
+   },
+   {
+      "name": "Marshalltown Comm School District",
+      "location": {
+         "state": {
+            "name": "Iowa",
+            "abbr": "IA",
+            "county": "Marshall County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "5230",
+      "fte": "367.59",
+      "pupilTeacherRatio": "14.23",
+      "numberOfSchools": "9"
+   },
+   {
+      "name": "Martensdale-St Marys Comm School District",
+      "location": {
+         "state": {
+            "name": "Iowa",
+            "abbr": "IA",
+            "county": "Warren County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "562",
+      "fte": "41.32",
+      "pupilTeacherRatio": "13.6",
+      "numberOfSchools": "2"
+   },
+   {
+      "name": "Mason City Comm School District",
+      "location": {
+         "state": {
+            "name": "Iowa",
+            "abbr": "IA",
+            "county": "Cerro Gordo County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "3924",
+      "fte": "279.77",
+      "pupilTeacherRatio": "14.03",
+      "numberOfSchools": "8"
+   },
+   {
+      "name": "Mediapolis Comm School District",
+      "location": {
+         "state": {
+            "name": "Iowa",
+            "abbr": "IA",
+            "county": "Des Moines County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "899",
+      "fte": "61.02",
+      "pupilTeacherRatio": "14.73",
+      "numberOfSchools": "3"
+   },
+   {
+      "name": "Melcher-Dallas Comm School District",
+      "location": {
+         "state": {
+            "name": "Iowa",
+            "abbr": "IA",
+            "county": "Marion County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "347",
+      "fte": "31.68",
+      "pupilTeacherRatio": "10.95",
+      "numberOfSchools": "2"
+   },
+   {
+      "name": "Mfl Marmac Comm School District",
+      "location": {
+         "state": {
+            "name": "Iowa",
+            "abbr": "IA",
+            "county": "Clayton County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "833",
+      "fte": "56",
+      "pupilTeacherRatio": "14.88",
+      "numberOfSchools": "4"
+   },
+   {
+      "name": "Mid-Prairie Comm School District",
+      "location": {
+         "state": {
+            "name": "Iowa",
+            "abbr": "IA",
+            "county": "Washington County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "1474",
+      "fte": "110.43",
+      "pupilTeacherRatio": "13.35",
+      "numberOfSchools": "4"
+   },
+   {
+      "name": "Midland Comm School District",
+      "location": {
+         "state": {
+            "name": "Iowa",
+            "abbr": "IA",
+            "county": "Jones County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "479",
+      "fte": "40.07",
+      "pupilTeacherRatio": "11.95",
+      "numberOfSchools": "2"
+   },
+   {
+      "name": "Mississippi Bend Aea",
+      "location": {
+         "state": {
+            "name": "Iowa",
+            "abbr": "IA",
+            "county": "Scott County"
+         }
+      },
+      "type": "4-Regional Education Service Agency (RESA)",
+      "grades": {
+         "lowest": "†",
+         "highest": "†"
+      },
+      "students": "†",
+      "fte": "25.26",
+      "pupilTeacherRatio": "–",
+      "numberOfSchools": "0"
+   },
+   {
+      "name": "Missouri Valley Comm School District",
+      "location": {
+         "state": {
+            "name": "Iowa",
+            "abbr": "IA",
+            "county": "Harrison County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "799",
+      "fte": "61.43",
+      "pupilTeacherRatio": "13.01",
+      "numberOfSchools": "3"
+   },
+   {
+      "name": "Moc-Floyd Valley Comm School District",
+      "location": {
+         "state": {
+            "name": "Iowa",
+            "abbr": "IA",
+            "county": "Sioux County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "1532",
+      "fte": "102.25",
+      "pupilTeacherRatio": "14.98",
+      "numberOfSchools": "4"
+   },
+   {
+      "name": "Montezuma Comm School District",
+      "location": {
+         "state": {
+            "name": "Iowa",
+            "abbr": "IA",
+            "county": "Poweshiek County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "490",
+      "fte": "40.02",
+      "pupilTeacherRatio": "12.24",
+      "numberOfSchools": "3"
+   },
+   {
+      "name": "Monticello Comm School District",
+      "location": {
+         "state": {
+            "name": "Iowa",
+            "abbr": "IA",
+            "county": "Jones County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "1049",
+      "fte": "74.58",
+      "pupilTeacherRatio": "14.07",
+      "numberOfSchools": "4"
+   },
+   {
+      "name": "Moravia Comm School District",
+      "location": {
+         "state": {
+            "name": "Iowa",
+            "abbr": "IA",
+            "county": "Appanoose County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "383",
+      "fte": "34.33",
+      "pupilTeacherRatio": "11.16",
+      "numberOfSchools": "2"
+   },
+   {
+      "name": "Mormon Trail Comm School District",
+      "location": {
+         "state": {
+            "name": "Iowa",
+            "abbr": "IA",
+            "county": "Wayne County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "215",
+      "fte": "23.15",
+      "pupilTeacherRatio": "9.29",
+      "numberOfSchools": "2"
+   },
+   {
+      "name": "Morning Sun Comm School District",
+      "location": {
+         "state": {
+            "name": "Iowa",
+            "abbr": "IA",
+            "county": "Louisa County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "130",
+      "fte": "11.21",
+      "pupilTeacherRatio": "11.6",
+      "numberOfSchools": "1"
+   },
+   {
+      "name": "Moulton-Udell Comm School District",
+      "location": {
+         "state": {
+            "name": "Iowa",
+            "abbr": "IA",
+            "county": "Appanoose County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "182",
+      "fte": "20.1",
+      "pupilTeacherRatio": "9.05",
+      "numberOfSchools": "2"
+   },
+   {
+      "name": "Mount Ayr Comm School District",
+      "location": {
+         "state": {
+            "name": "Iowa",
+            "abbr": "IA",
+            "county": "Ringgold County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "647",
+      "fte": "52.08",
+      "pupilTeacherRatio": "12.42",
+      "numberOfSchools": "2"
+   },
+   {
+      "name": "Mount Pleasant Comm School District",
+      "location": {
+         "state": {
+            "name": "Iowa",
+            "abbr": "IA",
+            "county": "Henry County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "2000",
+      "fte": "143.75",
+      "pupilTeacherRatio": "13.91",
+      "numberOfSchools": "7"
+   },
+   {
+      "name": "Mount Vernon Comm School District",
+      "location": {
+         "state": {
+            "name": "Iowa",
+            "abbr": "IA",
+            "county": "Linn County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "1415",
+      "fte": "93.82",
+      "pupilTeacherRatio": "15.08",
+      "numberOfSchools": "3"
+   },
+   {
+      "name": "Murray Comm School District",
+      "location": {
+         "state": {
+            "name": "Iowa",
+            "abbr": "IA",
+            "county": "Clarke County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "298",
+      "fte": "30.32",
+      "pupilTeacherRatio": "9.83",
+      "numberOfSchools": "2"
+   },
+   {
+      "name": "Muscatine Comm School District",
+      "location": {
+         "state": {
+            "name": "Iowa",
+            "abbr": "IA",
+            "county": "Muscatine County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "4925",
+      "fte": "359.7",
+      "pupilTeacherRatio": "13.69",
+      "numberOfSchools": "10"
+   },
+   {
+      "name": "Nashua-Plainfield Comm School District",
+      "location": {
+         "state": {
+            "name": "Iowa",
+            "abbr": "IA",
+            "county": "Chickasaw County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "600",
+      "fte": "42.97",
+      "pupilTeacherRatio": "13.96",
+      "numberOfSchools": "2"
+   },
+   {
+      "name": "Nevada Comm School District",
+      "location": {
+         "state": {
+            "name": "Iowa",
+            "abbr": "IA",
+            "county": "Story County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "1592",
+      "fte": "104.38",
+      "pupilTeacherRatio": "15.25",
+      "numberOfSchools": "3"
+   },
+   {
+      "name": "New Hampton Comm School District",
+      "location": {
+         "state": {
+            "name": "Iowa",
+            "abbr": "IA",
+            "county": "Chickasaw County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "1036",
+      "fte": "79.46",
+      "pupilTeacherRatio": "13.04",
+      "numberOfSchools": "3"
+   },
+   {
+      "name": "New London Comm School District",
+      "location": {
+         "state": {
+            "name": "Iowa",
+            "abbr": "IA",
+            "county": "Henry County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "556",
+      "fte": "42.98",
+      "pupilTeacherRatio": "12.94",
+      "numberOfSchools": "2"
+   },
+   {
+      "name": "Newell-Fonda Comm School District",
+      "location": {
+         "state": {
+            "name": "Iowa",
+            "abbr": "IA",
+            "county": "Buena Vista County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "526",
+      "fte": "43.43",
+      "pupilTeacherRatio": "12.11",
+      "numberOfSchools": "3"
+   },
+   {
+      "name": "Newton Comm School District",
+      "location": {
+         "state": {
+            "name": "Iowa",
+            "abbr": "IA",
+            "county": "Jasper County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "2931",
+      "fte": "204.61",
+      "pupilTeacherRatio": "14.32",
+      "numberOfSchools": "7"
+   },
+   {
+      "name": "Nodaway Valley Comm School District",
+      "location": {
+         "state": {
+            "name": "Iowa",
+            "abbr": "IA",
+            "county": "Adair County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "640",
+      "fte": "54.34",
+      "pupilTeacherRatio": "11.78",
+      "numberOfSchools": "3"
+   },
+   {
+      "name": "North Butler Comm School District",
+      "location": {
+         "state": {
+            "name": "Iowa",
+            "abbr": "IA",
+            "county": "Butler County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "569",
+      "fte": "46.24",
+      "pupilTeacherRatio": "12.31",
+      "numberOfSchools": "2"
+   },
+   {
+      "name": "North Cedar Comm School District",
+      "location": {
+         "state": {
+            "name": "Iowa",
+            "abbr": "IA",
+            "county": "Cedar County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "666",
+      "fte": "57.21",
+      "pupilTeacherRatio": "11.64",
+      "numberOfSchools": "3"
+   },
+   {
+      "name": "North Fayette Valley Comm School District",
+      "location": {
+         "state": {
+            "name": "Iowa",
+            "abbr": "IA",
+            "county": "Fayette County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "1128",
+      "fte": "88.78",
+      "pupilTeacherRatio": "12.71",
+      "numberOfSchools": "5"
+   },
+   {
+      "name": "North Iowa Comm School District",
+      "location": {
+         "state": {
+            "name": "Iowa",
+            "abbr": "IA",
+            "county": "Winnebago County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "483",
+      "fte": "36.69",
+      "pupilTeacherRatio": "13.16",
+      "numberOfSchools": "3"
+   },
+   {
+      "name": "North Kossuth Comm School District",
+      "location": {
+         "state": {
+            "name": "Iowa",
+            "abbr": "IA",
+            "county": "Kossuth County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "324",
+      "fte": "26.67",
+      "pupilTeacherRatio": "12.15",
+      "numberOfSchools": "2"
+   },
+   {
+      "name": "North Linn Comm School District",
+      "location": {
+         "state": {
+            "name": "Iowa",
+            "abbr": "IA",
+            "county": "Linn County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "609",
+      "fte": "40.86",
+      "pupilTeacherRatio": "14.9",
+      "numberOfSchools": "3"
+   },
+   {
+      "name": "North Mahaska Comm School District",
+      "location": {
+         "state": {
+            "name": "Iowa",
+            "abbr": "IA",
+            "county": "Mahaska County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "604",
+      "fte": "42",
+      "pupilTeacherRatio": "14.38",
+      "numberOfSchools": "2"
+   },
+   {
+      "name": "North Polk Comm School District",
+      "location": {
+         "state": {
+            "name": "Iowa",
+            "abbr": "IA",
+            "county": "Polk County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "1927",
+      "fte": "120.06",
+      "pupilTeacherRatio": "16.05",
+      "numberOfSchools": "4"
+   },
+   {
+      "name": "North Scott Comm School District",
+      "location": {
+         "state": {
+            "name": "Iowa",
+            "abbr": "IA",
+            "county": "Scott County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "3299",
+      "fte": "208.24",
+      "pupilTeacherRatio": "15.84",
+      "numberOfSchools": "7"
+   },
+   {
+      "name": "North Tama County Comm School District",
+      "location": {
+         "state": {
+            "name": "Iowa",
+            "abbr": "IA",
+            "county": "Tama County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "480",
+      "fte": "39.91",
+      "pupilTeacherRatio": "12.03",
+      "numberOfSchools": "2"
+   },
+   {
+      "name": "North Union Comm School District",
+      "location": {
+         "state": {
+            "name": "Iowa",
+            "abbr": "IA",
+            "county": "Emmet County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "343",
+      "fte": "29.8",
+      "pupilTeacherRatio": "11.51",
+      "numberOfSchools": "2"
+   },
+   {
+      "name": "Northeast Comm School District",
+      "location": {
+         "state": {
+            "name": "Iowa",
+            "abbr": "IA",
+            "county": "Clinton County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "908",
+      "fte": "65.63",
+      "pupilTeacherRatio": "13.84",
+      "numberOfSchools": "2"
+   },
+   {
+      "name": "Northwest Aea",
+      "location": {
+         "state": {
+            "name": "Iowa",
+            "abbr": "IA",
+            "county": "Woodbury County"
+         }
+      },
+      "type": "4-Regional Education Service Agency (RESA)",
+      "grades": {
+         "lowest": "†",
+         "highest": "†"
+      },
+      "students": "†",
+      "fte": "24.8",
+      "pupilTeacherRatio": "–",
+      "numberOfSchools": "0"
+   },
+   {
+      "name": "Northwood-Kensett Comm School District",
+      "location": {
+         "state": {
+            "name": "Iowa",
+            "abbr": "IA",
+            "county": "Worth County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "599",
+      "fte": "41.28",
+      "pupilTeacherRatio": "14.51",
+      "numberOfSchools": "2"
+   },
+   {
+      "name": "Norwalk Comm School District",
+      "location": {
+         "state": {
+            "name": "Iowa",
+            "abbr": "IA",
+            "county": "Warren County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "3334",
+      "fte": "203.05",
+      "pupilTeacherRatio": "16.42",
+      "numberOfSchools": "4"
+   },
+   {
+      "name": "Odebolt Arthur Battle Creek Ida Grove Comm School District",
+      "location": {
+         "state": {
+            "name": "Iowa",
+            "abbr": "IA",
+            "county": "Ida County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "1010",
+      "fte": "78.2",
+      "pupilTeacherRatio": "12.92",
+      "numberOfSchools": "4"
+   },
+   {
+      "name": "Oelwein Comm School District",
+      "location": {
+         "state": {
+            "name": "Iowa",
+            "abbr": "IA",
+            "county": "Fayette County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "1325",
+      "fte": "88.91",
+      "pupilTeacherRatio": "14.9",
+      "numberOfSchools": "4"
+   },
+   {
+      "name": "Ogden Comm School District",
+      "location": {
+         "state": {
+            "name": "Iowa",
+            "abbr": "IA",
+            "county": "Boone County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "762",
+      "fte": "48.87",
+      "pupilTeacherRatio": "15.59",
+      "numberOfSchools": "3"
+   },
+   {
+      "name": "Okoboji Comm School District",
+      "location": {
+         "state": {
+            "name": "Iowa",
+            "abbr": "IA",
+            "county": "Dickinson County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "1177",
+      "fte": "80.18",
+      "pupilTeacherRatio": "14.68",
+      "numberOfSchools": "3"
+   },
+   {
+      "name": "Olin Consolidated School District",
+      "location": {
+         "state": {
+            "name": "Iowa",
+            "abbr": "IA",
+            "county": "Jones County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "88",
+      "fte": "10.75",
+      "pupilTeacherRatio": "8.19",
+      "numberOfSchools": "1"
+   },
+   {
+      "name": "Orient-Macksburg Comm School District",
+      "location": {
+         "state": {
+            "name": "Iowa",
+            "abbr": "IA",
+            "county": "Adair County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "161",
+      "fte": "15.12",
+      "pupilTeacherRatio": "10.65",
+      "numberOfSchools": "2"
+   },
+   {
+      "name": "Osage Comm School District",
+      "location": {
+         "state": {
+            "name": "Iowa",
+            "abbr": "IA",
+            "county": "Mitchell County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "990",
+      "fte": "65.15",
+      "pupilTeacherRatio": "15.2",
+      "numberOfSchools": "3"
+   },
+   {
+      "name": "Oskaloosa Comm School District",
+      "location": {
+         "state": {
+            "name": "Iowa",
+            "abbr": "IA",
+            "county": "Mahaska County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "2196",
+      "fte": "156.61",
+      "pupilTeacherRatio": "14.02",
+      "numberOfSchools": "4"
+   },
+   {
+      "name": "Ottumwa Comm School District",
+      "location": {
+         "state": {
+            "name": "Iowa",
+            "abbr": "IA",
+            "county": "Wapello County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "4713",
+      "fte": "278.36",
+      "pupilTeacherRatio": "16.93",
+      "numberOfSchools": "9"
+   },
+   {
+      "name": "Panorama Comm School District",
+      "location": {
+         "state": {
+            "name": "Iowa",
+            "abbr": "IA",
+            "county": "Guthrie County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "730",
+      "fte": "51.55",
+      "pupilTeacherRatio": "14.16",
+      "numberOfSchools": "3"
+   },
+   {
+      "name": "Paton-Churdan Comm School District",
+      "location": {
+         "state": {
+            "name": "Iowa",
+            "abbr": "IA",
+            "county": "Greene County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "238",
+      "fte": "15.54",
+      "pupilTeacherRatio": "15.32",
+      "numberOfSchools": "2"
+   },
+   {
+      "name": "Pcm Comm School District",
+      "location": {
+         "state": {
+            "name": "Iowa",
+            "abbr": "IA",
+            "county": "Jasper County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "1131",
+      "fte": "80.21",
+      "pupilTeacherRatio": "14.1",
+      "numberOfSchools": "4"
+   },
+   {
+      "name": "Pekin Comm School District",
+      "location": {
+         "state": {
+            "name": "Iowa",
+            "abbr": "IA",
+            "county": "Jefferson County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "719",
+      "fte": "52.03",
+      "pupilTeacherRatio": "13.82",
+      "numberOfSchools": "2"
+   },
+   {
+      "name": "Pella Comm School District",
+      "location": {
+         "state": {
+            "name": "Iowa",
+            "abbr": "IA",
+            "county": "Marion County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "2471",
+      "fte": "154.35",
+      "pupilTeacherRatio": "16.01",
+      "numberOfSchools": "5"
+   },
+   {
+      "name": "Perry Comm School District",
+      "location": {
+         "state": {
+            "name": "Iowa",
+            "abbr": "IA",
+            "county": "Dallas County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "1780",
+      "fte": "132.13",
+      "pupilTeacherRatio": "13.47",
+      "numberOfSchools": "3"
+   },
+   {
+      "name": "Pleasant Valley Comm School District",
+      "location": {
+         "state": {
+            "name": "Iowa",
+            "abbr": "IA",
+            "county": "Scott County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "5244",
+      "fte": "313.26",
+      "pupilTeacherRatio": "16.74",
+      "numberOfSchools": "7"
+   },
+   {
+      "name": "Pleasantville Comm School District",
+      "location": {
+         "state": {
+            "name": "Iowa",
+            "abbr": "IA",
+            "county": "Marion County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "738",
+      "fte": "55.37",
+      "pupilTeacherRatio": "13.33",
+      "numberOfSchools": "3"
+   },
+   {
+      "name": "Pocahontas Area Comm School District",
+      "location": {
+         "state": {
+            "name": "Iowa",
+            "abbr": "IA",
+            "county": "Pocahontas County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "721",
+      "fte": "56.05",
+      "pupilTeacherRatio": "12.86",
+      "numberOfSchools": "3"
+   },
+   {
+      "name": "Postville Comm School District",
+      "location": {
+         "state": {
+            "name": "Iowa",
+            "abbr": "IA",
+            "county": "Allamakee County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "767",
+      "fte": "67.42",
+      "pupilTeacherRatio": "11.38",
+      "numberOfSchools": "2"
+   },
+   {
+      "name": "Prairie Lakes Aea",
+      "location": {
+         "state": {
+            "name": "Iowa",
+            "abbr": "IA",
+            "county": "Pocahontas County"
+         }
+      },
+      "type": "4-Regional Education Service Agency (RESA)",
+      "grades": {
+         "lowest": "†",
+         "highest": "†"
+      },
+      "students": "†",
+      "fte": "26.35",
+      "pupilTeacherRatio": "–",
+      "numberOfSchools": "0"
+   },
+   {
+      "name": "Prairie Valley Comm School District",
+      "location": {
+         "state": {
+            "name": "Iowa",
+            "abbr": "IA",
+            "county": "Webster County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "551",
+      "fte": "38.73",
+      "pupilTeacherRatio": "14.23",
+      "numberOfSchools": "2"
+   },
+   {
+      "name": "Red Oak Comm School District",
+      "location": {
+         "state": {
+            "name": "Iowa",
+            "abbr": "IA",
+            "county": "Montgomery County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "1075",
+      "fte": "70.98",
+      "pupilTeacherRatio": "15.15",
+      "numberOfSchools": "3"
+   },
+   {
+      "name": "Remsen-Union Comm School District",
+      "location": {
+         "state": {
+            "name": "Iowa",
+            "abbr": "IA",
+            "county": "Plymouth County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "336",
+      "fte": "33.96",
+      "pupilTeacherRatio": "9.89",
+      "numberOfSchools": "2"
+   },
+   {
+      "name": "Riceville Comm School District",
+      "location": {
+         "state": {
+            "name": "Iowa",
+            "abbr": "IA",
+            "county": "Howard County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "377",
+      "fte": "30.16",
+      "pupilTeacherRatio": "12.5",
+      "numberOfSchools": "2"
+   },
+   {
+      "name": "River Valley Comm School District",
+      "location": {
+         "state": {
+            "name": "Iowa",
+            "abbr": "IA",
+            "county": "Woodbury County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "391",
+      "fte": "36.37",
+      "pupilTeacherRatio": "10.75",
+      "numberOfSchools": "2"
+   },
+   {
+      "name": "Riverside Comm School District",
+      "location": {
+         "state": {
+            "name": "Iowa",
+            "abbr": "IA",
+            "county": "Pottawattamie County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "641",
+      "fte": "48.61",
+      "pupilTeacherRatio": "13.19",
+      "numberOfSchools": "3"
+   },
+   {
+      "name": "Rock Valley Comm School District",
+      "location": {
+         "state": {
+            "name": "Iowa",
+            "abbr": "IA",
+            "county": "Sioux County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "966",
+      "fte": "66.76",
+      "pupilTeacherRatio": "14.47",
+      "numberOfSchools": "3"
+   },
+   {
+      "name": "Roland-Story Comm School District",
+      "location": {
+         "state": {
+            "name": "Iowa",
+            "abbr": "IA",
+            "county": "Story County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "1139",
+      "fte": "67.93",
+      "pupilTeacherRatio": "16.77",
+      "numberOfSchools": "3"
+   },
+   {
+      "name": "Rudd-Rockford-Marble Rk Comm School District",
+      "location": {
+         "state": {
+            "name": "Iowa",
+            "abbr": "IA",
+            "county": "Floyd County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "439",
+      "fte": "35.35",
+      "pupilTeacherRatio": "12.42",
+      "numberOfSchools": "2"
+   },
+   {
+      "name": "Ruthven-Ayrshire Comm School District",
+      "location": {
+         "state": {
+            "name": "Iowa",
+            "abbr": "IA",
+            "county": "Palo Alto County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "194",
+      "fte": "17.82",
+      "pupilTeacherRatio": "10.89",
+      "numberOfSchools": "2"
+   },
+   {
+      "name": "Saydel Comm School District",
+      "location": {
+         "state": {
+            "name": "Iowa",
+            "abbr": "IA",
+            "county": "Polk County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "1413",
+      "fte": "99.92",
+      "pupilTeacherRatio": "14.14",
+      "numberOfSchools": "3"
+   },
+   {
+      "name": "Schaller-Crestland Comm School District",
+      "location": {
+         "state": {
+            "name": "Iowa",
+            "abbr": "IA",
+            "county": "Sac County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "401",
+      "fte": "27.01",
+      "pupilTeacherRatio": "14.85",
+      "numberOfSchools": "2"
+   },
+   {
+      "name": "Schleswig Comm School District",
+      "location": {
+         "state": {
+            "name": "Iowa",
+            "abbr": "IA",
+            "county": "Crawford County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "185",
+      "fte": "14.75",
+      "pupilTeacherRatio": "12.54",
+      "numberOfSchools": "2"
+   },
+   {
+      "name": "Sergeant Bluff-Luton Comm School District",
+      "location": {
+         "state": {
+            "name": "Iowa",
+            "abbr": "IA",
+            "county": "Woodbury County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "1709",
+      "fte": "104.72",
+      "pupilTeacherRatio": "16.32",
+      "numberOfSchools": "4"
+   },
+   {
+      "name": "Seymour Comm School District",
+      "location": {
+         "state": {
+            "name": "Iowa",
+            "abbr": "IA",
+            "county": "Wayne County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "251",
+      "fte": "24.58",
+      "pupilTeacherRatio": "10.21",
+      "numberOfSchools": "2"
+   },
+   {
+      "name": "Sheldon Comm School District",
+      "location": {
+         "state": {
+            "name": "Iowa",
+            "abbr": "IA",
+            "county": "O'Brien County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "1180",
+      "fte": "75.99",
+      "pupilTeacherRatio": "15.53",
+      "numberOfSchools": "3"
+   },
+   {
+      "name": "Shenandoah Comm School District",
+      "location": {
+         "state": {
+            "name": "Iowa",
+            "abbr": "IA",
+            "county": "Page County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "1136",
+      "fte": "82.49",
+      "pupilTeacherRatio": "13.77",
+      "numberOfSchools": "4"
+   },
+   {
+      "name": "Sibley-Ocheyedan Comm School District",
+      "location": {
+         "state": {
+            "name": "Iowa",
+            "abbr": "IA",
+            "county": "Osceola County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "769",
+      "fte": "60.41",
+      "pupilTeacherRatio": "12.73",
+      "numberOfSchools": "3"
+   },
+   {
+      "name": "Sidney Comm School District",
+      "location": {
+         "state": {
+            "name": "Iowa",
+            "abbr": "IA",
+            "county": "Fremont County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "514",
+      "fte": "40.46",
+      "pupilTeacherRatio": "12.7",
+      "numberOfSchools": "2"
+   },
+   {
+      "name": "Sigourney Comm School District",
+      "location": {
+         "state": {
+            "name": "Iowa",
+            "abbr": "IA",
+            "county": "Keokuk County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "585",
+      "fte": "41.17",
+      "pupilTeacherRatio": "14.21",
+      "numberOfSchools": "2"
+   },
+   {
+      "name": "Sioux Center Comm School District",
+      "location": {
+         "state": {
+            "name": "Iowa",
+            "abbr": "IA",
+            "county": "Sioux County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "1611",
+      "fte": "109.87",
+      "pupilTeacherRatio": "14.66",
+      "numberOfSchools": "3"
+   },
+   {
+      "name": "Sioux Central Comm School District",
+      "location": {
+         "state": {
+            "name": "Iowa",
+            "abbr": "IA",
+            "county": "Buena Vista County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "682",
+      "fte": "51.13",
+      "pupilTeacherRatio": "13.34",
+      "numberOfSchools": "3"
+   },
+   {
+      "name": "Sioux City Comm School District",
+      "location": {
+         "state": {
+            "name": "Iowa",
+            "abbr": "IA",
+            "county": "Woodbury County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "15354",
+      "fte": "892.28",
+      "pupilTeacherRatio": "17.21",
+      "numberOfSchools": "20"
+   },
+   {
+      "name": "Solon Comm School District",
+      "location": {
+         "state": {
+            "name": "Iowa",
+            "abbr": "IA",
+            "county": "Johnson County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "1529",
+      "fte": "98.5",
+      "pupilTeacherRatio": "15.52",
+      "numberOfSchools": "4"
+   },
+   {
+      "name": "South Central Calhoun Comm School District",
+      "location": {
+         "state": {
+            "name": "Iowa",
+            "abbr": "IA",
+            "county": "Calhoun County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "937",
+      "fte": "77.39",
+      "pupilTeacherRatio": "12.11",
+      "numberOfSchools": "3"
+   },
+   {
+      "name": "South Hamilton Comm School District",
+      "location": {
+         "state": {
+            "name": "Iowa",
+            "abbr": "IA",
+            "county": "Hamilton County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "721",
+      "fte": "48.39",
+      "pupilTeacherRatio": "14.9",
+      "numberOfSchools": "2"
+   },
+   {
+      "name": "South O'brien Comm School District",
+      "location": {
+         "state": {
+            "name": "Iowa",
+            "abbr": "IA",
+            "county": "O'Brien County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "609",
+      "fte": "47.36",
+      "pupilTeacherRatio": "12.86",
+      "numberOfSchools": "2"
+   },
+   {
+      "name": "South Page Comm School District",
+      "location": {
+         "state": {
+            "name": "Iowa",
+            "abbr": "IA",
+            "county": "Page County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "118",
+      "fte": "15.8",
+      "pupilTeacherRatio": "7.47",
+      "numberOfSchools": "2"
+   },
+   {
+      "name": "South Tama County",
+      "location": {
+         "state": {
+            "name": "Iowa",
+            "abbr": "IA",
+            "county": "Tama County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "1557",
+      "fte": "108.8",
+      "pupilTeacherRatio": "14.31",
+      "numberOfSchools": "3"
+   },
+   {
+      "name": "South Winneshiek Comm School District",
+      "location": {
+         "state": {
+            "name": "Iowa",
+            "abbr": "IA",
+            "county": "Winneshiek County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "534",
+      "fte": "44.63",
+      "pupilTeacherRatio": "11.97",
+      "numberOfSchools": "3"
+   },
+   {
+      "name": "Southeast Polk Comm School District",
+      "location": {
+         "state": {
+            "name": "Iowa",
+            "abbr": "IA",
+            "county": "Polk County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "7297",
+      "fte": "446.64",
+      "pupilTeacherRatio": "16.34",
+      "numberOfSchools": "11"
+   },
+   {
+      "name": "Southeast Warren Comm School District",
+      "location": {
+         "state": {
+            "name": "Iowa",
+            "abbr": "IA",
+            "county": "Warren County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "517",
+      "fte": "39.2",
+      "pupilTeacherRatio": "13.19",
+      "numberOfSchools": "3"
+   },
+   {
+      "name": "Southeast Webster Grand Comm School District",
+      "location": {
+         "state": {
+            "name": "Iowa",
+            "abbr": "IA",
+            "county": "Webster County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "569",
+      "fte": "39.77",
+      "pupilTeacherRatio": "14.31",
+      "numberOfSchools": "2"
+   },
+   {
+      "name": "Spencer Comm School District",
+      "location": {
+         "state": {
+            "name": "Iowa",
+            "abbr": "IA",
+            "county": "Clay County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "2247",
+      "fte": "145.51",
+      "pupilTeacherRatio": "15.44",
+      "numberOfSchools": "5"
+   },
+   {
+      "name": "Spirit Lake Comm School District",
+      "location": {
+         "state": {
+            "name": "Iowa",
+            "abbr": "IA",
+            "county": "Dickinson County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "1299",
+      "fte": "81.67",
+      "pupilTeacherRatio": "15.91",
+      "numberOfSchools": "3"
+   },
+   {
+      "name": "Springville Comm School District",
+      "location": {
+         "state": {
+            "name": "Iowa",
+            "abbr": "IA",
+            "county": "Linn County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "433",
+      "fte": "35.45",
+      "pupilTeacherRatio": "12.21",
+      "numberOfSchools": "2"
+   },
+   {
+      "name": "St Ansgar Comm School District",
+      "location": {
+         "state": {
+            "name": "Iowa",
+            "abbr": "IA",
+            "county": "Mitchell County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "603",
+      "fte": "43.36",
+      "pupilTeacherRatio": "13.91",
+      "numberOfSchools": "3"
+   },
+   {
+      "name": "Stanton Comm School District",
+      "location": {
+         "state": {
+            "name": "Iowa",
+            "abbr": "IA",
+            "county": "Montgomery County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "259",
+      "fte": "17.08",
+      "pupilTeacherRatio": "15.16",
+      "numberOfSchools": "2"
+   },
+   {
+      "name": "Starmont Comm School District",
+      "location": {
+         "state": {
+            "name": "Iowa",
+            "abbr": "IA",
+            "county": "Fayette County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "622",
+      "fte": "45.87",
+      "pupilTeacherRatio": "13.56",
+      "numberOfSchools": "3"
+   },
+   {
+      "name": "Storm Lake Comm School District",
+      "location": {
+         "state": {
+            "name": "Iowa",
+            "abbr": "IA",
+            "county": "Buena Vista County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "2811",
+      "fte": "170.95",
+      "pupilTeacherRatio": "16.44",
+      "numberOfSchools": "5"
+   },
+   {
+      "name": "Stratford Comm School District",
+      "location": {
+         "state": {
+            "name": "Iowa",
+            "abbr": "IA",
+            "county": "Hamilton County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "65",
+      "fte": "9.99",
+      "pupilTeacherRatio": "6.51",
+      "numberOfSchools": "1"
+   },
+   {
+      "name": "Sumner-Fredericksburg Comm School District",
+      "location": {
+         "state": {
+            "name": "Iowa",
+            "abbr": "IA",
+            "county": "Bremer County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "839",
+      "fte": "61.21",
+      "pupilTeacherRatio": "13.71",
+      "numberOfSchools": "4"
+   },
+   {
+      "name": "Tipton Comm School District",
+      "location": {
+         "state": {
+            "name": "Iowa",
+            "abbr": "IA",
+            "county": "Cedar County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "1007",
+      "fte": "69.39",
+      "pupilTeacherRatio": "14.51",
+      "numberOfSchools": "3"
+   },
+   {
+      "name": "Treynor Comm School District",
+      "location": {
+         "state": {
+            "name": "Iowa",
+            "abbr": "IA",
+            "county": "Pottawattamie County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "822",
+      "fte": "53.21",
+      "pupilTeacherRatio": "15.45",
+      "numberOfSchools": "3"
+   },
+   {
+      "name": "Tri-Center Comm School District",
+      "location": {
+         "state": {
+            "name": "Iowa",
+            "abbr": "IA",
+            "county": "Pottawattamie County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "714",
+      "fte": "52.52",
+      "pupilTeacherRatio": "13.59",
+      "numberOfSchools": "3"
+   },
+   {
+      "name": "Tri-County Comm School District",
+      "location": {
+         "state": {
+            "name": "Iowa",
+            "abbr": "IA",
+            "county": "Keokuk County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "243",
+      "fte": "21.56",
+      "pupilTeacherRatio": "11.27",
+      "numberOfSchools": "3"
+   },
+   {
+      "name": "Tripoli Comm School District",
+      "location": {
+         "state": {
+            "name": "Iowa",
+            "abbr": "IA",
+            "county": "Bremer County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "404",
+      "fte": "33.54",
+      "pupilTeacherRatio": "12.05",
+      "numberOfSchools": "2"
+   },
+   {
+      "name": "Turkey Valley Comm School District",
+      "location": {
+         "state": {
+            "name": "Iowa",
+            "abbr": "IA",
+            "county": "Winneshiek County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "348",
+      "fte": "27.56",
+      "pupilTeacherRatio": "12.63",
+      "numberOfSchools": "2"
+   },
+   {
+      "name": "Twin Cedars Comm School District",
+      "location": {
+         "state": {
+            "name": "Iowa",
+            "abbr": "IA",
+            "county": "Marion County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "339",
+      "fte": "30.87",
+      "pupilTeacherRatio": "10.98",
+      "numberOfSchools": "2"
+   },
+   {
+      "name": "Twin Rivers Comm School District",
+      "location": {
+         "state": {
+            "name": "Iowa",
+            "abbr": "IA",
+            "county": "Humboldt County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "56",
+      "fte": "6.84",
+      "pupilTeacherRatio": "8.19",
+      "numberOfSchools": "1"
+   },
+   {
+      "name": "Underwood Comm School District",
+      "location": {
+         "state": {
+            "name": "Iowa",
+            "abbr": "IA",
+            "county": "Pottawattamie County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "798",
+      "fte": "50.97",
+      "pupilTeacherRatio": "15.66",
+      "numberOfSchools": "3"
+   },
+   {
+      "name": "Union Comm School District",
+      "location": {
+         "state": {
+            "name": "Iowa",
+            "abbr": "IA",
+            "county": "Black Hawk County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "1071",
+      "fte": "79.1",
+      "pupilTeacherRatio": "13.54",
+      "numberOfSchools": "4"
+   },
+   {
+      "name": "United Comm School District",
+      "location": {
+         "state": {
+            "name": "Iowa",
+            "abbr": "IA",
+            "county": "Boone County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "376",
+      "fte": "27.73",
+      "pupilTeacherRatio": "13.56",
+      "numberOfSchools": "2"
+   },
+   {
+      "name": "Urbandale Comm School District",
+      "location": {
+         "state": {
+            "name": "Iowa",
+            "abbr": "IA",
+            "county": "Polk County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "4288",
+      "fte": "288.32",
+      "pupilTeacherRatio": "14.87",
+      "numberOfSchools": "7"
+   },
+   {
+      "name": "Van Buren County Comm School District",
+      "location": {
+         "state": {
+            "name": "Iowa",
+            "abbr": "IA",
+            "county": "Van Buren County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "842",
+      "fte": "68.36",
+      "pupilTeacherRatio": "12.32",
+      "numberOfSchools": "3"
+   },
+   {
+      "name": "Van Meter Comm School District",
+      "location": {
+         "state": {
+            "name": "Iowa",
+            "abbr": "IA",
+            "county": "Dallas County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "895",
+      "fte": "57.37",
+      "pupilTeacherRatio": "15.6",
+      "numberOfSchools": "3"
+   },
+   {
+      "name": "Villisca Comm School District",
+      "location": {
+         "state": {
+            "name": "Iowa",
+            "abbr": "IA",
+            "county": "Montgomery County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "305",
+      "fte": "23.89",
+      "pupilTeacherRatio": "12.77",
+      "numberOfSchools": "2"
+   },
+   {
+      "name": "Vinton-Shellsburg Comm School District",
+      "location": {
+         "state": {
+            "name": "Iowa",
+            "abbr": "IA",
+            "county": "Benton County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "1513",
+      "fte": "107.8",
+      "pupilTeacherRatio": "14.04",
+      "numberOfSchools": "4"
+   },
+   {
+      "name": "Waco Comm School District",
+      "location": {
+         "state": {
+            "name": "Iowa",
+            "abbr": "IA",
+            "county": "Henry County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "505",
+      "fte": "43.5",
+      "pupilTeacherRatio": "11.61",
+      "numberOfSchools": "2"
+   },
+   {
+      "name": "Wapello Comm School District",
+      "location": {
+         "state": {
+            "name": "Iowa",
+            "abbr": "IA",
+            "county": "Louisa County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "565",
+      "fte": "47.45",
+      "pupilTeacherRatio": "11.91",
+      "numberOfSchools": "3"
+   },
+   {
+      "name": "Wapsie Valley Comm School District",
+      "location": {
+         "state": {
+            "name": "Iowa",
+            "abbr": "IA",
+            "county": "Bremer County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "753",
+      "fte": "52.29",
+      "pupilTeacherRatio": "14.4",
+      "numberOfSchools": "7"
+   },
+   {
+      "name": "Washington Comm School District",
+      "location": {
+         "state": {
+            "name": "Iowa",
+            "abbr": "IA",
+            "county": "Washington County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "1763",
+      "fte": "129.12",
+      "pupilTeacherRatio": "13.65",
+      "numberOfSchools": "4"
+   },
+   {
+      "name": "Waterloo Comm School District",
+      "location": {
+         "state": {
+            "name": "Iowa",
+            "abbr": "IA",
+            "county": "Black Hawk County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "11059",
+      "fte": "787.42",
+      "pupilTeacherRatio": "14.04",
+      "numberOfSchools": "19"
+   },
+   {
+      "name": "Waukee Comm School District",
+      "location": {
+         "state": {
+            "name": "Iowa",
+            "abbr": "IA",
+            "county": "Dallas County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "11518",
+      "fte": "740.12",
+      "pupilTeacherRatio": "15.56",
+      "numberOfSchools": "14"
+   },
+   {
+      "name": "Waverly-Shell Rock Comm School District",
+      "location": {
+         "state": {
+            "name": "Iowa",
+            "abbr": "IA",
+            "county": "Bremer County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "2378",
+      "fte": "170.3",
+      "pupilTeacherRatio": "13.96",
+      "numberOfSchools": "7"
+   },
+   {
+      "name": "Wayne Comm School District",
+      "location": {
+         "state": {
+            "name": "Iowa",
+            "abbr": "IA",
+            "county": "Wayne County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "650",
+      "fte": "45.17",
+      "pupilTeacherRatio": "14.39",
+      "numberOfSchools": "2"
+   },
+   {
+      "name": "Webster City Comm School District",
+      "location": {
+         "state": {
+            "name": "Iowa",
+            "abbr": "IA",
+            "county": "Hamilton County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "1904",
+      "fte": "121.3",
+      "pupilTeacherRatio": "15.7",
+      "numberOfSchools": "5"
+   },
+   {
+      "name": "West Bend-Mallard Comm School District",
+      "location": {
+         "state": {
+            "name": "Iowa",
+            "abbr": "IA",
+            "county": "Palo Alto County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "351",
+      "fte": "28.82",
+      "pupilTeacherRatio": "12.18",
+      "numberOfSchools": "3"
+   },
+   {
+      "name": "West Branch Comm School District",
+      "location": {
+         "state": {
+            "name": "Iowa",
+            "abbr": "IA",
+            "county": "Cedar County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "836",
+      "fte": "60.55",
+      "pupilTeacherRatio": "13.81",
+      "numberOfSchools": "3"
+   },
+   {
+      "name": "West Burlington Ind School District",
+      "location": {
+         "state": {
+            "name": "Iowa",
+            "abbr": "IA",
+            "county": "Des Moines County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "974",
+      "fte": "63.01",
+      "pupilTeacherRatio": "15.46",
+      "numberOfSchools": "3"
+   },
+   {
+      "name": "West Central Comm School District",
+      "location": {
+         "state": {
+            "name": "Iowa",
+            "abbr": "IA",
+            "county": "Fayette County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "290",
+      "fte": "25.39",
+      "pupilTeacherRatio": "11.42",
+      "numberOfSchools": "2"
+   },
+   {
+      "name": "West Central Valley Comm School District",
+      "location": {
+         "state": {
+            "name": "Iowa",
+            "abbr": "IA",
+            "county": "Guthrie County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "876",
+      "fte": "69.26",
+      "pupilTeacherRatio": "12.65",
+      "numberOfSchools": "4"
+   },
+   {
+      "name": "West Delaware County Comm School District",
+      "location": {
+         "state": {
+            "name": "Iowa",
+            "abbr": "IA",
+            "county": "Delaware County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "1440",
+      "fte": "103.14",
+      "pupilTeacherRatio": "13.96",
+      "numberOfSchools": "3"
+   },
+   {
+      "name": "West Des Moines Comm School District",
+      "location": {
+         "state": {
+            "name": "Iowa",
+            "abbr": "IA",
+            "county": "Polk County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "9351",
+      "fte": "592.86",
+      "pupilTeacherRatio": "15.77",
+      "numberOfSchools": "13"
+   },
+   {
+      "name": "West Fork Comm School District",
+      "location": {
+         "state": {
+            "name": "Iowa",
+            "abbr": "IA",
+            "county": "Cerro Gordo County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "738",
+      "fte": "55.48",
+      "pupilTeacherRatio": "13.3",
+      "numberOfSchools": "4"
+   },
+   {
+      "name": "West Hancock Comm School District",
+      "location": {
+         "state": {
+            "name": "Iowa",
+            "abbr": "IA",
+            "county": "Hancock County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "620",
+      "fte": "45.94",
+      "pupilTeacherRatio": "13.5",
+      "numberOfSchools": "3"
+   },
+   {
+      "name": "West Harrison Comm School District",
+      "location": {
+         "state": {
+            "name": "Iowa",
+            "abbr": "IA",
+            "county": "Harrison County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "297",
+      "fte": "23.9",
+      "pupilTeacherRatio": "12.43",
+      "numberOfSchools": "2"
+   },
+   {
+      "name": "West Liberty Comm School District",
+      "location": {
+         "state": {
+            "name": "Iowa",
+            "abbr": "IA",
+            "county": "Muscatine County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "1372",
+      "fte": "107.99",
+      "pupilTeacherRatio": "12.7",
+      "numberOfSchools": "4"
+   },
+   {
+      "name": "West Lyon Comm School District",
+      "location": {
+         "state": {
+            "name": "Iowa",
+            "abbr": "IA",
+            "county": "Lyon County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "975",
+      "fte": "64.57",
+      "pupilTeacherRatio": "15.1",
+      "numberOfSchools": "3"
+   },
+   {
+      "name": "West Marshall Comm School District",
+      "location": {
+         "state": {
+            "name": "Iowa",
+            "abbr": "IA",
+            "county": "Marshall County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "1017",
+      "fte": "70.33",
+      "pupilTeacherRatio": "14.46",
+      "numberOfSchools": "3"
+   },
+   {
+      "name": "West Monona Comm School District",
+      "location": {
+         "state": {
+            "name": "Iowa",
+            "abbr": "IA",
+            "county": "Monona County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "648",
+      "fte": "50.88",
+      "pupilTeacherRatio": "12.74",
+      "numberOfSchools": "3"
+   },
+   {
+      "name": "West Sioux Comm School District",
+      "location": {
+         "state": {
+            "name": "Iowa",
+            "abbr": "IA",
+            "county": "Sioux County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "879",
+      "fte": "61.46",
+      "pupilTeacherRatio": "14.3",
+      "numberOfSchools": "4"
+   },
+   {
+      "name": "Western Dubuque Comm School District",
+      "location": {
+         "state": {
+            "name": "Iowa",
+            "abbr": "IA",
+            "county": "Dubuque County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "3642",
+      "fte": "248.13",
+      "pupilTeacherRatio": "14.68",
+      "numberOfSchools": "8"
+   },
+   {
+      "name": "Westwood Comm School District",
+      "location": {
+         "state": {
+            "name": "Iowa",
+            "abbr": "IA",
+            "county": "Woodbury County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "614",
+      "fte": "43.84",
+      "pupilTeacherRatio": "14.01",
+      "numberOfSchools": "2"
+   },
+   {
+      "name": "Whiting Comm School District",
+      "location": {
+         "state": {
+            "name": "Iowa",
+            "abbr": "IA",
+            "county": "Monona County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "198",
+      "fte": "23.13",
+      "pupilTeacherRatio": "8.56",
+      "numberOfSchools": "2"
+   },
+   {
+      "name": "Williamsburg Comm School District",
+      "location": {
+         "state": {
+            "name": "Iowa",
+            "abbr": "IA",
+            "county": "Iowa County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "1238",
+      "fte": "88.25",
+      "pupilTeacherRatio": "14.03",
+      "numberOfSchools": "2"
+   },
+   {
+      "name": "Wilton Comm School District",
+      "location": {
+         "state": {
+            "name": "Iowa",
+            "abbr": "IA",
+            "county": "Muscatine County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "940",
+      "fte": "60.06",
+      "pupilTeacherRatio": "15.65",
+      "numberOfSchools": "2"
+   },
+   {
+      "name": "Winfield-Mt Union Comm School District",
+      "location": {
+         "state": {
+            "name": "Iowa",
+            "abbr": "IA",
+            "county": "Henry County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "429",
+      "fte": "36.12",
+      "pupilTeacherRatio": "11.88",
+      "numberOfSchools": "2"
+   },
+   {
+      "name": "Winterset Comm School District",
+      "location": {
+         "state": {
+            "name": "Iowa",
+            "abbr": "IA",
+            "county": "Madison County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "1795",
+      "fte": "116.74",
+      "pupilTeacherRatio": "15.38",
+      "numberOfSchools": "4"
+   },
+   {
+      "name": "Woodbine Comm School District",
+      "location": {
+         "state": {
+            "name": "Iowa",
+            "abbr": "IA",
+            "county": "Harrison County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "512",
+      "fte": "38.85",
+      "pupilTeacherRatio": "13.18",
+      "numberOfSchools": "2"
+   },
+   {
+      "name": "Woodbury Central Comm School District",
+      "location": {
+         "state": {
+            "name": "Iowa",
+            "abbr": "IA",
+            "county": "Woodbury County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "620",
+      "fte": "45.02",
+      "pupilTeacherRatio": "13.77",
+      "numberOfSchools": "3"
+   },
+   {
+      "name": "Woodward-Granger Comm School District",
+      "location": {
+         "state": {
+            "name": "Iowa",
+            "abbr": "IA",
+            "county": "Dallas County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "1278",
+      "fte": "95.51",
+      "pupilTeacherRatio": "13.38",
+      "numberOfSchools": "5"
+   }
+]

@@ -1,0 +1,6778 @@
+[
+   {
+      "name": "Academy School",
+      "location": {
+         "state": {
+            "name": "VERMONT",
+            "abbr": "VT "
+         }
+      },
+      "district": "Windham Southeast Unified Union School District #96",
+      "level": "Elementary",
+      "type": "1-Regular school",
+      "charterSchool": "†",
+      "magnentSchool": "2-No",
+      "locale": "32-Town: Distant",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "6th Grade"
+      },
+      "students": "440",
+      "fte": "32.33",
+      "pupilTeacherRatio": "13.61"
+   },
+   {
+      "name": "Addison Central School",
+      "location": {
+         "state": {
+            "name": "VERMONT",
+            "abbr": "VT "
+         }
+      },
+      "district": "Addison Northwest Unified School District",
+      "level": "Elementary",
+      "type": "1-Regular school",
+      "charterSchool": "†",
+      "magnentSchool": "2-No",
+      "locale": "42-Rural: Distant",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "6th Grade"
+      },
+      "students": "72",
+      "fte": "4",
+      "pupilTeacherRatio": "18"
+   },
+   {
+      "name": "Albany Community School",
+      "location": {
+         "state": {
+            "name": "VERMONT",
+            "abbr": "VT "
+         }
+      },
+      "district": "Lake Region Union Elementary Middle School District",
+      "level": "Elementary",
+      "type": "1-Regular school",
+      "charterSchool": "†",
+      "magnentSchool": "2-No",
+      "locale": "43-Rural: Remote",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "8th Grade"
+      },
+      "students": "113",
+      "fte": "8.85",
+      "pupilTeacherRatio": "12.77"
+   },
+   {
+      "name": "Albert Bridge School (West Windsor)",
+      "location": {
+         "state": {
+            "name": "VERMONT",
+            "abbr": "VT "
+         }
+      },
+      "district": "Mount Ascutney School District #86",
+      "level": "Elementary",
+      "type": "1-Regular school",
+      "charterSchool": "†",
+      "magnentSchool": "2-No",
+      "locale": "41-Rural: Fringe",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "6th Grade"
+      },
+      "students": "77",
+      "fte": "6.9",
+      "pupilTeacherRatio": "11.16"
+   },
+   {
+      "name": "Albert D. Lawton School",
+      "location": {
+         "state": {
+            "name": "VERMONT",
+            "abbr": "VT "
+         }
+      },
+      "district": "Essex-Westford Educational Community Unified School District",
+      "level": "Middle",
+      "type": "1-Regular school",
+      "charterSchool": "†",
+      "magnentSchool": "2-No",
+      "locale": "22-Suburb: Mid-size",
+      "grades": {
+         "lowest": "6th Grade",
+         "highest": "8th Grade"
+      },
+      "students": "349",
+      "fte": "31.7",
+      "pupilTeacherRatio": "11.01"
+   },
+   {
+      "name": "Alburg Community Education Center",
+      "location": {
+         "state": {
+            "name": "Vermont",
+            "abbr": "VT "
+         }
+      },
+      "district": "Alburg School District",
+      "level": "Elementary",
+      "type": "1-Regular school",
+      "charterSchool": "†",
+      "magnentSchool": "2-No",
+      "locale": "42-Rural: Distant",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "8th Grade"
+      },
+      "students": "222",
+      "fte": "22.7",
+      "pupilTeacherRatio": "9.78"
+   },
+   {
+      "name": "Arlington Memorial",
+      "location": {
+         "state": {
+            "name": "Vermont",
+            "abbr": "VT "
+         }
+      },
+      "district": "Arlington School District",
+      "level": "High",
+      "type": "1-Regular school",
+      "charterSchool": "†",
+      "magnentSchool": "2-No",
+      "locale": "42-Rural: Distant",
+      "grades": {
+         "lowest": "6th Grade",
+         "highest": "12th Grade"
+      },
+      "students": "200",
+      "fte": "20.4",
+      "pupilTeacherRatio": "9.8"
+   },
+   {
+      "name": "Bakersfield School",
+      "location": {
+         "state": {
+            "name": "VERMONT",
+            "abbr": "VT "
+         }
+      },
+      "district": "Northern Mountain Valley Unified Union School District #85",
+      "level": "Elementary",
+      "type": "1-Regular school",
+      "charterSchool": "†",
+      "magnentSchool": "2-No",
+      "locale": "42-Rural: Distant",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "8th Grade"
+      },
+      "students": "139",
+      "fte": "15.3",
+      "pupilTeacherRatio": "9.08"
+   },
+   {
+      "name": "Barnard Academy",
+      "location": {
+         "state": {
+            "name": "Vermont",
+            "abbr": "VT "
+         }
+      },
+      "district": "Barnard School District",
+      "level": "Elementary",
+      "type": "1-Regular school",
+      "charterSchool": "†",
+      "magnentSchool": "2-No",
+      "locale": "43-Rural: Remote",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "6th Grade"
+      },
+      "students": "79",
+      "fte": "7.1",
+      "pupilTeacherRatio": "11.13"
+   },
+   {
+      "name": "Barnet Elementary School",
+      "location": {
+         "state": {
+            "name": "VERMONT",
+            "abbr": "VT "
+         }
+      },
+      "district": "Caledonia Cooperative Unified School District",
+      "level": "Elementary",
+      "type": "1-Regular school",
+      "charterSchool": "†",
+      "magnentSchool": "2-No",
+      "locale": "42-Rural: Distant",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "8th Grade"
+      },
+      "students": "174",
+      "fte": "22.8",
+      "pupilTeacherRatio": "7.63"
+   },
+   {
+      "name": "Barre City Elementary/middle School",
+      "location": {
+         "state": {
+            "name": "VERMONT",
+            "abbr": "VT "
+         }
+      },
+      "district": "Barre Unified Union School District #97",
+      "level": "Elementary",
+      "type": "1-Regular school",
+      "charterSchool": "†",
+      "magnentSchool": "2-No",
+      "locale": "41-Rural: Fringe",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "8th Grade"
+      },
+      "students": "853",
+      "fte": "79",
+      "pupilTeacherRatio": "10.8"
+   },
+   {
+      "name": "Barre Town Elementary School",
+      "location": {
+         "state": {
+            "name": "VERMONT",
+            "abbr": "VT "
+         }
+      },
+      "district": "Barre Unified Union School District #97",
+      "level": "Elementary",
+      "type": "1-Regular school",
+      "charterSchool": "†",
+      "magnentSchool": "2-No",
+      "locale": "32-Town: Distant",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "8th Grade"
+      },
+      "students": "827",
+      "fte": "67.5",
+      "pupilTeacherRatio": "12.25"
+   },
+   {
+      "name": "Barstow Memorial School",
+      "location": {
+         "state": {
+            "name": "VERMONT",
+            "abbr": "VT "
+         }
+      },
+      "district": "Barstow Unified School District",
+      "level": "Elementary",
+      "type": "1-Regular school",
+      "charterSchool": "†",
+      "magnentSchool": "2-No",
+      "locale": "42-Rural: Distant",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "8th Grade"
+      },
+      "students": "214",
+      "fte": "17.1",
+      "pupilTeacherRatio": "12.51"
+   },
+   {
+      "name": "Barton Graded School",
+      "location": {
+         "state": {
+            "name": "VERMONT",
+            "abbr": "VT "
+         }
+      },
+      "district": "Lake Region Union Elementary Middle School District",
+      "level": "Elementary",
+      "type": "1-Regular school",
+      "charterSchool": "†",
+      "magnentSchool": "2-No",
+      "locale": "43-Rural: Remote",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "8th Grade"
+      },
+      "students": "181",
+      "fte": "13",
+      "pupilTeacherRatio": "13.92"
+   },
+   {
+      "name": "Beeman Elementary School",
+      "location": {
+         "state": {
+            "name": "VERMONT",
+            "abbr": "VT "
+         }
+      },
+      "district": "Mt. Abraham Unified School District",
+      "level": "Elementary",
+      "type": "1-Regular school",
+      "charterSchool": "†",
+      "magnentSchool": "2-No",
+      "locale": "42-Rural: Distant",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "6th Grade"
+      },
+      "students": "80",
+      "fte": "9.53",
+      "pupilTeacherRatio": "8.39"
+   },
+   {
+      "name": "Bellows Falls Middle School",
+      "location": {
+         "state": {
+            "name": "Vermont",
+            "abbr": "VT "
+         }
+      },
+      "district": "Rockingham School District",
+      "level": "Middle",
+      "type": "1-Regular school",
+      "charterSchool": "†",
+      "magnentSchool": "2-No",
+      "locale": "32-Town: Distant",
+      "grades": {
+         "lowest": "5th Grade",
+         "highest": "8th Grade"
+      },
+      "students": "258",
+      "fte": "19",
+      "pupilTeacherRatio": "13.58"
+   },
+   {
+      "name": "Bellows Falls UHSD #27",
+      "location": {
+         "state": {
+            "name": "Vermont",
+            "abbr": "VT "
+         }
+      },
+      "district": "Bellows Falls UHSD #27",
+      "level": "High",
+      "type": "1-Regular school",
+      "charterSchool": "†",
+      "magnentSchool": "2-No",
+      "locale": "41-Rural: Fringe",
+      "grades": {
+         "lowest": "9th Grade",
+         "highest": "12th Grade"
+      },
+      "students": "306",
+      "fte": "28.34",
+      "pupilTeacherRatio": "10.8"
+   },
+   {
+      "name": "Bellows Free Academy UHSD #48",
+      "location": {
+         "state": {
+            "name": "VERMONT",
+            "abbr": "VT "
+         }
+      },
+      "district": "Maple Run Unified School District",
+      "level": "High",
+      "type": "1-Regular school",
+      "charterSchool": "†",
+      "magnentSchool": "2-No",
+      "locale": "32-Town: Distant",
+      "grades": {
+         "lowest": "9th Grade",
+         "highest": "12th Grade"
+      },
+      "students": "854",
+      "fte": "77.8",
+      "pupilTeacherRatio": "10.98"
+   },
+   {
+      "name": "Bennington Elementary School",
+      "location": {
+         "state": {
+            "name": "VERMONT",
+            "abbr": "VT "
+         }
+      },
+      "district": "Southwest Vermont Union Elementary School District #87",
+      "level": "Elementary",
+      "type": "1-Regular school",
+      "charterSchool": "†",
+      "magnentSchool": "2-No",
+      "locale": "32-Town: Distant",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "5th Grade"
+      },
+      "students": "310",
+      "fte": "17.7",
+      "pupilTeacherRatio": "17.51"
+   },
+   {
+      "name": "Benson Village School",
+      "location": {
+         "state": {
+            "name": "VERMONT",
+            "abbr": "VT "
+         }
+      },
+      "district": "Slate Valley Unified Union School District #62",
+      "level": "Elementary",
+      "type": "1-Regular school",
+      "charterSchool": "†",
+      "magnentSchool": "2-No",
+      "locale": "42-Rural: Distant",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "8th Grade"
+      },
+      "students": "70",
+      "fte": "8.73",
+      "pupilTeacherRatio": "8.02"
+   },
+   {
+      "name": "Berkshire Elementary School",
+      "location": {
+         "state": {
+            "name": "VERMONT",
+            "abbr": "VT "
+         }
+      },
+      "district": "Northern Mountain Valley Unified Union School District #85",
+      "level": "Elementary",
+      "type": "1-Regular school",
+      "charterSchool": "†",
+      "magnentSchool": "2-No",
+      "locale": "43-Rural: Remote",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "8th Grade"
+      },
+      "students": "214",
+      "fte": "16.89",
+      "pupilTeacherRatio": "12.67"
+   },
+   {
+      "name": "Berlin Elementary School",
+      "location": {
+         "state": {
+            "name": "VERMONT",
+            "abbr": "VT "
+         }
+      },
+      "district": "Washington Central Unified Union School District #92",
+      "level": "Elementary",
+      "type": "1-Regular school",
+      "charterSchool": "†",
+      "magnentSchool": "2-No",
+      "locale": "41-Rural: Fringe",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "6th Grade"
+      },
+      "students": "207",
+      "fte": "16.34",
+      "pupilTeacherRatio": "12.67"
+   },
+   {
+      "name": "Bethel Elementary School",
+      "location": {
+         "state": {
+            "name": "VERMONT",
+            "abbr": "VT "
+         }
+      },
+      "district": "White River Unified School District",
+      "level": "Elementary",
+      "type": "1-Regular school",
+      "charterSchool": "†",
+      "magnentSchool": "2-No",
+      "locale": "43-Rural: Remote",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "5th Grade"
+      },
+      "students": "150",
+      "fte": "18.5",
+      "pupilTeacherRatio": "8.11"
+   },
+   {
+      "name": "Bfa Elementary School ? Fairfax",
+      "location": {
+         "state": {
+            "name": "Vermont",
+            "abbr": "VT "
+         }
+      },
+      "district": "Fairfax School District",
+      "level": "Elementary",
+      "type": "1-Regular school",
+      "charterSchool": "†",
+      "magnentSchool": "2-No",
+      "locale": "42-Rural: Distant",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "6th Grade"
+      },
+      "students": "566",
+      "fte": "31.53",
+      "pupilTeacherRatio": "17.95"
+   },
+   {
+      "name": "Bfa Middle/high School ? Fairfax",
+      "location": {
+         "state": {
+            "name": "Vermont",
+            "abbr": "VT "
+         }
+      },
+      "district": "Fairfax School District",
+      "level": "High",
+      "type": "1-Regular school",
+      "charterSchool": "†",
+      "magnentSchool": "2-No",
+      "locale": "42-Rural: Distant",
+      "grades": {
+         "lowest": "7th Grade",
+         "highest": "12th Grade"
+      },
+      "students": "446",
+      "fte": "34.37",
+      "pupilTeacherRatio": "12.98"
+   },
+   {
+      "name": "Bingham Memorial School",
+      "location": {
+         "state": {
+            "name": "VERMONT",
+            "abbr": "VT "
+         }
+      },
+      "district": "Addison Central Unified School District",
+      "level": "Elementary",
+      "type": "1-Regular school",
+      "charterSchool": "†",
+      "magnentSchool": "2-No",
+      "locale": "41-Rural: Fringe",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "6th Grade"
+      },
+      "students": "80",
+      "fte": "8",
+      "pupilTeacherRatio": "10"
+   },
+   {
+      "name": "Black River High School",
+      "location": {
+         "state": {
+            "name": "VERMONT",
+            "abbr": "VT "
+         }
+      },
+      "district": "Ludlow Mt. Holly Unified Union School District",
+      "level": "High",
+      "type": "1-Regular school",
+      "charterSchool": "†",
+      "magnentSchool": "2-No",
+      "locale": "42-Rural: Distant",
+      "grades": {
+         "lowest": "7th Grade",
+         "highest": "12th Grade"
+      },
+      "students": "103",
+      "fte": "13.3",
+      "pupilTeacherRatio": "7.74"
+   },
+   {
+      "name": "Blue Mountain USD #21",
+      "location": {
+         "state": {
+            "name": "Vermont",
+            "abbr": "VT "
+         }
+      },
+      "district": "Blue Mountain USD #21",
+      "level": "Other",
+      "type": "1-Regular school",
+      "charterSchool": "†",
+      "magnentSchool": "2-No",
+      "locale": "43-Rural: Remote",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "416",
+      "fte": "36.4",
+      "pupilTeacherRatio": "11.43"
+   },
+   {
+      "name": "Bradford Elementary School",
+      "location": {
+         "state": {
+            "name": "VERMONT",
+            "abbr": "VT "
+         }
+      },
+      "district": "Oxbow Unified Union School District #91",
+      "level": "Elementary",
+      "type": "1-Regular school",
+      "charterSchool": "†",
+      "magnentSchool": "2-No",
+      "locale": "43-Rural: Remote",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "6th Grade"
+      },
+      "students": "274",
+      "fte": "18",
+      "pupilTeacherRatio": "15.22"
+   },
+   {
+      "name": "Braintree School",
+      "location": {
+         "state": {
+            "name": "VERMONT",
+            "abbr": "VT "
+         }
+      },
+      "district": "Orange Southwest Unified School District",
+      "level": "Elementary",
+      "type": "1-Regular school",
+      "charterSchool": "†",
+      "magnentSchool": "2-No",
+      "locale": "43-Rural: Remote",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "6th Grade"
+      },
+      "students": "95",
+      "fte": "6.8",
+      "pupilTeacherRatio": "13.97"
+   },
+   {
+      "name": "Brattleboro Area Middle School",
+      "location": {
+         "state": {
+            "name": "VERMONT",
+            "abbr": "VT "
+         }
+      },
+      "district": "Windham Southeast Unified Union School District #96",
+      "level": "Middle",
+      "type": "1-Regular school",
+      "charterSchool": "†",
+      "magnentSchool": "2-No",
+      "locale": "32-Town: Distant",
+      "grades": {
+         "lowest": "7th Grade",
+         "highest": "8th Grade"
+      },
+      "students": "315",
+      "fte": "29",
+      "pupilTeacherRatio": "10.86"
+   },
+   {
+      "name": "Brattleboro Union High School",
+      "location": {
+         "state": {
+            "name": "VERMONT",
+            "abbr": "VT "
+         }
+      },
+      "district": "Windham Southeast Unified Union School District #96",
+      "level": "High",
+      "type": "1-Regular school",
+      "charterSchool": "†",
+      "magnentSchool": "2-No",
+      "locale": "32-Town: Distant",
+      "grades": {
+         "lowest": "9th Grade",
+         "highest": "12th Grade"
+      },
+      "students": "784",
+      "fte": "55.39",
+      "pupilTeacherRatio": "14.15"
+   },
+   {
+      "name": "Brewster Pierce School",
+      "location": {
+         "state": {
+            "name": "VERMONT",
+            "abbr": "VT "
+         }
+      },
+      "district": "Mount Mansfield Unified Union School District #401",
+      "level": "Elementary",
+      "type": "1-Regular school",
+      "charterSchool": "†",
+      "magnentSchool": "2-No",
+      "locale": "42-Rural: Distant",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "4th Grade"
+      },
+      "students": "146",
+      "fte": "11.95",
+      "pupilTeacherRatio": "12.22"
+   },
+   {
+      "name": "Bridport Central School",
+      "location": {
+         "state": {
+            "name": "VERMONT",
+            "abbr": "VT "
+         }
+      },
+      "district": "Addison Central Unified School District",
+      "level": "Elementary",
+      "type": "1-Regular school",
+      "charterSchool": "†",
+      "magnentSchool": "2-No",
+      "locale": "42-Rural: Distant",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "6th Grade"
+      },
+      "students": "66",
+      "fte": "7.15",
+      "pupilTeacherRatio": "9.23"
+   },
+   {
+      "name": "Brighton Elementary School",
+      "location": {
+         "state": {
+            "name": "Vermont",
+            "abbr": "VT "
+         }
+      },
+      "district": "Brighton School District",
+      "level": "Elementary",
+      "type": "1-Regular school",
+      "charterSchool": "†",
+      "magnentSchool": "2-No",
+      "locale": "43-Rural: Remote",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "8th Grade"
+      },
+      "students": "120",
+      "fte": "10.4",
+      "pupilTeacherRatio": "11.54"
+   },
+   {
+      "name": "Bristol Elementary School",
+      "location": {
+         "state": {
+            "name": "VERMONT",
+            "abbr": "VT "
+         }
+      },
+      "district": "Mt. Abraham Unified School District",
+      "level": "Elementary",
+      "type": "1-Regular school",
+      "charterSchool": "†",
+      "magnentSchool": "2-No",
+      "locale": "42-Rural: Distant",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "6th Grade"
+      },
+      "students": "403",
+      "fte": "19.6",
+      "pupilTeacherRatio": "20.56"
+   },
+   {
+      "name": "Brookfield School",
+      "location": {
+         "state": {
+            "name": "VERMONT",
+            "abbr": "VT "
+         }
+      },
+      "district": "Orange Southwest Unified School District",
+      "level": "Elementary",
+      "type": "1-Regular school",
+      "charterSchool": "†",
+      "magnentSchool": "2-No",
+      "locale": "42-Rural: Distant",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "6th Grade"
+      },
+      "students": "76",
+      "fte": "6.6",
+      "pupilTeacherRatio": "11.52"
+   },
+   {
+      "name": "Brown River Middle School",
+      "location": {
+         "state": {
+            "name": "VERMONT",
+            "abbr": "VT "
+         }
+      },
+      "district": "Mount Mansfield Unified Union School District #401",
+      "level": "Middle",
+      "type": "1-Regular school",
+      "charterSchool": "†",
+      "magnentSchool": "2-No",
+      "locale": "41-Rural: Fringe",
+      "grades": {
+         "lowest": "5th Grade",
+         "highest": "8th Grade"
+      },
+      "students": "365",
+      "fte": "38.97",
+      "pupilTeacherRatio": "9.37"
+   },
+   {
+      "name": "Brownington Central School",
+      "location": {
+         "state": {
+            "name": "VERMONT",
+            "abbr": "VT "
+         }
+      },
+      "district": "Lake Region Union Elementary Middle School District",
+      "level": "Elementary",
+      "type": "1-Regular school",
+      "charterSchool": "†",
+      "magnentSchool": "2-No",
+      "locale": "42-Rural: Distant",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "8th Grade"
+      },
+      "students": "116",
+      "fte": "10.3",
+      "pupilTeacherRatio": "11.26"
+   },
+   {
+      "name": "Burke Town School",
+      "location": {
+         "state": {
+            "name": "VERMONT",
+            "abbr": "VT "
+         }
+      },
+      "district": "Kingdom East Unified Union School District",
+      "level": "Elementary",
+      "type": "1-Regular school",
+      "charterSchool": "†",
+      "magnentSchool": "2-No",
+      "locale": "42-Rural: Distant",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "8th Grade"
+      },
+      "students": "227",
+      "fte": "20.85",
+      "pupilTeacherRatio": "10.89"
+   },
+   {
+      "name": "Burlington Senior High School",
+      "location": {
+         "state": {
+            "name": "Vermont",
+            "abbr": "VT "
+         }
+      },
+      "district": "Burlington School District",
+      "level": "High",
+      "type": "1-Regular school",
+      "charterSchool": "†",
+      "magnentSchool": "2-No",
+      "locale": "13-City: Small",
+      "grades": {
+         "lowest": "9th Grade",
+         "highest": "12th Grade"
+      },
+      "students": "995",
+      "fte": "74.23",
+      "pupilTeacherRatio": "13.4"
+   },
+   {
+      "name": "Burlington Technical Center",
+      "location": {
+         "state": {
+            "name": "Vermont",
+            "abbr": "VT "
+         }
+      },
+      "district": "Burlington School District",
+      "level": "High",
+      "type": "3-Vocational school",
+      "charterSchool": "†",
+      "magnentSchool": "2-No",
+      "locale": "13-City: Small",
+      "grades": {
+         "lowest": "9th Grade",
+         "highest": "12th Grade"
+      },
+      "students": "0",
+      "fte": "18",
+      "pupilTeacherRatio": "0.00"
+   },
+   {
+      "name": "C. P. Smith School",
+      "location": {
+         "state": {
+            "name": "Vermont",
+            "abbr": "VT "
+         }
+      },
+      "district": "Burlington School District",
+      "level": "Elementary",
+      "type": "1-Regular school",
+      "charterSchool": "†",
+      "magnentSchool": "2-No",
+      "locale": "13-City: Small",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "5th Grade"
+      },
+      "students": "261",
+      "fte": "22.03",
+      "pupilTeacherRatio": "11.85"
+   },
+   {
+      "name": "Cabot School",
+      "location": {
+         "state": {
+            "name": "Vermont",
+            "abbr": "VT "
+         }
+      },
+      "district": "Cabot School District",
+      "level": "Other",
+      "type": "1-Regular school",
+      "charterSchool": "†",
+      "magnentSchool": "2-No",
+      "locale": "43-Rural: Remote",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "155",
+      "fte": "25.14",
+      "pupilTeacherRatio": "6.17"
+   },
+   {
+      "name": "Calais Elementary School",
+      "location": {
+         "state": {
+            "name": "VERMONT",
+            "abbr": "VT "
+         }
+      },
+      "district": "Washington Central Unified Union School District #92",
+      "level": "Elementary",
+      "type": "1-Regular school",
+      "charterSchool": "†",
+      "magnentSchool": "2-No",
+      "locale": "42-Rural: Distant",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "6th Grade"
+      },
+      "students": "126",
+      "fte": "8.74",
+      "pupilTeacherRatio": "14.42"
+   },
+   {
+      "name": "Cambridge Elementary School",
+      "location": {
+         "state": {
+            "name": "Vermont",
+            "abbr": "VT "
+         }
+      },
+      "district": "Cambridge School District",
+      "level": "Elementary",
+      "type": "1-Regular school",
+      "charterSchool": "†",
+      "magnentSchool": "2-No",
+      "locale": "42-Rural: Distant",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "6th Grade"
+      },
+      "students": "358",
+      "fte": "26.72",
+      "pupilTeacherRatio": "13.4"
+   },
+   {
+      "name": "Camels Hump Middle School",
+      "location": {
+         "state": {
+            "name": "VERMONT",
+            "abbr": "VT "
+         }
+      },
+      "district": "Mount Mansfield Unified Union School District #401",
+      "level": "Middle",
+      "type": "1-Regular school",
+      "charterSchool": "†",
+      "magnentSchool": "2-No",
+      "locale": "41-Rural: Fringe",
+      "grades": {
+         "lowest": "5th Grade",
+         "highest": "8th Grade"
+      },
+      "students": "327",
+      "fte": "32.75",
+      "pupilTeacherRatio": "9.98"
+   },
+   {
+      "name": "Canaan Schools",
+      "location": {
+         "state": {
+            "name": "Vermont",
+            "abbr": "VT "
+         }
+      },
+      "district": "Canaan School District",
+      "level": "Other",
+      "type": "1-Regular school",
+      "charterSchool": "†",
+      "magnentSchool": "2-No",
+      "locale": "43-Rural: Remote",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "180",
+      "fte": "20.86",
+      "pupilTeacherRatio": "8.63"
+   },
+   {
+      "name": "Canal Street/oak Grove Schools",
+      "location": {
+         "state": {
+            "name": "VERMONT",
+            "abbr": "VT "
+         }
+      },
+      "district": "Windham Southeast Unified Union School District #96",
+      "level": "Elementary",
+      "type": "1-Regular school",
+      "charterSchool": "†",
+      "magnentSchool": "2-No",
+      "locale": "32-Town: Distant",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "6th Grade"
+      },
+      "students": "135",
+      "fte": "12.72",
+      "pupilTeacherRatio": "10.61"
+   },
+   {
+      "name": "Castleton Elementary School",
+      "location": {
+         "state": {
+            "name": "VERMONT",
+            "abbr": "VT "
+         }
+      },
+      "district": "Slate Valley Unified Union School District #62",
+      "level": "Elementary",
+      "type": "1-Regular school",
+      "charterSchool": "†",
+      "magnentSchool": "2-No",
+      "locale": "41-Rural: Fringe",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "5th Grade"
+      },
+      "students": "223",
+      "fte": "17.55",
+      "pupilTeacherRatio": "12.71"
+   },
+   {
+      "name": "Castleton Village School",
+      "location": {
+         "state": {
+            "name": "VERMONT",
+            "abbr": "VT "
+         }
+      },
+      "district": "Slate Valley Unified Union School District #62",
+      "level": "Middle",
+      "type": "1-Regular school",
+      "charterSchool": "†",
+      "magnentSchool": "2-No",
+      "locale": "32-Town: Distant",
+      "grades": {
+         "lowest": "6th Grade",
+         "highest": "8th Grade"
+      },
+      "students": "99",
+      "fte": "10.68",
+      "pupilTeacherRatio": "9.27"
+   },
+   {
+      "name": "Cavendish Town Elementary School",
+      "location": {
+         "state": {
+            "name": "VERMONT",
+            "abbr": "VT "
+         }
+      },
+      "district": "Green Mountain Unified School District",
+      "level": "Elementary",
+      "type": "1-Regular school",
+      "charterSchool": "†",
+      "magnentSchool": "2-No",
+      "locale": "42-Rural: Distant",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "6th Grade"
+      },
+      "students": "95",
+      "fte": "8",
+      "pupilTeacherRatio": "11.88"
+   },
+   {
+      "name": "Central Elementary School",
+      "location": {
+         "state": {
+            "name": "Vermont",
+            "abbr": "VT "
+         }
+      },
+      "district": "Rockingham School District",
+      "level": "Elementary",
+      "type": "1-Regular school",
+      "charterSchool": "†",
+      "magnentSchool": "2-No",
+      "locale": "32-Town: Distant",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "4th Grade"
+      },
+      "students": "236",
+      "fte": "12.96",
+      "pupilTeacherRatio": "18.21"
+   },
+   {
+      "name": "Central Vermont Career Center",
+      "location": {
+         "state": {
+            "name": "VERMONT",
+            "abbr": "VT "
+         }
+      },
+      "district": "Barre Unified Union School District #97",
+      "level": "High",
+      "type": "3-Vocational school",
+      "charterSchool": "†",
+      "magnentSchool": "2-No",
+      "locale": "32-Town: Distant",
+      "grades": {
+         "lowest": "9th Grade",
+         "highest": "12th Grade"
+      },
+      "students": "0",
+      "fte": "19",
+      "pupilTeacherRatio": "0.00"
+   },
+   {
+      "name": "Chamberlin School",
+      "location": {
+         "state": {
+            "name": "Vermont",
+            "abbr": "VT "
+         }
+      },
+      "district": "South Burlington School District",
+      "level": "Elementary",
+      "type": "1-Regular school",
+      "charterSchool": "†",
+      "magnentSchool": "2-No",
+      "locale": "13-City: Small",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "5th Grade"
+      },
+      "students": "520",
+      "fte": "22.4",
+      "pupilTeacherRatio": "23.21"
+   },
+   {
+      "name": "Champlain School",
+      "location": {
+         "state": {
+            "name": "Vermont",
+            "abbr": "VT "
+         }
+      },
+      "district": "Burlington School District",
+      "level": "Elementary",
+      "type": "1-Regular school",
+      "charterSchool": "†",
+      "magnentSchool": "2-No",
+      "locale": "13-City: Small",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "5th Grade"
+      },
+      "students": "666",
+      "fte": "23.1",
+      "pupilTeacherRatio": "28.83"
+   },
+   {
+      "name": "Champlain Valley Union High School",
+      "location": {
+         "state": {
+            "name": "VERMONT",
+            "abbr": "VT "
+         }
+      },
+      "district": "Champlain Valley Unified School District",
+      "level": "High",
+      "type": "1-Regular school",
+      "charterSchool": "†",
+      "magnentSchool": "2-No",
+      "locale": "42-Rural: Distant",
+      "grades": {
+         "lowest": "9th Grade",
+         "highest": "12th Grade"
+      },
+      "students": "1305",
+      "fte": "91.33",
+      "pupilTeacherRatio": "14.29"
+   },
+   {
+      "name": "Charleston Elementary School",
+      "location": {
+         "state": {
+            "name": "Vermont",
+            "abbr": "VT "
+         }
+      },
+      "district": "Charleston School District",
+      "level": "Elementary",
+      "type": "1-Regular school",
+      "charterSchool": "†",
+      "magnentSchool": "2-No",
+      "locale": "42-Rural: Distant",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "8th Grade"
+      },
+      "students": "114",
+      "fte": "11.34",
+      "pupilTeacherRatio": "10.05"
+   },
+   {
+      "name": "Charlotte Central School",
+      "location": {
+         "state": {
+            "name": "VERMONT",
+            "abbr": "VT "
+         }
+      },
+      "district": "Champlain Valley Unified School District",
+      "level": "Elementary",
+      "type": "1-Regular school",
+      "charterSchool": "†",
+      "magnentSchool": "2-No",
+      "locale": "41-Rural: Fringe",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "8th Grade"
+      },
+      "students": "423",
+      "fte": "25.95",
+      "pupilTeacherRatio": "16.3"
+   },
+   {
+      "name": "Chelsea Elementary Middle School",
+      "location": {
+         "state": {
+            "name": "VERMONT",
+            "abbr": "VT "
+         }
+      },
+      "district": "First Branch Unified School District",
+      "level": "Elementary",
+      "type": "1-Regular school",
+      "charterSchool": "†",
+      "magnentSchool": "2-No",
+      "locale": "42-Rural: Distant",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "8th Grade"
+      },
+      "students": "129",
+      "fte": "13",
+      "pupilTeacherRatio": "9.92"
+   },
+   {
+      "name": "Chester Andover Elementary School",
+      "location": {
+         "state": {
+            "name": "VERMONT",
+            "abbr": "VT "
+         }
+      },
+      "district": "Green Mountain Unified School District",
+      "level": "Elementary",
+      "type": "1-Regular school",
+      "charterSchool": "†",
+      "magnentSchool": "2-No",
+      "locale": "42-Rural: Distant",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "6th Grade"
+      },
+      "students": "277",
+      "fte": "17.1",
+      "pupilTeacherRatio": "16.2"
+   },
+   {
+      "name": "Clarendon Elementary School",
+      "location": {
+         "state": {
+            "name": "VERMONT",
+            "abbr": "VT "
+         }
+      },
+      "district": "Mill River Unified School District",
+      "level": "Elementary",
+      "type": "1-Regular school",
+      "charterSchool": "†",
+      "magnentSchool": "2-No",
+      "locale": "32-Town: Distant",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "6th Grade"
+      },
+      "students": "183",
+      "fte": "10.6",
+      "pupilTeacherRatio": "17.26"
+   },
+   {
+      "name": "Colchester High School",
+      "location": {
+         "state": {
+            "name": "Vermont",
+            "abbr": "VT "
+         }
+      },
+      "district": "Colchester School District",
+      "level": "High",
+      "type": "1-Regular school",
+      "charterSchool": "†",
+      "magnentSchool": "2-No",
+      "locale": "41-Rural: Fringe",
+      "grades": {
+         "lowest": "9th Grade",
+         "highest": "12th Grade"
+      },
+      "students": "643",
+      "fte": "59.3",
+      "pupilTeacherRatio": "10.84"
+   },
+   {
+      "name": "Colchester Middle School",
+      "location": {
+         "state": {
+            "name": "Vermont",
+            "abbr": "VT "
+         }
+      },
+      "district": "Colchester School District",
+      "level": "Middle",
+      "type": "1-Regular school",
+      "charterSchool": "†",
+      "magnentSchool": "2-No",
+      "locale": "22-Suburb: Mid-size",
+      "grades": {
+         "lowest": "6th Grade",
+         "highest": "8th Grade"
+      },
+      "students": "515",
+      "fte": "40.3",
+      "pupilTeacherRatio": "12.78"
+   },
+   {
+      "name": "Cold Hollow Career Center",
+      "location": {
+         "state": {
+            "name": "VERMONT",
+            "abbr": "VT "
+         }
+      },
+      "district": "Enosburgh-Richford Unified Union School District #88",
+      "level": "High",
+      "type": "3-Vocational school",
+      "charterSchool": "†",
+      "magnentSchool": "2-No",
+      "locale": "43-Rural: Remote",
+      "grades": {
+         "lowest": "9th Grade",
+         "highest": "12th Grade"
+      },
+      "students": "0",
+      "fte": "8.5",
+      "pupilTeacherRatio": "0.00"
+   },
+   {
+      "name": "Concord Graded/middle School",
+      "location": {
+         "state": {
+            "name": "VERMONT",
+            "abbr": "VT "
+         }
+      },
+      "district": "Kingdom East Unified Union School District",
+      "level": "Elementary",
+      "type": "1-Regular school",
+      "charterSchool": "†",
+      "magnentSchool": "2-No",
+      "locale": "42-Rural: Distant",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "8th Grade"
+      },
+      "students": "109",
+      "fte": "13.2",
+      "pupilTeacherRatio": "8.26"
+   },
+   {
+      "name": "Coventry Village School",
+      "location": {
+         "state": {
+            "name": "Vermont",
+            "abbr": "VT "
+         }
+      },
+      "district": "Coventry School District",
+      "level": "Elementary",
+      "type": "1-Regular school",
+      "charterSchool": "†",
+      "magnentSchool": "2-No",
+      "locale": "42-Rural: Distant",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "8th Grade"
+      },
+      "students": "139",
+      "fte": "11",
+      "pupilTeacherRatio": "12.64"
+   },
+   {
+      "name": "Craftsbury Schools",
+      "location": {
+         "state": {
+            "name": "Vermont",
+            "abbr": "VT "
+         }
+      },
+      "district": "Craftsbury School District",
+      "level": "Other",
+      "type": "1-Regular school",
+      "charterSchool": "†",
+      "magnentSchool": "2-No",
+      "locale": "43-Rural: Remote",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "210",
+      "fte": "21.19",
+      "pupilTeacherRatio": "9.91"
+   },
+   {
+      "name": "Crossett Brook Middle School",
+      "location": {
+         "state": {
+            "name": "VERMONT",
+            "abbr": "VT "
+         }
+      },
+      "district": "Harwood Unified School District",
+      "level": "Middle",
+      "type": "1-Regular school",
+      "charterSchool": "†",
+      "magnentSchool": "2-No",
+      "locale": "41-Rural: Fringe",
+      "grades": {
+         "lowest": "5th Grade",
+         "highest": "8th Grade"
+      },
+      "students": "303",
+      "fte": "29",
+      "pupilTeacherRatio": "10.45"
+   },
+   {
+      "name": "Currier Memorial Union School",
+      "location": {
+         "state": {
+            "name": "VERMONT",
+            "abbr": "VT "
+         }
+      },
+      "district": "Taconic and Green Regional School District",
+      "level": "Elementary",
+      "type": "1-Regular school",
+      "charterSchool": "†",
+      "magnentSchool": "2-No",
+      "locale": "43-Rural: Remote",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "5th Grade"
+      },
+      "students": "86",
+      "fte": "7.1",
+      "pupilTeacherRatio": "12.11"
+   },
+   {
+      "name": "Danville School",
+      "location": {
+         "state": {
+            "name": "Vermont",
+            "abbr": "VT "
+         }
+      },
+      "district": "Danville School District",
+      "level": "Other",
+      "type": "1-Regular school",
+      "charterSchool": "†",
+      "magnentSchool": "2-No",
+      "locale": "42-Rural: Distant",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "378",
+      "fte": "43.32",
+      "pupilTeacherRatio": "8.73"
+   },
+   {
+      "name": "Derby Elementary School",
+      "location": {
+         "state": {
+            "name": "Vermont",
+            "abbr": "VT "
+         }
+      },
+      "district": "Derby School District",
+      "level": "Elementary",
+      "type": "1-Regular school",
+      "charterSchool": "†",
+      "magnentSchool": "2-No",
+      "locale": "42-Rural: Distant",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "6th Grade"
+      },
+      "students": "495",
+      "fte": "32.5",
+      "pupilTeacherRatio": "15.23"
+   },
+   {
+      "name": "Dorset Elementary School",
+      "location": {
+         "state": {
+            "name": "VERMONT",
+            "abbr": "VT "
+         }
+      },
+      "district": "Taconic and Green Regional School District",
+      "level": "Elementary",
+      "type": "1-Regular school",
+      "charterSchool": "†",
+      "magnentSchool": "2-No",
+      "locale": "43-Rural: Remote",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "8th Grade"
+      },
+      "students": "181",
+      "fte": "14.4",
+      "pupilTeacherRatio": "12.57"
+   },
+   {
+      "name": "Dothan Brook School",
+      "location": {
+         "state": {
+            "name": "Vermont",
+            "abbr": "VT "
+         }
+      },
+      "district": "Hartford School District",
+      "level": "Elementary",
+      "type": "1-Regular school",
+      "charterSchool": "†",
+      "magnentSchool": "2-No",
+      "locale": "41-Rural: Fringe",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "5th Grade"
+      },
+      "students": "266",
+      "fte": "21.78",
+      "pupilTeacherRatio": "12.21"
+   },
+   {
+      "name": "Doty Memorial School",
+      "location": {
+         "state": {
+            "name": "VERMONT",
+            "abbr": "VT "
+         }
+      },
+      "district": "Washington Central Unified Union School District #92",
+      "level": "Elementary",
+      "type": "1-Regular school",
+      "charterSchool": "†",
+      "magnentSchool": "2-No",
+      "locale": "42-Rural: Distant",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "6th Grade"
+      },
+      "students": "81",
+      "fte": "7.22",
+      "pupilTeacherRatio": "11.22"
+   },
+   {
+      "name": "Dover Elementary School",
+      "location": {
+         "state": {
+            "name": "VERMONT",
+            "abbr": "VT "
+         }
+      },
+      "district": "River Valleys Unified School District #73",
+      "level": "Elementary",
+      "type": "1-Regular school",
+      "charterSchool": "†",
+      "magnentSchool": "2-No",
+      "locale": "42-Rural: Distant",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "6th Grade"
+      },
+      "students": "97",
+      "fte": "9.7",
+      "pupilTeacherRatio": "10"
+   },
+   {
+      "name": "Dummerston Schools",
+      "location": {
+         "state": {
+            "name": "VERMONT",
+            "abbr": "VT "
+         }
+      },
+      "district": "Windham Southeast Unified Union School District #96",
+      "level": "Elementary",
+      "type": "1-Regular school",
+      "charterSchool": "†",
+      "magnentSchool": "2-No",
+      "locale": "42-Rural: Distant",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "8th Grade"
+      },
+      "students": "170",
+      "fte": "14.7",
+      "pupilTeacherRatio": "11.56"
+   },
+   {
+      "name": "East Montpelier Elementary School",
+      "location": {
+         "state": {
+            "name": "VERMONT",
+            "abbr": "VT "
+         }
+      },
+      "district": "Washington Central Unified Union School District #92",
+      "level": "Elementary",
+      "type": "1-Regular school",
+      "charterSchool": "†",
+      "magnentSchool": "2-No",
+      "locale": "42-Rural: Distant",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "6th Grade"
+      },
+      "students": "236",
+      "fte": "16.04",
+      "pupilTeacherRatio": "14.71"
+   },
+   {
+      "name": "Eden Central School",
+      "location": {
+         "state": {
+            "name": "VERMONT",
+            "abbr": "VT "
+         }
+      },
+      "district": "Lamoille North Modified USD #058a",
+      "level": "Elementary",
+      "type": "1-Regular school",
+      "charterSchool": "†",
+      "magnentSchool": "2-No",
+      "locale": "42-Rural: Distant",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "6th Grade"
+      },
+      "students": "145",
+      "fte": "11.4",
+      "pupilTeacherRatio": "12.72"
+   },
+   {
+      "name": "Edmunds Elementary School",
+      "location": {
+         "state": {
+            "name": "Vermont",
+            "abbr": "VT "
+         }
+      },
+      "district": "Burlington School District",
+      "level": "Elementary",
+      "type": "1-Regular school",
+      "charterSchool": "†",
+      "magnentSchool": "2-No",
+      "locale": "13-City: Small",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "5th Grade"
+      },
+      "students": "273",
+      "fte": "23",
+      "pupilTeacherRatio": "11.87"
+   },
+   {
+      "name": "Edmunds Middle School",
+      "location": {
+         "state": {
+            "name": "Vermont",
+            "abbr": "VT "
+         }
+      },
+      "district": "Burlington School District",
+      "level": "Middle",
+      "type": "1-Regular school",
+      "charterSchool": "†",
+      "magnentSchool": "2-No",
+      "locale": "13-City: Small",
+      "grades": {
+         "lowest": "6th Grade",
+         "highest": "8th Grade"
+      },
+      "students": "404",
+      "fte": "35.5",
+      "pupilTeacherRatio": "11.38"
+   },
+   {
+      "name": "Elm Hill School",
+      "location": {
+         "state": {
+            "name": "Vermont",
+            "abbr": "VT "
+         }
+      },
+      "district": "Springfield School District",
+      "level": "Elementary",
+      "type": "1-Regular school",
+      "charterSchool": "†",
+      "magnentSchool": "2-No",
+      "locale": "41-Rural: Fringe",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "2nd Grade"
+      },
+      "students": "368",
+      "fte": "23",
+      "pupilTeacherRatio": "16"
+   },
+   {
+      "name": "Enosburg Falls Elementary School",
+      "location": {
+         "state": {
+            "name": "VERMONT",
+            "abbr": "VT "
+         }
+      },
+      "district": "Enosburgh-Richford Unified Union School District #88",
+      "level": "Elementary",
+      "type": "1-Regular school",
+      "charterSchool": "†",
+      "magnentSchool": "2-No",
+      "locale": "43-Rural: Remote",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "5th Grade"
+      },
+      "students": "269",
+      "fte": "19.9",
+      "pupilTeacherRatio": "13.52"
+   },
+   {
+      "name": "Enosburg Falls Junior/senior High School",
+      "location": {
+         "state": {
+            "name": "VERMONT",
+            "abbr": "VT "
+         }
+      },
+      "district": "Enosburgh-Richford Unified Union School District #88",
+      "level": "High",
+      "type": "1-Regular school",
+      "charterSchool": "†",
+      "magnentSchool": "2-No",
+      "locale": "43-Rural: Remote",
+      "grades": {
+         "lowest": "6th Grade",
+         "highest": "12th Grade"
+      },
+      "students": "424",
+      "fte": "33",
+      "pupilTeacherRatio": "12.85"
+   },
+   {
+      "name": "Essex Elementary School",
+      "location": {
+         "state": {
+            "name": "VERMONT",
+            "abbr": "VT "
+         }
+      },
+      "district": "Essex-Westford Educational Community Unified School District",
+      "level": "Elementary",
+      "type": "1-Regular school",
+      "charterSchool": "†",
+      "magnentSchool": "2-No",
+      "locale": "41-Rural: Fringe",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "2nd Grade"
+      },
+      "students": "554",
+      "fte": "33.3",
+      "pupilTeacherRatio": "16.64"
+   },
+   {
+      "name": "Essex High School",
+      "location": {
+         "state": {
+            "name": "VERMONT",
+            "abbr": "VT "
+         }
+      },
+      "district": "Essex-Westford Educational Community Unified School District",
+      "level": "High",
+      "type": "1-Regular school",
+      "charterSchool": "†",
+      "magnentSchool": "2-No",
+      "locale": "22-Suburb: Mid-size",
+      "grades": {
+         "lowest": "9th Grade",
+         "highest": "12th Grade"
+      },
+      "students": "1214",
+      "fte": "100.17",
+      "pupilTeacherRatio": "12.12"
+   },
+   {
+      "name": "Essex Middle School",
+      "location": {
+         "state": {
+            "name": "VERMONT",
+            "abbr": "VT "
+         }
+      },
+      "district": "Essex-Westford Educational Community Unified School District",
+      "level": "Middle",
+      "type": "1-Regular school",
+      "charterSchool": "†",
+      "magnentSchool": "2-No",
+      "locale": "22-Suburb: Mid-size",
+      "grades": {
+         "lowest": "6th Grade",
+         "highest": "8th Grade"
+      },
+      "students": "429",
+      "fte": "34.17",
+      "pupilTeacherRatio": "12.55"
+   },
+   {
+      "name": "Fair Haven Grade School",
+      "location": {
+         "state": {
+            "name": "VERMONT",
+            "abbr": "VT "
+         }
+      },
+      "district": "Slate Valley Unified Union School District #62",
+      "level": "Elementary",
+      "type": "1-Regular school",
+      "charterSchool": "†",
+      "magnentSchool": "2-No",
+      "locale": "32-Town: Distant",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "8th Grade"
+      },
+      "students": "342",
+      "fte": "30.93",
+      "pupilTeacherRatio": "11.06"
+   },
+   {
+      "name": "Fair Haven Union High School",
+      "location": {
+         "state": {
+            "name": "VERMONT",
+            "abbr": "VT "
+         }
+      },
+      "district": "Slate Valley Unified Union School District #62",
+      "level": "High",
+      "type": "1-Regular school",
+      "charterSchool": "†",
+      "magnentSchool": "2-No",
+      "locale": "32-Town: Distant",
+      "grades": {
+         "lowest": "9th Grade",
+         "highest": "12th Grade"
+      },
+      "students": "356",
+      "fte": "28.4",
+      "pupilTeacherRatio": "12.54"
+   },
+   {
+      "name": "Fairfield Center School",
+      "location": {
+         "state": {
+            "name": "VERMONT",
+            "abbr": "VT "
+         }
+      },
+      "district": "Maple Run Unified School District",
+      "level": "Elementary",
+      "type": "1-Regular school",
+      "charterSchool": "†",
+      "magnentSchool": "2-No",
+      "locale": "42-Rural: Distant",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "8th Grade"
+      },
+      "students": "270",
+      "fte": "20.2",
+      "pupilTeacherRatio": "13.37"
+   },
+   {
+      "name": "Fayston Elementary School",
+      "location": {
+         "state": {
+            "name": "VERMONT",
+            "abbr": "VT "
+         }
+      },
+      "district": "Harwood Unified School District",
+      "level": "Elementary",
+      "type": "1-Regular school",
+      "charterSchool": "†",
+      "magnentSchool": "2-No",
+      "locale": "42-Rural: Distant",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "6th Grade"
+      },
+      "students": "76",
+      "fte": "8.35",
+      "pupilTeacherRatio": "9.1"
+   },
+   {
+      "name": "Ferrisburgh Central School",
+      "location": {
+         "state": {
+            "name": "VERMONT",
+            "abbr": "VT "
+         }
+      },
+      "district": "Addison Northwest Unified School District",
+      "level": "Elementary",
+      "type": "1-Regular school",
+      "charterSchool": "†",
+      "magnentSchool": "2-No",
+      "locale": "41-Rural: Fringe",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "6th Grade"
+      },
+      "students": "167",
+      "fte": "11.6",
+      "pupilTeacherRatio": "14.4"
+   },
+   {
+      "name": "Fisher School",
+      "location": {
+         "state": {
+            "name": "Vermont",
+            "abbr": "VT "
+         }
+      },
+      "district": "Arlington School District",
+      "level": "Elementary",
+      "type": "1-Regular school",
+      "charterSchool": "†",
+      "magnentSchool": "2-No",
+      "locale": "42-Rural: Distant",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "5th Grade"
+      },
+      "students": "211",
+      "fte": "19",
+      "pupilTeacherRatio": "11.11"
+   },
+   {
+      "name": "Fletcher Elementary School",
+      "location": {
+         "state": {
+            "name": "Vermont",
+            "abbr": "VT "
+         }
+      },
+      "district": "Fletcher School District",
+      "level": "Elementary",
+      "type": "1-Regular school",
+      "charterSchool": "†",
+      "magnentSchool": "2-No",
+      "locale": "42-Rural: Distant",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "6th Grade"
+      },
+      "students": "113",
+      "fte": "9",
+      "pupilTeacherRatio": "12.56"
+   },
+   {
+      "name": "Flood Brook School",
+      "location": {
+         "state": {
+            "name": "VERMONT",
+            "abbr": "VT "
+         }
+      },
+      "district": "Taconic and Green Regional School District",
+      "level": "Elementary",
+      "type": "1-Regular school",
+      "charterSchool": "†",
+      "magnentSchool": "2-No",
+      "locale": "43-Rural: Remote",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "8th Grade"
+      },
+      "students": "330",
+      "fte": "23.56",
+      "pupilTeacherRatio": "14.01"
+   },
+   {
+      "name": "Folsum Education & Community Center",
+      "location": {
+         "state": {
+            "name": "Vermont",
+            "abbr": "VT "
+         }
+      },
+      "district": "South Hero School District",
+      "level": "Elementary",
+      "type": "1-Regular school",
+      "charterSchool": "†",
+      "magnentSchool": "2-No",
+      "locale": "42-Rural: Distant",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "8th Grade"
+      },
+      "students": "149",
+      "fte": "15.1",
+      "pupilTeacherRatio": "9.87"
+   },
+   {
+      "name": "Founders Memorial School",
+      "location": {
+         "state": {
+            "name": "VERMONT",
+            "abbr": "VT "
+         }
+      },
+      "district": "Essex-Westford Educational Community Unified School District",
+      "level": "Elementary",
+      "type": "1-Regular school",
+      "charterSchool": "†",
+      "magnentSchool": "2-No",
+      "locale": "22-Suburb: Mid-size",
+      "grades": {
+         "lowest": "3rd Grade",
+         "highest": "5th Grade"
+      },
+      "students": "393",
+      "fte": "32.26",
+      "pupilTeacherRatio": "12.18"
+   },
+   {
+      "name": "Franklin Central School",
+      "location": {
+         "state": {
+            "name": "VERMONT",
+            "abbr": "VT "
+         }
+      },
+      "district": "Missisquoi Valley School District #89",
+      "level": "Elementary",
+      "type": "1-Regular school",
+      "charterSchool": "†",
+      "magnentSchool": "2-No",
+      "locale": "42-Rural: Distant",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "6th Grade"
+      },
+      "students": "135",
+      "fte": "12",
+      "pupilTeacherRatio": "11.25"
+   },
+   {
+      "name": "Frederick H. Tuttle Middle School",
+      "location": {
+         "state": {
+            "name": "Vermont",
+            "abbr": "VT "
+         }
+      },
+      "district": "South Burlington School District",
+      "level": "Middle",
+      "type": "1-Regular school",
+      "charterSchool": "†",
+      "magnentSchool": "2-No",
+      "locale": "13-City: Small",
+      "grades": {
+         "lowest": "6th Grade",
+         "highest": "8th Grade"
+      },
+      "students": "563",
+      "fte": "41.05",
+      "pupilTeacherRatio": "13.71"
+   },
+   {
+      "name": "Georgia Elementary & Middle School",
+      "location": {
+         "state": {
+            "name": "Vermont",
+            "abbr": "VT "
+         }
+      },
+      "district": "Georgia School District",
+      "level": "Elementary",
+      "type": "1-Regular school",
+      "charterSchool": "†",
+      "magnentSchool": "2-No",
+      "locale": "41-Rural: Fringe",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "8th Grade"
+      },
+      "students": "674",
+      "fte": "53",
+      "pupilTeacherRatio": "12.72"
+   },
+   {
+      "name": "Glover Village School",
+      "location": {
+         "state": {
+            "name": "VERMONT",
+            "abbr": "VT "
+         }
+      },
+      "district": "Lake Region Union Elementary Middle School District",
+      "level": "Elementary",
+      "type": "1-Regular school",
+      "charterSchool": "†",
+      "magnentSchool": "2-No",
+      "locale": "43-Rural: Remote",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "8th Grade"
+      },
+      "students": "102",
+      "fte": "9.4",
+      "pupilTeacherRatio": "10.85"
+   },
+   {
+      "name": "Grafton Elementary School",
+      "location": {
+         "state": {
+            "name": "VERMONT",
+            "abbr": "VT "
+         }
+      },
+      "district": "Windham Northeast Union Elementary School District #95",
+      "level": "Elementary",
+      "type": "1-Regular school",
+      "charterSchool": "†",
+      "magnentSchool": "2-No",
+      "locale": "42-Rural: Distant",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "6th Grade"
+      },
+      "students": "57",
+      "fte": "6.8",
+      "pupilTeacherRatio": "8.38"
+   },
+   {
+      "name": "Grand Isle Elementary School",
+      "location": {
+         "state": {
+            "name": "VERMONT",
+            "abbr": "VT "
+         }
+      },
+      "district": "Champlain Islands Unified Union School District #66",
+      "level": "Elementary",
+      "type": "1-Regular school",
+      "charterSchool": "†",
+      "magnentSchool": "2-No",
+      "locale": "42-Rural: Distant",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "6th Grade"
+      },
+      "students": "152",
+      "fte": "15.8",
+      "pupilTeacherRatio": "9.62"
+   },
+   {
+      "name": "Green Mountain Technology and Career Center",
+      "location": {
+         "state": {
+            "name": "VERMONT",
+            "abbr": "VT "
+         }
+      },
+      "district": "Lamoille North Modified USD #058b",
+      "level": "High",
+      "type": "3-Vocational school",
+      "charterSchool": "†",
+      "magnentSchool": "2-No",
+      "locale": "42-Rural: Distant",
+      "grades": {
+         "lowest": "9th Grade",
+         "highest": "12th Grade"
+      },
+      "students": "0",
+      "fte": "16",
+      "pupilTeacherRatio": "0.00"
+   },
+   {
+      "name": "Green Mountain Union High School",
+      "location": {
+         "state": {
+            "name": "VERMONT",
+            "abbr": "VT "
+         }
+      },
+      "district": "Green Mountain Unified School District",
+      "level": "High",
+      "type": "1-Regular school",
+      "charterSchool": "†",
+      "magnentSchool": "2-No",
+      "locale": "42-Rural: Distant",
+      "grades": {
+         "lowest": "7th Grade",
+         "highest": "12th Grade"
+      },
+      "students": "306",
+      "fte": "28.43",
+      "pupilTeacherRatio": "10.76"
+   },
+   {
+      "name": "Green Street School",
+      "location": {
+         "state": {
+            "name": "VERMONT",
+            "abbr": "VT "
+         }
+      },
+      "district": "Windham Southeast Unified Union School District #96",
+      "level": "Elementary",
+      "type": "1-Regular school",
+      "charterSchool": "†",
+      "magnentSchool": "2-No",
+      "locale": "32-Town: Distant",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "6th Grade"
+      },
+      "students": "282",
+      "fte": "24.12",
+      "pupilTeacherRatio": "11.69"
+   },
+   {
+      "name": "Guilford Central School",
+      "location": {
+         "state": {
+            "name": "VERMONT",
+            "abbr": "VT "
+         }
+      },
+      "district": "Windham Southeast Unified Union School District #96",
+      "level": "Elementary",
+      "type": "1-Regular school",
+      "charterSchool": "†",
+      "magnentSchool": "2-No",
+      "locale": "42-Rural: Distant",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "6th Grade"
+      },
+      "students": "136",
+      "fte": "12.5",
+      "pupilTeacherRatio": "10.88"
+   },
+   {
+      "name": "Halifax West School",
+      "location": {
+         "state": {
+            "name": "VERMONT",
+            "abbr": "VT "
+         }
+      },
+      "district": "Southern Valley Unified School District",
+      "level": "Elementary",
+      "type": "1-Regular school",
+      "charterSchool": "†",
+      "magnentSchool": "2-No",
+      "locale": "42-Rural: Distant",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "8th Grade"
+      },
+      "students": "80",
+      "fte": "6.8",
+      "pupilTeacherRatio": "11.76"
+   },
+   {
+      "name": "Hardwick Elementary School",
+      "location": {
+         "state": {
+            "name": "VERMONT",
+            "abbr": "VT "
+         }
+      },
+      "district": "Orleans Southwest Union Elementary School District #94",
+      "level": "Elementary",
+      "type": "1-Regular school",
+      "charterSchool": "†",
+      "magnentSchool": "2-No",
+      "locale": "43-Rural: Remote",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "6th Grade"
+      },
+      "students": "257",
+      "fte": "22.46",
+      "pupilTeacherRatio": "11.44"
+   },
+   {
+      "name": "Hartford Area Career & Technology Center",
+      "location": {
+         "state": {
+            "name": "Vermont",
+            "abbr": "VT "
+         }
+      },
+      "district": "Hartford School District",
+      "level": "High",
+      "type": "3-Vocational school",
+      "charterSchool": "†",
+      "magnentSchool": "2-No",
+      "locale": "33-Town: Remote",
+      "grades": {
+         "lowest": "9th Grade",
+         "highest": "12th Grade"
+      },
+      "students": "0",
+      "fte": "18",
+      "pupilTeacherRatio": "0.00"
+   },
+   {
+      "name": "Hartford High School",
+      "location": {
+         "state": {
+            "name": "Vermont",
+            "abbr": "VT "
+         }
+      },
+      "district": "Hartford School District",
+      "level": "High",
+      "type": "1-Regular school",
+      "charterSchool": "†",
+      "magnentSchool": "2-No",
+      "locale": "33-Town: Remote",
+      "grades": {
+         "lowest": "9th Grade",
+         "highest": "12th Grade"
+      },
+      "students": "509",
+      "fte": "52.57",
+      "pupilTeacherRatio": "9.68"
+   },
+   {
+      "name": "Hartford Memorial Middle School",
+      "location": {
+         "state": {
+            "name": "Vermont",
+            "abbr": "VT "
+         }
+      },
+      "district": "Hartford School District",
+      "level": "Middle",
+      "type": "1-Regular school",
+      "charterSchool": "†",
+      "magnentSchool": "2-No",
+      "locale": "33-Town: Remote",
+      "grades": {
+         "lowest": "6th Grade",
+         "highest": "8th Grade"
+      },
+      "students": "312",
+      "fte": "34",
+      "pupilTeacherRatio": "9.18"
+   },
+   {
+      "name": "Hartland Elementary School",
+      "location": {
+         "state": {
+            "name": "Vermont",
+            "abbr": "VT "
+         }
+      },
+      "district": "Hartland School District",
+      "level": "Elementary",
+      "type": "1-Regular school",
+      "charterSchool": "†",
+      "magnentSchool": "2-No",
+      "locale": "42-Rural: Distant",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "8th Grade"
+      },
+      "students": "310",
+      "fte": "21.4",
+      "pupilTeacherRatio": "14.49"
+   },
+   {
+      "name": "Harwood Union Middle/high School",
+      "location": {
+         "state": {
+            "name": "VERMONT",
+            "abbr": "VT "
+         }
+      },
+      "district": "Harwood Unified School District",
+      "level": "High",
+      "type": "1-Regular school",
+      "charterSchool": "†",
+      "magnentSchool": "2-No",
+      "locale": "42-Rural: Distant",
+      "grades": {
+         "lowest": "7th Grade",
+         "highest": "12th Grade"
+      },
+      "students": "592",
+      "fte": "63.65",
+      "pupilTeacherRatio": "9.3"
+   },
+   {
+      "name": "Hazen UHSD # 26",
+      "location": {
+         "state": {
+            "name": "Vermont",
+            "abbr": "VT "
+         }
+      },
+      "district": "Hazen UHSD #26",
+      "level": "High",
+      "type": "1-Regular school",
+      "charterSchool": "†",
+      "magnentSchool": "2-No",
+      "locale": "43-Rural: Remote",
+      "grades": {
+         "lowest": "7th Grade",
+         "highest": "12th Grade"
+      },
+      "students": "290",
+      "fte": "31.5",
+      "pupilTeacherRatio": "9.21"
+   },
+   {
+      "name": "Hiawatha School",
+      "location": {
+         "state": {
+            "name": "VERMONT",
+            "abbr": "VT "
+         }
+      },
+      "district": "Essex-Westford Educational Community Unified School District",
+      "level": "Elementary",
+      "type": "1-Regular school",
+      "charterSchool": "†",
+      "magnentSchool": "2-No",
+      "locale": "22-Suburb: Mid-size",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "3rd Grade"
+      },
+      "students": "210",
+      "fte": "19.3",
+      "pupilTeacherRatio": "10.88"
+   },
+   {
+      "name": "Highgate School",
+      "location": {
+         "state": {
+            "name": "VERMONT",
+            "abbr": "VT "
+         }
+      },
+      "district": "Missisquoi Valley School District #89",
+      "level": "Elementary",
+      "type": "1-Regular school",
+      "charterSchool": "†",
+      "magnentSchool": "2-No",
+      "locale": "41-Rural: Fringe",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "6th Grade"
+      },
+      "students": "293",
+      "fte": "33.8",
+      "pupilTeacherRatio": "8.67"
+   },
+   {
+      "name": "Hinesburg Elementary School",
+      "location": {
+         "state": {
+            "name": "VERMONT",
+            "abbr": "VT "
+         }
+      },
+      "district": "Champlain Valley Unified School District",
+      "level": "Elementary",
+      "type": "1-Regular school",
+      "charterSchool": "†",
+      "magnentSchool": "2-No",
+      "locale": "42-Rural: Distant",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "8th Grade"
+      },
+      "students": "607",
+      "fte": "34.2",
+      "pupilTeacherRatio": "17.75"
+   },
+   {
+      "name": "Hyde Park Elementary School",
+      "location": {
+         "state": {
+            "name": "VERMONT",
+            "abbr": "VT "
+         }
+      },
+      "district": "Lamoille North Modified USD #058a",
+      "level": "Elementary",
+      "type": "1-Regular school",
+      "charterSchool": "†",
+      "magnentSchool": "2-No",
+      "locale": "42-Rural: Distant",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "6th Grade"
+      },
+      "students": "239",
+      "fte": "21.2",
+      "pupilTeacherRatio": "11.27"
+   },
+   {
+      "name": "Integrated Arts Academy at H. O. Wheeler",
+      "location": {
+         "state": {
+            "name": "Vermont",
+            "abbr": "VT "
+         }
+      },
+      "district": "Burlington School District",
+      "level": "Elementary",
+      "type": "1-Regular school",
+      "charterSchool": "†",
+      "magnentSchool": "1-Yes",
+      "locale": "13-City: Small",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "5th Grade"
+      },
+      "students": "281",
+      "fte": "24.5",
+      "pupilTeacherRatio": "11.47"
+   },
+   {
+      "name": "Irasburg Village School",
+      "location": {
+         "state": {
+            "name": "VERMONT",
+            "abbr": "VT "
+         }
+      },
+      "district": "Lake Region Union Elementary Middle School District",
+      "level": "Elementary",
+      "type": "1-Regular school",
+      "charterSchool": "†",
+      "magnentSchool": "2-No",
+      "locale": "42-Rural: Distant",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "8th Grade"
+      },
+      "students": "148",
+      "fte": "10",
+      "pupilTeacherRatio": "14.8"
+   },
+   {
+      "name": "Isle La Motte Elementary School",
+      "location": {
+         "state": {
+            "name": "VERMONT",
+            "abbr": "VT "
+         }
+      },
+      "district": "Champlain Islands Unified Union School District #66",
+      "level": "Elementary",
+      "type": "1-Regular school",
+      "charterSchool": "†",
+      "magnentSchool": "2-No",
+      "locale": "42-Rural: Distant",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "6th Grade"
+      },
+      "students": "21",
+      "fte": "4.5",
+      "pupilTeacherRatio": "4.67"
+   },
+   {
+      "name": "J. F. Kennedy Elementary School",
+      "location": {
+         "state": {
+            "name": "Vermont",
+            "abbr": "VT "
+         }
+      },
+      "district": "Winooski School District",
+      "level": "Elementary",
+      "type": "1-Regular school",
+      "charterSchool": "†",
+      "magnentSchool": "2-No",
+      "locale": "22-Suburb: Mid-size",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "5th Grade"
+      },
+      "students": "455",
+      "fte": "44.74",
+      "pupilTeacherRatio": "10.17"
+   },
+   {
+      "name": "J. J. Flynn School",
+      "location": {
+         "state": {
+            "name": "Vermont",
+            "abbr": "VT "
+         }
+      },
+      "district": "Burlington School District",
+      "level": "Elementary",
+      "type": "1-Regular school",
+      "charterSchool": "†",
+      "magnentSchool": "2-No",
+      "locale": "13-City: Small",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "5th Grade"
+      },
+      "students": "325",
+      "fte": "27.6",
+      "pupilTeacherRatio": "11.78"
+   },
+   {
+      "name": "Jamaica Village School",
+      "location": {
+         "state": {
+            "name": "VERMONT",
+            "abbr": "VT "
+         }
+      },
+      "district": "West River Valley Modified Union Education District #72a",
+      "level": "Elementary",
+      "type": "1-Regular school",
+      "charterSchool": "†",
+      "magnentSchool": "2-No",
+      "locale": "43-Rural: Remote",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "5th Grade"
+      },
+      "students": "35",
+      "fte": "3",
+      "pupilTeacherRatio": "11.67"
+   },
+   {
+      "name": "Jay/westfield Joint Elementary School",
+      "location": {
+         "state": {
+            "name": "Vermont",
+            "abbr": "VT "
+         }
+      },
+      "district": "Jay/westfield Joint Elementary School District",
+      "level": "Elementary",
+      "type": "1-Regular school",
+      "charterSchool": "†",
+      "magnentSchool": "2-No",
+      "locale": "42-Rural: Distant",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "6th Grade"
+      },
+      "students": "96",
+      "fte": "6.8",
+      "pupilTeacherRatio": "14.12"
+   },
+   {
+      "name": "Jericho Elementary School",
+      "location": {
+         "state": {
+            "name": "VERMONT",
+            "abbr": "VT "
+         }
+      },
+      "district": "Mount Mansfield Unified Union School District #401",
+      "level": "Elementary",
+      "type": "1-Regular school",
+      "charterSchool": "†",
+      "magnentSchool": "2-No",
+      "locale": "22-Suburb: Mid-size",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "4th Grade"
+      },
+      "students": "415",
+      "fte": "28.23",
+      "pupilTeacherRatio": "14.7"
+   },
+   {
+      "name": "Johnson Elementary School",
+      "location": {
+         "state": {
+            "name": "VERMONT",
+            "abbr": "VT "
+         }
+      },
+      "district": "Lamoille North Modified USD #058a",
+      "level": "Elementary",
+      "type": "1-Regular school",
+      "charterSchool": "†",
+      "magnentSchool": "2-No",
+      "locale": "42-Rural: Distant",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "6th Grade"
+      },
+      "students": "265",
+      "fte": "21.5",
+      "pupilTeacherRatio": "12.33"
+   },
+   {
+      "name": "Killington Elementary School",
+      "location": {
+         "state": {
+            "name": "VERMONT",
+            "abbr": "VT "
+         }
+      },
+      "district": "Windsor Central Modified Unified Union School District #76a",
+      "level": "Elementary",
+      "type": "1-Regular school",
+      "charterSchool": "†",
+      "magnentSchool": "2-No",
+      "locale": "42-Rural: Distant",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "6th Grade"
+      },
+      "students": "117",
+      "fte": "8.74",
+      "pupilTeacherRatio": "13.39"
+   },
+   {
+      "name": "Lake Elmore School",
+      "location": {
+         "state": {
+            "name": "VERMONT",
+            "abbr": "VT "
+         }
+      },
+      "district": "Lamoille South Unified Union School District #90",
+      "level": "Elementary",
+      "type": "1-Regular school",
+      "charterSchool": "†",
+      "magnentSchool": "2-No",
+      "locale": "42-Rural: Distant",
+      "grades": {
+         "lowest": "1st Grade",
+         "highest": "3rd Grade"
+      },
+      "students": "17",
+      "fte": "1",
+      "pupilTeacherRatio": "17"
+   },
+   {
+      "name": "Lake Region UHSD #24",
+      "location": {
+         "state": {
+            "name": "Vermont",
+            "abbr": "VT "
+         }
+      },
+      "district": "Lake Region UHSD #24",
+      "level": "High",
+      "type": "1-Regular school",
+      "charterSchool": "†",
+      "magnentSchool": "2-No",
+      "locale": "42-Rural: Distant",
+      "grades": {
+         "lowest": "9th Grade",
+         "highest": "12th Grade"
+      },
+      "students": "366",
+      "fte": "32",
+      "pupilTeacherRatio": "11.44"
+   },
+   {
+      "name": "Lakeview USD #43",
+      "location": {
+         "state": {
+            "name": "VERMONT",
+            "abbr": "VT "
+         }
+      },
+      "district": "Orleans Southwest Union Elementary School District #94",
+      "level": "Elementary",
+      "type": "1-Regular school",
+      "charterSchool": "†",
+      "magnentSchool": "2-No",
+      "locale": "43-Rural: Remote",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "6th Grade"
+      },
+      "students": "58",
+      "fte": "6.9",
+      "pupilTeacherRatio": "8.41"
+   },
+   {
+      "name": "Lamoille Union High School",
+      "location": {
+         "state": {
+            "name": "VERMONT",
+            "abbr": "VT "
+         }
+      },
+      "district": "Lamoille North Modified USD #058b",
+      "level": "High",
+      "type": "1-Regular school",
+      "charterSchool": "†",
+      "magnentSchool": "2-No",
+      "locale": "42-Rural: Distant",
+      "grades": {
+         "lowest": "9th Grade",
+         "highest": "12th Grade"
+      },
+      "students": "481",
+      "fte": "39.32",
+      "pupilTeacherRatio": "12.23"
+   },
+   {
+      "name": "Lamoille Union Middle School",
+      "location": {
+         "state": {
+            "name": "VERMONT",
+            "abbr": "VT "
+         }
+      },
+      "district": "Lamoille North Modified USD #058b",
+      "level": "Middle",
+      "type": "1-Regular school",
+      "charterSchool": "†",
+      "magnentSchool": "2-No",
+      "locale": "42-Rural: Distant",
+      "grades": {
+         "lowest": "7th Grade",
+         "highest": "8th Grade"
+      },
+      "students": "274",
+      "fte": "25.43",
+      "pupilTeacherRatio": "10.77"
+   },
+   {
+      "name": "Leland & Gray Union Middle & High School",
+      "location": {
+         "state": {
+            "name": "VERMONT",
+            "abbr": "VT "
+         }
+      },
+      "district": "West River Valley Modified Union Education District #72b",
+      "level": "High",
+      "type": "1-Regular school",
+      "charterSchool": "†",
+      "magnentSchool": "2-No",
+      "locale": "43-Rural: Remote",
+      "grades": {
+         "lowest": "6th Grade",
+         "highest": "12th Grade"
+      },
+      "students": "285",
+      "fte": "28.17",
+      "pupilTeacherRatio": "10.12"
+   },
+   {
+      "name": "Lincoln Community School",
+      "location": {
+         "state": {
+            "name": "VERMONT",
+            "abbr": "VT "
+         }
+      },
+      "district": "Mt. Abraham Unified School District",
+      "level": "Elementary",
+      "type": "1-Regular school",
+      "charterSchool": "†",
+      "magnentSchool": "2-No",
+      "locale": "42-Rural: Distant",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "6th Grade"
+      },
+      "students": "107",
+      "fte": "8.7",
+      "pupilTeacherRatio": "12.3"
+   },
+   {
+      "name": "Lothrop School",
+      "location": {
+         "state": {
+            "name": "VERMONT",
+            "abbr": "VT "
+         }
+      },
+      "district": "Otter Valley Unified Union School District #53",
+      "level": "Elementary",
+      "type": "1-Regular school",
+      "charterSchool": "†",
+      "magnentSchool": "2-No",
+      "locale": "42-Rural: Distant",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "6th Grade"
+      },
+      "students": "203",
+      "fte": "14",
+      "pupilTeacherRatio": "14.5"
+   },
+   {
+      "name": "Lowell Village School",
+      "location": {
+         "state": {
+            "name": "Vermont",
+            "abbr": "VT "
+         }
+      },
+      "district": "Lowell School District",
+      "level": "Elementary",
+      "type": "1-Regular school",
+      "charterSchool": "†",
+      "magnentSchool": "2-No",
+      "locale": "43-Rural: Remote",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "8th Grade"
+      },
+      "students": "95",
+      "fte": "7.75",
+      "pupilTeacherRatio": "12.26"
+   },
+   {
+      "name": "Ludlow Elementary School",
+      "location": {
+         "state": {
+            "name": "VERMONT",
+            "abbr": "VT "
+         }
+      },
+      "district": "Ludlow Mt. Holly Unified Union School District",
+      "level": "Elementary",
+      "type": "1-Regular school",
+      "charterSchool": "†",
+      "magnentSchool": "2-No",
+      "locale": "42-Rural: Distant",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "6th Grade"
+      },
+      "students": "104",
+      "fte": "9.5",
+      "pupilTeacherRatio": "10.95"
+   },
+   {
+      "name": "Lunenburg & Gilman Schools",
+      "location": {
+         "state": {
+            "name": "VERMONT",
+            "abbr": "VT "
+         }
+      },
+      "district": "Kingdom East Unified Union School District",
+      "level": "Elementary",
+      "type": "1-Regular school",
+      "charterSchool": "†",
+      "magnentSchool": "2-No",
+      "locale": "42-Rural: Distant",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "8th Grade"
+      },
+      "students": "146",
+      "fte": "12.35",
+      "pupilTeacherRatio": "11.82"
+   },
+   {
+      "name": "Lyman C. Hunt Middle School",
+      "location": {
+         "state": {
+            "name": "Vermont",
+            "abbr": "VT "
+         }
+      },
+      "district": "Burlington School District",
+      "level": "Middle",
+      "type": "1-Regular school",
+      "charterSchool": "†",
+      "magnentSchool": "2-No",
+      "locale": "13-City: Small",
+      "grades": {
+         "lowest": "6th Grade",
+         "highest": "8th Grade"
+      },
+      "students": "386",
+      "fte": "36",
+      "pupilTeacherRatio": "10.72"
+   },
+   {
+      "name": "Lyndon Town School",
+      "location": {
+         "state": {
+            "name": "VERMONT",
+            "abbr": "VT "
+         }
+      },
+      "district": "Kingdom East Unified Union School District",
+      "level": "Elementary",
+      "type": "1-Regular school",
+      "charterSchool": "†",
+      "magnentSchool": "2-No",
+      "locale": "41-Rural: Fringe",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "8th Grade"
+      },
+      "students": "538",
+      "fte": "49.5",
+      "pupilTeacherRatio": "10.87"
+   },
+   {
+      "name": "Main Street School",
+      "location": {
+         "state": {
+            "name": "VERMONT",
+            "abbr": "VT "
+         }
+      },
+      "district": "Montpelier Roxbury Unified Union School District",
+      "level": "Middle",
+      "type": "1-Regular school",
+      "charterSchool": "†",
+      "magnentSchool": "2-No",
+      "locale": "32-Town: Distant",
+      "grades": {
+         "lowest": "5th Grade",
+         "highest": "8th Grade"
+      },
+      "students": "368",
+      "fte": "30.5",
+      "pupilTeacherRatio": "12.07"
+   },
+   {
+      "name": "Malletts Bay School",
+      "location": {
+         "state": {
+            "name": "Vermont",
+            "abbr": "VT "
+         }
+      },
+      "district": "Colchester School District",
+      "level": "Elementary",
+      "type": "1-Regular school",
+      "charterSchool": "†",
+      "magnentSchool": "2-No",
+      "locale": "22-Suburb: Mid-size",
+      "grades": {
+         "lowest": "3rd Grade",
+         "highest": "5th Grade"
+      },
+      "students": "464",
+      "fte": "34.7",
+      "pupilTeacherRatio": "13.37"
+   },
+   {
+      "name": "Manchester Elementary/middle School",
+      "location": {
+         "state": {
+            "name": "VERMONT",
+            "abbr": "VT "
+         }
+      },
+      "district": "Taconic and Green Regional School District",
+      "level": "Elementary",
+      "type": "1-Regular school",
+      "charterSchool": "†",
+      "magnentSchool": "2-No",
+      "locale": "43-Rural: Remote",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "8th Grade"
+      },
+      "students": "419",
+      "fte": "29.6",
+      "pupilTeacherRatio": "14.16"
+   },
+   {
+      "name": "Marion W. Cross School",
+      "location": {
+         "state": {
+            "name": "Vermont",
+            "abbr": "VT "
+         }
+      },
+      "district": "Norwich School District",
+      "level": "Elementary",
+      "type": "1-Regular school",
+      "charterSchool": "†",
+      "magnentSchool": "2-No",
+      "locale": "41-Rural: Fringe",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "6th Grade"
+      },
+      "students": "340",
+      "fte": "23.4",
+      "pupilTeacherRatio": "14.53"
+   },
+   {
+      "name": "Marlboro Elementary School",
+      "location": {
+         "state": {
+            "name": "Vermont",
+            "abbr": "VT "
+         }
+      },
+      "district": "Marlboro School District",
+      "level": "Elementary",
+      "type": "1-Regular school",
+      "charterSchool": "†",
+      "magnentSchool": "2-No",
+      "locale": "42-Rural: Distant",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "8th Grade"
+      },
+      "students": "101",
+      "fte": "9.84",
+      "pupilTeacherRatio": "10.26"
+   },
+   {
+      "name": "Mettawee Community School",
+      "location": {
+         "state": {
+            "name": "VERMONT",
+            "abbr": "VT "
+         }
+      },
+      "district": "Mettawee School District",
+      "level": "Elementary",
+      "type": "1-Regular school",
+      "charterSchool": "†",
+      "magnentSchool": "2-No",
+      "locale": "41-Rural: Fringe",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "6th Grade"
+      },
+      "students": "169",
+      "fte": "15.6",
+      "pupilTeacherRatio": "10.83"
+   },
+   {
+      "name": "Middlebury ID #4 School",
+      "location": {
+         "state": {
+            "name": "VERMONT",
+            "abbr": "VT "
+         }
+      },
+      "district": "Addison Central Unified School District",
+      "level": "Elementary",
+      "type": "1-Regular school",
+      "charterSchool": "†",
+      "magnentSchool": "2-No",
+      "locale": "32-Town: Distant",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "6th Grade"
+      },
+      "students": "586",
+      "fte": "36.47",
+      "pupilTeacherRatio": "16.07"
+   },
+   {
+      "name": "Middlebury Union High School",
+      "location": {
+         "state": {
+            "name": "VERMONT",
+            "abbr": "VT "
+         }
+      },
+      "district": "Addison Central Unified School District",
+      "level": "High",
+      "type": "1-Regular school",
+      "charterSchool": "†",
+      "magnentSchool": "2-No",
+      "locale": "32-Town: Distant",
+      "grades": {
+         "lowest": "9th Grade",
+         "highest": "12th Grade"
+      },
+      "students": "537",
+      "fte": "39.4",
+      "pupilTeacherRatio": "13.63"
+   },
+   {
+      "name": "Middlebury Union Middle School",
+      "location": {
+         "state": {
+            "name": "VERMONT",
+            "abbr": "VT "
+         }
+      },
+      "district": "Addison Central Unified School District",
+      "level": "Middle",
+      "type": "1-Regular school",
+      "charterSchool": "†",
+      "magnentSchool": "2-No",
+      "locale": "41-Rural: Fringe",
+      "grades": {
+         "lowest": "7th Grade",
+         "highest": "8th Grade"
+      },
+      "students": "255",
+      "fte": "28.74",
+      "pupilTeacherRatio": "8.87"
+   },
+   {
+      "name": "Middletown Springs Elementary School",
+      "location": {
+         "state": {
+            "name": "VERMONT",
+            "abbr": "VT "
+         }
+      },
+      "district": "Wells Spring Unified Union School District",
+      "level": "Elementary",
+      "type": "1-Regular school",
+      "charterSchool": "†",
+      "magnentSchool": "2-No",
+      "locale": "42-Rural: Distant",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "6th Grade"
+      },
+      "students": "62",
+      "fte": "7.7",
+      "pupilTeacherRatio": "8.05"
+   },
+   {
+      "name": "Mill River Union High School",
+      "location": {
+         "state": {
+            "name": "VERMONT",
+            "abbr": "VT "
+         }
+      },
+      "district": "Mill River Unified School District",
+      "level": "High",
+      "type": "1-Regular school",
+      "charterSchool": "†",
+      "magnentSchool": "2-No",
+      "locale": "41-Rural: Fringe",
+      "grades": {
+         "lowest": "7th Grade",
+         "highest": "12th Grade"
+      },
+      "students": "420",
+      "fte": "36.5",
+      "pupilTeacherRatio": "11.51"
+   },
+   {
+      "name": "Millers Run Union High School",
+      "location": {
+         "state": {
+            "name": "VERMONT",
+            "abbr": "VT "
+         }
+      },
+      "district": "Kingdom East Unified Union School District",
+      "level": "Elementary",
+      "type": "1-Regular school",
+      "charterSchool": "†",
+      "magnentSchool": "2-No",
+      "locale": "42-Rural: Distant",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "8th Grade"
+      },
+      "students": "113",
+      "fte": "13.94",
+      "pupilTeacherRatio": "8.11"
+   },
+   {
+      "name": "Milton Elementary School",
+      "location": {
+         "state": {
+            "name": "Vermont",
+            "abbr": "VT "
+         }
+      },
+      "district": "Milton Incorporated School District",
+      "level": "Elementary",
+      "type": "1-Regular school",
+      "charterSchool": "†",
+      "magnentSchool": "2-No",
+      "locale": "31-Town: Fringe",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "5th Grade"
+      },
+      "students": "784",
+      "fte": "59",
+      "pupilTeacherRatio": "13.29"
+   },
+   {
+      "name": "Milton Middle School",
+      "location": {
+         "state": {
+            "name": "Vermont",
+            "abbr": "VT "
+         }
+      },
+      "district": "Milton Incorporated School District",
+      "level": "Middle",
+      "type": "1-Regular school",
+      "charterSchool": "†",
+      "magnentSchool": "2-No",
+      "locale": "31-Town: Fringe",
+      "grades": {
+         "lowest": "6th Grade",
+         "highest": "8th Grade"
+      },
+      "students": "343",
+      "fte": "33",
+      "pupilTeacherRatio": "10.39"
+   },
+   {
+      "name": "Milton Senior High School",
+      "location": {
+         "state": {
+            "name": "Vermont",
+            "abbr": "VT "
+         }
+      },
+      "district": "Milton Incorporated School District",
+      "level": "High",
+      "type": "1-Regular school",
+      "charterSchool": "†",
+      "magnentSchool": "2-No",
+      "locale": "31-Town: Fringe",
+      "grades": {
+         "lowest": "9th Grade",
+         "highest": "12th Grade"
+      },
+      "students": "458",
+      "fte": "44",
+      "pupilTeacherRatio": "10.41"
+   },
+   {
+      "name": "Missisquoi Valley Union High School",
+      "location": {
+         "state": {
+            "name": "VERMONT",
+            "abbr": "VT "
+         }
+      },
+      "district": "Missisquoi Valley School District #89",
+      "level": "High",
+      "type": "1-Regular school",
+      "charterSchool": "†",
+      "magnentSchool": "2-No",
+      "locale": "41-Rural: Fringe",
+      "grades": {
+         "lowest": "7th Grade",
+         "highest": "12th Grade"
+      },
+      "students": "770",
+      "fte": "86.8",
+      "pupilTeacherRatio": "8.87"
+   },
+   {
+      "name": "Molly Stark School",
+      "location": {
+         "state": {
+            "name": "VERMONT",
+            "abbr": "VT "
+         }
+      },
+      "district": "Southwest Vermont Union Elementary School District #87",
+      "level": "Elementary",
+      "type": "1-Regular school",
+      "charterSchool": "†",
+      "magnentSchool": "2-No",
+      "locale": "32-Town: Distant",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "5th Grade"
+      },
+      "students": "477",
+      "fte": "22.3",
+      "pupilTeacherRatio": "21.39"
+   },
+   {
+      "name": "Monkton Central School",
+      "location": {
+         "state": {
+            "name": "VERMONT",
+            "abbr": "VT "
+         }
+      },
+      "district": "Mt. Abraham Unified School District",
+      "level": "Elementary",
+      "type": "1-Regular school",
+      "charterSchool": "†",
+      "magnentSchool": "2-No",
+      "locale": "42-Rural: Distant",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "6th Grade"
+      },
+      "students": "131",
+      "fte": "11.23",
+      "pupilTeacherRatio": "11.67"
+   },
+   {
+      "name": "Montgomery Center School",
+      "location": {
+         "state": {
+            "name": "VERMONT",
+            "abbr": "VT "
+         }
+      },
+      "district": "Northern Mountain Valley Unified Union School District #85",
+      "level": "Elementary",
+      "type": "1-Regular school",
+      "charterSchool": "†",
+      "magnentSchool": "2-No",
+      "locale": "43-Rural: Remote",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "8th Grade"
+      },
+      "students": "142",
+      "fte": "9.3",
+      "pupilTeacherRatio": "15.27"
+   },
+   {
+      "name": "Montpelier High School",
+      "location": {
+         "state": {
+            "name": "VERMONT",
+            "abbr": "VT "
+         }
+      },
+      "district": "Montpelier Roxbury Unified Union School District",
+      "level": "High",
+      "type": "1-Regular school",
+      "charterSchool": "†",
+      "magnentSchool": "2-No",
+      "locale": "32-Town: Distant",
+      "grades": {
+         "lowest": "9th Grade",
+         "highest": "12th Grade"
+      },
+      "students": "356",
+      "fte": "31.7",
+      "pupilTeacherRatio": "11.23"
+   },
+   {
+      "name": "Monument School",
+      "location": {
+         "state": {
+            "name": "VERMONT",
+            "abbr": "VT "
+         }
+      },
+      "district": "Southwest Vermont Union Elementary School District #87",
+      "level": "Elementary",
+      "type": "1-Regular school",
+      "charterSchool": "†",
+      "magnentSchool": "2-No",
+      "locale": "32-Town: Distant",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "5th Grade"
+      },
+      "students": "173",
+      "fte": "9.35",
+      "pupilTeacherRatio": "18.5"
+   },
+   {
+      "name": "Moretown Elementary School",
+      "location": {
+         "state": {
+            "name": "VERMONT",
+            "abbr": "VT "
+         }
+      },
+      "district": "Harwood Unified School District",
+      "level": "Elementary",
+      "type": "1-Regular school",
+      "charterSchool": "†",
+      "magnentSchool": "2-No",
+      "locale": "42-Rural: Distant",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "6th Grade"
+      },
+      "students": "168",
+      "fte": "12.04",
+      "pupilTeacherRatio": "13.95"
+   },
+   {
+      "name": "Morristown Elementary School",
+      "location": {
+         "state": {
+            "name": "VERMONT",
+            "abbr": "VT "
+         }
+      },
+      "district": "Lamoille South Unified Union School District #90",
+      "level": "Elementary",
+      "type": "1-Regular school",
+      "charterSchool": "†",
+      "magnentSchool": "2-No",
+      "locale": "42-Rural: Distant",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "4th Grade"
+      },
+      "students": "335",
+      "fte": "27.6",
+      "pupilTeacherRatio": "12.14"
+   },
+   {
+      "name": "Mt Mansfield Union High School",
+      "location": {
+         "state": {
+            "name": "VERMONT",
+            "abbr": "VT "
+         }
+      },
+      "district": "Mount Mansfield Unified Union School District #401",
+      "level": "High",
+      "type": "1-Regular school",
+      "charterSchool": "†",
+      "magnentSchool": "2-No",
+      "locale": "41-Rural: Fringe",
+      "grades": {
+         "lowest": "9th Grade",
+         "highest": "12th Grade"
+      },
+      "students": "778",
+      "fte": "62.58",
+      "pupilTeacherRatio": "12.43"
+   },
+   {
+      "name": "Mt. Abraham Union High School #61",
+      "location": {
+         "state": {
+            "name": "VERMONT",
+            "abbr": "VT "
+         }
+      },
+      "district": "Mt. Abraham Unified School District",
+      "level": "High",
+      "type": "1-Regular school",
+      "charterSchool": "†",
+      "magnentSchool": "2-No",
+      "locale": "42-Rural: Distant",
+      "grades": {
+         "lowest": "7th Grade",
+         "highest": "12th Grade"
+      },
+      "students": "626",
+      "fte": "64.62",
+      "pupilTeacherRatio": "9.69"
+   },
+   {
+      "name": "Mt. Anthony Senior UHSD #14",
+      "location": {
+         "state": {
+            "name": "Vermont",
+            "abbr": "VT "
+         }
+      },
+      "district": "Mount Anthony UHSD #14",
+      "level": "High",
+      "type": "1-Regular school",
+      "charterSchool": "†",
+      "magnentSchool": "2-No",
+      "locale": "32-Town: Distant",
+      "grades": {
+         "lowest": "9th Grade",
+         "highest": "12th Grade"
+      },
+      "students": "899",
+      "fte": "70",
+      "pupilTeacherRatio": "12.84"
+   },
+   {
+      "name": "Mt. Anthony Union Middle School",
+      "location": {
+         "state": {
+            "name": "Vermont",
+            "abbr": "VT "
+         }
+      },
+      "district": "Mount Anthony UHSD #14",
+      "level": "Middle",
+      "type": "1-Regular school",
+      "charterSchool": "†",
+      "magnentSchool": "2-No",
+      "locale": "41-Rural: Fringe",
+      "grades": {
+         "lowest": "6th Grade",
+         "highest": "8th Grade"
+      },
+      "students": "591",
+      "fte": "40",
+      "pupilTeacherRatio": "14.78"
+   },
+   {
+      "name": "Mt. Holly School",
+      "location": {
+         "state": {
+            "name": "VERMONT",
+            "abbr": "VT "
+         }
+      },
+      "district": "Ludlow Mt. Holly Unified Union School District",
+      "level": "Elementary",
+      "type": "1-Regular school",
+      "charterSchool": "†",
+      "magnentSchool": "2-No",
+      "locale": "42-Rural: Distant",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "6th Grade"
+      },
+      "students": "108",
+      "fte": "9",
+      "pupilTeacherRatio": "12"
+   },
+   {
+      "name": "Neshobe School",
+      "location": {
+         "state": {
+            "name": "VERMONT",
+            "abbr": "VT "
+         }
+      },
+      "district": "Otter Valley Unified Union School District #53",
+      "level": "Elementary",
+      "type": "1-Regular school",
+      "charterSchool": "†",
+      "magnentSchool": "2-No",
+      "locale": "43-Rural: Remote",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "6th Grade"
+      },
+      "students": "423",
+      "fte": "26.4",
+      "pupilTeacherRatio": "16.02"
+   },
+   {
+      "name": "Newark School",
+      "location": {
+         "state": {
+            "name": "VERMONT",
+            "abbr": "VT "
+         }
+      },
+      "district": "Kingdom East Unified Union School District",
+      "level": "Elementary",
+      "type": "1-Regular school",
+      "charterSchool": "†",
+      "magnentSchool": "2-No",
+      "locale": "42-Rural: Distant",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "8th Grade"
+      },
+      "students": "68",
+      "fte": "6.65",
+      "pupilTeacherRatio": "10.23"
+   },
+   {
+      "name": "Newbrook Elementary School",
+      "location": {
+         "state": {
+            "name": "VERMONT",
+            "abbr": "VT "
+         }
+      },
+      "district": "West River Valley Modified Union Education District #72a",
+      "level": "Elementary",
+      "type": "1-Regular school",
+      "charterSchool": "†",
+      "magnentSchool": "2-No",
+      "locale": "42-Rural: Distant",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "5th Grade"
+      },
+      "students": "119",
+      "fte": "7.47",
+      "pupilTeacherRatio": "15.93"
+   },
+   {
+      "name": "Newbury Elementary School",
+      "location": {
+         "state": {
+            "name": "VERMONT",
+            "abbr": "VT "
+         }
+      },
+      "district": "Oxbow Unified Union School District #91",
+      "level": "Elementary",
+      "type": "1-Regular school",
+      "charterSchool": "†",
+      "magnentSchool": "2-No",
+      "locale": "43-Rural: Remote",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "6th Grade"
+      },
+      "students": "131",
+      "fte": "11.6",
+      "pupilTeacherRatio": "11.29"
+   },
+   {
+      "name": "Newport City Elementary School",
+      "location": {
+         "state": {
+            "name": "Vermont",
+            "abbr": "VT "
+         }
+      },
+      "district": "Newport City School District",
+      "level": "Elementary",
+      "type": "1-Regular school",
+      "charterSchool": "†",
+      "magnentSchool": "2-No",
+      "locale": "33-Town: Remote",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "6th Grade"
+      },
+      "students": "340",
+      "fte": "26.32",
+      "pupilTeacherRatio": "12.92"
+   },
+   {
+      "name": "Newport Town School",
+      "location": {
+         "state": {
+            "name": "Vermont",
+            "abbr": "VT "
+         }
+      },
+      "district": "Newport Town School District",
+      "level": "Elementary",
+      "type": "1-Regular school",
+      "charterSchool": "†",
+      "magnentSchool": "2-No",
+      "locale": "42-Rural: Distant",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "6th Grade"
+      },
+      "students": "106",
+      "fte": "7.8",
+      "pupilTeacherRatio": "13.59"
+   },
+   {
+      "name": "Newton Elementary School",
+      "location": {
+         "state": {
+            "name": "Vermont",
+            "abbr": "VT "
+         }
+      },
+      "district": "Strafford School District",
+      "level": "Elementary",
+      "type": "1-Regular school",
+      "charterSchool": "†",
+      "magnentSchool": "2-No",
+      "locale": "42-Rural: Distant",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "8th Grade"
+      },
+      "students": "107",
+      "fte": "9.7",
+      "pupilTeacherRatio": "11.03"
+   },
+   {
+      "name": "North Country Career Center",
+      "location": {
+         "state": {
+            "name": "Vermont",
+            "abbr": "VT "
+         }
+      },
+      "district": "North Country Senior UHSD #22",
+      "level": "High",
+      "type": "3-Vocational school",
+      "charterSchool": "†",
+      "magnentSchool": "2-No",
+      "locale": "33-Town: Remote",
+      "grades": {
+         "lowest": "9th Grade",
+         "highest": "12th Grade"
+      },
+      "students": "0",
+      "fte": "18.5",
+      "pupilTeacherRatio": "0.00"
+   },
+   {
+      "name": "North Country Junior UHSD #22",
+      "location": {
+         "state": {
+            "name": "Vermont",
+            "abbr": "VT "
+         }
+      },
+      "district": "North Country Junior UHSD #22",
+      "level": "Middle",
+      "type": "1-Regular school",
+      "charterSchool": "†",
+      "magnentSchool": "2-No",
+      "locale": "42-Rural: Distant",
+      "grades": {
+         "lowest": "7th Grade",
+         "highest": "8th Grade"
+      },
+      "students": "263",
+      "fte": "23",
+      "pupilTeacherRatio": "11.43"
+   },
+   {
+      "name": "North Country Senior UHSD #22",
+      "location": {
+         "state": {
+            "name": "Vermont",
+            "abbr": "VT "
+         }
+      },
+      "district": "North Country Senior UHSD #22",
+      "level": "High",
+      "type": "1-Regular school",
+      "charterSchool": "†",
+      "magnentSchool": "2-No",
+      "locale": "33-Town: Remote",
+      "grades": {
+         "lowest": "9th Grade",
+         "highest": "12th Grade"
+      },
+      "students": "694",
+      "fte": "49.5",
+      "pupilTeacherRatio": "14.02"
+   },
+   {
+      "name": "North Hero Elementary School",
+      "location": {
+         "state": {
+            "name": "VERMONT",
+            "abbr": "VT "
+         }
+      },
+      "district": "Champlain Islands Unified Union School District #66",
+      "level": "Elementary",
+      "type": "1-Regular school",
+      "charterSchool": "†",
+      "magnentSchool": "2-No",
+      "locale": "42-Rural: Distant",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "6th Grade"
+      },
+      "students": "73",
+      "fte": "7",
+      "pupilTeacherRatio": "10.43"
+   },
+   {
+      "name": "Northfield Elementary School",
+      "location": {
+         "state": {
+            "name": "VERMONT",
+            "abbr": "VT "
+         }
+      },
+      "district": "Paine Mountain School District",
+      "level": "Elementary",
+      "type": "1-Regular school",
+      "charterSchool": "†",
+      "magnentSchool": "2-No",
+      "locale": "32-Town: Distant",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "5th Grade"
+      },
+      "students": "282",
+      "fte": "19",
+      "pupilTeacherRatio": "14.84"
+   },
+   {
+      "name": "Northfield Middle/high School",
+      "location": {
+         "state": {
+            "name": "VERMONT",
+            "abbr": "VT "
+         }
+      },
+      "district": "Paine Mountain School District",
+      "level": "High",
+      "type": "1-Regular school",
+      "charterSchool": "†",
+      "magnentSchool": "2-No",
+      "locale": "32-Town: Distant",
+      "grades": {
+         "lowest": "6th Grade",
+         "highest": "12th Grade"
+      },
+      "students": "263",
+      "fte": "25",
+      "pupilTeacherRatio": "10.52"
+   },
+   {
+      "name": "Northwest Technical Center",
+      "location": {
+         "state": {
+            "name": "VERMONT",
+            "abbr": "VT "
+         }
+      },
+      "district": "Maple Run Unified School District",
+      "level": "High",
+      "type": "3-Vocational school",
+      "charterSchool": "†",
+      "magnentSchool": "2-No",
+      "locale": "32-Town: Distant",
+      "grades": {
+         "lowest": "9th Grade",
+         "highest": "12th Grade"
+      },
+      "students": "0",
+      "fte": "15.1",
+      "pupilTeacherRatio": "0.00"
+   },
+   {
+      "name": "Orange Center School",
+      "location": {
+         "state": {
+            "name": "VERMONT",
+            "abbr": "VT "
+         }
+      },
+      "district": "Echo Valley Community School District",
+      "level": "Middle",
+      "type": "1-Regular school",
+      "charterSchool": "†",
+      "magnentSchool": "2-No",
+      "locale": "41-Rural: Fringe",
+      "grades": {
+         "lowest": "5th Grade",
+         "highest": "8th Grade"
+      },
+      "students": "73",
+      "fte": "6.9",
+      "pupilTeacherRatio": "10.58"
+   },
+   {
+      "name": "Orchard School",
+      "location": {
+         "state": {
+            "name": "Vermont",
+            "abbr": "VT "
+         }
+      },
+      "district": "South Burlington School District",
+      "level": "Elementary",
+      "type": "1-Regular school",
+      "charterSchool": "†",
+      "magnentSchool": "2-No",
+      "locale": "13-City: Small",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "5th Grade"
+      },
+      "students": "428",
+      "fte": "31.6",
+      "pupilTeacherRatio": "13.54"
+   },
+   {
+      "name": "Orleans Elementary School",
+      "location": {
+         "state": {
+            "name": "VERMONT",
+            "abbr": "VT "
+         }
+      },
+      "district": "Lake Region Union Elementary Middle School District",
+      "level": "Elementary",
+      "type": "1-Regular school",
+      "charterSchool": "†",
+      "magnentSchool": "2-No",
+      "locale": "42-Rural: Distant",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "8th Grade"
+      },
+      "students": "120",
+      "fte": "10.9",
+      "pupilTeacherRatio": "11.01"
+   },
+   {
+      "name": "Orwell Village School",
+      "location": {
+         "state": {
+            "name": "VERMONT",
+            "abbr": "VT "
+         }
+      },
+      "district": "Slate Valley Unified Union School District #62",
+      "level": "Elementary",
+      "type": "1-Regular school",
+      "charterSchool": "†",
+      "magnentSchool": "2-No",
+      "locale": "42-Rural: Distant",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "8th Grade"
+      },
+      "students": "153",
+      "fte": "12.79",
+      "pupilTeacherRatio": "11.96"
+   },
+   {
+      "name": "Ottauquechee School",
+      "location": {
+         "state": {
+            "name": "Vermont",
+            "abbr": "VT "
+         }
+      },
+      "district": "Hartford School District",
+      "level": "Elementary",
+      "type": "1-Regular school",
+      "charterSchool": "†",
+      "magnentSchool": "2-No",
+      "locale": "41-Rural: Fringe",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "5th Grade"
+      },
+      "students": "227",
+      "fte": "22.25",
+      "pupilTeacherRatio": "10.2"
+   },
+   {
+      "name": "Otter Creek Academy at Leicester Sudbury and Whiting",
+      "location": {
+         "state": {
+            "name": "VERMONT",
+            "abbr": "VT "
+         }
+      },
+      "district": "Otter Valley Unified Union School District #53",
+      "level": "Elementary",
+      "type": "1-Regular school",
+      "charterSchool": "†",
+      "magnentSchool": "2-No",
+      "locale": "42-Rural: Distant",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "6th Grade"
+      },
+      "students": "98",
+      "fte": "11",
+      "pupilTeacherRatio": "8.91"
+   },
+   {
+      "name": "Otter Valley Union High School",
+      "location": {
+         "state": {
+            "name": "VERMONT",
+            "abbr": "VT "
+         }
+      },
+      "district": "Otter Valley Unified Union School District #53",
+      "level": "High",
+      "type": "1-Regular school",
+      "charterSchool": "†",
+      "magnentSchool": "2-No",
+      "locale": "42-Rural: Distant",
+      "grades": {
+         "lowest": "7th Grade",
+         "highest": "12th Grade"
+      },
+      "students": "551",
+      "fte": "44.75",
+      "pupilTeacherRatio": "12.31"
+   },
+   {
+      "name": "Oxbow Union High School",
+      "location": {
+         "state": {
+            "name": "VERMONT",
+            "abbr": "VT "
+         }
+      },
+      "district": "Oxbow Unified Union School District #91",
+      "level": "High",
+      "type": "1-Regular school",
+      "charterSchool": "†",
+      "magnentSchool": "2-No",
+      "locale": "43-Rural: Remote",
+      "grades": {
+         "lowest": "7th Grade",
+         "highest": "12th Grade"
+      },
+      "students": "316",
+      "fte": "22",
+      "pupilTeacherRatio": "14.36"
+   },
+   {
+      "name": "Patricia A. Hannaford Career Center",
+      "location": {
+         "state": {
+            "name": "Vermont",
+            "abbr": "VT "
+         }
+      },
+      "district": "Patricia Hannaford Career Center School District",
+      "level": "High",
+      "type": "3-Vocational school",
+      "charterSchool": "†",
+      "magnentSchool": "2-No",
+      "locale": "32-Town: Distant",
+      "grades": {
+         "lowest": "9th Grade",
+         "highest": "12th Grade"
+      },
+      "students": "0",
+      "fte": "17.32",
+      "pupilTeacherRatio": "0.00"
+   },
+   {
+      "name": "Peacham Elementary School",
+      "location": {
+         "state": {
+            "name": "Vermont",
+            "abbr": "VT "
+         }
+      },
+      "district": "Peacham School District",
+      "level": "Elementary",
+      "type": "1-Regular school",
+      "charterSchool": "†",
+      "magnentSchool": "2-No",
+      "locale": "42-Rural: Distant",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "6th Grade"
+      },
+      "students": "61",
+      "fte": "8.73",
+      "pupilTeacherRatio": "6.99"
+   },
+   {
+      "name": "Peoples Academy",
+      "location": {
+         "state": {
+            "name": "VERMONT",
+            "abbr": "VT "
+         }
+      },
+      "district": "Lamoille South Unified Union School District #90",
+      "level": "High",
+      "type": "1-Regular school",
+      "charterSchool": "†",
+      "magnentSchool": "2-No",
+      "locale": "42-Rural: Distant",
+      "grades": {
+         "lowest": "9th Grade",
+         "highest": "12th Grade"
+      },
+      "students": "280",
+      "fte": "18.17",
+      "pupilTeacherRatio": "15.41"
+   },
+   {
+      "name": "Peoples Academy Middle School",
+      "location": {
+         "state": {
+            "name": "VERMONT",
+            "abbr": "VT "
+         }
+      },
+      "district": "Lamoille South Unified Union School District #90",
+      "level": "Middle",
+      "type": "1-Regular school",
+      "charterSchool": "†",
+      "magnentSchool": "2-No",
+      "locale": "42-Rural: Distant",
+      "grades": {
+         "lowest": "5th Grade",
+         "highest": "8th Grade"
+      },
+      "students": "244",
+      "fte": "13.5",
+      "pupilTeacherRatio": "18.07"
+   },
+   {
+      "name": "Porters Point School",
+      "location": {
+         "state": {
+            "name": "Vermont",
+            "abbr": "VT "
+         }
+      },
+      "district": "Colchester School District",
+      "level": "Elementary",
+      "type": "1-Regular school",
+      "charterSchool": "†",
+      "magnentSchool": "2-No",
+      "locale": "22-Suburb: Mid-size",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "2nd Grade"
+      },
+      "students": "508",
+      "fte": "19.25",
+      "pupilTeacherRatio": "26.39"
+   },
+   {
+      "name": "Poultney Elementary School",
+      "location": {
+         "state": {
+            "name": "VERMONT",
+            "abbr": "VT "
+         }
+      },
+      "district": "Quarry Valley Unified Union School District #70",
+      "level": "Elementary",
+      "type": "1-Regular school",
+      "charterSchool": "†",
+      "magnentSchool": "2-No",
+      "locale": "42-Rural: Distant",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "6th Grade"
+      },
+      "students": "262",
+      "fte": "16.1",
+      "pupilTeacherRatio": "16.27"
+   },
+   {
+      "name": "Poultney High School",
+      "location": {
+         "state": {
+            "name": "VERMONT",
+            "abbr": "VT "
+         }
+      },
+      "district": "Quarry Valley Unified Union School District #70",
+      "level": "High",
+      "type": "1-Regular school",
+      "charterSchool": "†",
+      "magnentSchool": "2-No",
+      "locale": "42-Rural: Distant",
+      "grades": {
+         "lowest": "7th Grade",
+         "highest": "12th Grade"
+      },
+      "students": "207",
+      "fte": "20.5",
+      "pupilTeacherRatio": "10.1"
+   },
+   {
+      "name": "Pownal Elementary School",
+      "location": {
+         "state": {
+            "name": "VERMONT",
+            "abbr": "VT "
+         }
+      },
+      "district": "Southwest Vermont Union Elementary School District #87",
+      "level": "Elementary",
+      "type": "1-Regular school",
+      "charterSchool": "†",
+      "magnentSchool": "2-No",
+      "locale": "41-Rural: Fringe",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "6th Grade"
+      },
+      "students": "263",
+      "fte": "17",
+      "pupilTeacherRatio": "15.47"
+   },
+   {
+      "name": "Proctor Elementary School",
+      "location": {
+         "state": {
+            "name": "VERMONT",
+            "abbr": "VT "
+         }
+      },
+      "district": "Quarry Valley Unified Union School District #70",
+      "level": "Elementary",
+      "type": "1-Regular school",
+      "charterSchool": "†",
+      "magnentSchool": "2-No",
+      "locale": "42-Rural: Distant",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "6th Grade"
+      },
+      "students": "163",
+      "fte": "15.45",
+      "pupilTeacherRatio": "10.55"
+   },
+   {
+      "name": "Proctor Junior/senior High School",
+      "location": {
+         "state": {
+            "name": "VERMONT",
+            "abbr": "VT "
+         }
+      },
+      "district": "Quarry Valley Unified Union School District #70",
+      "level": "High",
+      "type": "1-Regular school",
+      "charterSchool": "†",
+      "magnentSchool": "2-No",
+      "locale": "41-Rural: Fringe",
+      "grades": {
+         "lowest": "7th Grade",
+         "highest": "12th Grade"
+      },
+      "students": "127",
+      "fte": "13.8",
+      "pupilTeacherRatio": "9.2"
+   },
+   {
+      "name": "Prosper Valley School",
+      "location": {
+         "state": {
+            "name": "VERMONT",
+            "abbr": "VT "
+         }
+      },
+      "district": "Windsor Central Modified Unified Union School District #76a",
+      "level": "Elementary",
+      "type": "1-Regular school",
+      "charterSchool": "†",
+      "magnentSchool": "2-No",
+      "locale": "42-Rural: Distant",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "6th Grade"
+      },
+      "students": "0",
+      "fte": "5",
+      "pupilTeacherRatio": "0.00"
+   },
+   {
+      "name": "Putney Central School",
+      "location": {
+         "state": {
+            "name": "VERMONT",
+            "abbr": "VT "
+         }
+      },
+      "district": "Windham Southeast Unified Union School District #96",
+      "level": "Elementary",
+      "type": "1-Regular school",
+      "charterSchool": "†",
+      "magnentSchool": "2-No",
+      "locale": "42-Rural: Distant",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "8th Grade"
+      },
+      "students": "207",
+      "fte": "16",
+      "pupilTeacherRatio": "12.94"
+   },
+   {
+      "name": "Randolph Elementary School",
+      "location": {
+         "state": {
+            "name": "VERMONT",
+            "abbr": "VT "
+         }
+      },
+      "district": "Orange Southwest Unified School District",
+      "level": "Elementary",
+      "type": "1-Regular school",
+      "charterSchool": "†",
+      "magnentSchool": "2-No",
+      "locale": "43-Rural: Remote",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "6th Grade"
+      },
+      "students": "351",
+      "fte": "23.45",
+      "pupilTeacherRatio": "14.97"
+   },
+   {
+      "name": "Randolph Technical Career Center",
+      "location": {
+         "state": {
+            "name": "VERMONT",
+            "abbr": "VT "
+         }
+      },
+      "district": "Orange Southwest Unified School District",
+      "level": "High",
+      "type": "3-Vocational school",
+      "charterSchool": "†",
+      "magnentSchool": "2-No",
+      "locale": "43-Rural: Remote",
+      "grades": {
+         "lowest": "9th Grade",
+         "highest": "12th Grade"
+      },
+      "students": "0",
+      "fte": "16",
+      "pupilTeacherRatio": "0.00"
+   },
+   {
+      "name": "Randolph Union High School",
+      "location": {
+         "state": {
+            "name": "VERMONT",
+            "abbr": "VT "
+         }
+      },
+      "district": "Orange Southwest Unified School District",
+      "level": "High",
+      "type": "1-Regular school",
+      "charterSchool": "†",
+      "magnentSchool": "2-No",
+      "locale": "43-Rural: Remote",
+      "grades": {
+         "lowest": "7th Grade",
+         "highest": "12th Grade"
+      },
+      "students": "377",
+      "fte": "31.85",
+      "pupilTeacherRatio": "11.84"
+   },
+   {
+      "name": "Reading Elementary School",
+      "location": {
+         "state": {
+            "name": "VERMONT",
+            "abbr": "VT "
+         }
+      },
+      "district": "Windsor Central Modified Unified Union School District #76a",
+      "level": "Elementary",
+      "type": "1-Regular school",
+      "charterSchool": "†",
+      "magnentSchool": "2-No",
+      "locale": "42-Rural: Distant",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "3rd Grade"
+      },
+      "students": "33",
+      "fte": "3.7",
+      "pupilTeacherRatio": "8.92"
+   },
+   {
+      "name": "Readsboro Elementary School",
+      "location": {
+         "state": {
+            "name": "VERMONT",
+            "abbr": "VT "
+         }
+      },
+      "district": "Southern Valley Unified School District",
+      "level": "Elementary",
+      "type": "1-Regular school",
+      "charterSchool": "†",
+      "magnentSchool": "2-No",
+      "locale": "42-Rural: Distant",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "8th Grade"
+      },
+      "students": "41",
+      "fte": "5.1",
+      "pupilTeacherRatio": "8.04"
+   },
+   {
+      "name": "Richford Elementary School",
+      "location": {
+         "state": {
+            "name": "VERMONT",
+            "abbr": "VT "
+         }
+      },
+      "district": "Enosburgh-Richford Unified Union School District #88",
+      "level": "Elementary",
+      "type": "1-Regular school",
+      "charterSchool": "†",
+      "magnentSchool": "2-No",
+      "locale": "43-Rural: Remote",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "5th Grade"
+      },
+      "students": "193",
+      "fte": "18.4",
+      "pupilTeacherRatio": "10.49"
+   },
+   {
+      "name": "Richford Junior/senior High School",
+      "location": {
+         "state": {
+            "name": "VERMONT",
+            "abbr": "VT "
+         }
+      },
+      "district": "Enosburgh-Richford Unified Union School District #88",
+      "level": "High",
+      "type": "1-Regular school",
+      "charterSchool": "†",
+      "magnentSchool": "2-No",
+      "locale": "43-Rural: Remote",
+      "grades": {
+         "lowest": "6th Grade",
+         "highest": "12th Grade"
+      },
+      "students": "228",
+      "fte": "17.85",
+      "pupilTeacherRatio": "12.77"
+   },
+   {
+      "name": "Richmond Elementary School",
+      "location": {
+         "state": {
+            "name": "VERMONT",
+            "abbr": "VT "
+         }
+      },
+      "district": "Mount Mansfield Unified Union School District #401",
+      "level": "Elementary",
+      "type": "1-Regular school",
+      "charterSchool": "†",
+      "magnentSchool": "2-No",
+      "locale": "41-Rural: Fringe",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "4th Grade"
+      },
+      "students": "315",
+      "fte": "28.6",
+      "pupilTeacherRatio": "11.01"
+   },
+   {
+      "name": "Rick Marcotte Central School",
+      "location": {
+         "state": {
+            "name": "Vermont",
+            "abbr": "VT "
+         }
+      },
+      "district": "South Burlington School District",
+      "level": "Elementary",
+      "type": "1-Regular school",
+      "charterSchool": "†",
+      "magnentSchool": "2-No",
+      "locale": "13-City: Small",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "5th Grade"
+      },
+      "students": "365",
+      "fte": "27",
+      "pupilTeacherRatio": "13.52"
+   },
+   {
+      "name": "Ripton Elementary School",
+      "location": {
+         "state": {
+            "name": "VERMONT",
+            "abbr": "VT "
+         }
+      },
+      "district": "Addison Central Unified School District",
+      "level": "Elementary",
+      "type": "1-Regular school",
+      "charterSchool": "†",
+      "magnentSchool": "2-No",
+      "locale": "42-Rural: Distant",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "6th Grade"
+      },
+      "students": "51",
+      "fte": "4.62",
+      "pupilTeacherRatio": "11.04"
+   },
+   {
+      "name": "Rivendell Academy",
+      "location": {
+         "state": {
+            "name": "Vermont",
+            "abbr": "VT "
+         }
+      },
+      "district": "Rivendell Interstate School District",
+      "level": "High",
+      "type": "1-Regular school",
+      "charterSchool": "†",
+      "magnentSchool": "2-No",
+      "locale": "43-Rural: Remote",
+      "grades": {
+         "lowest": "7th Grade",
+         "highest": "12th Grade"
+      },
+      "students": "189",
+      "fte": "18.66",
+      "pupilTeacherRatio": "10.13"
+   },
+   {
+      "name": "River Bend Career & Technical Center",
+      "location": {
+         "state": {
+            "name": "VERMONT",
+            "abbr": "VT "
+         }
+      },
+      "district": "Oxbow Unified Union School District #91",
+      "level": "High",
+      "type": "3-Vocational school",
+      "charterSchool": "†",
+      "magnentSchool": "2-No",
+      "locale": "43-Rural: Remote",
+      "grades": {
+         "lowest": "9th Grade",
+         "highest": "12th Grade"
+      },
+      "students": "0",
+      "fte": "11",
+      "pupilTeacherRatio": "0.00"
+   },
+   {
+      "name": "River Valley Technical Center",
+      "location": {
+         "state": {
+            "name": "Vermont",
+            "abbr": "VT "
+         }
+      },
+      "district": "River Valley Technical Center",
+      "level": "High",
+      "type": "3-Vocational school",
+      "charterSchool": "†",
+      "magnentSchool": "2-No",
+      "locale": "33-Town: Remote",
+      "grades": {
+         "lowest": "9th Grade",
+         "highest": "12th Grade"
+      },
+      "students": "0",
+      "fte": "14.9",
+      "pupilTeacherRatio": "0.00"
+   },
+   {
+      "name": "Riverside School",
+      "location": {
+         "state": {
+            "name": "Vermont",
+            "abbr": "VT "
+         }
+      },
+      "district": "Springfield School District",
+      "level": "Middle",
+      "type": "1-Regular school",
+      "charterSchool": "†",
+      "magnentSchool": "2-No",
+      "locale": "33-Town: Remote",
+      "grades": {
+         "lowest": "6th Grade",
+         "highest": "8th Grade"
+      },
+      "students": "273",
+      "fte": "22",
+      "pupilTeacherRatio": "12.41"
+   },
+   {
+      "name": "Robinson School",
+      "location": {
+         "state": {
+            "name": "VERMONT",
+            "abbr": "VT "
+         }
+      },
+      "district": "Mt. Abraham Unified School District",
+      "level": "Elementary",
+      "type": "1-Regular school",
+      "charterSchool": "†",
+      "magnentSchool": "2-No",
+      "locale": "42-Rural: Distant",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "6th Grade"
+      },
+      "students": "125",
+      "fte": "11.84",
+      "pupilTeacherRatio": "10.56"
+   },
+   {
+      "name": "Rochester School",
+      "location": {
+         "state": {
+            "name": "VERMONT",
+            "abbr": "VT "
+         }
+      },
+      "district": "Rochester Stockbridge Unified School District",
+      "level": "Elementary",
+      "type": "1-Regular school",
+      "charterSchool": "†",
+      "magnentSchool": "2-No",
+      "locale": "43-Rural: Remote",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "6th Grade"
+      },
+      "students": "94",
+      "fte": "10.3",
+      "pupilTeacherRatio": "9.13"
+   },
+   {
+      "name": "Roxbury Village School",
+      "location": {
+         "state": {
+            "name": "VERMONT",
+            "abbr": "VT "
+         }
+      },
+      "district": "Montpelier Roxbury Unified Union School District",
+      "level": "Elementary",
+      "type": "1-Regular school",
+      "charterSchool": "†",
+      "magnentSchool": "2-No",
+      "locale": "42-Rural: Distant",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "4th Grade"
+      },
+      "students": "52",
+      "fte": "5.4",
+      "pupilTeacherRatio": "9.63"
+   },
+   {
+      "name": "Rumney School (Middlesex)",
+      "location": {
+         "state": {
+            "name": "VERMONT",
+            "abbr": "VT "
+         }
+      },
+      "district": "Washington Central Unified Union School District #92",
+      "level": "Elementary",
+      "type": "1-Regular school",
+      "charterSchool": "†",
+      "magnentSchool": "2-No",
+      "locale": "42-Rural: Distant",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "6th Grade"
+      },
+      "students": "168",
+      "fte": "13.24",
+      "pupilTeacherRatio": "12.69"
+   },
+   {
+      "name": "Rutland Intermediate School",
+      "location": {
+         "state": {
+            "name": "Vermont",
+            "abbr": "VT "
+         }
+      },
+      "district": "Rutland City School District",
+      "level": "Elementary",
+      "type": "1-Regular school",
+      "charterSchool": "†",
+      "magnentSchool": "2-No",
+      "locale": "32-Town: Distant",
+      "grades": {
+         "lowest": "3rd Grade",
+         "highest": "6th Grade"
+      },
+      "students": "480",
+      "fte": "50.7",
+      "pupilTeacherRatio": "9.47"
+   },
+   {
+      "name": "Rutland Middle School",
+      "location": {
+         "state": {
+            "name": "Vermont",
+            "abbr": "VT "
+         }
+      },
+      "district": "Rutland City School District",
+      "level": "Middle",
+      "type": "1-Regular school",
+      "charterSchool": "†",
+      "magnentSchool": "2-No",
+      "locale": "32-Town: Distant",
+      "grades": {
+         "lowest": "7th Grade",
+         "highest": "8th Grade"
+      },
+      "students": "256",
+      "fte": "26.1",
+      "pupilTeacherRatio": "9.81"
+   },
+   {
+      "name": "Rutland Northeast Primary School",
+      "location": {
+         "state": {
+            "name": "Vermont",
+            "abbr": "VT "
+         }
+      },
+      "district": "Rutland City School District",
+      "level": "Elementary",
+      "type": "1-Regular school",
+      "charterSchool": "†",
+      "magnentSchool": "2-No",
+      "locale": "32-Town: Distant",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "2nd Grade"
+      },
+      "students": "267",
+      "fte": "19.5",
+      "pupilTeacherRatio": "13.69"
+   },
+   {
+      "name": "Rutland Northwest School",
+      "location": {
+         "state": {
+            "name": "Vermont",
+            "abbr": "VT "
+         }
+      },
+      "district": "Rutland City School District",
+      "level": "Elementary",
+      "type": "1-Regular school",
+      "charterSchool": "†",
+      "magnentSchool": "2-No",
+      "locale": "32-Town: Distant",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "2nd Grade"
+      },
+      "students": "243",
+      "fte": "20.5",
+      "pupilTeacherRatio": "11.85"
+   },
+   {
+      "name": "Rutland Senior High School",
+      "location": {
+         "state": {
+            "name": "Vermont",
+            "abbr": "VT "
+         }
+      },
+      "district": "Rutland City School District",
+      "level": "High",
+      "type": "1-Regular school",
+      "charterSchool": "†",
+      "magnentSchool": "2-No",
+      "locale": "32-Town: Distant",
+      "grades": {
+         "lowest": "9th Grade",
+         "highest": "12th Grade"
+      },
+      "students": "798",
+      "fte": "68.03",
+      "pupilTeacherRatio": "11.73"
+   },
+   {
+      "name": "Rutland Town Elementary School",
+      "location": {
+         "state": {
+            "name": "Vermont",
+            "abbr": "VT "
+         }
+      },
+      "district": "Rutland Town School District",
+      "level": "Elementary",
+      "type": "1-Regular school",
+      "charterSchool": "†",
+      "magnentSchool": "2-No",
+      "locale": "41-Rural: Fringe",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "8th Grade"
+      },
+      "students": "360",
+      "fte": "30",
+      "pupilTeacherRatio": "12"
+   },
+   {
+      "name": "Salisbury Community School",
+      "location": {
+         "state": {
+            "name": "VERMONT",
+            "abbr": "VT "
+         }
+      },
+      "district": "Addison Central Unified School District",
+      "level": "Elementary",
+      "type": "1-Regular school",
+      "charterSchool": "†",
+      "magnentSchool": "2-No",
+      "locale": "42-Rural: Distant",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "6th Grade"
+      },
+      "students": "86",
+      "fte": "9.3",
+      "pupilTeacherRatio": "9.25"
+   },
+   {
+      "name": "Samuel Morey Elementary School",
+      "location": {
+         "state": {
+            "name": "Vermont",
+            "abbr": "VT "
+         }
+      },
+      "district": "Rivendell Interstate School District",
+      "level": "Elementary",
+      "type": "1-Regular school",
+      "charterSchool": "†",
+      "magnentSchool": "2-No",
+      "locale": "43-Rural: Remote",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "6th Grade"
+      },
+      "students": "172",
+      "fte": "10.65",
+      "pupilTeacherRatio": "16.15"
+   },
+   {
+      "name": "Saxton River Elementary School",
+      "location": {
+         "state": {
+            "name": "Vermont",
+            "abbr": "VT "
+         }
+      },
+      "district": "Rockingham School District",
+      "level": "Elementary",
+      "type": "1-Regular school",
+      "charterSchool": "†",
+      "magnentSchool": "2-No",
+      "locale": "32-Town: Distant",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "4th Grade"
+      },
+      "students": "82",
+      "fte": "7.54",
+      "pupilTeacherRatio": "10.88"
+   },
+   {
+      "name": "Shaftsbury Elementary School",
+      "location": {
+         "state": {
+            "name": "VERMONT",
+            "abbr": "VT "
+         }
+      },
+      "district": "Southwest Vermont Union Elementary School District #87",
+      "level": "Elementary",
+      "type": "1-Regular school",
+      "charterSchool": "†",
+      "magnentSchool": "2-No",
+      "locale": "41-Rural: Fringe",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "6th Grade"
+      },
+      "students": "257",
+      "fte": "17.8",
+      "pupilTeacherRatio": "14.44"
+   },
+   {
+      "name": "Sharon Elementary School",
+      "location": {
+         "state": {
+            "name": "Vermont",
+            "abbr": "VT "
+         }
+      },
+      "district": "Sharon School District",
+      "level": "Elementary",
+      "type": "1-Regular school",
+      "charterSchool": "†",
+      "magnentSchool": "2-No",
+      "locale": "42-Rural: Distant",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "6th Grade"
+      },
+      "students": "151",
+      "fte": "13",
+      "pupilTeacherRatio": "11.62"
+   },
+   {
+      "name": "Shelburne Community School",
+      "location": {
+         "state": {
+            "name": "VERMONT",
+            "abbr": "VT "
+         }
+      },
+      "district": "Champlain Valley Unified School District",
+      "level": "Elementary",
+      "type": "1-Regular school",
+      "charterSchool": "†",
+      "magnentSchool": "2-No",
+      "locale": "22-Suburb: Mid-size",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "8th Grade"
+      },
+      "students": "841",
+      "fte": "48.45",
+      "pupilTeacherRatio": "17.36"
+   },
+   {
+      "name": "Sheldon Elementary School",
+      "location": {
+         "state": {
+            "name": "VERMONT",
+            "abbr": "VT "
+         }
+      },
+      "district": "Northern Mountain Valley Unified Union School District #85",
+      "level": "Elementary",
+      "type": "1-Regular school",
+      "charterSchool": "†",
+      "magnentSchool": "2-No",
+      "locale": "42-Rural: Distant",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "8th Grade"
+      },
+      "students": "297",
+      "fte": "22",
+      "pupilTeacherRatio": "13.5"
+   },
+   {
+      "name": "Shoreham Elementary School",
+      "location": {
+         "state": {
+            "name": "VERMONT",
+            "abbr": "VT "
+         }
+      },
+      "district": "Addison Central Unified School District",
+      "level": "Elementary",
+      "type": "1-Regular school",
+      "charterSchool": "†",
+      "magnentSchool": "2-No",
+      "locale": "42-Rural: Distant",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "6th Grade"
+      },
+      "students": "91",
+      "fte": "8.05",
+      "pupilTeacherRatio": "11.3"
+   },
+   {
+      "name": "Shrewsbury Mountain School",
+      "location": {
+         "state": {
+            "name": "VERMONT",
+            "abbr": "VT "
+         }
+      },
+      "district": "Mill River Unified School District",
+      "level": "Elementary",
+      "type": "1-Regular school",
+      "charterSchool": "†",
+      "magnentSchool": "2-No",
+      "locale": "42-Rural: Distant",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "6th Grade"
+      },
+      "students": "73",
+      "fte": "4.75",
+      "pupilTeacherRatio": "15.37"
+   },
+   {
+      "name": "Smilie Memorial Elementary School",
+      "location": {
+         "state": {
+            "name": "VERMONT",
+            "abbr": "VT "
+         }
+      },
+      "district": "Mount Mansfield Unified Union School District #401",
+      "level": "Elementary",
+      "type": "1-Regular school",
+      "charterSchool": "†",
+      "magnentSchool": "2-No",
+      "locale": "42-Rural: Distant",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "4th Grade"
+      },
+      "students": "97",
+      "fte": "8.85",
+      "pupilTeacherRatio": "10.96"
+   },
+   {
+      "name": "South Burlington High School",
+      "location": {
+         "state": {
+            "name": "Vermont",
+            "abbr": "VT "
+         }
+      },
+      "district": "South Burlington School District",
+      "level": "High",
+      "type": "1-Regular school",
+      "charterSchool": "†",
+      "magnentSchool": "2-No",
+      "locale": "13-City: Small",
+      "grades": {
+         "lowest": "9th Grade",
+         "highest": "12th Grade"
+      },
+      "students": "880",
+      "fte": "70.01",
+      "pupilTeacherRatio": "12.57"
+   },
+   {
+      "name": "South Royalton Elementary School",
+      "location": {
+         "state": {
+            "name": "VERMONT",
+            "abbr": "VT "
+         }
+      },
+      "district": "White River Unified School District",
+      "level": "Elementary",
+      "type": "1-Regular school",
+      "charterSchool": "†",
+      "magnentSchool": "2-No",
+      "locale": "43-Rural: Remote",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "5th Grade"
+      },
+      "students": "150",
+      "fte": "14.72",
+      "pupilTeacherRatio": "10.19"
+   },
+   {
+      "name": "Southwest Vermont Career Development Center",
+      "location": {
+         "state": {
+            "name": "Vermont",
+            "abbr": "VT "
+         }
+      },
+      "district": "Southwest Vermont Career Development Center",
+      "level": "High",
+      "type": "3-Vocational school",
+      "charterSchool": "†",
+      "magnentSchool": "2-No",
+      "locale": "32-Town: Distant",
+      "grades": {
+         "lowest": "9th Grade",
+         "highest": "12th Grade"
+      },
+      "students": "0",
+      "fte": "15",
+      "pupilTeacherRatio": "0.00"
+   },
+   {
+      "name": "Spaulding Union High School",
+      "location": {
+         "state": {
+            "name": "VERMONT",
+            "abbr": "VT "
+         }
+      },
+      "district": "Barre Unified Union School District #97",
+      "level": "High",
+      "type": "1-Regular school",
+      "charterSchool": "†",
+      "magnentSchool": "2-No",
+      "locale": "32-Town: Distant",
+      "grades": {
+         "lowest": "9th Grade",
+         "highest": "12th Grade"
+      },
+      "students": "659",
+      "fte": "63",
+      "pupilTeacherRatio": "10.46"
+   },
+   {
+      "name": "Springfield High School",
+      "location": {
+         "state": {
+            "name": "Vermont",
+            "abbr": "VT "
+         }
+      },
+      "district": "Springfield School District",
+      "level": "High",
+      "type": "1-Regular school",
+      "charterSchool": "†",
+      "magnentSchool": "2-No",
+      "locale": "33-Town: Remote",
+      "grades": {
+         "lowest": "9th Grade",
+         "highest": "12th Grade"
+      },
+      "students": "364",
+      "fte": "28.14",
+      "pupilTeacherRatio": "12.94"
+   },
+   {
+      "name": "St. Albans City Elementary School",
+      "location": {
+         "state": {
+            "name": "VERMONT",
+            "abbr": "VT "
+         }
+      },
+      "district": "Maple Run Unified School District",
+      "level": "Elementary",
+      "type": "1-Regular school",
+      "charterSchool": "†",
+      "magnentSchool": "2-No",
+      "locale": "32-Town: Distant",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "8th Grade"
+      },
+      "students": "785",
+      "fte": "60.98",
+      "pupilTeacherRatio": "12.87"
+   },
+   {
+      "name": "St. Albans Town Educational Center",
+      "location": {
+         "state": {
+            "name": "VERMONT",
+            "abbr": "VT "
+         }
+      },
+      "district": "Maple Run Unified School District",
+      "level": "Elementary",
+      "type": "1-Regular school",
+      "charterSchool": "†",
+      "magnentSchool": "2-No",
+      "locale": "32-Town: Distant",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "8th Grade"
+      },
+      "students": "805",
+      "fte": "54.99",
+      "pupilTeacherRatio": "14.64"
+   },
+   {
+      "name": "St. Johnsbury School",
+      "location": {
+         "state": {
+            "name": "Vermont",
+            "abbr": "VT "
+         }
+      },
+      "district": "Saint Johnsbury School District",
+      "level": "Elementary",
+      "type": "1-Regular school",
+      "charterSchool": "†",
+      "magnentSchool": "2-No",
+      "locale": "33-Town: Remote",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "8th Grade"
+      },
+      "students": "685",
+      "fte": "48.4",
+      "pupilTeacherRatio": "14.15"
+   },
+   {
+      "name": "Stafford Technical Center",
+      "location": {
+         "state": {
+            "name": "Vermont",
+            "abbr": "VT "
+         }
+      },
+      "district": "Rutland City School District",
+      "level": "High",
+      "type": "3-Vocational school",
+      "charterSchool": "†",
+      "magnentSchool": "2-No",
+      "locale": "32-Town: Distant",
+      "grades": {
+         "lowest": "9th Grade",
+         "highest": "12th Grade"
+      },
+      "students": "0",
+      "fte": "21.87",
+      "pupilTeacherRatio": "0.00"
+   },
+   {
+      "name": "Stamford Elementary School",
+      "location": {
+         "state": {
+            "name": "Vermont",
+            "abbr": "VT "
+         }
+      },
+      "district": "Stamford School District",
+      "level": "Elementary",
+      "type": "1-Regular school",
+      "charterSchool": "†",
+      "magnentSchool": "2-No",
+      "locale": "41-Rural: Fringe",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "8th Grade"
+      },
+      "students": "60",
+      "fte": "6.6",
+      "pupilTeacherRatio": "9.09"
+   },
+   {
+      "name": "Stockbridge Central School",
+      "location": {
+         "state": {
+            "name": "VERMONT",
+            "abbr": "VT "
+         }
+      },
+      "district": "Rochester Stockbridge Unified School District",
+      "level": "Elementary",
+      "type": "1-Regular school",
+      "charterSchool": "†",
+      "magnentSchool": "2-No",
+      "locale": "43-Rural: Remote",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "6th Grade"
+      },
+      "students": "41",
+      "fte": "8.62",
+      "pupilTeacherRatio": "4.76"
+   },
+   {
+      "name": "Stowe Elementary School",
+      "location": {
+         "state": {
+            "name": "VERMONT",
+            "abbr": "VT "
+         }
+      },
+      "district": "Lamoille South Unified Union School District #90",
+      "level": "Elementary",
+      "type": "1-Regular school",
+      "charterSchool": "†",
+      "magnentSchool": "2-No",
+      "locale": "42-Rural: Distant",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "5th Grade"
+      },
+      "students": "407",
+      "fte": "25",
+      "pupilTeacherRatio": "16.28"
+   },
+   {
+      "name": "Stowe Middle/high School",
+      "location": {
+         "state": {
+            "name": "VERMONT",
+            "abbr": "VT "
+         }
+      },
+      "district": "Lamoille South Unified Union School District #90",
+      "level": "High",
+      "type": "1-Regular school",
+      "charterSchool": "†",
+      "magnentSchool": "2-No",
+      "locale": "42-Rural: Distant",
+      "grades": {
+         "lowest": "6th Grade",
+         "highest": "12th Grade"
+      },
+      "students": "426",
+      "fte": "31.3",
+      "pupilTeacherRatio": "13.61"
+   },
+   {
+      "name": "Summit Street School",
+      "location": {
+         "state": {
+            "name": "VERMONT",
+            "abbr": "VT "
+         }
+      },
+      "district": "Essex-Westford Educational Community Unified School District",
+      "level": "Elementary",
+      "type": "1-Regular school",
+      "charterSchool": "†",
+      "magnentSchool": "2-No",
+      "locale": "22-Suburb: Mid-size",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "3rd Grade"
+      },
+      "students": "346",
+      "fte": "19.3",
+      "pupilTeacherRatio": "17.93"
+   },
+   {
+      "name": "Sunderland Elementary School",
+      "location": {
+         "state": {
+            "name": "VERMONT",
+            "abbr": "VT "
+         }
+      },
+      "district": "Taconic and Green Regional School District",
+      "level": "Elementary",
+      "type": "1-Regular school",
+      "charterSchool": "†",
+      "magnentSchool": "2-No",
+      "locale": "42-Rural: Distant",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "6th Grade"
+      },
+      "students": "89",
+      "fte": "7.4",
+      "pupilTeacherRatio": "12.03"
+   },
+   {
+      "name": "Sustainability Academy at Lawrence Barnes",
+      "location": {
+         "state": {
+            "name": "Vermont",
+            "abbr": "VT "
+         }
+      },
+      "district": "Burlington School District",
+      "level": "Elementary",
+      "type": "1-Regular school",
+      "charterSchool": "†",
+      "magnentSchool": "1-Yes",
+      "locale": "13-City: Small",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "5th Grade"
+      },
+      "students": "202",
+      "fte": "17.53",
+      "pupilTeacherRatio": "11.52"
+   },
+   {
+      "name": "Sutton Village School",
+      "location": {
+         "state": {
+            "name": "VERMONT",
+            "abbr": "VT "
+         }
+      },
+      "district": "Kingdom East Unified Union School District",
+      "level": "Elementary",
+      "type": "1-Regular school",
+      "charterSchool": "†",
+      "magnentSchool": "2-No",
+      "locale": "42-Rural: Distant",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "8th Grade"
+      },
+      "students": "90",
+      "fte": "10.3",
+      "pupilTeacherRatio": "8.74"
+   },
+   {
+      "name": "Swanton Schools",
+      "location": {
+         "state": {
+            "name": "VERMONT",
+            "abbr": "VT "
+         }
+      },
+      "district": "Missisquoi Valley School District #89",
+      "level": "Elementary",
+      "type": "1-Regular school",
+      "charterSchool": "†",
+      "magnentSchool": "2-No",
+      "locale": "32-Town: Distant",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "6th Grade"
+      },
+      "students": "661",
+      "fte": "51.6",
+      "pupilTeacherRatio": "12.81"
+   },
+   {
+      "name": "Thatcher Brook Primary School",
+      "location": {
+         "state": {
+            "name": "VERMONT",
+            "abbr": "VT "
+         }
+      },
+      "district": "Harwood Unified School District",
+      "level": "Elementary",
+      "type": "1-Regular school",
+      "charterSchool": "†",
+      "magnentSchool": "2-No",
+      "locale": "32-Town: Distant",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "4th Grade"
+      },
+      "students": "439",
+      "fte": "31.6",
+      "pupilTeacherRatio": "13.89"
+   },
+   {
+      "name": "The Center for Technology - Essex",
+      "location": {
+         "state": {
+            "name": "VERMONT",
+            "abbr": "VT "
+         }
+      },
+      "district": "Essex-Westford Educational Community Unified School District",
+      "level": "High",
+      "type": "3-Vocational school",
+      "charterSchool": "†",
+      "magnentSchool": "2-No",
+      "locale": "22-Suburb: Mid-size",
+      "grades": {
+         "lowest": "9th Grade",
+         "highest": "12th Grade"
+      },
+      "students": "0",
+      "fte": "42.88",
+      "pupilTeacherRatio": "0.00"
+   },
+   {
+      "name": "Thetford Elementary School",
+      "location": {
+         "state": {
+            "name": "Vermont",
+            "abbr": "VT "
+         }
+      },
+      "district": "Thetford School District",
+      "level": "Elementary",
+      "type": "1-Regular school",
+      "charterSchool": "†",
+      "magnentSchool": "2-No",
+      "locale": "42-Rural: Distant",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "6th Grade"
+      },
+      "students": "229",
+      "fte": "17.6",
+      "pupilTeacherRatio": "13.01"
+   },
+   {
+      "name": "Thomas Fleming School",
+      "location": {
+         "state": {
+            "name": "VERMONT",
+            "abbr": "VT "
+         }
+      },
+      "district": "Essex-Westford Educational Community Unified School District",
+      "level": "Elementary",
+      "type": "1-Regular school",
+      "charterSchool": "†",
+      "magnentSchool": "2-No",
+      "locale": "22-Suburb: Mid-size",
+      "grades": {
+         "lowest": "4th Grade",
+         "highest": "5th Grade"
+      },
+      "students": "224",
+      "fte": "17.85",
+      "pupilTeacherRatio": "12.55"
+   },
+   {
+      "name": "Tinmouth Elementary School",
+      "location": {
+         "state": {
+            "name": "VERMONT",
+            "abbr": "VT "
+         }
+      },
+      "district": "Mill River Unified School District",
+      "level": "Elementary",
+      "type": "1-Regular school",
+      "charterSchool": "†",
+      "magnentSchool": "2-No",
+      "locale": "42-Rural: Distant",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "6th Grade"
+      },
+      "students": "57",
+      "fte": "5.3",
+      "pupilTeacherRatio": "10.75"
+   },
+   {
+      "name": "Townshend Village School",
+      "location": {
+         "state": {
+            "name": "VERMONT",
+            "abbr": "VT "
+         }
+      },
+      "district": "West River Valley Modified Union Education District #72a",
+      "level": "Elementary",
+      "type": "1-Regular school",
+      "charterSchool": "†",
+      "magnentSchool": "2-No",
+      "locale": "43-Rural: Remote",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "5th Grade"
+      },
+      "students": "122",
+      "fte": "7",
+      "pupilTeacherRatio": "17.43"
+   },
+   {
+      "name": "Troy School",
+      "location": {
+         "state": {
+            "name": "Vermont",
+            "abbr": "VT "
+         }
+      },
+      "district": "Troy School District",
+      "level": "Elementary",
+      "type": "1-Regular school",
+      "charterSchool": "†",
+      "magnentSchool": "2-No",
+      "locale": "42-Rural: Distant",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "8th Grade"
+      },
+      "students": "195",
+      "fte": "11.6",
+      "pupilTeacherRatio": "16.81"
+   },
+   {
+      "name": "Tunbridge Central School",
+      "location": {
+         "state": {
+            "name": "VERMONT",
+            "abbr": "VT "
+         }
+      },
+      "district": "First Branch Unified School District",
+      "level": "Elementary",
+      "type": "1-Regular school",
+      "charterSchool": "†",
+      "magnentSchool": "2-No",
+      "locale": "43-Rural: Remote",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "8th Grade"
+      },
+      "students": "117",
+      "fte": "12",
+      "pupilTeacherRatio": "9.75"
+   },
+   {
+      "name": "Twin Valley Elementary School",
+      "location": {
+         "state": {
+            "name": "VERMONT",
+            "abbr": "VT "
+         }
+      },
+      "district": "Twin Valley Unified School District",
+      "level": "Elementary",
+      "type": "1-Regular school",
+      "charterSchool": "†",
+      "magnentSchool": "2-No",
+      "locale": "42-Rural: Distant",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "5th Grade"
+      },
+      "students": "212",
+      "fte": "19.3",
+      "pupilTeacherRatio": "10.98"
+   },
+   {
+      "name": "Twin Valley Middle High School",
+      "location": {
+         "state": {
+            "name": "VERMONT",
+            "abbr": "VT "
+         }
+      },
+      "district": "Twin Valley Unified School District",
+      "level": "High",
+      "type": "1-Regular school",
+      "charterSchool": "†",
+      "magnentSchool": "2-No",
+      "locale": "42-Rural: Distant",
+      "grades": {
+         "lowest": "6th Grade",
+         "highest": "12th Grade"
+      },
+      "students": "212",
+      "fte": "22.5",
+      "pupilTeacherRatio": "9.42"
+   },
+   {
+      "name": "Twinfield USD #33",
+      "location": {
+         "state": {
+            "name": "Vermont",
+            "abbr": "VT "
+         }
+      },
+      "district": "Twinfield USD #33",
+      "level": "Other",
+      "type": "1-Regular school",
+      "charterSchool": "†",
+      "magnentSchool": "2-No",
+      "locale": "42-Rural: Distant",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "344",
+      "fte": "38.57",
+      "pupilTeacherRatio": "8.92"
+   },
+   {
+      "name": "U-32 Middle & High School",
+      "location": {
+         "state": {
+            "name": "VERMONT",
+            "abbr": "VT "
+         }
+      },
+      "district": "Washington Central Unified Union School District #92",
+      "level": "High",
+      "type": "1-Regular school",
+      "charterSchool": "†",
+      "magnentSchool": "2-No",
+      "locale": "41-Rural: Fringe",
+      "grades": {
+         "lowest": "7th Grade",
+         "highest": "12th Grade"
+      },
+      "students": "731",
+      "fte": "65.4",
+      "pupilTeacherRatio": "11.18"
+   },
+   {
+      "name": "Underhill Central School",
+      "location": {
+         "state": {
+            "name": "VERMONT",
+            "abbr": "VT "
+         }
+      },
+      "district": "Mount Mansfield Unified Union School District #401",
+      "level": "Elementary",
+      "type": "1-Regular school",
+      "charterSchool": "†",
+      "magnentSchool": "2-No",
+      "locale": "41-Rural: Fringe",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "4th Grade"
+      },
+      "students": "189",
+      "fte": "13.15",
+      "pupilTeacherRatio": "14.37"
+   },
+   {
+      "name": "Union Elementary School",
+      "location": {
+         "state": {
+            "name": "VERMONT",
+            "abbr": "VT "
+         }
+      },
+      "district": "Montpelier Roxbury Unified Union School District",
+      "level": "Elementary",
+      "type": "1-Regular school",
+      "charterSchool": "†",
+      "magnentSchool": "2-No",
+      "locale": "32-Town: Distant",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "4th Grade"
+      },
+      "students": "476",
+      "fte": "36.25",
+      "pupilTeacherRatio": "13.13"
+   },
+   {
+      "name": "Union Memorial School",
+      "location": {
+         "state": {
+            "name": "Vermont",
+            "abbr": "VT "
+         }
+      },
+      "district": "Colchester School District",
+      "level": "Elementary",
+      "type": "1-Regular school",
+      "charterSchool": "†",
+      "magnentSchool": "2-No",
+      "locale": "22-Suburb: Mid-size",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "2nd Grade"
+      },
+      "students": "259",
+      "fte": "18.05",
+      "pupilTeacherRatio": "14.35"
+   },
+   {
+      "name": "Union School",
+      "location": {
+         "state": {
+            "name": "Vermont",
+            "abbr": "VT "
+         }
+      },
+      "district": "Springfield School District",
+      "level": "Elementary",
+      "type": "1-Regular school",
+      "charterSchool": "†",
+      "magnentSchool": "2-No",
+      "locale": "41-Rural: Fringe",
+      "grades": {
+         "lowest": "3rd Grade",
+         "highest": "5th Grade"
+      },
+      "students": "240",
+      "fte": "18.66",
+      "pupilTeacherRatio": "12.86"
+   },
+   {
+      "name": "Vergennes Union Elementary School",
+      "location": {
+         "state": {
+            "name": "VERMONT",
+            "abbr": "VT "
+         }
+      },
+      "district": "Addison Northwest Unified School District",
+      "level": "Elementary",
+      "type": "1-Regular school",
+      "charterSchool": "†",
+      "magnentSchool": "2-No",
+      "locale": "32-Town: Distant",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "6th Grade"
+      },
+      "students": "259",
+      "fte": "19",
+      "pupilTeacherRatio": "13.63"
+   },
+   {
+      "name": "Vergennes Union High School",
+      "location": {
+         "state": {
+            "name": "VERMONT",
+            "abbr": "VT "
+         }
+      },
+      "district": "Addison Northwest Unified School District",
+      "level": "High",
+      "type": "1-Regular school",
+      "charterSchool": "†",
+      "magnentSchool": "2-No",
+      "locale": "32-Town: Distant",
+      "grades": {
+         "lowest": "7th Grade",
+         "highest": "12th Grade"
+      },
+      "students": "455",
+      "fte": "50.65",
+      "pupilTeacherRatio": "8.98"
+   },
+   {
+      "name": "Vernon Elementary School",
+      "location": {
+         "state": {
+            "name": "Vermont",
+            "abbr": "VT "
+         }
+      },
+      "district": "Vernon School District",
+      "level": "Elementary",
+      "type": "1-Regular school",
+      "charterSchool": "†",
+      "magnentSchool": "2-No",
+      "locale": "42-Rural: Distant",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "6th Grade"
+      },
+      "students": "187",
+      "fte": "14.4",
+      "pupilTeacherRatio": "12.99"
+   },
+   {
+      "name": "Waits River Valley USD #36",
+      "location": {
+         "state": {
+            "name": "Vermont",
+            "abbr": "VT "
+         }
+      },
+      "district": "Waits River Valley USD #36",
+      "level": "Elementary",
+      "type": "1-Regular school",
+      "charterSchool": "†",
+      "magnentSchool": "2-No",
+      "locale": "43-Rural: Remote",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "8th Grade"
+      },
+      "students": "245",
+      "fte": "23.78",
+      "pupilTeacherRatio": "10.3"
+   },
+   {
+      "name": "Waitsfield Elementary School",
+      "location": {
+         "state": {
+            "name": "VERMONT",
+            "abbr": "VT "
+         }
+      },
+      "district": "Harwood Unified School District",
+      "level": "Elementary",
+      "type": "1-Regular school",
+      "charterSchool": "†",
+      "magnentSchool": "2-No",
+      "locale": "42-Rural: Distant",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "6th Grade"
+      },
+      "students": "137",
+      "fte": "11.54",
+      "pupilTeacherRatio": "11.87"
+   },
+   {
+      "name": "Walden School",
+      "location": {
+         "state": {
+            "name": "VERMONT",
+            "abbr": "VT "
+         }
+      },
+      "district": "Caledonia Cooperative Unified School District",
+      "level": "Elementary",
+      "type": "1-Regular school",
+      "charterSchool": "†",
+      "magnentSchool": "2-No",
+      "locale": "42-Rural: Distant",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "8th Grade"
+      },
+      "students": "77",
+      "fte": "12.4",
+      "pupilTeacherRatio": "6.21"
+   },
+   {
+      "name": "Wallingford Village School",
+      "location": {
+         "state": {
+            "name": "VERMONT",
+            "abbr": "VT "
+         }
+      },
+      "district": "Mill River Unified School District",
+      "level": "Elementary",
+      "type": "1-Regular school",
+      "charterSchool": "†",
+      "magnentSchool": "2-No",
+      "locale": "42-Rural: Distant",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "6th Grade"
+      },
+      "students": "160",
+      "fte": "8.6",
+      "pupilTeacherRatio": "18.6"
+   },
+   {
+      "name": "Wardsboro Central School",
+      "location": {
+         "state": {
+            "name": "VERMONT",
+            "abbr": "VT "
+         }
+      },
+      "district": "River Valleys Unified School District #73",
+      "level": "Elementary",
+      "type": "1-Regular school",
+      "charterSchool": "†",
+      "magnentSchool": "2-No",
+      "locale": "43-Rural: Remote",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "6th Grade"
+      },
+      "students": "46",
+      "fte": "5.5",
+      "pupilTeacherRatio": "8.36"
+   },
+   {
+      "name": "Warren Elementary School",
+      "location": {
+         "state": {
+            "name": "VERMONT",
+            "abbr": "VT "
+         }
+      },
+      "district": "Harwood Unified School District",
+      "level": "Elementary",
+      "type": "1-Regular school",
+      "charterSchool": "†",
+      "magnentSchool": "2-No",
+      "locale": "42-Rural: Distant",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "6th Grade"
+      },
+      "students": "156",
+      "fte": "12.74",
+      "pupilTeacherRatio": "12.24"
+   },
+   {
+      "name": "Washington Village School",
+      "location": {
+         "state": {
+            "name": "VERMONT",
+            "abbr": "VT "
+         }
+      },
+      "district": "Echo Valley Community School District",
+      "level": "Elementary",
+      "type": "1-Regular school",
+      "charterSchool": "†",
+      "magnentSchool": "2-No",
+      "locale": "42-Rural: Distant",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "4th Grade"
+      },
+      "students": "115",
+      "fte": "6.5",
+      "pupilTeacherRatio": "17.69"
+   },
+   {
+      "name": "Waterford Elementary School",
+      "location": {
+         "state": {
+            "name": "VERMONT",
+            "abbr": "VT "
+         }
+      },
+      "district": "Caledonia Cooperative Unified School District",
+      "level": "Elementary",
+      "type": "1-Regular school",
+      "charterSchool": "†",
+      "magnentSchool": "2-No",
+      "locale": "42-Rural: Distant",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "8th Grade"
+      },
+      "students": "153",
+      "fte": "17.2",
+      "pupilTeacherRatio": "8.9"
+   },
+   {
+      "name": "Waterville Elementary School",
+      "location": {
+         "state": {
+            "name": "VERMONT",
+            "abbr": "VT "
+         }
+      },
+      "district": "Lamoille North Modified USD #058a",
+      "level": "Elementary",
+      "type": "1-Regular school",
+      "charterSchool": "†",
+      "magnentSchool": "2-No",
+      "locale": "42-Rural: Distant",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "6th Grade"
+      },
+      "students": "87",
+      "fte": "7.8",
+      "pupilTeacherRatio": "11.15"
+   },
+   {
+      "name": "Weathersfield School",
+      "location": {
+         "state": {
+            "name": "Vermont",
+            "abbr": "VT "
+         }
+      },
+      "district": "Weathersfield School District",
+      "level": "Elementary",
+      "type": "1-Regular school",
+      "charterSchool": "†",
+      "magnentSchool": "2-No",
+      "locale": "33-Town: Remote",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "8th Grade"
+      },
+      "students": "256",
+      "fte": "17",
+      "pupilTeacherRatio": "15.06"
+   },
+   {
+      "name": "Wells Village School",
+      "location": {
+         "state": {
+            "name": "VERMONT",
+            "abbr": "VT "
+         }
+      },
+      "district": "Wells Spring Unified Union School District",
+      "level": "Elementary",
+      "type": "1-Regular school",
+      "charterSchool": "†",
+      "magnentSchool": "2-No",
+      "locale": "41-Rural: Fringe",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "6th Grade"
+      },
+      "students": "97",
+      "fte": "8.2",
+      "pupilTeacherRatio": "11.83"
+   },
+   {
+      "name": "West Rutland School",
+      "location": {
+         "state": {
+            "name": "VERMONT",
+            "abbr": "VT "
+         }
+      },
+      "district": "Quarry Valley Unified Union School District #70",
+      "level": "Other",
+      "type": "1-Regular school",
+      "charterSchool": "†",
+      "magnentSchool": "2-No",
+      "locale": "32-Town: Distant",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "333",
+      "fte": "31.95",
+      "pupilTeacherRatio": "10.42"
+   },
+   {
+      "name": "Westford Elementary School",
+      "location": {
+         "state": {
+            "name": "VERMONT",
+            "abbr": "VT "
+         }
+      },
+      "district": "Essex-Westford Educational Community Unified School District",
+      "level": "Elementary",
+      "type": "1-Regular school",
+      "charterSchool": "†",
+      "magnentSchool": "2-No",
+      "locale": "42-Rural: Distant",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "8th Grade"
+      },
+      "students": "187",
+      "fte": "15.8",
+      "pupilTeacherRatio": "11.84"
+   },
+   {
+      "name": "Westminster Schools",
+      "location": {
+         "state": {
+            "name": "VERMONT",
+            "abbr": "VT "
+         }
+      },
+      "district": "Windham Northeast Union Elementary School District #95",
+      "level": "Elementary",
+      "type": "1-Regular school",
+      "charterSchool": "†",
+      "magnentSchool": "2-No",
+      "locale": "41-Rural: Fringe",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "6th Grade"
+      },
+      "students": "206",
+      "fte": "15.66",
+      "pupilTeacherRatio": "13.15"
+   },
+   {
+      "name": "Westshire Elementary School",
+      "location": {
+         "state": {
+            "name": "Vermont",
+            "abbr": "VT "
+         }
+      },
+      "district": "Rivendell Interstate School District",
+      "level": "Elementary",
+      "type": "1-Regular school",
+      "charterSchool": "†",
+      "magnentSchool": "2-No",
+      "locale": "43-Rural: Remote",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "4th Grade"
+      },
+      "students": "94",
+      "fte": "6.5",
+      "pupilTeacherRatio": "14.46"
+   },
+   {
+      "name": "Weybridge Elementary School",
+      "location": {
+         "state": {
+            "name": "VERMONT",
+            "abbr": "VT "
+         }
+      },
+      "district": "Addison Central Unified School District",
+      "level": "Elementary",
+      "type": "1-Regular school",
+      "charterSchool": "†",
+      "magnentSchool": "2-No",
+      "locale": "41-Rural: Fringe",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "6th Grade"
+      },
+      "students": "52",
+      "fte": "5.18",
+      "pupilTeacherRatio": "10.04"
+   },
+   {
+      "name": "White River School",
+      "location": {
+         "state": {
+            "name": "Vermont",
+            "abbr": "VT "
+         }
+      },
+      "district": "Hartford School District",
+      "level": "Elementary",
+      "type": "1-Regular school",
+      "charterSchool": "†",
+      "magnentSchool": "2-No",
+      "locale": "33-Town: Remote",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "5th Grade"
+      },
+      "students": "190",
+      "fte": "21.68",
+      "pupilTeacherRatio": "8.76"
+   },
+   {
+      "name": "White River Valley High School",
+      "location": {
+         "state": {
+            "name": "VERMONT",
+            "abbr": "VT "
+         }
+      },
+      "district": "White River Unified School District",
+      "level": "High",
+      "type": "1-Regular school",
+      "charterSchool": "†",
+      "magnentSchool": "2-No",
+      "locale": "43-Rural: Remote",
+      "grades": {
+         "lowest": "9th Grade",
+         "highest": "12th Grade"
+      },
+      "students": "188",
+      "fte": "11.9",
+      "pupilTeacherRatio": "15.8"
+   },
+   {
+      "name": "White River Valley Middle School",
+      "location": {
+         "state": {
+            "name": "VERMONT",
+            "abbr": "VT "
+         }
+      },
+      "district": "White River Unified School District",
+      "level": "Middle",
+      "type": "1-Regular school",
+      "charterSchool": "†",
+      "magnentSchool": "2-No",
+      "locale": "43-Rural: Remote",
+      "grades": {
+         "lowest": "6th Grade",
+         "highest": "8th Grade"
+      },
+      "students": "143",
+      "fte": "16.9",
+      "pupilTeacherRatio": "8.46"
+   },
+   {
+      "name": "Williamstown Elementary School",
+      "location": {
+         "state": {
+            "name": "VERMONT",
+            "abbr": "VT "
+         }
+      },
+      "district": "Paine Mountain School District",
+      "level": "Elementary",
+      "type": "1-Regular school",
+      "charterSchool": "†",
+      "magnentSchool": "2-No",
+      "locale": "32-Town: Distant",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "5th Grade"
+      },
+      "students": "257",
+      "fte": "17.8",
+      "pupilTeacherRatio": "14.44"
+   },
+   {
+      "name": "Williamstown Middle/high School",
+      "location": {
+         "state": {
+            "name": "VERMONT",
+            "abbr": "VT "
+         }
+      },
+      "district": "Paine Mountain School District",
+      "level": "High",
+      "type": "1-Regular school",
+      "charterSchool": "†",
+      "magnentSchool": "2-No",
+      "locale": "41-Rural: Fringe",
+      "grades": {
+         "lowest": "6th Grade",
+         "highest": "12th Grade"
+      },
+      "students": "277",
+      "fte": "18",
+      "pupilTeacherRatio": "15.39"
+   },
+   {
+      "name": "Williston Schools",
+      "location": {
+         "state": {
+            "name": "VERMONT",
+            "abbr": "VT "
+         }
+      },
+      "district": "Champlain Valley Unified School District",
+      "level": "Elementary",
+      "type": "1-Regular school",
+      "charterSchool": "†",
+      "magnentSchool": "2-No",
+      "locale": "22-Suburb: Mid-size",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "8th Grade"
+      },
+      "students": "1125",
+      "fte": "74.2",
+      "pupilTeacherRatio": "15.16"
+   },
+   {
+      "name": "Windham Elementary School",
+      "location": {
+         "state": {
+            "name": "Vermont",
+            "abbr": "VT "
+         }
+      },
+      "district": "Windham School District",
+      "level": "Elementary",
+      "type": "1-Regular school",
+      "charterSchool": "†",
+      "magnentSchool": "2-No",
+      "locale": "43-Rural: Remote",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "6th Grade"
+      },
+      "students": "21",
+      "fte": "2",
+      "pupilTeacherRatio": "10.5"
+   },
+   {
+      "name": "Windham Regional Career Center",
+      "location": {
+         "state": {
+            "name": "VERMONT",
+            "abbr": "VT "
+         }
+      },
+      "district": "Windham Southeast Unified Union School District #96",
+      "level": "High",
+      "type": "3-Vocational school",
+      "charterSchool": "†",
+      "magnentSchool": "2-No",
+      "locale": "32-Town: Distant",
+      "grades": {
+         "lowest": "9th Grade",
+         "highest": "12th Grade"
+      },
+      "students": "0",
+      "fte": "15.25",
+      "pupilTeacherRatio": "0.00"
+   },
+   {
+      "name": "Windsor School",
+      "location": {
+         "state": {
+            "name": "VERMONT",
+            "abbr": "VT "
+         }
+      },
+      "district": "Mount Ascutney School District #86",
+      "level": "Other",
+      "type": "1-Regular school",
+      "charterSchool": "†",
+      "magnentSchool": "2-No",
+      "locale": "33-Town: Remote",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "601",
+      "fte": "41.7",
+      "pupilTeacherRatio": "14.41"
+   },
+   {
+      "name": "Winooski High School",
+      "location": {
+         "state": {
+            "name": "Vermont",
+            "abbr": "VT "
+         }
+      },
+      "district": "Winooski School District",
+      "level": "High",
+      "type": "1-Regular school",
+      "charterSchool": "†",
+      "magnentSchool": "2-No",
+      "locale": "22-Suburb: Mid-size",
+      "grades": {
+         "lowest": "9th Grade",
+         "highest": "12th Grade"
+      },
+      "students": "204",
+      "fte": "27.6",
+      "pupilTeacherRatio": "7.39"
+   },
+   {
+      "name": "Winooski Middle School",
+      "location": {
+         "state": {
+            "name": "Vermont",
+            "abbr": "VT "
+         }
+      },
+      "district": "Winooski School District",
+      "level": "Middle",
+      "type": "1-Regular school",
+      "charterSchool": "†",
+      "magnentSchool": "2-No",
+      "locale": "22-Suburb: Mid-size",
+      "grades": {
+         "lowest": "6th Grade",
+         "highest": "8th Grade"
+      },
+      "students": "168",
+      "fte": "22.18",
+      "pupilTeacherRatio": "7.57"
+   },
+   {
+      "name": "Wolcott Elementary School",
+      "location": {
+         "state": {
+            "name": "Vermont",
+            "abbr": "VT "
+         }
+      },
+      "district": "Wolcott School District",
+      "level": "Elementary",
+      "type": "1-Regular school",
+      "charterSchool": "†",
+      "magnentSchool": "2-No",
+      "locale": "42-Rural: Distant",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "6th Grade"
+      },
+      "students": "126",
+      "fte": "12.6",
+      "pupilTeacherRatio": "10"
+   },
+   {
+      "name": "Woodbury Elementary School",
+      "location": {
+         "state": {
+            "name": "VERMONT",
+            "abbr": "VT "
+         }
+      },
+      "district": "Orleans Southwest Union Elementary School District #94",
+      "level": "Elementary",
+      "type": "1-Regular school",
+      "charterSchool": "†",
+      "magnentSchool": "2-No",
+      "locale": "43-Rural: Remote",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "6th Grade"
+      },
+      "students": "44",
+      "fte": "4",
+      "pupilTeacherRatio": "11"
+   },
+   {
+      "name": "Woodford Hollow School",
+      "location": {
+         "state": {
+            "name": "VERMONT",
+            "abbr": "VT "
+         }
+      },
+      "district": "Southwest Vermont Union Elementary School District #87",
+      "level": "Elementary",
+      "type": "1-Regular school",
+      "charterSchool": "†",
+      "magnentSchool": "2-No",
+      "locale": "41-Rural: Fringe",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "6th Grade"
+      },
+      "students": "21",
+      "fte": "3.3",
+      "pupilTeacherRatio": "6.36"
+   },
+   {
+      "name": "Woodside Juvenile Rehabilitation Center",
+      "location": {
+         "state": {
+            "name": "Vermont",
+            "abbr": "VT "
+         }
+      },
+      "district": "Woodside Juvenile Rehabilitation Center",
+      "level": "High",
+      "type": "4-Alternative/other school",
+      "charterSchool": "†",
+      "magnentSchool": "2-No",
+      "locale": "22-Suburb: Mid-size",
+      "grades": {
+         "lowest": "7th Grade",
+         "highest": "12th Grade"
+      },
+      "students": "7",
+      "fte": "–",
+      "pupilTeacherRatio": "†"
+   },
+   {
+      "name": "Woodstock Elementary School",
+      "location": {
+         "state": {
+            "name": "VERMONT",
+            "abbr": "VT "
+         }
+      },
+      "district": "Windsor Central Modified Unified Union School District #76a",
+      "level": "Elementary",
+      "type": "1-Regular school",
+      "charterSchool": "†",
+      "magnentSchool": "2-No",
+      "locale": "42-Rural: Distant",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "6th Grade"
+      },
+      "students": "317",
+      "fte": "17.5",
+      "pupilTeacherRatio": "18.11"
+   },
+   {
+      "name": "Woodstock Union Middle/high School",
+      "location": {
+         "state": {
+            "name": "VERMONT",
+            "abbr": "VT "
+         }
+      },
+      "district": "Windsor Central Modified Unified Union School District #76b",
+      "level": "High",
+      "type": "1-Regular school",
+      "charterSchool": "†",
+      "magnentSchool": "2-No",
+      "locale": "42-Rural: Distant",
+      "grades": {
+         "lowest": "7th Grade",
+         "highest": "12th Grade"
+      },
+      "students": "500",
+      "fte": "38.44",
+      "pupilTeacherRatio": "13.01"
+   }
+]

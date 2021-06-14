@@ -1,0 +1,5062 @@
+[
+   {
+      "name": "Achievement Preparatory Academy Pcs - Wahler Place Es",
+      "location": {
+         "state": {
+            "name": "District of Columbia",
+            "abbr": "DC "
+         }
+      },
+      "district": "Achievement Preparatory Academy Pcs",
+      "level": "Elementary",
+      "type": "1-Regular school",
+      "charterSchool": "1-Yes",
+      "magnentSchool": "†",
+      "locale": "11-City: Large",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "3rd Grade"
+      },
+      "students": "384",
+      "fte": "38",
+      "pupilTeacherRatio": "10.11"
+   },
+   {
+      "name": "Achievement Preparatory Academy Pcs - Wahler Place Ms",
+      "location": {
+         "state": {
+            "name": "District of Columbia",
+            "abbr": "DC "
+         }
+      },
+      "district": "Achievement Preparatory Academy Pcs",
+      "level": "Middle",
+      "type": "1-Regular school",
+      "charterSchool": "1-Yes",
+      "magnentSchool": "†",
+      "locale": "11-City: Large",
+      "grades": {
+         "lowest": "4th Grade",
+         "highest": "8th Grade"
+      },
+      "students": "361",
+      "fte": "20.75",
+      "pupilTeacherRatio": "17.4"
+   },
+   {
+      "name": "Aiton Es",
+      "location": {
+         "state": {
+            "name": "District of Columbia",
+            "abbr": "DC "
+         }
+      },
+      "district": "District of Columbia Public Schools",
+      "level": "Elementary",
+      "type": "1-Regular school",
+      "charterSchool": "2-No",
+      "magnentSchool": "†",
+      "locale": "11-City: Large",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "5th Grade"
+      },
+      "students": "224",
+      "fte": "18.5",
+      "pupilTeacherRatio": "12.11"
+   },
+   {
+      "name": "Amidon-Bowen Es",
+      "location": {
+         "state": {
+            "name": "District of Columbia",
+            "abbr": "DC "
+         }
+      },
+      "district": "District of Columbia Public Schools",
+      "level": "Elementary",
+      "type": "1-Regular school",
+      "charterSchool": "2-No",
+      "magnentSchool": "†",
+      "locale": "11-City: Large",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "5th Grade"
+      },
+      "students": "335",
+      "fte": "29",
+      "pupilTeacherRatio": "11.55"
+   },
+   {
+      "name": "Anacostia Hs",
+      "location": {
+         "state": {
+            "name": "District of Columbia",
+            "abbr": "DC "
+         }
+      },
+      "district": "District of Columbia Public Schools",
+      "level": "High",
+      "type": "1-Regular school",
+      "charterSchool": "2-No",
+      "magnentSchool": "†",
+      "locale": "11-City: Large",
+      "grades": {
+         "lowest": "9th Grade",
+         "highest": "12th Grade"
+      },
+      "students": "321",
+      "fte": "38",
+      "pupilTeacherRatio": "8.45"
+   },
+   {
+      "name": "Appletree Early Learning Center Pcs - Columbia Heights",
+      "location": {
+         "state": {
+            "name": "District of Columbia",
+            "abbr": "DC "
+         }
+      },
+      "district": "Appletree Early Learning Pcs",
+      "level": "Prekindergarten",
+      "type": "1-Regular school",
+      "charterSchool": "1-Yes",
+      "magnentSchool": "†",
+      "locale": "11-City: Large",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "Prekindergarten"
+      },
+      "students": "147",
+      "fte": "33",
+      "pupilTeacherRatio": "4.45"
+   },
+   {
+      "name": "Appletree Early Learning Center Pcs - Douglas Knoll",
+      "location": {
+         "state": {
+            "name": "District of Columbia",
+            "abbr": "DC "
+         }
+      },
+      "district": "Appletree Early Learning Pcs",
+      "level": "Prekindergarten",
+      "type": "1-Regular school",
+      "charterSchool": "1-Yes",
+      "magnentSchool": "†",
+      "locale": "11-City: Large",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "Prekindergarten"
+      },
+      "students": "89",
+      "fte": "12",
+      "pupilTeacherRatio": "7.42"
+   },
+   {
+      "name": "Appletree Early Learning Center Pcs - Lincoln Park",
+      "location": {
+         "state": {
+            "name": "District of Columbia",
+            "abbr": "DC "
+         }
+      },
+      "district": "Appletree Early Learning Pcs",
+      "level": "Prekindergarten",
+      "type": "1-Regular school",
+      "charterSchool": "1-Yes",
+      "magnentSchool": "†",
+      "locale": "11-City: Large",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "Prekindergarten"
+      },
+      "students": "60",
+      "fte": "9",
+      "pupilTeacherRatio": "6.67"
+   },
+   {
+      "name": "Appletree Early Learning Center Pcs - Oklahoma Avenue",
+      "location": {
+         "state": {
+            "name": "District of Columbia",
+            "abbr": "DC "
+         }
+      },
+      "district": "Appletree Early Learning Pcs",
+      "level": "Prekindergarten",
+      "type": "1-Regular school",
+      "charterSchool": "1-Yes",
+      "magnentSchool": "†",
+      "locale": "11-City: Large",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "Prekindergarten"
+      },
+      "students": "149",
+      "fte": "27",
+      "pupilTeacherRatio": "5.52"
+   },
+   {
+      "name": "Appletree Early Learning Center Pcs - Parklands at Thearc",
+      "location": {
+         "state": {
+            "name": "DISTRICT OF COLUMBIA",
+            "abbr": "DC "
+         }
+      },
+      "district": "Appletree Early Learning Pcs",
+      "level": "Prekindergarten",
+      "type": "1-Regular school",
+      "charterSchool": "1-Yes",
+      "magnentSchool": "†",
+      "locale": "11-City: Large",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "Prekindergarten"
+      },
+      "students": "99",
+      "fte": "12",
+      "pupilTeacherRatio": "8.25"
+   },
+   {
+      "name": "Ballou Hs",
+      "location": {
+         "state": {
+            "name": "District of Columbia",
+            "abbr": "DC "
+         }
+      },
+      "district": "District of Columbia Public Schools",
+      "level": "High",
+      "type": "1-Regular school",
+      "charterSchool": "2-No",
+      "magnentSchool": "†",
+      "locale": "11-City: Large",
+      "grades": {
+         "lowest": "9th Grade",
+         "highest": "12th Grade"
+      },
+      "students": "573",
+      "fte": "49.5",
+      "pupilTeacherRatio": "11.58"
+   },
+   {
+      "name": "Ballou Stay Hs",
+      "location": {
+         "state": {
+            "name": "District of Columbia",
+            "abbr": "DC "
+         }
+      },
+      "district": "District of Columbia Public Schools",
+      "level": "High",
+      "type": "4-Alternative/other school",
+      "charterSchool": "2-No",
+      "magnentSchool": "†",
+      "locale": "11-City: Large",
+      "grades": {
+         "lowest": "9th Grade",
+         "highest": "12th Grade"
+      },
+      "students": "265",
+      "fte": "22.98",
+      "pupilTeacherRatio": "11.53"
+   },
+   {
+      "name": "Bancroft Es",
+      "location": {
+         "state": {
+            "name": "District of Columbia",
+            "abbr": "DC "
+         }
+      },
+      "district": "District of Columbia Public Schools",
+      "level": "Elementary",
+      "type": "1-Regular school",
+      "charterSchool": "2-No",
+      "magnentSchool": "†",
+      "locale": "11-City: Large",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "5th Grade"
+      },
+      "students": "616",
+      "fte": "52.5",
+      "pupilTeacherRatio": "11.73"
+   },
+   {
+      "name": "Bard Hs Early College Dc",
+      "location": {
+         "state": {
+            "name": "DISTRICT OF COLUMBIA",
+            "abbr": "DC "
+         }
+      },
+      "district": "District of Columbia Public Schools",
+      "level": "Secondary",
+      "type": "1-Regular school",
+      "charterSchool": "2-No",
+      "magnentSchool": "†",
+      "locale": "11-City: Large",
+      "grades": {
+         "lowest": "9th Grade",
+         "highest": "11th Grade"
+      },
+      "students": "167",
+      "fte": "13",
+      "pupilTeacherRatio": "12.85"
+   },
+   {
+      "name": "Barnard Es",
+      "location": {
+         "state": {
+            "name": "District of Columbia",
+            "abbr": "DC "
+         }
+      },
+      "district": "District of Columbia Public Schools",
+      "level": "Elementary",
+      "type": "1-Regular school",
+      "charterSchool": "2-No",
+      "magnentSchool": "†",
+      "locale": "11-City: Large",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "5th Grade"
+      },
+      "students": "646",
+      "fte": "55.5",
+      "pupilTeacherRatio": "11.64"
+   },
+   {
+      "name": "Basis Dc Pcs",
+      "location": {
+         "state": {
+            "name": "District of Columbia",
+            "abbr": "DC "
+         }
+      },
+      "district": "Basis Dc Pcs",
+      "level": "High",
+      "type": "1-Regular school",
+      "charterSchool": "1-Yes",
+      "magnentSchool": "†",
+      "locale": "11-City: Large",
+      "grades": {
+         "lowest": "5th Grade",
+         "highest": "12th Grade"
+      },
+      "students": "640",
+      "fte": "46.73",
+      "pupilTeacherRatio": "13.7"
+   },
+   {
+      "name": "Beers Es",
+      "location": {
+         "state": {
+            "name": "District of Columbia",
+            "abbr": "DC "
+         }
+      },
+      "district": "District of Columbia Public Schools",
+      "level": "Elementary",
+      "type": "1-Regular school",
+      "charterSchool": "2-No",
+      "magnentSchool": "†",
+      "locale": "11-City: Large",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "5th Grade"
+      },
+      "students": "479",
+      "fte": "37.5",
+      "pupilTeacherRatio": "12.77"
+   },
+   {
+      "name": "Benjamin Banneker Hs",
+      "location": {
+         "state": {
+            "name": "District of Columbia",
+            "abbr": "DC "
+         }
+      },
+      "district": "District of Columbia Public Schools",
+      "level": "High",
+      "type": "1-Regular school",
+      "charterSchool": "2-No",
+      "magnentSchool": "†",
+      "locale": "11-City: Large",
+      "grades": {
+         "lowest": "9th Grade",
+         "highest": "12th Grade"
+      },
+      "students": "523",
+      "fte": "29.5",
+      "pupilTeacherRatio": "17.73"
+   },
+   {
+      "name": "Breakthrough Montessori Pcs",
+      "location": {
+         "state": {
+            "name": "DISTRICT OF COLUMBIA",
+            "abbr": "DC "
+         }
+      },
+      "district": "Breakthrough Montessori Pcs",
+      "level": "Elementary",
+      "type": "1-Regular school",
+      "charterSchool": "1-Yes",
+      "magnentSchool": "†",
+      "locale": "11-City: Large",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "2nd Grade"
+      },
+      "students": "225",
+      "fte": "9",
+      "pupilTeacherRatio": "25"
+   },
+   {
+      "name": "Brent Es",
+      "location": {
+         "state": {
+            "name": "District of Columbia",
+            "abbr": "DC "
+         }
+      },
+      "district": "District of Columbia Public Schools",
+      "level": "Elementary",
+      "type": "1-Regular school",
+      "charterSchool": "2-No",
+      "magnentSchool": "†",
+      "locale": "11-City: Large",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "5th Grade"
+      },
+      "students": "437",
+      "fte": "32",
+      "pupilTeacherRatio": "13.66"
+   },
+   {
+      "name": "Bridges Pcs",
+      "location": {
+         "state": {
+            "name": "District of Columbia",
+            "abbr": "DC "
+         }
+      },
+      "district": "Bridges Pcs",
+      "level": "Elementary",
+      "type": "1-Regular school",
+      "charterSchool": "1-Yes",
+      "magnentSchool": "†",
+      "locale": "11-City: Large",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "5th Grade"
+      },
+      "students": "408",
+      "fte": "44",
+      "pupilTeacherRatio": "9.27"
+   },
+   {
+      "name": "Brightwood Education Campus",
+      "location": {
+         "state": {
+            "name": "District of Columbia",
+            "abbr": "DC "
+         }
+      },
+      "district": "District of Columbia Public Schools",
+      "level": "Elementary",
+      "type": "1-Regular school",
+      "charterSchool": "2-No",
+      "magnentSchool": "†",
+      "locale": "11-City: Large",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "8th Grade"
+      },
+      "students": "713",
+      "fte": "72.17",
+      "pupilTeacherRatio": "9.88"
+   },
+   {
+      "name": "Brookland Ms",
+      "location": {
+         "state": {
+            "name": "DISTRICT OF COLUMBIA",
+            "abbr": "DC "
+         }
+      },
+      "district": "District of Columbia Public Schools",
+      "level": "Middle",
+      "type": "1-Regular school",
+      "charterSchool": "2-No",
+      "magnentSchool": "†",
+      "locale": "11-City: Large",
+      "grades": {
+         "lowest": "6th Grade",
+         "highest": "8th Grade"
+      },
+      "students": "360",
+      "fte": "24",
+      "pupilTeacherRatio": "15"
+   },
+   {
+      "name": "Browne Education Campus",
+      "location": {
+         "state": {
+            "name": "District of Columbia",
+            "abbr": "DC "
+         }
+      },
+      "district": "District of Columbia Public Schools",
+      "level": "Elementary",
+      "type": "1-Regular school",
+      "charterSchool": "2-No",
+      "magnentSchool": "†",
+      "locale": "11-City: Large",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "8th Grade"
+      },
+      "students": "433",
+      "fte": "35",
+      "pupilTeacherRatio": "12.37"
+   },
+   {
+      "name": "Bruce-Monroe Es at Park View",
+      "location": {
+         "state": {
+            "name": "District of Columbia",
+            "abbr": "DC "
+         }
+      },
+      "district": "District of Columbia Public Schools",
+      "level": "Elementary",
+      "type": "1-Regular school",
+      "charterSchool": "2-No",
+      "magnentSchool": "†",
+      "locale": "11-City: Large",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "5th Grade"
+      },
+      "students": "473",
+      "fte": "45",
+      "pupilTeacherRatio": "10.51"
+   },
+   {
+      "name": "Bunker Hill Es",
+      "location": {
+         "state": {
+            "name": "District of Columbia",
+            "abbr": "DC "
+         }
+      },
+      "district": "District of Columbia Public Schools",
+      "level": "Elementary",
+      "type": "1-Regular school",
+      "charterSchool": "2-No",
+      "magnentSchool": "†",
+      "locale": "11-City: Large",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "5th Grade"
+      },
+      "students": "230",
+      "fte": "22",
+      "pupilTeacherRatio": "10.45"
+   },
+   {
+      "name": "Burroughs Es",
+      "location": {
+         "state": {
+            "name": "District of Columbia",
+            "abbr": "DC "
+         }
+      },
+      "district": "District of Columbia Public Schools",
+      "level": "Elementary",
+      "type": "1-Regular school",
+      "charterSchool": "2-No",
+      "magnentSchool": "†",
+      "locale": "11-City: Large",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "5th Grade"
+      },
+      "students": "285",
+      "fte": "28.5",
+      "pupilTeacherRatio": "10"
+   },
+   {
+      "name": "Burrville Es",
+      "location": {
+         "state": {
+            "name": "District of Columbia",
+            "abbr": "DC "
+         }
+      },
+      "district": "District of Columbia Public Schools",
+      "level": "Elementary",
+      "type": "1-Regular school",
+      "charterSchool": "2-No",
+      "magnentSchool": "†",
+      "locale": "11-City: Large",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "5th Grade"
+      },
+      "students": "311",
+      "fte": "23",
+      "pupilTeacherRatio": "13.52"
+   },
+   {
+      "name": "C.w. Harris Es",
+      "location": {
+         "state": {
+            "name": "District of Columbia",
+            "abbr": "DC "
+         }
+      },
+      "district": "District of Columbia Public Schools",
+      "level": "Elementary",
+      "type": "1-Regular school",
+      "charterSchool": "2-No",
+      "magnentSchool": "†",
+      "locale": "11-City: Large",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "5th Grade"
+      },
+      "students": "235",
+      "fte": "22.5",
+      "pupilTeacherRatio": "10.44"
+   },
+   {
+      "name": "Capital City Pcs - Hs",
+      "location": {
+         "state": {
+            "name": "District of Columbia",
+            "abbr": "DC "
+         }
+      },
+      "district": "Capital City Pcs",
+      "level": "High",
+      "type": "1-Regular school",
+      "charterSchool": "1-Yes",
+      "magnentSchool": "†",
+      "locale": "11-City: Large",
+      "grades": {
+         "lowest": "9th Grade",
+         "highest": "12th Grade"
+      },
+      "students": "336",
+      "fte": "37.3",
+      "pupilTeacherRatio": "9.01"
+   },
+   {
+      "name": "Capital City Pcs - Lower School",
+      "location": {
+         "state": {
+            "name": "District of Columbia",
+            "abbr": "DC "
+         }
+      },
+      "district": "Capital City Pcs",
+      "level": "Elementary",
+      "type": "1-Regular school",
+      "charterSchool": "1-Yes",
+      "magnentSchool": "†",
+      "locale": "11-City: Large",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "4th Grade"
+      },
+      "students": "323",
+      "fte": "28.16",
+      "pupilTeacherRatio": "11.47"
+   },
+   {
+      "name": "Capital City Pcs - Ms",
+      "location": {
+         "state": {
+            "name": "District of Columbia",
+            "abbr": "DC "
+         }
+      },
+      "district": "Capital City Pcs",
+      "level": "Middle",
+      "type": "1-Regular school",
+      "charterSchool": "1-Yes",
+      "magnentSchool": "†",
+      "locale": "11-City: Large",
+      "grades": {
+         "lowest": "5th Grade",
+         "highest": "8th Grade"
+      },
+      "students": "333",
+      "fte": "37.3",
+      "pupilTeacherRatio": "8.93"
+   },
+   {
+      "name": "Capitol Hill Montessori School at Logan",
+      "location": {
+         "state": {
+            "name": "District of Columbia",
+            "abbr": "DC "
+         }
+      },
+      "district": "District of Columbia Public Schools",
+      "level": "Elementary",
+      "type": "1-Regular school",
+      "charterSchool": "2-No",
+      "magnentSchool": "†",
+      "locale": "11-City: Large",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "8th Grade"
+      },
+      "students": "325",
+      "fte": "22.5",
+      "pupilTeacherRatio": "14.44"
+   },
+   {
+      "name": "Cardozo Education Campus",
+      "location": {
+         "state": {
+            "name": "District of Columbia",
+            "abbr": "DC "
+         }
+      },
+      "district": "District of Columbia Public Schools",
+      "level": "High",
+      "type": "1-Regular school",
+      "charterSchool": "2-No",
+      "magnentSchool": "†",
+      "locale": "11-City: Large",
+      "grades": {
+         "lowest": "6th Grade",
+         "highest": "12th Grade"
+      },
+      "students": "725",
+      "fte": "71.5",
+      "pupilTeacherRatio": "10.14"
+   },
+   {
+      "name": "Cedar Tree Academy Pcs",
+      "location": {
+         "state": {
+            "name": "District of Columbia",
+            "abbr": "DC "
+         }
+      },
+      "district": "Cedar Tree Academy Pcs",
+      "level": "Elementary",
+      "type": "1-Regular school",
+      "charterSchool": "1-Yes",
+      "magnentSchool": "†",
+      "locale": "11-City: Large",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "Kindergarten"
+      },
+      "students": "362",
+      "fte": "17.66",
+      "pupilTeacherRatio": "20.5"
+   },
+   {
+      "name": "Center City Pcs - Brightwood",
+      "location": {
+         "state": {
+            "name": "District of Columbia",
+            "abbr": "DC "
+         }
+      },
+      "district": "Center City Pcs",
+      "level": "Elementary",
+      "type": "1-Regular school",
+      "charterSchool": "1-Yes",
+      "magnentSchool": "†",
+      "locale": "11-City: Large",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "8th Grade"
+      },
+      "students": "258",
+      "fte": "26.25",
+      "pupilTeacherRatio": "9.83"
+   },
+   {
+      "name": "Center City Pcs - Capitol Hill",
+      "location": {
+         "state": {
+            "name": "District of Columbia",
+            "abbr": "DC "
+         }
+      },
+      "district": "Center City Pcs",
+      "level": "Elementary",
+      "type": "1-Regular school",
+      "charterSchool": "1-Yes",
+      "magnentSchool": "†",
+      "locale": "11-City: Large",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "8th Grade"
+      },
+      "students": "260",
+      "fte": "21.92",
+      "pupilTeacherRatio": "11.86"
+   },
+   {
+      "name": "Center City Pcs - Congress Heights",
+      "location": {
+         "state": {
+            "name": "District of Columbia",
+            "abbr": "DC "
+         }
+      },
+      "district": "Center City Pcs",
+      "level": "Elementary",
+      "type": "1-Regular school",
+      "charterSchool": "1-Yes",
+      "magnentSchool": "†",
+      "locale": "11-City: Large",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "8th Grade"
+      },
+      "students": "252",
+      "fte": "24.49",
+      "pupilTeacherRatio": "10.29"
+   },
+   {
+      "name": "Center City Pcs - Petworth",
+      "location": {
+         "state": {
+            "name": "District of Columbia",
+            "abbr": "DC "
+         }
+      },
+      "district": "Center City Pcs",
+      "level": "Elementary",
+      "type": "1-Regular school",
+      "charterSchool": "1-Yes",
+      "magnentSchool": "†",
+      "locale": "11-City: Large",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "8th Grade"
+      },
+      "students": "255",
+      "fte": "24.37",
+      "pupilTeacherRatio": "10.46"
+   },
+   {
+      "name": "Center City Pcs - Shaw",
+      "location": {
+         "state": {
+            "name": "District of Columbia",
+            "abbr": "DC "
+         }
+      },
+      "district": "Center City Pcs",
+      "level": "Elementary",
+      "type": "1-Regular school",
+      "charterSchool": "1-Yes",
+      "magnentSchool": "†",
+      "locale": "11-City: Large",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "8th Grade"
+      },
+      "students": "231",
+      "fte": "22",
+      "pupilTeacherRatio": "10.5"
+   },
+   {
+      "name": "Center City Pcs - Trinidad",
+      "location": {
+         "state": {
+            "name": "District of Columbia",
+            "abbr": "DC "
+         }
+      },
+      "district": "Center City Pcs",
+      "level": "Elementary",
+      "type": "1-Regular school",
+      "charterSchool": "1-Yes",
+      "magnentSchool": "†",
+      "locale": "11-City: Large",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "8th Grade"
+      },
+      "students": "219",
+      "fte": "20.98",
+      "pupilTeacherRatio": "10.44"
+   },
+   {
+      "name": "Cesar Chavez Pcs for Public Policy - Parkside Hs",
+      "location": {
+         "state": {
+            "name": "District of Columbia",
+            "abbr": "DC "
+         }
+      },
+      "district": "Cesar Chavez Pcs for Public Policy",
+      "level": "High",
+      "type": "1-Regular school",
+      "charterSchool": "1-Yes",
+      "magnentSchool": "†",
+      "locale": "11-City: Large",
+      "grades": {
+         "lowest": "9th Grade",
+         "highest": "12th Grade"
+      },
+      "students": "369",
+      "fte": "31.83",
+      "pupilTeacherRatio": "11.59"
+   },
+   {
+      "name": "Cesar Chavez Pcs for Public Policy - Parkside Ms",
+      "location": {
+         "state": {
+            "name": "District of Columbia",
+            "abbr": "DC "
+         }
+      },
+      "district": "Cesar Chavez Pcs for Public Policy",
+      "level": "Middle",
+      "type": "1-Regular school",
+      "charterSchool": "1-Yes",
+      "magnentSchool": "†",
+      "locale": "11-City: Large",
+      "grades": {
+         "lowest": "8th Grade",
+         "highest": "8th Grade"
+      },
+      "students": "60",
+      "fte": "4.17",
+      "pupilTeacherRatio": "14.39"
+   },
+   {
+      "name": "Cleveland Es",
+      "location": {
+         "state": {
+            "name": "District of Columbia",
+            "abbr": "DC "
+         }
+      },
+      "district": "District of Columbia Public Schools",
+      "level": "Elementary",
+      "type": "1-Regular school",
+      "charterSchool": "2-No",
+      "magnentSchool": "†",
+      "locale": "11-City: Large",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "5th Grade"
+      },
+      "students": "308",
+      "fte": "27.5",
+      "pupilTeacherRatio": "11.2"
+   },
+   {
+      "name": "Columbia Heights Education Campus",
+      "location": {
+         "state": {
+            "name": "District of Columbia",
+            "abbr": "DC "
+         }
+      },
+      "district": "District of Columbia Public Schools",
+      "level": "High",
+      "type": "1-Regular school",
+      "charterSchool": "2-No",
+      "magnentSchool": "†",
+      "locale": "11-City: Large",
+      "grades": {
+         "lowest": "6th Grade",
+         "highest": "12th Grade"
+      },
+      "students": "1481",
+      "fte": "110.5",
+      "pupilTeacherRatio": "13.4"
+   },
+   {
+      "name": "Coolidge Hs",
+      "location": {
+         "state": {
+            "name": "District of Columbia",
+            "abbr": "DC "
+         }
+      },
+      "district": "District of Columbia Public Schools",
+      "level": "High",
+      "type": "1-Regular school",
+      "charterSchool": "2-No",
+      "magnentSchool": "†",
+      "locale": "11-City: Large",
+      "grades": {
+         "lowest": "9th Grade",
+         "highest": "12th Grade"
+      },
+      "students": "457",
+      "fte": "38",
+      "pupilTeacherRatio": "12.03"
+   },
+   {
+      "name": "Creative Minds International Pcs",
+      "location": {
+         "state": {
+            "name": "District of Columbia",
+            "abbr": "DC "
+         }
+      },
+      "district": "Creative Minds International Pcs",
+      "level": "Elementary",
+      "type": "1-Regular school",
+      "charterSchool": "1-Yes",
+      "magnentSchool": "†",
+      "locale": "11-City: Large",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "8th Grade"
+      },
+      "students": "518",
+      "fte": "49.5",
+      "pupilTeacherRatio": "10.46"
+   },
+   {
+      "name": "Dc Bilingual Pcs",
+      "location": {
+         "state": {
+            "name": "District of Columbia",
+            "abbr": "DC "
+         }
+      },
+      "district": "Dc Bilingual Pcs",
+      "level": "Elementary",
+      "type": "1-Regular school",
+      "charterSchool": "1-Yes",
+      "magnentSchool": "†",
+      "locale": "11-City: Large",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "5th Grade"
+      },
+      "students": "453",
+      "fte": "49",
+      "pupilTeacherRatio": "9.24"
+   },
+   {
+      "name": "Dc Prep Pcs - Anacostia Es",
+      "location": {
+         "state": {
+            "name": "DISTRICT OF COLUMBIA",
+            "abbr": "DC "
+         }
+      },
+      "district": "Dc Prep Pcs",
+      "level": "Elementary",
+      "type": "1-Regular school",
+      "charterSchool": "1-Yes",
+      "magnentSchool": "†",
+      "locale": "11-City: Large",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "3rd Grade"
+      },
+      "students": "459",
+      "fte": "41",
+      "pupilTeacherRatio": "11.2"
+   },
+   {
+      "name": "Dc Prep Pcs - Benning Es",
+      "location": {
+         "state": {
+            "name": "District of Columbia",
+            "abbr": "DC "
+         }
+      },
+      "district": "Dc Prep Pcs",
+      "level": "Elementary",
+      "type": "1-Regular school",
+      "charterSchool": "1-Yes",
+      "magnentSchool": "†",
+      "locale": "11-City: Large",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "3rd Grade"
+      },
+      "students": "455",
+      "fte": "41",
+      "pupilTeacherRatio": "11.1"
+   },
+   {
+      "name": "Dc Prep Pcs - Benning Ms",
+      "location": {
+         "state": {
+            "name": "District of Columbia",
+            "abbr": "DC "
+         }
+      },
+      "district": "Dc Prep Pcs",
+      "level": "Middle",
+      "type": "1-Regular school",
+      "charterSchool": "1-Yes",
+      "magnentSchool": "†",
+      "locale": "11-City: Large",
+      "grades": {
+         "lowest": "4th Grade",
+         "highest": "8th Grade"
+      },
+      "students": "342",
+      "fte": "33.5",
+      "pupilTeacherRatio": "10.21"
+   },
+   {
+      "name": "Dc Prep Pcs - Edgewood Es",
+      "location": {
+         "state": {
+            "name": "District of Columbia",
+            "abbr": "DC "
+         }
+      },
+      "district": "Dc Prep Pcs",
+      "level": "Elementary",
+      "type": "1-Regular school",
+      "charterSchool": "1-Yes",
+      "magnentSchool": "†",
+      "locale": "11-City: Large",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "3rd Grade"
+      },
+      "students": "442",
+      "fte": "43.5",
+      "pupilTeacherRatio": "10.16"
+   },
+   {
+      "name": "Dc Prep Pcs - Edgewood Ms",
+      "location": {
+         "state": {
+            "name": "District of Columbia",
+            "abbr": "DC "
+         }
+      },
+      "district": "Dc Prep Pcs",
+      "level": "Middle",
+      "type": "1-Regular school",
+      "charterSchool": "1-Yes",
+      "magnentSchool": "†",
+      "locale": "11-City: Large",
+      "grades": {
+         "lowest": "4th Grade",
+         "highest": "8th Grade"
+      },
+      "students": "339",
+      "fte": "32.5",
+      "pupilTeacherRatio": "10.43"
+   },
+   {
+      "name": "Dc Scholars Pcs",
+      "location": {
+         "state": {
+            "name": "District of Columbia",
+            "abbr": "DC "
+         }
+      },
+      "district": "Dc Scholars Pcs",
+      "level": "Elementary",
+      "type": "1-Regular school",
+      "charterSchool": "1-Yes",
+      "magnentSchool": "†",
+      "locale": "11-City: Large",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "8th Grade"
+      },
+      "students": "554",
+      "fte": "38",
+      "pupilTeacherRatio": "14.58"
+   },
+   {
+      "name": "Deal Ms",
+      "location": {
+         "state": {
+            "name": "District of Columbia",
+            "abbr": "DC "
+         }
+      },
+      "district": "District of Columbia Public Schools",
+      "level": "Middle",
+      "type": "1-Regular school",
+      "charterSchool": "2-No",
+      "magnentSchool": "†",
+      "locale": "11-City: Large",
+      "grades": {
+         "lowest": "6th Grade",
+         "highest": "8th Grade"
+      },
+      "students": "1458",
+      "fte": "112",
+      "pupilTeacherRatio": "13.02"
+   },
+   {
+      "name": "Digital Pioneers Academy Pcs",
+      "location": {
+         "state": {
+            "name": "DISTRICT OF COLUMBIA",
+            "abbr": "DC "
+         }
+      },
+      "district": "Digital Pioneers Academy Pcs",
+      "level": "Middle",
+      "type": "1-Regular school",
+      "charterSchool": "1-Yes",
+      "magnentSchool": "†",
+      "locale": "11-City: Large",
+      "grades": {
+         "lowest": "6th Grade",
+         "highest": "7th Grade"
+      },
+      "students": "243",
+      "fte": "21",
+      "pupilTeacherRatio": "11.57"
+   },
+   {
+      "name": "District of Columbia International School",
+      "location": {
+         "state": {
+            "name": "DISTRICT OF COLUMBIA",
+            "abbr": "DC "
+         }
+      },
+      "district": "District of Columbia International School",
+      "level": "High",
+      "type": "1-Regular school",
+      "charterSchool": "1-Yes",
+      "magnentSchool": "†",
+      "locale": "11-City: Large",
+      "grades": {
+         "lowest": "6th Grade",
+         "highest": "12th Grade"
+      },
+      "students": "1264",
+      "fte": "110",
+      "pupilTeacherRatio": "11.49"
+   },
+   {
+      "name": "Dorothy I. Height Es",
+      "location": {
+         "state": {
+            "name": "DISTRICT OF COLUMBIA",
+            "abbr": "DC "
+         }
+      },
+      "district": "District of Columbia Public Schools",
+      "level": "Elementary",
+      "type": "1-Regular school",
+      "charterSchool": "2-No",
+      "magnentSchool": "†",
+      "locale": "11-City: Large",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "5th Grade"
+      },
+      "students": "476",
+      "fte": "48",
+      "pupilTeacherRatio": "9.92"
+   },
+   {
+      "name": "Drew Es",
+      "location": {
+         "state": {
+            "name": "District of Columbia",
+            "abbr": "DC "
+         }
+      },
+      "district": "District of Columbia Public Schools",
+      "level": "Elementary",
+      "type": "1-Regular school",
+      "charterSchool": "2-No",
+      "magnentSchool": "†",
+      "locale": "11-City: Large",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "5th Grade"
+      },
+      "students": "234",
+      "fte": "21",
+      "pupilTeacherRatio": "11.14"
+   },
+   {
+      "name": "Duke Ellington School of the Arts",
+      "location": {
+         "state": {
+            "name": "District of Columbia",
+            "abbr": "DC "
+         }
+      },
+      "district": "District of Columbia Public Schools",
+      "level": "High",
+      "type": "1-Regular school",
+      "charterSchool": "2-No",
+      "magnentSchool": "†",
+      "locale": "11-City: Large",
+      "grades": {
+         "lowest": "9th Grade",
+         "highest": "12th Grade"
+      },
+      "students": "558",
+      "fte": "4",
+      "pupilTeacherRatio": "139.5"
+   },
+   {
+      "name": "Dunbar Hs",
+      "location": {
+         "state": {
+            "name": "District of Columbia",
+            "abbr": "DC "
+         }
+      },
+      "district": "District of Columbia Public Schools",
+      "level": "High",
+      "type": "1-Regular school",
+      "charterSchool": "2-No",
+      "magnentSchool": "†",
+      "locale": "11-City: Large",
+      "grades": {
+         "lowest": "9th Grade",
+         "highest": "12th Grade"
+      },
+      "students": "648",
+      "fte": "51.33",
+      "pupilTeacherRatio": "12.62"
+   },
+   {
+      "name": "E.l. Haynes Pcs - Es",
+      "location": {
+         "state": {
+            "name": "District of Columbia",
+            "abbr": "DC "
+         }
+      },
+      "district": "E.l. Haynes Pcs",
+      "level": "Elementary",
+      "type": "1-Regular school",
+      "charterSchool": "1-Yes",
+      "magnentSchool": "†",
+      "locale": "11-City: Large",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "4th Grade"
+      },
+      "students": "348",
+      "fte": "28",
+      "pupilTeacherRatio": "12.43"
+   },
+   {
+      "name": "E.l. Haynes Pcs - Hs",
+      "location": {
+         "state": {
+            "name": "District of Columbia",
+            "abbr": "DC "
+         }
+      },
+      "district": "E.l. Haynes Pcs",
+      "level": "High",
+      "type": "1-Regular school",
+      "charterSchool": "1-Yes",
+      "magnentSchool": "†",
+      "locale": "11-City: Large",
+      "grades": {
+         "lowest": "9th Grade",
+         "highest": "12th Grade"
+      },
+      "students": "436",
+      "fte": "40.7",
+      "pupilTeacherRatio": "10.71"
+   },
+   {
+      "name": "E.l. Haynes Pcs - Ms",
+      "location": {
+         "state": {
+            "name": "District of Columbia",
+            "abbr": "DC "
+         }
+      },
+      "district": "E.l. Haynes Pcs",
+      "level": "Middle",
+      "type": "1-Regular school",
+      "charterSchool": "1-Yes",
+      "magnentSchool": "†",
+      "locale": "11-City: Large",
+      "grades": {
+         "lowest": "5th Grade",
+         "highest": "8th Grade"
+      },
+      "students": "352",
+      "fte": "28",
+      "pupilTeacherRatio": "12.57"
+   },
+   {
+      "name": "Eagle Academy Pcs - Congress Heights",
+      "location": {
+         "state": {
+            "name": "District of Columbia",
+            "abbr": "DC "
+         }
+      },
+      "district": "Eagle Academy Pcs",
+      "level": "Elementary",
+      "type": "1-Regular school",
+      "charterSchool": "1-Yes",
+      "magnentSchool": "†",
+      "locale": "11-City: Large",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "3rd Grade"
+      },
+      "students": "665",
+      "fte": "50",
+      "pupilTeacherRatio": "13.3"
+   },
+   {
+      "name": "Eagle Academy Pcs - Fairlawn",
+      "location": {
+         "state": {
+            "name": "District of Columbia",
+            "abbr": "DC "
+         }
+      },
+      "district": "Eagle Academy Pcs",
+      "level": "Elementary",
+      "type": "1-Regular school",
+      "charterSchool": "1-Yes",
+      "magnentSchool": "†",
+      "locale": "11-City: Large",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "3rd Grade"
+      },
+      "students": "170",
+      "fte": "13",
+      "pupilTeacherRatio": "13.08"
+   },
+   {
+      "name": "Early Childhood Academy Pcs",
+      "location": {
+         "state": {
+            "name": "District of Columbia",
+            "abbr": "DC "
+         }
+      },
+      "district": "Early Childhood Academy Pcs",
+      "level": "Elementary",
+      "type": "1-Regular school",
+      "charterSchool": "1-Yes",
+      "magnentSchool": "†",
+      "locale": "11-City: Large",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "3rd Grade"
+      },
+      "students": "285",
+      "fte": "16.98",
+      "pupilTeacherRatio": "16.78"
+   },
+   {
+      "name": "Eastern Hs",
+      "location": {
+         "state": {
+            "name": "District of Columbia",
+            "abbr": "DC "
+         }
+      },
+      "district": "District of Columbia Public Schools",
+      "level": "High",
+      "type": "1-Regular school",
+      "charterSchool": "2-No",
+      "magnentSchool": "†",
+      "locale": "11-City: Large",
+      "grades": {
+         "lowest": "9th Grade",
+         "highest": "12th Grade"
+      },
+      "students": "792",
+      "fte": "63",
+      "pupilTeacherRatio": "12.57"
+   },
+   {
+      "name": "Eaton Es",
+      "location": {
+         "state": {
+            "name": "District of Columbia",
+            "abbr": "DC "
+         }
+      },
+      "district": "District of Columbia Public Schools",
+      "level": "Elementary",
+      "type": "1-Regular school",
+      "charterSchool": "2-No",
+      "magnentSchool": "†",
+      "locale": "11-City: Large",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "5th Grade"
+      },
+      "students": "467",
+      "fte": "32.5",
+      "pupilTeacherRatio": "14.37"
+   },
+   {
+      "name": "Eliot-Hine Ms",
+      "location": {
+         "state": {
+            "name": "District of Columbia",
+            "abbr": "DC "
+         }
+      },
+      "district": "District of Columbia Public Schools",
+      "level": "Middle",
+      "type": "1-Regular school",
+      "charterSchool": "2-No",
+      "magnentSchool": "†",
+      "locale": "11-City: Large",
+      "grades": {
+         "lowest": "6th Grade",
+         "highest": "8th Grade"
+      },
+      "students": "262",
+      "fte": "25",
+      "pupilTeacherRatio": "10.48"
+   },
+   {
+      "name": "Elsie Whitlow Stokes Community Freedom Pcs - Brookland",
+      "location": {
+         "state": {
+            "name": "District of Columbia",
+            "abbr": "DC "
+         }
+      },
+      "district": "Elsie Whitlow Stokes Community Freedom Pcs",
+      "level": "Elementary",
+      "type": "1-Regular school",
+      "charterSchool": "1-Yes",
+      "magnentSchool": "†",
+      "locale": "11-City: Large",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "5th Grade"
+      },
+      "students": "355",
+      "fte": "36.5",
+      "pupilTeacherRatio": "9.73"
+   },
+   {
+      "name": "Elsie Whitlow Stokes Community Freedom Pcs - East End",
+      "location": {
+         "state": {
+            "name": "DISTRICT OF COLUMBIA",
+            "abbr": "DC "
+         }
+      },
+      "district": "Elsie Whitlow Stokes Community Freedom Pcs",
+      "level": "Elementary",
+      "type": "1-Regular school",
+      "charterSchool": "1-Yes",
+      "magnentSchool": "†",
+      "locale": "11-City: Large",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "1st Grade"
+      },
+      "students": "183",
+      "fte": "19",
+      "pupilTeacherRatio": "9.63"
+   },
+   {
+      "name": "Excel Academy",
+      "location": {
+         "state": {
+            "name": "DISTRICT OF COLUMBIA",
+            "abbr": "DC "
+         }
+      },
+      "district": "District of Columbia Public Schools",
+      "level": "Elementary",
+      "type": "1-Regular school",
+      "charterSchool": "2-No",
+      "magnentSchool": "†",
+      "locale": "11-City: Large",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "8th Grade"
+      },
+      "students": "449",
+      "fte": "36",
+      "pupilTeacherRatio": "12.47"
+   },
+   {
+      "name": "Friendship Pcs - Armstrong Elementary",
+      "location": {
+         "state": {
+            "name": "DISTRICT OF COLUMBIA",
+            "abbr": "DC "
+         }
+      },
+      "district": "Friendship Pcs",
+      "level": "Elementary",
+      "type": "1-Regular school",
+      "charterSchool": "1-Yes",
+      "magnentSchool": "†",
+      "locale": "11-City: Large",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "3rd Grade"
+      },
+      "students": "329",
+      "fte": "24.5",
+      "pupilTeacherRatio": "13.43"
+   },
+   {
+      "name": "Friendship Pcs - Armstrong Middle",
+      "location": {
+         "state": {
+            "name": "DISTRICT OF COLUMBIA",
+            "abbr": "DC "
+         }
+      },
+      "district": "Friendship Pcs",
+      "level": "Middle",
+      "type": "1-Regular school",
+      "charterSchool": "1-Yes",
+      "magnentSchool": "†",
+      "locale": "11-City: Large",
+      "grades": {
+         "lowest": "4th Grade",
+         "highest": "8th Grade"
+      },
+      "students": "171",
+      "fte": "15.5",
+      "pupilTeacherRatio": "11.03"
+   },
+   {
+      "name": "Friendship Pcs - Blow Pierce Es",
+      "location": {
+         "state": {
+            "name": "District of Columbia",
+            "abbr": "DC "
+         }
+      },
+      "district": "Friendship Pcs",
+      "level": "Elementary",
+      "type": "1-Regular school",
+      "charterSchool": "1-Yes",
+      "magnentSchool": "†",
+      "locale": "11-City: Large",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "3rd Grade"
+      },
+      "students": "360",
+      "fte": "25",
+      "pupilTeacherRatio": "14.4"
+   },
+   {
+      "name": "Friendship Pcs - Blow Pierce Ms",
+      "location": {
+         "state": {
+            "name": "District of Columbia",
+            "abbr": "DC "
+         }
+      },
+      "district": "Friendship Pcs",
+      "level": "Middle",
+      "type": "1-Regular school",
+      "charterSchool": "1-Yes",
+      "magnentSchool": "†",
+      "locale": "11-City: Large",
+      "grades": {
+         "lowest": "4th Grade",
+         "highest": "8th Grade"
+      },
+      "students": "245",
+      "fte": "21",
+      "pupilTeacherRatio": "11.67"
+   },
+   {
+      "name": "Friendship Pcs - Chamberlain Es",
+      "location": {
+         "state": {
+            "name": "District of Columbia",
+            "abbr": "DC "
+         }
+      },
+      "district": "Friendship Pcs",
+      "level": "Elementary",
+      "type": "1-Regular school",
+      "charterSchool": "1-Yes",
+      "magnentSchool": "†",
+      "locale": "11-City: Large",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "3rd Grade"
+      },
+      "students": "374",
+      "fte": "27.11",
+      "pupilTeacherRatio": "13.8"
+   },
+   {
+      "name": "Friendship Pcs - Chamberlain Ms",
+      "location": {
+         "state": {
+            "name": "District of Columbia",
+            "abbr": "DC "
+         }
+      },
+      "district": "Friendship Pcs",
+      "level": "Middle",
+      "type": "1-Regular school",
+      "charterSchool": "1-Yes",
+      "magnentSchool": "†",
+      "locale": "11-City: Large",
+      "grades": {
+         "lowest": "4th Grade",
+         "highest": "8th Grade"
+      },
+      "students": "305",
+      "fte": "19.11",
+      "pupilTeacherRatio": "15.96"
+   },
+   {
+      "name": "Friendship Pcs - Collegiate Academy",
+      "location": {
+         "state": {
+            "name": "District of Columbia",
+            "abbr": "DC "
+         }
+      },
+      "district": "Friendship Pcs",
+      "level": "High",
+      "type": "1-Regular school",
+      "charterSchool": "1-Yes",
+      "magnentSchool": "†",
+      "locale": "11-City: Large",
+      "grades": {
+         "lowest": "9th Grade",
+         "highest": "12th Grade"
+      },
+      "students": "508",
+      "fte": "46.11",
+      "pupilTeacherRatio": "11.02"
+   },
+   {
+      "name": "Friendship Pcs - Ideal Elementary",
+      "location": {
+         "state": {
+            "name": "DISTRICT OF COLUMBIA",
+            "abbr": "DC "
+         }
+      },
+      "district": "Friendship Pcs",
+      "level": "Elementary",
+      "type": "1-Regular school",
+      "charterSchool": "1-Yes",
+      "magnentSchool": "†",
+      "locale": "11-City: Large",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "3rd Grade"
+      },
+      "students": "99",
+      "fte": "8.11",
+      "pupilTeacherRatio": "12.21"
+   },
+   {
+      "name": "Friendship Pcs - Ideal Ms",
+      "location": {
+         "state": {
+            "name": "DISTRICT OF COLUMBIA",
+            "abbr": "DC "
+         }
+      },
+      "district": "Friendship Pcs",
+      "level": "Middle",
+      "type": "1-Regular school",
+      "charterSchool": "1-Yes",
+      "magnentSchool": "†",
+      "locale": "11-City: Large",
+      "grades": {
+         "lowest": "4th Grade",
+         "highest": "8th Grade"
+      },
+      "students": "98",
+      "fte": "10.11",
+      "pupilTeacherRatio": "9.69"
+   },
+   {
+      "name": "Friendship Pcs - Online",
+      "location": {
+         "state": {
+            "name": "DISTRICT OF COLUMBIA",
+            "abbr": "DC "
+         }
+      },
+      "district": "Friendship Pcs",
+      "level": "Elementary",
+      "type": "1-Regular school",
+      "charterSchool": "1-Yes",
+      "magnentSchool": "†",
+      "locale": "11-City: Large",
+      "grades": {
+         "lowest": "Kindergarten",
+         "highest": "8th Grade"
+      },
+      "students": "196",
+      "fte": "8",
+      "pupilTeacherRatio": "24.5"
+   },
+   {
+      "name": "Friendship Pcs - Southeast Es",
+      "location": {
+         "state": {
+            "name": "District of Columbia",
+            "abbr": "DC "
+         }
+      },
+      "district": "Friendship Pcs",
+      "level": "Elementary",
+      "type": "1-Regular school",
+      "charterSchool": "1-Yes",
+      "magnentSchool": "†",
+      "locale": "11-City: Large",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "3rd Grade"
+      },
+      "students": "393",
+      "fte": "25.11",
+      "pupilTeacherRatio": "15.65"
+   },
+   {
+      "name": "Friendship Pcs - Southeast Ms",
+      "location": {
+         "state": {
+            "name": "DISTRICT OF COLUMBIA",
+            "abbr": "DC "
+         }
+      },
+      "district": "Friendship Pcs",
+      "level": "Middle",
+      "type": "1-Regular school",
+      "charterSchool": "1-Yes",
+      "magnentSchool": "†",
+      "locale": "11-City: Large",
+      "grades": {
+         "lowest": "4th Grade",
+         "highest": "7th Grade"
+      },
+      "students": "246",
+      "fte": "17.11",
+      "pupilTeacherRatio": "14.38"
+   },
+   {
+      "name": "Friendship Pcs - Technology Preparatory Hs",
+      "location": {
+         "state": {
+            "name": "DISTRICT OF COLUMBIA",
+            "abbr": "DC "
+         }
+      },
+      "district": "Friendship Pcs",
+      "level": "High",
+      "type": "1-Regular school",
+      "charterSchool": "1-Yes",
+      "magnentSchool": "†",
+      "locale": "11-City: Large",
+      "grades": {
+         "lowest": "9th Grade",
+         "highest": "12th Grade"
+      },
+      "students": "278",
+      "fte": "30.5",
+      "pupilTeacherRatio": "9.11"
+   },
+   {
+      "name": "Friendship Pcs - Technology Preparatory Ms",
+      "location": {
+         "state": {
+            "name": "District of Columbia",
+            "abbr": "DC "
+         }
+      },
+      "district": "Friendship Pcs",
+      "level": "Middle",
+      "type": "1-Regular school",
+      "charterSchool": "1-Yes",
+      "magnentSchool": "†",
+      "locale": "11-City: Large",
+      "grades": {
+         "lowest": "8th Grade",
+         "highest": "8th Grade"
+      },
+      "students": "65",
+      "fte": "4.5",
+      "pupilTeacherRatio": "14.44"
+   },
+   {
+      "name": "Friendship Pcs - Woodridge Es",
+      "location": {
+         "state": {
+            "name": "District of Columbia",
+            "abbr": "DC "
+         }
+      },
+      "district": "Friendship Pcs",
+      "level": "Elementary",
+      "type": "1-Regular school",
+      "charterSchool": "1-Yes",
+      "magnentSchool": "†",
+      "locale": "11-City: Large",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "3rd Grade"
+      },
+      "students": "304",
+      "fte": "19.11",
+      "pupilTeacherRatio": "15.91"
+   },
+   {
+      "name": "Friendship Pcs - Woodridge Ms",
+      "location": {
+         "state": {
+            "name": "District of Columbia",
+            "abbr": "DC "
+         }
+      },
+      "district": "Friendship Pcs",
+      "level": "Middle",
+      "type": "1-Regular school",
+      "charterSchool": "1-Yes",
+      "magnentSchool": "†",
+      "locale": "11-City: Large",
+      "grades": {
+         "lowest": "4th Grade",
+         "highest": "8th Grade"
+      },
+      "students": "222",
+      "fte": "23.11",
+      "pupilTeacherRatio": "9.61"
+   },
+   {
+      "name": "Garfield Es",
+      "location": {
+         "state": {
+            "name": "District of Columbia",
+            "abbr": "DC "
+         }
+      },
+      "district": "District of Columbia Public Schools",
+      "level": "Elementary",
+      "type": "1-Regular school",
+      "charterSchool": "2-No",
+      "magnentSchool": "†",
+      "locale": "11-City: Large",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "5th Grade"
+      },
+      "students": "288",
+      "fte": "23.5",
+      "pupilTeacherRatio": "12.26"
+   },
+   {
+      "name": "Garrison Es",
+      "location": {
+         "state": {
+            "name": "District of Columbia",
+            "abbr": "DC "
+         }
+      },
+      "district": "District of Columbia Public Schools",
+      "level": "Elementary",
+      "type": "1-Regular school",
+      "charterSchool": "2-No",
+      "magnentSchool": "†",
+      "locale": "11-City: Large",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "5th Grade"
+      },
+      "students": "291",
+      "fte": "28",
+      "pupilTeacherRatio": "10.39"
+   },
+   {
+      "name": "Goodwill Excel Center Pcs",
+      "location": {
+         "state": {
+            "name": "DISTRICT OF COLUMBIA",
+            "abbr": "DC "
+         }
+      },
+      "district": "Goodwill Excel Center Pcs",
+      "level": "High",
+      "type": "1-Regular school",
+      "charterSchool": "1-Yes",
+      "magnentSchool": "†",
+      "locale": "11-City: Large",
+      "grades": {
+         "lowest": "9th Grade",
+         "highest": "12th Grade"
+      },
+      "students": "378",
+      "fte": "16",
+      "pupilTeacherRatio": "23.63"
+   },
+   {
+      "name": "H.d. Cooke Es",
+      "location": {
+         "state": {
+            "name": "District of Columbia",
+            "abbr": "DC "
+         }
+      },
+      "district": "District of Columbia Public Schools",
+      "level": "Elementary",
+      "type": "1-Regular school",
+      "charterSchool": "2-No",
+      "magnentSchool": "†",
+      "locale": "11-City: Large",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "5th Grade"
+      },
+      "students": "407",
+      "fte": "37",
+      "pupilTeacherRatio": "11"
+   },
+   {
+      "name": "H.d. Woodson Hs",
+      "location": {
+         "state": {
+            "name": "District of Columbia",
+            "abbr": "DC "
+         }
+      },
+      "district": "District of Columbia Public Schools",
+      "level": "High",
+      "type": "1-Regular school",
+      "charterSchool": "2-No",
+      "magnentSchool": "†",
+      "locale": "11-City: Large",
+      "grades": {
+         "lowest": "9th Grade",
+         "highest": "12th Grade"
+      },
+      "students": "468",
+      "fte": "43.5",
+      "pupilTeacherRatio": "10.76"
+   },
+   {
+      "name": "Hardy Ms",
+      "location": {
+         "state": {
+            "name": "District of Columbia",
+            "abbr": "DC "
+         }
+      },
+      "district": "District of Columbia Public Schools",
+      "level": "Middle",
+      "type": "1-Regular school",
+      "charterSchool": "2-No",
+      "magnentSchool": "†",
+      "locale": "11-City: Large",
+      "grades": {
+         "lowest": "6th Grade",
+         "highest": "8th Grade"
+      },
+      "students": "474",
+      "fte": "37.64",
+      "pupilTeacherRatio": "12.59"
+   },
+   {
+      "name": "Harmony Dc Pcs - School of Excellence",
+      "location": {
+         "state": {
+            "name": "DISTRICT OF COLUMBIA",
+            "abbr": "DC "
+         }
+      },
+      "district": "Harmony Dc Pcs",
+      "level": "Elementary",
+      "type": "1-Regular school",
+      "charterSchool": "1-Yes",
+      "magnentSchool": "†",
+      "locale": "11-City: Large",
+      "grades": {
+         "lowest": "Kindergarten",
+         "highest": "5th Grade"
+      },
+      "students": "118",
+      "fte": "13.5",
+      "pupilTeacherRatio": "8.74"
+   },
+   {
+      "name": "Hart Ms",
+      "location": {
+         "state": {
+            "name": "District of Columbia",
+            "abbr": "DC "
+         }
+      },
+      "district": "District of Columbia Public Schools",
+      "level": "Middle",
+      "type": "1-Regular school",
+      "charterSchool": "2-No",
+      "magnentSchool": "†",
+      "locale": "11-City: Large",
+      "grades": {
+         "lowest": "6th Grade",
+         "highest": "8th Grade"
+      },
+      "students": "428",
+      "fte": "28",
+      "pupilTeacherRatio": "15.29"
+   },
+   {
+      "name": "Hearst Es",
+      "location": {
+         "state": {
+            "name": "District of Columbia",
+            "abbr": "DC "
+         }
+      },
+      "district": "District of Columbia Public Schools",
+      "level": "Elementary",
+      "type": "1-Regular school",
+      "charterSchool": "2-No",
+      "magnentSchool": "†",
+      "locale": "11-City: Large",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "5th Grade"
+      },
+      "students": "340",
+      "fte": "29.5",
+      "pupilTeacherRatio": "11.53"
+   },
+   {
+      "name": "Hendley Es",
+      "location": {
+         "state": {
+            "name": "District of Columbia",
+            "abbr": "DC "
+         }
+      },
+      "district": "District of Columbia Public Schools",
+      "level": "Elementary",
+      "type": "1-Regular school",
+      "charterSchool": "2-No",
+      "magnentSchool": "†",
+      "locale": "11-City: Large",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "5th Grade"
+      },
+      "students": "357",
+      "fte": "25",
+      "pupilTeacherRatio": "14.28"
+   },
+   {
+      "name": "Hope Community Pcs - Lamond",
+      "location": {
+         "state": {
+            "name": "District of Columbia",
+            "abbr": "DC "
+         }
+      },
+      "district": "Hope Community Pcs",
+      "level": "Elementary",
+      "type": "1-Regular school",
+      "charterSchool": "1-Yes",
+      "magnentSchool": "†",
+      "locale": "11-City: Large",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "5th Grade"
+      },
+      "students": "234",
+      "fte": "18",
+      "pupilTeacherRatio": "13"
+   },
+   {
+      "name": "Hope Community Pcs - Tolson",
+      "location": {
+         "state": {
+            "name": "District of Columbia",
+            "abbr": "DC "
+         }
+      },
+      "district": "Hope Community Pcs",
+      "level": "Elementary",
+      "type": "1-Regular school",
+      "charterSchool": "1-Yes",
+      "magnentSchool": "†",
+      "locale": "11-City: Large",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "8th Grade"
+      },
+      "students": "475",
+      "fte": "28",
+      "pupilTeacherRatio": "16.96"
+   },
+   {
+      "name": "Houston Es",
+      "location": {
+         "state": {
+            "name": "District of Columbia",
+            "abbr": "DC "
+         }
+      },
+      "district": "District of Columbia Public Schools",
+      "level": "Elementary",
+      "type": "1-Regular school",
+      "charterSchool": "2-No",
+      "magnentSchool": "†",
+      "locale": "11-City: Large",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "5th Grade"
+      },
+      "students": "274",
+      "fte": "27.5",
+      "pupilTeacherRatio": "9.96"
+   },
+   {
+      "name": "Howard University Ms of Mathematics and Science Pcs",
+      "location": {
+         "state": {
+            "name": "District of Columbia",
+            "abbr": "DC "
+         }
+      },
+      "district": "Howard University Middle School of Math and Science Pcs",
+      "level": "Middle",
+      "type": "1-Regular school",
+      "charterSchool": "1-Yes",
+      "magnentSchool": "†",
+      "locale": "11-City: Large",
+      "grades": {
+         "lowest": "6th Grade",
+         "highest": "8th Grade"
+      },
+      "students": "291",
+      "fte": "28",
+      "pupilTeacherRatio": "10.39"
+   },
+   {
+      "name": "Hyde-Addison Es",
+      "location": {
+         "state": {
+            "name": "District of Columbia",
+            "abbr": "DC "
+         }
+      },
+      "district": "District of Columbia Public Schools",
+      "level": "Elementary",
+      "type": "1-Regular school",
+      "charterSchool": "2-No",
+      "magnentSchool": "†",
+      "locale": "11-City: Large",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "5th Grade"
+      },
+      "students": "376",
+      "fte": "27.5",
+      "pupilTeacherRatio": "13.67"
+   },
+   {
+      "name": "Ida B. Wells Ms",
+      "location": {
+         "state": {
+            "name": "DISTRICT OF COLUMBIA",
+            "abbr": "DC "
+         }
+      },
+      "district": "District of Columbia Public Schools",
+      "level": "Middle",
+      "type": "1-Regular school",
+      "charterSchool": "2-No",
+      "magnentSchool": "†",
+      "locale": "11-City: Large",
+      "grades": {
+         "lowest": "6th Grade",
+         "highest": "6th Grade"
+      },
+      "students": "186",
+      "fte": "18.5",
+      "pupilTeacherRatio": "10.05"
+   },
+   {
+      "name": "Idea Pcs",
+      "location": {
+         "state": {
+            "name": "District of Columbia",
+            "abbr": "DC "
+         }
+      },
+      "district": "Idea Pcs",
+      "level": "High",
+      "type": "1-Regular school",
+      "charterSchool": "1-Yes",
+      "magnentSchool": "†",
+      "locale": "11-City: Large",
+      "grades": {
+         "lowest": "9th Grade",
+         "highest": "12th Grade"
+      },
+      "students": "289",
+      "fte": "31",
+      "pupilTeacherRatio": "9.32"
+   },
+   {
+      "name": "Ingenuity Prep Pcs",
+      "location": {
+         "state": {
+            "name": "District of Columbia",
+            "abbr": "DC "
+         }
+      },
+      "district": "Ingenuity Prep Pcs",
+      "level": "Elementary",
+      "type": "1-Regular school",
+      "charterSchool": "1-Yes",
+      "magnentSchool": "†",
+      "locale": "11-City: Large",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "6th Grade"
+      },
+      "students": "637",
+      "fte": "72.5",
+      "pupilTeacherRatio": "8.79"
+   },
+   {
+      "name": "Inspired Teaching Demonstration Pcs",
+      "location": {
+         "state": {
+            "name": "District of Columbia",
+            "abbr": "DC "
+         }
+      },
+      "district": "Inspired Teaching Demonstration Pcs",
+      "level": "Elementary",
+      "type": "1-Regular school",
+      "charterSchool": "1-Yes",
+      "magnentSchool": "†",
+      "locale": "11-City: Large",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "8th Grade"
+      },
+      "students": "492",
+      "fte": "35.68",
+      "pupilTeacherRatio": "13.79"
+   },
+   {
+      "name": "J.o. Wilson Es",
+      "location": {
+         "state": {
+            "name": "District of Columbia",
+            "abbr": "DC "
+         }
+      },
+      "district": "District of Columbia Public Schools",
+      "level": "Elementary",
+      "type": "1-Regular school",
+      "charterSchool": "2-No",
+      "magnentSchool": "†",
+      "locale": "11-City: Large",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "5th Grade"
+      },
+      "students": "467",
+      "fte": "42",
+      "pupilTeacherRatio": "11.12"
+   },
+   {
+      "name": "Janney Es",
+      "location": {
+         "state": {
+            "name": "District of Columbia",
+            "abbr": "DC "
+         }
+      },
+      "district": "District of Columbia Public Schools",
+      "level": "Elementary",
+      "type": "1-Regular school",
+      "charterSchool": "2-No",
+      "magnentSchool": "†",
+      "locale": "11-City: Large",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "5th Grade"
+      },
+      "students": "752",
+      "fte": "53.5",
+      "pupilTeacherRatio": "14.06"
+   },
+   {
+      "name": "Jefferson Ms Academy",
+      "location": {
+         "state": {
+            "name": "District of Columbia",
+            "abbr": "DC "
+         }
+      },
+      "district": "District of Columbia Public Schools",
+      "level": "Middle",
+      "type": "1-Regular school",
+      "charterSchool": "2-No",
+      "magnentSchool": "†",
+      "locale": "11-City: Large",
+      "grades": {
+         "lowest": "6th Grade",
+         "highest": "8th Grade"
+      },
+      "students": "353",
+      "fte": "27",
+      "pupilTeacherRatio": "13.07"
+   },
+   {
+      "name": "Johnson Ms",
+      "location": {
+         "state": {
+            "name": "District of Columbia",
+            "abbr": "DC "
+         }
+      },
+      "district": "District of Columbia Public Schools",
+      "level": "Middle",
+      "type": "1-Regular school",
+      "charterSchool": "2-No",
+      "magnentSchool": "†",
+      "locale": "11-City: Large",
+      "grades": {
+         "lowest": "6th Grade",
+         "highest": "8th Grade"
+      },
+      "students": "337",
+      "fte": "22.5",
+      "pupilTeacherRatio": "14.98"
+   },
+   {
+      "name": "Kelly Miller Ms",
+      "location": {
+         "state": {
+            "name": "District of Columbia",
+            "abbr": "DC "
+         }
+      },
+      "district": "District of Columbia Public Schools",
+      "level": "Middle",
+      "type": "1-Regular school",
+      "charterSchool": "2-No",
+      "magnentSchool": "†",
+      "locale": "11-City: Large",
+      "grades": {
+         "lowest": "6th Grade",
+         "highest": "8th Grade"
+      },
+      "students": "538",
+      "fte": "40",
+      "pupilTeacherRatio": "13.45"
+   },
+   {
+      "name": "Ketcham Es",
+      "location": {
+         "state": {
+            "name": "District of Columbia",
+            "abbr": "DC "
+         }
+      },
+      "district": "District of Columbia Public Schools",
+      "level": "Elementary",
+      "type": "1-Regular school",
+      "charterSchool": "2-No",
+      "magnentSchool": "†",
+      "locale": "11-City: Large",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "5th Grade"
+      },
+      "students": "326",
+      "fte": "24.5",
+      "pupilTeacherRatio": "13.31"
+   },
+   {
+      "name": "Key Es",
+      "location": {
+         "state": {
+            "name": "District of Columbia",
+            "abbr": "DC "
+         }
+      },
+      "district": "District of Columbia Public Schools",
+      "level": "Elementary",
+      "type": "1-Regular school",
+      "charterSchool": "2-No",
+      "magnentSchool": "†",
+      "locale": "11-City: Large",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "5th Grade"
+      },
+      "students": "382",
+      "fte": "32",
+      "pupilTeacherRatio": "11.94"
+   },
+   {
+      "name": "Kimball Es",
+      "location": {
+         "state": {
+            "name": "District of Columbia",
+            "abbr": "DC "
+         }
+      },
+      "district": "District of Columbia Public Schools",
+      "level": "Elementary",
+      "type": "1-Regular school",
+      "charterSchool": "2-No",
+      "magnentSchool": "†",
+      "locale": "11-City: Large",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "5th Grade"
+      },
+      "students": "392",
+      "fte": "26.5",
+      "pupilTeacherRatio": "14.79"
+   },
+   {
+      "name": "King Es",
+      "location": {
+         "state": {
+            "name": "District of Columbia",
+            "abbr": "DC "
+         }
+      },
+      "district": "District of Columbia Public Schools",
+      "level": "Elementary",
+      "type": "1-Regular school",
+      "charterSchool": "2-No",
+      "magnentSchool": "†",
+      "locale": "11-City: Large",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "5th Grade"
+      },
+      "students": "304",
+      "fte": "25",
+      "pupilTeacherRatio": "12.16"
+   },
+   {
+      "name": "Kingsman Academy Pcs",
+      "location": {
+         "state": {
+            "name": "DISTRICT OF COLUMBIA",
+            "abbr": "DC "
+         }
+      },
+      "district": "Kingsman Academy Pcs",
+      "level": "High",
+      "type": "1-Regular school",
+      "charterSchool": "1-Yes",
+      "magnentSchool": "†",
+      "locale": "11-City: Large",
+      "grades": {
+         "lowest": "6th Grade",
+         "highest": "12th Grade"
+      },
+      "students": "242",
+      "fte": "22",
+      "pupilTeacherRatio": "11"
+   },
+   {
+      "name": "Kipp Dc - Aim Academy Pcs",
+      "location": {
+         "state": {
+            "name": "District of Columbia",
+            "abbr": "DC "
+         }
+      },
+      "district": "Kipp Dc Pcs",
+      "level": "Middle",
+      "type": "1-Regular school",
+      "charterSchool": "1-Yes",
+      "magnentSchool": "†",
+      "locale": "11-City: Large",
+      "grades": {
+         "lowest": "5th Grade",
+         "highest": "8th Grade"
+      },
+      "students": "413",
+      "fte": "34.14",
+      "pupilTeacherRatio": "12.1"
+   },
+   {
+      "name": "Kipp Dc - Arts and Technology Academy Pcs",
+      "location": {
+         "state": {
+            "name": "DISTRICT OF COLUMBIA",
+            "abbr": "DC "
+         }
+      },
+      "district": "Kipp Dc Pcs",
+      "level": "Elementary",
+      "type": "1-Regular school",
+      "charterSchool": "1-Yes",
+      "magnentSchool": "†",
+      "locale": "11-City: Large",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "Kindergarten"
+      },
+      "students": "344",
+      "fte": "22.27",
+      "pupilTeacherRatio": "15.45"
+   },
+   {
+      "name": "Kipp Dc - College Preparatory Academy Pcs",
+      "location": {
+         "state": {
+            "name": "District of Columbia",
+            "abbr": "DC "
+         }
+      },
+      "district": "Kipp Dc Pcs",
+      "level": "High",
+      "type": "1-Regular school",
+      "charterSchool": "1-Yes",
+      "magnentSchool": "†",
+      "locale": "11-City: Large",
+      "grades": {
+         "lowest": "9th Grade",
+         "highest": "12th Grade"
+      },
+      "students": "820",
+      "fte": "74.92",
+      "pupilTeacherRatio": "10.95"
+   },
+   {
+      "name": "Kipp Dc - Connect Academy Pcs",
+      "location": {
+         "state": {
+            "name": "District of Columbia",
+            "abbr": "DC "
+         }
+      },
+      "district": "Kipp Dc Pcs",
+      "level": "Elementary",
+      "type": "1-Regular school",
+      "charterSchool": "1-Yes",
+      "magnentSchool": "†",
+      "locale": "11-City: Large",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "Kindergarten"
+      },
+      "students": "324",
+      "fte": "21.27",
+      "pupilTeacherRatio": "15.23"
+   },
+   {
+      "name": "Kipp Dc - Discover Academy Pcs",
+      "location": {
+         "state": {
+            "name": "District of Columbia",
+            "abbr": "DC "
+         }
+      },
+      "district": "Kipp Dc Pcs",
+      "level": "Elementary",
+      "type": "1-Regular school",
+      "charterSchool": "1-Yes",
+      "magnentSchool": "†",
+      "locale": "11-City: Large",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "Kindergarten"
+      },
+      "students": "366",
+      "fte": "23.15",
+      "pupilTeacherRatio": "15.81"
+   },
+   {
+      "name": "Kipp Dc - Grow Academy Pcs",
+      "location": {
+         "state": {
+            "name": "District of Columbia",
+            "abbr": "DC "
+         }
+      },
+      "district": "Kipp Dc Pcs",
+      "level": "Elementary",
+      "type": "1-Regular school",
+      "charterSchool": "1-Yes",
+      "magnentSchool": "†",
+      "locale": "11-City: Large",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "Kindergarten"
+      },
+      "students": "323",
+      "fte": "21.03",
+      "pupilTeacherRatio": "15.36"
+   },
+   {
+      "name": "Kipp Dc - Heights Academy Pcs",
+      "location": {
+         "state": {
+            "name": "District of Columbia",
+            "abbr": "DC "
+         }
+      },
+      "district": "Kipp Dc Pcs",
+      "level": "Elementary",
+      "type": "1-Regular school",
+      "charterSchool": "1-Yes",
+      "magnentSchool": "†",
+      "locale": "11-City: Large",
+      "grades": {
+         "lowest": "1st Grade",
+         "highest": "4th Grade"
+      },
+      "students": "465",
+      "fte": "34.8",
+      "pupilTeacherRatio": "13.36"
+   },
+   {
+      "name": "Kipp Dc - Honor Academy Pcs",
+      "location": {
+         "state": {
+            "name": "DISTRICT OF COLUMBIA",
+            "abbr": "DC "
+         }
+      },
+      "district": "Kipp Dc Pcs",
+      "level": "Middle",
+      "type": "1-Regular school",
+      "charterSchool": "1-Yes",
+      "magnentSchool": "†",
+      "locale": "11-City: Large",
+      "grades": {
+         "lowest": "4th Grade",
+         "highest": "8th Grade"
+      },
+      "students": "272",
+      "fte": "23.27",
+      "pupilTeacherRatio": "11.69"
+   },
+   {
+      "name": "Kipp Dc - Key Academy Pcs",
+      "location": {
+         "state": {
+            "name": "District of Columbia",
+            "abbr": "DC "
+         }
+      },
+      "district": "Kipp Dc Pcs",
+      "level": "Middle",
+      "type": "1-Regular school",
+      "charterSchool": "1-Yes",
+      "magnentSchool": "†",
+      "locale": "11-City: Large",
+      "grades": {
+         "lowest": "5th Grade",
+         "highest": "8th Grade"
+      },
+      "students": "355",
+      "fte": "28.27",
+      "pupilTeacherRatio": "12.56"
+   },
+   {
+      "name": "Kipp Dc - Lead Academy Pcs",
+      "location": {
+         "state": {
+            "name": "District of Columbia",
+            "abbr": "DC "
+         }
+      },
+      "district": "Kipp Dc Pcs",
+      "level": "Elementary",
+      "type": "1-Regular school",
+      "charterSchool": "1-Yes",
+      "magnentSchool": "†",
+      "locale": "11-City: Large",
+      "grades": {
+         "lowest": "1st Grade",
+         "highest": "4th Grade"
+      },
+      "students": "411",
+      "fte": "29.19",
+      "pupilTeacherRatio": "14.08"
+   },
+   {
+      "name": "Kipp Dc - Leap Academy Pcs",
+      "location": {
+         "state": {
+            "name": "District of Columbia",
+            "abbr": "DC "
+         }
+      },
+      "district": "Kipp Dc Pcs",
+      "level": "Prekindergarten",
+      "type": "1-Regular school",
+      "charterSchool": "1-Yes",
+      "magnentSchool": "†",
+      "locale": "11-City: Large",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "Prekindergarten"
+      },
+      "students": "199",
+      "fte": "13.27",
+      "pupilTeacherRatio": "15"
+   },
+   {
+      "name": "Kipp Dc - Northeast Academy Pcs",
+      "location": {
+         "state": {
+            "name": "DISTRICT OF COLUMBIA",
+            "abbr": "DC "
+         }
+      },
+      "district": "Kipp Dc Pcs",
+      "level": "Middle",
+      "type": "1-Regular school",
+      "charterSchool": "1-Yes",
+      "magnentSchool": "†",
+      "locale": "11-City: Large",
+      "grades": {
+         "lowest": "5th Grade",
+         "highest": "8th Grade"
+      },
+      "students": "330",
+      "fte": "27.16",
+      "pupilTeacherRatio": "12.15"
+   },
+   {
+      "name": "Kipp Dc - Promise Academy Pcs",
+      "location": {
+         "state": {
+            "name": "District of Columbia",
+            "abbr": "DC "
+         }
+      },
+      "district": "Kipp Dc Pcs",
+      "level": "Elementary",
+      "type": "1-Regular school",
+      "charterSchool": "1-Yes",
+      "magnentSchool": "†",
+      "locale": "11-City: Large",
+      "grades": {
+         "lowest": "Kindergarten",
+         "highest": "4th Grade"
+      },
+      "students": "529",
+      "fte": "34.95",
+      "pupilTeacherRatio": "15.14"
+   },
+   {
+      "name": "Kipp Dc - Quest Academy Pcs",
+      "location": {
+         "state": {
+            "name": "DISTRICT OF COLUMBIA",
+            "abbr": "DC "
+         }
+      },
+      "district": "Kipp Dc Pcs",
+      "level": "Elementary",
+      "type": "1-Regular school",
+      "charterSchool": "1-Yes",
+      "magnentSchool": "†",
+      "locale": "11-City: Large",
+      "grades": {
+         "lowest": "1st Grade",
+         "highest": "4th Grade"
+      },
+      "students": "403",
+      "fte": "29.05",
+      "pupilTeacherRatio": "13.87"
+   },
+   {
+      "name": "Kipp Dc - Somerset College Preparatory Pcs",
+      "location": {
+         "state": {
+            "name": "DISTRICT OF COLUMBIA",
+            "abbr": "DC "
+         }
+      },
+      "district": "Kipp Dc Pcs",
+      "level": "High",
+      "type": "1-Regular school",
+      "charterSchool": "1-Yes",
+      "magnentSchool": "†",
+      "locale": "11-City: Large",
+      "grades": {
+         "lowest": "9th Grade",
+         "highest": "12th Grade"
+      },
+      "students": "167",
+      "fte": "21.95",
+      "pupilTeacherRatio": "7.61"
+   },
+   {
+      "name": "Kipp Dc - Spring Academy Pcs",
+      "location": {
+         "state": {
+            "name": "District of Columbia",
+            "abbr": "DC "
+         }
+      },
+      "district": "Kipp Dc Pcs",
+      "level": "Elementary",
+      "type": "1-Regular school",
+      "charterSchool": "1-Yes",
+      "magnentSchool": "†",
+      "locale": "11-City: Large",
+      "grades": {
+         "lowest": "1st Grade",
+         "highest": "4th Grade"
+      },
+      "students": "409",
+      "fte": "28.27",
+      "pupilTeacherRatio": "14.47"
+   },
+   {
+      "name": "Kipp Dc - Valor Academy Pcs",
+      "location": {
+         "state": {
+            "name": "DISTRICT OF COLUMBIA",
+            "abbr": "DC "
+         }
+      },
+      "district": "Kipp Dc Pcs",
+      "level": "Middle",
+      "type": "1-Regular school",
+      "charterSchool": "1-Yes",
+      "magnentSchool": "†",
+      "locale": "11-City: Large",
+      "grades": {
+         "lowest": "5th Grade",
+         "highest": "8th Grade"
+      },
+      "students": "333",
+      "fte": "28.27",
+      "pupilTeacherRatio": "11.78"
+   },
+   {
+      "name": "Kipp Dc - Will Academy Pcs",
+      "location": {
+         "state": {
+            "name": "District of Columbia",
+            "abbr": "DC "
+         }
+      },
+      "district": "Kipp Dc Pcs",
+      "level": "Middle",
+      "type": "1-Regular school",
+      "charterSchool": "1-Yes",
+      "magnentSchool": "†",
+      "locale": "11-City: Large",
+      "grades": {
+         "lowest": "5th Grade",
+         "highest": "8th Grade"
+      },
+      "students": "335",
+      "fte": "28.27",
+      "pupilTeacherRatio": "11.85"
+   },
+   {
+      "name": "Kramer Ms",
+      "location": {
+         "state": {
+            "name": "District of Columbia",
+            "abbr": "DC "
+         }
+      },
+      "district": "District of Columbia Public Schools",
+      "level": "Middle",
+      "type": "1-Regular school",
+      "charterSchool": "2-No",
+      "magnentSchool": "†",
+      "locale": "11-City: Large",
+      "grades": {
+         "lowest": "6th Grade",
+         "highest": "8th Grade"
+      },
+      "students": "208",
+      "fte": "21.5",
+      "pupilTeacherRatio": "9.67"
+   },
+   {
+      "name": "Lafayette Es",
+      "location": {
+         "state": {
+            "name": "District of Columbia",
+            "abbr": "DC "
+         }
+      },
+      "district": "District of Columbia Public Schools",
+      "level": "Elementary",
+      "type": "1-Regular school",
+      "charterSchool": "2-No",
+      "magnentSchool": "†",
+      "locale": "11-City: Large",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "5th Grade"
+      },
+      "students": "940",
+      "fte": "58",
+      "pupilTeacherRatio": "16.21"
+   },
+   {
+      "name": "Langdon Es",
+      "location": {
+         "state": {
+            "name": "District of Columbia",
+            "abbr": "DC "
+         }
+      },
+      "district": "District of Columbia Public Schools",
+      "level": "Elementary",
+      "type": "1-Regular school",
+      "charterSchool": "2-No",
+      "magnentSchool": "†",
+      "locale": "11-City: Large",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "5th Grade"
+      },
+      "students": "370",
+      "fte": "28",
+      "pupilTeacherRatio": "13.21"
+   },
+   {
+      "name": "Langley Es",
+      "location": {
+         "state": {
+            "name": "District of Columbia",
+            "abbr": "DC "
+         }
+      },
+      "district": "District of Columbia Public Schools",
+      "level": "Elementary",
+      "type": "1-Regular school",
+      "charterSchool": "2-No",
+      "magnentSchool": "†",
+      "locale": "11-City: Large",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "5th Grade"
+      },
+      "students": "308",
+      "fte": "28.5",
+      "pupilTeacherRatio": "10.81"
+   },
+   {
+      "name": "Lasalle-Backus Education Campus",
+      "location": {
+         "state": {
+            "name": "District of Columbia",
+            "abbr": "DC "
+         }
+      },
+      "district": "District of Columbia Public Schools",
+      "level": "Elementary",
+      "type": "1-Regular school",
+      "charterSchool": "2-No",
+      "magnentSchool": "†",
+      "locale": "11-City: Large",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "8th Grade"
+      },
+      "students": "366",
+      "fte": "39.71",
+      "pupilTeacherRatio": "9.22"
+   },
+   {
+      "name": "Latin American Montessori Bilingual Pcs",
+      "location": {
+         "state": {
+            "name": "District of Columbia",
+            "abbr": "DC "
+         }
+      },
+      "district": "Latin American Montessori Bilingual Pcs",
+      "level": "Elementary",
+      "type": "1-Regular school",
+      "charterSchool": "1-Yes",
+      "magnentSchool": "†",
+      "locale": "11-City: Large",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "5th Grade"
+      },
+      "students": "476",
+      "fte": "47.25",
+      "pupilTeacherRatio": "10.07"
+   },
+   {
+      "name": "Lawrence E. Boone Es",
+      "location": {
+         "state": {
+            "name": "District of Columbia",
+            "abbr": "DC "
+         }
+      },
+      "district": "District of Columbia Public Schools",
+      "level": "Elementary",
+      "type": "1-Regular school",
+      "charterSchool": "2-No",
+      "magnentSchool": "†",
+      "locale": "11-City: Large",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "5th Grade"
+      },
+      "students": "427",
+      "fte": "29",
+      "pupilTeacherRatio": "14.72"
+   },
+   {
+      "name": "Leckie Education Campus",
+      "location": {
+         "state": {
+            "name": "District of Columbia",
+            "abbr": "DC "
+         }
+      },
+      "district": "District of Columbia Public Schools",
+      "level": "Elementary",
+      "type": "1-Regular school",
+      "charterSchool": "2-No",
+      "magnentSchool": "†",
+      "locale": "11-City: Large",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "8th Grade"
+      },
+      "students": "491",
+      "fte": "36.5",
+      "pupilTeacherRatio": "13.45"
+   },
+   {
+      "name": "Lee Montessori Pcs - Brookland",
+      "location": {
+         "state": {
+            "name": "District of Columbia",
+            "abbr": "DC "
+         }
+      },
+      "district": "Lee Montessori Pcs",
+      "level": "Elementary",
+      "type": "1-Regular school",
+      "charterSchool": "1-Yes",
+      "magnentSchool": "†",
+      "locale": "11-City: Large",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "6th Grade"
+      },
+      "students": "236",
+      "fte": "14.33",
+      "pupilTeacherRatio": "16.47"
+   },
+   {
+      "name": "Lee Montessori Pcs - East End",
+      "location": {
+         "state": {
+            "name": "DISTRICT OF COLUMBIA",
+            "abbr": "DC "
+         }
+      },
+      "district": "Lee Montessori Pcs",
+      "level": "Prekindergarten",
+      "type": "1-Regular school",
+      "charterSchool": "1-Yes",
+      "magnentSchool": "†",
+      "locale": "11-City: Large",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "Prekindergarten"
+      },
+      "students": "75",
+      "fte": "3",
+      "pupilTeacherRatio": "25"
+   },
+   {
+      "name": "Ludlow-Taylor Es",
+      "location": {
+         "state": {
+            "name": "District of Columbia",
+            "abbr": "DC "
+         }
+      },
+      "district": "District of Columbia Public Schools",
+      "level": "Elementary",
+      "type": "1-Regular school",
+      "charterSchool": "2-No",
+      "magnentSchool": "†",
+      "locale": "11-City: Large",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "5th Grade"
+      },
+      "students": "459",
+      "fte": "38",
+      "pupilTeacherRatio": "12.08"
+   },
+   {
+      "name": "Luke C. Moore Hs",
+      "location": {
+         "state": {
+            "name": "District of Columbia",
+            "abbr": "DC "
+         }
+      },
+      "district": "District of Columbia Public Schools",
+      "level": "High",
+      "type": "4-Alternative/other school",
+      "charterSchool": "2-No",
+      "magnentSchool": "†",
+      "locale": "11-City: Large",
+      "grades": {
+         "lowest": "9th Grade",
+         "highest": "12th Grade"
+      },
+      "students": "280",
+      "fte": "16",
+      "pupilTeacherRatio": "17.5"
+   },
+   {
+      "name": "Macfarland Ms",
+      "location": {
+         "state": {
+            "name": "DISTRICT OF COLUMBIA",
+            "abbr": "DC "
+         }
+      },
+      "district": "District of Columbia Public Schools",
+      "level": "Middle",
+      "type": "1-Regular school",
+      "charterSchool": "2-No",
+      "magnentSchool": "†",
+      "locale": "11-City: Large",
+      "grades": {
+         "lowest": "6th Grade",
+         "highest": "8th Grade"
+      },
+      "students": "560",
+      "fte": "41.5",
+      "pupilTeacherRatio": "13.49"
+   },
+   {
+      "name": "Malcolm X Es at Green",
+      "location": {
+         "state": {
+            "name": "District of Columbia",
+            "abbr": "DC "
+         }
+      },
+      "district": "District of Columbia Public Schools",
+      "level": "Elementary",
+      "type": "1-Regular school",
+      "charterSchool": "2-No",
+      "magnentSchool": "†",
+      "locale": "11-City: Large",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "5th Grade"
+      },
+      "students": "233",
+      "fte": "19",
+      "pupilTeacherRatio": "12.26"
+   },
+   {
+      "name": "Mann Es",
+      "location": {
+         "state": {
+            "name": "District of Columbia",
+            "abbr": "DC "
+         }
+      },
+      "district": "District of Columbia Public Schools",
+      "level": "Elementary",
+      "type": "1-Regular school",
+      "charterSchool": "2-No",
+      "magnentSchool": "†",
+      "locale": "11-City: Large",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "5th Grade"
+      },
+      "students": "426",
+      "fte": "31.5",
+      "pupilTeacherRatio": "13.52"
+   },
+   {
+      "name": "Marie Reed Es",
+      "location": {
+         "state": {
+            "name": "District of Columbia",
+            "abbr": "DC "
+         }
+      },
+      "district": "District of Columbia Public Schools",
+      "level": "Elementary",
+      "type": "1-Regular school",
+      "charterSchool": "2-No",
+      "magnentSchool": "†",
+      "locale": "11-City: Large",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "5th Grade"
+      },
+      "students": "461",
+      "fte": "43",
+      "pupilTeacherRatio": "10.72"
+   },
+   {
+      "name": "Mary Mcleod Bethune Day Academy Pcs",
+      "location": {
+         "state": {
+            "name": "District of Columbia",
+            "abbr": "DC "
+         }
+      },
+      "district": "Mary Mcleod Bethune Day Academy Pcs",
+      "level": "Elementary",
+      "type": "1-Regular school",
+      "charterSchool": "1-Yes",
+      "magnentSchool": "†",
+      "locale": "11-City: Large",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "8th Grade"
+      },
+      "students": "423",
+      "fte": "53",
+      "pupilTeacherRatio": "7.98"
+   },
+   {
+      "name": "Maury Es",
+      "location": {
+         "state": {
+            "name": "District of Columbia",
+            "abbr": "DC "
+         }
+      },
+      "district": "District of Columbia Public Schools",
+      "level": "Elementary",
+      "type": "1-Regular school",
+      "charterSchool": "2-No",
+      "magnentSchool": "†",
+      "locale": "11-City: Large",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "5th Grade"
+      },
+      "students": "457",
+      "fte": "32",
+      "pupilTeacherRatio": "14.28"
+   },
+   {
+      "name": "Maya Angelou Academy at New Beginnings Formerly Oak Hill",
+      "location": {
+         "state": {
+            "name": "District of Columbia",
+            "abbr": "DC "
+         }
+      },
+      "district": "Dyrs",
+      "level": "High",
+      "type": "4-Alternative/other school",
+      "charterSchool": "2-No",
+      "magnentSchool": "†",
+      "locale": "41-Rural: Fringe",
+      "grades": {
+         "lowest": "9th Grade",
+         "highest": "12th Grade"
+      },
+      "students": "36",
+      "fte": "9",
+      "pupilTeacherRatio": "4"
+   },
+   {
+      "name": "Maya Angelou Pcs - Hs",
+      "location": {
+         "state": {
+            "name": "District of Columbia",
+            "abbr": "DC "
+         }
+      },
+      "district": "Maya Angelou Pcs",
+      "level": "High",
+      "type": "4-Alternative/other school",
+      "charterSchool": "1-Yes",
+      "magnentSchool": "†",
+      "locale": "11-City: Large",
+      "grades": {
+         "lowest": "9th Grade",
+         "highest": "12th Grade"
+      },
+      "students": "192",
+      "fte": "20",
+      "pupilTeacherRatio": "9.6"
+   },
+   {
+      "name": "Mckinley Ms",
+      "location": {
+         "state": {
+            "name": "District of Columbia",
+            "abbr": "DC "
+         }
+      },
+      "district": "District of Columbia Public Schools",
+      "level": "Middle",
+      "type": "1-Regular school",
+      "charterSchool": "2-No",
+      "magnentSchool": "†",
+      "locale": "11-City: Large",
+      "grades": {
+         "lowest": "6th Grade",
+         "highest": "8th Grade"
+      },
+      "students": "247",
+      "fte": "19",
+      "pupilTeacherRatio": "13"
+   },
+   {
+      "name": "Mckinley Technology Hs",
+      "location": {
+         "state": {
+            "name": "District of Columbia",
+            "abbr": "DC "
+         }
+      },
+      "district": "District of Columbia Public Schools",
+      "level": "High",
+      "type": "1-Regular school",
+      "charterSchool": "2-No",
+      "magnentSchool": "†",
+      "locale": "11-City: Large",
+      "grades": {
+         "lowest": "9th Grade",
+         "highest": "12th Grade"
+      },
+      "students": "653",
+      "fte": "43",
+      "pupilTeacherRatio": "15.19"
+   },
+   {
+      "name": "Meridian Pcs",
+      "location": {
+         "state": {
+            "name": "District of Columbia",
+            "abbr": "DC "
+         }
+      },
+      "district": "Meridian Pcs",
+      "level": "Elementary",
+      "type": "1-Regular school",
+      "charterSchool": "1-Yes",
+      "magnentSchool": "†",
+      "locale": "11-City: Large",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "8th Grade"
+      },
+      "students": "634",
+      "fte": "62",
+      "pupilTeacherRatio": "10.23"
+   },
+   {
+      "name": "Miner Es",
+      "location": {
+         "state": {
+            "name": "District of Columbia",
+            "abbr": "DC "
+         }
+      },
+      "district": "District of Columbia Public Schools",
+      "level": "Elementary",
+      "type": "1-Regular school",
+      "charterSchool": "2-No",
+      "magnentSchool": "†",
+      "locale": "11-City: Large",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "5th Grade"
+      },
+      "students": "372",
+      "fte": "33.5",
+      "pupilTeacherRatio": "11.1"
+   },
+   {
+      "name": "Monument Academy Pcs",
+      "location": {
+         "state": {
+            "name": "DISTRICT OF COLUMBIA",
+            "abbr": "DC "
+         }
+      },
+      "district": "Monument Academy Pcs",
+      "level": "Middle",
+      "type": "1-Regular school",
+      "charterSchool": "1-Yes",
+      "magnentSchool": "†",
+      "locale": "11-City: Large",
+      "grades": {
+         "lowest": "5th Grade",
+         "highest": "8th Grade"
+      },
+      "students": "102",
+      "fte": "18",
+      "pupilTeacherRatio": "5.67"
+   },
+   {
+      "name": "Moten Es",
+      "location": {
+         "state": {
+            "name": "District of Columbia",
+            "abbr": "DC "
+         }
+      },
+      "district": "District of Columbia Public Schools",
+      "level": "Elementary",
+      "type": "1-Regular school",
+      "charterSchool": "2-No",
+      "magnentSchool": "†",
+      "locale": "11-City: Large",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "5th Grade"
+      },
+      "students": "286",
+      "fte": "25",
+      "pupilTeacherRatio": "11.44"
+   },
+   {
+      "name": "Mundo Verde Bilingual Pcs",
+      "location": {
+         "state": {
+            "name": "District of Columbia",
+            "abbr": "DC "
+         }
+      },
+      "district": "Mundo Verde Bilingual Pcs",
+      "level": "Elementary",
+      "type": "1-Regular school",
+      "charterSchool": "1-Yes",
+      "magnentSchool": "†",
+      "locale": "11-City: Large",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "5th Grade"
+      },
+      "students": "606",
+      "fte": "43",
+      "pupilTeacherRatio": "14.09"
+   },
+   {
+      "name": "Mundo Verde Bilingual Pcs - 4401 8th Street Ne Campus",
+      "location": {
+         "state": {
+            "name": "DISTRICT OF COLUMBIA",
+            "abbr": "DC "
+         }
+      },
+      "district": "Mundo Verde Bilingual Pcs",
+      "level": "Elementary",
+      "type": "1-Regular school",
+      "charterSchool": "1-Yes",
+      "magnentSchool": "†",
+      "locale": "11-City: Large",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "Kindergarten"
+      },
+      "students": "268",
+      "fte": "15",
+      "pupilTeacherRatio": "17.87"
+   },
+   {
+      "name": "Murch Es",
+      "location": {
+         "state": {
+            "name": "District of Columbia",
+            "abbr": "DC "
+         }
+      },
+      "district": "District of Columbia Public Schools",
+      "level": "Elementary",
+      "type": "1-Regular school",
+      "charterSchool": "2-No",
+      "magnentSchool": "†",
+      "locale": "11-City: Large",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "5th Grade"
+      },
+      "students": "623",
+      "fte": "40.5",
+      "pupilTeacherRatio": "15.38"
+   },
+   {
+      "name": "Nalle Es",
+      "location": {
+         "state": {
+            "name": "District of Columbia",
+            "abbr": "DC "
+         }
+      },
+      "district": "District of Columbia Public Schools",
+      "level": "Elementary",
+      "type": "1-Regular school",
+      "charterSchool": "2-No",
+      "magnentSchool": "†",
+      "locale": "11-City: Large",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "5th Grade"
+      },
+      "students": "347",
+      "fte": "30",
+      "pupilTeacherRatio": "11.57"
+   },
+   {
+      "name": "National Collegiate Preparatory Pchs",
+      "location": {
+         "state": {
+            "name": "District of Columbia",
+            "abbr": "DC "
+         }
+      },
+      "district": "National Collegiate Preparatory Pchs",
+      "level": "High",
+      "type": "1-Regular school",
+      "charterSchool": "1-Yes",
+      "magnentSchool": "†",
+      "locale": "11-City: Large",
+      "grades": {
+         "lowest": "9th Grade",
+         "highest": "12th Grade"
+      },
+      "students": "114",
+      "fte": "18",
+      "pupilTeacherRatio": "6.33"
+   },
+   {
+      "name": "Noyes Es",
+      "location": {
+         "state": {
+            "name": "District of Columbia",
+            "abbr": "DC "
+         }
+      },
+      "district": "District of Columbia Public Schools",
+      "level": "Elementary",
+      "type": "1-Regular school",
+      "charterSchool": "2-No",
+      "magnentSchool": "†",
+      "locale": "11-City: Large",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "5th Grade"
+      },
+      "students": "228",
+      "fte": "23",
+      "pupilTeacherRatio": "9.91"
+   },
+   {
+      "name": "Oyster-Adams Bilingual School",
+      "location": {
+         "state": {
+            "name": "District of Columbia",
+            "abbr": "DC "
+         }
+      },
+      "district": "District of Columbia Public Schools",
+      "level": "Elementary",
+      "type": "1-Regular school",
+      "charterSchool": "2-No",
+      "magnentSchool": "†",
+      "locale": "11-City: Large",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "8th Grade"
+      },
+      "students": "731",
+      "fte": "61",
+      "pupilTeacherRatio": "11.98"
+   },
+   {
+      "name": "Patterson Es",
+      "location": {
+         "state": {
+            "name": "District of Columbia",
+            "abbr": "DC "
+         }
+      },
+      "district": "District of Columbia Public Schools",
+      "level": "Elementary",
+      "type": "1-Regular school",
+      "charterSchool": "2-No",
+      "magnentSchool": "†",
+      "locale": "11-City: Large",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "5th Grade"
+      },
+      "students": "394",
+      "fte": "36.5",
+      "pupilTeacherRatio": "10.79"
+   },
+   {
+      "name": "Paul Pcs - International Hs",
+      "location": {
+         "state": {
+            "name": "District of Columbia",
+            "abbr": "DC "
+         }
+      },
+      "district": "Paul Pcs",
+      "level": "High",
+      "type": "1-Regular school",
+      "charterSchool": "1-Yes",
+      "magnentSchool": "†",
+      "locale": "11-City: Large",
+      "grades": {
+         "lowest": "9th Grade",
+         "highest": "12th Grade"
+      },
+      "students": "427",
+      "fte": "43.1",
+      "pupilTeacherRatio": "9.91"
+   },
+   {
+      "name": "Paul Pcs - Ms",
+      "location": {
+         "state": {
+            "name": "District of Columbia",
+            "abbr": "DC "
+         }
+      },
+      "district": "Paul Pcs",
+      "level": "Middle",
+      "type": "1-Regular school",
+      "charterSchool": "1-Yes",
+      "magnentSchool": "†",
+      "locale": "11-City: Large",
+      "grades": {
+         "lowest": "6th Grade",
+         "highest": "8th Grade"
+      },
+      "students": "320",
+      "fte": "28.5",
+      "pupilTeacherRatio": "11.23"
+   },
+   {
+      "name": "Payne Es",
+      "location": {
+         "state": {
+            "name": "District of Columbia",
+            "abbr": "DC "
+         }
+      },
+      "district": "District of Columbia Public Schools",
+      "level": "Elementary",
+      "type": "1-Regular school",
+      "charterSchool": "2-No",
+      "magnentSchool": "†",
+      "locale": "11-City: Large",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "5th Grade"
+      },
+      "students": "321",
+      "fte": "27.5",
+      "pupilTeacherRatio": "11.67"
+   },
+   {
+      "name": "Peabody Es (Capitol Hill Cluster)",
+      "location": {
+         "state": {
+            "name": "District of Columbia",
+            "abbr": "DC "
+         }
+      },
+      "district": "District of Columbia Public Schools",
+      "level": "Elementary",
+      "type": "1-Regular school",
+      "charterSchool": "2-No",
+      "magnentSchool": "†",
+      "locale": "11-City: Large",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "Kindergarten"
+      },
+      "students": "222",
+      "fte": "14.5",
+      "pupilTeacherRatio": "15.31"
+   },
+   {
+      "name": "Perry Street Preparatory Pcs",
+      "location": {
+         "state": {
+            "name": "District of Columbia",
+            "abbr": "DC "
+         }
+      },
+      "district": "Perry Street Preparatory Pcs",
+      "level": "Elementary",
+      "type": "1-Regular school",
+      "charterSchool": "1-Yes",
+      "magnentSchool": "†",
+      "locale": "11-City: Large",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "8th Grade"
+      },
+      "students": "402",
+      "fte": "36",
+      "pupilTeacherRatio": "11.17"
+   },
+   {
+      "name": "Phelps Architecture Construction and Engineering Hs",
+      "location": {
+         "state": {
+            "name": "District of Columbia",
+            "abbr": "DC "
+         }
+      },
+      "district": "District of Columbia Public Schools",
+      "level": "High",
+      "type": "1-Regular school",
+      "charterSchool": "2-No",
+      "magnentSchool": "†",
+      "locale": "11-City: Large",
+      "grades": {
+         "lowest": "9th Grade",
+         "highest": "12th Grade"
+      },
+      "students": "257",
+      "fte": "33",
+      "pupilTeacherRatio": "7.79"
+   },
+   {
+      "name": "Plummer Es",
+      "location": {
+         "state": {
+            "name": "District of Columbia",
+            "abbr": "DC "
+         }
+      },
+      "district": "District of Columbia Public Schools",
+      "level": "Elementary",
+      "type": "1-Regular school",
+      "charterSchool": "2-No",
+      "magnentSchool": "†",
+      "locale": "11-City: Large",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "5th Grade"
+      },
+      "students": "287",
+      "fte": "29.5",
+      "pupilTeacherRatio": "9.73"
+   },
+   {
+      "name": "Powell Es",
+      "location": {
+         "state": {
+            "name": "District of Columbia",
+            "abbr": "DC "
+         }
+      },
+      "district": "District of Columbia Public Schools",
+      "level": "Elementary",
+      "type": "1-Regular school",
+      "charterSchool": "2-No",
+      "magnentSchool": "†",
+      "locale": "11-City: Large",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "5th Grade"
+      },
+      "students": "529",
+      "fte": "46.5",
+      "pupilTeacherRatio": "11.38"
+   },
+   {
+      "name": "Randle Highlands Es",
+      "location": {
+         "state": {
+            "name": "District of Columbia",
+            "abbr": "DC "
+         }
+      },
+      "district": "District of Columbia Public Schools",
+      "level": "Elementary",
+      "type": "1-Regular school",
+      "charterSchool": "2-No",
+      "magnentSchool": "†",
+      "locale": "11-City: Large",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "5th Grade"
+      },
+      "students": "346",
+      "fte": "24.33",
+      "pupilTeacherRatio": "14.22"
+   },
+   {
+      "name": "Raymond Education Campus",
+      "location": {
+         "state": {
+            "name": "District of Columbia",
+            "abbr": "DC "
+         }
+      },
+      "district": "District of Columbia Public Schools",
+      "level": "Elementary",
+      "type": "1-Regular school",
+      "charterSchool": "2-No",
+      "magnentSchool": "†",
+      "locale": "11-City: Large",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "8th Grade"
+      },
+      "students": "517",
+      "fte": "50",
+      "pupilTeacherRatio": "10.34"
+   },
+   {
+      "name": "Richard Wright Pcs for Journalism and Media Arts",
+      "location": {
+         "state": {
+            "name": "District of Columbia",
+            "abbr": "DC "
+         }
+      },
+      "district": "Richard Wright Pcs for Journalism and Media Arts",
+      "level": "High",
+      "type": "1-Regular school",
+      "charterSchool": "1-Yes",
+      "magnentSchool": "†",
+      "locale": "11-City: Large",
+      "grades": {
+         "lowest": "8th Grade",
+         "highest": "12th Grade"
+      },
+      "students": "303",
+      "fte": "26",
+      "pupilTeacherRatio": "11.65"
+   },
+   {
+      "name": "River Terrace Education Campus",
+      "location": {
+         "state": {
+            "name": "DISTRICT OF COLUMBIA",
+            "abbr": "DC "
+         }
+      },
+      "district": "District of Columbia Public Schools",
+      "level": "Other",
+      "type": "2-Special education school",
+      "charterSchool": "2-No",
+      "magnentSchool": "†",
+      "locale": "11-City: Large",
+      "grades": {
+         "lowest": "3rd Grade",
+         "highest": "12th Grade"
+      },
+      "students": "128",
+      "fte": "23",
+      "pupilTeacherRatio": "5.57"
+   },
+   {
+      "name": "Rocketship Dc Pcs - Legacy Prep",
+      "location": {
+         "state": {
+            "name": "DISTRICT OF COLUMBIA",
+            "abbr": "DC "
+         }
+      },
+      "district": "Rocketship Dc Pcs",
+      "level": "Elementary",
+      "type": "1-Regular school",
+      "charterSchool": "1-Yes",
+      "magnentSchool": "†",
+      "locale": "11-City: Large",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "4th Grade"
+      },
+      "students": "596",
+      "fte": "35",
+      "pupilTeacherRatio": "17.03"
+   },
+   {
+      "name": "Rocketship Dc Pcs - Rise Academy",
+      "location": {
+         "state": {
+            "name": "DISTRICT OF COLUMBIA",
+            "abbr": "DC "
+         }
+      },
+      "district": "Rocketship Dc Pcs",
+      "level": "Elementary",
+      "type": "1-Regular school",
+      "charterSchool": "1-Yes",
+      "magnentSchool": "†",
+      "locale": "11-City: Large",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "5th Grade"
+      },
+      "students": "710",
+      "fte": "37.5",
+      "pupilTeacherRatio": "18.93"
+   },
+   {
+      "name": "Ron Brown College Preparatory Hs",
+      "location": {
+         "state": {
+            "name": "DISTRICT OF COLUMBIA",
+            "abbr": "DC "
+         }
+      },
+      "district": "District of Columbia Public Schools",
+      "level": "High",
+      "type": "1-Regular school",
+      "charterSchool": "2-No",
+      "magnentSchool": "†",
+      "locale": "11-City: Large",
+      "grades": {
+         "lowest": "9th Grade",
+         "highest": "12th Grade"
+      },
+      "students": "252",
+      "fte": "34",
+      "pupilTeacherRatio": "7.41"
+   },
+   {
+      "name": "Roosevelt Hs",
+      "location": {
+         "state": {
+            "name": "District of Columbia",
+            "abbr": "DC "
+         }
+      },
+      "district": "District of Columbia Public Schools",
+      "level": "High",
+      "type": "1-Regular school",
+      "charterSchool": "2-No",
+      "magnentSchool": "†",
+      "locale": "11-City: Large",
+      "grades": {
+         "lowest": "9th Grade",
+         "highest": "12th Grade"
+      },
+      "students": "768",
+      "fte": "65",
+      "pupilTeacherRatio": "11.82"
+   },
+   {
+      "name": "Roosevelt Stay Hs",
+      "location": {
+         "state": {
+            "name": "District of Columbia",
+            "abbr": "DC "
+         }
+      },
+      "district": "District of Columbia Public Schools",
+      "level": "High",
+      "type": "4-Alternative/other school",
+      "charterSchool": "2-No",
+      "magnentSchool": "†",
+      "locale": "11-City: Large",
+      "grades": {
+         "lowest": "9th Grade",
+         "highest": "12th Grade"
+      },
+      "students": "518",
+      "fte": "31.24",
+      "pupilTeacherRatio": "16.58"
+   },
+   {
+      "name": "Roots Pcs",
+      "location": {
+         "state": {
+            "name": "District of Columbia",
+            "abbr": "DC "
+         }
+      },
+      "district": "Roots Pcs",
+      "level": "Elementary",
+      "type": "1-Regular school",
+      "charterSchool": "1-Yes",
+      "magnentSchool": "†",
+      "locale": "11-City: Large",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "5th Grade"
+      },
+      "students": "120",
+      "fte": "10",
+      "pupilTeacherRatio": "12"
+   },
+   {
+      "name": "Ross Es",
+      "location": {
+         "state": {
+            "name": "District of Columbia",
+            "abbr": "DC "
+         }
+      },
+      "district": "District of Columbia Public Schools",
+      "level": "Elementary",
+      "type": "1-Regular school",
+      "charterSchool": "2-No",
+      "magnentSchool": "†",
+      "locale": "11-City: Large",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "5th Grade"
+      },
+      "students": "177",
+      "fte": "17",
+      "pupilTeacherRatio": "10.41"
+   },
+   {
+      "name": "Savoy Es",
+      "location": {
+         "state": {
+            "name": "District of Columbia",
+            "abbr": "DC "
+         }
+      },
+      "district": "District of Columbia Public Schools",
+      "level": "Elementary",
+      "type": "1-Regular school",
+      "charterSchool": "2-No",
+      "magnentSchool": "†",
+      "locale": "11-City: Large",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "5th Grade"
+      },
+      "students": "265",
+      "fte": "22",
+      "pupilTeacherRatio": "12.05"
+   },
+   {
+      "name": "School Without Walls at Francis-Stevens",
+      "location": {
+         "state": {
+            "name": "District of Columbia",
+            "abbr": "DC "
+         }
+      },
+      "district": "District of Columbia Public Schools",
+      "level": "Elementary",
+      "type": "1-Regular school",
+      "charterSchool": "2-No",
+      "magnentSchool": "†",
+      "locale": "11-City: Large",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "8th Grade"
+      },
+      "students": "540",
+      "fte": "43.5",
+      "pupilTeacherRatio": "12.41"
+   },
+   {
+      "name": "School Without Walls Hs",
+      "location": {
+         "state": {
+            "name": "District of Columbia",
+            "abbr": "DC "
+         }
+      },
+      "district": "District of Columbia Public Schools",
+      "level": "High",
+      "type": "1-Regular school",
+      "charterSchool": "2-No",
+      "magnentSchool": "†",
+      "locale": "11-City: Large",
+      "grades": {
+         "lowest": "9th Grade",
+         "highest": "12th Grade"
+      },
+      "students": "591",
+      "fte": "40",
+      "pupilTeacherRatio": "14.78"
+   },
+   {
+      "name": "School-Within-School at Goding",
+      "location": {
+         "state": {
+            "name": "District of Columbia",
+            "abbr": "DC "
+         }
+      },
+      "district": "District of Columbia Public Schools",
+      "level": "Elementary",
+      "type": "1-Regular school",
+      "charterSchool": "2-No",
+      "magnentSchool": "†",
+      "locale": "11-City: Large",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "5th Grade"
+      },
+      "students": "317",
+      "fte": "29",
+      "pupilTeacherRatio": "10.93"
+   },
+   {
+      "name": "Seaton Es",
+      "location": {
+         "state": {
+            "name": "District of Columbia",
+            "abbr": "DC "
+         }
+      },
+      "district": "District of Columbia Public Schools",
+      "level": "Elementary",
+      "type": "1-Regular school",
+      "charterSchool": "2-No",
+      "magnentSchool": "†",
+      "locale": "11-City: Large",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "5th Grade"
+      },
+      "students": "393",
+      "fte": "43",
+      "pupilTeacherRatio": "9.14"
+   },
+   {
+      "name": "Sela Pcs",
+      "location": {
+         "state": {
+            "name": "District of Columbia",
+            "abbr": "DC "
+         }
+      },
+      "district": "Sela Pcs",
+      "level": "Elementary",
+      "type": "1-Regular school",
+      "charterSchool": "1-Yes",
+      "magnentSchool": "†",
+      "locale": "11-City: Large",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "5th Grade"
+      },
+      "students": "233",
+      "fte": "21",
+      "pupilTeacherRatio": "11.1"
+   },
+   {
+      "name": "Shepherd Es",
+      "location": {
+         "state": {
+            "name": "District of Columbia",
+            "abbr": "DC "
+         }
+      },
+      "district": "District of Columbia Public Schools",
+      "level": "Elementary",
+      "type": "1-Regular school",
+      "charterSchool": "2-No",
+      "magnentSchool": "†",
+      "locale": "11-City: Large",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "5th Grade"
+      },
+      "students": "371",
+      "fte": "26.5",
+      "pupilTeacherRatio": "14"
+   },
+   {
+      "name": "Shining Stars Montessori Academy Pcs",
+      "location": {
+         "state": {
+            "name": "District of Columbia",
+            "abbr": "DC "
+         }
+      },
+      "district": "Shining Stars Montessori Academy Pcs",
+      "level": "Elementary",
+      "type": "1-Regular school",
+      "charterSchool": "1-Yes",
+      "magnentSchool": "†",
+      "locale": "11-City: Large",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "6th Grade"
+      },
+      "students": "295",
+      "fte": "19",
+      "pupilTeacherRatio": "15.53"
+   },
+   {
+      "name": "Simon Es",
+      "location": {
+         "state": {
+            "name": "District of Columbia",
+            "abbr": "DC "
+         }
+      },
+      "district": "District of Columbia Public Schools",
+      "level": "Elementary",
+      "type": "1-Regular school",
+      "charterSchool": "2-No",
+      "magnentSchool": "†",
+      "locale": "11-City: Large",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "5th Grade"
+      },
+      "students": "253",
+      "fte": "23.5",
+      "pupilTeacherRatio": "10.77"
+   },
+   {
+      "name": "Smothers Es",
+      "location": {
+         "state": {
+            "name": "District of Columbia",
+            "abbr": "DC "
+         }
+      },
+      "district": "District of Columbia Public Schools",
+      "level": "Elementary",
+      "type": "1-Regular school",
+      "charterSchool": "2-No",
+      "magnentSchool": "†",
+      "locale": "11-City: Large",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "5th Grade"
+      },
+      "students": "247",
+      "fte": "26.5",
+      "pupilTeacherRatio": "9.32"
+   },
+   {
+      "name": "Sousa Ms",
+      "location": {
+         "state": {
+            "name": "District of Columbia",
+            "abbr": "DC "
+         }
+      },
+      "district": "District of Columbia Public Schools",
+      "level": "Middle",
+      "type": "1-Regular school",
+      "charterSchool": "2-No",
+      "magnentSchool": "†",
+      "locale": "11-City: Large",
+      "grades": {
+         "lowest": "6th Grade",
+         "highest": "8th Grade"
+      },
+      "students": "289",
+      "fte": "24",
+      "pupilTeacherRatio": "12.04"
+   },
+   {
+      "name": "St. Coletta Special Education Pcs",
+      "location": {
+         "state": {
+            "name": "District of Columbia",
+            "abbr": "DC "
+         }
+      },
+      "district": "St. Coletta Special Education Pcs",
+      "level": "Other",
+      "type": "2-Special education school",
+      "charterSchool": "1-Yes",
+      "magnentSchool": "†",
+      "locale": "11-City: Large",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "250",
+      "fte": "22",
+      "pupilTeacherRatio": "11.36"
+   },
+   {
+      "name": "Stanton Es",
+      "location": {
+         "state": {
+            "name": "District of Columbia",
+            "abbr": "DC "
+         }
+      },
+      "district": "District of Columbia Public Schools",
+      "level": "Elementary",
+      "type": "1-Regular school",
+      "charterSchool": "2-No",
+      "magnentSchool": "†",
+      "locale": "11-City: Large",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "5th Grade"
+      },
+      "students": "429",
+      "fte": "33",
+      "pupilTeacherRatio": "13"
+   },
+   {
+      "name": "Statesmen College Preparatory Academy for Boys Pcs",
+      "location": {
+         "state": {
+            "name": "DISTRICT OF COLUMBIA",
+            "abbr": "DC "
+         }
+      },
+      "district": "Statesmen College Preparatory Academy for Boys Pcs",
+      "level": "Elementary",
+      "type": "1-Regular school",
+      "charterSchool": "1-Yes",
+      "magnentSchool": "†",
+      "locale": "11-City: Large",
+      "grades": {
+         "lowest": "4th Grade",
+         "highest": "5th Grade"
+      },
+      "students": "130",
+      "fte": "10",
+      "pupilTeacherRatio": "13"
+   },
+   {
+      "name": "Stoddert Es",
+      "location": {
+         "state": {
+            "name": "District of Columbia",
+            "abbr": "DC "
+         }
+      },
+      "district": "District of Columbia Public Schools",
+      "level": "Elementary",
+      "type": "1-Regular school",
+      "charterSchool": "2-No",
+      "magnentSchool": "†",
+      "locale": "11-City: Large",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "5th Grade"
+      },
+      "students": "494",
+      "fte": "31",
+      "pupilTeacherRatio": "15.94"
+   },
+   {
+      "name": "Stuart-Hobson Ms (Capitol Hill Cluster)",
+      "location": {
+         "state": {
+            "name": "District of Columbia",
+            "abbr": "DC "
+         }
+      },
+      "district": "District of Columbia Public Schools",
+      "level": "Middle",
+      "type": "1-Regular school",
+      "charterSchool": "2-No",
+      "magnentSchool": "†",
+      "locale": "11-City: Large",
+      "grades": {
+         "lowest": "6th Grade",
+         "highest": "8th Grade"
+      },
+      "students": "487",
+      "fte": "35",
+      "pupilTeacherRatio": "13.91"
+   },
+   {
+      "name": "Takoma Education Campus",
+      "location": {
+         "state": {
+            "name": "District of Columbia",
+            "abbr": "DC "
+         }
+      },
+      "district": "District of Columbia Public Schools",
+      "level": "Elementary",
+      "type": "1-Regular school",
+      "charterSchool": "2-No",
+      "magnentSchool": "†",
+      "locale": "11-City: Large",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "8th Grade"
+      },
+      "students": "532",
+      "fte": "48.5",
+      "pupilTeacherRatio": "10.97"
+   },
+   {
+      "name": "The Children's Guild Pcs",
+      "location": {
+         "state": {
+            "name": "DISTRICT OF COLUMBIA",
+            "abbr": "DC "
+         }
+      },
+      "district": "The Children's Guild Dc Pcs",
+      "level": "Elementary",
+      "type": "1-Regular school",
+      "charterSchool": "1-Yes",
+      "magnentSchool": "†",
+      "locale": "11-City: Large",
+      "grades": {
+         "lowest": "Kindergarten",
+         "highest": "8th Grade"
+      },
+      "students": "331",
+      "fte": "51.5",
+      "pupilTeacherRatio": "6.43"
+   },
+   {
+      "name": "The Seed Pcs of Washington Dc",
+      "location": {
+         "state": {
+            "name": "District of Columbia",
+            "abbr": "DC "
+         }
+      },
+      "district": "Seed Pcs of Washington Dc",
+      "level": "High",
+      "type": "1-Regular school",
+      "charterSchool": "1-Yes",
+      "magnentSchool": "†",
+      "locale": "11-City: Large",
+      "grades": {
+         "lowest": "8th Grade",
+         "highest": "12th Grade"
+      },
+      "students": "237",
+      "fte": "28",
+      "pupilTeacherRatio": "8.46"
+   },
+   {
+      "name": "Thomas Es",
+      "location": {
+         "state": {
+            "name": "District of Columbia",
+            "abbr": "DC "
+         }
+      },
+      "district": "District of Columbia Public Schools",
+      "level": "Elementary",
+      "type": "1-Regular school",
+      "charterSchool": "2-No",
+      "magnentSchool": "†",
+      "locale": "11-City: Large",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "5th Grade"
+      },
+      "students": "326",
+      "fte": "29.33",
+      "pupilTeacherRatio": "11.11"
+   },
+   {
+      "name": "Thomson Es",
+      "location": {
+         "state": {
+            "name": "District of Columbia",
+            "abbr": "DC "
+         }
+      },
+      "district": "District of Columbia Public Schools",
+      "level": "Elementary",
+      "type": "1-Regular school",
+      "charterSchool": "2-No",
+      "magnentSchool": "†",
+      "locale": "11-City: Large",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "5th Grade"
+      },
+      "students": "320",
+      "fte": "31",
+      "pupilTeacherRatio": "10.32"
+   },
+   {
+      "name": "Thurgood Marshall Academy Pcs",
+      "location": {
+         "state": {
+            "name": "District of Columbia",
+            "abbr": "DC "
+         }
+      },
+      "district": "Thurgood Marshall Academy Pcs",
+      "level": "High",
+      "type": "1-Regular school",
+      "charterSchool": "1-Yes",
+      "magnentSchool": "†",
+      "locale": "11-City: Large",
+      "grades": {
+         "lowest": "9th Grade",
+         "highest": "12th Grade"
+      },
+      "students": "385",
+      "fte": "36",
+      "pupilTeacherRatio": "10.69"
+   },
+   {
+      "name": "Truesdell Education Campus",
+      "location": {
+         "state": {
+            "name": "District of Columbia",
+            "abbr": "DC "
+         }
+      },
+      "district": "District of Columbia Public Schools",
+      "level": "Elementary",
+      "type": "1-Regular school",
+      "charterSchool": "2-No",
+      "magnentSchool": "†",
+      "locale": "11-City: Large",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "8th Grade"
+      },
+      "students": "565",
+      "fte": "55",
+      "pupilTeacherRatio": "10.27"
+   },
+   {
+      "name": "Tubman Es",
+      "location": {
+         "state": {
+            "name": "District of Columbia",
+            "abbr": "DC "
+         }
+      },
+      "district": "District of Columbia Public Schools",
+      "level": "Elementary",
+      "type": "1-Regular school",
+      "charterSchool": "2-No",
+      "magnentSchool": "†",
+      "locale": "11-City: Large",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "5th Grade"
+      },
+      "students": "564",
+      "fte": "52.5",
+      "pupilTeacherRatio": "10.74"
+   },
+   {
+      "name": "Turner Es",
+      "location": {
+         "state": {
+            "name": "District of Columbia",
+            "abbr": "DC "
+         }
+      },
+      "district": "District of Columbia Public Schools",
+      "level": "Elementary",
+      "type": "1-Regular school",
+      "charterSchool": "2-No",
+      "magnentSchool": "†",
+      "locale": "11-City: Large",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "5th Grade"
+      },
+      "students": "506",
+      "fte": "32.5",
+      "pupilTeacherRatio": "15.57"
+   },
+   {
+      "name": "Two Rivers Pcs - 4th St",
+      "location": {
+         "state": {
+            "name": "District of Columbia",
+            "abbr": "DC "
+         }
+      },
+      "district": "Two Rivers Pcs",
+      "level": "Elementary",
+      "type": "1-Regular school",
+      "charterSchool": "1-Yes",
+      "magnentSchool": "†",
+      "locale": "11-City: Large",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "8th Grade"
+      },
+      "students": "534",
+      "fte": "43.98",
+      "pupilTeacherRatio": "12.14"
+   },
+   {
+      "name": "Two Rivers Pcs - Young",
+      "location": {
+         "state": {
+            "name": "DISTRICT OF COLUMBIA",
+            "abbr": "DC "
+         }
+      },
+      "district": "Two Rivers Pcs",
+      "level": "Elementary",
+      "type": "1-Regular school",
+      "charterSchool": "1-Yes",
+      "magnentSchool": "†",
+      "locale": "11-City: Large",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "5th Grade"
+      },
+      "students": "381",
+      "fte": "27.98",
+      "pupilTeacherRatio": "13.62"
+   },
+   {
+      "name": "Tyler Es",
+      "location": {
+         "state": {
+            "name": "District of Columbia",
+            "abbr": "DC "
+         }
+      },
+      "district": "District of Columbia Public Schools",
+      "level": "Elementary",
+      "type": "1-Regular school",
+      "charterSchool": "2-No",
+      "magnentSchool": "†",
+      "locale": "11-City: Large",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "5th Grade"
+      },
+      "students": "528",
+      "fte": "43.5",
+      "pupilTeacherRatio": "12.14"
+   },
+   {
+      "name": "Van Ness Es",
+      "location": {
+         "state": {
+            "name": "DISTRICT OF COLUMBIA",
+            "abbr": "DC "
+         }
+      },
+      "district": "District of Columbia Public Schools",
+      "level": "Elementary",
+      "type": "1-Regular school",
+      "charterSchool": "2-No",
+      "magnentSchool": "†",
+      "locale": "11-City: Large",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "4th Grade"
+      },
+      "students": "325",
+      "fte": "26",
+      "pupilTeacherRatio": "12.5"
+   },
+   {
+      "name": "Walker-Jones Education Campus",
+      "location": {
+         "state": {
+            "name": "District of Columbia",
+            "abbr": "DC "
+         }
+      },
+      "district": "District of Columbia Public Schools",
+      "level": "Elementary",
+      "type": "1-Regular school",
+      "charterSchool": "2-No",
+      "magnentSchool": "†",
+      "locale": "11-City: Large",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "8th Grade"
+      },
+      "students": "414",
+      "fte": "33.14",
+      "pupilTeacherRatio": "12.49"
+   },
+   {
+      "name": "Washington Global Pcs",
+      "location": {
+         "state": {
+            "name": "DISTRICT OF COLUMBIA",
+            "abbr": "DC "
+         }
+      },
+      "district": "Washington Global Pcs",
+      "level": "Middle",
+      "type": "1-Regular school",
+      "charterSchool": "1-Yes",
+      "magnentSchool": "†",
+      "locale": "11-City: Large",
+      "grades": {
+         "lowest": "6th Grade",
+         "highest": "8th Grade"
+      },
+      "students": "234",
+      "fte": "18",
+      "pupilTeacherRatio": "13"
+   },
+   {
+      "name": "Washington Latin Pcs - Ms",
+      "location": {
+         "state": {
+            "name": "District of Columbia",
+            "abbr": "DC "
+         }
+      },
+      "district": "Washington Latin Pcs",
+      "level": "Middle",
+      "type": "1-Regular school",
+      "charterSchool": "1-Yes",
+      "magnentSchool": "†",
+      "locale": "11-City: Large",
+      "grades": {
+         "lowest": "5th Grade",
+         "highest": "8th Grade"
+      },
+      "students": "381",
+      "fte": "29.2",
+      "pupilTeacherRatio": "13.05"
+   },
+   {
+      "name": "Washington Latin Pcs - Upper School",
+      "location": {
+         "state": {
+            "name": "District of Columbia",
+            "abbr": "DC "
+         }
+      },
+      "district": "Washington Latin Pcs",
+      "level": "High",
+      "type": "1-Regular school",
+      "charterSchool": "1-Yes",
+      "magnentSchool": "†",
+      "locale": "11-City: Large",
+      "grades": {
+         "lowest": "9th Grade",
+         "highest": "12th Grade"
+      },
+      "students": "341",
+      "fte": "39",
+      "pupilTeacherRatio": "8.74"
+   },
+   {
+      "name": "Washington Leadership Academy Pcs",
+      "location": {
+         "state": {
+            "name": "DISTRICT OF COLUMBIA",
+            "abbr": "DC "
+         }
+      },
+      "district": "Washington Leadership Academy Pcs",
+      "level": "High",
+      "type": "1-Regular school",
+      "charterSchool": "1-Yes",
+      "magnentSchool": "†",
+      "locale": "11-City: Large",
+      "grades": {
+         "lowest": "9th Grade",
+         "highest": "12th Grade"
+      },
+      "students": "396",
+      "fte": "43",
+      "pupilTeacherRatio": "9.21"
+   },
+   {
+      "name": "Washington Metropolitan Hs",
+      "location": {
+         "state": {
+            "name": "District of Columbia",
+            "abbr": "DC "
+         }
+      },
+      "district": "District of Columbia Public Schools",
+      "level": "High",
+      "type": "4-Alternative/other school",
+      "charterSchool": "2-No",
+      "magnentSchool": "†",
+      "locale": "11-City: Large",
+      "grades": {
+         "lowest": "7th Grade",
+         "highest": "12th Grade"
+      },
+      "students": "157",
+      "fte": "19",
+      "pupilTeacherRatio": "8.26"
+   },
+   {
+      "name": "Washington Yu Ying Pcs",
+      "location": {
+         "state": {
+            "name": "District of Columbia",
+            "abbr": "DC "
+         }
+      },
+      "district": "Washington Yu Ying Pcs",
+      "level": "Elementary",
+      "type": "1-Regular school",
+      "charterSchool": "1-Yes",
+      "magnentSchool": "†",
+      "locale": "11-City: Large",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "5th Grade"
+      },
+      "students": "569",
+      "fte": "49.75",
+      "pupilTeacherRatio": "11.44"
+   },
+   {
+      "name": "Watkins Es (Capitol Hill Cluster)",
+      "location": {
+         "state": {
+            "name": "District of Columbia",
+            "abbr": "DC "
+         }
+      },
+      "district": "District of Columbia Public Schools",
+      "level": "Elementary",
+      "type": "1-Regular school",
+      "charterSchool": "2-No",
+      "magnentSchool": "†",
+      "locale": "11-City: Large",
+      "grades": {
+         "lowest": "1st Grade",
+         "highest": "5th Grade"
+      },
+      "students": "446",
+      "fte": "29",
+      "pupilTeacherRatio": "15.38"
+   },
+   {
+      "name": "West Education Campus",
+      "location": {
+         "state": {
+            "name": "District of Columbia",
+            "abbr": "DC "
+         }
+      },
+      "district": "District of Columbia Public Schools",
+      "level": "Elementary",
+      "type": "1-Regular school",
+      "charterSchool": "2-No",
+      "magnentSchool": "†",
+      "locale": "11-City: Large",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "8th Grade"
+      },
+      "students": "342",
+      "fte": "36",
+      "pupilTeacherRatio": "9.5"
+   },
+   {
+      "name": "Wheatley Education Campus",
+      "location": {
+         "state": {
+            "name": "District of Columbia",
+            "abbr": "DC "
+         }
+      },
+      "district": "District of Columbia Public Schools",
+      "level": "Elementary",
+      "type": "1-Regular school",
+      "charterSchool": "2-No",
+      "magnentSchool": "†",
+      "locale": "11-City: Large",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "8th Grade"
+      },
+      "students": "354",
+      "fte": "33",
+      "pupilTeacherRatio": "10.73"
+   },
+   {
+      "name": "Whittier Education Campus",
+      "location": {
+         "state": {
+            "name": "District of Columbia",
+            "abbr": "DC "
+         }
+      },
+      "district": "District of Columbia Public Schools",
+      "level": "Elementary",
+      "type": "1-Regular school",
+      "charterSchool": "2-No",
+      "magnentSchool": "†",
+      "locale": "11-City: Large",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "8th Grade"
+      },
+      "students": "366",
+      "fte": "38",
+      "pupilTeacherRatio": "9.63"
+   },
+   {
+      "name": "Woodrow Wilson Hs",
+      "location": {
+         "state": {
+            "name": "District of Columbia",
+            "abbr": "DC "
+         }
+      },
+      "district": "District of Columbia Public Schools",
+      "level": "High",
+      "type": "1-Regular school",
+      "charterSchool": "2-No",
+      "magnentSchool": "†",
+      "locale": "11-City: Large",
+      "grades": {
+         "lowest": "9th Grade",
+         "highest": "12th Grade"
+      },
+      "students": "1872",
+      "fte": "116.5",
+      "pupilTeacherRatio": "16.07"
+   }
+]

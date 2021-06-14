@@ -1,0 +1,3460 @@
+[
+   {
+      "name": "Acceleration Day and Evening Academy",
+      "location": {
+         "state": {
+            "name": "ALABAMA",
+            "abbr": "AL",
+            "county": "Mobile County"
+         }
+      },
+      "type": "7-Independent Charter District",
+      "grades": {
+         "lowest": "9th Grade",
+         "highest": "12th Grade"
+      },
+      "students": "318",
+      "fte": "10",
+      "pupilTeacherRatio": "31.8",
+      "numberOfSchools": "1"
+   },
+   {
+      "name": "Al Inst Deaf and Blind",
+      "location": {
+         "state": {
+            "name": "Alabama",
+            "abbr": "AL",
+            "county": "Talladega County"
+         }
+      },
+      "type": "5-State agency providing elementary and/or secondary level instruction",
+      "grades": {
+         "lowest": "Kindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "0",
+      "fte": "0",
+      "pupilTeacherRatio": "†",
+      "numberOfSchools": "5"
+   },
+   {
+      "name": "Alabama Clinical Schools",
+      "location": {
+         "state": {
+            "name": "Alabama",
+            "abbr": "AL",
+            "county": "Jefferson County"
+         }
+      },
+      "type": "5-State agency providing elementary and/or secondary level instruction",
+      "grades": {
+         "lowest": "†",
+         "highest": "†"
+      },
+      "students": "†",
+      "fte": "0",
+      "pupilTeacherRatio": "–",
+      "numberOfSchools": "1"
+   },
+   {
+      "name": "Alabama School of Fine Arts",
+      "location": {
+         "state": {
+            "name": "Alabama",
+            "abbr": "AL",
+            "county": "Jefferson County"
+         }
+      },
+      "type": "5-State agency providing elementary and/or secondary level instruction",
+      "grades": {
+         "lowest": "7th Grade",
+         "highest": "12th Grade"
+      },
+      "students": "0",
+      "fte": "0",
+      "pupilTeacherRatio": "†",
+      "numberOfSchools": "0"
+   },
+   {
+      "name": "Alabama Youth Services",
+      "location": {
+         "state": {
+            "name": "Alabama",
+            "abbr": "AL",
+            "county": "Jefferson County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "3rd Grade",
+         "highest": "12th Grade"
+      },
+      "students": "0",
+      "fte": "0",
+      "pupilTeacherRatio": "†",
+      "numberOfSchools": "0"
+   },
+   {
+      "name": "Alabaster City",
+      "location": {
+         "state": {
+            "name": "Alabama",
+            "abbr": "AL",
+            "county": "Shelby County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "6293",
+      "fte": "355.92",
+      "pupilTeacherRatio": "17.68",
+      "numberOfSchools": "5"
+   },
+   {
+      "name": "Albertville City",
+      "location": {
+         "state": {
+            "name": "Alabama",
+            "abbr": "AL",
+            "county": "Marshall County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "5824",
+      "fte": "301",
+      "pupilTeacherRatio": "19.35",
+      "numberOfSchools": "6"
+   },
+   {
+      "name": "Alexander City",
+      "location": {
+         "state": {
+            "name": "Alabama",
+            "abbr": "AL",
+            "county": "Tallapoosa County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "3036",
+      "fte": "186.02",
+      "pupilTeacherRatio": "16.32",
+      "numberOfSchools": "5"
+   },
+   {
+      "name": "Andalusia City",
+      "location": {
+         "state": {
+            "name": "Alabama",
+            "abbr": "AL",
+            "county": "Covington County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "1839",
+      "fte": "101.99",
+      "pupilTeacherRatio": "18.03",
+      "numberOfSchools": "3"
+   },
+   {
+      "name": "Anniston City",
+      "location": {
+         "state": {
+            "name": "Alabama",
+            "abbr": "AL",
+            "county": "Calhoun County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "1887",
+      "fte": "112",
+      "pupilTeacherRatio": "16.85",
+      "numberOfSchools": "7"
+   },
+   {
+      "name": "Arab City",
+      "location": {
+         "state": {
+            "name": "Alabama",
+            "abbr": "AL",
+            "county": "Marshall County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "2696",
+      "fte": "161.26",
+      "pupilTeacherRatio": "16.72",
+      "numberOfSchools": "4"
+   },
+   {
+      "name": "Athens City",
+      "location": {
+         "state": {
+            "name": "Alabama",
+            "abbr": "AL",
+            "county": "Limestone County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "4505",
+      "fte": "226.6",
+      "pupilTeacherRatio": "19.88",
+      "numberOfSchools": "8"
+   },
+   {
+      "name": "Attalla City",
+      "location": {
+         "state": {
+            "name": "Alabama",
+            "abbr": "AL",
+            "county": "Etowah County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "1490",
+      "fte": "87",
+      "pupilTeacherRatio": "17.13",
+      "numberOfSchools": "3"
+   },
+   {
+      "name": "Auburn City",
+      "location": {
+         "state": {
+            "name": "Alabama",
+            "abbr": "AL",
+            "county": "Lee County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "8930",
+      "fte": "505.49",
+      "pupilTeacherRatio": "17.67",
+      "numberOfSchools": "13"
+   },
+   {
+      "name": "Autauga County",
+      "location": {
+         "state": {
+            "name": "Alabama",
+            "abbr": "AL",
+            "county": "Autauga County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "9120",
+      "fte": "484",
+      "pupilTeacherRatio": "18.84",
+      "numberOfSchools": "15"
+   },
+   {
+      "name": "Baldwin County",
+      "location": {
+         "state": {
+            "name": "Alabama",
+            "abbr": "AL",
+            "county": "Baldwin County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "30602",
+      "fte": "1709.92",
+      "pupilTeacherRatio": "17.9",
+      "numberOfSchools": "44"
+   },
+   {
+      "name": "Barbour County",
+      "location": {
+         "state": {
+            "name": "Alabama",
+            "abbr": "AL",
+            "county": "Barbour County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "703",
+      "fte": "40.78",
+      "pupilTeacherRatio": "17.24",
+      "numberOfSchools": "3"
+   },
+   {
+      "name": "Baypointe Residential Services",
+      "location": {
+         "state": {
+            "name": "Alabama",
+            "abbr": "AL",
+            "county": "Mobile County"
+         }
+      },
+      "type": "5-State agency providing elementary and/or secondary level instruction",
+      "grades": {
+         "lowest": "†",
+         "highest": "†"
+      },
+      "students": "†",
+      "fte": "0",
+      "pupilTeacherRatio": "–",
+      "numberOfSchools": "1"
+   },
+   {
+      "name": "Bessemer City",
+      "location": {
+         "state": {
+            "name": "Alabama",
+            "abbr": "AL",
+            "county": "Jefferson County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "3524",
+      "fte": "182.25",
+      "pupilTeacherRatio": "19.34",
+      "numberOfSchools": "9"
+   },
+   {
+      "name": "Bibb County",
+      "location": {
+         "state": {
+            "name": "Alabama",
+            "abbr": "AL",
+            "county": "Bibb County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "3243",
+      "fte": "183.25",
+      "pupilTeacherRatio": "17.7",
+      "numberOfSchools": "9"
+   },
+   {
+      "name": "Birmingham City",
+      "location": {
+         "state": {
+            "name": "Alabama",
+            "abbr": "AL",
+            "county": "Jefferson County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "22726",
+      "fte": "1218.17",
+      "pupilTeacherRatio": "18.66",
+      "numberOfSchools": "51"
+   },
+   {
+      "name": "Blount County",
+      "location": {
+         "state": {
+            "name": "Alabama",
+            "abbr": "AL",
+            "county": "Blount County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "7653",
+      "fte": "431.53",
+      "pupilTeacherRatio": "17.73",
+      "numberOfSchools": "17"
+   },
+   {
+      "name": "Boaz City",
+      "location": {
+         "state": {
+            "name": "Alabama",
+            "abbr": "AL",
+            "county": "Marshall County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "2440",
+      "fte": "136.33",
+      "pupilTeacherRatio": "17.9",
+      "numberOfSchools": "5"
+   },
+   {
+      "name": "Boyd School",
+      "location": {
+         "state": {
+            "name": "Alabama",
+            "abbr": "AL",
+            "county": "Bibb County"
+         }
+      },
+      "type": "5-State agency providing elementary and/or secondary level instruction",
+      "grades": {
+         "lowest": "†",
+         "highest": "†"
+      },
+      "students": "†",
+      "fte": "0",
+      "pupilTeacherRatio": "–",
+      "numberOfSchools": "1"
+   },
+   {
+      "name": "Brantwood Childrens Home",
+      "location": {
+         "state": {
+            "name": "Alabama",
+            "abbr": "AL",
+            "county": "Montgomery County"
+         }
+      },
+      "type": "5-State agency providing elementary and/or secondary level instruction",
+      "grades": {
+         "lowest": "†",
+         "highest": "†"
+      },
+      "students": "†",
+      "fte": "0",
+      "pupilTeacherRatio": "–",
+      "numberOfSchools": "1"
+   },
+   {
+      "name": "Brewerporch Childrens Center",
+      "location": {
+         "state": {
+            "name": "Alabama",
+            "abbr": "AL",
+            "county": "Tuscaloosa County"
+         }
+      },
+      "type": "5-State agency providing elementary and/or secondary level instruction",
+      "grades": {
+         "lowest": "†",
+         "highest": "†"
+      },
+      "students": "†",
+      "fte": "0",
+      "pupilTeacherRatio": "–",
+      "numberOfSchools": "1"
+   },
+   {
+      "name": "Brewton City",
+      "location": {
+         "state": {
+            "name": "Alabama",
+            "abbr": "AL",
+            "county": "Escambia County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "1163",
+      "fte": "71.5",
+      "pupilTeacherRatio": "16.27",
+      "numberOfSchools": "3"
+   },
+   {
+      "name": "Bryce Adolescent School",
+      "location": {
+         "state": {
+            "name": "Alabama",
+            "abbr": "AL",
+            "county": "Tuscaloosa County"
+         }
+      },
+      "type": "5-State agency providing elementary and/or secondary level instruction",
+      "grades": {
+         "lowest": "5th Grade",
+         "highest": "12th Grade"
+      },
+      "students": "0",
+      "fte": "0",
+      "pupilTeacherRatio": "†",
+      "numberOfSchools": "1"
+   },
+   {
+      "name": "Bullock County",
+      "location": {
+         "state": {
+            "name": "Alabama",
+            "abbr": "AL",
+            "county": "Bullock County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "1459",
+      "fte": "77",
+      "pupilTeacherRatio": "18.95",
+      "numberOfSchools": "4"
+   },
+   {
+      "name": "Butler County",
+      "location": {
+         "state": {
+            "name": "Alabama",
+            "abbr": "AL",
+            "county": "Butler County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "2952",
+      "fte": "147.5",
+      "pupilTeacherRatio": "20.01",
+      "numberOfSchools": "7"
+   },
+   {
+      "name": "Calhoun County",
+      "location": {
+         "state": {
+            "name": "Alabama",
+            "abbr": "AL",
+            "county": "Calhoun County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "8495",
+      "fte": "484.6",
+      "pupilTeacherRatio": "17.53",
+      "numberOfSchools": "19"
+   },
+   {
+      "name": "Capstone",
+      "location": {
+         "state": {
+            "name": "ALABAMA",
+            "abbr": "AL",
+            "county": "Tuscaloosa County"
+         }
+      },
+      "type": "7-Independent Charter District",
+      "grades": {
+         "lowest": "–",
+         "highest": "–"
+      },
+      "students": "†",
+      "fte": "†",
+      "pupilTeacherRatio": "†",
+      "numberOfSchools": "0"
+   },
+   {
+      "name": "Chambers County",
+      "location": {
+         "state": {
+            "name": "Alabama",
+            "abbr": "AL",
+            "county": "Chambers County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "3479",
+      "fte": "202.21",
+      "pupilTeacherRatio": "17.2",
+      "numberOfSchools": "11"
+   },
+   {
+      "name": "Cherokee County",
+      "location": {
+         "state": {
+            "name": "Alabama",
+            "abbr": "AL",
+            "county": "Cherokee County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "3897",
+      "fte": "236.14",
+      "pupilTeacherRatio": "16.5",
+      "numberOfSchools": "8"
+   },
+   {
+      "name": "Chickasaw City",
+      "location": {
+         "state": {
+            "name": "Alabama",
+            "abbr": "AL",
+            "county": "Mobile County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "1514",
+      "fte": "66.4",
+      "pupilTeacherRatio": "22.8",
+      "numberOfSchools": "3"
+   },
+   {
+      "name": "Chilton County",
+      "location": {
+         "state": {
+            "name": "Alabama",
+            "abbr": "AL",
+            "county": "Chilton County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "7831",
+      "fte": "424.35",
+      "pupilTeacherRatio": "18.45",
+      "numberOfSchools": "14"
+   },
+   {
+      "name": "Choctaw County",
+      "location": {
+         "state": {
+            "name": "Alabama",
+            "abbr": "AL",
+            "county": "Choctaw County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "1242",
+      "fte": "69.25",
+      "pupilTeacherRatio": "17.94",
+      "numberOfSchools": "4"
+   },
+   {
+      "name": "Clarke County",
+      "location": {
+         "state": {
+            "name": "Alabama",
+            "abbr": "AL",
+            "county": "Clarke County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "2362",
+      "fte": "150.1",
+      "pupilTeacherRatio": "15.74",
+      "numberOfSchools": "7"
+   },
+   {
+      "name": "Clay County",
+      "location": {
+         "state": {
+            "name": "Alabama",
+            "abbr": "AL",
+            "county": "Clay County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "1840",
+      "fte": "104.62",
+      "pupilTeacherRatio": "17.59",
+      "numberOfSchools": "4"
+   },
+   {
+      "name": "Cleburne County",
+      "location": {
+         "state": {
+            "name": "Alabama",
+            "abbr": "AL",
+            "county": "Cleburne County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "2539",
+      "fte": "149.8",
+      "pupilTeacherRatio": "16.95",
+      "numberOfSchools": "9"
+   },
+   {
+      "name": "Coffee County",
+      "location": {
+         "state": {
+            "name": "Alabama",
+            "abbr": "AL",
+            "county": "Coffee County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "2467",
+      "fte": "130.08",
+      "pupilTeacherRatio": "18.97",
+      "numberOfSchools": "4"
+   },
+   {
+      "name": "Colbert County",
+      "location": {
+         "state": {
+            "name": "Alabama",
+            "abbr": "AL",
+            "county": "Colbert County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "2720",
+      "fte": "166.17",
+      "pupilTeacherRatio": "16.37",
+      "numberOfSchools": "8"
+   },
+   {
+      "name": "Compass School",
+      "location": {
+         "state": {
+            "name": "Alabama",
+            "abbr": "AL",
+            "county": "Escambia County"
+         }
+      },
+      "type": "5-State agency providing elementary and/or secondary level instruction",
+      "grades": {
+         "lowest": "†",
+         "highest": "†"
+      },
+      "students": "†",
+      "fte": "0",
+      "pupilTeacherRatio": "–",
+      "numberOfSchools": "1"
+   },
+   {
+      "name": "Conecuh County",
+      "location": {
+         "state": {
+            "name": "Alabama",
+            "abbr": "AL",
+            "county": "Conecuh County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "1955",
+      "fte": "81.07",
+      "pupilTeacherRatio": "24.11",
+      "numberOfSchools": "8"
+   },
+   {
+      "name": "Coosa County",
+      "location": {
+         "state": {
+            "name": "Alabama",
+            "abbr": "AL",
+            "county": "Coosa County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Kindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "794",
+      "fte": "52.98",
+      "pupilTeacherRatio": "14.99",
+      "numberOfSchools": "3"
+   },
+   {
+      "name": "Covington County",
+      "location": {
+         "state": {
+            "name": "Alabama",
+            "abbr": "AL",
+            "county": "Covington County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "3056",
+      "fte": "193.47",
+      "pupilTeacherRatio": "15.8",
+      "numberOfSchools": "9"
+   },
+   {
+      "name": "Crenshaw County",
+      "location": {
+         "state": {
+            "name": "Alabama",
+            "abbr": "AL",
+            "county": "Crenshaw County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "2249",
+      "fte": "134",
+      "pupilTeacherRatio": "16.78",
+      "numberOfSchools": "4"
+   },
+   {
+      "name": "Cullman City",
+      "location": {
+         "state": {
+            "name": "Alabama",
+            "abbr": "AL",
+            "county": "Cullman County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "3157",
+      "fte": "181.05",
+      "pupilTeacherRatio": "17.44",
+      "numberOfSchools": "7"
+   },
+   {
+      "name": "Cullman County",
+      "location": {
+         "state": {
+            "name": "Alabama",
+            "abbr": "AL",
+            "county": "Cullman County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "9349",
+      "fte": "531.75",
+      "pupilTeacherRatio": "17.58",
+      "numberOfSchools": "28"
+   },
+   {
+      "name": "Dale County",
+      "location": {
+         "state": {
+            "name": "Alabama",
+            "abbr": "AL",
+            "county": "Dale County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "3259",
+      "fte": "181.7",
+      "pupilTeacherRatio": "17.94",
+      "numberOfSchools": "8"
+   },
+   {
+      "name": "Daleville City",
+      "location": {
+         "state": {
+            "name": "Alabama",
+            "abbr": "AL",
+            "county": "Dale County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "1142",
+      "fte": "62.37",
+      "pupilTeacherRatio": "18.31",
+      "numberOfSchools": "2"
+   },
+   {
+      "name": "Dallas County",
+      "location": {
+         "state": {
+            "name": "Alabama",
+            "abbr": "AL",
+            "county": "Dallas County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "2880",
+      "fte": "160.04",
+      "pupilTeacherRatio": "18",
+      "numberOfSchools": "12"
+   },
+   {
+      "name": "Decatur City",
+      "location": {
+         "state": {
+            "name": "Alabama",
+            "abbr": "AL",
+            "county": "Morgan County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "8842",
+      "fte": "542",
+      "pupilTeacherRatio": "16.31",
+      "numberOfSchools": "20"
+   },
+   {
+      "name": "Dekalb County",
+      "location": {
+         "state": {
+            "name": "Alabama",
+            "abbr": "AL",
+            "county": "DeKalb County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "8973",
+      "fte": "529.25",
+      "pupilTeacherRatio": "16.95",
+      "numberOfSchools": "16"
+   },
+   {
+      "name": "Demopolis City",
+      "location": {
+         "state": {
+            "name": "Alabama",
+            "abbr": "AL",
+            "county": "Marengo County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "2236",
+      "fte": "128.61",
+      "pupilTeacherRatio": "17.39",
+      "numberOfSchools": "4"
+   },
+   {
+      "name": "Developing Alabama Youth Prog",
+      "location": {
+         "state": {
+            "name": "Alabama",
+            "abbr": "AL",
+            "county": "Shelby County"
+         }
+      },
+      "type": "5-State agency providing elementary and/or secondary level instruction",
+      "grades": {
+         "lowest": "7th Grade",
+         "highest": "11th Grade"
+      },
+      "students": "0",
+      "fte": "0",
+      "pupilTeacherRatio": "†",
+      "numberOfSchools": "1"
+   },
+   {
+      "name": "Dothan City",
+      "location": {
+         "state": {
+            "name": "Alabama",
+            "abbr": "AL",
+            "county": "Houston County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "8701",
+      "fte": "471",
+      "pupilTeacherRatio": "18.47",
+      "numberOfSchools": "16"
+   },
+   {
+      "name": "East Alabama Academy",
+      "location": {
+         "state": {
+            "name": "ALABAMA",
+            "abbr": "AL",
+            "county": "Lee County"
+         }
+      },
+      "type": "5-State agency providing elementary and/or secondary level instruction",
+      "grades": {
+         "lowest": "†",
+         "highest": "†"
+      },
+      "students": "†",
+      "fte": "0",
+      "pupilTeacherRatio": "–",
+      "numberOfSchools": "1"
+   },
+   {
+      "name": "Elba City",
+      "location": {
+         "state": {
+            "name": "Alabama",
+            "abbr": "AL",
+            "county": "Coffee County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "624",
+      "fte": "41",
+      "pupilTeacherRatio": "15.22",
+      "numberOfSchools": "3"
+   },
+   {
+      "name": "Elmore County",
+      "location": {
+         "state": {
+            "name": "Alabama",
+            "abbr": "AL",
+            "county": "Elmore County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "11557",
+      "fte": "591",
+      "pupilTeacherRatio": "19.55",
+      "numberOfSchools": "15"
+   },
+   {
+      "name": "Enterprise City",
+      "location": {
+         "state": {
+            "name": "Alabama",
+            "abbr": "AL",
+            "county": "Coffee County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "6839",
+      "fte": "332",
+      "pupilTeacherRatio": "20.6",
+      "numberOfSchools": "10"
+   },
+   {
+      "name": "Escambia County",
+      "location": {
+         "state": {
+            "name": "Alabama",
+            "abbr": "AL",
+            "county": "Escambia County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "4176",
+      "fte": "256.72",
+      "pupilTeacherRatio": "16.27",
+      "numberOfSchools": "12"
+   },
+   {
+      "name": "Etowah County",
+      "location": {
+         "state": {
+            "name": "Alabama",
+            "abbr": "AL",
+            "county": "Etowah County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "8614",
+      "fte": "511.62",
+      "pupilTeacherRatio": "16.84",
+      "numberOfSchools": "24"
+   },
+   {
+      "name": "Eufaula City",
+      "location": {
+         "state": {
+            "name": "Alabama",
+            "abbr": "AL",
+            "county": "Barbour County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "5700",
+      "fte": "150",
+      "pupilTeacherRatio": "38",
+      "numberOfSchools": "6"
+   },
+   {
+      "name": "Evergreen School",
+      "location": {
+         "state": {
+            "name": "Alabama",
+            "abbr": "AL",
+            "county": "Tuscaloosa County"
+         }
+      },
+      "type": "5-State agency providing elementary and/or secondary level instruction",
+      "grades": {
+         "lowest": "6th Grade",
+         "highest": "12th Grade"
+      },
+      "students": "0",
+      "fte": "0",
+      "pupilTeacherRatio": "†",
+      "numberOfSchools": "1"
+   },
+   {
+      "name": "Excel Institute",
+      "location": {
+         "state": {
+            "name": "Alabama",
+            "abbr": "AL",
+            "county": "Etowah County"
+         }
+      },
+      "type": "5-State agency providing elementary and/or secondary level instruction",
+      "grades": {
+         "lowest": "†",
+         "highest": "†"
+      },
+      "students": "†",
+      "fte": "0",
+      "pupilTeacherRatio": "–",
+      "numberOfSchools": "1"
+   },
+   {
+      "name": "Fairfield City",
+      "location": {
+         "state": {
+            "name": "Alabama",
+            "abbr": "AL",
+            "county": "Jefferson County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "1639",
+      "fte": "64.31",
+      "pupilTeacherRatio": "25.49",
+      "numberOfSchools": "6"
+   },
+   {
+      "name": "Father Purcell Center",
+      "location": {
+         "state": {
+            "name": "Alabama",
+            "abbr": "AL",
+            "county": "Montgomery County"
+         }
+      },
+      "type": "5-State agency providing elementary and/or secondary level instruction",
+      "grades": {
+         "lowest": "†",
+         "highest": "†"
+      },
+      "students": "†",
+      "fte": "0",
+      "pupilTeacherRatio": "–",
+      "numberOfSchools": "1"
+   },
+   {
+      "name": "Fayette County",
+      "location": {
+         "state": {
+            "name": "Alabama",
+            "abbr": "AL",
+            "county": "Fayette County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "2230",
+      "fte": "135.37",
+      "pupilTeacherRatio": "16.47",
+      "numberOfSchools": "6"
+   },
+   {
+      "name": "Florence City",
+      "location": {
+         "state": {
+            "name": "Alabama",
+            "abbr": "AL",
+            "county": "Lauderdale County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "4484",
+      "fte": "265.74",
+      "pupilTeacherRatio": "16.87",
+      "numberOfSchools": "9"
+   },
+   {
+      "name": "Fort Payne City",
+      "location": {
+         "state": {
+            "name": "Alabama",
+            "abbr": "AL",
+            "county": "DeKalb County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "3385",
+      "fte": "190.6",
+      "pupilTeacherRatio": "17.76",
+      "numberOfSchools": "4"
+   },
+   {
+      "name": "Franklin County",
+      "location": {
+         "state": {
+            "name": "Alabama",
+            "abbr": "AL",
+            "county": "Franklin County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "3674",
+      "fte": "227.18",
+      "pupilTeacherRatio": "16.17",
+      "numberOfSchools": "10"
+   },
+   {
+      "name": "Gadsden City",
+      "location": {
+         "state": {
+            "name": "Alabama",
+            "abbr": "AL",
+            "county": "Etowah County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "5098",
+      "fte": "320.88",
+      "pupilTeacherRatio": "15.89",
+      "numberOfSchools": "15"
+   },
+   {
+      "name": "Geneva City",
+      "location": {
+         "state": {
+            "name": "Alabama",
+            "abbr": "AL",
+            "county": "Geneva County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Kindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "1268",
+      "fte": "82",
+      "pupilTeacherRatio": "15.46",
+      "numberOfSchools": "3"
+   },
+   {
+      "name": "Geneva County",
+      "location": {
+         "state": {
+            "name": "Alabama",
+            "abbr": "AL",
+            "county": "Geneva County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "2717",
+      "fte": "161.5",
+      "pupilTeacherRatio": "16.82",
+      "numberOfSchools": "10"
+   },
+   {
+      "name": "Glenwood Mental Health Service",
+      "location": {
+         "state": {
+            "name": "Alabama",
+            "abbr": "AL",
+            "county": "Jefferson County"
+         }
+      },
+      "type": "5-State agency providing elementary and/or secondary level instruction",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "0",
+      "fte": "0",
+      "pupilTeacherRatio": "†",
+      "numberOfSchools": "3"
+   },
+   {
+      "name": "Greene County",
+      "location": {
+         "state": {
+            "name": "Alabama",
+            "abbr": "AL",
+            "county": "Greene County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "1012",
+      "fte": "64",
+      "pupilTeacherRatio": "15.81",
+      "numberOfSchools": "5"
+   },
+   {
+      "name": "Gulf Shores City",
+      "location": {
+         "state": {
+            "name": "ALABAMA",
+            "abbr": "AL",
+            "county": "Baldwin County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "2221",
+      "fte": "113.17",
+      "pupilTeacherRatio": "19.63",
+      "numberOfSchools": "3"
+   },
+   {
+      "name": "Guntersville City",
+      "location": {
+         "state": {
+            "name": "Alabama",
+            "abbr": "AL",
+            "county": "Marshall County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "1853",
+      "fte": "110.65",
+      "pupilTeacherRatio": "16.75",
+      "numberOfSchools": "4"
+   },
+   {
+      "name": "Hale County",
+      "location": {
+         "state": {
+            "name": "Alabama",
+            "abbr": "AL",
+            "county": "Hale County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "2473",
+      "fte": "132",
+      "pupilTeacherRatio": "18.73",
+      "numberOfSchools": "7"
+   },
+   {
+      "name": "Haleyville City",
+      "location": {
+         "state": {
+            "name": "Alabama",
+            "abbr": "AL",
+            "county": "Winston County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "1614",
+      "fte": "103.17",
+      "pupilTeacherRatio": "15.64",
+      "numberOfSchools": "4"
+   },
+   {
+      "name": "Hartselle City",
+      "location": {
+         "state": {
+            "name": "Alabama",
+            "abbr": "AL",
+            "county": "Morgan County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "3519",
+      "fte": "218.93",
+      "pupilTeacherRatio": "16.07",
+      "numberOfSchools": "6"
+   },
+   {
+      "name": "Henry County",
+      "location": {
+         "state": {
+            "name": "Alabama",
+            "abbr": "AL",
+            "county": "Henry County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "2528",
+      "fte": "141",
+      "pupilTeacherRatio": "17.93",
+      "numberOfSchools": "6"
+   },
+   {
+      "name": "Higdon Hill School",
+      "location": {
+         "state": {
+            "name": "Alabama",
+            "abbr": "AL",
+            "county": "Jefferson County"
+         }
+      },
+      "type": "5-State agency providing elementary and/or secondary level instruction",
+      "grades": {
+         "lowest": "†",
+         "highest": "†"
+      },
+      "students": "†",
+      "fte": "0",
+      "pupilTeacherRatio": "–",
+      "numberOfSchools": "2"
+   },
+   {
+      "name": "Homewood City",
+      "location": {
+         "state": {
+            "name": "Alabama",
+            "abbr": "AL",
+            "county": "Jefferson County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "4217",
+      "fte": "307",
+      "pupilTeacherRatio": "13.74",
+      "numberOfSchools": "5"
+   },
+   {
+      "name": "Hoover City",
+      "location": {
+         "state": {
+            "name": "Alabama",
+            "abbr": "AL",
+            "county": "Jefferson County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "14061",
+      "fte": "970.33",
+      "pupilTeacherRatio": "14.49",
+      "numberOfSchools": "18"
+   },
+   {
+      "name": "Houston County",
+      "location": {
+         "state": {
+            "name": "Alabama",
+            "abbr": "AL",
+            "county": "Houston County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "6479",
+      "fte": "362.75",
+      "pupilTeacherRatio": "17.86",
+      "numberOfSchools": "12"
+   },
+   {
+      "name": "Huntsville City",
+      "location": {
+         "state": {
+            "name": "Alabama",
+            "abbr": "AL",
+            "county": "Madison County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "23882",
+      "fte": "1333.55",
+      "pupilTeacherRatio": "17.91",
+      "numberOfSchools": "46"
+   },
+   {
+      "name": "I3 Academy",
+      "location": {
+         "state": {
+            "name": "ALABAMA",
+            "abbr": "AL",
+            "county": "Jefferson County"
+         }
+      },
+      "type": "7-Independent Charter District",
+      "grades": {
+         "lowest": "–",
+         "highest": "–"
+      },
+      "students": "†",
+      "fte": "†",
+      "pupilTeacherRatio": "†",
+      "numberOfSchools": "0"
+   },
+   {
+      "name": "Jackson County",
+      "location": {
+         "state": {
+            "name": "Alabama",
+            "abbr": "AL",
+            "county": "Jackson County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "5188",
+      "fte": "297.94",
+      "pupilTeacherRatio": "17.41",
+      "numberOfSchools": "18"
+   },
+   {
+      "name": "Jacksonville City",
+      "location": {
+         "state": {
+            "name": "Alabama",
+            "abbr": "AL",
+            "county": "Calhoun County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "1639",
+      "fte": "96.5",
+      "pupilTeacherRatio": "16.98",
+      "numberOfSchools": "2"
+   },
+   {
+      "name": "Jasper City",
+      "location": {
+         "state": {
+            "name": "Alabama",
+            "abbr": "AL",
+            "county": "Walker County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "2734",
+      "fte": "161",
+      "pupilTeacherRatio": "16.98",
+      "numberOfSchools": "5"
+   },
+   {
+      "name": "Jefferson County",
+      "location": {
+         "state": {
+            "name": "Alabama",
+            "abbr": "AL",
+            "county": "Jefferson County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "36359",
+      "fte": "2007.81",
+      "pupilTeacherRatio": "18.11",
+      "numberOfSchools": "56"
+   },
+   {
+      "name": "Jf Ingram State Technical College",
+      "location": {
+         "state": {
+            "name": "Alabama",
+            "abbr": "AL",
+            "county": "Elmore County"
+         }
+      },
+      "type": "5-State agency providing elementary and/or secondary level instruction",
+      "grades": {
+         "lowest": "†",
+         "highest": "†"
+      },
+      "students": "†",
+      "fte": "0",
+      "pupilTeacherRatio": "–",
+      "numberOfSchools": "8"
+   },
+   {
+      "name": "Lamar County",
+      "location": {
+         "state": {
+            "name": "Alabama",
+            "abbr": "AL",
+            "county": "Lamar County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "2292",
+      "fte": "133",
+      "pupilTeacherRatio": "17.23",
+      "numberOfSchools": "5"
+   },
+   {
+      "name": "Lanett City",
+      "location": {
+         "state": {
+            "name": "Alabama",
+            "abbr": "AL",
+            "county": "Chambers County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "953",
+      "fte": "54.9",
+      "pupilTeacherRatio": "17.36",
+      "numberOfSchools": "3"
+   },
+   {
+      "name": "Lauderdale County",
+      "location": {
+         "state": {
+            "name": "Alabama",
+            "abbr": "AL",
+            "county": "Lauderdale County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "8160",
+      "fte": "465.76",
+      "pupilTeacherRatio": "17.52",
+      "numberOfSchools": "10"
+   },
+   {
+      "name": "Laurel Oaks Behavioral Health Center",
+      "location": {
+         "state": {
+            "name": "Alabama",
+            "abbr": "AL",
+            "county": "Houston County"
+         }
+      },
+      "type": "5-State agency providing elementary and/or secondary level instruction",
+      "grades": {
+         "lowest": "†",
+         "highest": "†"
+      },
+      "students": "†",
+      "fte": "0",
+      "pupilTeacherRatio": "–",
+      "numberOfSchools": "1"
+   },
+   {
+      "name": "Lawrence County",
+      "location": {
+         "state": {
+            "name": "Alabama",
+            "abbr": "AL",
+            "county": "Lawrence County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "4658",
+      "fte": "277.5",
+      "pupilTeacherRatio": "16.79",
+      "numberOfSchools": "15"
+   },
+   {
+      "name": "Lead Academy",
+      "location": {
+         "state": {
+            "name": "ALABAMA",
+            "abbr": "AL",
+            "county": "Montgomery County"
+         }
+      },
+      "type": "7-Independent Charter District",
+      "grades": {
+         "lowest": "Kindergarten",
+         "highest": "5th Grade"
+      },
+      "students": "348",
+      "fte": "6",
+      "pupilTeacherRatio": "58",
+      "numberOfSchools": "1"
+   },
+   {
+      "name": "Lee County",
+      "location": {
+         "state": {
+            "name": "Alabama",
+            "abbr": "AL",
+            "county": "Lee County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "9508",
+      "fte": "568.45",
+      "pupilTeacherRatio": "16.73",
+      "numberOfSchools": "14"
+   },
+   {
+      "name": "Lee County Youth Development Center",
+      "location": {
+         "state": {
+            "name": "Alabama",
+            "abbr": "AL",
+            "county": "Lee County"
+         }
+      },
+      "type": "5-State agency providing elementary and/or secondary level instruction",
+      "grades": {
+         "lowest": "†",
+         "highest": "†"
+      },
+      "students": "†",
+      "fte": "0",
+      "pupilTeacherRatio": "–",
+      "numberOfSchools": "1"
+   },
+   {
+      "name": "Leeds City",
+      "location": {
+         "state": {
+            "name": "Alabama",
+            "abbr": "AL",
+            "county": "Jefferson County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "2076",
+      "fte": "109.5",
+      "pupilTeacherRatio": "18.96",
+      "numberOfSchools": "4"
+   },
+   {
+      "name": "Legacy Prep",
+      "location": {
+         "state": {
+            "name": "ALABAMA",
+            "abbr": "AL",
+            "county": "Jefferson County"
+         }
+      },
+      "type": "7-Independent Charter District",
+      "grades": {
+         "lowest": "Kindergarten",
+         "highest": "2nd Grade"
+      },
+      "students": "126",
+      "fte": "13",
+      "pupilTeacherRatio": "9.69",
+      "numberOfSchools": "1"
+   },
+   {
+      "name": "Limestone County",
+      "location": {
+         "state": {
+            "name": "Alabama",
+            "abbr": "AL",
+            "county": "Limestone County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "11042",
+      "fte": "486.01",
+      "pupilTeacherRatio": "22.72",
+      "numberOfSchools": "17"
+   },
+   {
+      "name": "Linden City",
+      "location": {
+         "state": {
+            "name": "Alabama",
+            "abbr": "AL",
+            "county": "Marengo County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "486",
+      "fte": "31.5",
+      "pupilTeacherRatio": "15.43",
+      "numberOfSchools": "3"
+   },
+   {
+      "name": "Lowndes County",
+      "location": {
+         "state": {
+            "name": "Alabama",
+            "abbr": "AL",
+            "county": "Lowndes County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "1281",
+      "fte": "86.51",
+      "pupilTeacherRatio": "14.81",
+      "numberOfSchools": "8"
+   },
+   {
+      "name": "Macon County",
+      "location": {
+         "state": {
+            "name": "Alabama",
+            "abbr": "AL",
+            "county": "Macon County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "1862",
+      "fte": "106.84",
+      "pupilTeacherRatio": "17.43",
+      "numberOfSchools": "7"
+   },
+   {
+      "name": "Madison City",
+      "location": {
+         "state": {
+            "name": "Alabama",
+            "abbr": "AL",
+            "county": "Madison County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "11695",
+      "fte": "665.26",
+      "pupilTeacherRatio": "17.58",
+      "numberOfSchools": "11"
+   },
+   {
+      "name": "Madison County",
+      "location": {
+         "state": {
+            "name": "Alabama",
+            "abbr": "AL",
+            "county": "Madison County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "19478",
+      "fte": "1009.17",
+      "pupilTeacherRatio": "19.3",
+      "numberOfSchools": "30"
+   },
+   {
+      "name": "Marengo County",
+      "location": {
+         "state": {
+            "name": "Alabama",
+            "abbr": "AL",
+            "county": "Marengo County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "1018",
+      "fte": "69",
+      "pupilTeacherRatio": "14.75",
+      "numberOfSchools": "3"
+   },
+   {
+      "name": "Marion County",
+      "location": {
+         "state": {
+            "name": "Alabama",
+            "abbr": "AL",
+            "county": "Marion County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "3280",
+      "fte": "191.65",
+      "pupilTeacherRatio": "17.11",
+      "numberOfSchools": "11"
+   },
+   {
+      "name": "Marshall County",
+      "location": {
+         "state": {
+            "name": "Alabama",
+            "abbr": "AL",
+            "county": "Marshall County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "5764",
+      "fte": "294.69",
+      "pupilTeacherRatio": "19.56",
+      "numberOfSchools": "15"
+   },
+   {
+      "name": "Midfield City",
+      "location": {
+         "state": {
+            "name": "Alabama",
+            "abbr": "AL",
+            "county": "Jefferson County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "1025",
+      "fte": "59",
+      "pupilTeacherRatio": "17.37",
+      "numberOfSchools": "4"
+   },
+   {
+      "name": "Mobile County",
+      "location": {
+         "state": {
+            "name": "Alabama",
+            "abbr": "AL",
+            "county": "Mobile County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "53941",
+      "fte": "2973.4",
+      "pupilTeacherRatio": "18.14",
+      "numberOfSchools": "91"
+   },
+   {
+      "name": "Monroe County",
+      "location": {
+         "state": {
+            "name": "Alabama",
+            "abbr": "AL",
+            "county": "Monroe County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "3307",
+      "fte": "202.5",
+      "pupilTeacherRatio": "16.33",
+      "numberOfSchools": "9"
+   },
+   {
+      "name": "Montgomery Childrens Specialty Center",
+      "location": {
+         "state": {
+            "name": "Alabama",
+            "abbr": "AL",
+            "county": "Montgomery County"
+         }
+      },
+      "type": "5-State agency providing elementary and/or secondary level instruction",
+      "grades": {
+         "lowest": "†",
+         "highest": "†"
+      },
+      "students": "†",
+      "fte": "0",
+      "pupilTeacherRatio": "–",
+      "numberOfSchools": "1"
+   },
+   {
+      "name": "Montgomery County",
+      "location": {
+         "state": {
+            "name": "Alabama",
+            "abbr": "AL",
+            "county": "Montgomery County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "28185",
+      "fte": "1589.49",
+      "pupilTeacherRatio": "17.73",
+      "numberOfSchools": "52"
+   },
+   {
+      "name": "Montgomery Public Schools Mps Classroom Mcinnis",
+      "location": {
+         "state": {
+            "name": "Alabama",
+            "abbr": "AL",
+            "county": "Montgomery County"
+         }
+      },
+      "type": "5-State agency providing elementary and/or secondary level instruction",
+      "grades": {
+         "lowest": "†",
+         "highest": "†"
+      },
+      "students": "†",
+      "fte": "0",
+      "pupilTeacherRatio": "–",
+      "numberOfSchools": "1"
+   },
+   {
+      "name": "Morgan County",
+      "location": {
+         "state": {
+            "name": "Alabama",
+            "abbr": "AL",
+            "county": "Morgan County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "7616",
+      "fte": "428.13",
+      "pupilTeacherRatio": "17.79",
+      "numberOfSchools": "19"
+   },
+   {
+      "name": "Mountain Brook City",
+      "location": {
+         "state": {
+            "name": "Alabama",
+            "abbr": "AL",
+            "county": "Jefferson County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "4367",
+      "fte": "333.57",
+      "pupilTeacherRatio": "13.09",
+      "numberOfSchools": "6"
+   },
+   {
+      "name": "Muscle Shoals City",
+      "location": {
+         "state": {
+            "name": "Alabama",
+            "abbr": "AL",
+            "county": "Colbert County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "2828",
+      "fte": "162.65",
+      "pupilTeacherRatio": "17.39",
+      "numberOfSchools": "7"
+   },
+   {
+      "name": "Oneonta City",
+      "location": {
+         "state": {
+            "name": "Alabama",
+            "abbr": "AL",
+            "county": "Blount County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Kindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "1488",
+      "fte": "88.51",
+      "pupilTeacherRatio": "16.81",
+      "numberOfSchools": "3"
+   },
+   {
+      "name": "Opelika City",
+      "location": {
+         "state": {
+            "name": "Alabama",
+            "abbr": "AL",
+            "county": "Lee County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "4616",
+      "fte": "295.1",
+      "pupilTeacherRatio": "15.64",
+      "numberOfSchools": "9"
+   },
+   {
+      "name": "Opp City",
+      "location": {
+         "state": {
+            "name": "Alabama",
+            "abbr": "AL",
+            "county": "Covington County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "1308",
+      "fte": "81.5",
+      "pupilTeacherRatio": "16.05",
+      "numberOfSchools": "3"
+   },
+   {
+      "name": "Oxford City",
+      "location": {
+         "state": {
+            "name": "Alabama",
+            "abbr": "AL",
+            "county": "Calhoun County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "4265",
+      "fte": "267",
+      "pupilTeacherRatio": "15.97",
+      "numberOfSchools": "7"
+   },
+   {
+      "name": "Ozark City",
+      "location": {
+         "state": {
+            "name": "Alabama",
+            "abbr": "AL",
+            "county": "Dale County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "2089",
+      "fte": "117.5",
+      "pupilTeacherRatio": "17.78",
+      "numberOfSchools": "6"
+   },
+   {
+      "name": "Pathway Inc",
+      "location": {
+         "state": {
+            "name": "Alabama",
+            "abbr": "AL",
+            "county": "Coffee County"
+         }
+      },
+      "type": "5-State agency providing elementary and/or secondary level instruction",
+      "grades": {
+         "lowest": "†",
+         "highest": "†"
+      },
+      "students": "†",
+      "fte": "0",
+      "pupilTeacherRatio": "–",
+      "numberOfSchools": "2"
+   },
+   {
+      "name": "Pelham City",
+      "location": {
+         "state": {
+            "name": "ALABAMA",
+            "abbr": "AL",
+            "county": "Shelby County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "3383",
+      "fte": "196.76",
+      "pupilTeacherRatio": "17.19",
+      "numberOfSchools": "4"
+   },
+   {
+      "name": "Pell City",
+      "location": {
+         "state": {
+            "name": "Alabama",
+            "abbr": "AL",
+            "county": "St. Clair County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "4148",
+      "fte": "227.36",
+      "pupilTeacherRatio": "18.24",
+      "numberOfSchools": "8"
+   },
+   {
+      "name": "Perry County",
+      "location": {
+         "state": {
+            "name": "Alabama",
+            "abbr": "AL",
+            "county": "Perry County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "1178",
+      "fte": "77",
+      "pupilTeacherRatio": "15.3",
+      "numberOfSchools": "2"
+   },
+   {
+      "name": "Phenix City",
+      "location": {
+         "state": {
+            "name": "Alabama",
+            "abbr": "AL",
+            "county": "Russell County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "7449",
+      "fte": "407.11",
+      "pupilTeacherRatio": "18.3",
+      "numberOfSchools": "12"
+   },
+   {
+      "name": "Pickens County",
+      "location": {
+         "state": {
+            "name": "Alabama",
+            "abbr": "AL",
+            "county": "Pickens County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "2458",
+      "fte": "137.32",
+      "pupilTeacherRatio": "17.9",
+      "numberOfSchools": "7"
+   },
+   {
+      "name": "Piedmont City",
+      "location": {
+         "state": {
+            "name": "Alabama",
+            "abbr": "AL",
+            "county": "Calhoun County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "1116",
+      "fte": "65.29",
+      "pupilTeacherRatio": "17.09",
+      "numberOfSchools": "3"
+   },
+   {
+      "name": "Pike County",
+      "location": {
+         "state": {
+            "name": "Alabama",
+            "abbr": "AL",
+            "county": "Pike County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "2215",
+      "fte": "140",
+      "pupilTeacherRatio": "15.82",
+      "numberOfSchools": "7"
+   },
+   {
+      "name": "Pike Road City",
+      "location": {
+         "state": {
+            "name": "ALABAMA",
+            "abbr": "AL",
+            "county": "Montgomery County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "2228",
+      "fte": "105.75",
+      "pupilTeacherRatio": "21.07",
+      "numberOfSchools": "3"
+   },
+   {
+      "name": "Pointe Academy Llc",
+      "location": {
+         "state": {
+            "name": "Alabama",
+            "abbr": "AL",
+            "county": "Mobile County"
+         }
+      },
+      "type": "5-State agency providing elementary and/or secondary level instruction",
+      "grades": {
+         "lowest": "†",
+         "highest": "†"
+      },
+      "students": "†",
+      "fte": "0",
+      "pupilTeacherRatio": "–",
+      "numberOfSchools": "1"
+   },
+   {
+      "name": "Presbyterian Home for Children",
+      "location": {
+         "state": {
+            "name": "Alabama",
+            "abbr": "AL",
+            "county": "Talladega County"
+         }
+      },
+      "type": "5-State agency providing elementary and/or secondary level instruction",
+      "grades": {
+         "lowest": "†",
+         "highest": "†"
+      },
+      "students": "†",
+      "fte": "0",
+      "pupilTeacherRatio": "–",
+      "numberOfSchools": "1"
+   },
+   {
+      "name": "Randolph County",
+      "location": {
+         "state": {
+            "name": "Alabama",
+            "abbr": "AL",
+            "county": "Randolph County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "2176",
+      "fte": "137.19",
+      "pupilTeacherRatio": "15.86",
+      "numberOfSchools": "8"
+   },
+   {
+      "name": "Roanoke City",
+      "location": {
+         "state": {
+            "name": "Alabama",
+            "abbr": "AL",
+            "county": "Randolph County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "1501",
+      "fte": "86",
+      "pupilTeacherRatio": "17.45",
+      "numberOfSchools": "4"
+   },
+   {
+      "name": "Russell County",
+      "location": {
+         "state": {
+            "name": "Alabama",
+            "abbr": "AL",
+            "county": "Russell County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "3509",
+      "fte": "202",
+      "pupilTeacherRatio": "17.37",
+      "numberOfSchools": "8"
+   },
+   {
+      "name": "Russellville City",
+      "location": {
+         "state": {
+            "name": "Alabama",
+            "abbr": "AL",
+            "county": "Franklin County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "2541",
+      "fte": "146.75",
+      "pupilTeacherRatio": "17.32",
+      "numberOfSchools": "5"
+   },
+   {
+      "name": "Safetynet Academy Minter",
+      "location": {
+         "state": {
+            "name": "Alabama",
+            "abbr": "AL",
+            "county": "Dallas County"
+         }
+      },
+      "type": "5-State agency providing elementary and/or secondary level instruction",
+      "grades": {
+         "lowest": "6th Grade",
+         "highest": "12th Grade"
+      },
+      "students": "0",
+      "fte": "0",
+      "pupilTeacherRatio": "†",
+      "numberOfSchools": "6"
+   },
+   {
+      "name": "Saraland City",
+      "location": {
+         "state": {
+            "name": "Alabama",
+            "abbr": "AL",
+            "county": "Mobile County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "3233",
+      "fte": "176",
+      "pupilTeacherRatio": "18.37",
+      "numberOfSchools": "4"
+   },
+   {
+      "name": "Satsuma City",
+      "location": {
+         "state": {
+            "name": "Alabama",
+            "abbr": "AL",
+            "county": "Mobile County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "1592",
+      "fte": "85",
+      "pupilTeacherRatio": "18.73",
+      "numberOfSchools": "2"
+   },
+   {
+      "name": "Scottsboro City",
+      "location": {
+         "state": {
+            "name": "Alabama",
+            "abbr": "AL",
+            "county": "Jackson County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "2463",
+      "fte": "145.25",
+      "pupilTeacherRatio": "16.96",
+      "numberOfSchools": "5"
+   },
+   {
+      "name": "Selma City",
+      "location": {
+         "state": {
+            "name": "Alabama",
+            "abbr": "AL",
+            "county": "Dallas County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "2852",
+      "fte": "152",
+      "pupilTeacherRatio": "18.76",
+      "numberOfSchools": "11"
+   },
+   {
+      "name": "Sequel Tsi Courtland Llc",
+      "location": {
+         "state": {
+            "name": "Alabama",
+            "abbr": "AL",
+            "county": "Lawrence County"
+         }
+      },
+      "type": "5-State agency providing elementary and/or secondary level instruction",
+      "grades": {
+         "lowest": "6th Grade",
+         "highest": "12th Grade"
+      },
+      "students": "0",
+      "fte": "0",
+      "pupilTeacherRatio": "†",
+      "numberOfSchools": "1"
+   },
+   {
+      "name": "Sequel Tsi Madison Llc",
+      "location": {
+         "state": {
+            "name": "Alabama",
+            "abbr": "AL",
+            "county": "Madison County"
+         }
+      },
+      "type": "5-State agency providing elementary and/or secondary level instruction",
+      "grades": {
+         "lowest": "6th Grade",
+         "highest": "12th Grade"
+      },
+      "students": "0",
+      "fte": "0",
+      "pupilTeacherRatio": "†",
+      "numberOfSchools": "1"
+   },
+   {
+      "name": "Sequel Tsi Montgomery Llc",
+      "location": {
+         "state": {
+            "name": "ALABAMA",
+            "abbr": "AL",
+            "county": "Montgomery County"
+         }
+      },
+      "type": "5-State agency providing elementary and/or secondary level instruction",
+      "grades": {
+         "lowest": "6th Grade",
+         "highest": "12th Grade"
+      },
+      "students": "0",
+      "fte": "0",
+      "pupilTeacherRatio": "†",
+      "numberOfSchools": "1"
+   },
+   {
+      "name": "Sequel Tsi New Beginnings Llc",
+      "location": {
+         "state": {
+            "name": "Alabama",
+            "abbr": "AL",
+            "county": "Madison County"
+         }
+      },
+      "type": "5-State agency providing elementary and/or secondary level instruction",
+      "grades": {
+         "lowest": "6th Grade",
+         "highest": "12th Grade"
+      },
+      "students": "0",
+      "fte": "0",
+      "pupilTeacherRatio": "†",
+      "numberOfSchools": "1"
+   },
+   {
+      "name": "Sequel Tsi Tuskegee Llc",
+      "location": {
+         "state": {
+            "name": "Alabama",
+            "abbr": "AL",
+            "county": "Macon County"
+         }
+      },
+      "type": "5-State agency providing elementary and/or secondary level instruction",
+      "grades": {
+         "lowest": "6th Grade",
+         "highest": "12th Grade"
+      },
+      "students": "0",
+      "fte": "0",
+      "pupilTeacherRatio": "†",
+      "numberOfSchools": "1"
+   },
+   {
+      "name": "Sheffield City",
+      "location": {
+         "state": {
+            "name": "Alabama",
+            "abbr": "AL",
+            "county": "Colbert County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "1037",
+      "fte": "71.01",
+      "pupilTeacherRatio": "14.6",
+      "numberOfSchools": "4"
+   },
+   {
+      "name": "Shelby County",
+      "location": {
+         "state": {
+            "name": "Alabama",
+            "abbr": "AL",
+            "county": "Shelby County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "20991",
+      "fte": "1193.45",
+      "pupilTeacherRatio": "17.59",
+      "numberOfSchools": "31"
+   },
+   {
+      "name": "Southeastern Psychiaric Management Inc",
+      "location": {
+         "state": {
+            "name": "Alabama",
+            "abbr": "AL",
+            "county": "Etowah County"
+         }
+      },
+      "type": "5-State agency providing elementary and/or secondary level instruction",
+      "grades": {
+         "lowest": "†",
+         "highest": "†"
+      },
+      "students": "†",
+      "fte": "0",
+      "pupilTeacherRatio": "–",
+      "numberOfSchools": "1"
+   },
+   {
+      "name": "St Clair County",
+      "location": {
+         "state": {
+            "name": "Alabama",
+            "abbr": "AL",
+            "county": "St. Clair County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "9634",
+      "fte": "525.23",
+      "pupilTeacherRatio": "18.34",
+      "numberOfSchools": "20"
+   },
+   {
+      "name": "St Marys Home",
+      "location": {
+         "state": {
+            "name": "Alabama",
+            "abbr": "AL",
+            "county": "Mobile County"
+         }
+      },
+      "type": "5-State agency providing elementary and/or secondary level instruction",
+      "grades": {
+         "lowest": "†",
+         "highest": "†"
+      },
+      "students": "†",
+      "fte": "0",
+      "pupilTeacherRatio": "–",
+      "numberOfSchools": "1"
+   },
+   {
+      "name": "Sumter County",
+      "location": {
+         "state": {
+            "name": "Alabama",
+            "abbr": "AL",
+            "county": "Sumter County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "1223",
+      "fte": "74.5",
+      "pupilTeacherRatio": "16.42",
+      "numberOfSchools": "5"
+   },
+   {
+      "name": "Sylacauga City",
+      "location": {
+         "state": {
+            "name": "Alabama",
+            "abbr": "AL",
+            "county": "Talladega County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "2113",
+      "fte": "128.5",
+      "pupilTeacherRatio": "16.44",
+      "numberOfSchools": "4"
+   },
+   {
+      "name": "Talladega City",
+      "location": {
+         "state": {
+            "name": "Alabama",
+            "abbr": "AL",
+            "county": "Talladega County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "1889",
+      "fte": "111.42",
+      "pupilTeacherRatio": "16.95",
+      "numberOfSchools": "7"
+   },
+   {
+      "name": "Talladega County",
+      "location": {
+         "state": {
+            "name": "Alabama",
+            "abbr": "AL",
+            "county": "Talladega County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "7320",
+      "fte": "401.36",
+      "pupilTeacherRatio": "18.24",
+      "numberOfSchools": "18"
+   },
+   {
+      "name": "Tallapoosa County",
+      "location": {
+         "state": {
+            "name": "Alabama",
+            "abbr": "AL",
+            "county": "Tallapoosa County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "2865",
+      "fte": "163.5",
+      "pupilTeacherRatio": "17.52",
+      "numberOfSchools": "6"
+   },
+   {
+      "name": "Tallassee City",
+      "location": {
+         "state": {
+            "name": "Alabama",
+            "abbr": "AL",
+            "county": "Elmore County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "1678",
+      "fte": "97",
+      "pupilTeacherRatio": "17.3",
+      "numberOfSchools": "3"
+   },
+   {
+      "name": "Tarrant City",
+      "location": {
+         "state": {
+            "name": "Alabama",
+            "abbr": "AL",
+            "county": "Jefferson County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "1285",
+      "fte": "60",
+      "pupilTeacherRatio": "21.42",
+      "numberOfSchools": "3"
+   },
+   {
+      "name": "The Bridge",
+      "location": {
+         "state": {
+            "name": "Alabama",
+            "abbr": "AL",
+            "county": "Etowah County"
+         }
+      },
+      "type": "5-State agency providing elementary and/or secondary level instruction",
+      "grades": {
+         "lowest": "†",
+         "highest": "†"
+      },
+      "students": "†",
+      "fte": "0",
+      "pupilTeacherRatio": "–",
+      "numberOfSchools": "2"
+   },
+   {
+      "name": "The Little Tree Preschool  Auburn",
+      "location": {
+         "state": {
+            "name": "Alabama",
+            "abbr": "AL",
+            "county": "Lee County"
+         }
+      },
+      "type": "5-State agency providing elementary and/or secondary level instruction",
+      "grades": {
+         "lowest": "†",
+         "highest": "†"
+      },
+      "students": "†",
+      "fte": "0",
+      "pupilTeacherRatio": "–",
+      "numberOfSchools": "4"
+   },
+   {
+      "name": "Thomasville City",
+      "location": {
+         "state": {
+            "name": "Alabama",
+            "abbr": "AL",
+            "county": "Clarke County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "1160",
+      "fte": "65.52",
+      "pupilTeacherRatio": "17.7",
+      "numberOfSchools": "2"
+   },
+   {
+      "name": "Triwill Portacras",
+      "location": {
+         "state": {
+            "name": "Alabama",
+            "abbr": "AL",
+            "county": "Bibb County"
+         }
+      },
+      "type": "5-State agency providing elementary and/or secondary level instruction",
+      "grades": {
+         "lowest": "†",
+         "highest": "†"
+      },
+      "students": "†",
+      "fte": "0",
+      "pupilTeacherRatio": "–",
+      "numberOfSchools": "1"
+   },
+   {
+      "name": "Troy City",
+      "location": {
+         "state": {
+            "name": "Alabama",
+            "abbr": "AL",
+            "county": "Pike County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "1776",
+      "fte": "110.45",
+      "pupilTeacherRatio": "16.08",
+      "numberOfSchools": "4"
+   },
+   {
+      "name": "Trussville City",
+      "location": {
+         "state": {
+            "name": "Alabama",
+            "abbr": "AL",
+            "county": "Jefferson County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "4823",
+      "fte": "278.7",
+      "pupilTeacherRatio": "17.31",
+      "numberOfSchools": "5"
+   },
+   {
+      "name": "Tuscaloosa City",
+      "location": {
+         "state": {
+            "name": "Alabama",
+            "abbr": "AL",
+            "county": "Tuscaloosa County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "10910",
+      "fte": "676.43",
+      "pupilTeacherRatio": "16.13",
+      "numberOfSchools": "20"
+   },
+   {
+      "name": "Tuscaloosa County",
+      "location": {
+         "state": {
+            "name": "Alabama",
+            "abbr": "AL",
+            "county": "Tuscaloosa County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "19052",
+      "fte": "1017.38",
+      "pupilTeacherRatio": "18.73",
+      "numberOfSchools": "35"
+   },
+   {
+      "name": "Tuscumbia City",
+      "location": {
+         "state": {
+            "name": "Alabama",
+            "abbr": "AL",
+            "county": "Colbert County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "1477",
+      "fte": "92.75",
+      "pupilTeacherRatio": "15.92",
+      "numberOfSchools": "6"
+   },
+   {
+      "name": "United Ability",
+      "location": {
+         "state": {
+            "name": "Alabama",
+            "abbr": "AL",
+            "county": "Jefferson County"
+         }
+      },
+      "type": "5-State agency providing elementary and/or secondary level instruction",
+      "grades": {
+         "lowest": "†",
+         "highest": "†"
+      },
+      "students": "†",
+      "fte": "0",
+      "pupilTeacherRatio": "–",
+      "numberOfSchools": "1"
+   },
+   {
+      "name": "University Charter School",
+      "location": {
+         "state": {
+            "name": "ALABAMA",
+            "abbr": "AL",
+            "county": "Sumter County"
+         }
+      },
+      "type": "7-Independent Charter District",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "8th Grade"
+      },
+      "students": "431",
+      "fte": "15.2",
+      "pupilTeacherRatio": "28.36",
+      "numberOfSchools": "1"
+   },
+   {
+      "name": "Vestavia Hills City",
+      "location": {
+         "state": {
+            "name": "Alabama",
+            "abbr": "AL",
+            "county": "Jefferson County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "7137",
+      "fte": "460",
+      "pupilTeacherRatio": "15.52",
+      "numberOfSchools": "8"
+   },
+   {
+      "name": "Walker County",
+      "location": {
+         "state": {
+            "name": "Alabama",
+            "abbr": "AL",
+            "county": "Walker County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "7492",
+      "fte": "442",
+      "pupilTeacherRatio": "16.95",
+      "numberOfSchools": "18"
+   },
+   {
+      "name": "Washington County",
+      "location": {
+         "state": {
+            "name": "Alabama",
+            "abbr": "AL",
+            "county": "Washington County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "2618",
+      "fte": "168",
+      "pupilTeacherRatio": "15.58",
+      "numberOfSchools": "8"
+   },
+   {
+      "name": "Wilcox County",
+      "location": {
+         "state": {
+            "name": "Alabama",
+            "abbr": "AL",
+            "county": "Wilcox County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "1490",
+      "fte": "92",
+      "pupilTeacherRatio": "16.2",
+      "numberOfSchools": "6"
+   },
+   {
+      "name": "Winfield City",
+      "location": {
+         "state": {
+            "name": "Alabama",
+            "abbr": "AL",
+            "county": "Marion County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "1272",
+      "fte": "81.14",
+      "pupilTeacherRatio": "15.68",
+      "numberOfSchools": "3"
+   },
+   {
+      "name": "Winston County",
+      "location": {
+         "state": {
+            "name": "Alabama",
+            "abbr": "AL",
+            "county": "Winston County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "2292",
+      "fte": "130.08",
+      "pupilTeacherRatio": "17.62",
+      "numberOfSchools": "10"
+   },
+   {
+      "name": "Woodland Preparatory",
+      "location": {
+         "state": {
+            "name": "ALABAMA",
+            "abbr": "AL",
+            "county": "Mobile County"
+         }
+      },
+      "type": "7-Independent Charter District",
+      "grades": {
+         "lowest": "–",
+         "highest": "–"
+      },
+      "students": "†",
+      "fte": "†",
+      "pupilTeacherRatio": "†",
+      "numberOfSchools": "0"
+   }
+]

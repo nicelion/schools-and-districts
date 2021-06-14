@@ -1,0 +1,1161 @@
+[
+   {
+      "name": "Albany County School District #1",
+      "location": {
+         "state": {
+            "name": "Wyoming",
+            "abbr": "WY",
+            "county": "Albany County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "4067",
+      "fte": "355.4",
+      "pupilTeacherRatio": "11.44",
+      "numberOfSchools": "18"
+   },
+   {
+      "name": "Big Horn County School District #1",
+      "location": {
+         "state": {
+            "name": "Wyoming",
+            "abbr": "WY",
+            "county": "Big Horn County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "1120",
+      "fte": "76.65",
+      "pupilTeacherRatio": "14.61",
+      "numberOfSchools": "6"
+   },
+   {
+      "name": "Big Horn County School District #2",
+      "location": {
+         "state": {
+            "name": "Wyoming",
+            "abbr": "WY",
+            "county": "Big Horn County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Kindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "718",
+      "fte": "57.26",
+      "pupilTeacherRatio": "12.54",
+      "numberOfSchools": "3"
+   },
+   {
+      "name": "Big Horn County School District #3",
+      "location": {
+         "state": {
+            "name": "Wyoming",
+            "abbr": "WY",
+            "county": "Big Horn County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Kindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "444",
+      "fte": "43.76",
+      "pupilTeacherRatio": "10.15",
+      "numberOfSchools": "3"
+   },
+   {
+      "name": "Big Horn County School District #4",
+      "location": {
+         "state": {
+            "name": "Wyoming",
+            "abbr": "WY",
+            "county": "Big Horn County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Kindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "254",
+      "fte": "30",
+      "pupilTeacherRatio": "8.47",
+      "numberOfSchools": "2"
+   },
+   {
+      "name": "Campbell County School District #1",
+      "location": {
+         "state": {
+            "name": "Wyoming",
+            "abbr": "WY",
+            "county": "Campbell County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "8877",
+      "fte": "649.71",
+      "pupilTeacherRatio": "13.66",
+      "numberOfSchools": "23"
+   },
+   {
+      "name": "Carbon County School District #1",
+      "location": {
+         "state": {
+            "name": "Wyoming",
+            "abbr": "WY",
+            "county": "Carbon County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "1755",
+      "fte": "146.9",
+      "pupilTeacherRatio": "11.95",
+      "numberOfSchools": "5"
+   },
+   {
+      "name": "Carbon County School District #2",
+      "location": {
+         "state": {
+            "name": "Wyoming",
+            "abbr": "WY",
+            "county": "Carbon County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Kindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "575",
+      "fte": "75.65",
+      "pupilTeacherRatio": "7.6",
+      "numberOfSchools": "7"
+   },
+   {
+      "name": "Cathedral Home for Children - Administration Office",
+      "location": {
+         "state": {
+            "name": "Wyoming",
+            "abbr": "WY",
+            "county": "Albany County"
+         }
+      },
+      "type": "5-State agency providing elementary and/or secondary level instruction",
+      "grades": {
+         "lowest": "4th Grade",
+         "highest": "12th Grade"
+      },
+      "students": "7",
+      "fte": "13",
+      "pupilTeacherRatio": "0.54",
+      "numberOfSchools": "1"
+   },
+   {
+      "name": "Converse County School District #1",
+      "location": {
+         "state": {
+            "name": "Wyoming",
+            "abbr": "WY",
+            "county": "Converse County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Kindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "1782",
+      "fte": "148.16",
+      "pupilTeacherRatio": "12.03",
+      "numberOfSchools": "9"
+   },
+   {
+      "name": "Converse County School District #2",
+      "location": {
+         "state": {
+            "name": "Wyoming",
+            "abbr": "WY",
+            "county": "Converse County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Kindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "636",
+      "fte": "51.67",
+      "pupilTeacherRatio": "12.31",
+      "numberOfSchools": "4"
+   },
+   {
+      "name": "Crook County School District #1",
+      "location": {
+         "state": {
+            "name": "Wyoming",
+            "abbr": "WY",
+            "county": "Crook County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Kindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "1201",
+      "fte": "111.75",
+      "pupilTeacherRatio": "10.75",
+      "numberOfSchools": "5"
+   },
+   {
+      "name": "Fremont County School District # 1",
+      "location": {
+         "state": {
+            "name": "Wyoming",
+            "abbr": "WY",
+            "county": "Fremont County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Kindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "1842",
+      "fte": "136.78",
+      "pupilTeacherRatio": "13.47",
+      "numberOfSchools": "6"
+   },
+   {
+      "name": "Fremont County School District # 2",
+      "location": {
+         "state": {
+            "name": "Wyoming",
+            "abbr": "WY",
+            "county": "Fremont County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Kindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "150",
+      "fte": "19.52",
+      "pupilTeacherRatio": "7.68",
+      "numberOfSchools": "3"
+   },
+   {
+      "name": "Fremont County School District # 6",
+      "location": {
+         "state": {
+            "name": "Wyoming",
+            "abbr": "WY",
+            "county": "Fremont County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "382",
+      "fte": "43.93",
+      "pupilTeacherRatio": "8.7",
+      "numberOfSchools": "5"
+   },
+   {
+      "name": "Fremont County School District #14",
+      "location": {
+         "state": {
+            "name": "Wyoming",
+            "abbr": "WY",
+            "county": "Fremont County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "672",
+      "fte": "64",
+      "pupilTeacherRatio": "10.5",
+      "numberOfSchools": "3"
+   },
+   {
+      "name": "Fremont County School District #21",
+      "location": {
+         "state": {
+            "name": "Wyoming",
+            "abbr": "WY",
+            "county": "Fremont County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "457",
+      "fte": "63",
+      "pupilTeacherRatio": "7.25",
+      "numberOfSchools": "3"
+   },
+   {
+      "name": "Fremont County School District #24",
+      "location": {
+         "state": {
+            "name": "Wyoming",
+            "abbr": "WY",
+            "county": "Fremont County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "392",
+      "fte": "33.87",
+      "pupilTeacherRatio": "11.57",
+      "numberOfSchools": "3"
+   },
+   {
+      "name": "Fremont County School District #25",
+      "location": {
+         "state": {
+            "name": "Wyoming",
+            "abbr": "WY",
+            "county": "Fremont County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "2486",
+      "fte": "171.45",
+      "pupilTeacherRatio": "14.5",
+      "numberOfSchools": "8"
+   },
+   {
+      "name": "Fremont County School District #38",
+      "location": {
+         "state": {
+            "name": "Wyoming",
+            "abbr": "WY",
+            "county": "Fremont County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "427",
+      "fte": "38.98",
+      "pupilTeacherRatio": "10.95",
+      "numberOfSchools": "2"
+   },
+   {
+      "name": "Goshen County School District #1",
+      "location": {
+         "state": {
+            "name": "Wyoming",
+            "abbr": "WY",
+            "county": "Goshen County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Kindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "1660",
+      "fte": "151.12",
+      "pupilTeacherRatio": "10.98",
+      "numberOfSchools": "11"
+   },
+   {
+      "name": "Hot Springs County School District #1",
+      "location": {
+         "state": {
+            "name": "Wyoming",
+            "abbr": "WY",
+            "county": "Hot Springs County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "659",
+      "fte": "54.25",
+      "pupilTeacherRatio": "12.15",
+      "numberOfSchools": "3"
+   },
+   {
+      "name": "Johnson County School District #1",
+      "location": {
+         "state": {
+            "name": "Wyoming",
+            "abbr": "WY",
+            "county": "Johnson County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Kindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "1269",
+      "fte": "115.88",
+      "pupilTeacherRatio": "10.95",
+      "numberOfSchools": "5"
+   },
+   {
+      "name": "Laramie County School District #1",
+      "location": {
+         "state": {
+            "name": "Wyoming",
+            "abbr": "WY",
+            "county": "Laramie County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "14421",
+      "fte": "1028.27",
+      "pupilTeacherRatio": "14.02",
+      "numberOfSchools": "38"
+   },
+   {
+      "name": "Laramie County School District #2",
+      "location": {
+         "state": {
+            "name": "Wyoming",
+            "abbr": "WY",
+            "county": "Laramie County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Kindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "1059",
+      "fte": "96.63",
+      "pupilTeacherRatio": "10.96",
+      "numberOfSchools": "6"
+   },
+   {
+      "name": "Lincoln County School District #1",
+      "location": {
+         "state": {
+            "name": "Wyoming",
+            "abbr": "WY",
+            "county": "Lincoln County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Kindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "626",
+      "fte": "45.5",
+      "pupilTeacherRatio": "13.76",
+      "numberOfSchools": "3"
+   },
+   {
+      "name": "Lincoln County School District #2",
+      "location": {
+         "state": {
+            "name": "Wyoming",
+            "abbr": "WY",
+            "county": "Lincoln County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "2984",
+      "fte": "200.48",
+      "pupilTeacherRatio": "14.88",
+      "numberOfSchools": "9"
+   },
+   {
+      "name": "Natrona County School District #1",
+      "location": {
+         "state": {
+            "name": "Wyoming",
+            "abbr": "WY",
+            "county": "Natrona County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "13330",
+      "fte": "907.57",
+      "pupilTeacherRatio": "14.69",
+      "numberOfSchools": "28"
+   },
+   {
+      "name": "Niobrara County School District #1",
+      "location": {
+         "state": {
+            "name": "Wyoming",
+            "abbr": "WY",
+            "county": "Niobrara County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Kindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "790",
+      "fte": "63.09",
+      "pupilTeacherRatio": "12.52",
+      "numberOfSchools": "4"
+   },
+   {
+      "name": "Normative Services - Administration Office",
+      "location": {
+         "state": {
+            "name": "Wyoming",
+            "abbr": "WY",
+            "county": "Sheridan County"
+         }
+      },
+      "type": "5-State agency providing elementary and/or secondary level instruction",
+      "grades": {
+         "lowest": "3rd Grade",
+         "highest": "12th Grade"
+      },
+      "students": "63",
+      "fte": "5",
+      "pupilTeacherRatio": "12.6",
+      "numberOfSchools": "1"
+   },
+   {
+      "name": "Northeast Wyoming Boces",
+      "location": {
+         "state": {
+            "name": "Wyoming",
+            "abbr": "WY",
+            "county": "Campbell County"
+         }
+      },
+      "type": "5-State agency providing elementary and/or secondary level instruction",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "1",
+      "fte": "8",
+      "pupilTeacherRatio": "0.13",
+      "numberOfSchools": "1"
+   },
+   {
+      "name": "Northwest Wyoming Boces",
+      "location": {
+         "state": {
+            "name": "Wyoming",
+            "abbr": "WY",
+            "county": "Hot Springs County"
+         }
+      },
+      "type": "5-State agency providing elementary and/or secondary level instruction",
+      "grades": {
+         "lowest": "Kindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "1",
+      "fte": "2.41",
+      "pupilTeacherRatio": "0.41",
+      "numberOfSchools": "1"
+   },
+   {
+      "name": "Park County School District # 1",
+      "location": {
+         "state": {
+            "name": "Wyoming",
+            "abbr": "WY",
+            "county": "Park County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Kindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "1821",
+      "fte": "134.14",
+      "pupilTeacherRatio": "13.58",
+      "numberOfSchools": "7"
+   },
+   {
+      "name": "Park County School District # 6",
+      "location": {
+         "state": {
+            "name": "Wyoming",
+            "abbr": "WY",
+            "county": "Park County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Kindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "2034",
+      "fte": "173",
+      "pupilTeacherRatio": "11.76",
+      "numberOfSchools": "8"
+   },
+   {
+      "name": "Park County School District #16",
+      "location": {
+         "state": {
+            "name": "Wyoming",
+            "abbr": "WY",
+            "county": "Park County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "100",
+      "fte": "16.62",
+      "pupilTeacherRatio": "6.02",
+      "numberOfSchools": "1"
+   },
+   {
+      "name": "Platte County School District #1",
+      "location": {
+         "state": {
+            "name": "Wyoming",
+            "abbr": "WY",
+            "county": "Platte County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Kindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "997",
+      "fte": "105.76",
+      "pupilTeacherRatio": "9.43",
+      "numberOfSchools": "11"
+   },
+   {
+      "name": "Platte County School District #2",
+      "location": {
+         "state": {
+            "name": "Wyoming",
+            "abbr": "WY",
+            "county": "Platte County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Kindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "247",
+      "fte": "29.35",
+      "pupilTeacherRatio": "8.42",
+      "numberOfSchools": "3"
+   },
+   {
+      "name": "Red Top Meadows - Administration Office",
+      "location": {
+         "state": {
+            "name": "Wyoming",
+            "abbr": "WY",
+            "county": "Teton County"
+         }
+      },
+      "type": "5-State agency providing elementary and/or secondary level instruction",
+      "grades": {
+         "lowest": "6th Grade",
+         "highest": "12th Grade"
+      },
+      "students": "1",
+      "fte": "3",
+      "pupilTeacherRatio": "0.33",
+      "numberOfSchools": "1"
+   },
+   {
+      "name": "Region V Boces",
+      "location": {
+         "state": {
+            "name": "Wyoming",
+            "abbr": "WY",
+            "county": "Teton County"
+         }
+      },
+      "type": "5-State agency providing elementary and/or secondary level instruction",
+      "grades": {
+         "lowest": "1st Grade",
+         "highest": "12th Grade"
+      },
+      "students": "0",
+      "fte": "11",
+      "pupilTeacherRatio": "0",
+      "numberOfSchools": "1"
+   },
+   {
+      "name": "Right of Passage",
+      "location": {
+         "state": {
+            "name": "WYOMING",
+            "abbr": "WY",
+            "county": "Douglas County"
+         }
+      },
+      "type": "5-State agency providing elementary and/or secondary level instruction",
+      "grades": {
+         "lowest": "6th Grade",
+         "highest": "12th Grade"
+      },
+      "students": "3",
+      "fte": "2",
+      "pupilTeacherRatio": "1.5",
+      "numberOfSchools": "1"
+   },
+   {
+      "name": "Saint Joseph's Children's Home - Administration Office",
+      "location": {
+         "state": {
+            "name": "Wyoming",
+            "abbr": "WY",
+            "county": "Goshen County"
+         }
+      },
+      "type": "5-State agency providing elementary and/or secondary level instruction",
+      "grades": {
+         "lowest": "Kindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "12",
+      "fte": "9",
+      "pupilTeacherRatio": "1.33",
+      "numberOfSchools": "1"
+   },
+   {
+      "name": "Saint Stephen's Indian School Admin Office",
+      "location": {
+         "state": {
+            "name": "Wyoming",
+            "abbr": "WY",
+            "county": "Fremont County"
+         }
+      },
+      "type": "5-State agency providing elementary and/or secondary level instruction",
+      "grades": {
+         "lowest": "Kindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "262",
+      "fte": "0",
+      "pupilTeacherRatio": "†",
+      "numberOfSchools": "1"
+   },
+   {
+      "name": "Sheridan County School District #1",
+      "location": {
+         "state": {
+            "name": "Wyoming",
+            "abbr": "WY",
+            "county": "Sheridan County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Kindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "1093",
+      "fte": "82.72",
+      "pupilTeacherRatio": "13.21",
+      "numberOfSchools": "8"
+   },
+   {
+      "name": "Sheridan County School District #2",
+      "location": {
+         "state": {
+            "name": "Wyoming",
+            "abbr": "WY",
+            "county": "Sheridan County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Kindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "3579",
+      "fte": "259.64",
+      "pupilTeacherRatio": "13.78",
+      "numberOfSchools": "10"
+   },
+   {
+      "name": "Sheridan County School District #3",
+      "location": {
+         "state": {
+            "name": "Wyoming",
+            "abbr": "WY",
+            "county": "Sheridan County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Kindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "89",
+      "fte": "15.56",
+      "pupilTeacherRatio": "5.72",
+      "numberOfSchools": "2"
+   },
+   {
+      "name": "Sublette County School District #1",
+      "location": {
+         "state": {
+            "name": "Wyoming",
+            "abbr": "WY",
+            "county": "Sublette County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Kindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "1120",
+      "fte": "79.63",
+      "pupilTeacherRatio": "14.07",
+      "numberOfSchools": "5"
+   },
+   {
+      "name": "Sublette County School District #9",
+      "location": {
+         "state": {
+            "name": "Wyoming",
+            "abbr": "WY",
+            "county": "Sublette County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Kindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "520",
+      "fte": "46.24",
+      "pupilTeacherRatio": "11.25",
+      "numberOfSchools": "4"
+   },
+   {
+      "name": "Sweetwater County School District #1",
+      "location": {
+         "state": {
+            "name": "Wyoming",
+            "abbr": "WY",
+            "county": "Sweetwater County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Kindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "5479",
+      "fte": "400.76",
+      "pupilTeacherRatio": "13.67",
+      "numberOfSchools": "17"
+   },
+   {
+      "name": "Sweetwater County School District #2",
+      "location": {
+         "state": {
+            "name": "Wyoming",
+            "abbr": "WY",
+            "county": "Sweetwater County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Kindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "2544",
+      "fte": "192.43",
+      "pupilTeacherRatio": "13.22",
+      "numberOfSchools": "10"
+   },
+   {
+      "name": "Teton County School District #1",
+      "location": {
+         "state": {
+            "name": "Wyoming",
+            "abbr": "WY",
+            "county": "Teton County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Kindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "2869",
+      "fte": "244.01",
+      "pupilTeacherRatio": "11.76",
+      "numberOfSchools": "10"
+   },
+   {
+      "name": "Uinta County School District #1",
+      "location": {
+         "state": {
+            "name": "Wyoming",
+            "abbr": "WY",
+            "county": "Uinta County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Kindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "2764",
+      "fte": "210.18",
+      "pupilTeacherRatio": "13.15",
+      "numberOfSchools": "8"
+   },
+   {
+      "name": "Uinta County School District #4",
+      "location": {
+         "state": {
+            "name": "Wyoming",
+            "abbr": "WY",
+            "county": "Uinta County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Kindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "825",
+      "fte": "67.59",
+      "pupilTeacherRatio": "12.21",
+      "numberOfSchools": "2"
+   },
+   {
+      "name": "Uinta County School District #6",
+      "location": {
+         "state": {
+            "name": "Wyoming",
+            "abbr": "WY",
+            "county": "Uinta County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Kindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "720",
+      "fte": "59.09",
+      "pupilTeacherRatio": "12.18",
+      "numberOfSchools": "3"
+   },
+   {
+      "name": "Washakie County School District #1",
+      "location": {
+         "state": {
+            "name": "Wyoming",
+            "abbr": "WY",
+            "county": "Washakie County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Kindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "1244",
+      "fte": "103.86",
+      "pupilTeacherRatio": "11.98",
+      "numberOfSchools": "5"
+   },
+   {
+      "name": "Washakie County School District #2",
+      "location": {
+         "state": {
+            "name": "Wyoming",
+            "abbr": "WY",
+            "county": "Washakie County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "109",
+      "fte": "15.5",
+      "pupilTeacherRatio": "7.03",
+      "numberOfSchools": "1"
+   },
+   {
+      "name": "Weston County School District #1",
+      "location": {
+         "state": {
+            "name": "Wyoming",
+            "abbr": "WY",
+            "county": "Weston County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Kindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "810",
+      "fte": "72.25",
+      "pupilTeacherRatio": "11.21",
+      "numberOfSchools": "4"
+   },
+   {
+      "name": "Weston County School District #7",
+      "location": {
+         "state": {
+            "name": "Wyoming",
+            "abbr": "WY",
+            "county": "Weston County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Kindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "235",
+      "fte": "28.22",
+      "pupilTeacherRatio": "8.33",
+      "numberOfSchools": "3"
+   },
+   {
+      "name": "Wyoming Behavioral Institute - Administration Office",
+      "location": {
+         "state": {
+            "name": "Wyoming",
+            "abbr": "WY",
+            "county": "Natrona County"
+         }
+      },
+      "type": "5-State agency providing elementary and/or secondary level instruction",
+      "grades": {
+         "lowest": "Kindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "10",
+      "fte": "3",
+      "pupilTeacherRatio": "3.33",
+      "numberOfSchools": "1"
+   },
+   {
+      "name": "Wyoming Department of Family Services",
+      "location": {
+         "state": {
+            "name": "Wyoming",
+            "abbr": "WY",
+            "county": "Laramie County"
+         }
+      },
+      "type": "5-State agency providing elementary and/or secondary level instruction",
+      "grades": {
+         "lowest": "Kindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "21",
+      "fte": "17",
+      "pupilTeacherRatio": "1.24",
+      "numberOfSchools": "2"
+   },
+   {
+      "name": "Wyoming Department of Health",
+      "location": {
+         "state": {
+            "name": "Wyoming",
+            "abbr": "WY",
+            "county": "Laramie County"
+         }
+      },
+      "type": "5-State agency providing elementary and/or secondary level instruction",
+      "grades": {
+         "lowest": "6th Grade",
+         "highest": "12th Grade"
+      },
+      "students": "0",
+      "fte": "0",
+      "pupilTeacherRatio": "†",
+      "numberOfSchools": "0"
+   },
+   {
+      "name": "Youth Emergency Services Inc. - Administration Office",
+      "location": {
+         "state": {
+            "name": "Wyoming",
+            "abbr": "WY",
+            "county": "Campbell County"
+         }
+      },
+      "type": "5-State agency providing elementary and/or secondary level instruction",
+      "grades": {
+         "lowest": "Kindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "1",
+      "fte": "0",
+      "pupilTeacherRatio": "†",
+      "numberOfSchools": "1"
+   }
+]

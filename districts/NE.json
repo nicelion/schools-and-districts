@@ -1,0 +1,5303 @@
+[
+   {
+      "name": "Adams Central Public Schools",
+      "location": {
+         "state": {
+            "name": "Nebraska",
+            "abbr": "NE",
+            "county": "Adams County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "970",
+      "fte": "72.42",
+      "pupilTeacherRatio": "13.39",
+      "numberOfSchools": "3"
+   },
+   {
+      "name": "Ainsworth Community Schools",
+      "location": {
+         "state": {
+            "name": "Nebraska",
+            "abbr": "NE",
+            "county": "Brown County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "427",
+      "fte": "45.51",
+      "pupilTeacherRatio": "9.38",
+      "numberOfSchools": "4"
+   },
+   {
+      "name": "Alegent/immanuel Rtc",
+      "location": {
+         "state": {
+            "name": "Nebraska",
+            "abbr": "NE",
+            "county": "Douglas County"
+         }
+      },
+      "type": "8-Other education agencies",
+      "grades": {
+         "lowest": "†",
+         "highest": "†"
+      },
+      "students": "0",
+      "fte": "2",
+      "pupilTeacherRatio": "0",
+      "numberOfSchools": "1"
+   },
+   {
+      "name": "Allen Consolidated Schools",
+      "location": {
+         "state": {
+            "name": "Nebraska",
+            "abbr": "NE",
+            "county": "Dixon County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "149",
+      "fte": "18.48",
+      "pupilTeacherRatio": "8.06",
+      "numberOfSchools": "2"
+   },
+   {
+      "name": "Alliance Public Schools",
+      "location": {
+         "state": {
+            "name": "Nebraska",
+            "abbr": "NE",
+            "county": "Box Butte County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "1429",
+      "fte": "91.99",
+      "pupilTeacherRatio": "15.53",
+      "numberOfSchools": "5"
+   },
+   {
+      "name": "Alma Public Schools",
+      "location": {
+         "state": {
+            "name": "Nebraska",
+            "abbr": "NE",
+            "county": "Harlan County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "344",
+      "fte": "32.45",
+      "pupilTeacherRatio": "10.6",
+      "numberOfSchools": "2"
+   },
+   {
+      "name": "Amherst Public Schools",
+      "location": {
+         "state": {
+            "name": "Nebraska",
+            "abbr": "NE",
+            "county": "Buffalo County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "380",
+      "fte": "27.04",
+      "pupilTeacherRatio": "14.05",
+      "numberOfSchools": "2"
+   },
+   {
+      "name": "Anselmo-Merna Public Schools",
+      "location": {
+         "state": {
+            "name": "Nebraska",
+            "abbr": "NE",
+            "county": "Custer County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "289",
+      "fte": "22.66",
+      "pupilTeacherRatio": "12.75",
+      "numberOfSchools": "2"
+   },
+   {
+      "name": "Ansley Public Schools",
+      "location": {
+         "state": {
+            "name": "Nebraska",
+            "abbr": "NE",
+            "county": "Custer County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "192",
+      "fte": "22.85",
+      "pupilTeacherRatio": "8.4",
+      "numberOfSchools": "2"
+   },
+   {
+      "name": "Arapahoe Public Schools",
+      "location": {
+         "state": {
+            "name": "Nebraska",
+            "abbr": "NE",
+            "county": "Furnas County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "351",
+      "fte": "28.09",
+      "pupilTeacherRatio": "12.5",
+      "numberOfSchools": "2"
+   },
+   {
+      "name": "Arcadia Public Schools",
+      "location": {
+         "state": {
+            "name": "Nebraska",
+            "abbr": "NE",
+            "county": "Valley County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "128",
+      "fte": "16.06",
+      "pupilTeacherRatio": "7.97",
+      "numberOfSchools": "2"
+   },
+   {
+      "name": "Arlington Public Schools",
+      "location": {
+         "state": {
+            "name": "Nebraska",
+            "abbr": "NE",
+            "county": "Washington County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "708",
+      "fte": "49.23",
+      "pupilTeacherRatio": "14.38",
+      "numberOfSchools": "2"
+   },
+   {
+      "name": "Arnold Public Schools",
+      "location": {
+         "state": {
+            "name": "Nebraska",
+            "abbr": "NE",
+            "county": "Custer County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "179",
+      "fte": "19.5",
+      "pupilTeacherRatio": "9.18",
+      "numberOfSchools": "2"
+   },
+   {
+      "name": "Arthur County Schools",
+      "location": {
+         "state": {
+            "name": "Nebraska",
+            "abbr": "NE",
+            "county": "Arthur County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "123",
+      "fte": "15.45",
+      "pupilTeacherRatio": "7.96",
+      "numberOfSchools": "2"
+   },
+   {
+      "name": "Ashland-Greenwood Public Schs",
+      "location": {
+         "state": {
+            "name": "Nebraska",
+            "abbr": "NE",
+            "county": "Saunders County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "1005",
+      "fte": "67.45",
+      "pupilTeacherRatio": "14.9",
+      "numberOfSchools": "3"
+   },
+   {
+      "name": "Auburn Public Schools",
+      "location": {
+         "state": {
+            "name": "Nebraska",
+            "abbr": "NE",
+            "county": "Nemaha County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "1034",
+      "fte": "66.76",
+      "pupilTeacherRatio": "15.49",
+      "numberOfSchools": "4"
+   },
+   {
+      "name": "Aurora Public Schools",
+      "location": {
+         "state": {
+            "name": "Nebraska",
+            "abbr": "NE",
+            "county": "Hamilton County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "1283",
+      "fte": "98.26",
+      "pupilTeacherRatio": "13.06",
+      "numberOfSchools": "4"
+   },
+   {
+      "name": "Axtell Community Schools",
+      "location": {
+         "state": {
+            "name": "Nebraska",
+            "abbr": "NE",
+            "county": "Kearney County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "299",
+      "fte": "26.28",
+      "pupilTeacherRatio": "11.38",
+      "numberOfSchools": "2"
+   },
+   {
+      "name": "Bancroft-Rosalie Comm Schools",
+      "location": {
+         "state": {
+            "name": "Nebraska",
+            "abbr": "NE",
+            "county": "Cuming County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "309",
+      "fte": "24.95",
+      "pupilTeacherRatio": "12.38",
+      "numberOfSchools": "2"
+   },
+   {
+      "name": "Banner County Public Schools",
+      "location": {
+         "state": {
+            "name": "Nebraska",
+            "abbr": "NE",
+            "county": "Banner County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "130",
+      "fte": "21.64",
+      "pupilTeacherRatio": "6.01",
+      "numberOfSchools": "3"
+   },
+   {
+      "name": "Battle Creek Public Schools",
+      "location": {
+         "state": {
+            "name": "Nebraska",
+            "abbr": "NE",
+            "county": "Madison County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "474",
+      "fte": "36.67",
+      "pupilTeacherRatio": "12.93",
+      "numberOfSchools": "2"
+   },
+   {
+      "name": "Bayard Public Schools",
+      "location": {
+         "state": {
+            "name": "Nebraska",
+            "abbr": "NE",
+            "county": "Morrill County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "383",
+      "fte": "35.03",
+      "pupilTeacherRatio": "10.93",
+      "numberOfSchools": "2"
+   },
+   {
+      "name": "Beatrice Public Schools",
+      "location": {
+         "state": {
+            "name": "Nebraska",
+            "abbr": "NE",
+            "county": "Gage County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "2130",
+      "fte": "141.02",
+      "pupilTeacherRatio": "15.1",
+      "numberOfSchools": "6"
+   },
+   {
+      "name": "Bellevue Public Schools",
+      "location": {
+         "state": {
+            "name": "Nebraska",
+            "abbr": "NE",
+            "county": "Sarpy County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "9689",
+      "fte": "665.75",
+      "pupilTeacherRatio": "14.55",
+      "numberOfSchools": "21"
+   },
+   {
+      "name": "Bennington Public Schools",
+      "location": {
+         "state": {
+            "name": "Nebraska",
+            "abbr": "NE",
+            "county": "Douglas County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "3288",
+      "fte": "198.39",
+      "pupilTeacherRatio": "16.57",
+      "numberOfSchools": "6"
+   },
+   {
+      "name": "Bertrand Public Schools",
+      "location": {
+         "state": {
+            "name": "Nebraska",
+            "abbr": "NE",
+            "county": "Phelps County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "243",
+      "fte": "25.14",
+      "pupilTeacherRatio": "9.67",
+      "numberOfSchools": "2"
+   },
+   {
+      "name": "Blair Community Schools",
+      "location": {
+         "state": {
+            "name": "Nebraska",
+            "abbr": "NE",
+            "county": "Washington County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "2305",
+      "fte": "133.75",
+      "pupilTeacherRatio": "17.23",
+      "numberOfSchools": "6"
+   },
+   {
+      "name": "Bloomfield Community Schools",
+      "location": {
+         "state": {
+            "name": "Nebraska",
+            "abbr": "NE",
+            "county": "Knox County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "262",
+      "fte": "22.76",
+      "pupilTeacherRatio": "11.51",
+      "numberOfSchools": "2"
+   },
+   {
+      "name": "Blue Hill Public Schools",
+      "location": {
+         "state": {
+            "name": "Nebraska",
+            "abbr": "NE",
+            "county": "Webster County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "329",
+      "fte": "32.98",
+      "pupilTeacherRatio": "9.98",
+      "numberOfSchools": "2"
+   },
+   {
+      "name": "Boone Central Schools",
+      "location": {
+         "state": {
+            "name": "Nebraska",
+            "abbr": "NE",
+            "county": "Boone County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "628",
+      "fte": "50.27",
+      "pupilTeacherRatio": "12.49",
+      "numberOfSchools": "3"
+   },
+   {
+      "name": "Boyd County Schools",
+      "location": {
+         "state": {
+            "name": "NEBRASKA",
+            "abbr": "NE",
+            "county": "Boyd County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "357",
+      "fte": "29.33",
+      "pupilTeacherRatio": "12.17",
+      "numberOfSchools": "4"
+   },
+   {
+      "name": "Boys Town Interim Prg Schs",
+      "location": {
+         "state": {
+            "name": "Nebraska",
+            "abbr": "NE",
+            "county": "Douglas County"
+         }
+      },
+      "type": "8-Other education agencies",
+      "grades": {
+         "lowest": "†",
+         "highest": "†"
+      },
+      "students": "0",
+      "fte": "13.11",
+      "pupilTeacherRatio": "0",
+      "numberOfSchools": "3"
+   },
+   {
+      "name": "Brady Public Schools",
+      "location": {
+         "state": {
+            "name": "Nebraska",
+            "abbr": "NE",
+            "county": "Lincoln County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "185",
+      "fte": "21.52",
+      "pupilTeacherRatio": "8.6",
+      "numberOfSchools": "2"
+   },
+   {
+      "name": "Bridgeport Public Schools",
+      "location": {
+         "state": {
+            "name": "Nebraska",
+            "abbr": "NE",
+            "county": "Morrill County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "450",
+      "fte": "40.71",
+      "pupilTeacherRatio": "11.05",
+      "numberOfSchools": "2"
+   },
+   {
+      "name": "Broken Bow Public Schools",
+      "location": {
+         "state": {
+            "name": "Nebraska",
+            "abbr": "NE",
+            "county": "Custer County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "875",
+      "fte": "62.13",
+      "pupilTeacherRatio": "14.08",
+      "numberOfSchools": "5"
+   },
+   {
+      "name": "Bruning-Davenport Unified Sys",
+      "location": {
+         "state": {
+            "name": "Nebraska",
+            "abbr": "NE",
+            "county": "Thayer County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "193",
+      "fte": "24.58",
+      "pupilTeacherRatio": "7.85",
+      "numberOfSchools": "4"
+   },
+   {
+      "name": "Burwell Public Schools",
+      "location": {
+         "state": {
+            "name": "Nebraska",
+            "abbr": "NE",
+            "county": "Garfield County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "310",
+      "fte": "31.02",
+      "pupilTeacherRatio": "9.99",
+      "numberOfSchools": "2"
+   },
+   {
+      "name": "Callaway Public Schools",
+      "location": {
+         "state": {
+            "name": "Nebraska",
+            "abbr": "NE",
+            "county": "Custer County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "203",
+      "fte": "23.35",
+      "pupilTeacherRatio": "8.69",
+      "numberOfSchools": "2"
+   },
+   {
+      "name": "Cambridge Public Schools",
+      "location": {
+         "state": {
+            "name": "Nebraska",
+            "abbr": "NE",
+            "county": "Furnas County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "316",
+      "fte": "29.8",
+      "pupilTeacherRatio": "10.6",
+      "numberOfSchools": "3"
+   },
+   {
+      "name": "Cedar Bluffs Public Schools",
+      "location": {
+         "state": {
+            "name": "Nebraska",
+            "abbr": "NE",
+            "county": "Saunders County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "436",
+      "fte": "36.5",
+      "pupilTeacherRatio": "11.95",
+      "numberOfSchools": "2"
+   },
+   {
+      "name": "Centennial Public Schools",
+      "location": {
+         "state": {
+            "name": "Nebraska",
+            "abbr": "NE",
+            "county": "Seward County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "451",
+      "fte": "43.05",
+      "pupilTeacherRatio": "10.48",
+      "numberOfSchools": "2"
+   },
+   {
+      "name": "Central City Public Schools",
+      "location": {
+         "state": {
+            "name": "Nebraska",
+            "abbr": "NE",
+            "county": "Merrick County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "767",
+      "fte": "63.13",
+      "pupilTeacherRatio": "12.15",
+      "numberOfSchools": "3"
+   },
+   {
+      "name": "Central Valley Public Schools",
+      "location": {
+         "state": {
+            "name": "NEBRASKA",
+            "abbr": "NE",
+            "county": "Greeley County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "309",
+      "fte": "37.98",
+      "pupilTeacherRatio": "8.14",
+      "numberOfSchools": "4"
+   },
+   {
+      "name": "Centura Public Schools",
+      "location": {
+         "state": {
+            "name": "Nebraska",
+            "abbr": "NE",
+            "county": "Howard County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "493",
+      "fte": "43.42",
+      "pupilTeacherRatio": "11.35",
+      "numberOfSchools": "2"
+   },
+   {
+      "name": "Chadron Public Schools",
+      "location": {
+         "state": {
+            "name": "Nebraska",
+            "abbr": "NE",
+            "county": "Dawes County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "976",
+      "fte": "73.72",
+      "pupilTeacherRatio": "13.24",
+      "numberOfSchools": "4"
+   },
+   {
+      "name": "Chambers Public Schools",
+      "location": {
+         "state": {
+            "name": "Nebraska",
+            "abbr": "NE",
+            "county": "Holt County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "135",
+      "fte": "18.67",
+      "pupilTeacherRatio": "7.23",
+      "numberOfSchools": "2"
+   },
+   {
+      "name": "Chase County Schools",
+      "location": {
+         "state": {
+            "name": "Nebraska",
+            "abbr": "NE",
+            "county": "Chase County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "623",
+      "fte": "48",
+      "pupilTeacherRatio": "12.98",
+      "numberOfSchools": "2"
+   },
+   {
+      "name": "Child Guidance Ctr Tgh School",
+      "location": {
+         "state": {
+            "name": "Nebraska",
+            "abbr": "NE",
+            "county": "Lancaster County"
+         }
+      },
+      "type": "8-Other education agencies",
+      "grades": {
+         "lowest": "†",
+         "highest": "†"
+      },
+      "students": "0",
+      "fte": "1",
+      "pupilTeacherRatio": "0",
+      "numberOfSchools": "1"
+   },
+   {
+      "name": "Clarkson Public Schools",
+      "location": {
+         "state": {
+            "name": "Nebraska",
+            "abbr": "NE",
+            "county": "Colfax County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "220",
+      "fte": "23.38",
+      "pupilTeacherRatio": "9.41",
+      "numberOfSchools": "2"
+   },
+   {
+      "name": "Cody-Kilgore Public Schs",
+      "location": {
+         "state": {
+            "name": "Nebraska",
+            "abbr": "NE",
+            "county": "Cherry County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "164",
+      "fte": "19.7",
+      "pupilTeacherRatio": "8.32",
+      "numberOfSchools": "3"
+   },
+   {
+      "name": "Columbus Public Schools",
+      "location": {
+         "state": {
+            "name": "Nebraska",
+            "abbr": "NE",
+            "county": "Platte County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "4204",
+      "fte": "252.68",
+      "pupilTeacherRatio": "16.64",
+      "numberOfSchools": "9"
+   },
+   {
+      "name": "Conestoga Public Schools",
+      "location": {
+         "state": {
+            "name": "Nebraska",
+            "abbr": "NE",
+            "county": "Cass County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "677",
+      "fte": "57.25",
+      "pupilTeacherRatio": "11.83",
+      "numberOfSchools": "2"
+   },
+   {
+      "name": "Cozad Community Schools",
+      "location": {
+         "state": {
+            "name": "Nebraska",
+            "abbr": "NE",
+            "county": "Dawson County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "951",
+      "fte": "72.52",
+      "pupilTeacherRatio": "13.11",
+      "numberOfSchools": "4"
+   },
+   {
+      "name": "Crawford Public Schools",
+      "location": {
+         "state": {
+            "name": "Nebraska",
+            "abbr": "NE",
+            "county": "Dawes County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "186",
+      "fte": "17.04",
+      "pupilTeacherRatio": "10.92",
+      "numberOfSchools": "2"
+   },
+   {
+      "name": "Creek Valley Schools",
+      "location": {
+         "state": {
+            "name": "Nebraska",
+            "abbr": "NE",
+            "county": "Deuel County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "192",
+      "fte": "18.69",
+      "pupilTeacherRatio": "10.27",
+      "numberOfSchools": "2"
+   },
+   {
+      "name": "Creighton Community Public Schools",
+      "location": {
+         "state": {
+            "name": "Nebraska",
+            "abbr": "NE",
+            "county": "Knox County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "289",
+      "fte": "30.72",
+      "pupilTeacherRatio": "9.41",
+      "numberOfSchools": "2"
+   },
+   {
+      "name": "Crete Public Schools",
+      "location": {
+         "state": {
+            "name": "Nebraska",
+            "abbr": "NE",
+            "county": "Saline County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "2130",
+      "fte": "140.83",
+      "pupilTeacherRatio": "15.12",
+      "numberOfSchools": "6"
+   },
+   {
+      "name": "Crofton Community Schools",
+      "location": {
+         "state": {
+            "name": "Nebraska",
+            "abbr": "NE",
+            "county": "Knox County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "324",
+      "fte": "31.26",
+      "pupilTeacherRatio": "10.36",
+      "numberOfSchools": "2"
+   },
+   {
+      "name": "Cross County Community Schools",
+      "location": {
+         "state": {
+            "name": "Nebraska",
+            "abbr": "NE",
+            "county": "Polk County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "378",
+      "fte": "36.35",
+      "pupilTeacherRatio": "10.4",
+      "numberOfSchools": "3"
+   },
+   {
+      "name": "David City Public Schools",
+      "location": {
+         "state": {
+            "name": "Nebraska",
+            "abbr": "NE",
+            "county": "Butler County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "683",
+      "fte": "60.97",
+      "pupilTeacherRatio": "11.2",
+      "numberOfSchools": "3"
+   },
+   {
+      "name": "Deshler Public Schools",
+      "location": {
+         "state": {
+            "name": "Nebraska",
+            "abbr": "NE",
+            "county": "Thayer County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "251",
+      "fte": "26.73",
+      "pupilTeacherRatio": "9.39",
+      "numberOfSchools": "2"
+   },
+   {
+      "name": "Diller-Odell Public Schools",
+      "location": {
+         "state": {
+            "name": "Nebraska",
+            "abbr": "NE",
+            "county": "Gage County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "237",
+      "fte": "26.22",
+      "pupilTeacherRatio": "9.04",
+      "numberOfSchools": "2"
+   },
+   {
+      "name": "Doniphan-Trumbull Public Schs",
+      "location": {
+         "state": {
+            "name": "Nebraska",
+            "abbr": "NE",
+            "county": "Hall County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "460",
+      "fte": "41.83",
+      "pupilTeacherRatio": "11",
+      "numberOfSchools": "2"
+   },
+   {
+      "name": "Dorchester Public School",
+      "location": {
+         "state": {
+            "name": "Nebraska",
+            "abbr": "NE",
+            "county": "Saline County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "239",
+      "fte": "22.7",
+      "pupilTeacherRatio": "10.53",
+      "numberOfSchools": "2"
+   },
+   {
+      "name": "Douglas Co West Community Schs",
+      "location": {
+         "state": {
+            "name": "Nebraska",
+            "abbr": "NE",
+            "county": "Douglas County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "975",
+      "fte": "69.47",
+      "pupilTeacherRatio": "14.03",
+      "numberOfSchools": "4"
+   },
+   {
+      "name": "Douglas County Youth Center",
+      "location": {
+         "state": {
+            "name": "Nebraska",
+            "abbr": "NE",
+            "county": "Douglas County"
+         }
+      },
+      "type": "8-Other education agencies",
+      "grades": {
+         "lowest": "†",
+         "highest": "†"
+      },
+      "students": "0",
+      "fte": "10",
+      "pupilTeacherRatio": "0",
+      "numberOfSchools": "1"
+   },
+   {
+      "name": "Dundy Co Stratton Public Schs",
+      "location": {
+         "state": {
+            "name": "Nebraska",
+            "abbr": "NE",
+            "county": "Dundy County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "334",
+      "fte": "34.2",
+      "pupilTeacherRatio": "9.77",
+      "numberOfSchools": "3"
+   },
+   {
+      "name": "East Butler Public Schools",
+      "location": {
+         "state": {
+            "name": "Nebraska",
+            "abbr": "NE",
+            "county": "Butler County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "289",
+      "fte": "35",
+      "pupilTeacherRatio": "8.26",
+      "numberOfSchools": "3"
+   },
+   {
+      "name": "Educational Service Unit 01",
+      "location": {
+         "state": {
+            "name": "Nebraska",
+            "abbr": "NE",
+            "county": "Wayne County"
+         }
+      },
+      "type": "4-Regional Education Service Agency (RESA)",
+      "grades": {
+         "lowest": "†",
+         "highest": "†"
+      },
+      "students": "0",
+      "fte": "2.8",
+      "pupilTeacherRatio": "0",
+      "numberOfSchools": "1"
+   },
+   {
+      "name": "Educational Service Unit 02",
+      "location": {
+         "state": {
+            "name": "Nebraska",
+            "abbr": "NE",
+            "county": "Dodge County"
+         }
+      },
+      "type": "4-Regional Education Service Agency (RESA)",
+      "grades": {
+         "lowest": "†",
+         "highest": "†"
+      },
+      "students": "0",
+      "fte": "6.5",
+      "pupilTeacherRatio": "0",
+      "numberOfSchools": "1"
+   },
+   {
+      "name": "Educational Service Unit 03",
+      "location": {
+         "state": {
+            "name": "Nebraska",
+            "abbr": "NE",
+            "county": "Sarpy County"
+         }
+      },
+      "type": "4-Regional Education Service Agency (RESA)",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "Prekindergarten"
+      },
+      "students": "197",
+      "fte": "32",
+      "pupilTeacherRatio": "6.16",
+      "numberOfSchools": "8"
+   },
+   {
+      "name": "Educational Service Unit 04",
+      "location": {
+         "state": {
+            "name": "Nebraska",
+            "abbr": "NE",
+            "county": "Nemaha County"
+         }
+      },
+      "type": "4-Regional Education Service Agency (RESA)",
+      "grades": {
+         "lowest": "†",
+         "highest": "†"
+      },
+      "students": "0",
+      "fte": "8.61",
+      "pupilTeacherRatio": "0",
+      "numberOfSchools": "2"
+   },
+   {
+      "name": "Educational Service Unit 05",
+      "location": {
+         "state": {
+            "name": "Nebraska",
+            "abbr": "NE",
+            "county": "Gage County"
+         }
+      },
+      "type": "4-Regional Education Service Agency (RESA)",
+      "grades": {
+         "lowest": "†",
+         "highest": "†"
+      },
+      "students": "0",
+      "fte": "0.5",
+      "pupilTeacherRatio": "0",
+      "numberOfSchools": "1"
+   },
+   {
+      "name": "Educational Service Unit 06",
+      "location": {
+         "state": {
+            "name": "Nebraska",
+            "abbr": "NE",
+            "county": "Seward County"
+         }
+      },
+      "type": "4-Regional Education Service Agency (RESA)",
+      "grades": {
+         "lowest": "†",
+         "highest": "†"
+      },
+      "students": "†",
+      "fte": "2.6",
+      "pupilTeacherRatio": "–",
+      "numberOfSchools": "0"
+   },
+   {
+      "name": "Educational Service Unit 07",
+      "location": {
+         "state": {
+            "name": "Nebraska",
+            "abbr": "NE",
+            "county": "Platte County"
+         }
+      },
+      "type": "4-Regional Education Service Agency (RESA)",
+      "grades": {
+         "lowest": "†",
+         "highest": "†"
+      },
+      "students": "0",
+      "fte": "2.38",
+      "pupilTeacherRatio": "0",
+      "numberOfSchools": "2"
+   },
+   {
+      "name": "Educational Service Unit 08",
+      "location": {
+         "state": {
+            "name": "Nebraska",
+            "abbr": "NE",
+            "county": "Antelope County"
+         }
+      },
+      "type": "4-Regional Education Service Agency (RESA)",
+      "grades": {
+         "lowest": "†",
+         "highest": "†"
+      },
+      "students": "0",
+      "fte": "4.95",
+      "pupilTeacherRatio": "0",
+      "numberOfSchools": "3"
+   },
+   {
+      "name": "Educational Service Unit 09",
+      "location": {
+         "state": {
+            "name": "Nebraska",
+            "abbr": "NE",
+            "county": "Adams County"
+         }
+      },
+      "type": "4-Regional Education Service Agency (RESA)",
+      "grades": {
+         "lowest": "†",
+         "highest": "†"
+      },
+      "students": "0",
+      "fte": "2.1",
+      "pupilTeacherRatio": "0",
+      "numberOfSchools": "2"
+   },
+   {
+      "name": "Educational Service Unit 10",
+      "location": {
+         "state": {
+            "name": "Nebraska",
+            "abbr": "NE",
+            "county": "Buffalo County"
+         }
+      },
+      "type": "4-Regional Education Service Agency (RESA)",
+      "grades": {
+         "lowest": "†",
+         "highest": "†"
+      },
+      "students": "†",
+      "fte": "0",
+      "pupilTeacherRatio": "–",
+      "numberOfSchools": "0"
+   },
+   {
+      "name": "Educational Service Unit 11",
+      "location": {
+         "state": {
+            "name": "Nebraska",
+            "abbr": "NE",
+            "county": "Phelps County"
+         }
+      },
+      "type": "4-Regional Education Service Agency (RESA)",
+      "grades": {
+         "lowest": "†",
+         "highest": "†"
+      },
+      "students": "†",
+      "fte": "0",
+      "pupilTeacherRatio": "–",
+      "numberOfSchools": "0"
+   },
+   {
+      "name": "Educational Service Unit 13",
+      "location": {
+         "state": {
+            "name": "Nebraska",
+            "abbr": "NE",
+            "county": "Scotts Bluff County"
+         }
+      },
+      "type": "4-Regional Education Service Agency (RESA)",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "Prekindergarten"
+      },
+      "students": "149",
+      "fte": "22.57",
+      "pupilTeacherRatio": "6.6",
+      "numberOfSchools": "10"
+   },
+   {
+      "name": "Educational Service Unit 15",
+      "location": {
+         "state": {
+            "name": "Nebraska",
+            "abbr": "NE",
+            "county": "Hitchcock County"
+         }
+      },
+      "type": "4-Regional Education Service Agency (RESA)",
+      "grades": {
+         "lowest": "†",
+         "highest": "†"
+      },
+      "students": "0",
+      "fte": "0.5",
+      "pupilTeacherRatio": "0",
+      "numberOfSchools": "1"
+   },
+   {
+      "name": "Educational Service Unit 16",
+      "location": {
+         "state": {
+            "name": "Nebraska",
+            "abbr": "NE",
+            "county": "Keith County"
+         }
+      },
+      "type": "4-Regional Education Service Agency (RESA)",
+      "grades": {
+         "lowest": "†",
+         "highest": "†"
+      },
+      "students": "†",
+      "fte": "0",
+      "pupilTeacherRatio": "–",
+      "numberOfSchools": "0"
+   },
+   {
+      "name": "Educational Service Unit 17",
+      "location": {
+         "state": {
+            "name": "Nebraska",
+            "abbr": "NE",
+            "county": "Brown County"
+         }
+      },
+      "type": "4-Regional Education Service Agency (RESA)",
+      "grades": {
+         "lowest": "†",
+         "highest": "†"
+      },
+      "students": "†",
+      "fte": "0",
+      "pupilTeacherRatio": "–",
+      "numberOfSchools": "0"
+   },
+   {
+      "name": "Educational Service Unit 18",
+      "location": {
+         "state": {
+            "name": "Nebraska",
+            "abbr": "NE",
+            "county": "Lancaster County"
+         }
+      },
+      "type": "4-Regional Education Service Agency (RESA)",
+      "grades": {
+         "lowest": "†",
+         "highest": "†"
+      },
+      "students": "†",
+      "fte": "0",
+      "pupilTeacherRatio": "–",
+      "numberOfSchools": "0"
+   },
+   {
+      "name": "Educational Service Unit 19",
+      "location": {
+         "state": {
+            "name": "Nebraska",
+            "abbr": "NE",
+            "county": "Douglas County"
+         }
+      },
+      "type": "4-Regional Education Service Agency (RESA)",
+      "grades": {
+         "lowest": "†",
+         "highest": "†"
+      },
+      "students": "†",
+      "fte": "0",
+      "pupilTeacherRatio": "–",
+      "numberOfSchools": "0"
+   },
+   {
+      "name": "Elba Public Schools",
+      "location": {
+         "state": {
+            "name": "Nebraska",
+            "abbr": "NE",
+            "county": "Howard County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "120",
+      "fte": "17.62",
+      "pupilTeacherRatio": "6.81",
+      "numberOfSchools": "2"
+   },
+   {
+      "name": "Elgin Public Schools",
+      "location": {
+         "state": {
+            "name": "Nebraska",
+            "abbr": "NE",
+            "county": "Antelope County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "170",
+      "fte": "19.72",
+      "pupilTeacherRatio": "8.62",
+      "numberOfSchools": "2"
+   },
+   {
+      "name": "Elkhorn Public Schools",
+      "location": {
+         "state": {
+            "name": "Nebraska",
+            "abbr": "NE",
+            "county": "Douglas County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "10322",
+      "fte": "660.08",
+      "pupilTeacherRatio": "15.64",
+      "numberOfSchools": "17"
+   },
+   {
+      "name": "Elkhorn Valley Schools",
+      "location": {
+         "state": {
+            "name": "Nebraska",
+            "abbr": "NE",
+            "county": "Madison County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "428",
+      "fte": "36.4",
+      "pupilTeacherRatio": "11.76",
+      "numberOfSchools": "2"
+   },
+   {
+      "name": "Elm Creek Public Schools",
+      "location": {
+         "state": {
+            "name": "Nebraska",
+            "abbr": "NE",
+            "county": "Buffalo County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "366",
+      "fte": "32.12",
+      "pupilTeacherRatio": "11.39",
+      "numberOfSchools": "2"
+   },
+   {
+      "name": "Elmwood-Murdock Public Schools",
+      "location": {
+         "state": {
+            "name": "Nebraska",
+            "abbr": "NE",
+            "county": "Cass County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "472",
+      "fte": "39.53",
+      "pupilTeacherRatio": "11.94",
+      "numberOfSchools": "2"
+   },
+   {
+      "name": "Elwood Public Schools",
+      "location": {
+         "state": {
+            "name": "Nebraska",
+            "abbr": "NE",
+            "county": "Gosper County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "209",
+      "fte": "23.25",
+      "pupilTeacherRatio": "8.99",
+      "numberOfSchools": "2"
+   },
+   {
+      "name": "Emerson-Hubbard Public Schools",
+      "location": {
+         "state": {
+            "name": "Nebraska",
+            "abbr": "NE",
+            "county": "Dixon County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "240",
+      "fte": "24.52",
+      "pupilTeacherRatio": "9.79",
+      "numberOfSchools": "3"
+   },
+   {
+      "name": "Eustis-Farnam Public Schools",
+      "location": {
+         "state": {
+            "name": "Nebraska",
+            "abbr": "NE",
+            "county": "Frontier County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "165",
+      "fte": "22.72",
+      "pupilTeacherRatio": "7.26",
+      "numberOfSchools": "2"
+   },
+   {
+      "name": "Ewing Public Schools",
+      "location": {
+         "state": {
+            "name": "Nebraska",
+            "abbr": "NE",
+            "county": "Holt County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "136",
+      "fte": "19.85",
+      "pupilTeacherRatio": "6.85",
+      "numberOfSchools": "2"
+   },
+   {
+      "name": "Exeter-Milligan Public Schools",
+      "location": {
+         "state": {
+            "name": "Nebraska",
+            "abbr": "NE",
+            "county": "Fillmore County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "174",
+      "fte": "25.56",
+      "pupilTeacherRatio": "6.81",
+      "numberOfSchools": "3"
+   },
+   {
+      "name": "Fairbury Public Schools",
+      "location": {
+         "state": {
+            "name": "Nebraska",
+            "abbr": "NE",
+            "county": "Jefferson County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "919",
+      "fte": "73.99",
+      "pupilTeacherRatio": "12.42",
+      "numberOfSchools": "3"
+   },
+   {
+      "name": "Falls City Public Schools",
+      "location": {
+         "state": {
+            "name": "Nebraska",
+            "abbr": "NE",
+            "county": "Richardson County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "931",
+      "fte": "67.29",
+      "pupilTeacherRatio": "13.84",
+      "numberOfSchools": "4"
+   },
+   {
+      "name": "Fillmore Central Public Schs",
+      "location": {
+         "state": {
+            "name": "Nebraska",
+            "abbr": "NE",
+            "county": "Fillmore County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "589",
+      "fte": "51.23",
+      "pupilTeacherRatio": "11.5",
+      "numberOfSchools": "3"
+   },
+   {
+      "name": "Fort Calhoun Community Schs",
+      "location": {
+         "state": {
+            "name": "Nebraska",
+            "abbr": "NE",
+            "county": "Washington County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "744",
+      "fte": "49.39",
+      "pupilTeacherRatio": "15.06",
+      "numberOfSchools": "2"
+   },
+   {
+      "name": "Franklin Public Schools",
+      "location": {
+         "state": {
+            "name": "Nebraska",
+            "abbr": "NE",
+            "county": "Franklin County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "296",
+      "fte": "30.37",
+      "pupilTeacherRatio": "9.75",
+      "numberOfSchools": "2"
+   },
+   {
+      "name": "Freeman Public Schools",
+      "location": {
+         "state": {
+            "name": "Nebraska",
+            "abbr": "NE",
+            "county": "Gage County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "435",
+      "fte": "36.51",
+      "pupilTeacherRatio": "11.91",
+      "numberOfSchools": "2"
+   },
+   {
+      "name": "Fremont Public Schools",
+      "location": {
+         "state": {
+            "name": "Nebraska",
+            "abbr": "NE",
+            "county": "Dodge County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "4869",
+      "fte": "304.83",
+      "pupilTeacherRatio": "15.97",
+      "numberOfSchools": "17"
+   },
+   {
+      "name": "Friend Public Schools",
+      "location": {
+         "state": {
+            "name": "Nebraska",
+            "abbr": "NE",
+            "county": "Saline County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "239",
+      "fte": "23",
+      "pupilTeacherRatio": "10.39",
+      "numberOfSchools": "2"
+   },
+   {
+      "name": "Fullerton Public Schools",
+      "location": {
+         "state": {
+            "name": "Nebraska",
+            "abbr": "NE",
+            "county": "Nance County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "314",
+      "fte": "26.25",
+      "pupilTeacherRatio": "11.96",
+      "numberOfSchools": "2"
+   },
+   {
+      "name": "Garden County Schools",
+      "location": {
+         "state": {
+            "name": "Nebraska",
+            "abbr": "NE",
+            "county": "Garden County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "260",
+      "fte": "24.19",
+      "pupilTeacherRatio": "10.75",
+      "numberOfSchools": "2"
+   },
+   {
+      "name": "Geneva North School",
+      "location": {
+         "state": {
+            "name": "Nebraska",
+            "abbr": "NE",
+            "county": "Fillmore County"
+         }
+      },
+      "type": "5-State agency providing elementary and/or secondary level instruction",
+      "grades": {
+         "lowest": "7th Grade",
+         "highest": "12th Grade"
+      },
+      "students": "20",
+      "fte": "8",
+      "pupilTeacherRatio": "2.5",
+      "numberOfSchools": "2"
+   },
+   {
+      "name": "Gering Public Schools",
+      "location": {
+         "state": {
+            "name": "Nebraska",
+            "abbr": "NE",
+            "county": "Scotts Bluff County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "2049",
+      "fte": "126.7",
+      "pupilTeacherRatio": "16.17",
+      "numberOfSchools": "6"
+   },
+   {
+      "name": "Gibbon Public Schools",
+      "location": {
+         "state": {
+            "name": "Nebraska",
+            "abbr": "NE",
+            "county": "Buffalo County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "582",
+      "fte": "42.34",
+      "pupilTeacherRatio": "13.75",
+      "numberOfSchools": "2"
+   },
+   {
+      "name": "Giltner Public Schools",
+      "location": {
+         "state": {
+            "name": "Nebraska",
+            "abbr": "NE",
+            "county": "Hamilton County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "222",
+      "fte": "20.52",
+      "pupilTeacherRatio": "10.82",
+      "numberOfSchools": "2"
+   },
+   {
+      "name": "Gordon-Rushville Public Schs",
+      "location": {
+         "state": {
+            "name": "Nebraska",
+            "abbr": "NE",
+            "county": "Sheridan County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "607",
+      "fte": "54.63",
+      "pupilTeacherRatio": "11.11",
+      "numberOfSchools": "4"
+   },
+   {
+      "name": "Gothenburg Public Schools",
+      "location": {
+         "state": {
+            "name": "Nebraska",
+            "abbr": "NE",
+            "county": "Dawson County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "880",
+      "fte": "64.84",
+      "pupilTeacherRatio": "13.57",
+      "numberOfSchools": "3"
+   },
+   {
+      "name": "Grand Island Public Schools",
+      "location": {
+         "state": {
+            "name": "Nebraska",
+            "abbr": "NE",
+            "county": "Hall County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "10070",
+      "fte": "709.64",
+      "pupilTeacherRatio": "14.19",
+      "numberOfSchools": "23"
+   },
+   {
+      "name": "Gretna Public Schools",
+      "location": {
+         "state": {
+            "name": "Nebraska",
+            "abbr": "NE",
+            "county": "Sarpy County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "5838",
+      "fte": "360.3",
+      "pupilTeacherRatio": "16.2",
+      "numberOfSchools": "8"
+   },
+   {
+      "name": "Hampton Public School",
+      "location": {
+         "state": {
+            "name": "Nebraska",
+            "abbr": "NE",
+            "county": "Hamilton County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "177",
+      "fte": "20.75",
+      "pupilTeacherRatio": "8.53",
+      "numberOfSchools": "2"
+   },
+   {
+      "name": "Hartington Newcastle Public Schools",
+      "location": {
+         "state": {
+            "name": "Nebraska",
+            "abbr": "NE",
+            "county": "Cedar County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "382",
+      "fte": "37.21",
+      "pupilTeacherRatio": "10.27",
+      "numberOfSchools": "3"
+   },
+   {
+      "name": "Harvard Public Schools",
+      "location": {
+         "state": {
+            "name": "Nebraska",
+            "abbr": "NE",
+            "county": "Clay County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "271",
+      "fte": "27.65",
+      "pupilTeacherRatio": "9.8",
+      "numberOfSchools": "3"
+   },
+   {
+      "name": "Hastings Public Schools",
+      "location": {
+         "state": {
+            "name": "Nebraska",
+            "abbr": "NE",
+            "county": "Adams County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "3638",
+      "fte": "256.98",
+      "pupilTeacherRatio": "14.16",
+      "numberOfSchools": "7"
+   },
+   {
+      "name": "Hay Springs Public Schools",
+      "location": {
+         "state": {
+            "name": "Nebraska",
+            "abbr": "NE",
+            "county": "Sheridan County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "208",
+      "fte": "19.9",
+      "pupilTeacherRatio": "10.45",
+      "numberOfSchools": "4"
+   },
+   {
+      "name": "Hayes Center Public Schools",
+      "location": {
+         "state": {
+            "name": "Nebraska",
+            "abbr": "NE",
+            "county": "Hayes County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "123",
+      "fte": "17.15",
+      "pupilTeacherRatio": "7.17",
+      "numberOfSchools": "2"
+   },
+   {
+      "name": "Heartland Community Schools",
+      "location": {
+         "state": {
+            "name": "Nebraska",
+            "abbr": "NE",
+            "county": "York County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "353",
+      "fte": "29.01",
+      "pupilTeacherRatio": "12.17",
+      "numberOfSchools": "2"
+   },
+   {
+      "name": "Hemingford Public Schools",
+      "location": {
+         "state": {
+            "name": "Nebraska",
+            "abbr": "NE",
+            "county": "Box Butte County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "433",
+      "fte": "38.25",
+      "pupilTeacherRatio": "11.32",
+      "numberOfSchools": "2"
+   },
+   {
+      "name": "Hershey Public Schools",
+      "location": {
+         "state": {
+            "name": "Nebraska",
+            "abbr": "NE",
+            "county": "Lincoln County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "516",
+      "fte": "38.38",
+      "pupilTeacherRatio": "13.44",
+      "numberOfSchools": "2"
+   },
+   {
+      "name": "High Plains Community Schools",
+      "location": {
+         "state": {
+            "name": "Nebraska",
+            "abbr": "NE",
+            "county": "Polk County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "266",
+      "fte": "28.51",
+      "pupilTeacherRatio": "9.33",
+      "numberOfSchools": "2"
+   },
+   {
+      "name": "Hitchcock Co Sch System",
+      "location": {
+         "state": {
+            "name": "Nebraska",
+            "abbr": "NE",
+            "county": "Hitchcock County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "297",
+      "fte": "26.15",
+      "pupilTeacherRatio": "11.36",
+      "numberOfSchools": "2"
+   },
+   {
+      "name": "Holdrege Public Schools",
+      "location": {
+         "state": {
+            "name": "Nebraska",
+            "abbr": "NE",
+            "county": "Phelps County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "1090",
+      "fte": "82.34",
+      "pupilTeacherRatio": "13.24",
+      "numberOfSchools": "4"
+   },
+   {
+      "name": "Homer Community Schools",
+      "location": {
+         "state": {
+            "name": "Nebraska",
+            "abbr": "NE",
+            "county": "Dakota County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "430",
+      "fte": "37.08",
+      "pupilTeacherRatio": "11.6",
+      "numberOfSchools": "2"
+   },
+   {
+      "name": "Howells-Dodge Consolidated Schools",
+      "location": {
+         "state": {
+            "name": "Nebraska",
+            "abbr": "NE",
+            "county": "Colfax County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "277",
+      "fte": "25.26",
+      "pupilTeacherRatio": "10.97",
+      "numberOfSchools": "3"
+   },
+   {
+      "name": "Humboldt Table Rock Steinauer",
+      "location": {
+         "state": {
+            "name": "Nebraska",
+            "abbr": "NE",
+            "county": "Richardson County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "358",
+      "fte": "41.4",
+      "pupilTeacherRatio": "8.65",
+      "numberOfSchools": "3"
+   },
+   {
+      "name": "Humphrey Public Schools",
+      "location": {
+         "state": {
+            "name": "Nebraska",
+            "abbr": "NE",
+            "county": "Platte County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "274",
+      "fte": "24.75",
+      "pupilTeacherRatio": "11.07",
+      "numberOfSchools": "3"
+   },
+   {
+      "name": "Hyannis Area Schools",
+      "location": {
+         "state": {
+            "name": "Nebraska",
+            "abbr": "NE",
+            "county": "Grant County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "134",
+      "fte": "16.7",
+      "pupilTeacherRatio": "8.02",
+      "numberOfSchools": "2"
+   },
+   {
+      "name": "Johnson Co Central Public Schs",
+      "location": {
+         "state": {
+            "name": "Nebraska",
+            "abbr": "NE",
+            "county": "Johnson County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "493",
+      "fte": "49.31",
+      "pupilTeacherRatio": "10",
+      "numberOfSchools": "4"
+   },
+   {
+      "name": "Johnson-Brock Public Schools",
+      "location": {
+         "state": {
+            "name": "Nebraska",
+            "abbr": "NE",
+            "county": "Nemaha County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "350",
+      "fte": "25.43",
+      "pupilTeacherRatio": "13.76",
+      "numberOfSchools": "2"
+   },
+   {
+      "name": "Kearney Public Schools",
+      "location": {
+         "state": {
+            "name": "Nebraska",
+            "abbr": "NE",
+            "county": "Buffalo County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "6121",
+      "fte": "364.42",
+      "pupilTeacherRatio": "16.8",
+      "numberOfSchools": "14"
+   },
+   {
+      "name": "Kenesaw Public Schools",
+      "location": {
+         "state": {
+            "name": "Nebraska",
+            "abbr": "NE",
+            "county": "Adams County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "263",
+      "fte": "25.61",
+      "pupilTeacherRatio": "10.27",
+      "numberOfSchools": "2"
+   },
+   {
+      "name": "Keya Paha County Schools",
+      "location": {
+         "state": {
+            "name": "Nebraska",
+            "abbr": "NE",
+            "county": "Keya Paha County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "91",
+      "fte": "13.85",
+      "pupilTeacherRatio": "6.57",
+      "numberOfSchools": "2"
+   },
+   {
+      "name": "Kimball Public Schools",
+      "location": {
+         "state": {
+            "name": "Nebraska",
+            "abbr": "NE",
+            "county": "Kimball County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "403",
+      "fte": "39.98",
+      "pupilTeacherRatio": "10.08",
+      "numberOfSchools": "2"
+   },
+   {
+      "name": "Lakeview Community Schools",
+      "location": {
+         "state": {
+            "name": "Nebraska",
+            "abbr": "NE",
+            "county": "Platte County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "896",
+      "fte": "63.14",
+      "pupilTeacherRatio": "14.19",
+      "numberOfSchools": "4"
+   },
+   {
+      "name": "Laurel-Concord-Coleridge School",
+      "location": {
+         "state": {
+            "name": "Nebraska",
+            "abbr": "NE",
+            "county": "Cedar County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "449",
+      "fte": "41.69",
+      "pupilTeacherRatio": "10.77",
+      "numberOfSchools": "3"
+   },
+   {
+      "name": "Leigh Community Schools",
+      "location": {
+         "state": {
+            "name": "Nebraska",
+            "abbr": "NE",
+            "county": "Colfax County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "246",
+      "fte": "20",
+      "pupilTeacherRatio": "12.3",
+      "numberOfSchools": "2"
+   },
+   {
+      "name": "Lewiston Consolidated Schools",
+      "location": {
+         "state": {
+            "name": "Nebraska",
+            "abbr": "NE",
+            "county": "Pawnee County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "179",
+      "fte": "24.48",
+      "pupilTeacherRatio": "7.31",
+      "numberOfSchools": "2"
+   },
+   {
+      "name": "Lexington Public Schools",
+      "location": {
+         "state": {
+            "name": "Nebraska",
+            "abbr": "NE",
+            "county": "Dawson County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "3169",
+      "fte": "212.64",
+      "pupilTeacherRatio": "14.9",
+      "numberOfSchools": "8"
+   },
+   {
+      "name": "Leyton Public Schools",
+      "location": {
+         "state": {
+            "name": "Nebraska",
+            "abbr": "NE",
+            "county": "Cheyenne County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "167",
+      "fte": "22.21",
+      "pupilTeacherRatio": "7.52",
+      "numberOfSchools": "2"
+   },
+   {
+      "name": "Lincoln Public Schools",
+      "location": {
+         "state": {
+            "name": "Nebraska",
+            "abbr": "NE",
+            "county": "Lancaster County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "42258",
+      "fte": "3155.79",
+      "pupilTeacherRatio": "13.39",
+      "numberOfSchools": "73"
+   },
+   {
+      "name": "Litchfield Public Schools",
+      "location": {
+         "state": {
+            "name": "Nebraska",
+            "abbr": "NE",
+            "county": "Sherman County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "120",
+      "fte": "18.3",
+      "pupilTeacherRatio": "6.56",
+      "numberOfSchools": "2"
+   },
+   {
+      "name": "Logan View Public Schools",
+      "location": {
+         "state": {
+            "name": "Nebraska",
+            "abbr": "NE",
+            "county": "Dodge County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "550",
+      "fte": "45.03",
+      "pupilTeacherRatio": "12.21",
+      "numberOfSchools": "2"
+   },
+   {
+      "name": "Loomis Public Schools",
+      "location": {
+         "state": {
+            "name": "Nebraska",
+            "abbr": "NE",
+            "county": "Phelps County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "250",
+      "fte": "23.07",
+      "pupilTeacherRatio": "10.84",
+      "numberOfSchools": "2"
+   },
+   {
+      "name": "Louisville Public Schools",
+      "location": {
+         "state": {
+            "name": "Nebraska",
+            "abbr": "NE",
+            "county": "Cass County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "685",
+      "fte": "46.31",
+      "pupilTeacherRatio": "14.79",
+      "numberOfSchools": "3"
+   },
+   {
+      "name": "Loup City Public Schools",
+      "location": {
+         "state": {
+            "name": "Nebraska",
+            "abbr": "NE",
+            "county": "Sherman County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "341",
+      "fte": "32.8",
+      "pupilTeacherRatio": "10.4",
+      "numberOfSchools": "2"
+   },
+   {
+      "name": "Loup County Public Schools",
+      "location": {
+         "state": {
+            "name": "Nebraska",
+            "abbr": "NE",
+            "county": "Loup County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "74",
+      "fte": "14.67",
+      "pupilTeacherRatio": "5.04",
+      "numberOfSchools": "2"
+   },
+   {
+      "name": "Lyons-Decatur Northeast Schs",
+      "location": {
+         "state": {
+            "name": "Nebraska",
+            "abbr": "NE",
+            "county": "Burt County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "290",
+      "fte": "24.63",
+      "pupilTeacherRatio": "11.77",
+      "numberOfSchools": "2"
+   },
+   {
+      "name": "Madison Public Schools",
+      "location": {
+         "state": {
+            "name": "Nebraska",
+            "abbr": "NE",
+            "county": "Madison County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "548",
+      "fte": "43.95",
+      "pupilTeacherRatio": "12.47",
+      "numberOfSchools": "4"
+   },
+   {
+      "name": "Malcolm Public Schools",
+      "location": {
+         "state": {
+            "name": "Nebraska",
+            "abbr": "NE",
+            "county": "Lancaster County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "619",
+      "fte": "42.02",
+      "pupilTeacherRatio": "14.73",
+      "numberOfSchools": "2"
+   },
+   {
+      "name": "Maxwell Public Schools",
+      "location": {
+         "state": {
+            "name": "Nebraska",
+            "abbr": "NE",
+            "county": "Lincoln County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "292",
+      "fte": "21.64",
+      "pupilTeacherRatio": "13.49",
+      "numberOfSchools": "2"
+   },
+   {
+      "name": "Maywood Public Schools",
+      "location": {
+         "state": {
+            "name": "Nebraska",
+            "abbr": "NE",
+            "county": "Frontier County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "158",
+      "fte": "17.63",
+      "pupilTeacherRatio": "8.96",
+      "numberOfSchools": "2"
+   },
+   {
+      "name": "Mc Cook Public Schools",
+      "location": {
+         "state": {
+            "name": "Nebraska",
+            "abbr": "NE",
+            "county": "Red Willow County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "1426",
+      "fte": "94.7",
+      "pupilTeacherRatio": "15.06",
+      "numberOfSchools": "5"
+   },
+   {
+      "name": "Mc Cool Junction Public Schs",
+      "location": {
+         "state": {
+            "name": "Nebraska",
+            "abbr": "NE",
+            "county": "York County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "252",
+      "fte": "23.35",
+      "pupilTeacherRatio": "10.79",
+      "numberOfSchools": "2"
+   },
+   {
+      "name": "Mc Pherson County Schools",
+      "location": {
+         "state": {
+            "name": "Nebraska",
+            "abbr": "NE",
+            "county": "McPherson County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "66",
+      "fte": "12.83",
+      "pupilTeacherRatio": "5.14",
+      "numberOfSchools": "2"
+   },
+   {
+      "name": "Mead Public Schools",
+      "location": {
+         "state": {
+            "name": "Nebraska",
+            "abbr": "NE",
+            "county": "Saunders County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "267",
+      "fte": "24.37",
+      "pupilTeacherRatio": "10.96",
+      "numberOfSchools": "2"
+   },
+   {
+      "name": "Medicine Valley Public Schools",
+      "location": {
+         "state": {
+            "name": "Nebraska",
+            "abbr": "NE",
+            "county": "Frontier County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "236",
+      "fte": "22.25",
+      "pupilTeacherRatio": "10.61",
+      "numberOfSchools": "2"
+   },
+   {
+      "name": "Meridian Public Schools",
+      "location": {
+         "state": {
+            "name": "Nebraska",
+            "abbr": "NE",
+            "county": "Jefferson County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "229",
+      "fte": "23.28",
+      "pupilTeacherRatio": "9.84",
+      "numberOfSchools": "2"
+   },
+   {
+      "name": "Milford Public Schools",
+      "location": {
+         "state": {
+            "name": "Nebraska",
+            "abbr": "NE",
+            "county": "Seward County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "788",
+      "fte": "54.51",
+      "pupilTeacherRatio": "14.46",
+      "numberOfSchools": "2"
+   },
+   {
+      "name": "Millard Public Schools",
+      "location": {
+         "state": {
+            "name": "Nebraska",
+            "abbr": "NE",
+            "county": "Douglas County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "24038",
+      "fte": "1480.88",
+      "pupilTeacherRatio": "16.23",
+      "numberOfSchools": "36"
+   },
+   {
+      "name": "Minatare Public Schools",
+      "location": {
+         "state": {
+            "name": "Nebraska",
+            "abbr": "NE",
+            "county": "Scotts Bluff County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "186",
+      "fte": "20.18",
+      "pupilTeacherRatio": "9.22",
+      "numberOfSchools": "3"
+   },
+   {
+      "name": "Minden Public Schools",
+      "location": {
+         "state": {
+            "name": "Nebraska",
+            "abbr": "NE",
+            "county": "Kearney County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "819",
+      "fte": "67.52",
+      "pupilTeacherRatio": "12.13",
+      "numberOfSchools": "4"
+   },
+   {
+      "name": "Mitchell Public Schools",
+      "location": {
+         "state": {
+            "name": "Nebraska",
+            "abbr": "NE",
+            "county": "Scotts Bluff County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "711",
+      "fte": "47.78",
+      "pupilTeacherRatio": "14.88",
+      "numberOfSchools": "2"
+   },
+   {
+      "name": "Morrill Public Schools",
+      "location": {
+         "state": {
+            "name": "Nebraska",
+            "abbr": "NE",
+            "county": "Scotts Bluff County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "394",
+      "fte": "37.08",
+      "pupilTeacherRatio": "10.63",
+      "numberOfSchools": "3"
+   },
+   {
+      "name": "Morton School",
+      "location": {
+         "state": {
+            "name": "Nebraska",
+            "abbr": "NE",
+            "county": "Lancaster County"
+         }
+      },
+      "type": "8-Other education agencies",
+      "grades": {
+         "lowest": "†",
+         "highest": "†"
+      },
+      "students": "0",
+      "fte": "3",
+      "pupilTeacherRatio": "0",
+      "numberOfSchools": "1"
+   },
+   {
+      "name": "Mullen Public Schools",
+      "location": {
+         "state": {
+            "name": "Nebraska",
+            "abbr": "NE",
+            "county": "Hooker County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "163",
+      "fte": "20.43",
+      "pupilTeacherRatio": "7.98",
+      "numberOfSchools": "3"
+   },
+   {
+      "name": "Ncyf Community High School",
+      "location": {
+         "state": {
+            "name": "Nebraska",
+            "abbr": "NE",
+            "county": "Douglas County"
+         }
+      },
+      "type": "5-State agency providing elementary and/or secondary level instruction",
+      "grades": {
+         "lowest": "9th Grade",
+         "highest": "12th Grade"
+      },
+      "students": "44",
+      "fte": "23.85",
+      "pupilTeacherRatio": "1.84",
+      "numberOfSchools": "1"
+   },
+   {
+      "name": "Nebraska City Public Schools",
+      "location": {
+         "state": {
+            "name": "Nebraska",
+            "abbr": "NE",
+            "county": "Otoe County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "1442",
+      "fte": "107.5",
+      "pupilTeacherRatio": "13.41",
+      "numberOfSchools": "4"
+   },
+   {
+      "name": "Nebraska Unified District 1",
+      "location": {
+         "state": {
+            "name": "Nebraska",
+            "abbr": "NE",
+            "county": "Antelope County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "430",
+      "fte": "56.8",
+      "pupilTeacherRatio": "7.57",
+      "numberOfSchools": "6"
+   },
+   {
+      "name": "Nebraska Youth Academy",
+      "location": {
+         "state": {
+            "name": "Nebraska",
+            "abbr": "NE",
+            "county": "Adams County"
+         }
+      },
+      "type": "8-Other education agencies",
+      "grades": {
+         "lowest": "†",
+         "highest": "†"
+      },
+      "students": "0",
+      "fte": "5.5",
+      "pupilTeacherRatio": "0",
+      "numberOfSchools": "1"
+   },
+   {
+      "name": "Neligh-Oakdale Schools",
+      "location": {
+         "state": {
+            "name": "Nebraska",
+            "abbr": "NE",
+            "county": "Antelope County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "390",
+      "fte": "38.74",
+      "pupilTeacherRatio": "10.07",
+      "numberOfSchools": "3"
+   },
+   {
+      "name": "Newman Grove Public Schools",
+      "location": {
+         "state": {
+            "name": "Nebraska",
+            "abbr": "NE",
+            "county": "Madison County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "185",
+      "fte": "19.18",
+      "pupilTeacherRatio": "9.65",
+      "numberOfSchools": "2"
+   },
+   {
+      "name": "Niobrara Public Schools",
+      "location": {
+         "state": {
+            "name": "Nebraska",
+            "abbr": "NE",
+            "county": "Knox County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "226",
+      "fte": "23.16",
+      "pupilTeacherRatio": "9.76",
+      "numberOfSchools": "2"
+   },
+   {
+      "name": "Norfolk Public Schools",
+      "location": {
+         "state": {
+            "name": "Nebraska",
+            "abbr": "NE",
+            "county": "Madison County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "4573",
+      "fte": "283.84",
+      "pupilTeacherRatio": "16.11",
+      "numberOfSchools": "12"
+   },
+   {
+      "name": "Norris School Dist 160",
+      "location": {
+         "state": {
+            "name": "Nebraska",
+            "abbr": "NE",
+            "county": "Lancaster County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "2480",
+      "fte": "146.9",
+      "pupilTeacherRatio": "16.88",
+      "numberOfSchools": "4"
+   },
+   {
+      "name": "North Bend Central Public Schs",
+      "location": {
+         "state": {
+            "name": "Nebraska",
+            "abbr": "NE",
+            "county": "Dodge County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "618",
+      "fte": "45.2",
+      "pupilTeacherRatio": "13.67",
+      "numberOfSchools": "3"
+   },
+   {
+      "name": "North Platte Public Schools",
+      "location": {
+         "state": {
+            "name": "Nebraska",
+            "abbr": "NE",
+            "county": "Lincoln County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "4117",
+      "fte": "267.59",
+      "pupilTeacherRatio": "15.39",
+      "numberOfSchools": "12"
+   },
+   {
+      "name": "Northeast Ne Juvenile Services",
+      "location": {
+         "state": {
+            "name": "Nebraska",
+            "abbr": "NE",
+            "county": "Madison County"
+         }
+      },
+      "type": "8-Other education agencies",
+      "grades": {
+         "lowest": "†",
+         "highest": "†"
+      },
+      "students": "0",
+      "fte": "3",
+      "pupilTeacherRatio": "0",
+      "numberOfSchools": "1"
+   },
+   {
+      "name": "Northwest Public Schools",
+      "location": {
+         "state": {
+            "name": "Nebraska",
+            "abbr": "NE",
+            "county": "Hall County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "1574",
+      "fte": "108.28",
+      "pupilTeacherRatio": "14.54",
+      "numberOfSchools": "5"
+   },
+   {
+      "name": "Nova Alternative School",
+      "location": {
+         "state": {
+            "name": "Nebraska",
+            "abbr": "NE",
+            "county": "Douglas County"
+         }
+      },
+      "type": "8-Other education agencies",
+      "grades": {
+         "lowest": "†",
+         "highest": "†"
+      },
+      "students": "0",
+      "fte": "2",
+      "pupilTeacherRatio": "0",
+      "numberOfSchools": "1"
+   },
+   {
+      "name": "O'neill Public Schools",
+      "location": {
+         "state": {
+            "name": "Nebraska",
+            "abbr": "NE",
+            "county": "Holt County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "793",
+      "fte": "71.42",
+      "pupilTeacherRatio": "11.1",
+      "numberOfSchools": "2"
+   },
+   {
+      "name": "Oakland Craig Public Schools",
+      "location": {
+         "state": {
+            "name": "Nebraska",
+            "abbr": "NE",
+            "county": "Burt County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "451",
+      "fte": "38.23",
+      "pupilTeacherRatio": "11.8",
+      "numberOfSchools": "2"
+   },
+   {
+      "name": "Ogallala Public Schools",
+      "location": {
+         "state": {
+            "name": "Nebraska",
+            "abbr": "NE",
+            "county": "Keith County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "911",
+      "fte": "73.31",
+      "pupilTeacherRatio": "12.43",
+      "numberOfSchools": "2"
+   },
+   {
+      "name": "Omaha Home for Boys School",
+      "location": {
+         "state": {
+            "name": "NEBRASKA",
+            "abbr": "NE",
+            "county": "Douglas County"
+         }
+      },
+      "type": "8-Other education agencies",
+      "grades": {
+         "lowest": "†",
+         "highest": "†"
+      },
+      "students": "0",
+      "fte": "3",
+      "pupilTeacherRatio": "0",
+      "numberOfSchools": "1"
+   },
+   {
+      "name": "Omaha Public Schools",
+      "location": {
+         "state": {
+            "name": "Nebraska",
+            "abbr": "NE",
+            "county": "Douglas County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "53483",
+      "fte": "3498.07",
+      "pupilTeacherRatio": "15.29",
+      "numberOfSchools": "106"
+   },
+   {
+      "name": "Ord Public Schools",
+      "location": {
+         "state": {
+            "name": "Nebraska",
+            "abbr": "NE",
+            "county": "Valley County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "600",
+      "fte": "47.45",
+      "pupilTeacherRatio": "12.64",
+      "numberOfSchools": "2"
+   },
+   {
+      "name": "Osceola Public Schools",
+      "location": {
+         "state": {
+            "name": "Nebraska",
+            "abbr": "NE",
+            "county": "Polk County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "214",
+      "fte": "22.79",
+      "pupilTeacherRatio": "9.39",
+      "numberOfSchools": "3"
+   },
+   {
+      "name": "Osmond Community Schools",
+      "location": {
+         "state": {
+            "name": "Nebraska",
+            "abbr": "NE",
+            "county": "Pierce County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "197",
+      "fte": "22.77",
+      "pupilTeacherRatio": "8.65",
+      "numberOfSchools": "2"
+   },
+   {
+      "name": "Overton Public Schools",
+      "location": {
+         "state": {
+            "name": "Nebraska",
+            "abbr": "NE",
+            "county": "Dawson County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "303",
+      "fte": "26.82",
+      "pupilTeacherRatio": "11.3",
+      "numberOfSchools": "2"
+   },
+   {
+      "name": "Palmer Public Schools",
+      "location": {
+         "state": {
+            "name": "Nebraska",
+            "abbr": "NE",
+            "county": "Merrick County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "326",
+      "fte": "23.58",
+      "pupilTeacherRatio": "13.83",
+      "numberOfSchools": "2"
+   },
+   {
+      "name": "Palmyra District O R 1",
+      "location": {
+         "state": {
+            "name": "Nebraska",
+            "abbr": "NE",
+            "county": "Otoe County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "626",
+      "fte": "45.58",
+      "pupilTeacherRatio": "13.73",
+      "numberOfSchools": "2"
+   },
+   {
+      "name": "Papillion La Vista Community Schools",
+      "location": {
+         "state": {
+            "name": "Nebraska",
+            "abbr": "NE",
+            "county": "Sarpy County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "12190",
+      "fte": "786.31",
+      "pupilTeacherRatio": "15.5",
+      "numberOfSchools": "21"
+   },
+   {
+      "name": "Pathfinder Ed Prg-Lancaster Co",
+      "location": {
+         "state": {
+            "name": "Nebraska",
+            "abbr": "NE",
+            "county": "Lancaster County"
+         }
+      },
+      "type": "8-Other education agencies",
+      "grades": {
+         "lowest": "†",
+         "highest": "†"
+      },
+      "students": "0",
+      "fte": "0",
+      "pupilTeacherRatio": "†",
+      "numberOfSchools": "1"
+   },
+   {
+      "name": "Patrick J Thomas Juvenile Justice Cntr",
+      "location": {
+         "state": {
+            "name": "Nebraska",
+            "abbr": "NE",
+            "county": "Sarpy County"
+         }
+      },
+      "type": "8-Other education agencies",
+      "grades": {
+         "lowest": "†",
+         "highest": "†"
+      },
+      "students": "0",
+      "fte": "1.26",
+      "pupilTeacherRatio": "0",
+      "numberOfSchools": "1"
+   },
+   {
+      "name": "Pawnee City Public Schools",
+      "location": {
+         "state": {
+            "name": "Nebraska",
+            "abbr": "NE",
+            "county": "Pawnee County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "300",
+      "fte": "26.44",
+      "pupilTeacherRatio": "11.35",
+      "numberOfSchools": "2"
+   },
+   {
+      "name": "Paxton Consolidated Schools",
+      "location": {
+         "state": {
+            "name": "Nebraska",
+            "abbr": "NE",
+            "county": "Keith County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "225",
+      "fte": "20.63",
+      "pupilTeacherRatio": "10.91",
+      "numberOfSchools": "2"
+   },
+   {
+      "name": "Pender Public Schools",
+      "location": {
+         "state": {
+            "name": "Nebraska",
+            "abbr": "NE",
+            "county": "Thurston County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "393",
+      "fte": "34.33",
+      "pupilTeacherRatio": "11.45",
+      "numberOfSchools": "2"
+   },
+   {
+      "name": "Perkins County Schools",
+      "location": {
+         "state": {
+            "name": "Nebraska",
+            "abbr": "NE",
+            "county": "Perkins County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "414",
+      "fte": "38.8",
+      "pupilTeacherRatio": "10.67",
+      "numberOfSchools": "2"
+   },
+   {
+      "name": "Pierce Public Schools",
+      "location": {
+         "state": {
+            "name": "Nebraska",
+            "abbr": "NE",
+            "county": "Pierce County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "683",
+      "fte": "46.29",
+      "pupilTeacherRatio": "14.75",
+      "numberOfSchools": "2"
+   },
+   {
+      "name": "Pine Ridge Job Corps",
+      "location": {
+         "state": {
+            "name": "Nebraska",
+            "abbr": "NE",
+            "county": "Dawes County"
+         }
+      },
+      "type": "5-State agency providing elementary and/or secondary level instruction",
+      "grades": {
+         "lowest": "10th Grade",
+         "highest": "12th Grade"
+      },
+      "students": "79",
+      "fte": "3",
+      "pupilTeacherRatio": "26.33",
+      "numberOfSchools": "1"
+   },
+   {
+      "name": "Plainview Public Schools",
+      "location": {
+         "state": {
+            "name": "Nebraska",
+            "abbr": "NE",
+            "county": "Pierce County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "324",
+      "fte": "30.29",
+      "pupilTeacherRatio": "10.7",
+      "numberOfSchools": "2"
+   },
+   {
+      "name": "Plattsmouth Community Schools",
+      "location": {
+         "state": {
+            "name": "Nebraska",
+            "abbr": "NE",
+            "county": "Cass County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "1621",
+      "fte": "124.05",
+      "pupilTeacherRatio": "13.07",
+      "numberOfSchools": "4"
+   },
+   {
+      "name": "Pleasanton Public Schools",
+      "location": {
+         "state": {
+            "name": "Nebraska",
+            "abbr": "NE",
+            "county": "Buffalo County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "288",
+      "fte": "21.12",
+      "pupilTeacherRatio": "13.64",
+      "numberOfSchools": "2"
+   },
+   {
+      "name": "Ponca Public Schools",
+      "location": {
+         "state": {
+            "name": "Nebraska",
+            "abbr": "NE",
+            "county": "Dixon County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "453",
+      "fte": "39.1",
+      "pupilTeacherRatio": "11.59",
+      "numberOfSchools": "3"
+   },
+   {
+      "name": "Potter-Dix Public Schools",
+      "location": {
+         "state": {
+            "name": "Nebraska",
+            "abbr": "NE",
+            "county": "Cheyenne County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "185",
+      "fte": "21",
+      "pupilTeacherRatio": "8.81",
+      "numberOfSchools": "2"
+   },
+   {
+      "name": "Ralston Public Schools",
+      "location": {
+         "state": {
+            "name": "Nebraska",
+            "abbr": "NE",
+            "county": "Douglas County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "3378",
+      "fte": "228.32",
+      "pupilTeacherRatio": "14.8",
+      "numberOfSchools": "8"
+   },
+   {
+      "name": "Randolph Public Schools",
+      "location": {
+         "state": {
+            "name": "Nebraska",
+            "abbr": "NE",
+            "county": "Cedar County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "270",
+      "fte": "24.09",
+      "pupilTeacherRatio": "11.21",
+      "numberOfSchools": "2"
+   },
+   {
+      "name": "Ravenna Public Schools",
+      "location": {
+         "state": {
+            "name": "Nebraska",
+            "abbr": "NE",
+            "county": "Buffalo County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "437",
+      "fte": "40.5",
+      "pupilTeacherRatio": "10.79",
+      "numberOfSchools": "2"
+   },
+   {
+      "name": "Raymond Central Public Schools",
+      "location": {
+         "state": {
+            "name": "Nebraska",
+            "abbr": "NE",
+            "county": "Lancaster County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "683",
+      "fte": "51.07",
+      "pupilTeacherRatio": "13.37",
+      "numberOfSchools": "5"
+   },
+   {
+      "name": "Red Cloud Community Schools",
+      "location": {
+         "state": {
+            "name": "Nebraska",
+            "abbr": "NE",
+            "county": "Webster County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "265",
+      "fte": "24.58",
+      "pupilTeacherRatio": "10.78",
+      "numberOfSchools": "2"
+   },
+   {
+      "name": "Riverside Public Schools",
+      "location": {
+         "state": {
+            "name": "NEBRASKA",
+            "abbr": "NE",
+            "county": "Greeley County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "248",
+      "fte": "31.13",
+      "pupilTeacherRatio": "7.97",
+      "numberOfSchools": "4"
+   },
+   {
+      "name": "Rock County Public Schools",
+      "location": {
+         "state": {
+            "name": "Nebraska",
+            "abbr": "NE",
+            "county": "Rock County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "248",
+      "fte": "25.02",
+      "pupilTeacherRatio": "9.91",
+      "numberOfSchools": "3"
+   },
+   {
+      "name": "Sandhills Public Schools",
+      "location": {
+         "state": {
+            "name": "Nebraska",
+            "abbr": "NE",
+            "county": "Blaine County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "90",
+      "fte": "15.65",
+      "pupilTeacherRatio": "5.75",
+      "numberOfSchools": "2"
+   },
+   {
+      "name": "Santee Community Schools",
+      "location": {
+         "state": {
+            "name": "Nebraska",
+            "abbr": "NE",
+            "county": "Knox County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "205",
+      "fte": "32.52",
+      "pupilTeacherRatio": "6.3",
+      "numberOfSchools": "2"
+   },
+   {
+      "name": "Sargent Public Schools",
+      "location": {
+         "state": {
+            "name": "Nebraska",
+            "abbr": "NE",
+            "county": "Custer County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "173",
+      "fte": "18.9",
+      "pupilTeacherRatio": "9.15",
+      "numberOfSchools": "2"
+   },
+   {
+      "name": "Schuyler Community Schools",
+      "location": {
+         "state": {
+            "name": "Nebraska",
+            "abbr": "NE",
+            "county": "Colfax County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "2026",
+      "fte": "142.18",
+      "pupilTeacherRatio": "14.25",
+      "numberOfSchools": "7"
+   },
+   {
+      "name": "Scottsbluff Public Schools",
+      "location": {
+         "state": {
+            "name": "Nebraska",
+            "abbr": "NE",
+            "county": "Scotts Bluff County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "3527",
+      "fte": "218.24",
+      "pupilTeacherRatio": "16.16",
+      "numberOfSchools": "8"
+   },
+   {
+      "name": "Scribner-Snyder Community Schs",
+      "location": {
+         "state": {
+            "name": "Nebraska",
+            "abbr": "NE",
+            "county": "Dodge County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "206",
+      "fte": "24.5",
+      "pupilTeacherRatio": "8.41",
+      "numberOfSchools": "2"
+   },
+   {
+      "name": "Seward Public Schools",
+      "location": {
+         "state": {
+            "name": "Nebraska",
+            "abbr": "NE",
+            "county": "Seward County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "1529",
+      "fte": "100.65",
+      "pupilTeacherRatio": "15.19",
+      "numberOfSchools": "3"
+   },
+   {
+      "name": "Shelby - Rising City Public Schools",
+      "location": {
+         "state": {
+            "name": "Nebraska",
+            "abbr": "NE",
+            "county": "Polk County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "404",
+      "fte": "37.93",
+      "pupilTeacherRatio": "10.65",
+      "numberOfSchools": "3"
+   },
+   {
+      "name": "Shelton Public Schools",
+      "location": {
+         "state": {
+            "name": "Nebraska",
+            "abbr": "NE",
+            "county": "Buffalo County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "285",
+      "fte": "26.45",
+      "pupilTeacherRatio": "10.78",
+      "numberOfSchools": "2"
+   },
+   {
+      "name": "Shickley Public Schools",
+      "location": {
+         "state": {
+            "name": "Nebraska",
+            "abbr": "NE",
+            "county": "Fillmore County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "173",
+      "fte": "23.07",
+      "pupilTeacherRatio": "7.5",
+      "numberOfSchools": "2"
+   },
+   {
+      "name": "Sidney Public Schools",
+      "location": {
+         "state": {
+            "name": "Nebraska",
+            "abbr": "NE",
+            "county": "Cheyenne County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "1371",
+      "fte": "86.96",
+      "pupilTeacherRatio": "15.77",
+      "numberOfSchools": "7"
+   },
+   {
+      "name": "Silver Lake Public Schools",
+      "location": {
+         "state": {
+            "name": "Nebraska",
+            "abbr": "NE",
+            "county": "Adams County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "260",
+      "fte": "25.75",
+      "pupilTeacherRatio": "10.1",
+      "numberOfSchools": "2"
+   },
+   {
+      "name": "Sioux County Public Schools",
+      "location": {
+         "state": {
+            "name": "Nebraska",
+            "abbr": "NE",
+            "county": "Sioux County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "90",
+      "fte": "13.79",
+      "pupilTeacherRatio": "6.53",
+      "numberOfSchools": "4"
+   },
+   {
+      "name": "So Sioux City Community Schs",
+      "location": {
+         "state": {
+            "name": "Nebraska",
+            "abbr": "NE",
+            "county": "Dakota County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "3838",
+      "fte": "290.76",
+      "pupilTeacherRatio": "13.2",
+      "numberOfSchools": "8"
+   },
+   {
+      "name": "South Central Nebraska Unified 5",
+      "location": {
+         "state": {
+            "name": "Nebraska",
+            "abbr": "NE",
+            "county": "Clay County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "684",
+      "fte": "69.91",
+      "pupilTeacherRatio": "9.78",
+      "numberOfSchools": "8"
+   },
+   {
+      "name": "South Platte Public Schools",
+      "location": {
+         "state": {
+            "name": "Nebraska",
+            "abbr": "NE",
+            "county": "Deuel County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "199",
+      "fte": "15.55",
+      "pupilTeacherRatio": "12.8",
+      "numberOfSchools": "2"
+   },
+   {
+      "name": "Southern School District 1",
+      "location": {
+         "state": {
+            "name": "Nebraska",
+            "abbr": "NE",
+            "county": "Gage County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "390",
+      "fte": "37.06",
+      "pupilTeacherRatio": "10.52",
+      "numberOfSchools": "3"
+   },
+   {
+      "name": "Southern Valley Schools",
+      "location": {
+         "state": {
+            "name": "Nebraska",
+            "abbr": "NE",
+            "county": "Furnas County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "359",
+      "fte": "39.25",
+      "pupilTeacherRatio": "9.15",
+      "numberOfSchools": "2"
+   },
+   {
+      "name": "Southwest Public Schools",
+      "location": {
+         "state": {
+            "name": "Nebraska",
+            "abbr": "NE",
+            "county": "Red Willow County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "274",
+      "fte": "31.9",
+      "pupilTeacherRatio": "8.59",
+      "numberOfSchools": "2"
+   },
+   {
+      "name": "Springfield Platteview Community Schools",
+      "location": {
+         "state": {
+            "name": "Nebraska",
+            "abbr": "NE",
+            "county": "Sarpy County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "1152",
+      "fte": "91.83",
+      "pupilTeacherRatio": "12.54",
+      "numberOfSchools": "4"
+   },
+   {
+      "name": "St Edward Public Schools",
+      "location": {
+         "state": {
+            "name": "Nebraska",
+            "abbr": "NE",
+            "county": "Boone County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "177",
+      "fte": "23.85",
+      "pupilTeacherRatio": "7.42",
+      "numberOfSchools": "2"
+   },
+   {
+      "name": "St Paul Public Schools",
+      "location": {
+         "state": {
+            "name": "Nebraska",
+            "abbr": "NE",
+            "county": "Howard County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "703",
+      "fte": "53.19",
+      "pupilTeacherRatio": "13.22",
+      "numberOfSchools": "2"
+   },
+   {
+      "name": "Stanton Community Schools",
+      "location": {
+         "state": {
+            "name": "Nebraska",
+            "abbr": "NE",
+            "county": "Stanton County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "405",
+      "fte": "37.7",
+      "pupilTeacherRatio": "10.74",
+      "numberOfSchools": "2"
+   },
+   {
+      "name": "Stapleton Public Schools",
+      "location": {
+         "state": {
+            "name": "Nebraska",
+            "abbr": "NE",
+            "county": "Logan County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "204",
+      "fte": "21.98",
+      "pupilTeacherRatio": "9.28",
+      "numberOfSchools": "2"
+   },
+   {
+      "name": "Sterling Public Schools",
+      "location": {
+         "state": {
+            "name": "Nebraska",
+            "abbr": "NE",
+            "county": "Johnson County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "215",
+      "fte": "23.76",
+      "pupilTeacherRatio": "9.05",
+      "numberOfSchools": "2"
+   },
+   {
+      "name": "Stuart Public Schools",
+      "location": {
+         "state": {
+            "name": "Nebraska",
+            "abbr": "NE",
+            "county": "Holt County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "186",
+      "fte": "20.58",
+      "pupilTeacherRatio": "9.04",
+      "numberOfSchools": "2"
+   },
+   {
+      "name": "Sumner-Eddyville-Miller Schs",
+      "location": {
+         "state": {
+            "name": "Nebraska",
+            "abbr": "NE",
+            "county": "Dawson County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "216",
+      "fte": "21.06",
+      "pupilTeacherRatio": "10.26",
+      "numberOfSchools": "2"
+   },
+   {
+      "name": "Superior Public Schools",
+      "location": {
+         "state": {
+            "name": "Nebraska",
+            "abbr": "NE",
+            "county": "Nuckolls County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "423",
+      "fte": "38.6",
+      "pupilTeacherRatio": "10.96",
+      "numberOfSchools": "2"
+   },
+   {
+      "name": "Sutherland Public Schools",
+      "location": {
+         "state": {
+            "name": "Nebraska",
+            "abbr": "NE",
+            "county": "Lincoln County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "327",
+      "fte": "27.82",
+      "pupilTeacherRatio": "11.75",
+      "numberOfSchools": "2"
+   },
+   {
+      "name": "Sutton Public Schools",
+      "location": {
+         "state": {
+            "name": "Nebraska",
+            "abbr": "NE",
+            "county": "Clay County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "401",
+      "fte": "38.19",
+      "pupilTeacherRatio": "10.5",
+      "numberOfSchools": "2"
+   },
+   {
+      "name": "Syracuse-Dunbar-Avoca Schools",
+      "location": {
+         "state": {
+            "name": "Nebraska",
+            "abbr": "NE",
+            "county": "Otoe County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "779",
+      "fte": "58.89",
+      "pupilTeacherRatio": "13.23",
+      "numberOfSchools": "3"
+   },
+   {
+      "name": "Tekamah-Herman Community Schs",
+      "location": {
+         "state": {
+            "name": "Nebraska",
+            "abbr": "NE",
+            "county": "Burt County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "520",
+      "fte": "47.64",
+      "pupilTeacherRatio": "10.92",
+      "numberOfSchools": "2"
+   },
+   {
+      "name": "Thayer Central Community Schs",
+      "location": {
+         "state": {
+            "name": "Nebraska",
+            "abbr": "NE",
+            "county": "Thayer County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "454",
+      "fte": "36.68",
+      "pupilTeacherRatio": "12.38",
+      "numberOfSchools": "2"
+   },
+   {
+      "name": "Thedford Public Schools",
+      "location": {
+         "state": {
+            "name": "Nebraska",
+            "abbr": "NE",
+            "county": "Thomas County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "138",
+      "fte": "17.07",
+      "pupilTeacherRatio": "8.08",
+      "numberOfSchools": "2"
+   },
+   {
+      "name": "Tri County Public Schools",
+      "location": {
+         "state": {
+            "name": "Nebraska",
+            "abbr": "NE",
+            "county": "Jefferson County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "433",
+      "fte": "37.38",
+      "pupilTeacherRatio": "11.58",
+      "numberOfSchools": "2"
+   },
+   {
+      "name": "Twin River Public Schools",
+      "location": {
+         "state": {
+            "name": "Nebraska",
+            "abbr": "NE",
+            "county": "Nance County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "432",
+      "fte": "40.75",
+      "pupilTeacherRatio": "10.6",
+      "numberOfSchools": "2"
+   },
+   {
+      "name": "Umo N Ho N Nation Public Schs",
+      "location": {
+         "state": {
+            "name": "Nebraska",
+            "abbr": "NE",
+            "county": "Thurston County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "582",
+      "fte": "69.59",
+      "pupilTeacherRatio": "8.36",
+      "numberOfSchools": "3"
+   },
+   {
+      "name": "University of Nebraska High School",
+      "location": {
+         "state": {
+            "name": "Nebraska",
+            "abbr": "NE",
+            "county": "Lancaster County"
+         }
+      },
+      "type": "5-State agency providing elementary and/or secondary level instruction",
+      "grades": {
+         "lowest": "9th Grade",
+         "highest": "12th Grade"
+      },
+      "students": "153",
+      "fte": "17.01",
+      "pupilTeacherRatio": "8.99",
+      "numberOfSchools": "1"
+   },
+   {
+      "name": "Uta Halee Academy Program",
+      "location": {
+         "state": {
+            "name": "Nebraska",
+            "abbr": "NE",
+            "county": "Douglas County"
+         }
+      },
+      "type": "8-Other education agencies",
+      "grades": {
+         "lowest": "†",
+         "highest": "†"
+      },
+      "students": "0",
+      "fte": "4.05",
+      "pupilTeacherRatio": "0",
+      "numberOfSchools": "1"
+   },
+   {
+      "name": "Valentine Community Schools",
+      "location": {
+         "state": {
+            "name": "Nebraska",
+            "abbr": "NE",
+            "county": "Cherry County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "616",
+      "fte": "64.3",
+      "pupilTeacherRatio": "9.58",
+      "numberOfSchools": "6"
+   },
+   {
+      "name": "Wahoo Public Schools",
+      "location": {
+         "state": {
+            "name": "Nebraska",
+            "abbr": "NE",
+            "county": "Saunders County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "1066",
+      "fte": "75.39",
+      "pupilTeacherRatio": "14.14",
+      "numberOfSchools": "4"
+   },
+   {
+      "name": "Wakefield Public Schools",
+      "location": {
+         "state": {
+            "name": "Nebraska",
+            "abbr": "NE",
+            "county": "Wayne County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "550",
+      "fte": "39.96",
+      "pupilTeacherRatio": "13.76",
+      "numberOfSchools": "2"
+   },
+   {
+      "name": "Wallace Public Sch Dist 65 R",
+      "location": {
+         "state": {
+            "name": "Nebraska",
+            "abbr": "NE",
+            "county": "Lincoln County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "178",
+      "fte": "22.03",
+      "pupilTeacherRatio": "8.08",
+      "numberOfSchools": "2"
+   },
+   {
+      "name": "Walthill Public Schools",
+      "location": {
+         "state": {
+            "name": "Nebraska",
+            "abbr": "NE",
+            "county": "Thurston County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "289",
+      "fte": "42.4",
+      "pupilTeacherRatio": "6.82",
+      "numberOfSchools": "2"
+   },
+   {
+      "name": "Wauneta-Palisade Public Schs",
+      "location": {
+         "state": {
+            "name": "Nebraska",
+            "abbr": "NE",
+            "county": "Chase County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "218",
+      "fte": "20.97",
+      "pupilTeacherRatio": "10.4",
+      "numberOfSchools": "3"
+   },
+   {
+      "name": "Wausa Public Schools",
+      "location": {
+         "state": {
+            "name": "Nebraska",
+            "abbr": "NE",
+            "county": "Knox County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "246",
+      "fte": "20.14",
+      "pupilTeacherRatio": "12.21",
+      "numberOfSchools": "2"
+   },
+   {
+      "name": "Waverly School District 145",
+      "location": {
+         "state": {
+            "name": "Nebraska",
+            "abbr": "NE",
+            "county": "Lancaster County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "2142",
+      "fte": "137",
+      "pupilTeacherRatio": "15.64",
+      "numberOfSchools": "5"
+   },
+   {
+      "name": "Wayne Community Schools",
+      "location": {
+         "state": {
+            "name": "Nebraska",
+            "abbr": "NE",
+            "county": "Wayne County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "982",
+      "fte": "61.01",
+      "pupilTeacherRatio": "16.1",
+      "numberOfSchools": "4"
+   },
+   {
+      "name": "Weeping Water Public Schools",
+      "location": {
+         "state": {
+            "name": "Nebraska",
+            "abbr": "NE",
+            "county": "Cass County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "306",
+      "fte": "30.28",
+      "pupilTeacherRatio": "10.11",
+      "numberOfSchools": "3"
+   },
+   {
+      "name": "West Holt Public Schools",
+      "location": {
+         "state": {
+            "name": "Nebraska",
+            "abbr": "NE",
+            "county": "Holt County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "447",
+      "fte": "41.99",
+      "pupilTeacherRatio": "10.65",
+      "numberOfSchools": "4"
+   },
+   {
+      "name": "West Kearney High School",
+      "location": {
+         "state": {
+            "name": "Nebraska",
+            "abbr": "NE",
+            "county": "Buffalo County"
+         }
+      },
+      "type": "5-State agency providing elementary and/or secondary level instruction",
+      "grades": {
+         "lowest": "7th Grade",
+         "highest": "12th Grade"
+      },
+      "students": "86",
+      "fte": "15",
+      "pupilTeacherRatio": "5.73",
+      "numberOfSchools": "1"
+   },
+   {
+      "name": "West Point Public Schools",
+      "location": {
+         "state": {
+            "name": "Nebraska",
+            "abbr": "NE",
+            "county": "Cuming County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "728",
+      "fte": "61.3",
+      "pupilTeacherRatio": "11.88",
+      "numberOfSchools": "3"
+   },
+   {
+      "name": "Westside Community Schools",
+      "location": {
+         "state": {
+            "name": "Nebraska",
+            "abbr": "NE",
+            "county": "Douglas County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "6094",
+      "fte": "427.44",
+      "pupilTeacherRatio": "14.26",
+      "numberOfSchools": "14"
+   },
+   {
+      "name": "Wheeler Central Schools",
+      "location": {
+         "state": {
+            "name": "Nebraska",
+            "abbr": "NE",
+            "county": "Wheeler County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "105",
+      "fte": "17.63",
+      "pupilTeacherRatio": "5.96",
+      "numberOfSchools": "2"
+   },
+   {
+      "name": "Wilber-Clatonia Public Schools",
+      "location": {
+         "state": {
+            "name": "Nebraska",
+            "abbr": "NE",
+            "county": "Saline County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "628",
+      "fte": "42.63",
+      "pupilTeacherRatio": "14.73",
+      "numberOfSchools": "2"
+   },
+   {
+      "name": "Wilcox-Hildreth Public Schools",
+      "location": {
+         "state": {
+            "name": "Nebraska",
+            "abbr": "NE",
+            "county": "Kearney County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "213",
+      "fte": "24.28",
+      "pupilTeacherRatio": "8.77",
+      "numberOfSchools": "3"
+   },
+   {
+      "name": "Winnebago Public Schools District 17",
+      "location": {
+         "state": {
+            "name": "Nebraska",
+            "abbr": "NE",
+            "county": "Thurston County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "602",
+      "fte": "73.88",
+      "pupilTeacherRatio": "8.15",
+      "numberOfSchools": "2"
+   },
+   {
+      "name": "Winside Public Schools",
+      "location": {
+         "state": {
+            "name": "Nebraska",
+            "abbr": "NE",
+            "county": "Wayne County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "212",
+      "fte": "25.64",
+      "pupilTeacherRatio": "8.27",
+      "numberOfSchools": "2"
+   },
+   {
+      "name": "Wisner-Pilger Public Schools",
+      "location": {
+         "state": {
+            "name": "Nebraska",
+            "abbr": "NE",
+            "county": "Cuming County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "440",
+      "fte": "40.45",
+      "pupilTeacherRatio": "10.88",
+      "numberOfSchools": "2"
+   },
+   {
+      "name": "Wood River Rural Schools",
+      "location": {
+         "state": {
+            "name": "Nebraska",
+            "abbr": "NE",
+            "county": "Hall County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "521",
+      "fte": "47.26",
+      "pupilTeacherRatio": "11.02",
+      "numberOfSchools": "3"
+   },
+   {
+      "name": "Wynot Public Schools",
+      "location": {
+         "state": {
+            "name": "Nebraska",
+            "abbr": "NE",
+            "county": "Cedar County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "187",
+      "fte": "16.99",
+      "pupilTeacherRatio": "11.01",
+      "numberOfSchools": "3"
+   },
+   {
+      "name": "York Public Schools",
+      "location": {
+         "state": {
+            "name": "Nebraska",
+            "abbr": "NE",
+            "county": "York County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "1484",
+      "fte": "91.42",
+      "pupilTeacherRatio": "16.23",
+      "numberOfSchools": "4"
+   },
+   {
+      "name": "Youth Care and Beyond Learning Center",
+      "location": {
+         "state": {
+            "name": "NEBRASKA",
+            "abbr": "NE",
+            "county": "Douglas County"
+         }
+      },
+      "type": "8-Other education agencies",
+      "grades": {
+         "lowest": "†",
+         "highest": "†"
+      },
+      "students": "0",
+      "fte": "0.01",
+      "pupilTeacherRatio": "0",
+      "numberOfSchools": "1"
+   },
+   {
+      "name": "Yutan Public Schools",
+      "location": {
+         "state": {
+            "name": "Nebraska",
+            "abbr": "NE",
+            "county": "Saunders County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "480",
+      "fte": "39.8",
+      "pupilTeacherRatio": "12.06",
+      "numberOfSchools": "2"
+   }
+]

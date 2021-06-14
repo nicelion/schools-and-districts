@@ -1,0 +1,401 @@
+[
+   {
+      "name": "Achievement School District",
+      "location": {
+         "state": {
+            "name": "NEVADA",
+            "abbr": "NV",
+            "county": "Clark County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Kindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "1796",
+      "fte": "38",
+      "pupilTeacherRatio": "47.26",
+      "numberOfSchools": "6"
+   },
+   {
+      "name": "Carson City School District",
+      "location": {
+         "state": {
+            "name": "Nevada",
+            "abbr": "NV",
+            "county": "Carson City"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "8133",
+      "fte": "555",
+      "pupilTeacherRatio": "14.65",
+      "numberOfSchools": "13"
+   },
+   {
+      "name": "Churchill County School District",
+      "location": {
+         "state": {
+            "name": "Nevada",
+            "abbr": "NV",
+            "county": "Churchill County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "3361",
+      "fte": "179.5",
+      "pupilTeacherRatio": "18.72",
+      "numberOfSchools": "7"
+   },
+   {
+      "name": "Clark County School District",
+      "location": {
+         "state": {
+            "name": "Nevada",
+            "abbr": "NV",
+            "county": "Clark County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "328991",
+      "fte": "16490",
+      "pupilTeacherRatio": "19.95",
+      "numberOfSchools": "374"
+   },
+   {
+      "name": "Correctional School District",
+      "location": {
+         "state": {
+            "name": "NEVADA",
+            "abbr": "NV",
+            "county": "Elko County"
+         }
+      },
+      "type": "8-Other education agencies",
+      "grades": {
+         "lowest": "6th Grade",
+         "highest": "12th Grade"
+      },
+      "students": "43",
+      "fte": "0",
+      "pupilTeacherRatio": "†",
+      "numberOfSchools": "1"
+   },
+   {
+      "name": "Davidson Academy  School District",
+      "location": {
+         "state": {
+            "name": "Nevada",
+            "abbr": "NV",
+            "county": "Washoe County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "5th Grade",
+         "highest": "12th Grade"
+      },
+      "students": "178",
+      "fte": "42",
+      "pupilTeacherRatio": "4.24",
+      "numberOfSchools": "1"
+   },
+   {
+      "name": "Douglas County School District",
+      "location": {
+         "state": {
+            "name": "Nevada",
+            "abbr": "NV",
+            "county": "Douglas County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "5786",
+      "fte": "407",
+      "pupilTeacherRatio": "14.22",
+      "numberOfSchools": "15"
+   },
+   {
+      "name": "Elko County School District",
+      "location": {
+         "state": {
+            "name": "Nevada",
+            "abbr": "NV",
+            "county": "Elko County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "10247",
+      "fte": "525",
+      "pupilTeacherRatio": "19.52",
+      "numberOfSchools": "34"
+   },
+   {
+      "name": "Esmeralda County School District",
+      "location": {
+         "state": {
+            "name": "Nevada",
+            "abbr": "NV",
+            "county": "Esmeralda County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "8th Grade"
+      },
+      "students": "81",
+      "fte": "7",
+      "pupilTeacherRatio": "11.57",
+      "numberOfSchools": "3"
+   },
+   {
+      "name": "Eureka County School District",
+      "location": {
+         "state": {
+            "name": "Nevada",
+            "abbr": "NV",
+            "county": "Eureka County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "349",
+      "fte": "62",
+      "pupilTeacherRatio": "5.63",
+      "numberOfSchools": "3"
+   },
+   {
+      "name": "Humboldt County School District",
+      "location": {
+         "state": {
+            "name": "Nevada",
+            "abbr": "NV",
+            "county": "Humboldt County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "3484",
+      "fte": "250",
+      "pupilTeacherRatio": "13.94",
+      "numberOfSchools": "14"
+   },
+   {
+      "name": "Lander County School District",
+      "location": {
+         "state": {
+            "name": "Nevada",
+            "abbr": "NV",
+            "county": "Lander County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "1034",
+      "fte": "53",
+      "pupilTeacherRatio": "19.51",
+      "numberOfSchools": "5"
+   },
+   {
+      "name": "Lincoln County School District",
+      "location": {
+         "state": {
+            "name": "Nevada",
+            "abbr": "NV",
+            "county": "Lincoln County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "951",
+      "fte": "85",
+      "pupilTeacherRatio": "11.19",
+      "numberOfSchools": "11"
+   },
+   {
+      "name": "Lyon County School District",
+      "location": {
+         "state": {
+            "name": "Nevada",
+            "abbr": "NV",
+            "county": "Lyon County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "9034",
+      "fte": "498",
+      "pupilTeacherRatio": "18.14",
+      "numberOfSchools": "20"
+   },
+   {
+      "name": "Mineral County School District",
+      "location": {
+         "state": {
+            "name": "Nevada",
+            "abbr": "NV",
+            "county": "Mineral County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "562",
+      "fte": "36",
+      "pupilTeacherRatio": "15.61",
+      "numberOfSchools": "5"
+   },
+   {
+      "name": "Nye County School District",
+      "location": {
+         "state": {
+            "name": "Nevada",
+            "abbr": "NV",
+            "county": "Nye County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "5582",
+      "fte": "329",
+      "pupilTeacherRatio": "16.97",
+      "numberOfSchools": "28"
+   },
+   {
+      "name": "Pershing County School District",
+      "location": {
+         "state": {
+            "name": "Nevada",
+            "abbr": "NV",
+            "county": "Pershing County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "674",
+      "fte": "72",
+      "pupilTeacherRatio": "9.36",
+      "numberOfSchools": "5"
+   },
+   {
+      "name": "State-Sponsored Charter Schools",
+      "location": {
+         "state": {
+            "name": "Nevada",
+            "abbr": "NV",
+            "county": "Carson City"
+         }
+      },
+      "type": "7-Independent Charter District",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "47624",
+      "fte": "1916",
+      "pupilTeacherRatio": "24.86",
+      "numberOfSchools": "56"
+   },
+   {
+      "name": "Storey County School District",
+      "location": {
+         "state": {
+            "name": "Nevada",
+            "abbr": "NV",
+            "county": "Storey County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "449",
+      "fte": "44",
+      "pupilTeacherRatio": "10.2",
+      "numberOfSchools": "4"
+   },
+   {
+      "name": "Washoe County School District",
+      "location": {
+         "state": {
+            "name": "Nevada",
+            "abbr": "NV",
+            "county": "Washoe County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "67301",
+      "fte": "3875",
+      "pupilTeacherRatio": "17.37",
+      "numberOfSchools": "110"
+   },
+   {
+      "name": "White Pine County School District",
+      "location": {
+         "state": {
+            "name": "Nevada",
+            "abbr": "NV",
+            "county": "White Pine County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "1274",
+      "fte": "45",
+      "pupilTeacherRatio": "28.31",
+      "numberOfSchools": "11"
+   }
+]

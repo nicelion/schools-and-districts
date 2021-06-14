@@ -1,0 +1,2776 @@
+[
+   {
+      "name": "Abq School of Excellence",
+      "location": {
+         "state": {
+            "name": "New Mexico",
+            "abbr": "NM",
+            "county": "Bernalillo County"
+         }
+      },
+      "type": "7-Independent Charter District",
+      "grades": {
+         "lowest": "1st Grade",
+         "highest": "12th Grade"
+      },
+      "students": "689",
+      "fte": "44.65",
+      "pupilTeacherRatio": "15.43",
+      "numberOfSchools": "1"
+   },
+   {
+      "name": "Abq Sign Language Academy",
+      "location": {
+         "state": {
+            "name": "New Mexico",
+            "abbr": "NM",
+            "county": "Bernalillo County"
+         }
+      },
+      "type": "7-Independent Charter District",
+      "grades": {
+         "lowest": "Kindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "103",
+      "fte": "11.01",
+      "pupilTeacherRatio": "9.36",
+      "numberOfSchools": "1"
+   },
+   {
+      "name": "Aces Technical Charter School",
+      "location": {
+         "state": {
+            "name": "NEW MEXICO",
+            "abbr": "NM",
+            "county": "Bernalillo County"
+         }
+      },
+      "type": "7-Independent Charter District",
+      "grades": {
+         "lowest": "–",
+         "highest": "–"
+      },
+      "students": "†",
+      "fte": "†",
+      "pupilTeacherRatio": "†",
+      "numberOfSchools": "0"
+   },
+   {
+      "name": "Alamogordo Public Schools",
+      "location": {
+         "state": {
+            "name": "New Mexico",
+            "abbr": "NM",
+            "county": "Otero County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "5901",
+      "fte": "350.86",
+      "pupilTeacherRatio": "16.82",
+      "numberOfSchools": "14"
+   },
+   {
+      "name": "Albuquerque Collegiate Charter School",
+      "location": {
+         "state": {
+            "name": "NEW MEXICO",
+            "abbr": "NM",
+            "county": "Bernalillo County"
+         }
+      },
+      "type": "7-Independent Charter District",
+      "grades": {
+         "lowest": "Kindergarten",
+         "highest": "2nd Grade"
+      },
+      "students": "74",
+      "fte": "7",
+      "pupilTeacherRatio": "10.57",
+      "numberOfSchools": "1"
+   },
+   {
+      "name": "Albuquerque Institute of Math & Science",
+      "location": {
+         "state": {
+            "name": "New Mexico",
+            "abbr": "NM",
+            "county": "Bernalillo County"
+         }
+      },
+      "type": "7-Independent Charter District",
+      "grades": {
+         "lowest": "6th Grade",
+         "highest": "12th Grade"
+      },
+      "students": "383",
+      "fte": "20.46",
+      "pupilTeacherRatio": "18.72",
+      "numberOfSchools": "1"
+   },
+   {
+      "name": "Albuquerque Public Schools",
+      "location": {
+         "state": {
+            "name": "New Mexico",
+            "abbr": "NM",
+            "county": "Bernalillo County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "88312",
+      "fte": "6183.24",
+      "pupilTeacherRatio": "14.28",
+      "numberOfSchools": "175"
+   },
+   {
+      "name": "Aldo Leopold Charter",
+      "location": {
+         "state": {
+            "name": "New Mexico",
+            "abbr": "NM",
+            "county": "Grant County"
+         }
+      },
+      "type": "7-Independent Charter District",
+      "grades": {
+         "lowest": "6th Grade",
+         "highest": "12th Grade"
+      },
+      "students": "172",
+      "fte": "16.05",
+      "pupilTeacherRatio": "10.72",
+      "numberOfSchools": "1"
+   },
+   {
+      "name": "Alma D'arte Charter",
+      "location": {
+         "state": {
+            "name": "New Mexico",
+            "abbr": "NM",
+            "county": "DoÃ±a Ana County"
+         }
+      },
+      "type": "7-Independent Charter District",
+      "grades": {
+         "lowest": "9th Grade",
+         "highest": "12th Grade"
+      },
+      "students": "132",
+      "fte": "15.96",
+      "pupilTeacherRatio": "8.27",
+      "numberOfSchools": "1"
+   },
+   {
+      "name": "Altura Preparatory School",
+      "location": {
+         "state": {
+            "name": "NEW MEXICO",
+            "abbr": "NM",
+            "county": "Bernalillo County"
+         }
+      },
+      "type": "7-Independent Charter District",
+      "grades": {
+         "lowest": "Kindergarten",
+         "highest": "3rd Grade"
+      },
+      "students": "90",
+      "fte": "5.35",
+      "pupilTeacherRatio": "16.82",
+      "numberOfSchools": "1"
+   },
+   {
+      "name": "Amy Biehl Charter High School",
+      "location": {
+         "state": {
+            "name": "New Mexico",
+            "abbr": "NM",
+            "county": "Bernalillo County"
+         }
+      },
+      "type": "7-Independent Charter District",
+      "grades": {
+         "lowest": "9th Grade",
+         "highest": "12th Grade"
+      },
+      "students": "305",
+      "fte": "21.77",
+      "pupilTeacherRatio": "14.01",
+      "numberOfSchools": "1"
+   },
+   {
+      "name": "Animas Public Schools",
+      "location": {
+         "state": {
+            "name": "New Mexico",
+            "abbr": "NM",
+            "county": "Hidalgo County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "157",
+      "fte": "13.48",
+      "pupilTeacherRatio": "11.65",
+      "numberOfSchools": "3"
+   },
+   {
+      "name": "Artesia Public Schools",
+      "location": {
+         "state": {
+            "name": "New Mexico",
+            "abbr": "NM",
+            "county": "Eddy County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "3835",
+      "fte": "249.86",
+      "pupilTeacherRatio": "15.35",
+      "numberOfSchools": "10"
+   },
+   {
+      "name": "Aztec Municipal Schools",
+      "location": {
+         "state": {
+            "name": "New Mexico",
+            "abbr": "NM",
+            "county": "San Juan County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "2873",
+      "fte": "186.22",
+      "pupilTeacherRatio": "15.43",
+      "numberOfSchools": "7"
+   },
+   {
+      "name": "Belen Consolidated Schools",
+      "location": {
+         "state": {
+            "name": "New Mexico",
+            "abbr": "NM",
+            "county": "Valencia County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "3865",
+      "fte": "238.8",
+      "pupilTeacherRatio": "16.19",
+      "numberOfSchools": "11"
+   },
+   {
+      "name": "Bernalillo Public Schools",
+      "location": {
+         "state": {
+            "name": "New Mexico",
+            "abbr": "NM",
+            "county": "Sandoval County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "2838",
+      "fte": "200.6",
+      "pupilTeacherRatio": "14.15",
+      "numberOfSchools": "10"
+   },
+   {
+      "name": "Bloomfield Schools",
+      "location": {
+         "state": {
+            "name": "New Mexico",
+            "abbr": "NM",
+            "county": "San Juan County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "2748",
+      "fte": "164.55",
+      "pupilTeacherRatio": "16.7",
+      "numberOfSchools": "7"
+   },
+   {
+      "name": "Capitan Municipal Schools",
+      "location": {
+         "state": {
+            "name": "New Mexico",
+            "abbr": "NM",
+            "county": "Lincoln County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "486",
+      "fte": "35.45",
+      "pupilTeacherRatio": "13.71",
+      "numberOfSchools": "3"
+   },
+   {
+      "name": "Carlsbad Municipal Schools",
+      "location": {
+         "state": {
+            "name": "New Mexico",
+            "abbr": "NM",
+            "county": "Eddy County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "8660",
+      "fte": "440.47",
+      "pupilTeacherRatio": "19.66",
+      "numberOfSchools": "15"
+   },
+   {
+      "name": "Carrizozo Municipal Schools",
+      "location": {
+         "state": {
+            "name": "New Mexico",
+            "abbr": "NM",
+            "county": "Lincoln County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Kindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "133",
+      "fte": "14.6",
+      "pupilTeacherRatio": "9.11",
+      "numberOfSchools": "3"
+   },
+   {
+      "name": "Central Consolidated Schools",
+      "location": {
+         "state": {
+            "name": "New Mexico",
+            "abbr": "NM",
+            "county": "San Juan County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "5635",
+      "fte": "392.28",
+      "pupilTeacherRatio": "14.36",
+      "numberOfSchools": "17"
+   },
+   {
+      "name": "Cesar Chavez Community  School",
+      "location": {
+         "state": {
+            "name": "New Mexico",
+            "abbr": "NM",
+            "county": "Bernalillo County"
+         }
+      },
+      "type": "7-Independent Charter District",
+      "grades": {
+         "lowest": "9th Grade",
+         "highest": "12th Grade"
+      },
+      "students": "204",
+      "fte": "11.8",
+      "pupilTeacherRatio": "17.29",
+      "numberOfSchools": "1"
+   },
+   {
+      "name": "Chama Valley Indep. Schools",
+      "location": {
+         "state": {
+            "name": "New Mexico",
+            "abbr": "NM",
+            "county": "Rio Arriba County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "425",
+      "fte": "32.6",
+      "pupilTeacherRatio": "13.04",
+      "numberOfSchools": "4"
+   },
+   {
+      "name": "Childrens Psyc",
+      "location": {
+         "state": {
+            "name": "New Mexico",
+            "abbr": "NM",
+            "county": "Bernalillo County"
+         }
+      },
+      "type": "5-State agency providing elementary and/or secondary level instruction",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "41",
+      "fte": "5",
+      "pupilTeacherRatio": "8.2",
+      "numberOfSchools": "1"
+   },
+   {
+      "name": "Cimarron Municipal Schools",
+      "location": {
+         "state": {
+            "name": "New Mexico",
+            "abbr": "NM",
+            "county": "Colfax County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "431",
+      "fte": "45.27",
+      "pupilTeacherRatio": "9.52",
+      "numberOfSchools": "6"
+   },
+   {
+      "name": "Clayton Municipal Schools",
+      "location": {
+         "state": {
+            "name": "New Mexico",
+            "abbr": "NM",
+            "county": "Union County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "439",
+      "fte": "40.87",
+      "pupilTeacherRatio": "10.74",
+      "numberOfSchools": "4"
+   },
+   {
+      "name": "Cloudcroft Municipal Schools",
+      "location": {
+         "state": {
+            "name": "New Mexico",
+            "abbr": "NM",
+            "county": "Otero County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "419",
+      "fte": "30.87",
+      "pupilTeacherRatio": "13.57",
+      "numberOfSchools": "3"
+   },
+   {
+      "name": "Clovis Municipal Schools",
+      "location": {
+         "state": {
+            "name": "New Mexico",
+            "abbr": "NM",
+            "county": "Curry County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "8115",
+      "fte": "469.06",
+      "pupilTeacherRatio": "17.3",
+      "numberOfSchools": "18"
+   },
+   {
+      "name": "Cobre Consolidated Schools",
+      "location": {
+         "state": {
+            "name": "New Mexico",
+            "abbr": "NM",
+            "county": "Grant County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "1226",
+      "fte": "97.53",
+      "pupilTeacherRatio": "12.57",
+      "numberOfSchools": "6"
+   },
+   {
+      "name": "Corona Municipal Schools",
+      "location": {
+         "state": {
+            "name": "New Mexico",
+            "abbr": "NM",
+            "county": "Lincoln County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "60",
+      "fte": "12.64",
+      "pupilTeacherRatio": "4.75",
+      "numberOfSchools": "2"
+   },
+   {
+      "name": "Cuba Independent Schools",
+      "location": {
+         "state": {
+            "name": "New Mexico",
+            "abbr": "NM",
+            "county": "Sandoval County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "563",
+      "fte": "53.9",
+      "pupilTeacherRatio": "10.45",
+      "numberOfSchools": "3"
+   },
+   {
+      "name": "Deming Public Schools",
+      "location": {
+         "state": {
+            "name": "New Mexico",
+            "abbr": "NM",
+            "county": "Luna County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "5468",
+      "fte": "374.7",
+      "pupilTeacherRatio": "14.59",
+      "numberOfSchools": "13"
+   },
+   {
+      "name": "Des Moines Municipal Schools",
+      "location": {
+         "state": {
+            "name": "New Mexico",
+            "abbr": "NM",
+            "county": "Union County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "95",
+      "fte": "13.71",
+      "pupilTeacherRatio": "6.93",
+      "numberOfSchools": "2"
+   },
+   {
+      "name": "Dexter Consolidated Schools",
+      "location": {
+         "state": {
+            "name": "New Mexico",
+            "abbr": "NM",
+            "county": "Chaves County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "887",
+      "fte": "53.93",
+      "pupilTeacherRatio": "16.45",
+      "numberOfSchools": "3"
+   },
+   {
+      "name": "Dora Municipal Schools",
+      "location": {
+         "state": {
+            "name": "New Mexico",
+            "abbr": "NM",
+            "county": "Roosevelt County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "243",
+      "fte": "18.86",
+      "pupilTeacherRatio": "12.88",
+      "numberOfSchools": "2"
+   },
+   {
+      "name": "Dulce Independent Schools",
+      "location": {
+         "state": {
+            "name": "New Mexico",
+            "abbr": "NM",
+            "county": "Rio Arriba County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "584",
+      "fte": "51.01",
+      "pupilTeacherRatio": "11.45",
+      "numberOfSchools": "3"
+   },
+   {
+      "name": "Dzit Dit Lool School of Empowerment Action and Perseverance",
+      "location": {
+         "state": {
+            "name": "NEW MEXICO",
+            "abbr": "NM",
+            "county": "McKinley County"
+         }
+      },
+      "type": "7-Independent Charter District",
+      "grades": {
+         "lowest": "6th Grade",
+         "highest": "11th Grade"
+      },
+      "students": "40",
+      "fte": "4.13",
+      "pupilTeacherRatio": "9.69",
+      "numberOfSchools": "1"
+   },
+   {
+      "name": "Elida Municipal Schools",
+      "location": {
+         "state": {
+            "name": "New Mexico",
+            "abbr": "NM",
+            "county": "Roosevelt County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "163",
+      "fte": "17.1",
+      "pupilTeacherRatio": "9.53",
+      "numberOfSchools": "2"
+   },
+   {
+      "name": "Espanola Public Schools",
+      "location": {
+         "state": {
+            "name": "New Mexico",
+            "abbr": "NM",
+            "county": "Rio Arriba County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "3315",
+      "fte": "259.44",
+      "pupilTeacherRatio": "12.78",
+      "numberOfSchools": "13"
+   },
+   {
+      "name": "Estancia Municipal Schools",
+      "location": {
+         "state": {
+            "name": "New Mexico",
+            "abbr": "NM",
+            "county": "Torrance County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "596",
+      "fte": "45.92",
+      "pupilTeacherRatio": "12.98",
+      "numberOfSchools": "5"
+   },
+   {
+      "name": "Estancia Valley Classical Academy",
+      "location": {
+         "state": {
+            "name": "New Mexico",
+            "abbr": "NM",
+            "county": "Torrance County"
+         }
+      },
+      "type": "7-Independent Charter District",
+      "grades": {
+         "lowest": "Kindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "588",
+      "fte": "35.81",
+      "pupilTeacherRatio": "16.42",
+      "numberOfSchools": "1"
+   },
+   {
+      "name": "Eunice Municipal Schools",
+      "location": {
+         "state": {
+            "name": "New Mexico",
+            "abbr": "NM",
+            "county": "Lea County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "863",
+      "fte": "54",
+      "pupilTeacherRatio": "15.98",
+      "numberOfSchools": "3"
+   },
+   {
+      "name": "Explore Academy",
+      "location": {
+         "state": {
+            "name": "NEW MEXICO",
+            "abbr": "NM",
+            "county": "Bernalillo County"
+         }
+      },
+      "type": "7-Independent Charter District",
+      "grades": {
+         "lowest": "6th Grade",
+         "highest": "12th Grade"
+      },
+      "students": "498",
+      "fte": "38.61",
+      "pupilTeacherRatio": "12.9",
+      "numberOfSchools": "1"
+   },
+   {
+      "name": "Farmington Municipal Schools",
+      "location": {
+         "state": {
+            "name": "New Mexico",
+            "abbr": "NM",
+            "county": "San Juan County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "11381",
+      "fte": "687.95",
+      "pupilTeacherRatio": "16.54",
+      "numberOfSchools": "20"
+   },
+   {
+      "name": "Floyd Municipal Schools",
+      "location": {
+         "state": {
+            "name": "New Mexico",
+            "abbr": "NM",
+            "county": "Roosevelt County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "220",
+      "fte": "22",
+      "pupilTeacherRatio": "10",
+      "numberOfSchools": "3"
+   },
+   {
+      "name": "Fort Sumner Municipal Schools",
+      "location": {
+         "state": {
+            "name": "New Mexico",
+            "abbr": "NM",
+            "county": "De Baca County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "279",
+      "fte": "28.7",
+      "pupilTeacherRatio": "9.72",
+      "numberOfSchools": "3"
+   },
+   {
+      "name": "Gadsden Independent Schools",
+      "location": {
+         "state": {
+            "name": "New Mexico",
+            "abbr": "NM",
+            "county": "DoÃ±a Ana County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "13142",
+      "fte": "910.2",
+      "pupilTeacherRatio": "14.44",
+      "numberOfSchools": "27"
+   },
+   {
+      "name": "Gallup-Mckinley Cty Schools",
+      "location": {
+         "state": {
+            "name": "New Mexico",
+            "abbr": "NM",
+            "county": "McKinley County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "11129",
+      "fte": "761.4",
+      "pupilTeacherRatio": "14.62",
+      "numberOfSchools": "34"
+   },
+   {
+      "name": "Grady Municipal Schools",
+      "location": {
+         "state": {
+            "name": "New Mexico",
+            "abbr": "NM",
+            "county": "Curry County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "182",
+      "fte": "17.12",
+      "pupilTeacherRatio": "10.63",
+      "numberOfSchools": "3"
+   },
+   {
+      "name": "Grants-Cibola County Schools",
+      "location": {
+         "state": {
+            "name": "New Mexico",
+            "abbr": "NM",
+            "county": "Cibola County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "3408",
+      "fte": "269.5",
+      "pupilTeacherRatio": "12.65",
+      "numberOfSchools": "12"
+   },
+   {
+      "name": "Hagerman Municipal Schools",
+      "location": {
+         "state": {
+            "name": "New Mexico",
+            "abbr": "NM",
+            "county": "Chaves County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "425",
+      "fte": "35.09",
+      "pupilTeacherRatio": "12.11",
+      "numberOfSchools": "3"
+   },
+   {
+      "name": "Hatch Valley Public Schools",
+      "location": {
+         "state": {
+            "name": "New Mexico",
+            "abbr": "NM",
+            "county": "DoÃ±a Ana County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "1254",
+      "fte": "84.5",
+      "pupilTeacherRatio": "14.84",
+      "numberOfSchools": "5"
+   },
+   {
+      "name": "Hobbs Municipal Schools",
+      "location": {
+         "state": {
+            "name": "New Mexico",
+            "abbr": "NM",
+            "county": "Lea County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "10613",
+      "fte": "566.46",
+      "pupilTeacherRatio": "18.74",
+      "numberOfSchools": "18"
+   },
+   {
+      "name": "Hondo Valley Public Schools",
+      "location": {
+         "state": {
+            "name": "New Mexico",
+            "abbr": "NM",
+            "county": "Lincoln County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "147",
+      "fte": "16.55",
+      "pupilTeacherRatio": "8.88",
+      "numberOfSchools": "2"
+   },
+   {
+      "name": "Horizon Academy West",
+      "location": {
+         "state": {
+            "name": "New Mexico",
+            "abbr": "NM",
+            "county": "Bernalillo County"
+         }
+      },
+      "type": "7-Independent Charter District",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "5th Grade"
+      },
+      "students": "494",
+      "fte": "28.5",
+      "pupilTeacherRatio": "17.33",
+      "numberOfSchools": "1"
+   },
+   {
+      "name": "House Municipal Schools",
+      "location": {
+         "state": {
+            "name": "New Mexico",
+            "abbr": "NM",
+            "county": "Quay County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "61",
+      "fte": "14",
+      "pupilTeacherRatio": "4.36",
+      "numberOfSchools": "3"
+   },
+   {
+      "name": "Hozho Academy",
+      "location": {
+         "state": {
+            "name": "NEW MEXICO",
+            "abbr": "NM",
+            "county": "McKinley County"
+         }
+      },
+      "type": "7-Independent Charter District",
+      "grades": {
+         "lowest": "Kindergarten",
+         "highest": "6th Grade"
+      },
+      "students": "292",
+      "fte": "20",
+      "pupilTeacherRatio": "14.6",
+      "numberOfSchools": "1"
+   },
+   {
+      "name": "J Paul Taylor Academy",
+      "location": {
+         "state": {
+            "name": "New Mexico",
+            "abbr": "NM",
+            "county": "DoÃ±a Ana County"
+         }
+      },
+      "type": "7-Independent Charter District",
+      "grades": {
+         "lowest": "Kindergarten",
+         "highest": "8th Grade"
+      },
+      "students": "200",
+      "fte": "13.66",
+      "pupilTeacherRatio": "14.64",
+      "numberOfSchools": "1"
+   },
+   {
+      "name": "Jal Public Schools",
+      "location": {
+         "state": {
+            "name": "New Mexico",
+            "abbr": "NM",
+            "county": "Lea County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "547",
+      "fte": "31.27",
+      "pupilTeacherRatio": "17.49",
+      "numberOfSchools": "3"
+   },
+   {
+      "name": "Jemez Mountain Public Schools",
+      "location": {
+         "state": {
+            "name": "New Mexico",
+            "abbr": "NM",
+            "county": "Rio Arriba County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "212",
+      "fte": "19",
+      "pupilTeacherRatio": "11.16",
+      "numberOfSchools": "5"
+   },
+   {
+      "name": "Jemez Valley Public Schools",
+      "location": {
+         "state": {
+            "name": "New Mexico",
+            "abbr": "NM",
+            "county": "Sandoval County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "362",
+      "fte": "35.3",
+      "pupilTeacherRatio": "10.25",
+      "numberOfSchools": "4"
+   },
+   {
+      "name": "Juvenile Justice",
+      "location": {
+         "state": {
+            "name": "New Mexico",
+            "abbr": "NM",
+            "county": "Bernalillo County"
+         }
+      },
+      "type": "5-State agency providing elementary and/or secondary level instruction",
+      "grades": {
+         "lowest": "6th Grade",
+         "highest": "12th Grade"
+      },
+      "students": "93",
+      "fte": "26",
+      "pupilTeacherRatio": "3.58",
+      "numberOfSchools": "3"
+   },
+   {
+      "name": "La Academia Dolores Huerta",
+      "location": {
+         "state": {
+            "name": "NEW MEXICO",
+            "abbr": "NM",
+            "county": "DoÃ±a Ana County"
+         }
+      },
+      "type": "7-Independent Charter District",
+      "grades": {
+         "lowest": "6th Grade",
+         "highest": "8th Grade"
+      },
+      "students": "76",
+      "fte": "13.27",
+      "pupilTeacherRatio": "5.73",
+      "numberOfSchools": "1"
+   },
+   {
+      "name": "La Promesa Early Learning",
+      "location": {
+         "state": {
+            "name": "New Mexico",
+            "abbr": "NM",
+            "county": "Bernalillo County"
+         }
+      },
+      "type": "7-Independent Charter District",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "8th Grade"
+      },
+      "students": "421",
+      "fte": "23.6",
+      "pupilTeacherRatio": "17.84",
+      "numberOfSchools": "1"
+   },
+   {
+      "name": "La Tierra Montessori School of the Arts and Sciences",
+      "location": {
+         "state": {
+            "name": "New Mexico",
+            "abbr": "NM",
+            "county": "Rio Arriba County"
+         }
+      },
+      "type": "7-Independent Charter District",
+      "grades": {
+         "lowest": "Kindergarten",
+         "highest": "6th Grade"
+      },
+      "students": "65",
+      "fte": "6",
+      "pupilTeacherRatio": "10.83",
+      "numberOfSchools": "1"
+   },
+   {
+      "name": "Lake Arthur Municipal Schools",
+      "location": {
+         "state": {
+            "name": "New Mexico",
+            "abbr": "NM",
+            "county": "Chaves County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "103",
+      "fte": "13.9",
+      "pupilTeacherRatio": "7.41",
+      "numberOfSchools": "3"
+   },
+   {
+      "name": "Las Cruces Public Schools",
+      "location": {
+         "state": {
+            "name": "New Mexico",
+            "abbr": "NM",
+            "county": "DoÃ±a Ana County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "24517",
+      "fte": "1526.2",
+      "pupilTeacherRatio": "16.06",
+      "numberOfSchools": "40"
+   },
+   {
+      "name": "Las Montanas Charter",
+      "location": {
+         "state": {
+            "name": "NEW MEXICO",
+            "abbr": "NM",
+            "county": "DoÃ±a Ana County"
+         }
+      },
+      "type": "7-Independent Charter District",
+      "grades": {
+         "lowest": "9th Grade",
+         "highest": "12th Grade"
+      },
+      "students": "183",
+      "fte": "19",
+      "pupilTeacherRatio": "9.63",
+      "numberOfSchools": "1"
+   },
+   {
+      "name": "Las Vegas City Public Schools",
+      "location": {
+         "state": {
+            "name": "New Mexico",
+            "abbr": "NM",
+            "county": "San Miguel County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "1462",
+      "fte": "95.8",
+      "pupilTeacherRatio": "15.26",
+      "numberOfSchools": "6"
+   },
+   {
+      "name": "Logan Municipal Schools",
+      "location": {
+         "state": {
+            "name": "New Mexico",
+            "abbr": "NM",
+            "county": "Quay County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "343",
+      "fte": "23.3",
+      "pupilTeacherRatio": "14.72",
+      "numberOfSchools": "4"
+   },
+   {
+      "name": "Lordsburg Municipal Schools",
+      "location": {
+         "state": {
+            "name": "New Mexico",
+            "abbr": "NM",
+            "county": "Hidalgo County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "487",
+      "fte": "35.8",
+      "pupilTeacherRatio": "13.6",
+      "numberOfSchools": "4"
+   },
+   {
+      "name": "Los Alamos Public Schools",
+      "location": {
+         "state": {
+            "name": "New Mexico",
+            "abbr": "NM",
+            "county": "Los Alamos County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "3752",
+      "fte": "258.52",
+      "pupilTeacherRatio": "14.51",
+      "numberOfSchools": "8"
+   },
+   {
+      "name": "Los Lunas Public Schools",
+      "location": {
+         "state": {
+            "name": "New Mexico",
+            "abbr": "NM",
+            "county": "Valencia County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "8540",
+      "fte": "458.74",
+      "pupilTeacherRatio": "18.62",
+      "numberOfSchools": "16"
+   },
+   {
+      "name": "Loving Municipal Schools",
+      "location": {
+         "state": {
+            "name": "New Mexico",
+            "abbr": "NM",
+            "county": "Eddy County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "638",
+      "fte": "45.57",
+      "pupilTeacherRatio": "14",
+      "numberOfSchools": "3"
+   },
+   {
+      "name": "Lovington Municipal Schools",
+      "location": {
+         "state": {
+            "name": "New Mexico",
+            "abbr": "NM",
+            "county": "Lea County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "3810",
+      "fte": "207.8",
+      "pupilTeacherRatio": "18.33",
+      "numberOfSchools": "10"
+   },
+   {
+      "name": "Magdalena Municipal Schools",
+      "location": {
+         "state": {
+            "name": "New Mexico",
+            "abbr": "NM",
+            "county": "Socorro County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "329",
+      "fte": "29.88",
+      "pupilTeacherRatio": "11.01",
+      "numberOfSchools": "3"
+   },
+   {
+      "name": "Maxwell Municipal Schools",
+      "location": {
+         "state": {
+            "name": "New Mexico",
+            "abbr": "NM",
+            "county": "Colfax County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Kindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "138",
+      "fte": "13.44",
+      "pupilTeacherRatio": "10.27",
+      "numberOfSchools": "3"
+   },
+   {
+      "name": "Mccurdy Charter School",
+      "location": {
+         "state": {
+            "name": "New Mexico",
+            "abbr": "NM",
+            "county": "Santa Fe County"
+         }
+      },
+      "type": "7-Independent Charter District",
+      "grades": {
+         "lowest": "Kindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "542",
+      "fte": "31",
+      "pupilTeacherRatio": "17.48",
+      "numberOfSchools": "1"
+   },
+   {
+      "name": "Media Arts Collaborative Charter",
+      "location": {
+         "state": {
+            "name": "New Mexico",
+            "abbr": "NM",
+            "county": "Bernalillo County"
+         }
+      },
+      "type": "7-Independent Charter District",
+      "grades": {
+         "lowest": "6th Grade",
+         "highest": "12th Grade"
+      },
+      "students": "224",
+      "fte": "20.5",
+      "pupilTeacherRatio": "10.93",
+      "numberOfSchools": "1"
+   },
+   {
+      "name": "Melrose Public Schools",
+      "location": {
+         "state": {
+            "name": "New Mexico",
+            "abbr": "NM",
+            "county": "Curry County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "292",
+      "fte": "19.42",
+      "pupilTeacherRatio": "15.04",
+      "numberOfSchools": "3"
+   },
+   {
+      "name": "Mesa Vista Consolidated Schools",
+      "location": {
+         "state": {
+            "name": "New Mexico",
+            "abbr": "NM",
+            "county": "Rio Arriba County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "253",
+      "fte": "20.85",
+      "pupilTeacherRatio": "12.13",
+      "numberOfSchools": "4"
+   },
+   {
+      "name": "Middle College High School Charter - Gallup",
+      "location": {
+         "state": {
+            "name": "NEW MEXICO",
+            "abbr": "NM",
+            "county": "McKinley County"
+         }
+      },
+      "type": "7-Independent Charter District",
+      "grades": {
+         "lowest": "9th Grade",
+         "highest": "12th Grade"
+      },
+      "students": "120",
+      "fte": "4.6",
+      "pupilTeacherRatio": "26.09",
+      "numberOfSchools": "1"
+   },
+   {
+      "name": "Mission Achievement and Success",
+      "location": {
+         "state": {
+            "name": "New Mexico",
+            "abbr": "NM",
+            "county": "Bernalillo County"
+         }
+      },
+      "type": "7-Independent Charter District",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "1339",
+      "fte": "83.31",
+      "pupilTeacherRatio": "16.07",
+      "numberOfSchools": "2"
+   },
+   {
+      "name": "Monte Del Sol Charter",
+      "location": {
+         "state": {
+            "name": "NEW MEXICO",
+            "abbr": "NM",
+            "county": "Santa Fe County"
+         }
+      },
+      "type": "7-Independent Charter District",
+      "grades": {
+         "lowest": "7th Grade",
+         "highest": "12th Grade"
+      },
+      "students": "364",
+      "fte": "31",
+      "pupilTeacherRatio": "11.74",
+      "numberOfSchools": "1"
+   },
+   {
+      "name": "Montessori Elementary School",
+      "location": {
+         "state": {
+            "name": "New Mexico",
+            "abbr": "NM",
+            "county": "Bernalillo County"
+         }
+      },
+      "type": "7-Independent Charter District",
+      "grades": {
+         "lowest": "Kindergarten",
+         "highest": "8th Grade"
+      },
+      "students": "426",
+      "fte": "21.18",
+      "pupilTeacherRatio": "20.11",
+      "numberOfSchools": "1"
+   },
+   {
+      "name": "Mora Independent Schools",
+      "location": {
+         "state": {
+            "name": "New Mexico",
+            "abbr": "NM",
+            "county": "Mora County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Kindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "410",
+      "fte": "33.15",
+      "pupilTeacherRatio": "12.37",
+      "numberOfSchools": "4"
+   },
+   {
+      "name": "Moriarty-Edgewood School District",
+      "location": {
+         "state": {
+            "name": "New Mexico",
+            "abbr": "NM",
+            "county": "Torrance County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "2345",
+      "fte": "151.98",
+      "pupilTeacherRatio": "15.43",
+      "numberOfSchools": "7"
+   },
+   {
+      "name": "Mosquero Municipal Schools",
+      "location": {
+         "state": {
+            "name": "New Mexico",
+            "abbr": "NM",
+            "county": "Harding County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "82",
+      "fte": "9",
+      "pupilTeacherRatio": "9.11",
+      "numberOfSchools": "2"
+   },
+   {
+      "name": "Mountainair Public Schools",
+      "location": {
+         "state": {
+            "name": "New Mexico",
+            "abbr": "NM",
+            "county": "Torrance County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "224",
+      "fte": "22",
+      "pupilTeacherRatio": "10.18",
+      "numberOfSchools": "3"
+   },
+   {
+      "name": "New America School - Las Cruces",
+      "location": {
+         "state": {
+            "name": "New Mexico",
+            "abbr": "NM",
+            "county": "DoÃ±a Ana County"
+         }
+      },
+      "type": "7-Independent Charter District",
+      "grades": {
+         "lowest": "9th Grade",
+         "highest": "12th Grade"
+      },
+      "students": "197",
+      "fte": "12.58",
+      "pupilTeacherRatio": "15.66",
+      "numberOfSchools": "1"
+   },
+   {
+      "name": "New Mexico Connections Academy",
+      "location": {
+         "state": {
+            "name": "New Mexico",
+            "abbr": "NM",
+            "county": "Santa Fe County"
+         }
+      },
+      "type": "7-Independent Charter District",
+      "grades": {
+         "lowest": "4th Grade",
+         "highest": "12th Grade"
+      },
+      "students": "1127",
+      "fte": "42.4",
+      "pupilTeacherRatio": "26.58",
+      "numberOfSchools": "1"
+   },
+   {
+      "name": "Nm Corrections",
+      "location": {
+         "state": {
+            "name": "New Mexico",
+            "abbr": "NM",
+            "county": "Bernalillo County"
+         }
+      },
+      "type": "5-State agency providing elementary and/or secondary level instruction",
+      "grades": {
+         "lowest": "8th Grade",
+         "highest": "12th Grade"
+      },
+      "students": "33",
+      "fte": "3.5",
+      "pupilTeacherRatio": "9.43",
+      "numberOfSchools": "11"
+   },
+   {
+      "name": "Nm School for Arts",
+      "location": {
+         "state": {
+            "name": "New Mexico",
+            "abbr": "NM",
+            "county": "Santa Fe County"
+         }
+      },
+      "type": "7-Independent Charter District",
+      "grades": {
+         "lowest": "9th Grade",
+         "highest": "12th Grade"
+      },
+      "students": "246",
+      "fte": "17.14",
+      "pupilTeacherRatio": "14.35",
+      "numberOfSchools": "1"
+   },
+   {
+      "name": "Nm School for the Blind and Visually Impaired",
+      "location": {
+         "state": {
+            "name": "New Mexico",
+            "abbr": "NM",
+            "county": "Otero County"
+         }
+      },
+      "type": "5-State agency providing elementary and/or secondary level instruction",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "30",
+      "fte": "16.6",
+      "pupilTeacherRatio": "1.81",
+      "numberOfSchools": "2"
+   },
+   {
+      "name": "Nm School for the Deaf",
+      "location": {
+         "state": {
+            "name": "New Mexico",
+            "abbr": "NM",
+            "county": "Santa Fe County"
+         }
+      },
+      "type": "5-State agency providing elementary and/or secondary level instruction",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "132",
+      "fte": "36.92",
+      "pupilTeacherRatio": "3.58",
+      "numberOfSchools": "1"
+   },
+   {
+      "name": "North Valley Charter",
+      "location": {
+         "state": {
+            "name": "New Mexico",
+            "abbr": "NM",
+            "county": "Bernalillo County"
+         }
+      },
+      "type": "7-Independent Charter District",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "8th Grade"
+      },
+      "students": "497",
+      "fte": "30",
+      "pupilTeacherRatio": "16.57",
+      "numberOfSchools": "1"
+   },
+   {
+      "name": "Pecos Independent Schools",
+      "location": {
+         "state": {
+            "name": "New Mexico",
+            "abbr": "NM",
+            "county": "Torrance County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "583",
+      "fte": "36",
+      "pupilTeacherRatio": "16.19",
+      "numberOfSchools": "3"
+   },
+   {
+      "name": "Penasco Independent Schools",
+      "location": {
+         "state": {
+            "name": "New Mexico",
+            "abbr": "NM",
+            "county": "Taos County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "353",
+      "fte": "32",
+      "pupilTeacherRatio": "11.03",
+      "numberOfSchools": "3"
+   },
+   {
+      "name": "Pojoaque Valley Public Schools",
+      "location": {
+         "state": {
+            "name": "New Mexico",
+            "abbr": "NM",
+            "county": "Santa Fe County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "1897",
+      "fte": "106.85",
+      "pupilTeacherRatio": "17.75",
+      "numberOfSchools": "5"
+   },
+   {
+      "name": "Portales Municipal Schools",
+      "location": {
+         "state": {
+            "name": "New Mexico",
+            "abbr": "NM",
+            "county": "Roosevelt County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "2750",
+      "fte": "184.35",
+      "pupilTeacherRatio": "14.92",
+      "numberOfSchools": "6"
+   },
+   {
+      "name": "Quemado Independent Schools",
+      "location": {
+         "state": {
+            "name": "New Mexico",
+            "abbr": "NM",
+            "county": "Catron County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "157",
+      "fte": "20.27",
+      "pupilTeacherRatio": "7.75",
+      "numberOfSchools": "3"
+   },
+   {
+      "name": "Questa Independent Schools",
+      "location": {
+         "state": {
+            "name": "New Mexico",
+            "abbr": "NM",
+            "county": "Taos County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "276",
+      "fte": "27.5",
+      "pupilTeacherRatio": "10.04",
+      "numberOfSchools": "5"
+   },
+   {
+      "name": "Raices Del Saber Xinachtli Community School",
+      "location": {
+         "state": {
+            "name": "NEW MEXICO",
+            "abbr": "NM",
+            "county": "DoÃ±a Ana County"
+         }
+      },
+      "type": "7-Independent Charter District",
+      "grades": {
+         "lowest": "Kindergarten",
+         "highest": "1st Grade"
+      },
+      "students": "28",
+      "fte": "2.4",
+      "pupilTeacherRatio": "11.67",
+      "numberOfSchools": "1"
+   },
+   {
+      "name": "Raton Public Schools",
+      "location": {
+         "state": {
+            "name": "New Mexico",
+            "abbr": "NM",
+            "county": "Colfax County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "938",
+      "fte": "64",
+      "pupilTeacherRatio": "14.66",
+      "numberOfSchools": "3"
+   },
+   {
+      "name": "Red River Valley Charter School",
+      "location": {
+         "state": {
+            "name": "New Mexico",
+            "abbr": "NM",
+            "county": "Taos County"
+         }
+      },
+      "type": "7-Independent Charter District",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "8th Grade"
+      },
+      "students": "94",
+      "fte": "7.34",
+      "pupilTeacherRatio": "12.81",
+      "numberOfSchools": "1"
+   },
+   {
+      "name": "Reserve Public Schools",
+      "location": {
+         "state": {
+            "name": "New Mexico",
+            "abbr": "NM",
+            "county": "Catron County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "122",
+      "fte": "16.53",
+      "pupilTeacherRatio": "7.38",
+      "numberOfSchools": "2"
+   },
+   {
+      "name": "Rio Rancho Public Schools",
+      "location": {
+         "state": {
+            "name": "New Mexico",
+            "abbr": "NM",
+            "county": "Sandoval County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "17524",
+      "fte": "1070.24",
+      "pupilTeacherRatio": "16.37",
+      "numberOfSchools": "19"
+   },
+   {
+      "name": "Roots and Wings Community",
+      "location": {
+         "state": {
+            "name": "NEW MEXICO",
+            "abbr": "NM",
+            "county": "Taos County"
+         }
+      },
+      "type": "7-Independent Charter District",
+      "grades": {
+         "lowest": "Kindergarten",
+         "highest": "8th Grade"
+      },
+      "students": "50",
+      "fte": "4.15",
+      "pupilTeacherRatio": "12.05",
+      "numberOfSchools": "1"
+   },
+   {
+      "name": "Roswell Independent Schools",
+      "location": {
+         "state": {
+            "name": "New Mexico",
+            "abbr": "NM",
+            "county": "Chaves County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "10693",
+      "fte": "577.25",
+      "pupilTeacherRatio": "18.52",
+      "numberOfSchools": "22"
+   },
+   {
+      "name": "Roy Municipal Schools",
+      "location": {
+         "state": {
+            "name": "New Mexico",
+            "abbr": "NM",
+            "county": "Harding County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Kindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "60",
+      "fte": "11",
+      "pupilTeacherRatio": "5.45",
+      "numberOfSchools": "2"
+   },
+   {
+      "name": "Ruidoso Municipal Schools",
+      "location": {
+         "state": {
+            "name": "New Mexico",
+            "abbr": "NM",
+            "county": "Lincoln County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "2051",
+      "fte": "121.4",
+      "pupilTeacherRatio": "16.89",
+      "numberOfSchools": "4"
+   },
+   {
+      "name": "San Jon Municipal Schools",
+      "location": {
+         "state": {
+            "name": "New Mexico",
+            "abbr": "NM",
+            "county": "Quay County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "130",
+      "fte": "15.14",
+      "pupilTeacherRatio": "8.59",
+      "numberOfSchools": "3"
+   },
+   {
+      "name": "Sandoval Academy of Bilingual Education",
+      "location": {
+         "state": {
+            "name": "NEW MEXICO",
+            "abbr": "NM",
+            "county": "Sandoval County"
+         }
+      },
+      "type": "7-Independent Charter District",
+      "grades": {
+         "lowest": "Kindergarten",
+         "highest": "7th Grade"
+      },
+      "students": "178",
+      "fte": "10.75",
+      "pupilTeacherRatio": "16.56",
+      "numberOfSchools": "1"
+   },
+   {
+      "name": "Santa Fe Public Schools",
+      "location": {
+         "state": {
+            "name": "New Mexico",
+            "abbr": "NM",
+            "county": "Santa Fe County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "12979",
+      "fte": "884.92",
+      "pupilTeacherRatio": "14.67",
+      "numberOfSchools": "30"
+   },
+   {
+      "name": "Santa Rosa Consolidated Schools",
+      "location": {
+         "state": {
+            "name": "New Mexico",
+            "abbr": "NM",
+            "county": "Guadalupe County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "634",
+      "fte": "47.28",
+      "pupilTeacherRatio": "13.41",
+      "numberOfSchools": "5"
+   },
+   {
+      "name": "School of Dreams Academy",
+      "location": {
+         "state": {
+            "name": "New Mexico",
+            "abbr": "NM",
+            "county": "Valencia County"
+         }
+      },
+      "type": "7-Independent Charter District",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "477",
+      "fte": "29.41",
+      "pupilTeacherRatio": "16.22",
+      "numberOfSchools": "1"
+   },
+   {
+      "name": "Sequoyah",
+      "location": {
+         "state": {
+            "name": "New Mexico",
+            "abbr": "NM",
+            "county": "Bernalillo County"
+         }
+      },
+      "type": "5-State agency providing elementary and/or secondary level instruction",
+      "grades": {
+         "lowest": "6th Grade",
+         "highest": "12th Grade"
+      },
+      "students": "25",
+      "fte": "3.25",
+      "pupilTeacherRatio": "7.69",
+      "numberOfSchools": "1"
+   },
+   {
+      "name": "Silver Consolidated Schools",
+      "location": {
+         "state": {
+            "name": "New Mexico",
+            "abbr": "NM",
+            "county": "Grant County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "2521",
+      "fte": "172.4",
+      "pupilTeacherRatio": "14.62",
+      "numberOfSchools": "9"
+   },
+   {
+      "name": "Six Directions Indigenous School",
+      "location": {
+         "state": {
+            "name": "NEW MEXICO",
+            "abbr": "NM",
+            "county": "McKinley County"
+         }
+      },
+      "type": "7-Independent Charter District",
+      "grades": {
+         "lowest": "6th Grade",
+         "highest": "10th Grade"
+      },
+      "students": "66",
+      "fte": "8.15",
+      "pupilTeacherRatio": "8.1",
+      "numberOfSchools": "1"
+   },
+   {
+      "name": "Socorro Consolidated Schools",
+      "location": {
+         "state": {
+            "name": "New Mexico",
+            "abbr": "NM",
+            "county": "Socorro County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "1613",
+      "fte": "109.08",
+      "pupilTeacherRatio": "14.79",
+      "numberOfSchools": "6"
+   },
+   {
+      "name": "Solare Collegiate Charter School",
+      "location": {
+         "state": {
+            "name": "NEW MEXICO",
+            "abbr": "NM",
+            "county": "Bernalillo County"
+         }
+      },
+      "type": "7-Independent Charter District",
+      "grades": {
+         "lowest": "5th Grade",
+         "highest": "6th Grade"
+      },
+      "students": "137",
+      "fte": "8.5",
+      "pupilTeacherRatio": "16.12",
+      "numberOfSchools": "1"
+   },
+   {
+      "name": "South Valley Prep",
+      "location": {
+         "state": {
+            "name": "New Mexico",
+            "abbr": "NM",
+            "county": "Bernalillo County"
+         }
+      },
+      "type": "7-Independent Charter District",
+      "grades": {
+         "lowest": "6th Grade",
+         "highest": "8th Grade"
+      },
+      "students": "168",
+      "fte": "12.33",
+      "pupilTeacherRatio": "13.63",
+      "numberOfSchools": "1"
+   },
+   {
+      "name": "Southwest Preparatory Learning Center",
+      "location": {
+         "state": {
+            "name": "New Mexico",
+            "abbr": "NM",
+            "county": "Bernalillo County"
+         }
+      },
+      "type": "7-Independent Charter District",
+      "grades": {
+         "lowest": "4th Grade",
+         "highest": "8th Grade"
+      },
+      "students": "195",
+      "fte": "10.4",
+      "pupilTeacherRatio": "18.75",
+      "numberOfSchools": "1"
+   },
+   {
+      "name": "Southwest Secondary Learning Center",
+      "location": {
+         "state": {
+            "name": "New Mexico",
+            "abbr": "NM",
+            "county": "Bernalillo County"
+         }
+      },
+      "type": "7-Independent Charter District",
+      "grades": {
+         "lowest": "9th Grade",
+         "highest": "12th Grade"
+      },
+      "students": "190",
+      "fte": "10.3",
+      "pupilTeacherRatio": "18.45",
+      "numberOfSchools": "1"
+   },
+   {
+      "name": "Springer Municipal Schools",
+      "location": {
+         "state": {
+            "name": "New Mexico",
+            "abbr": "NM",
+            "county": "Colfax County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Kindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "134",
+      "fte": "14.93",
+      "pupilTeacherRatio": "8.98",
+      "numberOfSchools": "3"
+   },
+   {
+      "name": "Sw Aeronautics Mathematics and Science Academy",
+      "location": {
+         "state": {
+            "name": "New Mexico",
+            "abbr": "NM",
+            "county": "Bernalillo County"
+         }
+      },
+      "type": "7-Independent Charter District",
+      "grades": {
+         "lowest": "7th Grade",
+         "highest": "12th Grade"
+      },
+      "students": "267",
+      "fte": "11.85",
+      "pupilTeacherRatio": "22.53",
+      "numberOfSchools": "1"
+   },
+   {
+      "name": "T or C Municipal Schools",
+      "location": {
+         "state": {
+            "name": "New Mexico",
+            "abbr": "NM",
+            "county": "Sierra County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "1285",
+      "fte": "87.96",
+      "pupilTeacherRatio": "14.61",
+      "numberOfSchools": "5"
+   },
+   {
+      "name": "Taos Academy",
+      "location": {
+         "state": {
+            "name": "New Mexico",
+            "abbr": "NM",
+            "county": "Taos County"
+         }
+      },
+      "type": "7-Independent Charter District",
+      "grades": {
+         "lowest": "5th Grade",
+         "highest": "12th Grade"
+      },
+      "students": "241",
+      "fte": "16.89",
+      "pupilTeacherRatio": "14.27",
+      "numberOfSchools": "1"
+   },
+   {
+      "name": "Taos Integrated School of the Arts",
+      "location": {
+         "state": {
+            "name": "New Mexico",
+            "abbr": "NM",
+            "county": "Taos County"
+         }
+      },
+      "type": "7-Independent Charter District",
+      "grades": {
+         "lowest": "Kindergarten",
+         "highest": "8th Grade"
+      },
+      "students": "173",
+      "fte": "11.07",
+      "pupilTeacherRatio": "15.63",
+      "numberOfSchools": "1"
+   },
+   {
+      "name": "Taos International School",
+      "location": {
+         "state": {
+            "name": "New Mexico",
+            "abbr": "NM",
+            "county": "Taos County"
+         }
+      },
+      "type": "7-Independent Charter District",
+      "grades": {
+         "lowest": "Kindergarten",
+         "highest": "8th Grade"
+      },
+      "students": "158",
+      "fte": "12.68",
+      "pupilTeacherRatio": "12.46",
+      "numberOfSchools": "1"
+   },
+   {
+      "name": "Taos Municipal Schools",
+      "location": {
+         "state": {
+            "name": "New Mexico",
+            "abbr": "NM",
+            "county": "Taos County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "2635",
+      "fte": "196.91",
+      "pupilTeacherRatio": "13.38",
+      "numberOfSchools": "10"
+   },
+   {
+      "name": "Tatum Municipal Schools",
+      "location": {
+         "state": {
+            "name": "New Mexico",
+            "abbr": "NM",
+            "county": "Lea County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "355",
+      "fte": "23.95",
+      "pupilTeacherRatio": "14.82",
+      "numberOfSchools": "3"
+   },
+   {
+      "name": "Texico Municipal Schools",
+      "location": {
+         "state": {
+            "name": "New Mexico",
+            "abbr": "NM",
+            "county": "Curry County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "580",
+      "fte": "39.41",
+      "pupilTeacherRatio": "14.72",
+      "numberOfSchools": "3"
+   },
+   {
+      "name": "The Ask Academy",
+      "location": {
+         "state": {
+            "name": "New Mexico",
+            "abbr": "NM",
+            "county": "Sandoval County"
+         }
+      },
+      "type": "7-Independent Charter District",
+      "grades": {
+         "lowest": "6th Grade",
+         "highest": "12th Grade"
+      },
+      "students": "554",
+      "fte": "33.4",
+      "pupilTeacherRatio": "16.59",
+      "numberOfSchools": "1"
+   },
+   {
+      "name": "The Great Academy",
+      "location": {
+         "state": {
+            "name": "New Mexico",
+            "abbr": "NM",
+            "county": "Bernalillo County"
+         }
+      },
+      "type": "7-Independent Charter District",
+      "grades": {
+         "lowest": "6th Grade",
+         "highest": "12th Grade"
+      },
+      "students": "168",
+      "fte": "5.54",
+      "pupilTeacherRatio": "30.32",
+      "numberOfSchools": "1"
+   },
+   {
+      "name": "The Masters Program",
+      "location": {
+         "state": {
+            "name": "New Mexico",
+            "abbr": "NM",
+            "county": "Santa Fe County"
+         }
+      },
+      "type": "7-Independent Charter District",
+      "grades": {
+         "lowest": "9th Grade",
+         "highest": "12th Grade"
+      },
+      "students": "263",
+      "fte": "13.45",
+      "pupilTeacherRatio": "19.55",
+      "numberOfSchools": "1"
+   },
+   {
+      "name": "Tierra Adentro",
+      "location": {
+         "state": {
+            "name": "New Mexico",
+            "abbr": "NM",
+            "county": "Bernalillo County"
+         }
+      },
+      "type": "7-Independent Charter District",
+      "grades": {
+         "lowest": "6th Grade",
+         "highest": "12th Grade"
+      },
+      "students": "273",
+      "fte": "23",
+      "pupilTeacherRatio": "11.87",
+      "numberOfSchools": "1"
+   },
+   {
+      "name": "Tierra Encantada Charter School",
+      "location": {
+         "state": {
+            "name": "NEW MEXICO",
+            "abbr": "NM",
+            "county": "Santa Fe County"
+         }
+      },
+      "type": "7-Independent Charter District",
+      "grades": {
+         "lowest": "7th Grade",
+         "highest": "12th Grade"
+      },
+      "students": "311",
+      "fte": "20.3",
+      "pupilTeacherRatio": "15.32",
+      "numberOfSchools": "1"
+   },
+   {
+      "name": "Tucumcari Public Schools",
+      "location": {
+         "state": {
+            "name": "New Mexico",
+            "abbr": "NM",
+            "county": "Quay County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "949",
+      "fte": "65.71",
+      "pupilTeacherRatio": "14.44",
+      "numberOfSchools": "3"
+   },
+   {
+      "name": "Tularosa Municipal Schools",
+      "location": {
+         "state": {
+            "name": "New Mexico",
+            "abbr": "NM",
+            "county": "Otero County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "859",
+      "fte": "64.96",
+      "pupilTeacherRatio": "13.22",
+      "numberOfSchools": "4"
+   },
+   {
+      "name": "Turquoise Trail Charter School",
+      "location": {
+         "state": {
+            "name": "NEW MEXICO",
+            "abbr": "NM",
+            "county": "Santa Fe County"
+         }
+      },
+      "type": "7-Independent Charter District",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "8th Grade"
+      },
+      "students": "638",
+      "fte": "40.4",
+      "pupilTeacherRatio": "15.79",
+      "numberOfSchools": "1"
+   },
+   {
+      "name": "Vaughn Municipal Schools",
+      "location": {
+         "state": {
+            "name": "New Mexico",
+            "abbr": "NM",
+            "county": "Guadalupe County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "58",
+      "fte": "9.88",
+      "pupilTeacherRatio": "5.87",
+      "numberOfSchools": "2"
+   },
+   {
+      "name": "Wagon Mound Public Schools",
+      "location": {
+         "state": {
+            "name": "New Mexico",
+            "abbr": "NM",
+            "county": "Mora County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "68",
+      "fte": "13.71",
+      "pupilTeacherRatio": "4.96",
+      "numberOfSchools": "2"
+   },
+   {
+      "name": "Walatowa Charter High",
+      "location": {
+         "state": {
+            "name": "New Mexico",
+            "abbr": "NM",
+            "county": "Sandoval County"
+         }
+      },
+      "type": "7-Independent Charter District",
+      "grades": {
+         "lowest": "9th Grade",
+         "highest": "12th Grade"
+      },
+      "students": "55",
+      "fte": "5",
+      "pupilTeacherRatio": "11",
+      "numberOfSchools": "1"
+   },
+   {
+      "name": "West Las Vegas Public Schools",
+      "location": {
+         "state": {
+            "name": "New Mexico",
+            "abbr": "NM",
+            "county": "San Miguel County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "1512",
+      "fte": "94.24",
+      "pupilTeacherRatio": "16.04",
+      "numberOfSchools": "10"
+   },
+   {
+      "name": "Zuni Public Schools",
+      "location": {
+         "state": {
+            "name": "New Mexico",
+            "abbr": "NM",
+            "county": "McKinley County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "1234",
+      "fte": "96.97",
+      "pupilTeacherRatio": "12.73",
+      "numberOfSchools": "4"
+   }
+]

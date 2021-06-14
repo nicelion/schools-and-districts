@@ -1,0 +1,6310 @@
+[
+   {
+      "name": "Abilene",
+      "location": {
+         "state": {
+            "name": "Kansas",
+            "abbr": "KS",
+            "county": "Dickinson County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "1532",
+      "fte": "96.72",
+      "pupilTeacherRatio": "15.84",
+      "numberOfSchools": "5"
+   },
+   {
+      "name": "Altoona-Midway",
+      "location": {
+         "state": {
+            "name": "Kansas",
+            "abbr": "KS",
+            "county": "Wilson County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "181",
+      "fte": "0",
+      "pupilTeacherRatio": "†",
+      "numberOfSchools": "2"
+   },
+   {
+      "name": "Andover",
+      "location": {
+         "state": {
+            "name": "Kansas",
+            "abbr": "KS",
+            "county": "Butler County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "9185",
+      "fte": "347.87",
+      "pupilTeacherRatio": "26.4",
+      "numberOfSchools": "11"
+   },
+   {
+      "name": "Anw Special Education Cooperative",
+      "location": {
+         "state": {
+            "name": "Kansas",
+            "abbr": "KS",
+            "county": "Allen County"
+         }
+      },
+      "type": "4-Regional Education Service Agency (RESA)",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "0",
+      "fte": "4.2",
+      "pupilTeacherRatio": "0",
+      "numberOfSchools": "0"
+   },
+   {
+      "name": "Argonia Public Schools",
+      "location": {
+         "state": {
+            "name": "Kansas",
+            "abbr": "KS",
+            "county": "Sumner County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "169",
+      "fte": "20.1",
+      "pupilTeacherRatio": "8.41",
+      "numberOfSchools": "2"
+   },
+   {
+      "name": "Arkansas City",
+      "location": {
+         "state": {
+            "name": "Kansas",
+            "abbr": "KS",
+            "county": "Cowley County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "2900",
+      "fte": "213.2",
+      "pupilTeacherRatio": "13.6",
+      "numberOfSchools": "8"
+   },
+   {
+      "name": "Ashland",
+      "location": {
+         "state": {
+            "name": "Kansas",
+            "abbr": "KS",
+            "county": "Clark County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "213",
+      "fte": "15.55",
+      "pupilTeacherRatio": "13.7",
+      "numberOfSchools": "3"
+   },
+   {
+      "name": "Atchison Co Comm Schools",
+      "location": {
+         "state": {
+            "name": "Kansas",
+            "abbr": "KS",
+            "county": "Atchison County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "522",
+      "fte": "49.6",
+      "pupilTeacherRatio": "10.52",
+      "numberOfSchools": "2"
+   },
+   {
+      "name": "Atchison Public Schools",
+      "location": {
+         "state": {
+            "name": "Kansas",
+            "abbr": "KS",
+            "county": "Atchison County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "1726",
+      "fte": "164.4",
+      "pupilTeacherRatio": "10.5",
+      "numberOfSchools": "4"
+   },
+   {
+      "name": "Attica",
+      "location": {
+         "state": {
+            "name": "Kansas",
+            "abbr": "KS",
+            "county": "Harper County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "167",
+      "fte": "0",
+      "pupilTeacherRatio": "†",
+      "numberOfSchools": "2"
+   },
+   {
+      "name": "Auburn Washburn",
+      "location": {
+         "state": {
+            "name": "Kansas",
+            "abbr": "KS",
+            "county": "Shawnee County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "6349",
+      "fte": "481.23",
+      "pupilTeacherRatio": "13.19",
+      "numberOfSchools": "9"
+   },
+   {
+      "name": "Augusta",
+      "location": {
+         "state": {
+            "name": "Kansas",
+            "abbr": "KS",
+            "county": "Butler County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "2114",
+      "fte": "139.5",
+      "pupilTeacherRatio": "15.15",
+      "numberOfSchools": "6"
+   },
+   {
+      "name": "Baldwin City",
+      "location": {
+         "state": {
+            "name": "Kansas",
+            "abbr": "KS",
+            "county": "Douglas County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "1390",
+      "fte": "88.8",
+      "pupilTeacherRatio": "15.65",
+      "numberOfSchools": "4"
+   },
+   {
+      "name": "Barber County North",
+      "location": {
+         "state": {
+            "name": "Kansas",
+            "abbr": "KS",
+            "county": "Barber County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "521",
+      "fte": "42.7",
+      "pupilTeacherRatio": "12.2",
+      "numberOfSchools": "2"
+   },
+   {
+      "name": "Barnes",
+      "location": {
+         "state": {
+            "name": "Kansas",
+            "abbr": "KS",
+            "county": "Washington County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "446",
+      "fte": "40.5",
+      "pupilTeacherRatio": "11.01",
+      "numberOfSchools": "4"
+   },
+   {
+      "name": "Barton Co Coop. Program of Special Services",
+      "location": {
+         "state": {
+            "name": "KANSAS",
+            "abbr": "KS",
+            "county": "Barton County"
+         }
+      },
+      "type": "4-Regional Education Service Agency (RESA)",
+      "grades": {
+         "lowest": "†",
+         "highest": "†"
+      },
+      "students": "0",
+      "fte": "0",
+      "pupilTeacherRatio": "†",
+      "numberOfSchools": "0"
+   },
+   {
+      "name": "Basehor-Linwood",
+      "location": {
+         "state": {
+            "name": "Kansas",
+            "abbr": "KS",
+            "county": "Leavenworth County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "2832",
+      "fte": "176.2",
+      "pupilTeacherRatio": "16.07",
+      "numberOfSchools": "5"
+   },
+   {
+      "name": "Baxter Springs",
+      "location": {
+         "state": {
+            "name": "Kansas",
+            "abbr": "KS",
+            "county": "Cherokee County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "935",
+      "fte": "68.3",
+      "pupilTeacherRatio": "13.69",
+      "numberOfSchools": "3"
+   },
+   {
+      "name": "Belle Plaine",
+      "location": {
+         "state": {
+            "name": "Kansas",
+            "abbr": "KS",
+            "county": "Sumner County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "639",
+      "fte": "49.2",
+      "pupilTeacherRatio": "12.99",
+      "numberOfSchools": "3"
+   },
+   {
+      "name": "Beloit",
+      "location": {
+         "state": {
+            "name": "Kansas",
+            "abbr": "KS",
+            "county": "Mitchell County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "806",
+      "fte": "91.4",
+      "pupilTeacherRatio": "8.82",
+      "numberOfSchools": "2"
+   },
+   {
+      "name": "Beloit Special Education Cooperative",
+      "location": {
+         "state": {
+            "name": "KANSAS",
+            "abbr": "KS",
+            "county": "Mitchell County"
+         }
+      },
+      "type": "4-Regional Education Service Agency (RESA)",
+      "grades": {
+         "lowest": "†",
+         "highest": "†"
+      },
+      "students": "0",
+      "fte": "0",
+      "pupilTeacherRatio": "†",
+      "numberOfSchools": "0"
+   },
+   {
+      "name": "Blue Valley",
+      "location": {
+         "state": {
+            "name": "Kansas",
+            "abbr": "KS",
+            "county": "Riley County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "227",
+      "fte": "22.7",
+      "pupilTeacherRatio": "10",
+      "numberOfSchools": "3"
+   },
+   {
+      "name": "Blue Valley",
+      "location": {
+         "state": {
+            "name": "Kansas",
+            "abbr": "KS",
+            "county": "Johnson County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "22887",
+      "fte": "1625.63",
+      "pupilTeacherRatio": "14.08",
+      "numberOfSchools": "35"
+   },
+   {
+      "name": "Bluestem",
+      "location": {
+         "state": {
+            "name": "Kansas",
+            "abbr": "KS",
+            "county": "Butler County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "499",
+      "fte": "37",
+      "pupilTeacherRatio": "13.49",
+      "numberOfSchools": "2"
+   },
+   {
+      "name": "Bonner Springs",
+      "location": {
+         "state": {
+            "name": "Kansas",
+            "abbr": "KS",
+            "county": "Wyandotte County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "2764",
+      "fte": "201.65",
+      "pupilTeacherRatio": "13.71",
+      "numberOfSchools": "5"
+   },
+   {
+      "name": "Brewster",
+      "location": {
+         "state": {
+            "name": "Kansas",
+            "abbr": "KS",
+            "county": "Thomas County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "115",
+      "fte": "22.63",
+      "pupilTeacherRatio": "5.08",
+      "numberOfSchools": "2"
+   },
+   {
+      "name": "Brown Co Ks Special Ed Coop",
+      "location": {
+         "state": {
+            "name": "Kansas",
+            "abbr": "KS",
+            "county": "Brown County"
+         }
+      },
+      "type": "4-Regional Education Service Agency (RESA)",
+      "grades": {
+         "lowest": "5th Grade",
+         "highest": "12th Grade"
+      },
+      "students": "0",
+      "fte": "0",
+      "pupilTeacherRatio": "†",
+      "numberOfSchools": "0"
+   },
+   {
+      "name": "Bucklin",
+      "location": {
+         "state": {
+            "name": "Kansas",
+            "abbr": "KS",
+            "county": "Ford County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "247",
+      "fte": "23.3",
+      "pupilTeacherRatio": "10.6",
+      "numberOfSchools": "2"
+   },
+   {
+      "name": "Buhler",
+      "location": {
+         "state": {
+            "name": "Kansas",
+            "abbr": "KS",
+            "county": "Reno County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "2398",
+      "fte": "133.97",
+      "pupilTeacherRatio": "17.9",
+      "numberOfSchools": "5"
+   },
+   {
+      "name": "Burlingame Public School",
+      "location": {
+         "state": {
+            "name": "Kansas",
+            "abbr": "KS",
+            "county": "Osage County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "292",
+      "fte": "25.2",
+      "pupilTeacherRatio": "11.59",
+      "numberOfSchools": "2"
+   },
+   {
+      "name": "Burlington",
+      "location": {
+         "state": {
+            "name": "Kansas",
+            "abbr": "KS",
+            "county": "Coffey County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "830",
+      "fte": "75.1",
+      "pupilTeacherRatio": "11.05",
+      "numberOfSchools": "3"
+   },
+   {
+      "name": "Burrton",
+      "location": {
+         "state": {
+            "name": "Kansas",
+            "abbr": "KS",
+            "county": "Harvey County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "223",
+      "fte": "23.3",
+      "pupilTeacherRatio": "9.57",
+      "numberOfSchools": "2"
+   },
+   {
+      "name": "Butler Co Special Education Interlocal",
+      "location": {
+         "state": {
+            "name": "KANSAS",
+            "abbr": "KS",
+            "county": "Butler County"
+         }
+      },
+      "type": "4-Regional Education Service Agency (RESA)",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "0",
+      "fte": "8",
+      "pupilTeacherRatio": "0",
+      "numberOfSchools": "0"
+   },
+   {
+      "name": "Caldwell",
+      "location": {
+         "state": {
+            "name": "Kansas",
+            "abbr": "KS",
+            "county": "Sumner County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "270",
+      "fte": "25.3",
+      "pupilTeacherRatio": "10.67",
+      "numberOfSchools": "2"
+   },
+   {
+      "name": "Caney Valley",
+      "location": {
+         "state": {
+            "name": "Kansas",
+            "abbr": "KS",
+            "county": "Montgomery County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "796",
+      "fte": "63.5",
+      "pupilTeacherRatio": "12.54",
+      "numberOfSchools": "3"
+   },
+   {
+      "name": "Canton-Galva",
+      "location": {
+         "state": {
+            "name": "Kansas",
+            "abbr": "KS",
+            "county": "McPherson County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "352",
+      "fte": "27",
+      "pupilTeacherRatio": "13.04",
+      "numberOfSchools": "2"
+   },
+   {
+      "name": "Cedar Vale",
+      "location": {
+         "state": {
+            "name": "Kansas",
+            "abbr": "KS",
+            "county": "Chautauqua County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "132",
+      "fte": "19.3",
+      "pupilTeacherRatio": "6.84",
+      "numberOfSchools": "2"
+   },
+   {
+      "name": "Central",
+      "location": {
+         "state": {
+            "name": "Kansas",
+            "abbr": "KS",
+            "county": "Cowley County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "321",
+      "fte": "27.7",
+      "pupilTeacherRatio": "11.59",
+      "numberOfSchools": "2"
+   },
+   {
+      "name": "Central Heights",
+      "location": {
+         "state": {
+            "name": "Kansas",
+            "abbr": "KS",
+            "county": "Franklin County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "516",
+      "fte": "53.1",
+      "pupilTeacherRatio": "9.72",
+      "numberOfSchools": "2"
+   },
+   {
+      "name": "Central Kansas Cooperative in Education",
+      "location": {
+         "state": {
+            "name": "KANSAS",
+            "abbr": "KS",
+            "county": "Saline County"
+         }
+      },
+      "type": "4-Regional Education Service Agency (RESA)",
+      "grades": {
+         "lowest": "†",
+         "highest": "†"
+      },
+      "students": "0",
+      "fte": "0",
+      "pupilTeacherRatio": "†",
+      "numberOfSchools": "0"
+   },
+   {
+      "name": "Central Plains",
+      "location": {
+         "state": {
+            "name": "Kansas",
+            "abbr": "KS",
+            "county": "Ellsworth County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "496",
+      "fte": "48.7",
+      "pupilTeacherRatio": "10.18",
+      "numberOfSchools": "4"
+   },
+   {
+      "name": "Centre",
+      "location": {
+         "state": {
+            "name": "Kansas",
+            "abbr": "KS",
+            "county": "Marion County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "496",
+      "fte": "29.31",
+      "pupilTeacherRatio": "16.92",
+      "numberOfSchools": "1"
+   },
+   {
+      "name": "Chanute Public Schools",
+      "location": {
+         "state": {
+            "name": "Kansas",
+            "abbr": "KS",
+            "county": "Neosho County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "1881",
+      "fte": "116.4",
+      "pupilTeacherRatio": "16.16",
+      "numberOfSchools": "3"
+   },
+   {
+      "name": "Chaparral Schools",
+      "location": {
+         "state": {
+            "name": "Kansas",
+            "abbr": "KS",
+            "county": "Harper County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "845",
+      "fte": "72",
+      "pupilTeacherRatio": "11.74",
+      "numberOfSchools": "3"
+   },
+   {
+      "name": "Chapman",
+      "location": {
+         "state": {
+            "name": "Kansas",
+            "abbr": "KS",
+            "county": "Dickinson County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "1090",
+      "fte": "81.6",
+      "pupilTeacherRatio": "13.36",
+      "numberOfSchools": "6"
+   },
+   {
+      "name": "Chase County",
+      "location": {
+         "state": {
+            "name": "Kansas",
+            "abbr": "KS",
+            "county": "Chase County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "385",
+      "fte": "31.63",
+      "pupilTeacherRatio": "12.17",
+      "numberOfSchools": "2"
+   },
+   {
+      "name": "Chase-Raymond",
+      "location": {
+         "state": {
+            "name": "Kansas",
+            "abbr": "KS",
+            "county": "Rice County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "150",
+      "fte": "22.8",
+      "pupilTeacherRatio": "6.58",
+      "numberOfSchools": "3"
+   },
+   {
+      "name": "Chautauqua & Elk Co Sp. Ed. Services",
+      "location": {
+         "state": {
+            "name": "KANSAS",
+            "abbr": "KS",
+            "county": "Elk County"
+         }
+      },
+      "type": "4-Regional Education Service Agency (RESA)",
+      "grades": {
+         "lowest": "†",
+         "highest": "†"
+      },
+      "students": "0",
+      "fte": "0",
+      "pupilTeacherRatio": "†",
+      "numberOfSchools": "0"
+   },
+   {
+      "name": "Chautauqua Co Community",
+      "location": {
+         "state": {
+            "name": "Kansas",
+            "abbr": "KS",
+            "county": "Chautauqua County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "385",
+      "fte": "33.9",
+      "pupilTeacherRatio": "11.36",
+      "numberOfSchools": "2"
+   },
+   {
+      "name": "Cheney",
+      "location": {
+         "state": {
+            "name": "Kansas",
+            "abbr": "KS",
+            "county": "Sedgwick County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "816",
+      "fte": "56.95",
+      "pupilTeacherRatio": "14.33",
+      "numberOfSchools": "3"
+   },
+   {
+      "name": "Cherokee",
+      "location": {
+         "state": {
+            "name": "Kansas",
+            "abbr": "KS",
+            "county": "Crawford County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "499",
+      "fte": "43.1",
+      "pupilTeacherRatio": "11.58",
+      "numberOfSchools": "3"
+   },
+   {
+      "name": "Cherryvale",
+      "location": {
+         "state": {
+            "name": "Kansas",
+            "abbr": "KS",
+            "county": "Montgomery County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "772",
+      "fte": "81.9",
+      "pupilTeacherRatio": "9.43",
+      "numberOfSchools": "3"
+   },
+   {
+      "name": "Chetopa-St. Paul",
+      "location": {
+         "state": {
+            "name": "Kansas",
+            "abbr": "KS",
+            "county": "Labette County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "418",
+      "fte": "39.91",
+      "pupilTeacherRatio": "10.47",
+      "numberOfSchools": "5"
+   },
+   {
+      "name": "Cheylin",
+      "location": {
+         "state": {
+            "name": "Kansas",
+            "abbr": "KS",
+            "county": "Cheyenne County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "151",
+      "fte": "13.5",
+      "pupilTeacherRatio": "11.19",
+      "numberOfSchools": "2"
+   },
+   {
+      "name": "Cimarron-Ensign",
+      "location": {
+         "state": {
+            "name": "Kansas",
+            "abbr": "KS",
+            "county": "Gray County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "685",
+      "fte": "54.78",
+      "pupilTeacherRatio": "12.5",
+      "numberOfSchools": "2"
+   },
+   {
+      "name": "Circle",
+      "location": {
+         "state": {
+            "name": "Kansas",
+            "abbr": "KS",
+            "county": "Butler County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "2016",
+      "fte": "139.85",
+      "pupilTeacherRatio": "14.42",
+      "numberOfSchools": "6"
+   },
+   {
+      "name": "Clay Center",
+      "location": {
+         "state": {
+            "name": "Kansas",
+            "abbr": "KS",
+            "county": "Clay County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "1330",
+      "fte": "114.9",
+      "pupilTeacherRatio": "11.58",
+      "numberOfSchools": "6"
+   },
+   {
+      "name": "Clearwater",
+      "location": {
+         "state": {
+            "name": "Kansas",
+            "abbr": "KS",
+            "county": "Sedgwick County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "1191",
+      "fte": "82.4",
+      "pupilTeacherRatio": "14.45",
+      "numberOfSchools": "3"
+   },
+   {
+      "name": "Clifton-Clyde",
+      "location": {
+         "state": {
+            "name": "Kansas",
+            "abbr": "KS",
+            "county": "Cloud County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "333",
+      "fte": "34.9",
+      "pupilTeacherRatio": "9.54",
+      "numberOfSchools": "3"
+   },
+   {
+      "name": "Coffey County Special Education Cooperative",
+      "location": {
+         "state": {
+            "name": "KANSAS",
+            "abbr": "KS",
+            "county": "Coffey County"
+         }
+      },
+      "type": "4-Regional Education Service Agency (RESA)",
+      "grades": {
+         "lowest": "Kindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "0",
+      "fte": "0",
+      "pupilTeacherRatio": "†",
+      "numberOfSchools": "0"
+   },
+   {
+      "name": "Coffeyville",
+      "location": {
+         "state": {
+            "name": "Kansas",
+            "abbr": "KS",
+            "county": "Montgomery County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "1893",
+      "fte": "102.5",
+      "pupilTeacherRatio": "18.47",
+      "numberOfSchools": "3"
+   },
+   {
+      "name": "Colby Public Schools",
+      "location": {
+         "state": {
+            "name": "Kansas",
+            "abbr": "KS",
+            "county": "Thomas County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "958",
+      "fte": "63.78",
+      "pupilTeacherRatio": "15.02",
+      "numberOfSchools": "3"
+   },
+   {
+      "name": "Columbus",
+      "location": {
+         "state": {
+            "name": "Kansas",
+            "abbr": "KS",
+            "county": "Cherokee County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "946",
+      "fte": "73.36",
+      "pupilTeacherRatio": "12.9",
+      "numberOfSchools": "4"
+   },
+   {
+      "name": "Comanche County",
+      "location": {
+         "state": {
+            "name": "Kansas",
+            "abbr": "KS",
+            "county": "Comanche County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "345",
+      "fte": "24.13",
+      "pupilTeacherRatio": "14.3",
+      "numberOfSchools": "3"
+   },
+   {
+      "name": "Concordia",
+      "location": {
+         "state": {
+            "name": "Kansas",
+            "abbr": "KS",
+            "county": "Cloud County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "1114",
+      "fte": "102.2",
+      "pupilTeacherRatio": "10.9",
+      "numberOfSchools": "3"
+   },
+   {
+      "name": "Conway Springs",
+      "location": {
+         "state": {
+            "name": "Kansas",
+            "abbr": "KS",
+            "county": "Sumner County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "424",
+      "fte": "34.43",
+      "pupilTeacherRatio": "12.31",
+      "numberOfSchools": "3"
+   },
+   {
+      "name": "Copeland",
+      "location": {
+         "state": {
+            "name": "Kansas",
+            "abbr": "KS",
+            "county": "Gray County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "116",
+      "fte": "16.3",
+      "pupilTeacherRatio": "7.12",
+      "numberOfSchools": "2"
+   },
+   {
+      "name": "Cowley County Special Services Cooperative",
+      "location": {
+         "state": {
+            "name": "KANSAS",
+            "abbr": "KS",
+            "county": "Cowley County"
+         }
+      },
+      "type": "4-Regional Education Service Agency (RESA)",
+      "grades": {
+         "lowest": "†",
+         "highest": "†"
+      },
+      "students": "0",
+      "fte": "0",
+      "pupilTeacherRatio": "†",
+      "numberOfSchools": "0"
+   },
+   {
+      "name": "Crest",
+      "location": {
+         "state": {
+            "name": "Kansas",
+            "abbr": "KS",
+            "county": "Anderson County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "236",
+      "fte": "24.32",
+      "pupilTeacherRatio": "9.7",
+      "numberOfSchools": "2"
+   },
+   {
+      "name": "Cunningham",
+      "location": {
+         "state": {
+            "name": "Kansas",
+            "abbr": "KS",
+            "county": "Kingman County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "202",
+      "fte": "24.6",
+      "pupilTeacherRatio": "8.21",
+      "numberOfSchools": "2"
+   },
+   {
+      "name": "De Soto",
+      "location": {
+         "state": {
+            "name": "Kansas",
+            "abbr": "KS",
+            "county": "Johnson County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "7467",
+      "fte": "490.1",
+      "pupilTeacherRatio": "15.24",
+      "numberOfSchools": "12"
+   },
+   {
+      "name": "Deerfield",
+      "location": {
+         "state": {
+            "name": "Kansas",
+            "abbr": "KS",
+            "county": "Kearny County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "201",
+      "fte": "19.9",
+      "pupilTeacherRatio": "10.1",
+      "numberOfSchools": "3"
+   },
+   {
+      "name": "Department of Corrections",
+      "location": {
+         "state": {
+            "name": "Kansas",
+            "abbr": "KS",
+            "county": "Shawnee County"
+         }
+      },
+      "type": "5-State agency providing elementary and/or secondary level instruction",
+      "grades": {
+         "lowest": "7th Grade",
+         "highest": "12th Grade"
+      },
+      "students": "117",
+      "fte": "12",
+      "pupilTeacherRatio": "9.75",
+      "numberOfSchools": "1"
+   },
+   {
+      "name": "Derby",
+      "location": {
+         "state": {
+            "name": "Kansas",
+            "abbr": "KS",
+            "county": "Sedgwick County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "7258",
+      "fte": "529.65",
+      "pupilTeacherRatio": "13.7",
+      "numberOfSchools": "12"
+   },
+   {
+      "name": "Dexter",
+      "location": {
+         "state": {
+            "name": "Kansas",
+            "abbr": "KS",
+            "county": "Cowley County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "218",
+      "fte": "20.57",
+      "pupilTeacherRatio": "10.6",
+      "numberOfSchools": "2"
+   },
+   {
+      "name": "Dighton",
+      "location": {
+         "state": {
+            "name": "Kansas",
+            "abbr": "KS",
+            "county": "Lane County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "257",
+      "fte": "21",
+      "pupilTeacherRatio": "12.24",
+      "numberOfSchools": "2"
+   },
+   {
+      "name": "Dodge City",
+      "location": {
+         "state": {
+            "name": "Kansas",
+            "abbr": "KS",
+            "county": "Ford County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "7318",
+      "fte": "415.03",
+      "pupilTeacherRatio": "17.63",
+      "numberOfSchools": "12"
+   },
+   {
+      "name": "Doniphan Co Education Coop",
+      "location": {
+         "state": {
+            "name": "Kansas",
+            "abbr": "KS",
+            "county": "Doniphan County"
+         }
+      },
+      "type": "4-Regional Education Service Agency (RESA)",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "0",
+      "fte": "0",
+      "pupilTeacherRatio": "†",
+      "numberOfSchools": "0"
+   },
+   {
+      "name": "Doniphan West Schools",
+      "location": {
+         "state": {
+            "name": "Kansas",
+            "abbr": "KS",
+            "county": "Doniphan County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "341",
+      "fte": "0",
+      "pupilTeacherRatio": "†",
+      "numberOfSchools": "2"
+   },
+   {
+      "name": "Douglass Public Schools",
+      "location": {
+         "state": {
+            "name": "Kansas",
+            "abbr": "KS",
+            "county": "Butler County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "656",
+      "fte": "54.2",
+      "pupilTeacherRatio": "12.1",
+      "numberOfSchools": "3"
+   },
+   {
+      "name": "Durham-Hillsboro-Lehigh",
+      "location": {
+         "state": {
+            "name": "Kansas",
+            "abbr": "KS",
+            "county": "Marion County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "610",
+      "fte": "41.7",
+      "pupilTeacherRatio": "14.63",
+      "numberOfSchools": "2"
+   },
+   {
+      "name": "East Central Ks Coop in Educ",
+      "location": {
+         "state": {
+            "name": "Kansas",
+            "abbr": "KS",
+            "county": "Douglas County"
+         }
+      },
+      "type": "4-Regional Education Service Agency (RESA)",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "0",
+      "fte": "0",
+      "pupilTeacherRatio": "†",
+      "numberOfSchools": "0"
+   },
+   {
+      "name": "East Central Ks Sp. Ed. Coop.",
+      "location": {
+         "state": {
+            "name": "KANSAS",
+            "abbr": "KS",
+            "county": "Miami County"
+         }
+      },
+      "type": "4-Regional Education Service Agency (RESA)",
+      "grades": {
+         "lowest": "2nd Grade",
+         "highest": "12th Grade"
+      },
+      "students": "0",
+      "fte": "0",
+      "pupilTeacherRatio": "†",
+      "numberOfSchools": "0"
+   },
+   {
+      "name": "Easton",
+      "location": {
+         "state": {
+            "name": "Kansas",
+            "abbr": "KS",
+            "county": "Leavenworth County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "655",
+      "fte": "46.35",
+      "pupilTeacherRatio": "14.13",
+      "numberOfSchools": "3"
+   },
+   {
+      "name": "El Dorado",
+      "location": {
+         "state": {
+            "name": "Kansas",
+            "abbr": "KS",
+            "county": "Butler County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "1904",
+      "fte": "122.99",
+      "pupilTeacherRatio": "15.48",
+      "numberOfSchools": "5"
+   },
+   {
+      "name": "Elk Valley",
+      "location": {
+         "state": {
+            "name": "Kansas",
+            "abbr": "KS",
+            "county": "Elk County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "116",
+      "fte": "10.5",
+      "pupilTeacherRatio": "11.05",
+      "numberOfSchools": "2"
+   },
+   {
+      "name": "Elkhart",
+      "location": {
+         "state": {
+            "name": "Kansas",
+            "abbr": "KS",
+            "county": "Morton County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "1257",
+      "fte": "69.27",
+      "pupilTeacherRatio": "18.15",
+      "numberOfSchools": "5"
+   },
+   {
+      "name": "Ell-Saline",
+      "location": {
+         "state": {
+            "name": "Kansas",
+            "abbr": "KS",
+            "county": "Saline County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "499",
+      "fte": "33",
+      "pupilTeacherRatio": "15.12",
+      "numberOfSchools": "2"
+   },
+   {
+      "name": "Ellinwood Public Schools",
+      "location": {
+         "state": {
+            "name": "Kansas",
+            "abbr": "KS",
+            "county": "Barton County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "500",
+      "fte": "35.3",
+      "pupilTeacherRatio": "14.16",
+      "numberOfSchools": "3"
+   },
+   {
+      "name": "Ellis",
+      "location": {
+         "state": {
+            "name": "Kansas",
+            "abbr": "KS",
+            "county": "Ellis County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "450",
+      "fte": "42.1",
+      "pupilTeacherRatio": "10.69",
+      "numberOfSchools": "2"
+   },
+   {
+      "name": "Ellsworth",
+      "location": {
+         "state": {
+            "name": "Kansas",
+            "abbr": "KS",
+            "county": "Ellsworth County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "636",
+      "fte": "52",
+      "pupilTeacherRatio": "12.23",
+      "numberOfSchools": "3"
+   },
+   {
+      "name": "Emporia",
+      "location": {
+         "state": {
+            "name": "Kansas",
+            "abbr": "KS",
+            "county": "Lyon County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "4685",
+      "fte": "358.94",
+      "pupilTeacherRatio": "13.05",
+      "numberOfSchools": "8"
+   },
+   {
+      "name": "Erie-Galesburg",
+      "location": {
+         "state": {
+            "name": "Kansas",
+            "abbr": "KS",
+            "county": "Neosho County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "507",
+      "fte": "39.2",
+      "pupilTeacherRatio": "12.93",
+      "numberOfSchools": "3"
+   },
+   {
+      "name": "Eudora",
+      "location": {
+         "state": {
+            "name": "Kansas",
+            "abbr": "KS",
+            "county": "Douglas County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "1765",
+      "fte": "117.11",
+      "pupilTeacherRatio": "15.07",
+      "numberOfSchools": "3"
+   },
+   {
+      "name": "Eureka",
+      "location": {
+         "state": {
+            "name": "Kansas",
+            "abbr": "KS",
+            "county": "Greenwood County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "643",
+      "fte": "63",
+      "pupilTeacherRatio": "10.21",
+      "numberOfSchools": "2"
+   },
+   {
+      "name": "Fairfield",
+      "location": {
+         "state": {
+            "name": "Kansas",
+            "abbr": "KS",
+            "county": "Reno County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "312",
+      "fte": "29",
+      "pupilTeacherRatio": "10.76",
+      "numberOfSchools": "1"
+   },
+   {
+      "name": "Flint Hills Special Ed. Cooperative",
+      "location": {
+         "state": {
+            "name": "KANSAS",
+            "abbr": "KS",
+            "county": "Lyon County"
+         }
+      },
+      "type": "4-Regional Education Service Agency (RESA)",
+      "grades": {
+         "lowest": "Kindergarten",
+         "highest": "6th Grade"
+      },
+      "students": "0",
+      "fte": "0",
+      "pupilTeacherRatio": "†",
+      "numberOfSchools": "0"
+   },
+   {
+      "name": "Flinthills",
+      "location": {
+         "state": {
+            "name": "Kansas",
+            "abbr": "KS",
+            "county": "Butler County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "289",
+      "fte": "25.89",
+      "pupilTeacherRatio": "11.16",
+      "numberOfSchools": "4"
+   },
+   {
+      "name": "Fort Scott",
+      "location": {
+         "state": {
+            "name": "Kansas",
+            "abbr": "KS",
+            "county": "Bourbon County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "1818",
+      "fte": "147.7",
+      "pupilTeacherRatio": "12.31",
+      "numberOfSchools": "4"
+   },
+   {
+      "name": "Fowler",
+      "location": {
+         "state": {
+            "name": "Kansas",
+            "abbr": "KS",
+            "county": "Meade County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "135",
+      "fte": "14",
+      "pupilTeacherRatio": "9.64",
+      "numberOfSchools": "2"
+   },
+   {
+      "name": "Fredonia",
+      "location": {
+         "state": {
+            "name": "Kansas",
+            "abbr": "KS",
+            "county": "Wilson County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "696",
+      "fte": "68.55",
+      "pupilTeacherRatio": "10.15",
+      "numberOfSchools": "3"
+   },
+   {
+      "name": "Frontenac Public Schools",
+      "location": {
+         "state": {
+            "name": "Kansas",
+            "abbr": "KS",
+            "county": "Crawford County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "979",
+      "fte": "65.2",
+      "pupilTeacherRatio": "15.02",
+      "numberOfSchools": "3"
+   },
+   {
+      "name": "Ft Larned",
+      "location": {
+         "state": {
+            "name": "Kansas",
+            "abbr": "KS",
+            "county": "Pawnee County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "866",
+      "fte": "76",
+      "pupilTeacherRatio": "11.39",
+      "numberOfSchools": "3"
+   },
+   {
+      "name": "Ft Leavenworth",
+      "location": {
+         "state": {
+            "name": "Kansas",
+            "abbr": "KS",
+            "county": "Leavenworth County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "9th Grade"
+      },
+      "students": "1817",
+      "fte": "130",
+      "pupilTeacherRatio": "13.98",
+      "numberOfSchools": "4"
+   },
+   {
+      "name": "Galena",
+      "location": {
+         "state": {
+            "name": "Kansas",
+            "abbr": "KS",
+            "county": "Cherokee County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "858",
+      "fte": "50.1",
+      "pupilTeacherRatio": "17.13",
+      "numberOfSchools": "4"
+   },
+   {
+      "name": "Garden City",
+      "location": {
+         "state": {
+            "name": "Kansas",
+            "abbr": "KS",
+            "county": "Finney County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "7538",
+      "fte": "573.9",
+      "pupilTeacherRatio": "13.13",
+      "numberOfSchools": "17"
+   },
+   {
+      "name": "Gardner Edgerton",
+      "location": {
+         "state": {
+            "name": "Kansas",
+            "abbr": "KS",
+            "county": "Johnson County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "6173",
+      "fte": "459.44",
+      "pupilTeacherRatio": "13.44",
+      "numberOfSchools": "11"
+   },
+   {
+      "name": "Garnett",
+      "location": {
+         "state": {
+            "name": "Kansas",
+            "abbr": "KS",
+            "county": "Anderson County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "1006",
+      "fte": "88.9",
+      "pupilTeacherRatio": "11.32",
+      "numberOfSchools": "4"
+   },
+   {
+      "name": "Geary County Schools",
+      "location": {
+         "state": {
+            "name": "Kansas",
+            "abbr": "KS",
+            "county": "Geary County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "7463",
+      "fte": "650.5",
+      "pupilTeacherRatio": "11.47",
+      "numberOfSchools": "16"
+   },
+   {
+      "name": "Girard",
+      "location": {
+         "state": {
+            "name": "Kansas",
+            "abbr": "KS",
+            "county": "Crawford County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "1019",
+      "fte": "61.3",
+      "pupilTeacherRatio": "16.62",
+      "numberOfSchools": "3"
+   },
+   {
+      "name": "Goddard",
+      "location": {
+         "state": {
+            "name": "Kansas",
+            "abbr": "KS",
+            "county": "Sedgwick County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "5985",
+      "fte": "330.55",
+      "pupilTeacherRatio": "18.11",
+      "numberOfSchools": "11"
+   },
+   {
+      "name": "Goessel",
+      "location": {
+         "state": {
+            "name": "Kansas",
+            "abbr": "KS",
+            "county": "Marion County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "302",
+      "fte": "23.6",
+      "pupilTeacherRatio": "12.8",
+      "numberOfSchools": "2"
+   },
+   {
+      "name": "Golden Plains",
+      "location": {
+         "state": {
+            "name": "Kansas",
+            "abbr": "KS",
+            "county": "Sheridan County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "195",
+      "fte": "24.1",
+      "pupilTeacherRatio": "8.09",
+      "numberOfSchools": "3"
+   },
+   {
+      "name": "Goodland",
+      "location": {
+         "state": {
+            "name": "Kansas",
+            "abbr": "KS",
+            "county": "Sherman County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "1001",
+      "fte": "69.6",
+      "pupilTeacherRatio": "14.38",
+      "numberOfSchools": "3"
+   },
+   {
+      "name": "Graham County",
+      "location": {
+         "state": {
+            "name": "Kansas",
+            "abbr": "KS",
+            "county": "Graham County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "414",
+      "fte": "32.9",
+      "pupilTeacherRatio": "12.58",
+      "numberOfSchools": "2"
+   },
+   {
+      "name": "Great Bend",
+      "location": {
+         "state": {
+            "name": "Kansas",
+            "abbr": "KS",
+            "county": "Barton County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "2953",
+      "fte": "231.4",
+      "pupilTeacherRatio": "12.76",
+      "numberOfSchools": "7"
+   },
+   {
+      "name": "Greeley County Schools",
+      "location": {
+         "state": {
+            "name": "Kansas",
+            "abbr": "KS",
+            "county": "Greeley County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "251",
+      "fte": "29",
+      "pupilTeacherRatio": "8.66",
+      "numberOfSchools": "2"
+   },
+   {
+      "name": "Grinnell Public Schools",
+      "location": {
+         "state": {
+            "name": "Kansas",
+            "abbr": "KS",
+            "county": "Gove County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "71",
+      "fte": "10.9",
+      "pupilTeacherRatio": "6.51",
+      "numberOfSchools": "2"
+   },
+   {
+      "name": "Halstead",
+      "location": {
+         "state": {
+            "name": "Kansas",
+            "abbr": "KS",
+            "county": "Harvey County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "813",
+      "fte": "60.6",
+      "pupilTeacherRatio": "13.42",
+      "numberOfSchools": "3"
+   },
+   {
+      "name": "Hamilton",
+      "location": {
+         "state": {
+            "name": "Kansas",
+            "abbr": "KS",
+            "county": "Greenwood County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "60",
+      "fte": "14.3",
+      "pupilTeacherRatio": "4.2",
+      "numberOfSchools": "2"
+   },
+   {
+      "name": "Harvey Co. Sp. Ed. Coop.",
+      "location": {
+         "state": {
+            "name": "KANSAS",
+            "abbr": "KS",
+            "county": "Harvey County"
+         }
+      },
+      "type": "4-Regional Education Service Agency (RESA)",
+      "grades": {
+         "lowest": "†",
+         "highest": "†"
+      },
+      "students": "0",
+      "fte": "0",
+      "pupilTeacherRatio": "†",
+      "numberOfSchools": "0"
+   },
+   {
+      "name": "Haven Public Schools",
+      "location": {
+         "state": {
+            "name": "Kansas",
+            "abbr": "KS",
+            "county": "Reno County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "816",
+      "fte": "68.3",
+      "pupilTeacherRatio": "11.95",
+      "numberOfSchools": "5"
+   },
+   {
+      "name": "Haviland",
+      "location": {
+         "state": {
+            "name": "Kansas",
+            "abbr": "KS",
+            "county": "Kiowa County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "129",
+      "fte": "12.77",
+      "pupilTeacherRatio": "10.1",
+      "numberOfSchools": "1"
+   },
+   {
+      "name": "Hays",
+      "location": {
+         "state": {
+            "name": "Kansas",
+            "abbr": "KS",
+            "county": "Ellis County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "3207",
+      "fte": "226.02",
+      "pupilTeacherRatio": "14.19",
+      "numberOfSchools": "6"
+   },
+   {
+      "name": "Hays West Central Ks Special Ed. Coop.",
+      "location": {
+         "state": {
+            "name": "KANSAS",
+            "abbr": "KS",
+            "county": "Ellis County"
+         }
+      },
+      "type": "4-Regional Education Service Agency (RESA)",
+      "grades": {
+         "lowest": "†",
+         "highest": "†"
+      },
+      "students": "0",
+      "fte": "0",
+      "pupilTeacherRatio": "†",
+      "numberOfSchools": "0"
+   },
+   {
+      "name": "Haysville",
+      "location": {
+         "state": {
+            "name": "Kansas",
+            "abbr": "KS",
+            "county": "Sedgwick County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "5959",
+      "fte": "371.5",
+      "pupilTeacherRatio": "16.04",
+      "numberOfSchools": "9"
+   },
+   {
+      "name": "Healy Public Schools",
+      "location": {
+         "state": {
+            "name": "Kansas",
+            "abbr": "KS",
+            "county": "Lane County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "46",
+      "fte": "8.4",
+      "pupilTeacherRatio": "5.48",
+      "numberOfSchools": "2"
+   },
+   {
+      "name": "Herington",
+      "location": {
+         "state": {
+            "name": "Kansas",
+            "abbr": "KS",
+            "county": "Dickinson County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "465",
+      "fte": "34.7",
+      "pupilTeacherRatio": "13.4",
+      "numberOfSchools": "3"
+   },
+   {
+      "name": "Hesston",
+      "location": {
+         "state": {
+            "name": "Kansas",
+            "abbr": "KS",
+            "county": "Harvey County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "861",
+      "fte": "52.1",
+      "pupilTeacherRatio": "16.53",
+      "numberOfSchools": "3"
+   },
+   {
+      "name": "Hiawatha",
+      "location": {
+         "state": {
+            "name": "Kansas",
+            "abbr": "KS",
+            "county": "Brown County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "996",
+      "fte": "83.88",
+      "pupilTeacherRatio": "11.87",
+      "numberOfSchools": "3"
+   },
+   {
+      "name": "High Plains Educational Cooperative",
+      "location": {
+         "state": {
+            "name": "Kansas",
+            "abbr": "KS",
+            "county": "Grant County"
+         }
+      },
+      "type": "4-Regional Education Service Agency (RESA)",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "0",
+      "fte": "2",
+      "pupilTeacherRatio": "0",
+      "numberOfSchools": "0"
+   },
+   {
+      "name": "Hodgeman County Schools",
+      "location": {
+         "state": {
+            "name": "Kansas",
+            "abbr": "KS",
+            "county": "Hodgeman County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "286",
+      "fte": "26.9",
+      "pupilTeacherRatio": "10.63",
+      "numberOfSchools": "2"
+   },
+   {
+      "name": "Hoisington",
+      "location": {
+         "state": {
+            "name": "Kansas",
+            "abbr": "KS",
+            "county": "Barton County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "795",
+      "fte": "60.7",
+      "pupilTeacherRatio": "13.1",
+      "numberOfSchools": "4"
+   },
+   {
+      "name": "Holcomb",
+      "location": {
+         "state": {
+            "name": "Kansas",
+            "abbr": "KS",
+            "county": "Finney County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "1021",
+      "fte": "72.3",
+      "pupilTeacherRatio": "14.12",
+      "numberOfSchools": "4"
+   },
+   {
+      "name": "Holton",
+      "location": {
+         "state": {
+            "name": "Kansas",
+            "abbr": "KS",
+            "county": "Jackson County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "1176",
+      "fte": "92.8",
+      "pupilTeacherRatio": "12.67",
+      "numberOfSchools": "3"
+   },
+   {
+      "name": "Holton Special Education Coop.",
+      "location": {
+         "state": {
+            "name": "KANSAS",
+            "abbr": "KS",
+            "county": "Jackson County"
+         }
+      },
+      "type": "4-Regional Education Service Agency (RESA)",
+      "grades": {
+         "lowest": "Kindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "0",
+      "fte": "0",
+      "pupilTeacherRatio": "†",
+      "numberOfSchools": "0"
+   },
+   {
+      "name": "Hoxie Community Schools",
+      "location": {
+         "state": {
+            "name": "Kansas",
+            "abbr": "KS",
+            "county": "Sheridan County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "450",
+      "fte": "37.2",
+      "pupilTeacherRatio": "12.1",
+      "numberOfSchools": "2"
+   },
+   {
+      "name": "Hugoton Public Schools",
+      "location": {
+         "state": {
+            "name": "Kansas",
+            "abbr": "KS",
+            "county": "Stevens County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "1051",
+      "fte": "69.8",
+      "pupilTeacherRatio": "15.06",
+      "numberOfSchools": "4"
+   },
+   {
+      "name": "Humboldt",
+      "location": {
+         "state": {
+            "name": "Kansas",
+            "abbr": "KS",
+            "county": "Allen County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "868",
+      "fte": "40.2",
+      "pupilTeacherRatio": "21.59",
+      "numberOfSchools": "3"
+   },
+   {
+      "name": "Hutchinson Public Schools",
+      "location": {
+         "state": {
+            "name": "Kansas",
+            "abbr": "KS",
+            "county": "Reno County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "4590",
+      "fte": "412.95",
+      "pupilTeacherRatio": "11.12",
+      "numberOfSchools": "10"
+   },
+   {
+      "name": "Independence",
+      "location": {
+         "state": {
+            "name": "Kansas",
+            "abbr": "KS",
+            "county": "Montgomery County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "2083",
+      "fte": "160",
+      "pupilTeacherRatio": "13.02",
+      "numberOfSchools": "4"
+   },
+   {
+      "name": "Ingalls",
+      "location": {
+         "state": {
+            "name": "Kansas",
+            "abbr": "KS",
+            "county": "Gray County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "237",
+      "fte": "21.1",
+      "pupilTeacherRatio": "11.23",
+      "numberOfSchools": "2"
+   },
+   {
+      "name": "Inman",
+      "location": {
+         "state": {
+            "name": "Kansas",
+            "abbr": "KS",
+            "county": "McPherson County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "440",
+      "fte": "31",
+      "pupilTeacherRatio": "14.19",
+      "numberOfSchools": "2"
+   },
+   {
+      "name": "Iola",
+      "location": {
+         "state": {
+            "name": "Kansas",
+            "abbr": "KS",
+            "county": "Allen County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "1202",
+      "fte": "94.8",
+      "pupilTeacherRatio": "12.68",
+      "numberOfSchools": "5"
+   },
+   {
+      "name": "Jayhawk",
+      "location": {
+         "state": {
+            "name": "Kansas",
+            "abbr": "KS",
+            "county": "Linn County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "597",
+      "fte": "46.63",
+      "pupilTeacherRatio": "12.8",
+      "numberOfSchools": "2"
+   },
+   {
+      "name": "Jefferson County North",
+      "location": {
+         "state": {
+            "name": "Kansas",
+            "abbr": "KS",
+            "county": "Jefferson County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "477",
+      "fte": "41.5",
+      "pupilTeacherRatio": "11.49",
+      "numberOfSchools": "2"
+   },
+   {
+      "name": "Jefferson West",
+      "location": {
+         "state": {
+            "name": "Kansas",
+            "abbr": "KS",
+            "county": "Jefferson County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "872",
+      "fte": "55.4",
+      "pupilTeacherRatio": "15.74",
+      "numberOfSchools": "3"
+   },
+   {
+      "name": "Kansas City",
+      "location": {
+         "state": {
+            "name": "Kansas",
+            "abbr": "KS",
+            "county": "Wyandotte County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "23690",
+      "fte": "1641.67",
+      "pupilTeacherRatio": "14.43",
+      "numberOfSchools": "44"
+   },
+   {
+      "name": "Kaw Valley",
+      "location": {
+         "state": {
+            "name": "Kansas",
+            "abbr": "KS",
+            "county": "Pottawatomie County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "1170",
+      "fte": "112.5",
+      "pupilTeacherRatio": "10.4",
+      "numberOfSchools": "4"
+   },
+   {
+      "name": "Kingman - Norwich",
+      "location": {
+         "state": {
+            "name": "Kansas",
+            "abbr": "KS",
+            "county": "Kingman County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "915",
+      "fte": "67.65",
+      "pupilTeacherRatio": "13.53",
+      "numberOfSchools": "7"
+   },
+   {
+      "name": "Kinsley-Offerle",
+      "location": {
+         "state": {
+            "name": "Kansas",
+            "abbr": "KS",
+            "county": "Edwards County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "336",
+      "fte": "30.35",
+      "pupilTeacherRatio": "11.07",
+      "numberOfSchools": "2"
+   },
+   {
+      "name": "Kiowa County",
+      "location": {
+         "state": {
+            "name": "Kansas",
+            "abbr": "KS",
+            "county": "Kiowa County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "439",
+      "fte": "33.29",
+      "pupilTeacherRatio": "13.19",
+      "numberOfSchools": "3"
+   },
+   {
+      "name": "Kismet-Plains",
+      "location": {
+         "state": {
+            "name": "Kansas",
+            "abbr": "KS",
+            "county": "Seward County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "641",
+      "fte": "54.9",
+      "pupilTeacherRatio": "11.68",
+      "numberOfSchools": "3"
+   },
+   {
+      "name": "Labette County",
+      "location": {
+         "state": {
+            "name": "Kansas",
+            "abbr": "KS",
+            "county": "Labette County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "1624",
+      "fte": "126.9",
+      "pupilTeacherRatio": "12.8",
+      "numberOfSchools": "6"
+   },
+   {
+      "name": "Lacrosse",
+      "location": {
+         "state": {
+            "name": "Kansas",
+            "abbr": "KS",
+            "county": "Rush County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "278",
+      "fte": "27.93",
+      "pupilTeacherRatio": "9.95",
+      "numberOfSchools": "3"
+   },
+   {
+      "name": "Lakin",
+      "location": {
+         "state": {
+            "name": "Kansas",
+            "abbr": "KS",
+            "county": "Kearny County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "719",
+      "fte": "52.5",
+      "pupilTeacherRatio": "13.7",
+      "numberOfSchools": "3"
+   },
+   {
+      "name": "Lansing",
+      "location": {
+         "state": {
+            "name": "Kansas",
+            "abbr": "KS",
+            "county": "Leavenworth County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "2654",
+      "fte": "186",
+      "pupilTeacherRatio": "14.27",
+      "numberOfSchools": "4"
+   },
+   {
+      "name": "Lawrence",
+      "location": {
+         "state": {
+            "name": "Kansas",
+            "abbr": "KS",
+            "county": "Douglas County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "11802",
+      "fte": "861.59",
+      "pupilTeacherRatio": "13.7",
+      "numberOfSchools": "21"
+   },
+   {
+      "name": "Learning Cooperative of North Central Kansas",
+      "location": {
+         "state": {
+            "name": "KANSAS",
+            "abbr": "KS",
+            "county": "Cloud County"
+         }
+      },
+      "type": "4-Regional Education Service Agency (RESA)",
+      "grades": {
+         "lowest": "†",
+         "highest": "†"
+      },
+      "students": "0",
+      "fte": "0",
+      "pupilTeacherRatio": "†",
+      "numberOfSchools": "0"
+   },
+   {
+      "name": "Leavenworth",
+      "location": {
+         "state": {
+            "name": "Kansas",
+            "abbr": "KS",
+            "county": "Leavenworth County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "3814",
+      "fte": "271",
+      "pupilTeacherRatio": "14.07",
+      "numberOfSchools": "7"
+   },
+   {
+      "name": "Lebo-Waverly",
+      "location": {
+         "state": {
+            "name": "Kansas",
+            "abbr": "KS",
+            "county": "Coffey County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "486",
+      "fte": "0",
+      "pupilTeacherRatio": "†",
+      "numberOfSchools": "4"
+   },
+   {
+      "name": "Leoti",
+      "location": {
+         "state": {
+            "name": "Kansas",
+            "abbr": "KS",
+            "county": "Wichita County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "406",
+      "fte": "38.3",
+      "pupilTeacherRatio": "10.6",
+      "numberOfSchools": "2"
+   },
+   {
+      "name": "Leroy-Gridley",
+      "location": {
+         "state": {
+            "name": "Kansas",
+            "abbr": "KS",
+            "county": "Coffey County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "200",
+      "fte": "20.9",
+      "pupilTeacherRatio": "9.57",
+      "numberOfSchools": "4"
+   },
+   {
+      "name": "Lewis",
+      "location": {
+         "state": {
+            "name": "Kansas",
+            "abbr": "KS",
+            "county": "Edwards County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "126",
+      "fte": "9.74",
+      "pupilTeacherRatio": "12.94",
+      "numberOfSchools": "1"
+   },
+   {
+      "name": "Liberal",
+      "location": {
+         "state": {
+            "name": "Kansas",
+            "abbr": "KS",
+            "county": "Seward County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "4768",
+      "fte": "368",
+      "pupilTeacherRatio": "12.96",
+      "numberOfSchools": "8"
+   },
+   {
+      "name": "Lincoln",
+      "location": {
+         "state": {
+            "name": "Kansas",
+            "abbr": "KS",
+            "county": "Lincoln County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "336",
+      "fte": "33.4",
+      "pupilTeacherRatio": "10.06",
+      "numberOfSchools": "2"
+   },
+   {
+      "name": "Little River",
+      "location": {
+         "state": {
+            "name": "Kansas",
+            "abbr": "KS",
+            "county": "Rice County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "302",
+      "fte": "31.3",
+      "pupilTeacherRatio": "9.65",
+      "numberOfSchools": "3"
+   },
+   {
+      "name": "Logan",
+      "location": {
+         "state": {
+            "name": "Kansas",
+            "abbr": "KS",
+            "county": "Phillips County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "135",
+      "fte": "24.5",
+      "pupilTeacherRatio": "5.51",
+      "numberOfSchools": "2"
+   },
+   {
+      "name": "Louisburg",
+      "location": {
+         "state": {
+            "name": "Kansas",
+            "abbr": "KS",
+            "county": "Miami County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "1804",
+      "fte": "103.8",
+      "pupilTeacherRatio": "17.38",
+      "numberOfSchools": "4"
+   },
+   {
+      "name": "Lyndon",
+      "location": {
+         "state": {
+            "name": "Kansas",
+            "abbr": "KS",
+            "county": "Osage County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "437",
+      "fte": "41",
+      "pupilTeacherRatio": "10.66",
+      "numberOfSchools": "2"
+   },
+   {
+      "name": "Lyons",
+      "location": {
+         "state": {
+            "name": "Kansas",
+            "abbr": "KS",
+            "county": "Rice County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "810",
+      "fte": "77",
+      "pupilTeacherRatio": "10.52",
+      "numberOfSchools": "4"
+   },
+   {
+      "name": "Macksville",
+      "location": {
+         "state": {
+            "name": "Kansas",
+            "abbr": "KS",
+            "county": "Stafford County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "208",
+      "fte": "29",
+      "pupilTeacherRatio": "7.17",
+      "numberOfSchools": "2"
+   },
+   {
+      "name": "Madison-Virgil",
+      "location": {
+         "state": {
+            "name": "Kansas",
+            "abbr": "KS",
+            "county": "Greenwood County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "235",
+      "fte": "27.9",
+      "pupilTeacherRatio": "8.42",
+      "numberOfSchools": "2"
+   },
+   {
+      "name": "Maize",
+      "location": {
+         "state": {
+            "name": "Kansas",
+            "abbr": "KS",
+            "county": "Sedgwick County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "8000",
+      "fte": "433.05",
+      "pupilTeacherRatio": "18.47",
+      "numberOfSchools": "10"
+   },
+   {
+      "name": "Manhattan-Ogden",
+      "location": {
+         "state": {
+            "name": "Kansas",
+            "abbr": "KS",
+            "county": "Riley County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "7024",
+      "fte": "519",
+      "pupilTeacherRatio": "13.53",
+      "numberOfSchools": "12"
+   },
+   {
+      "name": "Marais Des Cygnes Valley",
+      "location": {
+         "state": {
+            "name": "Kansas",
+            "abbr": "KS",
+            "county": "Osage County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "227",
+      "fte": "24.4",
+      "pupilTeacherRatio": "9.3",
+      "numberOfSchools": "3"
+   },
+   {
+      "name": "Marion County Special Education",
+      "location": {
+         "state": {
+            "name": "Kansas",
+            "abbr": "KS",
+            "county": "Marion County"
+         }
+      },
+      "type": "4-Regional Education Service Agency (RESA)",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "0",
+      "fte": "0.6",
+      "pupilTeacherRatio": "0",
+      "numberOfSchools": "0"
+   },
+   {
+      "name": "Marion-Florence",
+      "location": {
+         "state": {
+            "name": "Kansas",
+            "abbr": "KS",
+            "county": "Marion County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "503",
+      "fte": "37.48",
+      "pupilTeacherRatio": "13.42",
+      "numberOfSchools": "3"
+   },
+   {
+      "name": "Marmaton Valley",
+      "location": {
+         "state": {
+            "name": "Kansas",
+            "abbr": "KS",
+            "county": "Allen County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "265",
+      "fte": "27",
+      "pupilTeacherRatio": "9.81",
+      "numberOfSchools": "2"
+   },
+   {
+      "name": "Marshall County Sp. Ed. Coop.",
+      "location": {
+         "state": {
+            "name": "KANSAS",
+            "abbr": "KS",
+            "county": "Marshall County"
+         }
+      },
+      "type": "4-Regional Education Service Agency (RESA)",
+      "grades": {
+         "lowest": "3rd Grade",
+         "highest": "12th Grade"
+      },
+      "students": "0",
+      "fte": "0",
+      "pupilTeacherRatio": "†",
+      "numberOfSchools": "0"
+   },
+   {
+      "name": "Marshall-Nemaha Co. Ed. Serv. Coop.",
+      "location": {
+         "state": {
+            "name": "KANSAS",
+            "abbr": "KS",
+            "county": "Nemaha County"
+         }
+      },
+      "type": "4-Regional Education Service Agency (RESA)",
+      "grades": {
+         "lowest": "9th Grade",
+         "highest": "12th Grade"
+      },
+      "students": "0",
+      "fte": "0",
+      "pupilTeacherRatio": "†",
+      "numberOfSchools": "0"
+   },
+   {
+      "name": "Marysville",
+      "location": {
+         "state": {
+            "name": "Kansas",
+            "abbr": "KS",
+            "county": "Marshall County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "847",
+      "fte": "71.8",
+      "pupilTeacherRatio": "11.8",
+      "numberOfSchools": "2"
+   },
+   {
+      "name": "Mclouth",
+      "location": {
+         "state": {
+            "name": "Kansas",
+            "abbr": "KS",
+            "county": "Jefferson County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "487",
+      "fte": "36.64",
+      "pupilTeacherRatio": "13.29",
+      "numberOfSchools": "3"
+   },
+   {
+      "name": "Mcpherson",
+      "location": {
+         "state": {
+            "name": "Kansas",
+            "abbr": "KS",
+            "county": "McPherson County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "2518",
+      "fte": "199.61",
+      "pupilTeacherRatio": "12.61",
+      "numberOfSchools": "6"
+   },
+   {
+      "name": "Mcpherson County Sp. Ed. Coop.",
+      "location": {
+         "state": {
+            "name": "KANSAS",
+            "abbr": "KS",
+            "county": "McPherson County"
+         }
+      },
+      "type": "4-Regional Education Service Agency (RESA)",
+      "grades": {
+         "lowest": "12th Grade",
+         "highest": "12th Grade"
+      },
+      "students": "0",
+      "fte": "0",
+      "pupilTeacherRatio": "†",
+      "numberOfSchools": "0"
+   },
+   {
+      "name": "Meade",
+      "location": {
+         "state": {
+            "name": "Kansas",
+            "abbr": "KS",
+            "county": "Meade County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "394",
+      "fte": "40.2",
+      "pupilTeacherRatio": "9.8",
+      "numberOfSchools": "2"
+   },
+   {
+      "name": "Minneola",
+      "location": {
+         "state": {
+            "name": "Kansas",
+            "abbr": "KS",
+            "county": "Clark County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "246",
+      "fte": "22.6",
+      "pupilTeacherRatio": "10.88",
+      "numberOfSchools": "2"
+   },
+   {
+      "name": "Mission Valley",
+      "location": {
+         "state": {
+            "name": "Kansas",
+            "abbr": "KS",
+            "county": "Wabaunsee County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "441",
+      "fte": "42.5",
+      "pupilTeacherRatio": "10.38",
+      "numberOfSchools": "2"
+   },
+   {
+      "name": "Montezuma",
+      "location": {
+         "state": {
+            "name": "Kansas",
+            "abbr": "KS",
+            "county": "Gray County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "235",
+      "fte": "22.1",
+      "pupilTeacherRatio": "10.63",
+      "numberOfSchools": "2"
+   },
+   {
+      "name": "Morris County",
+      "location": {
+         "state": {
+            "name": "Kansas",
+            "abbr": "KS",
+            "county": "Morris County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "832",
+      "fte": "71",
+      "pupilTeacherRatio": "11.72",
+      "numberOfSchools": "3"
+   },
+   {
+      "name": "Moscow Public Schools",
+      "location": {
+         "state": {
+            "name": "Kansas",
+            "abbr": "KS",
+            "county": "Stevens County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "164",
+      "fte": "18.1",
+      "pupilTeacherRatio": "9.06",
+      "numberOfSchools": "2"
+   },
+   {
+      "name": "Moundridge",
+      "location": {
+         "state": {
+            "name": "Kansas",
+            "abbr": "KS",
+            "county": "McPherson County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "430",
+      "fte": "34.09",
+      "pupilTeacherRatio": "12.61",
+      "numberOfSchools": "3"
+   },
+   {
+      "name": "Mulvane",
+      "location": {
+         "state": {
+            "name": "Kansas",
+            "abbr": "KS",
+            "county": "Sedgwick County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "1883",
+      "fte": "146.1",
+      "pupilTeacherRatio": "12.89",
+      "numberOfSchools": "4"
+   },
+   {
+      "name": "Nemaha Central",
+      "location": {
+         "state": {
+            "name": "Kansas",
+            "abbr": "KS",
+            "county": "Nemaha County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "683",
+      "fte": "59.15",
+      "pupilTeacherRatio": "11.55",
+      "numberOfSchools": "2"
+   },
+   {
+      "name": "Neodesha",
+      "location": {
+         "state": {
+            "name": "Kansas",
+            "abbr": "KS",
+            "county": "Wilson County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "714",
+      "fte": "65.7",
+      "pupilTeacherRatio": "10.87",
+      "numberOfSchools": "3"
+   },
+   {
+      "name": "Ness City",
+      "location": {
+         "state": {
+            "name": "Kansas",
+            "abbr": "KS",
+            "county": "Ness County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "304",
+      "fte": "26.8",
+      "pupilTeacherRatio": "11.34",
+      "numberOfSchools": "2"
+   },
+   {
+      "name": "Newton",
+      "location": {
+         "state": {
+            "name": "Kansas",
+            "abbr": "KS",
+            "county": "Harvey County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "3610",
+      "fte": "280.11",
+      "pupilTeacherRatio": "12.89",
+      "numberOfSchools": "9"
+   },
+   {
+      "name": "Nickerson",
+      "location": {
+         "state": {
+            "name": "Kansas",
+            "abbr": "KS",
+            "county": "Reno County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "1155",
+      "fte": "85.48",
+      "pupilTeacherRatio": "13.51",
+      "numberOfSchools": "5"
+   },
+   {
+      "name": "North Central Kansas Sp. Ed. Coop. Interlocal",
+      "location": {
+         "state": {
+            "name": "Kansas",
+            "abbr": "KS",
+            "county": "Phillips County"
+         }
+      },
+      "type": "4-Regional Education Service Agency (RESA)",
+      "grades": {
+         "lowest": "Ungraded",
+         "highest": "Ungraded"
+      },
+      "students": "0",
+      "fte": "4.58",
+      "pupilTeacherRatio": "0",
+      "numberOfSchools": "0"
+   },
+   {
+      "name": "North Jackson",
+      "location": {
+         "state": {
+            "name": "Kansas",
+            "abbr": "KS",
+            "county": "Jackson County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "385",
+      "fte": "38.95",
+      "pupilTeacherRatio": "9.88",
+      "numberOfSchools": "2"
+   },
+   {
+      "name": "North Lyon County",
+      "location": {
+         "state": {
+            "name": "Kansas",
+            "abbr": "KS",
+            "county": "Lyon County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "345",
+      "fte": "37.3",
+      "pupilTeacherRatio": "9.25",
+      "numberOfSchools": "2"
+   },
+   {
+      "name": "North Ottawa County",
+      "location": {
+         "state": {
+            "name": "Kansas",
+            "abbr": "KS",
+            "county": "Ottawa County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "626",
+      "fte": "52.5",
+      "pupilTeacherRatio": "11.92",
+      "numberOfSchools": "2"
+   },
+   {
+      "name": "Northeast",
+      "location": {
+         "state": {
+            "name": "Kansas",
+            "abbr": "KS",
+            "county": "Crawford County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "499",
+      "fte": "45.7",
+      "pupilTeacherRatio": "10.92",
+      "numberOfSchools": "2"
+   },
+   {
+      "name": "Northeast Ks Education Serv Cntr",
+      "location": {
+         "state": {
+            "name": "Kansas",
+            "abbr": "KS",
+            "county": "Jefferson County"
+         }
+      },
+      "type": "4-Regional Education Service Agency (RESA)",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "0",
+      "fte": "0",
+      "pupilTeacherRatio": "†",
+      "numberOfSchools": "0"
+   },
+   {
+      "name": "Northern Valley",
+      "location": {
+         "state": {
+            "name": "Kansas",
+            "abbr": "KS",
+            "county": "Norton County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "153",
+      "fte": "18.5",
+      "pupilTeacherRatio": "8.27",
+      "numberOfSchools": "3"
+   },
+   {
+      "name": "Northwest Ks Educational Serv Cntr",
+      "location": {
+         "state": {
+            "name": "Kansas",
+            "abbr": "KS",
+            "county": "Logan County"
+         }
+      },
+      "type": "4-Regional Education Service Agency (RESA)",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "0",
+      "fte": "7.45",
+      "pupilTeacherRatio": "0",
+      "numberOfSchools": "0"
+   },
+   {
+      "name": "Norton Community Schools",
+      "location": {
+         "state": {
+            "name": "Kansas",
+            "abbr": "KS",
+            "county": "Norton County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "666",
+      "fte": "66.8",
+      "pupilTeacherRatio": "9.97",
+      "numberOfSchools": "3"
+   },
+   {
+      "name": "Oakley",
+      "location": {
+         "state": {
+            "name": "Kansas",
+            "abbr": "KS",
+            "county": "Logan County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "459",
+      "fte": "35.4",
+      "pupilTeacherRatio": "12.97",
+      "numberOfSchools": "3"
+   },
+   {
+      "name": "Oberlin",
+      "location": {
+         "state": {
+            "name": "Kansas",
+            "abbr": "KS",
+            "county": "Decatur County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "375",
+      "fte": "29.5",
+      "pupilTeacherRatio": "12.71",
+      "numberOfSchools": "2"
+   },
+   {
+      "name": "Olathe",
+      "location": {
+         "state": {
+            "name": "Kansas",
+            "abbr": "KS",
+            "county": "Johnson County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "30164",
+      "fte": "2204.65",
+      "pupilTeacherRatio": "13.68",
+      "numberOfSchools": "51"
+   },
+   {
+      "name": "Onaga-Havensville-Wheaton",
+      "location": {
+         "state": {
+            "name": "Kansas",
+            "abbr": "KS",
+            "county": "Pottawatomie County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "332",
+      "fte": "31.9",
+      "pupilTeacherRatio": "10.41",
+      "numberOfSchools": "2"
+   },
+   {
+      "name": "Osage City",
+      "location": {
+         "state": {
+            "name": "Kansas",
+            "abbr": "KS",
+            "county": "Osage County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "726",
+      "fte": "55.3",
+      "pupilTeacherRatio": "13.13",
+      "numberOfSchools": "3"
+   },
+   {
+      "name": "Osawatomie",
+      "location": {
+         "state": {
+            "name": "Kansas",
+            "abbr": "KS",
+            "county": "Miami County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "1156",
+      "fte": "87",
+      "pupilTeacherRatio": "13.29",
+      "numberOfSchools": "4"
+   },
+   {
+      "name": "Osborne County",
+      "location": {
+         "state": {
+            "name": "Kansas",
+            "abbr": "KS",
+            "county": "Osborne County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "324",
+      "fte": "28.8",
+      "pupilTeacherRatio": "11.25",
+      "numberOfSchools": "2"
+   },
+   {
+      "name": "Oskaloosa Public Schools",
+      "location": {
+         "state": {
+            "name": "Kansas",
+            "abbr": "KS",
+            "county": "Jefferson County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "584",
+      "fte": "45.9",
+      "pupilTeacherRatio": "12.72",
+      "numberOfSchools": "2"
+   },
+   {
+      "name": "Oswego",
+      "location": {
+         "state": {
+            "name": "Kansas",
+            "abbr": "KS",
+            "county": "Labette County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "462",
+      "fte": "42.9",
+      "pupilTeacherRatio": "10.77",
+      "numberOfSchools": "3"
+   },
+   {
+      "name": "Otis-Bison",
+      "location": {
+         "state": {
+            "name": "Kansas",
+            "abbr": "KS",
+            "county": "Rush County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "253",
+      "fte": "29.97",
+      "pupilTeacherRatio": "8.44",
+      "numberOfSchools": "3"
+   },
+   {
+      "name": "Ottawa",
+      "location": {
+         "state": {
+            "name": "Kansas",
+            "abbr": "KS",
+            "county": "Franklin County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "2436",
+      "fte": "190.2",
+      "pupilTeacherRatio": "12.81",
+      "numberOfSchools": "5"
+   },
+   {
+      "name": "Oxford",
+      "location": {
+         "state": {
+            "name": "Kansas",
+            "abbr": "KS",
+            "county": "Sumner County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "459",
+      "fte": "26.5",
+      "pupilTeacherRatio": "17.32",
+      "numberOfSchools": "2"
+   },
+   {
+      "name": "Palco",
+      "location": {
+         "state": {
+            "name": "Kansas",
+            "abbr": "KS",
+            "county": "Rooks County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "95",
+      "fte": "14.7",
+      "pupilTeacherRatio": "6.46",
+      "numberOfSchools": "3"
+   },
+   {
+      "name": "Paola",
+      "location": {
+         "state": {
+            "name": "Kansas",
+            "abbr": "KS",
+            "county": "Miami County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "1941",
+      "fte": "137",
+      "pupilTeacherRatio": "14.17",
+      "numberOfSchools": "4"
+   },
+   {
+      "name": "Paradise",
+      "location": {
+         "state": {
+            "name": "Kansas",
+            "abbr": "KS",
+            "county": "Osborne County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "114",
+      "fte": "18.99",
+      "pupilTeacherRatio": "6",
+      "numberOfSchools": "2"
+   },
+   {
+      "name": "Parsons",
+      "location": {
+         "state": {
+            "name": "Kansas",
+            "abbr": "KS",
+            "county": "Labette County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "1351",
+      "fte": "103.3",
+      "pupilTeacherRatio": "13.08",
+      "numberOfSchools": "5"
+   },
+   {
+      "name": "Pawnee Heights",
+      "location": {
+         "state": {
+            "name": "Kansas",
+            "abbr": "KS",
+            "county": "Pawnee County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "142",
+      "fte": "16.6",
+      "pupilTeacherRatio": "8.55",
+      "numberOfSchools": "1"
+   },
+   {
+      "name": "Peabody-Burns",
+      "location": {
+         "state": {
+            "name": "Kansas",
+            "abbr": "KS",
+            "county": "Marion County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "270",
+      "fte": "26",
+      "pupilTeacherRatio": "10.38",
+      "numberOfSchools": "2"
+   },
+   {
+      "name": "Perry Public Schools",
+      "location": {
+         "state": {
+            "name": "Kansas",
+            "abbr": "KS",
+            "county": "Jefferson County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "785",
+      "fte": "54.75",
+      "pupilTeacherRatio": "14.34",
+      "numberOfSchools": "3"
+   },
+   {
+      "name": "Phillipsburg",
+      "location": {
+         "state": {
+            "name": "Kansas",
+            "abbr": "KS",
+            "county": "Phillips County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "599",
+      "fte": "49.5",
+      "pupilTeacherRatio": "12.1",
+      "numberOfSchools": "3"
+   },
+   {
+      "name": "Pike Valley",
+      "location": {
+         "state": {
+            "name": "Kansas",
+            "abbr": "KS",
+            "county": "Republic County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "232",
+      "fte": "22.3",
+      "pupilTeacherRatio": "10.4",
+      "numberOfSchools": "3"
+   },
+   {
+      "name": "Piper-Kansas City",
+      "location": {
+         "state": {
+            "name": "Kansas",
+            "abbr": "KS",
+            "county": "Wyandotte County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "2560",
+      "fte": "165.8",
+      "pupilTeacherRatio": "15.44",
+      "numberOfSchools": "4"
+   },
+   {
+      "name": "Pittsburg",
+      "location": {
+         "state": {
+            "name": "Kansas",
+            "abbr": "KS",
+            "county": "Crawford County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "3261",
+      "fte": "203.76",
+      "pupilTeacherRatio": "16",
+      "numberOfSchools": "6"
+   },
+   {
+      "name": "Plainville",
+      "location": {
+         "state": {
+            "name": "Kansas",
+            "abbr": "KS",
+            "county": "Rooks County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "361",
+      "fte": "34.6",
+      "pupilTeacherRatio": "10.43",
+      "numberOfSchools": "2"
+   },
+   {
+      "name": "Pleasanton",
+      "location": {
+         "state": {
+            "name": "Kansas",
+            "abbr": "KS",
+            "county": "Linn County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "357",
+      "fte": "36.6",
+      "pupilTeacherRatio": "9.75",
+      "numberOfSchools": "2"
+   },
+   {
+      "name": "Prairie Hills",
+      "location": {
+         "state": {
+            "name": "Kansas",
+            "abbr": "KS",
+            "county": "Nemaha County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "1110",
+      "fte": "106.66",
+      "pupilTeacherRatio": "10.41",
+      "numberOfSchools": "7"
+   },
+   {
+      "name": "Prairie View",
+      "location": {
+         "state": {
+            "name": "Kansas",
+            "abbr": "KS",
+            "county": "Linn County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "895",
+      "fte": "81.5",
+      "pupilTeacherRatio": "10.98",
+      "numberOfSchools": "4"
+   },
+   {
+      "name": "Pratt",
+      "location": {
+         "state": {
+            "name": "Kansas",
+            "abbr": "KS",
+            "county": "Pratt County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "1353",
+      "fte": "87.5",
+      "pupilTeacherRatio": "15.46",
+      "numberOfSchools": "3"
+   },
+   {
+      "name": "Pretty Prairie",
+      "location": {
+         "state": {
+            "name": "Kansas",
+            "abbr": "KS",
+            "county": "Reno County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "324",
+      "fte": "23.46",
+      "pupilTeacherRatio": "13.81",
+      "numberOfSchools": "3"
+   },
+   {
+      "name": "Quinter Public Schools",
+      "location": {
+         "state": {
+            "name": "Kansas",
+            "abbr": "KS",
+            "county": "Gove County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "321",
+      "fte": "38.5",
+      "pupilTeacherRatio": "8.34",
+      "numberOfSchools": "2"
+   },
+   {
+      "name": "Rawlins County",
+      "location": {
+         "state": {
+            "name": "Kansas",
+            "abbr": "KS",
+            "county": "Rawlins County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "384",
+      "fte": "43",
+      "pupilTeacherRatio": "8.93",
+      "numberOfSchools": "2"
+   },
+   {
+      "name": "Remington-Whitewater",
+      "location": {
+         "state": {
+            "name": "Kansas",
+            "abbr": "KS",
+            "county": "Butler County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "494",
+      "fte": "44",
+      "pupilTeacherRatio": "11.23",
+      "numberOfSchools": "3"
+   },
+   {
+      "name": "Reno County Education Cooperative",
+      "location": {
+         "state": {
+            "name": "Kansas",
+            "abbr": "KS",
+            "county": "Reno County"
+         }
+      },
+      "type": "4-Regional Education Service Agency (RESA)",
+      "grades": {
+         "lowest": "Kindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "0",
+      "fte": "20.5",
+      "pupilTeacherRatio": "0",
+      "numberOfSchools": "0"
+   },
+   {
+      "name": "Renwick",
+      "location": {
+         "state": {
+            "name": "Kansas",
+            "abbr": "KS",
+            "county": "Sedgwick County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "1812",
+      "fte": "144.08",
+      "pupilTeacherRatio": "12.58",
+      "numberOfSchools": "6"
+   },
+   {
+      "name": "Republic County",
+      "location": {
+         "state": {
+            "name": "Kansas",
+            "abbr": "KS",
+            "county": "Republic County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "539",
+      "fte": "48.01",
+      "pupilTeacherRatio": "11.23",
+      "numberOfSchools": "2"
+   },
+   {
+      "name": "Rice County Sp. Services Coop.",
+      "location": {
+         "state": {
+            "name": "KANSAS",
+            "abbr": "KS",
+            "county": "Rice County"
+         }
+      },
+      "type": "4-Regional Education Service Agency (RESA)",
+      "grades": {
+         "lowest": "†",
+         "highest": "†"
+      },
+      "students": "0",
+      "fte": "0",
+      "pupilTeacherRatio": "†",
+      "numberOfSchools": "0"
+   },
+   {
+      "name": "Riley County",
+      "location": {
+         "state": {
+            "name": "Kansas",
+            "abbr": "KS",
+            "county": "Riley County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "693",
+      "fte": "66.8",
+      "pupilTeacherRatio": "10.37",
+      "numberOfSchools": "2"
+   },
+   {
+      "name": "Riverside",
+      "location": {
+         "state": {
+            "name": "Kansas",
+            "abbr": "KS",
+            "county": "Doniphan County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "613",
+      "fte": "50.2",
+      "pupilTeacherRatio": "12.21",
+      "numberOfSchools": "5"
+   },
+   {
+      "name": "Riverton",
+      "location": {
+         "state": {
+            "name": "Kansas",
+            "abbr": "KS",
+            "county": "Cherokee County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "730",
+      "fte": "59.1",
+      "pupilTeacherRatio": "12.35",
+      "numberOfSchools": "3"
+   },
+   {
+      "name": "Rock Creek",
+      "location": {
+         "state": {
+            "name": "Kansas",
+            "abbr": "KS",
+            "county": "Pottawatomie County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "1155",
+      "fte": "78.5",
+      "pupilTeacherRatio": "14.71",
+      "numberOfSchools": "3"
+   },
+   {
+      "name": "Rock Hills",
+      "location": {
+         "state": {
+            "name": "Kansas",
+            "abbr": "KS",
+            "county": "Jewell County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "348",
+      "fte": "30.13",
+      "pupilTeacherRatio": "11.55",
+      "numberOfSchools": "2"
+   },
+   {
+      "name": "Rolla",
+      "location": {
+         "state": {
+            "name": "Kansas",
+            "abbr": "KS",
+            "county": "Morton County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "116",
+      "fte": "15.93",
+      "pupilTeacherRatio": "7.28",
+      "numberOfSchools": "2"
+   },
+   {
+      "name": "Rose Hill Public Schools",
+      "location": {
+         "state": {
+            "name": "Kansas",
+            "abbr": "KS",
+            "county": "Butler County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "1674",
+      "fte": "108.9",
+      "pupilTeacherRatio": "15.37",
+      "numberOfSchools": "4"
+   },
+   {
+      "name": "Royal Valley",
+      "location": {
+         "state": {
+            "name": "Kansas",
+            "abbr": "KS",
+            "county": "Jackson County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "875",
+      "fte": "76",
+      "pupilTeacherRatio": "11.51",
+      "numberOfSchools": "3"
+   },
+   {
+      "name": "Rural Vista",
+      "location": {
+         "state": {
+            "name": "Kansas",
+            "abbr": "KS",
+            "county": "Morris County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "277",
+      "fte": "34.75",
+      "pupilTeacherRatio": "7.97",
+      "numberOfSchools": "4"
+   },
+   {
+      "name": "Russell County",
+      "location": {
+         "state": {
+            "name": "Kansas",
+            "abbr": "KS",
+            "county": "Russell County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "858",
+      "fte": "71.35",
+      "pupilTeacherRatio": "12.03",
+      "numberOfSchools": "4"
+   },
+   {
+      "name": "Salina",
+      "location": {
+         "state": {
+            "name": "Kansas",
+            "abbr": "KS",
+            "county": "Saline County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "7150",
+      "fte": "535.6",
+      "pupilTeacherRatio": "13.35",
+      "numberOfSchools": "12"
+   },
+   {
+      "name": "Santa Fe Trail",
+      "location": {
+         "state": {
+            "name": "Kansas",
+            "abbr": "KS",
+            "county": "Osage County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "1103",
+      "fte": "76.6",
+      "pupilTeacherRatio": "14.4",
+      "numberOfSchools": "3"
+   },
+   {
+      "name": "Satanta",
+      "location": {
+         "state": {
+            "name": "Kansas",
+            "abbr": "KS",
+            "county": "Haskell County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "275",
+      "fte": "27.8",
+      "pupilTeacherRatio": "9.89",
+      "numberOfSchools": "2"
+   },
+   {
+      "name": "School for Blind",
+      "location": {
+         "state": {
+            "name": "Kansas",
+            "abbr": "KS",
+            "county": "Wyandotte County"
+         }
+      },
+      "type": "5-State agency providing elementary and/or secondary level instruction",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "8",
+      "fte": "10.3",
+      "pupilTeacherRatio": "0.78",
+      "numberOfSchools": "2"
+   },
+   {
+      "name": "School for Deaf",
+      "location": {
+         "state": {
+            "name": "Kansas",
+            "abbr": "KS",
+            "county": "Johnson County"
+         }
+      },
+      "type": "5-State agency providing elementary and/or secondary level instruction",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "113",
+      "fte": "29.2",
+      "pupilTeacherRatio": "3.87",
+      "numberOfSchools": "2"
+   },
+   {
+      "name": "Scott County",
+      "location": {
+         "state": {
+            "name": "Kansas",
+            "abbr": "KS",
+            "county": "Scott County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "1031",
+      "fte": "76.2",
+      "pupilTeacherRatio": "13.53",
+      "numberOfSchools": "3"
+   },
+   {
+      "name": "Seaman",
+      "location": {
+         "state": {
+            "name": "Kansas",
+            "abbr": "KS",
+            "county": "Shawnee County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "4034",
+      "fte": "299.73",
+      "pupilTeacherRatio": "13.46",
+      "numberOfSchools": "7"
+   },
+   {
+      "name": "Sedgwick Co Area Educational Servs",
+      "location": {
+         "state": {
+            "name": "Kansas",
+            "abbr": "KS",
+            "county": "Sedgwick County"
+         }
+      },
+      "type": "4-Regional Education Service Agency (RESA)",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "0",
+      "fte": "13.49",
+      "pupilTeacherRatio": "0",
+      "numberOfSchools": "0"
+   },
+   {
+      "name": "Sedgwick Public Schools",
+      "location": {
+         "state": {
+            "name": "Kansas",
+            "abbr": "KS",
+            "county": "Harvey County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "453",
+      "fte": "34",
+      "pupilTeacherRatio": "13.32",
+      "numberOfSchools": "2"
+   },
+   {
+      "name": "Shawnee Heights",
+      "location": {
+         "state": {
+            "name": "Kansas",
+            "abbr": "KS",
+            "county": "Shawnee County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "3778",
+      "fte": "237.1",
+      "pupilTeacherRatio": "15.93",
+      "numberOfSchools": "6"
+   },
+   {
+      "name": "Shawnee Mission Pub Sch",
+      "location": {
+         "state": {
+            "name": "Kansas",
+            "abbr": "KS",
+            "county": "Johnson County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "27587",
+      "fte": "1830.1",
+      "pupilTeacherRatio": "15.07",
+      "numberOfSchools": "44"
+   },
+   {
+      "name": "Silver Lake",
+      "location": {
+         "state": {
+            "name": "Kansas",
+            "abbr": "KS",
+            "county": "Shawnee County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "732",
+      "fte": "67.92",
+      "pupilTeacherRatio": "10.78",
+      "numberOfSchools": "2"
+   },
+   {
+      "name": "Skyline Schools",
+      "location": {
+         "state": {
+            "name": "Kansas",
+            "abbr": "KS",
+            "county": "Pratt County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "393",
+      "fte": "36.3",
+      "pupilTeacherRatio": "10.83",
+      "numberOfSchools": "2"
+   },
+   {
+      "name": "Smith Center",
+      "location": {
+         "state": {
+            "name": "Kansas",
+            "abbr": "KS",
+            "county": "Smith County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "436",
+      "fte": "36",
+      "pupilTeacherRatio": "12.11",
+      "numberOfSchools": "2"
+   },
+   {
+      "name": "Smoky Valley",
+      "location": {
+         "state": {
+            "name": "Kansas",
+            "abbr": "KS",
+            "county": "McPherson County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "1452",
+      "fte": "65.33",
+      "pupilTeacherRatio": "22.23",
+      "numberOfSchools": "4"
+   },
+   {
+      "name": "Solomon",
+      "location": {
+         "state": {
+            "name": "Kansas",
+            "abbr": "KS",
+            "county": "Dickinson County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "350",
+      "fte": "36.2",
+      "pupilTeacherRatio": "9.67",
+      "numberOfSchools": "2"
+   },
+   {
+      "name": "South Barber",
+      "location": {
+         "state": {
+            "name": "Kansas",
+            "abbr": "KS",
+            "county": "Barber County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "234",
+      "fte": "16.1",
+      "pupilTeacherRatio": "14.53",
+      "numberOfSchools": "2"
+   },
+   {
+      "name": "South Brown County",
+      "location": {
+         "state": {
+            "name": "Kansas",
+            "abbr": "KS",
+            "county": "Brown County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "532",
+      "fte": "55.9",
+      "pupilTeacherRatio": "9.52",
+      "numberOfSchools": "3"
+   },
+   {
+      "name": "South Central Ks Education Serv Cnt (Orion)",
+      "location": {
+         "state": {
+            "name": "Kansas",
+            "abbr": "KS",
+            "county": "Sedgwick County"
+         }
+      },
+      "type": "4-Regional Education Service Agency (RESA)",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "0",
+      "fte": "0",
+      "pupilTeacherRatio": "†",
+      "numberOfSchools": "0"
+   },
+   {
+      "name": "South Central Ks Spec Ed Coop",
+      "location": {
+         "state": {
+            "name": "Kansas",
+            "abbr": "KS",
+            "county": "Pratt County"
+         }
+      },
+      "type": "4-Regional Education Service Agency (RESA)",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "0",
+      "fte": "9",
+      "pupilTeacherRatio": "0",
+      "numberOfSchools": "0"
+   },
+   {
+      "name": "South Haven",
+      "location": {
+         "state": {
+            "name": "Kansas",
+            "abbr": "KS",
+            "county": "Sumner County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "209",
+      "fte": "25.2",
+      "pupilTeacherRatio": "8.29",
+      "numberOfSchools": "2"
+   },
+   {
+      "name": "Southeast Kansas Special Education Interlocal",
+      "location": {
+         "state": {
+            "name": "Kansas",
+            "abbr": "KS",
+            "county": "Crawford County"
+         }
+      },
+      "type": "4-Regional Education Service Agency (RESA)",
+      "grades": {
+         "lowest": "Kindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "0",
+      "fte": "0",
+      "pupilTeacherRatio": "†",
+      "numberOfSchools": "0"
+   },
+   {
+      "name": "Southeast Ks Education Serv Center",
+      "location": {
+         "state": {
+            "name": "Kansas",
+            "abbr": "KS",
+            "county": "Crawford County"
+         }
+      },
+      "type": "4-Regional Education Service Agency (RESA)",
+      "grades": {
+         "lowest": "1st Grade",
+         "highest": "12th Grade"
+      },
+      "students": "0",
+      "fte": "79",
+      "pupilTeacherRatio": "0",
+      "numberOfSchools": "0"
+   },
+   {
+      "name": "Southeast of Saline",
+      "location": {
+         "state": {
+            "name": "Kansas",
+            "abbr": "KS",
+            "county": "Saline County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "709",
+      "fte": "50.7",
+      "pupilTeacherRatio": "13.98",
+      "numberOfSchools": "2"
+   },
+   {
+      "name": "Southern Cloud",
+      "location": {
+         "state": {
+            "name": "Kansas",
+            "abbr": "KS",
+            "county": "Cloud County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "150",
+      "fte": "30.2",
+      "pupilTeacherRatio": "4.97",
+      "numberOfSchools": "4"
+   },
+   {
+      "name": "Southern Lyon County",
+      "location": {
+         "state": {
+            "name": "Kansas",
+            "abbr": "KS",
+            "county": "Lyon County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "525",
+      "fte": "45.6",
+      "pupilTeacherRatio": "11.51",
+      "numberOfSchools": "4"
+   },
+   {
+      "name": "Southwest Kansas Area Cooperative",
+      "location": {
+         "state": {
+            "name": "Kansas",
+            "abbr": "KS",
+            "county": "Gray County"
+         }
+      },
+      "type": "4-Regional Education Service Agency (RESA)",
+      "grades": {
+         "lowest": "1st Grade",
+         "highest": "12th Grade"
+      },
+      "students": "0",
+      "fte": "5.2",
+      "pupilTeacherRatio": "0",
+      "numberOfSchools": "0"
+   },
+   {
+      "name": "Southwest Plains Regional Svc Ctr",
+      "location": {
+         "state": {
+            "name": "Kansas",
+            "abbr": "KS",
+            "county": "Haskell County"
+         }
+      },
+      "type": "4-Regional Education Service Agency (RESA)",
+      "grades": {
+         "lowest": "1st Grade",
+         "highest": "12th Grade"
+      },
+      "students": "0",
+      "fte": "0",
+      "pupilTeacherRatio": "†",
+      "numberOfSchools": "0"
+   },
+   {
+      "name": "Spearville",
+      "location": {
+         "state": {
+            "name": "Kansas",
+            "abbr": "KS",
+            "county": "Ford County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "347",
+      "fte": "30.5",
+      "pupilTeacherRatio": "11.38",
+      "numberOfSchools": "2"
+   },
+   {
+      "name": "Special Services Cooperative of Wamego",
+      "location": {
+         "state": {
+            "name": "KANSAS",
+            "abbr": "KS",
+            "county": "Pottawatomie County"
+         }
+      },
+      "type": "4-Regional Education Service Agency (RESA)",
+      "grades": {
+         "lowest": "†",
+         "highest": "†"
+      },
+      "students": "0",
+      "fte": "0",
+      "pupilTeacherRatio": "†",
+      "numberOfSchools": "0"
+   },
+   {
+      "name": "Spring Hill",
+      "location": {
+         "state": {
+            "name": "Kansas",
+            "abbr": "KS",
+            "county": "Miami County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "4457",
+      "fte": "291.75",
+      "pupilTeacherRatio": "15.28",
+      "numberOfSchools": "9"
+   },
+   {
+      "name": "St Francis Comm Sch",
+      "location": {
+         "state": {
+            "name": "Kansas",
+            "abbr": "KS",
+            "county": "Cheyenne County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "269",
+      "fte": "30",
+      "pupilTeacherRatio": "8.97",
+      "numberOfSchools": "2"
+   },
+   {
+      "name": "St John-Hudson",
+      "location": {
+         "state": {
+            "name": "Kansas",
+            "abbr": "KS",
+            "county": "Stafford County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "352",
+      "fte": "29.1",
+      "pupilTeacherRatio": "12.1",
+      "numberOfSchools": "2"
+   },
+   {
+      "name": "St. Hosp. Training Center Parsons",
+      "location": {
+         "state": {
+            "name": "Kansas",
+            "abbr": "KS",
+            "county": "Labette County"
+         }
+      },
+      "type": "5-State agency providing elementary and/or secondary level instruction",
+      "grades": {
+         "lowest": "1st Grade",
+         "highest": "12th Grade"
+      },
+      "students": "17",
+      "fte": "0",
+      "pupilTeacherRatio": "†",
+      "numberOfSchools": "1"
+   },
+   {
+      "name": "Stafford",
+      "location": {
+         "state": {
+            "name": "Kansas",
+            "abbr": "KS",
+            "county": "Stafford County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "211",
+      "fte": "20.5",
+      "pupilTeacherRatio": "10.29",
+      "numberOfSchools": "2"
+   },
+   {
+      "name": "Stanton County",
+      "location": {
+         "state": {
+            "name": "Kansas",
+            "abbr": "KS",
+            "county": "Stanton County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "470",
+      "fte": "39.83",
+      "pupilTeacherRatio": "11.8",
+      "numberOfSchools": "2"
+   },
+   {
+      "name": "Sterling",
+      "location": {
+         "state": {
+            "name": "Kansas",
+            "abbr": "KS",
+            "county": "Rice County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "501",
+      "fte": "0",
+      "pupilTeacherRatio": "†",
+      "numberOfSchools": "2"
+   },
+   {
+      "name": "Stockton",
+      "location": {
+         "state": {
+            "name": "Kansas",
+            "abbr": "KS",
+            "county": "Rooks County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "351",
+      "fte": "36.1",
+      "pupilTeacherRatio": "9.72",
+      "numberOfSchools": "2"
+   },
+   {
+      "name": "Sublette",
+      "location": {
+         "state": {
+            "name": "Kansas",
+            "abbr": "KS",
+            "county": "Haskell County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "433",
+      "fte": "33.3",
+      "pupilTeacherRatio": "13",
+      "numberOfSchools": "3"
+   },
+   {
+      "name": "Sumner Co Educational Services",
+      "location": {
+         "state": {
+            "name": "Kansas",
+            "abbr": "KS",
+            "county": "Sumner County"
+         }
+      },
+      "type": "4-Regional Education Service Agency (RESA)",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "0",
+      "fte": "0",
+      "pupilTeacherRatio": "†",
+      "numberOfSchools": "0"
+   },
+   {
+      "name": "Sylvan Grove",
+      "location": {
+         "state": {
+            "name": "Kansas",
+            "abbr": "KS",
+            "county": "Lincoln County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "262",
+      "fte": "25.4",
+      "pupilTeacherRatio": "10.31",
+      "numberOfSchools": "2"
+   },
+   {
+      "name": "Syracuse",
+      "location": {
+         "state": {
+            "name": "Kansas",
+            "abbr": "KS",
+            "county": "Hamilton County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "611",
+      "fte": "42",
+      "pupilTeacherRatio": "14.55",
+      "numberOfSchools": "2"
+   },
+   {
+      "name": "Three Lakes Educational Cooperative",
+      "location": {
+         "state": {
+            "name": "Kansas",
+            "abbr": "KS",
+            "county": "Osage County"
+         }
+      },
+      "type": "4-Regional Education Service Agency (RESA)",
+      "grades": {
+         "lowest": "6th Grade",
+         "highest": "12th Grade"
+      },
+      "students": "0",
+      "fte": "0",
+      "pupilTeacherRatio": "†",
+      "numberOfSchools": "0"
+   },
+   {
+      "name": "Thunder Ridge Schools",
+      "location": {
+         "state": {
+            "name": "Kansas",
+            "abbr": "KS",
+            "county": "Smith County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "193",
+      "fte": "18.85",
+      "pupilTeacherRatio": "10.24",
+      "numberOfSchools": "3"
+   },
+   {
+      "name": "Tonganoxie",
+      "location": {
+         "state": {
+            "name": "Kansas",
+            "abbr": "KS",
+            "county": "Leavenworth County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "1969",
+      "fte": "150.63",
+      "pupilTeacherRatio": "13.07",
+      "numberOfSchools": "3"
+   },
+   {
+      "name": "Tonganoxie Basehor-Linwood Special Ed Coop",
+      "location": {
+         "state": {
+            "name": "KANSAS",
+            "abbr": "KS",
+            "county": "Leavenworth County"
+         }
+      },
+      "type": "4-Regional Education Service Agency (RESA)",
+      "grades": {
+         "lowest": "†",
+         "highest": "†"
+      },
+      "students": "0",
+      "fte": "0",
+      "pupilTeacherRatio": "†",
+      "numberOfSchools": "0"
+   },
+   {
+      "name": "Topeka Public Schools",
+      "location": {
+         "state": {
+            "name": "Kansas",
+            "abbr": "KS",
+            "county": "Shawnee County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "13004",
+      "fte": "1144.85",
+      "pupilTeacherRatio": "11.36",
+      "numberOfSchools": "27"
+   },
+   {
+      "name": "Tri County Special Education Coop",
+      "location": {
+         "state": {
+            "name": "Kansas",
+            "abbr": "KS",
+            "county": "Montgomery County"
+         }
+      },
+      "type": "4-Regional Education Service Agency (RESA)",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "0",
+      "fte": "0",
+      "pupilTeacherRatio": "†",
+      "numberOfSchools": "0"
+   },
+   {
+      "name": "Tri-County Sp. Services Coop.",
+      "location": {
+         "state": {
+            "name": "KANSAS",
+            "abbr": "KS",
+            "county": "Pawnee County"
+         }
+      },
+      "type": "4-Regional Education Service Agency (RESA)",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "0",
+      "fte": "0",
+      "pupilTeacherRatio": "†",
+      "numberOfSchools": "0"
+   },
+   {
+      "name": "Triplains",
+      "location": {
+         "state": {
+            "name": "Kansas",
+            "abbr": "KS",
+            "county": "Logan County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "70",
+      "fte": "14.35",
+      "pupilTeacherRatio": "4.88",
+      "numberOfSchools": "2"
+   },
+   {
+      "name": "Troy Public Schools",
+      "location": {
+         "state": {
+            "name": "Kansas",
+            "abbr": "KS",
+            "county": "Doniphan County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "379",
+      "fte": "27.5",
+      "pupilTeacherRatio": "13.78",
+      "numberOfSchools": "2"
+   },
+   {
+      "name": "Turner-Kansas City",
+      "location": {
+         "state": {
+            "name": "Kansas",
+            "abbr": "KS",
+            "county": "Wyandotte County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "3986",
+      "fte": "266.6",
+      "pupilTeacherRatio": "14.95",
+      "numberOfSchools": "7"
+   },
+   {
+      "name": "Twin Lakes Education Cooperative",
+      "location": {
+         "state": {
+            "name": "KANSAS",
+            "abbr": "KS",
+            "county": "Clay County"
+         }
+      },
+      "type": "4-Regional Education Service Agency (RESA)",
+      "grades": {
+         "lowest": "†",
+         "highest": "†"
+      },
+      "students": "0",
+      "fte": "0",
+      "pupilTeacherRatio": "†",
+      "numberOfSchools": "0"
+   },
+   {
+      "name": "Twin Valley",
+      "location": {
+         "state": {
+            "name": "Kansas",
+            "abbr": "KS",
+            "county": "Ottawa County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "572",
+      "fte": "53.75",
+      "pupilTeacherRatio": "10.64",
+      "numberOfSchools": "4"
+   },
+   {
+      "name": "Udall",
+      "location": {
+         "state": {
+            "name": "Kansas",
+            "abbr": "KS",
+            "county": "Cowley County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "354",
+      "fte": "27.85",
+      "pupilTeacherRatio": "12.71",
+      "numberOfSchools": "3"
+   },
+   {
+      "name": "Ulysses",
+      "location": {
+         "state": {
+            "name": "Kansas",
+            "abbr": "KS",
+            "county": "Grant County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "1617",
+      "fte": "104.5",
+      "pupilTeacherRatio": "15.47",
+      "numberOfSchools": "4"
+   },
+   {
+      "name": "Uniontown",
+      "location": {
+         "state": {
+            "name": "Kansas",
+            "abbr": "KS",
+            "county": "Bourbon County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "453",
+      "fte": "36.7",
+      "pupilTeacherRatio": "12.34",
+      "numberOfSchools": "2"
+   },
+   {
+      "name": "Valley Center Pub Sch",
+      "location": {
+         "state": {
+            "name": "Kansas",
+            "abbr": "KS",
+            "county": "Sedgwick County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "3139",
+      "fte": "175.3",
+      "pupilTeacherRatio": "17.91",
+      "numberOfSchools": "7"
+   },
+   {
+      "name": "Valley Falls",
+      "location": {
+         "state": {
+            "name": "Kansas",
+            "abbr": "KS",
+            "county": "Jefferson County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "393",
+      "fte": "32.7",
+      "pupilTeacherRatio": "12.02",
+      "numberOfSchools": "2"
+   },
+   {
+      "name": "Valley Heights",
+      "location": {
+         "state": {
+            "name": "Kansas",
+            "abbr": "KS",
+            "county": "Marshall County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "452",
+      "fte": "36.4",
+      "pupilTeacherRatio": "12.42",
+      "numberOfSchools": "3"
+   },
+   {
+      "name": "Vermillion",
+      "location": {
+         "state": {
+            "name": "Kansas",
+            "abbr": "KS",
+            "county": "Marshall County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "613",
+      "fte": "47.7",
+      "pupilTeacherRatio": "12.85",
+      "numberOfSchools": "4"
+   },
+   {
+      "name": "Victoria",
+      "location": {
+         "state": {
+            "name": "Kansas",
+            "abbr": "KS",
+            "county": "Ellis County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "287",
+      "fte": "27.2",
+      "pupilTeacherRatio": "10.55",
+      "numberOfSchools": "2"
+   },
+   {
+      "name": "Wabaunsee",
+      "location": {
+         "state": {
+            "name": "Kansas",
+            "abbr": "KS",
+            "county": "Wabaunsee County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "468",
+      "fte": "41.2",
+      "pupilTeacherRatio": "11.36",
+      "numberOfSchools": "5"
+   },
+   {
+      "name": "Waconda",
+      "location": {
+         "state": {
+            "name": "Kansas",
+            "abbr": "KS",
+            "county": "Mitchell County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "325",
+      "fte": "52.62",
+      "pupilTeacherRatio": "6.18",
+      "numberOfSchools": "3"
+   },
+   {
+      "name": "Wakeeney",
+      "location": {
+         "state": {
+            "name": "Kansas",
+            "abbr": "KS",
+            "county": "Trego County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "434",
+      "fte": "39.4",
+      "pupilTeacherRatio": "11.02",
+      "numberOfSchools": "2"
+   },
+   {
+      "name": "Wallace County Schools",
+      "location": {
+         "state": {
+            "name": "Kansas",
+            "abbr": "KS",
+            "county": "Wallace County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "200",
+      "fte": "0",
+      "pupilTeacherRatio": "†",
+      "numberOfSchools": "2"
+   },
+   {
+      "name": "Wamego",
+      "location": {
+         "state": {
+            "name": "Kansas",
+            "abbr": "KS",
+            "county": "Pottawatomie County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "1599",
+      "fte": "132.05",
+      "pupilTeacherRatio": "12.11",
+      "numberOfSchools": "4"
+   },
+   {
+      "name": "Washington Co. Schools",
+      "location": {
+         "state": {
+            "name": "Kansas",
+            "abbr": "KS",
+            "county": "Washington County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "374",
+      "fte": "37.8",
+      "pupilTeacherRatio": "9.89",
+      "numberOfSchools": "2"
+   },
+   {
+      "name": "Wellington",
+      "location": {
+         "state": {
+            "name": "Kansas",
+            "abbr": "KS",
+            "county": "Sumner County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "1520",
+      "fte": "133.37",
+      "pupilTeacherRatio": "11.4",
+      "numberOfSchools": "6"
+   },
+   {
+      "name": "Wellsville",
+      "location": {
+         "state": {
+            "name": "Kansas",
+            "abbr": "KS",
+            "county": "Franklin County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "815",
+      "fte": "61.2",
+      "pupilTeacherRatio": "13.32",
+      "numberOfSchools": "3"
+   },
+   {
+      "name": "Weskan",
+      "location": {
+         "state": {
+            "name": "Kansas",
+            "abbr": "KS",
+            "county": "Wallace County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "106",
+      "fte": "18.5",
+      "pupilTeacherRatio": "5.73",
+      "numberOfSchools": "2"
+   },
+   {
+      "name": "West Elk",
+      "location": {
+         "state": {
+            "name": "Kansas",
+            "abbr": "KS",
+            "county": "Elk County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "397",
+      "fte": "41.1",
+      "pupilTeacherRatio": "9.66",
+      "numberOfSchools": "1"
+   },
+   {
+      "name": "West Franklin",
+      "location": {
+         "state": {
+            "name": "Kansas",
+            "abbr": "KS",
+            "county": "Franklin County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "620",
+      "fte": "50.9",
+      "pupilTeacherRatio": "12.18",
+      "numberOfSchools": "4"
+   },
+   {
+      "name": "Western Plains",
+      "location": {
+         "state": {
+            "name": "Kansas",
+            "abbr": "KS",
+            "county": "Ness County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "120",
+      "fte": "18.1",
+      "pupilTeacherRatio": "6.63",
+      "numberOfSchools": "3"
+   },
+   {
+      "name": "Wheatland",
+      "location": {
+         "state": {
+            "name": "Kansas",
+            "abbr": "KS",
+            "county": "Gove County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "136",
+      "fte": "15.15",
+      "pupilTeacherRatio": "8.98",
+      "numberOfSchools": "2"
+   },
+   {
+      "name": "Wichita",
+      "location": {
+         "state": {
+            "name": "Kansas",
+            "abbr": "KS",
+            "county": "Sedgwick County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "49323",
+      "fte": "3499.74",
+      "pupilTeacherRatio": "14.09",
+      "numberOfSchools": "89"
+   },
+   {
+      "name": "Winfield",
+      "location": {
+         "state": {
+            "name": "Kansas",
+            "abbr": "KS",
+            "county": "Cowley County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "2327",
+      "fte": "172.13",
+      "pupilTeacherRatio": "13.52",
+      "numberOfSchools": "6"
+   },
+   {
+      "name": "Woodson",
+      "location": {
+         "state": {
+            "name": "Kansas",
+            "abbr": "KS",
+            "county": "Woodson County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "476",
+      "fte": "38.2",
+      "pupilTeacherRatio": "12.46",
+      "numberOfSchools": "2"
+   },
+   {
+      "name": "Wyandotte Comprehensive Sp. Ed. Coop.",
+      "location": {
+         "state": {
+            "name": "KANSAS",
+            "abbr": "KS",
+            "county": "Wyandotte County"
+         }
+      },
+      "type": "4-Regional Education Service Agency (RESA)",
+      "grades": {
+         "lowest": "†",
+         "highest": "†"
+      },
+      "students": "0",
+      "fte": "0",
+      "pupilTeacherRatio": "†",
+      "numberOfSchools": "0"
+   }
+]

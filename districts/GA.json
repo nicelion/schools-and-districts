@@ -1,0 +1,4581 @@
+[
+   {
+      "name": "Appling County",
+      "location": {
+         "state": {
+            "name": "Georgia",
+            "abbr": "GA",
+            "county": "Appling County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "3567",
+      "fte": "246",
+      "pupilTeacherRatio": "14.5",
+      "numberOfSchools": "6"
+   },
+   {
+      "name": "Atkinson County",
+      "location": {
+         "state": {
+            "name": "Georgia",
+            "abbr": "GA",
+            "county": "Atkinson County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "1707",
+      "fte": "118",
+      "pupilTeacherRatio": "14.47",
+      "numberOfSchools": "4"
+   },
+   {
+      "name": "Atlanta Public Schools",
+      "location": {
+         "state": {
+            "name": "Georgia",
+            "abbr": "GA",
+            "county": "Fulton County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "52416",
+      "fte": "4025.5",
+      "pupilTeacherRatio": "13.02",
+      "numberOfSchools": "87"
+   },
+   {
+      "name": "Bacon County",
+      "location": {
+         "state": {
+            "name": "Georgia",
+            "abbr": "GA",
+            "county": "Bacon County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "2110",
+      "fte": "149.7",
+      "pupilTeacherRatio": "14.09",
+      "numberOfSchools": "4"
+   },
+   {
+      "name": "Baker County",
+      "location": {
+         "state": {
+            "name": "Georgia",
+            "abbr": "GA",
+            "county": "Baker County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "268",
+      "fte": "27",
+      "pupilTeacherRatio": "9.93",
+      "numberOfSchools": "1"
+   },
+   {
+      "name": "Baldwin County",
+      "location": {
+         "state": {
+            "name": "Georgia",
+            "abbr": "GA",
+            "county": "Baldwin County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "5027",
+      "fte": "354.3",
+      "pupilTeacherRatio": "14.19",
+      "numberOfSchools": "6"
+   },
+   {
+      "name": "Banks County",
+      "location": {
+         "state": {
+            "name": "Georgia",
+            "abbr": "GA",
+            "county": "Banks County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "2750",
+      "fte": "207.5",
+      "pupilTeacherRatio": "13.25",
+      "numberOfSchools": "4"
+   },
+   {
+      "name": "Barrow County",
+      "location": {
+         "state": {
+            "name": "Georgia",
+            "abbr": "GA",
+            "county": "Barrow County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "14272",
+      "fte": "1001.1",
+      "pupilTeacherRatio": "14.26",
+      "numberOfSchools": "15"
+   },
+   {
+      "name": "Bartow County",
+      "location": {
+         "state": {
+            "name": "Georgia",
+            "abbr": "GA",
+            "county": "Bartow County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "13421",
+      "fte": "893.2",
+      "pupilTeacherRatio": "15.03",
+      "numberOfSchools": "19"
+   },
+   {
+      "name": "Ben Hill County",
+      "location": {
+         "state": {
+            "name": "Georgia",
+            "abbr": "GA",
+            "county": "Ben Hill County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "3065",
+      "fte": "218.2",
+      "pupilTeacherRatio": "14.05",
+      "numberOfSchools": "5"
+   },
+   {
+      "name": "Berrien County",
+      "location": {
+         "state": {
+            "name": "Georgia",
+            "abbr": "GA",
+            "county": "Berrien County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "3180",
+      "fte": "205.3",
+      "pupilTeacherRatio": "15.49",
+      "numberOfSchools": "5"
+   },
+   {
+      "name": "Bibb County",
+      "location": {
+         "state": {
+            "name": "Georgia",
+            "abbr": "GA",
+            "county": "Bibb County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "21812",
+      "fte": "1541",
+      "pupilTeacherRatio": "14.15",
+      "numberOfSchools": "34"
+   },
+   {
+      "name": "Bleckley County",
+      "location": {
+         "state": {
+            "name": "Georgia",
+            "abbr": "GA",
+            "county": "Bleckley County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "2550",
+      "fte": "174.2",
+      "pupilTeacherRatio": "14.64",
+      "numberOfSchools": "5"
+   },
+   {
+      "name": "Brantley County",
+      "location": {
+         "state": {
+            "name": "Georgia",
+            "abbr": "GA",
+            "county": "Brantley County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "3455",
+      "fte": "234.1",
+      "pupilTeacherRatio": "14.76",
+      "numberOfSchools": "7"
+   },
+   {
+      "name": "Bremen City",
+      "location": {
+         "state": {
+            "name": "Georgia",
+            "abbr": "GA",
+            "county": "Haralson County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "2307",
+      "fte": "142.8",
+      "pupilTeacherRatio": "16.16",
+      "numberOfSchools": "4"
+   },
+   {
+      "name": "Brooks County",
+      "location": {
+         "state": {
+            "name": "Georgia",
+            "abbr": "GA",
+            "county": "Brooks County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "2184",
+      "fte": "156.7",
+      "pupilTeacherRatio": "13.94",
+      "numberOfSchools": "6"
+   },
+   {
+      "name": "Bryan County",
+      "location": {
+         "state": {
+            "name": "Georgia",
+            "abbr": "GA",
+            "county": "Bryan County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "9750",
+      "fte": "625",
+      "pupilTeacherRatio": "15.6",
+      "numberOfSchools": "10"
+   },
+   {
+      "name": "Buford City",
+      "location": {
+         "state": {
+            "name": "Georgia",
+            "abbr": "GA",
+            "county": "Gwinnett County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "5177",
+      "fte": "309.7",
+      "pupilTeacherRatio": "16.72",
+      "numberOfSchools": "5"
+   },
+   {
+      "name": "Bulloch County",
+      "location": {
+         "state": {
+            "name": "Georgia",
+            "abbr": "GA",
+            "county": "Bulloch County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "10902",
+      "fte": "696.8",
+      "pupilTeacherRatio": "15.65",
+      "numberOfSchools": "15"
+   },
+   {
+      "name": "Burke County",
+      "location": {
+         "state": {
+            "name": "Georgia",
+            "abbr": "GA",
+            "county": "Burke County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "4255",
+      "fte": "329.2",
+      "pupilTeacherRatio": "12.93",
+      "numberOfSchools": "5"
+   },
+   {
+      "name": "Butts County",
+      "location": {
+         "state": {
+            "name": "Georgia",
+            "abbr": "GA",
+            "county": "Butts County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "3516",
+      "fte": "226.5",
+      "pupilTeacherRatio": "15.52",
+      "numberOfSchools": "5"
+   },
+   {
+      "name": "Calhoun City",
+      "location": {
+         "state": {
+            "name": "Georgia",
+            "abbr": "GA",
+            "county": "Gordon County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "4212",
+      "fte": "222.5",
+      "pupilTeacherRatio": "18.93",
+      "numberOfSchools": "3"
+   },
+   {
+      "name": "Calhoun County",
+      "location": {
+         "state": {
+            "name": "Georgia",
+            "abbr": "GA",
+            "county": "Calhoun County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "535",
+      "fte": "37.8",
+      "pupilTeacherRatio": "14.15",
+      "numberOfSchools": "3"
+   },
+   {
+      "name": "Camden County",
+      "location": {
+         "state": {
+            "name": "Georgia",
+            "abbr": "GA",
+            "county": "Camden County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "9277",
+      "fte": "591.3",
+      "pupilTeacherRatio": "15.69",
+      "numberOfSchools": "12"
+   },
+   {
+      "name": "Candler County",
+      "location": {
+         "state": {
+            "name": "Georgia",
+            "abbr": "GA",
+            "county": "Candler County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "2227",
+      "fte": "135.5",
+      "pupilTeacherRatio": "16.44",
+      "numberOfSchools": "4"
+   },
+   {
+      "name": "Carroll County",
+      "location": {
+         "state": {
+            "name": "Georgia",
+            "abbr": "GA",
+            "county": "Carroll County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "15005",
+      "fte": "945.5",
+      "pupilTeacherRatio": "15.87",
+      "numberOfSchools": "24"
+   },
+   {
+      "name": "Carrollton City",
+      "location": {
+         "state": {
+            "name": "Georgia",
+            "abbr": "GA",
+            "county": "Carroll County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "5441",
+      "fte": "314.1",
+      "pupilTeacherRatio": "17.32",
+      "numberOfSchools": "4"
+   },
+   {
+      "name": "Cartersville City",
+      "location": {
+         "state": {
+            "name": "Georgia",
+            "abbr": "GA",
+            "county": "Bartow County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "4671",
+      "fte": "271",
+      "pupilTeacherRatio": "17.24",
+      "numberOfSchools": "4"
+   },
+   {
+      "name": "Catoosa County",
+      "location": {
+         "state": {
+            "name": "Georgia",
+            "abbr": "GA",
+            "county": "Catoosa County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "10770",
+      "fte": "775.2",
+      "pupilTeacherRatio": "13.89",
+      "numberOfSchools": "16"
+   },
+   {
+      "name": "Central Savannah River Resa",
+      "location": {
+         "state": {
+            "name": "Georgia",
+            "abbr": "GA",
+            "county": "McDuffie County"
+         }
+      },
+      "type": "4-Regional Education Service Agency (RESA)",
+      "grades": {
+         "lowest": "†",
+         "highest": "†"
+      },
+      "students": "†",
+      "fte": "0",
+      "pupilTeacherRatio": "–",
+      "numberOfSchools": "0"
+   },
+   {
+      "name": "Charlton County",
+      "location": {
+         "state": {
+            "name": "Georgia",
+            "abbr": "GA",
+            "county": "Charlton County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "1689",
+      "fte": "111.4",
+      "pupilTeacherRatio": "15.16",
+      "numberOfSchools": "4"
+   },
+   {
+      "name": "Charter Commission School-Atlanta Smart Academy",
+      "location": {
+         "state": {
+            "name": "GEORGIA",
+            "abbr": "GA",
+            "county": "Fulton County"
+         }
+      },
+      "type": "7-Independent Charter District",
+      "grades": {
+         "lowest": "–",
+         "highest": "–"
+      },
+      "students": "†",
+      "fte": "†",
+      "pupilTeacherRatio": "†",
+      "numberOfSchools": "0"
+   },
+   {
+      "name": "Charter Commission School-Atlanta Unbound Academy",
+      "location": {
+         "state": {
+            "name": "GEORGIA",
+            "abbr": "GA",
+            "county": "Fulton County"
+         }
+      },
+      "type": "7-Independent Charter District",
+      "grades": {
+         "lowest": "–",
+         "highest": "–"
+      },
+      "students": "†",
+      "fte": "†",
+      "pupilTeacherRatio": "†",
+      "numberOfSchools": "0"
+   },
+   {
+      "name": "Charter Commission School-D.e.l.t.a. Steam Academy",
+      "location": {
+         "state": {
+            "name": "GEORGIA",
+            "abbr": "GA",
+            "county": "Douglas County"
+         }
+      },
+      "type": "7-Independent Charter District",
+      "grades": {
+         "lowest": "–",
+         "highest": "–"
+      },
+      "students": "†",
+      "fte": "†",
+      "pupilTeacherRatio": "†",
+      "numberOfSchools": "0"
+   },
+   {
+      "name": "Charter Commission School-Furlow Charter School",
+      "location": {
+         "state": {
+            "name": "GEORGIA",
+            "abbr": "GA",
+            "county": "Sumter County"
+         }
+      },
+      "type": "7-Independent Charter District",
+      "grades": {
+         "lowest": "–",
+         "highest": "–"
+      },
+      "students": "†",
+      "fte": "†",
+      "pupilTeacherRatio": "†",
+      "numberOfSchools": "0"
+   },
+   {
+      "name": "Charter Commission School-Georgia Fugees Academy Charter Sc",
+      "location": {
+         "state": {
+            "name": "GEORGIA",
+            "abbr": "GA",
+            "county": "DeKalb County"
+         }
+      },
+      "type": "7-Independent Charter District",
+      "grades": {
+         "lowest": "–",
+         "highest": "–"
+      },
+      "students": "†",
+      "fte": "†",
+      "pupilTeacherRatio": "†",
+      "numberOfSchools": "0"
+   },
+   {
+      "name": "Charter Commission School-Harriet Tubman School of Science",
+      "location": {
+         "state": {
+            "name": "GEORGIA",
+            "abbr": "GA",
+            "county": "Fulton County"
+         }
+      },
+      "type": "7-Independent Charter District",
+      "grades": {
+         "lowest": "–",
+         "highest": "–"
+      },
+      "students": "†",
+      "fte": "†",
+      "pupilTeacherRatio": "†",
+      "numberOfSchools": "0"
+   },
+   {
+      "name": "Charter Commission School-Yi Hwang Academy of Language Exce",
+      "location": {
+         "state": {
+            "name": "GEORGIA",
+            "abbr": "GA",
+            "county": "Gwinnett County"
+         }
+      },
+      "type": "7-Independent Charter District",
+      "grades": {
+         "lowest": "–",
+         "highest": "–"
+      },
+      "students": "†",
+      "fte": "†",
+      "pupilTeacherRatio": "†",
+      "numberOfSchools": "0"
+   },
+   {
+      "name": "Chattahoochee County",
+      "location": {
+         "state": {
+            "name": "Georgia",
+            "abbr": "GA",
+            "county": "Chattahoochee County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "930",
+      "fte": "56.5",
+      "pupilTeacherRatio": "16.46",
+      "numberOfSchools": "3"
+   },
+   {
+      "name": "Chattahoochee-Flint Resa",
+      "location": {
+         "state": {
+            "name": "Georgia",
+            "abbr": "GA",
+            "county": "Schley County"
+         }
+      },
+      "type": "4-Regional Education Service Agency (RESA)",
+      "grades": {
+         "lowest": "†",
+         "highest": "†"
+      },
+      "students": "†",
+      "fte": "0",
+      "pupilTeacherRatio": "–",
+      "numberOfSchools": "0"
+   },
+   {
+      "name": "Chattooga County",
+      "location": {
+         "state": {
+            "name": "Georgia",
+            "abbr": "GA",
+            "county": "Chattooga County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "2696",
+      "fte": "188.2",
+      "pupilTeacherRatio": "14.33",
+      "numberOfSchools": "5"
+   },
+   {
+      "name": "Cherokee County",
+      "location": {
+         "state": {
+            "name": "Georgia",
+            "abbr": "GA",
+            "county": "Cherokee County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "42766",
+      "fte": "2769.5",
+      "pupilTeacherRatio": "15.44",
+      "numberOfSchools": "36"
+   },
+   {
+      "name": "Chickamauga City",
+      "location": {
+         "state": {
+            "name": "Georgia",
+            "abbr": "GA",
+            "county": "Walker County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Kindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "1283",
+      "fte": "81.5",
+      "pupilTeacherRatio": "15.74",
+      "numberOfSchools": "3"
+   },
+   {
+      "name": "City Schools of Decatur",
+      "location": {
+         "state": {
+            "name": "Georgia",
+            "abbr": "GA",
+            "county": "DeKalb County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "5874",
+      "fte": "435.8",
+      "pupilTeacherRatio": "13.48",
+      "numberOfSchools": "9"
+   },
+   {
+      "name": "Clarke County",
+      "location": {
+         "state": {
+            "name": "Georgia",
+            "abbr": "GA",
+            "county": "Clarke County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "13298",
+      "fte": "1159",
+      "pupilTeacherRatio": "11.47",
+      "numberOfSchools": "21"
+   },
+   {
+      "name": "Clay County",
+      "location": {
+         "state": {
+            "name": "Georgia",
+            "abbr": "GA",
+            "county": "Clay County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "8th Grade"
+      },
+      "students": "223",
+      "fte": "20.2",
+      "pupilTeacherRatio": "11.04",
+      "numberOfSchools": "2"
+   },
+   {
+      "name": "Clayton County",
+      "location": {
+         "state": {
+            "name": "Georgia",
+            "abbr": "GA",
+            "county": "Clayton County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "54424",
+      "fte": "3151.5",
+      "pupilTeacherRatio": "17.27",
+      "numberOfSchools": "66"
+   },
+   {
+      "name": "Clinch County",
+      "location": {
+         "state": {
+            "name": "Georgia",
+            "abbr": "GA",
+            "county": "Clinch County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "1336",
+      "fte": "86.3",
+      "pupilTeacherRatio": "15.48",
+      "numberOfSchools": "3"
+   },
+   {
+      "name": "Coastal Plains Resa",
+      "location": {
+         "state": {
+            "name": "Georgia",
+            "abbr": "GA",
+            "county": "Cook County"
+         }
+      },
+      "type": "4-Regional Education Service Agency (RESA)",
+      "grades": {
+         "lowest": "†",
+         "highest": "†"
+      },
+      "students": "†",
+      "fte": "13.5",
+      "pupilTeacherRatio": "–",
+      "numberOfSchools": "1"
+   },
+   {
+      "name": "Cobb County",
+      "location": {
+         "state": {
+            "name": "Georgia",
+            "abbr": "GA",
+            "county": "Cobb County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "112097",
+      "fte": "7361.8",
+      "pupilTeacherRatio": "15.23",
+      "numberOfSchools": "111"
+   },
+   {
+      "name": "Coffee County",
+      "location": {
+         "state": {
+            "name": "Georgia",
+            "abbr": "GA",
+            "county": "Coffee County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "7769",
+      "fte": "503.7",
+      "pupilTeacherRatio": "15.42",
+      "numberOfSchools": "12"
+   },
+   {
+      "name": "Colquitt County",
+      "location": {
+         "state": {
+            "name": "Georgia",
+            "abbr": "GA",
+            "county": "Colquitt County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "9447",
+      "fte": "665.2",
+      "pupilTeacherRatio": "14.2",
+      "numberOfSchools": "13"
+   },
+   {
+      "name": "Columbia County",
+      "location": {
+         "state": {
+            "name": "Georgia",
+            "abbr": "GA",
+            "county": "Columbia County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "28248",
+      "fte": "1742.3",
+      "pupilTeacherRatio": "16.21",
+      "numberOfSchools": "31"
+   },
+   {
+      "name": "Commerce City",
+      "location": {
+         "state": {
+            "name": "Georgia",
+            "abbr": "GA",
+            "county": "Jackson County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "1699",
+      "fte": "118.9",
+      "pupilTeacherRatio": "14.29",
+      "numberOfSchools": "4"
+   },
+   {
+      "name": "Commission Charter Schools- Atlanta Heights Charter School",
+      "location": {
+         "state": {
+            "name": "Georgia",
+            "abbr": "GA",
+            "county": "Fulton County"
+         }
+      },
+      "type": "7-Independent Charter District",
+      "grades": {
+         "lowest": "Kindergarten",
+         "highest": "8th Grade"
+      },
+      "students": "734",
+      "fte": "35.5",
+      "pupilTeacherRatio": "20.68",
+      "numberOfSchools": "1"
+   },
+   {
+      "name": "Commission Charter Schools- Brookhaven Innovation Academy",
+      "location": {
+         "state": {
+            "name": "GEORGIA",
+            "abbr": "GA",
+            "county": "Gwinnett County"
+         }
+      },
+      "type": "7-Independent Charter District",
+      "grades": {
+         "lowest": "Kindergarten",
+         "highest": "8th Grade"
+      },
+      "students": "509",
+      "fte": "34.5",
+      "pupilTeacherRatio": "14.75",
+      "numberOfSchools": "1"
+   },
+   {
+      "name": "Commission Charter Schools- Ccat School",
+      "location": {
+         "state": {
+            "name": "Georgia",
+            "abbr": "GA",
+            "county": "Bulloch County"
+         }
+      },
+      "type": "7-Independent Charter District",
+      "grades": {
+         "lowest": "6th Grade",
+         "highest": "12th Grade"
+      },
+      "students": "171",
+      "fte": "14.5",
+      "pupilTeacherRatio": "11.79",
+      "numberOfSchools": "1"
+   },
+   {
+      "name": "Commission Charter Schools- Cirrus Charter Academy",
+      "location": {
+         "state": {
+            "name": "GEORGIA",
+            "abbr": "GA",
+            "county": "Bibb County"
+         }
+      },
+      "type": "7-Independent Charter District",
+      "grades": {
+         "lowest": "Kindergarten",
+         "highest": "8th Grade"
+      },
+      "students": "514",
+      "fte": "29",
+      "pupilTeacherRatio": "17.72",
+      "numberOfSchools": "1"
+   },
+   {
+      "name": "Commission Charter Schools- Coweta Charter Academy",
+      "location": {
+         "state": {
+            "name": "Georgia",
+            "abbr": "GA",
+            "county": "Coweta County"
+         }
+      },
+      "type": "7-Independent Charter District",
+      "grades": {
+         "lowest": "Kindergarten",
+         "highest": "8th Grade"
+      },
+      "students": "780",
+      "fte": "49",
+      "pupilTeacherRatio": "15.92",
+      "numberOfSchools": "1"
+   },
+   {
+      "name": "Commission Charter Schools- Fulton Leadership Academy",
+      "location": {
+         "state": {
+            "name": "Georgia",
+            "abbr": "GA",
+            "county": "Fulton County"
+         }
+      },
+      "type": "7-Independent Charter District",
+      "grades": {
+         "lowest": "6th Grade",
+         "highest": "12th Grade"
+      },
+      "students": "298",
+      "fte": "27.3",
+      "pupilTeacherRatio": "10.92",
+      "numberOfSchools": "1"
+   },
+   {
+      "name": "Commission Charter Schools- Liberty Tech Charter Academy",
+      "location": {
+         "state": {
+            "name": "GEORGIA",
+            "abbr": "GA",
+            "county": "Fayette County"
+         }
+      },
+      "type": "7-Independent Charter District",
+      "grades": {
+         "lowest": "Kindergarten",
+         "highest": "8th Grade"
+      },
+      "students": "412",
+      "fte": "25",
+      "pupilTeacherRatio": "16.48",
+      "numberOfSchools": "1"
+   },
+   {
+      "name": "Commission Charter Schools- Pataula Charter Academy",
+      "location": {
+         "state": {
+            "name": "Georgia",
+            "abbr": "GA",
+            "county": "Calhoun County"
+         }
+      },
+      "type": "7-Independent Charter District",
+      "grades": {
+         "lowest": "Kindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "570",
+      "fte": "38.2",
+      "pupilTeacherRatio": "14.92",
+      "numberOfSchools": "1"
+   },
+   {
+      "name": "Commission Charter Schools- Southwest Georgia S.t.e.m. Chart",
+      "location": {
+         "state": {
+            "name": "GEORGIA",
+            "abbr": "GA",
+            "county": "Randolph County"
+         }
+      },
+      "type": "7-Independent Charter District",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "9th Grade"
+      },
+      "students": "366",
+      "fte": "28.9",
+      "pupilTeacherRatio": "12.66",
+      "numberOfSchools": "1"
+   },
+   {
+      "name": "Cook County",
+      "location": {
+         "state": {
+            "name": "Georgia",
+            "abbr": "GA",
+            "county": "Cook County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "3170",
+      "fte": "223.9",
+      "pupilTeacherRatio": "14.16",
+      "numberOfSchools": "4"
+   },
+   {
+      "name": "Coweta County",
+      "location": {
+         "state": {
+            "name": "Georgia",
+            "abbr": "GA",
+            "county": "Coweta County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "22855",
+      "fte": "1479.6",
+      "pupilTeacherRatio": "15.45",
+      "numberOfSchools": "28"
+   },
+   {
+      "name": "Crawford County",
+      "location": {
+         "state": {
+            "name": "Georgia",
+            "abbr": "GA",
+            "county": "Crawford County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "1693",
+      "fte": "113.5",
+      "pupilTeacherRatio": "14.92",
+      "numberOfSchools": "3"
+   },
+   {
+      "name": "Crisp County",
+      "location": {
+         "state": {
+            "name": "Georgia",
+            "abbr": "GA",
+            "county": "Crisp County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "3922",
+      "fte": "257.2",
+      "pupilTeacherRatio": "15.25",
+      "numberOfSchools": "5"
+   },
+   {
+      "name": "Dade County",
+      "location": {
+         "state": {
+            "name": "Georgia",
+            "abbr": "GA",
+            "county": "Dade County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "2199",
+      "fte": "149",
+      "pupilTeacherRatio": "14.76",
+      "numberOfSchools": "4"
+   },
+   {
+      "name": "Dalton Public Schools",
+      "location": {
+         "state": {
+            "name": "Georgia",
+            "abbr": "GA",
+            "county": "Whitfield County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "7883",
+      "fte": "592.5",
+      "pupilTeacherRatio": "13.3",
+      "numberOfSchools": "9"
+   },
+   {
+      "name": "Dawson County",
+      "location": {
+         "state": {
+            "name": "Georgia",
+            "abbr": "GA",
+            "county": "Dawson County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "3640",
+      "fte": "250.8",
+      "pupilTeacherRatio": "14.51",
+      "numberOfSchools": "7"
+   },
+   {
+      "name": "Decatur County",
+      "location": {
+         "state": {
+            "name": "Georgia",
+            "abbr": "GA",
+            "county": "Decatur County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "4732",
+      "fte": "315.4",
+      "pupilTeacherRatio": "15",
+      "numberOfSchools": "8"
+   },
+   {
+      "name": "Dekalb County",
+      "location": {
+         "state": {
+            "name": "Georgia",
+            "abbr": "GA",
+            "county": "DeKalb County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "98800",
+      "fte": "6892.6",
+      "pupilTeacherRatio": "14.33",
+      "numberOfSchools": "130"
+   },
+   {
+      "name": "Department of Corrections",
+      "location": {
+         "state": {
+            "name": "Georgia",
+            "abbr": "GA",
+            "county": "Fulton County"
+         }
+      },
+      "type": "5-State agency providing elementary and/or secondary level instruction",
+      "grades": {
+         "lowest": "8th Grade",
+         "highest": "12th Grade"
+      },
+      "students": "36",
+      "fte": "0",
+      "pupilTeacherRatio": "†",
+      "numberOfSchools": "1"
+   },
+   {
+      "name": "Department of Human Resources",
+      "location": {
+         "state": {
+            "name": "Georgia",
+            "abbr": "GA",
+            "county": "Fulton County"
+         }
+      },
+      "type": "5-State agency providing elementary and/or secondary level instruction",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "0",
+      "fte": "0",
+      "pupilTeacherRatio": "†",
+      "numberOfSchools": "1"
+   },
+   {
+      "name": "Department of Juvenile Justice",
+      "location": {
+         "state": {
+            "name": "Georgia",
+            "abbr": "GA",
+            "county": "DeKalb County"
+         }
+      },
+      "type": "5-State agency providing elementary and/or secondary level instruction",
+      "grades": {
+         "lowest": "6th Grade",
+         "highest": "12th Grade"
+      },
+      "students": "504",
+      "fte": "45",
+      "pupilTeacherRatio": "11.2",
+      "numberOfSchools": "26"
+   },
+   {
+      "name": "Department of Labor",
+      "location": {
+         "state": {
+            "name": "Georgia",
+            "abbr": "GA",
+            "county": "Fulton County"
+         }
+      },
+      "type": "5-State agency providing elementary and/or secondary level instruction",
+      "grades": {
+         "lowest": "–",
+         "highest": "–"
+      },
+      "students": "†",
+      "fte": "†",
+      "pupilTeacherRatio": "†",
+      "numberOfSchools": "0"
+   },
+   {
+      "name": "Dodge County",
+      "location": {
+         "state": {
+            "name": "Georgia",
+            "abbr": "GA",
+            "county": "Dodge County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "3060",
+      "fte": "211.7",
+      "pupilTeacherRatio": "14.45",
+      "numberOfSchools": "5"
+   },
+   {
+      "name": "Dooly County",
+      "location": {
+         "state": {
+            "name": "Georgia",
+            "abbr": "GA",
+            "county": "Dooly County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "1225",
+      "fte": "71.3",
+      "pupilTeacherRatio": "17.18",
+      "numberOfSchools": "4"
+   },
+   {
+      "name": "Dougherty County",
+      "location": {
+         "state": {
+            "name": "Georgia",
+            "abbr": "GA",
+            "county": "Dougherty County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "13882",
+      "fte": "954.5",
+      "pupilTeacherRatio": "14.54",
+      "numberOfSchools": "21"
+   },
+   {
+      "name": "Douglas County",
+      "location": {
+         "state": {
+            "name": "Georgia",
+            "abbr": "GA",
+            "county": "Douglas County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "26663",
+      "fte": "1764",
+      "pupilTeacherRatio": "15.12",
+      "numberOfSchools": "35"
+   },
+   {
+      "name": "Dublin City",
+      "location": {
+         "state": {
+            "name": "Georgia",
+            "abbr": "GA",
+            "county": "Laurens County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "2296",
+      "fte": "168",
+      "pupilTeacherRatio": "13.67",
+      "numberOfSchools": "5"
+   },
+   {
+      "name": "Early County",
+      "location": {
+         "state": {
+            "name": "Georgia",
+            "abbr": "GA",
+            "county": "Early County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "1945",
+      "fte": "169.8",
+      "pupilTeacherRatio": "11.45",
+      "numberOfSchools": "3"
+   },
+   {
+      "name": "Echols County",
+      "location": {
+         "state": {
+            "name": "Georgia",
+            "abbr": "GA",
+            "county": "Echols County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "861",
+      "fte": "57.6",
+      "pupilTeacherRatio": "14.95",
+      "numberOfSchools": "2"
+   },
+   {
+      "name": "Effingham County",
+      "location": {
+         "state": {
+            "name": "Georgia",
+            "abbr": "GA",
+            "county": "Effingham County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "12966",
+      "fte": "876",
+      "pupilTeacherRatio": "14.8",
+      "numberOfSchools": "13"
+   },
+   {
+      "name": "Elbert County",
+      "location": {
+         "state": {
+            "name": "Georgia",
+            "abbr": "GA",
+            "county": "Elbert County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "3068",
+      "fte": "206.6",
+      "pupilTeacherRatio": "14.85",
+      "numberOfSchools": "5"
+   },
+   {
+      "name": "Emanuel County",
+      "location": {
+         "state": {
+            "name": "Georgia",
+            "abbr": "GA",
+            "county": "Emanuel County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "4181",
+      "fte": "295.7",
+      "pupilTeacherRatio": "14.14",
+      "numberOfSchools": "6"
+   },
+   {
+      "name": "Evans County",
+      "location": {
+         "state": {
+            "name": "Georgia",
+            "abbr": "GA",
+            "county": "Evans County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "1933",
+      "fte": "127",
+      "pupilTeacherRatio": "15.22",
+      "numberOfSchools": "4"
+   },
+   {
+      "name": "Fannin County",
+      "location": {
+         "state": {
+            "name": "Georgia",
+            "abbr": "GA",
+            "county": "Fannin County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "2919",
+      "fte": "211.3",
+      "pupilTeacherRatio": "13.81",
+      "numberOfSchools": "5"
+   },
+   {
+      "name": "Fayette County",
+      "location": {
+         "state": {
+            "name": "Georgia",
+            "abbr": "GA",
+            "county": "Fayette County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "20538",
+      "fte": "1445.2",
+      "pupilTeacherRatio": "14.21",
+      "numberOfSchools": "24"
+   },
+   {
+      "name": "First District Resa",
+      "location": {
+         "state": {
+            "name": "Georgia",
+            "abbr": "GA",
+            "county": "Bulloch County"
+         }
+      },
+      "type": "4-Regional Education Service Agency (RESA)",
+      "grades": {
+         "lowest": "†",
+         "highest": "†"
+      },
+      "students": "†",
+      "fte": "22.6",
+      "pupilTeacherRatio": "–",
+      "numberOfSchools": "1"
+   },
+   {
+      "name": "Floyd County",
+      "location": {
+         "state": {
+            "name": "Georgia",
+            "abbr": "GA",
+            "county": "Floyd County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "9539",
+      "fte": "634.9",
+      "pupilTeacherRatio": "15.02",
+      "numberOfSchools": "17"
+   },
+   {
+      "name": "Forsyth County",
+      "location": {
+         "state": {
+            "name": "Georgia",
+            "abbr": "GA",
+            "county": "Forsyth County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "50544",
+      "fte": "3078.1",
+      "pupilTeacherRatio": "16.42",
+      "numberOfSchools": "38"
+   },
+   {
+      "name": "Franklin County",
+      "location": {
+         "state": {
+            "name": "Georgia",
+            "abbr": "GA",
+            "county": "Franklin County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "3604",
+      "fte": "256.7",
+      "pupilTeacherRatio": "14.04",
+      "numberOfSchools": "6"
+   },
+   {
+      "name": "Fulton County",
+      "location": {
+         "state": {
+            "name": "Georgia",
+            "abbr": "GA",
+            "county": "Fulton County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "93897",
+      "fte": "6364.3",
+      "pupilTeacherRatio": "14.75",
+      "numberOfSchools": "107"
+   },
+   {
+      "name": "Gainesville City",
+      "location": {
+         "state": {
+            "name": "Georgia",
+            "abbr": "GA",
+            "county": "Hall County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "8079",
+      "fte": "508.2",
+      "pupilTeacherRatio": "15.9",
+      "numberOfSchools": "8"
+   },
+   {
+      "name": "Gilmer County",
+      "location": {
+         "state": {
+            "name": "Georgia",
+            "abbr": "GA",
+            "county": "Gilmer County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "4189",
+      "fte": "277.5",
+      "pupilTeacherRatio": "15.1",
+      "numberOfSchools": "5"
+   },
+   {
+      "name": "Glascock County",
+      "location": {
+         "state": {
+            "name": "Georgia",
+            "abbr": "GA",
+            "county": "Glascock County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "557",
+      "fte": "42.5",
+      "pupilTeacherRatio": "13.11",
+      "numberOfSchools": "2"
+   },
+   {
+      "name": "Glynn County",
+      "location": {
+         "state": {
+            "name": "Georgia",
+            "abbr": "GA",
+            "county": "Glynn County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "13287",
+      "fte": "924.9",
+      "pupilTeacherRatio": "14.37",
+      "numberOfSchools": "17"
+   },
+   {
+      "name": "Gordon County",
+      "location": {
+         "state": {
+            "name": "Georgia",
+            "abbr": "GA",
+            "county": "Gordon County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "6612",
+      "fte": "453",
+      "pupilTeacherRatio": "14.6",
+      "numberOfSchools": "10"
+   },
+   {
+      "name": "Grady County",
+      "location": {
+         "state": {
+            "name": "Georgia",
+            "abbr": "GA",
+            "county": "Grady County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "4676",
+      "fte": "325.1",
+      "pupilTeacherRatio": "14.38",
+      "numberOfSchools": "7"
+   },
+   {
+      "name": "Greene County",
+      "location": {
+         "state": {
+            "name": "Georgia",
+            "abbr": "GA",
+            "county": "Greene County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "2650",
+      "fte": "217.2",
+      "pupilTeacherRatio": "12.2",
+      "numberOfSchools": "5"
+   },
+   {
+      "name": "Griffin Resa",
+      "location": {
+         "state": {
+            "name": "Georgia",
+            "abbr": "GA",
+            "county": "Spalding County"
+         }
+      },
+      "type": "4-Regional Education Service Agency (RESA)",
+      "grades": {
+         "lowest": "†",
+         "highest": "†"
+      },
+      "students": "†",
+      "fte": "1",
+      "pupilTeacherRatio": "–",
+      "numberOfSchools": "0"
+   },
+   {
+      "name": "Griffin-Spalding County",
+      "location": {
+         "state": {
+            "name": "Georgia",
+            "abbr": "GA",
+            "county": "Spalding County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "10207",
+      "fte": "683.3",
+      "pupilTeacherRatio": "14.94",
+      "numberOfSchools": "18"
+   },
+   {
+      "name": "Gwinnett County",
+      "location": {
+         "state": {
+            "name": "Georgia",
+            "abbr": "GA",
+            "county": "Gwinnett County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "180589",
+      "fte": "11429",
+      "pupilTeacherRatio": "15.8",
+      "numberOfSchools": "139"
+   },
+   {
+      "name": "Habersham County",
+      "location": {
+         "state": {
+            "name": "Georgia",
+            "abbr": "GA",
+            "county": "Habersham County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "7006",
+      "fte": "511.1",
+      "pupilTeacherRatio": "13.71",
+      "numberOfSchools": "14"
+   },
+   {
+      "name": "Hall County",
+      "location": {
+         "state": {
+            "name": "Georgia",
+            "abbr": "GA",
+            "county": "Hall County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "27135",
+      "fte": "1776",
+      "pupilTeacherRatio": "15.28",
+      "numberOfSchools": "37"
+   },
+   {
+      "name": "Hancock County",
+      "location": {
+         "state": {
+            "name": "Georgia",
+            "abbr": "GA",
+            "county": "Hancock County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "783",
+      "fte": "78.9",
+      "pupilTeacherRatio": "9.92",
+      "numberOfSchools": "3"
+   },
+   {
+      "name": "Haralson County",
+      "location": {
+         "state": {
+            "name": "Georgia",
+            "abbr": "GA",
+            "county": "Haralson County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "3345",
+      "fte": "256.1",
+      "pupilTeacherRatio": "13.06",
+      "numberOfSchools": "7"
+   },
+   {
+      "name": "Harris County",
+      "location": {
+         "state": {
+            "name": "Georgia",
+            "abbr": "GA",
+            "county": "Harris County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "5552",
+      "fte": "339.3",
+      "pupilTeacherRatio": "16.36",
+      "numberOfSchools": "7"
+   },
+   {
+      "name": "Hart County",
+      "location": {
+         "state": {
+            "name": "Georgia",
+            "abbr": "GA",
+            "county": "Hart County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "3559",
+      "fte": "229.6",
+      "pupilTeacherRatio": "15.5",
+      "numberOfSchools": "5"
+   },
+   {
+      "name": "Heard County",
+      "location": {
+         "state": {
+            "name": "Georgia",
+            "abbr": "GA",
+            "county": "Heard County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "2111",
+      "fte": "147.3",
+      "pupilTeacherRatio": "14.33",
+      "numberOfSchools": "5"
+   },
+   {
+      "name": "Heart of Georgia Resa",
+      "location": {
+         "state": {
+            "name": "Georgia",
+            "abbr": "GA",
+            "county": "Dodge County"
+         }
+      },
+      "type": "4-Regional Education Service Agency (RESA)",
+      "grades": {
+         "lowest": "†",
+         "highest": "†"
+      },
+      "students": "†",
+      "fte": "11.5",
+      "pupilTeacherRatio": "–",
+      "numberOfSchools": "0"
+   },
+   {
+      "name": "Henry County",
+      "location": {
+         "state": {
+            "name": "Georgia",
+            "abbr": "GA",
+            "county": "Henry County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "43009",
+      "fte": "2671.4",
+      "pupilTeacherRatio": "16.1",
+      "numberOfSchools": "50"
+   },
+   {
+      "name": "Houston County",
+      "location": {
+         "state": {
+            "name": "Georgia",
+            "abbr": "GA",
+            "county": "Houston County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "30221",
+      "fte": "1871",
+      "pupilTeacherRatio": "16.15",
+      "numberOfSchools": "37"
+   },
+   {
+      "name": "Irwin County",
+      "location": {
+         "state": {
+            "name": "Georgia",
+            "abbr": "GA",
+            "county": "Irwin County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "1695",
+      "fte": "126.4",
+      "pupilTeacherRatio": "13.41",
+      "numberOfSchools": "3"
+   },
+   {
+      "name": "Jackson County",
+      "location": {
+         "state": {
+            "name": "Georgia",
+            "abbr": "GA",
+            "county": "Jackson County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "8305",
+      "fte": "558.7",
+      "pupilTeacherRatio": "14.86",
+      "numberOfSchools": "10"
+   },
+   {
+      "name": "Jasper County",
+      "location": {
+         "state": {
+            "name": "Georgia",
+            "abbr": "GA",
+            "county": "Jasper County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "2412",
+      "fte": "160.2",
+      "pupilTeacherRatio": "15.06",
+      "numberOfSchools": "4"
+   },
+   {
+      "name": "Jeff Davis County",
+      "location": {
+         "state": {
+            "name": "Georgia",
+            "abbr": "GA",
+            "county": "Jeff Davis County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "3084",
+      "fte": "202.7",
+      "pupilTeacherRatio": "15.21",
+      "numberOfSchools": "4"
+   },
+   {
+      "name": "Jefferson City",
+      "location": {
+         "state": {
+            "name": "Georgia",
+            "abbr": "GA",
+            "county": "Jackson County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "4003",
+      "fte": "250.1",
+      "pupilTeacherRatio": "16.01",
+      "numberOfSchools": "4"
+   },
+   {
+      "name": "Jefferson County",
+      "location": {
+         "state": {
+            "name": "Georgia",
+            "abbr": "GA",
+            "county": "Jefferson County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "2382",
+      "fte": "187.6",
+      "pupilTeacherRatio": "12.7",
+      "numberOfSchools": "5"
+   },
+   {
+      "name": "Jenkins County",
+      "location": {
+         "state": {
+            "name": "Georgia",
+            "abbr": "GA",
+            "county": "Jenkins County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "1133",
+      "fte": "94.3",
+      "pupilTeacherRatio": "12.01",
+      "numberOfSchools": "3"
+   },
+   {
+      "name": "Johnson County",
+      "location": {
+         "state": {
+            "name": "Georgia",
+            "abbr": "GA",
+            "county": "Johnson County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "1096",
+      "fte": "77.2",
+      "pupilTeacherRatio": "14.2",
+      "numberOfSchools": "3"
+   },
+   {
+      "name": "Jones County",
+      "location": {
+         "state": {
+            "name": "Georgia",
+            "abbr": "GA",
+            "county": "Jones County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "5291",
+      "fte": "350.9",
+      "pupilTeacherRatio": "15.08",
+      "numberOfSchools": "7"
+   },
+   {
+      "name": "Lamar County",
+      "location": {
+         "state": {
+            "name": "Georgia",
+            "abbr": "GA",
+            "county": "Lamar County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "2687",
+      "fte": "172.4",
+      "pupilTeacherRatio": "15.59",
+      "numberOfSchools": "4"
+   },
+   {
+      "name": "Lanier County",
+      "location": {
+         "state": {
+            "name": "Georgia",
+            "abbr": "GA",
+            "county": "Lanier County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "1710",
+      "fte": "116.7",
+      "pupilTeacherRatio": "14.65",
+      "numberOfSchools": "4"
+   },
+   {
+      "name": "Laurens County",
+      "location": {
+         "state": {
+            "name": "Georgia",
+            "abbr": "GA",
+            "county": "Laurens County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "6598",
+      "fte": "430.1",
+      "pupilTeacherRatio": "15.34",
+      "numberOfSchools": "8"
+   },
+   {
+      "name": "Lee County",
+      "location": {
+         "state": {
+            "name": "Georgia",
+            "abbr": "GA",
+            "county": "Lee County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "6632",
+      "fte": "402.6",
+      "pupilTeacherRatio": "16.47",
+      "numberOfSchools": "8"
+   },
+   {
+      "name": "Liberty County",
+      "location": {
+         "state": {
+            "name": "Georgia",
+            "abbr": "GA",
+            "county": "Liberty County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "10092",
+      "fte": "645.7",
+      "pupilTeacherRatio": "15.63",
+      "numberOfSchools": "12"
+   },
+   {
+      "name": "Lincoln County",
+      "location": {
+         "state": {
+            "name": "Georgia",
+            "abbr": "GA",
+            "county": "Lincoln County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "1117",
+      "fte": "83.2",
+      "pupilTeacherRatio": "13.43",
+      "numberOfSchools": "3"
+   },
+   {
+      "name": "Long County",
+      "location": {
+         "state": {
+            "name": "Georgia",
+            "abbr": "GA",
+            "county": "Long County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "3876",
+      "fte": "231.7",
+      "pupilTeacherRatio": "16.73",
+      "numberOfSchools": "4"
+   },
+   {
+      "name": "Lowndes County",
+      "location": {
+         "state": {
+            "name": "Georgia",
+            "abbr": "GA",
+            "county": "Lowndes County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "10848",
+      "fte": "712.1",
+      "pupilTeacherRatio": "15.23",
+      "numberOfSchools": "11"
+   },
+   {
+      "name": "Lumpkin County",
+      "location": {
+         "state": {
+            "name": "Georgia",
+            "abbr": "GA",
+            "county": "Lumpkin County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "3854",
+      "fte": "254.5",
+      "pupilTeacherRatio": "15.14",
+      "numberOfSchools": "5"
+   },
+   {
+      "name": "Macon County",
+      "location": {
+         "state": {
+            "name": "Georgia",
+            "abbr": "GA",
+            "county": "Macon County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "1190",
+      "fte": "78.6",
+      "pupilTeacherRatio": "15.14",
+      "numberOfSchools": "3"
+   },
+   {
+      "name": "Madison County",
+      "location": {
+         "state": {
+            "name": "Georgia",
+            "abbr": "GA",
+            "county": "Madison County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "4996",
+      "fte": "360",
+      "pupilTeacherRatio": "13.88",
+      "numberOfSchools": "7"
+   },
+   {
+      "name": "Marietta City",
+      "location": {
+         "state": {
+            "name": "Georgia",
+            "abbr": "GA",
+            "county": "Cobb County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "8877",
+      "fte": "646.2",
+      "pupilTeacherRatio": "13.74",
+      "numberOfSchools": "13"
+   },
+   {
+      "name": "Marion County",
+      "location": {
+         "state": {
+            "name": "Georgia",
+            "abbr": "GA",
+            "county": "Marion County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "1367",
+      "fte": "78.4",
+      "pupilTeacherRatio": "17.44",
+      "numberOfSchools": "2"
+   },
+   {
+      "name": "Mcduffie County",
+      "location": {
+         "state": {
+            "name": "Georgia",
+            "abbr": "GA",
+            "county": "McDuffie County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "3635",
+      "fte": "250.6",
+      "pupilTeacherRatio": "14.51",
+      "numberOfSchools": "6"
+   },
+   {
+      "name": "Mcintosh County",
+      "location": {
+         "state": {
+            "name": "Georgia",
+            "abbr": "GA",
+            "county": "McIntosh County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "1328",
+      "fte": "91.9",
+      "pupilTeacherRatio": "14.45",
+      "numberOfSchools": "3"
+   },
+   {
+      "name": "Meriwether County",
+      "location": {
+         "state": {
+            "name": "Georgia",
+            "abbr": "GA",
+            "county": "Meriwether County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "2480",
+      "fte": "184.4",
+      "pupilTeacherRatio": "13.45",
+      "numberOfSchools": "8"
+   },
+   {
+      "name": "Metro Resa",
+      "location": {
+         "state": {
+            "name": "Georgia",
+            "abbr": "GA",
+            "county": "Cobb County"
+         }
+      },
+      "type": "4-Regional Education Service Agency (RESA)",
+      "grades": {
+         "lowest": "†",
+         "highest": "†"
+      },
+      "students": "†",
+      "fte": "14",
+      "pupilTeacherRatio": "–",
+      "numberOfSchools": "0"
+   },
+   {
+      "name": "Middle Georgia Resa",
+      "location": {
+         "state": {
+            "name": "Georgia",
+            "abbr": "GA",
+            "county": "Houston County"
+         }
+      },
+      "type": "4-Regional Education Service Agency (RESA)",
+      "grades": {
+         "lowest": "†",
+         "highest": "†"
+      },
+      "students": "†",
+      "fte": "1.9",
+      "pupilTeacherRatio": "–",
+      "numberOfSchools": "0"
+   },
+   {
+      "name": "Miller County",
+      "location": {
+         "state": {
+            "name": "Georgia",
+            "abbr": "GA",
+            "county": "Miller County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "868",
+      "fte": "63.3",
+      "pupilTeacherRatio": "13.71",
+      "numberOfSchools": "3"
+   },
+   {
+      "name": "Mitchell County",
+      "location": {
+         "state": {
+            "name": "Georgia",
+            "abbr": "GA",
+            "county": "Mitchell County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "1332",
+      "fte": "126.3",
+      "pupilTeacherRatio": "10.55",
+      "numberOfSchools": "5"
+   },
+   {
+      "name": "Monroe County",
+      "location": {
+         "state": {
+            "name": "Georgia",
+            "abbr": "GA",
+            "county": "Monroe County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "4152",
+      "fte": "282.2",
+      "pupilTeacherRatio": "14.71",
+      "numberOfSchools": "5"
+   },
+   {
+      "name": "Montgomery County",
+      "location": {
+         "state": {
+            "name": "Georgia",
+            "abbr": "GA",
+            "county": "Montgomery County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "882",
+      "fte": "66.7",
+      "pupilTeacherRatio": "13.22",
+      "numberOfSchools": "3"
+   },
+   {
+      "name": "Morgan County",
+      "location": {
+         "state": {
+            "name": "Georgia",
+            "abbr": "GA",
+            "county": "Morgan County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "3196",
+      "fte": "233.3",
+      "pupilTeacherRatio": "13.7",
+      "numberOfSchools": "4"
+   },
+   {
+      "name": "Murray County",
+      "location": {
+         "state": {
+            "name": "Georgia",
+            "abbr": "GA",
+            "county": "Murray County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "7216",
+      "fte": "460.5",
+      "pupilTeacherRatio": "15.67",
+      "numberOfSchools": "11"
+   },
+   {
+      "name": "Muscogee County",
+      "location": {
+         "state": {
+            "name": "Georgia",
+            "abbr": "GA",
+            "county": "Muscogee County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "31733",
+      "fte": "2071.5",
+      "pupilTeacherRatio": "15.32",
+      "numberOfSchools": "53"
+   },
+   {
+      "name": "Newton County",
+      "location": {
+         "state": {
+            "name": "Georgia",
+            "abbr": "GA",
+            "county": "Newton County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "19579",
+      "fte": "1237.4",
+      "pupilTeacherRatio": "15.82",
+      "numberOfSchools": "22"
+   },
+   {
+      "name": "North Georgia Resa",
+      "location": {
+         "state": {
+            "name": "Georgia",
+            "abbr": "GA",
+            "county": "Gilmer County"
+         }
+      },
+      "type": "4-Regional Education Service Agency (RESA)",
+      "grades": {
+         "lowest": "†",
+         "highest": "†"
+      },
+      "students": "†",
+      "fte": "12",
+      "pupilTeacherRatio": "–",
+      "numberOfSchools": "0"
+   },
+   {
+      "name": "Northeast Georgia Resa",
+      "location": {
+         "state": {
+            "name": "Georgia",
+            "abbr": "GA",
+            "county": "Clarke County"
+         }
+      },
+      "type": "4-Regional Education Service Agency (RESA)",
+      "grades": {
+         "lowest": "†",
+         "highest": "†"
+      },
+      "students": "†",
+      "fte": "32.2",
+      "pupilTeacherRatio": "–",
+      "numberOfSchools": "0"
+   },
+   {
+      "name": "Northwest Georgia Resa",
+      "location": {
+         "state": {
+            "name": "Georgia",
+            "abbr": "GA",
+            "county": "Floyd County"
+         }
+      },
+      "type": "4-Regional Education Service Agency (RESA)",
+      "grades": {
+         "lowest": "†",
+         "highest": "†"
+      },
+      "students": "†",
+      "fte": "30",
+      "pupilTeacherRatio": "–",
+      "numberOfSchools": "0"
+   },
+   {
+      "name": "Oconee County",
+      "location": {
+         "state": {
+            "name": "Georgia",
+            "abbr": "GA",
+            "county": "Oconee County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "8140",
+      "fte": "540.4",
+      "pupilTeacherRatio": "15.06",
+      "numberOfSchools": "11"
+   },
+   {
+      "name": "Oconee Resa",
+      "location": {
+         "state": {
+            "name": "Georgia",
+            "abbr": "GA",
+            "county": "Washington County"
+         }
+      },
+      "type": "4-Regional Education Service Agency (RESA)",
+      "grades": {
+         "lowest": "†",
+         "highest": "†"
+      },
+      "students": "†",
+      "fte": "10",
+      "pupilTeacherRatio": "–",
+      "numberOfSchools": "0"
+   },
+   {
+      "name": "Oglethorpe County",
+      "location": {
+         "state": {
+            "name": "Georgia",
+            "abbr": "GA",
+            "county": "Oglethorpe County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "2131",
+      "fte": "161.2",
+      "pupilTeacherRatio": "13.22",
+      "numberOfSchools": "4"
+   },
+   {
+      "name": "Okefenokee Resa",
+      "location": {
+         "state": {
+            "name": "Georgia",
+            "abbr": "GA",
+            "county": "Ware County"
+         }
+      },
+      "type": "4-Regional Education Service Agency (RESA)",
+      "grades": {
+         "lowest": "†",
+         "highest": "†"
+      },
+      "students": "†",
+      "fte": "9.5",
+      "pupilTeacherRatio": "–",
+      "numberOfSchools": "0"
+   },
+   {
+      "name": "Paulding County",
+      "location": {
+         "state": {
+            "name": "Georgia",
+            "abbr": "GA",
+            "county": "Paulding County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "30496",
+      "fte": "1893.6",
+      "pupilTeacherRatio": "16.1",
+      "numberOfSchools": "33"
+   },
+   {
+      "name": "Peach County",
+      "location": {
+         "state": {
+            "name": "Georgia",
+            "abbr": "GA",
+            "county": "Peach County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "3693",
+      "fte": "230.2",
+      "pupilTeacherRatio": "16.04",
+      "numberOfSchools": "6"
+   },
+   {
+      "name": "Pelham City",
+      "location": {
+         "state": {
+            "name": "Georgia",
+            "abbr": "GA",
+            "county": "Mitchell County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "1429",
+      "fte": "110.8",
+      "pupilTeacherRatio": "12.9",
+      "numberOfSchools": "3"
+   },
+   {
+      "name": "Pickens County",
+      "location": {
+         "state": {
+            "name": "Georgia",
+            "abbr": "GA",
+            "county": "Pickens County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "4333",
+      "fte": "305.8",
+      "pupilTeacherRatio": "14.17",
+      "numberOfSchools": "6"
+   },
+   {
+      "name": "Pierce County",
+      "location": {
+         "state": {
+            "name": "Georgia",
+            "abbr": "GA",
+            "county": "Pierce County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "3610",
+      "fte": "244.1",
+      "pupilTeacherRatio": "14.79",
+      "numberOfSchools": "5"
+   },
+   {
+      "name": "Pike County",
+      "location": {
+         "state": {
+            "name": "Georgia",
+            "abbr": "GA",
+            "county": "Pike County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "3370",
+      "fte": "203.5",
+      "pupilTeacherRatio": "16.56",
+      "numberOfSchools": "5"
+   },
+   {
+      "name": "Pioneer Resa",
+      "location": {
+         "state": {
+            "name": "Georgia",
+            "abbr": "GA",
+            "county": "White County"
+         }
+      },
+      "type": "4-Regional Education Service Agency (RESA)",
+      "grades": {
+         "lowest": "†",
+         "highest": "†"
+      },
+      "students": "†",
+      "fte": "30",
+      "pupilTeacherRatio": "–",
+      "numberOfSchools": "0"
+   },
+   {
+      "name": "Polk County",
+      "location": {
+         "state": {
+            "name": "Georgia",
+            "abbr": "GA",
+            "county": "Polk County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "8054",
+      "fte": "530.4",
+      "pupilTeacherRatio": "15.18",
+      "numberOfSchools": "11"
+   },
+   {
+      "name": "Pulaski County",
+      "location": {
+         "state": {
+            "name": "Georgia",
+            "abbr": "GA",
+            "county": "Pulaski County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "1348",
+      "fte": "93.2",
+      "pupilTeacherRatio": "14.46",
+      "numberOfSchools": "3"
+   },
+   {
+      "name": "Putnam County",
+      "location": {
+         "state": {
+            "name": "Georgia",
+            "abbr": "GA",
+            "county": "Putnam County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "3006",
+      "fte": "224",
+      "pupilTeacherRatio": "13.42",
+      "numberOfSchools": "4"
+   },
+   {
+      "name": "Quitman County",
+      "location": {
+         "state": {
+            "name": "Georgia",
+            "abbr": "GA",
+            "county": "Quitman County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "300",
+      "fte": "26",
+      "pupilTeacherRatio": "11.54",
+      "numberOfSchools": "2"
+   },
+   {
+      "name": "Rabun County",
+      "location": {
+         "state": {
+            "name": "Georgia",
+            "abbr": "GA",
+            "county": "Rabun County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "2293",
+      "fte": "169.2",
+      "pupilTeacherRatio": "13.55",
+      "numberOfSchools": "4"
+   },
+   {
+      "name": "Randolph County",
+      "location": {
+         "state": {
+            "name": "Georgia",
+            "abbr": "GA",
+            "county": "Randolph County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "819",
+      "fte": "57.8",
+      "pupilTeacherRatio": "14.17",
+      "numberOfSchools": "3"
+   },
+   {
+      "name": "Richmond County",
+      "location": {
+         "state": {
+            "name": "Georgia",
+            "abbr": "GA",
+            "county": "Richmond County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "30666",
+      "fte": "1943.4",
+      "pupilTeacherRatio": "15.78",
+      "numberOfSchools": "54"
+   },
+   {
+      "name": "Rockdale County",
+      "location": {
+         "state": {
+            "name": "Georgia",
+            "abbr": "GA",
+            "county": "Rockdale County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "16565",
+      "fte": "1215.9",
+      "pupilTeacherRatio": "13.62",
+      "numberOfSchools": "18"
+   },
+   {
+      "name": "Rome City",
+      "location": {
+         "state": {
+            "name": "Georgia",
+            "abbr": "GA",
+            "county": "Floyd County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "6452",
+      "fte": "459.6",
+      "pupilTeacherRatio": "14.04",
+      "numberOfSchools": "8"
+   },
+   {
+      "name": "Savannah-Chatham County",
+      "location": {
+         "state": {
+            "name": "Georgia",
+            "abbr": "GA",
+            "county": "Chatham County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "37456",
+      "fte": "2645.6",
+      "pupilTeacherRatio": "14.16",
+      "numberOfSchools": "57"
+   },
+   {
+      "name": "Schley County",
+      "location": {
+         "state": {
+            "name": "Georgia",
+            "abbr": "GA",
+            "county": "Schley County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "1291",
+      "fte": "88.9",
+      "pupilTeacherRatio": "14.52",
+      "numberOfSchools": "2"
+   },
+   {
+      "name": "Screven County",
+      "location": {
+         "state": {
+            "name": "Georgia",
+            "abbr": "GA",
+            "county": "Screven County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "2285",
+      "fte": "172.3",
+      "pupilTeacherRatio": "13.26",
+      "numberOfSchools": "3"
+   },
+   {
+      "name": "Seminole County",
+      "location": {
+         "state": {
+            "name": "Georgia",
+            "abbr": "GA",
+            "county": "Seminole County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "1350",
+      "fte": "106.2",
+      "pupilTeacherRatio": "12.71",
+      "numberOfSchools": "2"
+   },
+   {
+      "name": "Social Circle City",
+      "location": {
+         "state": {
+            "name": "Georgia",
+            "abbr": "GA",
+            "county": "Walton County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "1798",
+      "fte": "116.5",
+      "pupilTeacherRatio": "15.43",
+      "numberOfSchools": "4"
+   },
+   {
+      "name": "Southwest Georgia Resa",
+      "location": {
+         "state": {
+            "name": "Georgia",
+            "abbr": "GA",
+            "county": "Mitchell County"
+         }
+      },
+      "type": "4-Regional Education Service Agency (RESA)",
+      "grades": {
+         "lowest": "†",
+         "highest": "†"
+      },
+      "students": "†",
+      "fte": "0",
+      "pupilTeacherRatio": "–",
+      "numberOfSchools": "0"
+   },
+   {
+      "name": "State Charter Schools Ii- Academy for Classical Education",
+      "location": {
+         "state": {
+            "name": "GEORGIA",
+            "abbr": "GA",
+            "county": "Bibb County"
+         }
+      },
+      "type": "7-Independent Charter District",
+      "grades": {
+         "lowest": "Kindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "1770",
+      "fte": "117.2",
+      "pupilTeacherRatio": "15.1",
+      "numberOfSchools": "1"
+   },
+   {
+      "name": "State Charter Schools Ii- Baconton Community Charter School",
+      "location": {
+         "state": {
+            "name": "GEORGIA",
+            "abbr": "GA",
+            "county": "Mitchell County"
+         }
+      },
+      "type": "7-Independent Charter District",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "872",
+      "fte": "57",
+      "pupilTeacherRatio": "15.3",
+      "numberOfSchools": "1"
+   },
+   {
+      "name": "State Charter Schools Ii- Ethos Classical Charter School",
+      "location": {
+         "state": {
+            "name": "GEORGIA",
+            "abbr": "GA",
+            "county": "Fulton County"
+         }
+      },
+      "type": "7-Independent Charter District",
+      "grades": {
+         "lowest": "3rd Grade",
+         "highest": "3rd Grade"
+      },
+      "students": "123",
+      "fte": "11",
+      "pupilTeacherRatio": "11.18",
+      "numberOfSchools": "1"
+   },
+   {
+      "name": "State Charter Schools Ii- Genesis Innovation Academy for Boy",
+      "location": {
+         "state": {
+            "name": "GEORGIA",
+            "abbr": "GA",
+            "county": "Fulton County"
+         }
+      },
+      "type": "7-Independent Charter District",
+      "grades": {
+         "lowest": "Kindergarten",
+         "highest": "8th Grade"
+      },
+      "students": "316",
+      "fte": "26.2",
+      "pupilTeacherRatio": "12.06",
+      "numberOfSchools": "1"
+   },
+   {
+      "name": "State Charter Schools Ii- Genesis Innovation Academy for Gir",
+      "location": {
+         "state": {
+            "name": "GEORGIA",
+            "abbr": "GA",
+            "county": "Fulton County"
+         }
+      },
+      "type": "7-Independent Charter District",
+      "grades": {
+         "lowest": "Kindergarten",
+         "highest": "8th Grade"
+      },
+      "students": "332",
+      "fte": "24",
+      "pupilTeacherRatio": "13.83",
+      "numberOfSchools": "1"
+   },
+   {
+      "name": "State Charter Schools Ii- International Academy of Smyrna",
+      "location": {
+         "state": {
+            "name": "GEORGIA",
+            "abbr": "GA",
+            "county": "Cobb County"
+         }
+      },
+      "type": "7-Independent Charter District",
+      "grades": {
+         "lowest": "Kindergarten",
+         "highest": "6th Grade"
+      },
+      "students": "430",
+      "fte": "29",
+      "pupilTeacherRatio": "14.83",
+      "numberOfSchools": "1"
+   },
+   {
+      "name": "State Charter Schools Ii- International Charter Academy of G",
+      "location": {
+         "state": {
+            "name": "GEORGIA",
+            "abbr": "GA",
+            "county": "Gwinnett County"
+         }
+      },
+      "type": "7-Independent Charter District",
+      "grades": {
+         "lowest": "Kindergarten",
+         "highest": "5th Grade"
+      },
+      "students": "164",
+      "fte": "13.3",
+      "pupilTeacherRatio": "12.33",
+      "numberOfSchools": "1"
+   },
+   {
+      "name": "State Charter Schools Ii- Resurgence Hall Charter School",
+      "location": {
+         "state": {
+            "name": "GEORGIA",
+            "abbr": "GA",
+            "county": "Fulton County"
+         }
+      },
+      "type": "7-Independent Charter District",
+      "grades": {
+         "lowest": "Kindergarten",
+         "highest": "8th Grade"
+      },
+      "students": "276",
+      "fte": "19.5",
+      "pupilTeacherRatio": "14.15",
+      "numberOfSchools": "1"
+   },
+   {
+      "name": "State Charter Schools Ii- Sail Charter Academy - School For",
+      "location": {
+         "state": {
+            "name": "GEORGIA",
+            "abbr": "GA",
+            "county": "Columbia County"
+         }
+      },
+      "type": "7-Independent Charter District",
+      "grades": {
+         "lowest": "Kindergarten",
+         "highest": "8th Grade"
+      },
+      "students": "568",
+      "fte": "37.2",
+      "pupilTeacherRatio": "15.27",
+      "numberOfSchools": "1"
+   },
+   {
+      "name": "State Charter Schools Ii- Slam Academy of Atlanta",
+      "location": {
+         "state": {
+            "name": "GEORGIA",
+            "abbr": "GA",
+            "county": "Fulton County"
+         }
+      },
+      "type": "7-Independent Charter District",
+      "grades": {
+         "lowest": "Kindergarten",
+         "highest": "4th Grade"
+      },
+      "students": "102",
+      "fte": "7",
+      "pupilTeacherRatio": "14.57",
+      "numberOfSchools": "1"
+   },
+   {
+      "name": "State Charter Schools Ii- Spring Creek Charter Academy",
+      "location": {
+         "state": {
+            "name": "GEORGIA",
+            "abbr": "GA",
+            "county": "Decatur County"
+         }
+      },
+      "type": "7-Independent Charter District",
+      "grades": {
+         "lowest": "Kindergarten",
+         "highest": "6th Grade"
+      },
+      "students": "280",
+      "fte": "18",
+      "pupilTeacherRatio": "15.56",
+      "numberOfSchools": "1"
+   },
+   {
+      "name": "State Charter Schools- Cherokee Charter Academy",
+      "location": {
+         "state": {
+            "name": "Georgia",
+            "abbr": "GA",
+            "county": "Cherokee County"
+         }
+      },
+      "type": "7-Independent Charter District",
+      "grades": {
+         "lowest": "Kindergarten",
+         "highest": "8th Grade"
+      },
+      "students": "628",
+      "fte": "47.2",
+      "pupilTeacherRatio": "13.31",
+      "numberOfSchools": "1"
+   },
+   {
+      "name": "State Charter Schools- Coastal Plains Charter High School -",
+      "location": {
+         "state": {
+            "name": "GEORGIA",
+            "abbr": "GA",
+            "county": "Candler County"
+         }
+      },
+      "type": "7-Independent Charter District",
+      "grades": {
+         "lowest": "9th Grade",
+         "highest": "12th Grade"
+      },
+      "students": "1175",
+      "fte": "195",
+      "pupilTeacherRatio": "6.03",
+      "numberOfSchools": "1"
+   },
+   {
+      "name": "State Charter Schools- Dubois Integrity Academy I",
+      "location": {
+         "state": {
+            "name": "GEORGIA",
+            "abbr": "GA",
+            "county": "Clayton County"
+         }
+      },
+      "type": "7-Independent Charter District",
+      "grades": {
+         "lowest": "Kindergarten",
+         "highest": "5th Grade"
+      },
+      "students": "807",
+      "fte": "55.8",
+      "pupilTeacherRatio": "14.46",
+      "numberOfSchools": "1"
+   },
+   {
+      "name": "State Charter Schools- Foothills Charter High School (Madiso",
+      "location": {
+         "state": {
+            "name": "GEORGIA",
+            "abbr": "GA",
+            "county": "Clarke County"
+         }
+      },
+      "type": "7-Independent Charter District",
+      "grades": {
+         "lowest": "9th Grade",
+         "highest": "12th Grade"
+      },
+      "students": "1866",
+      "fte": "26.2",
+      "pupilTeacherRatio": "71.22",
+      "numberOfSchools": "1"
+   },
+   {
+      "name": "State Charter Schools- Georgia Connections Academy",
+      "location": {
+         "state": {
+            "name": "Georgia",
+            "abbr": "GA",
+            "county": "Gwinnett County"
+         }
+      },
+      "type": "7-Independent Charter District",
+      "grades": {
+         "lowest": "5th Grade",
+         "highest": "12th Grade"
+      },
+      "students": "4640",
+      "fte": "111.2",
+      "pupilTeacherRatio": "41.73",
+      "numberOfSchools": "1"
+   },
+   {
+      "name": "State Charter Schools- Georgia Cyber Academy",
+      "location": {
+         "state": {
+            "name": "GEORGIA",
+            "abbr": "GA",
+            "county": "Clayton County"
+         }
+      },
+      "type": "7-Independent Charter District",
+      "grades": {
+         "lowest": "Kindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "9211",
+      "fte": "393",
+      "pupilTeacherRatio": "23.44",
+      "numberOfSchools": "1"
+   },
+   {
+      "name": "State Charter Schools- Georgia School for Innovation and The",
+      "location": {
+         "state": {
+            "name": "GEORGIA",
+            "abbr": "GA",
+            "county": "Richmond County"
+         }
+      },
+      "type": "7-Independent Charter District",
+      "grades": {
+         "lowest": "Kindergarten",
+         "highest": "10th Grade"
+      },
+      "students": "708",
+      "fte": "50.4",
+      "pupilTeacherRatio": "14.05",
+      "numberOfSchools": "1"
+   },
+   {
+      "name": "State Charter Schools- International Charter School of Atlan",
+      "location": {
+         "state": {
+            "name": "GEORGIA",
+            "abbr": "GA",
+            "county": "Fulton County"
+         }
+      },
+      "type": "7-Independent Charter District",
+      "grades": {
+         "lowest": "Kindergarten",
+         "highest": "8th Grade"
+      },
+      "students": "789",
+      "fte": "56.7",
+      "pupilTeacherRatio": "13.92",
+      "numberOfSchools": "1"
+   },
+   {
+      "name": "State Charter Schools- Ivy Prep Academy at Kirkwood for Gir",
+      "location": {
+         "state": {
+            "name": "Georgia",
+            "abbr": "GA",
+            "county": "DeKalb County"
+         }
+      },
+      "type": "7-Independent Charter District",
+      "grades": {
+         "lowest": "Kindergarten",
+         "highest": "8th Grade"
+      },
+      "students": "491",
+      "fte": "40.1",
+      "pupilTeacherRatio": "12.24",
+      "numberOfSchools": "1"
+   },
+   {
+      "name": "State Charter Schools- Mountain Education Center School",
+      "location": {
+         "state": {
+            "name": "Georgia",
+            "abbr": "GA",
+            "county": "White County"
+         }
+      },
+      "type": "7-Independent Charter District",
+      "grades": {
+         "lowest": "9th Grade",
+         "highest": "12th Grade"
+      },
+      "students": "2093",
+      "fte": "117.3",
+      "pupilTeacherRatio": "17.84",
+      "numberOfSchools": "1"
+   },
+   {
+      "name": "State Charter Schools- Odyssey School",
+      "location": {
+         "state": {
+            "name": "Georgia",
+            "abbr": "GA",
+            "county": "Coweta County"
+         }
+      },
+      "type": "7-Independent Charter District",
+      "grades": {
+         "lowest": "Kindergarten",
+         "highest": "8th Grade"
+      },
+      "students": "348",
+      "fte": "29.5",
+      "pupilTeacherRatio": "11.8",
+      "numberOfSchools": "1"
+   },
+   {
+      "name": "State Charter Schools- Scintilla Charter Academy",
+      "location": {
+         "state": {
+            "name": "GEORGIA",
+            "abbr": "GA",
+            "county": "Lowndes County"
+         }
+      },
+      "type": "7-Independent Charter District",
+      "grades": {
+         "lowest": "Kindergarten",
+         "highest": "6th Grade"
+      },
+      "students": "588",
+      "fte": "42.3",
+      "pupilTeacherRatio": "13.9",
+      "numberOfSchools": "1"
+   },
+   {
+      "name": "State Charter Schools- Utopian Academy for the Arts Charter",
+      "location": {
+         "state": {
+            "name": "GEORGIA",
+            "abbr": "GA",
+            "county": "Clayton County"
+         }
+      },
+      "type": "7-Independent Charter District",
+      "grades": {
+         "lowest": "6th Grade",
+         "highest": "8th Grade"
+      },
+      "students": "268",
+      "fte": "23",
+      "pupilTeacherRatio": "11.65",
+      "numberOfSchools": "1"
+   },
+   {
+      "name": "State Schools",
+      "location": {
+         "state": {
+            "name": "GEORGIA",
+            "abbr": "GA",
+            "county": "Fulton County"
+         }
+      },
+      "type": "5-State agency providing elementary and/or secondary level instruction",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "333",
+      "fte": "96.5",
+      "pupilTeacherRatio": "3.45",
+      "numberOfSchools": "3"
+   },
+   {
+      "name": "Stephens County",
+      "location": {
+         "state": {
+            "name": "Georgia",
+            "abbr": "GA",
+            "county": "Stephens County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "3984",
+      "fte": "263.4",
+      "pupilTeacherRatio": "15.13",
+      "numberOfSchools": "6"
+   },
+   {
+      "name": "Stewart County",
+      "location": {
+         "state": {
+            "name": "Georgia",
+            "abbr": "GA",
+            "county": "Stewart County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "430",
+      "fte": "37.2",
+      "pupilTeacherRatio": "11.56",
+      "numberOfSchools": "3"
+   },
+   {
+      "name": "Sumter County",
+      "location": {
+         "state": {
+            "name": "Georgia",
+            "abbr": "GA",
+            "county": "Sumter County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "4416",
+      "fte": "318.5",
+      "pupilTeacherRatio": "13.86",
+      "numberOfSchools": "7"
+   },
+   {
+      "name": "Talbot County",
+      "location": {
+         "state": {
+            "name": "Georgia",
+            "abbr": "GA",
+            "county": "Talbot County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "463",
+      "fte": "43.2",
+      "pupilTeacherRatio": "10.72",
+      "numberOfSchools": "1"
+   },
+   {
+      "name": "Taliaferro County",
+      "location": {
+         "state": {
+            "name": "Georgia",
+            "abbr": "GA",
+            "county": "Taliaferro County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "172",
+      "fte": "23.3",
+      "pupilTeacherRatio": "7.38",
+      "numberOfSchools": "1"
+   },
+   {
+      "name": "Tattnall County",
+      "location": {
+         "state": {
+            "name": "Georgia",
+            "abbr": "GA",
+            "county": "Tattnall County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "3783",
+      "fte": "256.9",
+      "pupilTeacherRatio": "14.73",
+      "numberOfSchools": "6"
+   },
+   {
+      "name": "Taylor County",
+      "location": {
+         "state": {
+            "name": "Georgia",
+            "abbr": "GA",
+            "county": "Taylor County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "1395",
+      "fte": "96.2",
+      "pupilTeacherRatio": "14.5",
+      "numberOfSchools": "5"
+   },
+   {
+      "name": "Telfair County",
+      "location": {
+         "state": {
+            "name": "Georgia",
+            "abbr": "GA",
+            "county": "Telfair County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "1694",
+      "fte": "117.6",
+      "pupilTeacherRatio": "14.4",
+      "numberOfSchools": "4"
+   },
+   {
+      "name": "Terrell County",
+      "location": {
+         "state": {
+            "name": "Georgia",
+            "abbr": "GA",
+            "county": "Terrell County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "1218",
+      "fte": "81.2",
+      "pupilTeacherRatio": "15",
+      "numberOfSchools": "3"
+   },
+   {
+      "name": "Thomas County",
+      "location": {
+         "state": {
+            "name": "Georgia",
+            "abbr": "GA",
+            "county": "Thomas County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "5832",
+      "fte": "402.7",
+      "pupilTeacherRatio": "14.48",
+      "numberOfSchools": "7"
+   },
+   {
+      "name": "Thomaston-Upson County",
+      "location": {
+         "state": {
+            "name": "Georgia",
+            "abbr": "GA",
+            "county": "Upson County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "4144",
+      "fte": "273.9",
+      "pupilTeacherRatio": "15.13",
+      "numberOfSchools": "4"
+   },
+   {
+      "name": "Thomasville City",
+      "location": {
+         "state": {
+            "name": "Georgia",
+            "abbr": "GA",
+            "county": "Thomas County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "2796",
+      "fte": "198.3",
+      "pupilTeacherRatio": "14.1",
+      "numberOfSchools": "5"
+   },
+   {
+      "name": "Tift County",
+      "location": {
+         "state": {
+            "name": "Georgia",
+            "abbr": "GA",
+            "county": "Tift County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "7891",
+      "fte": "523.9",
+      "pupilTeacherRatio": "15.06",
+      "numberOfSchools": "11"
+   },
+   {
+      "name": "Toombs County",
+      "location": {
+         "state": {
+            "name": "Georgia",
+            "abbr": "GA",
+            "county": "Toombs County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "2992",
+      "fte": "212.3",
+      "pupilTeacherRatio": "14.09",
+      "numberOfSchools": "5"
+   },
+   {
+      "name": "Towns County",
+      "location": {
+         "state": {
+            "name": "Georgia",
+            "abbr": "GA",
+            "county": "Towns County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "935",
+      "fte": "88.8",
+      "pupilTeacherRatio": "10.53",
+      "numberOfSchools": "3"
+   },
+   {
+      "name": "Treutlen County",
+      "location": {
+         "state": {
+            "name": "Georgia",
+            "abbr": "GA",
+            "county": "Treutlen County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "1112",
+      "fte": "83.6",
+      "pupilTeacherRatio": "13.3",
+      "numberOfSchools": "2"
+   },
+   {
+      "name": "Trion City",
+      "location": {
+         "state": {
+            "name": "Georgia",
+            "abbr": "GA",
+            "county": "Chattooga County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "1376",
+      "fte": "88.5",
+      "pupilTeacherRatio": "15.55",
+      "numberOfSchools": "3"
+   },
+   {
+      "name": "Troup County",
+      "location": {
+         "state": {
+            "name": "Georgia",
+            "abbr": "GA",
+            "county": "Troup County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "12127",
+      "fte": "790",
+      "pupilTeacherRatio": "15.35",
+      "numberOfSchools": "19"
+   },
+   {
+      "name": "Turner County",
+      "location": {
+         "state": {
+            "name": "Georgia",
+            "abbr": "GA",
+            "county": "Turner County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "1198",
+      "fte": "90.2",
+      "pupilTeacherRatio": "13.28",
+      "numberOfSchools": "3"
+   },
+   {
+      "name": "Twiggs County",
+      "location": {
+         "state": {
+            "name": "Georgia",
+            "abbr": "GA",
+            "county": "Twiggs County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "785",
+      "fte": "55.9",
+      "pupilTeacherRatio": "14.04",
+      "numberOfSchools": "3"
+   },
+   {
+      "name": "Union County",
+      "location": {
+         "state": {
+            "name": "Georgia",
+            "abbr": "GA",
+            "county": "Union County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "2868",
+      "fte": "205.1",
+      "pupilTeacherRatio": "13.98",
+      "numberOfSchools": "5"
+   },
+   {
+      "name": "Valdosta City",
+      "location": {
+         "state": {
+            "name": "Georgia",
+            "abbr": "GA",
+            "county": "Lowndes County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "8427",
+      "fte": "564.6",
+      "pupilTeacherRatio": "14.93",
+      "numberOfSchools": "8"
+   },
+   {
+      "name": "Vidalia City",
+      "location": {
+         "state": {
+            "name": "Georgia",
+            "abbr": "GA",
+            "county": "Toombs County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "2566",
+      "fte": "168.1",
+      "pupilTeacherRatio": "15.26",
+      "numberOfSchools": "4"
+   },
+   {
+      "name": "Walker County",
+      "location": {
+         "state": {
+            "name": "Georgia",
+            "abbr": "GA",
+            "county": "Walker County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "8680",
+      "fte": "702.3",
+      "pupilTeacherRatio": "12.36",
+      "numberOfSchools": "15"
+   },
+   {
+      "name": "Walton County",
+      "location": {
+         "state": {
+            "name": "Georgia",
+            "abbr": "GA",
+            "county": "Walton County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "14208",
+      "fte": "848",
+      "pupilTeacherRatio": "16.75",
+      "numberOfSchools": "15"
+   },
+   {
+      "name": "Ware County",
+      "location": {
+         "state": {
+            "name": "Georgia",
+            "abbr": "GA",
+            "county": "Ware County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "6206",
+      "fte": "429",
+      "pupilTeacherRatio": "14.47",
+      "numberOfSchools": "9"
+   },
+   {
+      "name": "Warren County",
+      "location": {
+         "state": {
+            "name": "Georgia",
+            "abbr": "GA",
+            "county": "Warren County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "626",
+      "fte": "58.9",
+      "pupilTeacherRatio": "10.63",
+      "numberOfSchools": "3"
+   },
+   {
+      "name": "Washington County",
+      "location": {
+         "state": {
+            "name": "Georgia",
+            "abbr": "GA",
+            "county": "Washington County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "3084",
+      "fte": "197",
+      "pupilTeacherRatio": "15.65",
+      "numberOfSchools": "4"
+   },
+   {
+      "name": "Wayne County",
+      "location": {
+         "state": {
+            "name": "Georgia",
+            "abbr": "GA",
+            "county": "Wayne County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "5373",
+      "fte": "361.1",
+      "pupilTeacherRatio": "14.88",
+      "numberOfSchools": "8"
+   },
+   {
+      "name": "Webster County",
+      "location": {
+         "state": {
+            "name": "Georgia",
+            "abbr": "GA",
+            "county": "Webster County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "292",
+      "fte": "29.3",
+      "pupilTeacherRatio": "9.97",
+      "numberOfSchools": "2"
+   },
+   {
+      "name": "West Georgia Resa",
+      "location": {
+         "state": {
+            "name": "Georgia",
+            "abbr": "GA",
+            "county": "Coweta County"
+         }
+      },
+      "type": "4-Regional Education Service Agency (RESA)",
+      "grades": {
+         "lowest": "†",
+         "highest": "†"
+      },
+      "students": "†",
+      "fte": "31",
+      "pupilTeacherRatio": "–",
+      "numberOfSchools": "0"
+   },
+   {
+      "name": "Wheeler County",
+      "location": {
+         "state": {
+            "name": "Georgia",
+            "abbr": "GA",
+            "county": "Wheeler County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "1000",
+      "fte": "69.1",
+      "pupilTeacherRatio": "14.47",
+      "numberOfSchools": "3"
+   },
+   {
+      "name": "White County",
+      "location": {
+         "state": {
+            "name": "Georgia",
+            "abbr": "GA",
+            "county": "White County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "3855",
+      "fte": "261",
+      "pupilTeacherRatio": "14.77",
+      "numberOfSchools": "6"
+   },
+   {
+      "name": "Whitfield County",
+      "location": {
+         "state": {
+            "name": "Georgia",
+            "abbr": "GA",
+            "county": "Whitfield County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "12873",
+      "fte": "878.1",
+      "pupilTeacherRatio": "14.66",
+      "numberOfSchools": "22"
+   },
+   {
+      "name": "Wilcox County",
+      "location": {
+         "state": {
+            "name": "Georgia",
+            "abbr": "GA",
+            "county": "Wilcox County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "1217",
+      "fte": "82.7",
+      "pupilTeacherRatio": "14.72",
+      "numberOfSchools": "3"
+   },
+   {
+      "name": "Wilkes County",
+      "location": {
+         "state": {
+            "name": "Georgia",
+            "abbr": "GA",
+            "county": "Wilkes County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "1430",
+      "fte": "101.7",
+      "pupilTeacherRatio": "14.06",
+      "numberOfSchools": "4"
+   },
+   {
+      "name": "Wilkinson County",
+      "location": {
+         "state": {
+            "name": "Georgia",
+            "abbr": "GA",
+            "county": "Wilkinson County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "1235",
+      "fte": "84.3",
+      "pupilTeacherRatio": "14.65",
+      "numberOfSchools": "4"
+   },
+   {
+      "name": "Worth County",
+      "location": {
+         "state": {
+            "name": "Georgia",
+            "abbr": "GA",
+            "county": "Worth County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "3181",
+      "fte": "199.2",
+      "pupilTeacherRatio": "15.97",
+      "numberOfSchools": "5"
+   }
+]

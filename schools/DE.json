@@ -1,0 +1,4974 @@
+[
+   {
+      "name": "Academia Antonia Alonso",
+      "location": {
+         "state": {
+            "name": "Delaware",
+            "abbr": "DE "
+         }
+      },
+      "district": "Academia Antonia Alonso",
+      "level": "Elementary",
+      "type": "1-Regular school",
+      "charterSchool": "1-Yes",
+      "magnentSchool": "2-No",
+      "locale": "21-Suburb: Large",
+      "grades": {
+         "lowest": "Kindergarten",
+         "highest": "5th Grade"
+      },
+      "students": "595",
+      "fte": "39",
+      "pupilTeacherRatio": "15.26"
+   },
+   {
+      "name": "Academy of Dover Charter School",
+      "location": {
+         "state": {
+            "name": "Delaware",
+            "abbr": "DE "
+         }
+      },
+      "district": "Academy of Dover Charter School",
+      "level": "Elementary",
+      "type": "1-Regular school",
+      "charterSchool": "1-Yes",
+      "magnentSchool": "2-No",
+      "locale": "13-City: Small",
+      "grades": {
+         "lowest": "Kindergarten",
+         "highest": "5th Grade"
+      },
+      "students": "266",
+      "fte": "19",
+      "pupilTeacherRatio": "14"
+   },
+   {
+      "name": "Allen Frear Elementary School",
+      "location": {
+         "state": {
+            "name": "Delaware",
+            "abbr": "DE "
+         }
+      },
+      "district": "Caesar Rodney School District",
+      "level": "Elementary",
+      "type": "1-Regular school",
+      "charterSchool": "2-No",
+      "magnentSchool": "2-No",
+      "locale": "22-Suburb: Mid-size",
+      "grades": {
+         "lowest": "1st Grade",
+         "highest": "5th Grade"
+      },
+      "students": "717",
+      "fte": "46",
+      "pupilTeacherRatio": "15.59"
+   },
+   {
+      "name": "Appoquinimink High School",
+      "location": {
+         "state": {
+            "name": "Delaware",
+            "abbr": "DE "
+         }
+      },
+      "district": "Appoquinimink School District",
+      "level": "High",
+      "type": "1-Regular school",
+      "charterSchool": "2-No",
+      "magnentSchool": "2-No",
+      "locale": "41-Rural: Fringe",
+      "grades": {
+         "lowest": "9th Grade",
+         "highest": "12th Grade"
+      },
+      "students": "1697",
+      "fte": "105",
+      "pupilTeacherRatio": "16.16"
+   },
+   {
+      "name": "Appoquinimink Preschool Center",
+      "location": {
+         "state": {
+            "name": "Delaware",
+            "abbr": "DE "
+         }
+      },
+      "district": "Appoquinimink School District",
+      "level": "Prekindergarten",
+      "type": "2-Special education school",
+      "charterSchool": "2-No",
+      "magnentSchool": "2-No",
+      "locale": "31-Town: Fringe",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "Prekindergarten"
+      },
+      "students": "174",
+      "fte": "–",
+      "pupilTeacherRatio": "†"
+   },
+   {
+      "name": "Baltz (Austin D.) Elementary School",
+      "location": {
+         "state": {
+            "name": "Delaware",
+            "abbr": "DE "
+         }
+      },
+      "district": "Red Clay Consolidated School District",
+      "level": "Elementary",
+      "type": "1-Regular school",
+      "charterSchool": "2-No",
+      "magnentSchool": "2-No",
+      "locale": "21-Suburb: Large",
+      "grades": {
+         "lowest": "Kindergarten",
+         "highest": "5th Grade"
+      },
+      "students": "542",
+      "fte": "45",
+      "pupilTeacherRatio": "12.04"
+   },
+   {
+      "name": "Banneker (Benjamin) Elementary School",
+      "location": {
+         "state": {
+            "name": "Delaware",
+            "abbr": "DE "
+         }
+      },
+      "district": "Milford School District",
+      "level": "Elementary",
+      "type": "1-Regular school",
+      "charterSchool": "2-No",
+      "magnentSchool": "2-No",
+      "locale": "31-Town: Fringe",
+      "grades": {
+         "lowest": "1st Grade",
+         "highest": "5th Grade"
+      },
+      "students": "502",
+      "fte": "34",
+      "pupilTeacherRatio": "14.76"
+   },
+   {
+      "name": "Beacon Middle School",
+      "location": {
+         "state": {
+            "name": "Delaware",
+            "abbr": "DE "
+         }
+      },
+      "district": "Cape Henlopen School District",
+      "level": "Middle",
+      "type": "1-Regular school",
+      "charterSchool": "2-No",
+      "magnentSchool": "2-No",
+      "locale": "41-Rural: Fringe",
+      "grades": {
+         "lowest": "6th Grade",
+         "highest": "8th Grade"
+      },
+      "students": "715",
+      "fte": "47",
+      "pupilTeacherRatio": "15.21"
+   },
+   {
+      "name": "Bedford (Gunning) Middle School",
+      "location": {
+         "state": {
+            "name": "Delaware",
+            "abbr": "DE "
+         }
+      },
+      "district": "Colonial School District",
+      "level": "Middle",
+      "type": "1-Regular school",
+      "charterSchool": "2-No",
+      "magnentSchool": "2-No",
+      "locale": "41-Rural: Fringe",
+      "grades": {
+         "lowest": "6th Grade",
+         "highest": "8th Grade"
+      },
+      "students": "1035",
+      "fte": "56",
+      "pupilTeacherRatio": "18.48"
+   },
+   {
+      "name": "Blades Elementary School",
+      "location": {
+         "state": {
+            "name": "Delaware",
+            "abbr": "DE "
+         }
+      },
+      "district": "Seaford School District",
+      "level": "Elementary",
+      "type": "1-Regular school",
+      "charterSchool": "2-No",
+      "magnentSchool": "2-No",
+      "locale": "23-Suburb: Small",
+      "grades": {
+         "lowest": "Kindergarten",
+         "highest": "2nd Grade"
+      },
+      "students": "427",
+      "fte": "26",
+      "pupilTeacherRatio": "16.42"
+   },
+   {
+      "name": "Booker T. Washington Elementary School",
+      "location": {
+         "state": {
+            "name": "Delaware",
+            "abbr": "DE "
+         }
+      },
+      "district": "Capital School District",
+      "level": "Elementary",
+      "type": "1-Regular school",
+      "charterSchool": "2-No",
+      "magnentSchool": "2-No",
+      "locale": "13-City: Small",
+      "grades": {
+         "lowest": "Kindergarten",
+         "highest": "4th Grade"
+      },
+      "students": "276",
+      "fte": "33",
+      "pupilTeacherRatio": "8.36"
+   },
+   {
+      "name": "Brader (Henry M.) Elementary School",
+      "location": {
+         "state": {
+            "name": "Delaware",
+            "abbr": "DE "
+         }
+      },
+      "district": "Christina School District",
+      "level": "Elementary",
+      "type": "1-Regular school",
+      "charterSchool": "2-No",
+      "magnentSchool": "2-No",
+      "locale": "21-Suburb: Large",
+      "grades": {
+         "lowest": "Kindergarten",
+         "highest": "5th Grade"
+      },
+      "students": "383",
+      "fte": "31",
+      "pupilTeacherRatio": "12.35"
+   },
+   {
+      "name": "Brandywine High School",
+      "location": {
+         "state": {
+            "name": "Delaware",
+            "abbr": "DE "
+         }
+      },
+      "district": "Brandywine School District",
+      "level": "High",
+      "type": "1-Regular school",
+      "charterSchool": "2-No",
+      "magnentSchool": "2-No",
+      "locale": "21-Suburb: Large",
+      "grades": {
+         "lowest": "9th Grade",
+         "highest": "12th Grade"
+      },
+      "students": "839",
+      "fte": "61",
+      "pupilTeacherRatio": "13.75"
+   },
+   {
+      "name": "Brandywine Site",
+      "location": {
+         "state": {
+            "name": "DELAWARE",
+            "abbr": "DE "
+         }
+      },
+      "district": "Brandywine School District",
+      "level": "High",
+      "type": "1-Regular school",
+      "charterSchool": "2-No",
+      "magnentSchool": "2-No",
+      "locale": "21-Suburb: Large",
+      "grades": {
+         "lowest": "12th Grade",
+         "highest": "12th Grade"
+      },
+      "students": "22",
+      "fte": "4",
+      "pupilTeacherRatio": "5.5"
+   },
+   {
+      "name": "Brandywine Springs School",
+      "location": {
+         "state": {
+            "name": "Delaware",
+            "abbr": "DE "
+         }
+      },
+      "district": "Red Clay Consolidated School District",
+      "level": "Elementary",
+      "type": "1-Regular school",
+      "charterSchool": "2-No",
+      "magnentSchool": "2-No",
+      "locale": "21-Suburb: Large",
+      "grades": {
+         "lowest": "Kindergarten",
+         "highest": "8th Grade"
+      },
+      "students": "992",
+      "fte": "61",
+      "pupilTeacherRatio": "16.26"
+   },
+   {
+      "name": "Brennen School (The)",
+      "location": {
+         "state": {
+            "name": "Delaware",
+            "abbr": "DE "
+         }
+      },
+      "district": "Christina School District",
+      "level": "Other",
+      "type": "2-Special education school",
+      "charterSchool": "2-No",
+      "magnentSchool": "2-No",
+      "locale": "21-Suburb: Large",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "413",
+      "fte": "109",
+      "pupilTeacherRatio": "3.79"
+   },
+   {
+      "name": "Brick Mill Elementary School",
+      "location": {
+         "state": {
+            "name": "Delaware",
+            "abbr": "DE "
+         }
+      },
+      "district": "Appoquinimink School District",
+      "level": "Elementary",
+      "type": "1-Regular school",
+      "charterSchool": "2-No",
+      "magnentSchool": "2-No",
+      "locale": "41-Rural: Fringe",
+      "grades": {
+         "lowest": "1st Grade",
+         "highest": "5th Grade"
+      },
+      "students": "416",
+      "fte": "30",
+      "pupilTeacherRatio": "13.87"
+   },
+   {
+      "name": "Brookside Elementary School",
+      "location": {
+         "state": {
+            "name": "Delaware",
+            "abbr": "DE "
+         }
+      },
+      "district": "Christina School District",
+      "level": "Elementary",
+      "type": "1-Regular school",
+      "charterSchool": "2-No",
+      "magnentSchool": "2-No",
+      "locale": "21-Suburb: Large",
+      "grades": {
+         "lowest": "Kindergarten",
+         "highest": "5th Grade"
+      },
+      "students": "306",
+      "fte": "28",
+      "pupilTeacherRatio": "10.93"
+   },
+   {
+      "name": "Bunker Hill Elementary School",
+      "location": {
+         "state": {
+            "name": "Delaware",
+            "abbr": "DE "
+         }
+      },
+      "district": "Appoquinimink School District",
+      "level": "Elementary",
+      "type": "1-Regular school",
+      "charterSchool": "2-No",
+      "magnentSchool": "2-No",
+      "locale": "41-Rural: Fringe",
+      "grades": {
+         "lowest": "1st Grade",
+         "highest": "5th Grade"
+      },
+      "students": "578",
+      "fte": "37",
+      "pupilTeacherRatio": "15.62"
+   },
+   {
+      "name": "Bush (Charles W.) Pre-School",
+      "location": {
+         "state": {
+            "name": "Delaware",
+            "abbr": "DE "
+         }
+      },
+      "district": "Brandywine School District",
+      "level": "Prekindergarten",
+      "type": "2-Special education school",
+      "charterSchool": "2-No",
+      "magnentSchool": "2-No",
+      "locale": "21-Suburb: Large",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "Prekindergarten"
+      },
+      "students": "209",
+      "fte": "14",
+      "pupilTeacherRatio": "14.93"
+   },
+   {
+      "name": "Caesar Rodney High School",
+      "location": {
+         "state": {
+            "name": "Delaware",
+            "abbr": "DE "
+         }
+      },
+      "district": "Caesar Rodney School District",
+      "level": "High",
+      "type": "1-Regular school",
+      "charterSchool": "2-No",
+      "magnentSchool": "2-No",
+      "locale": "22-Suburb: Mid-size",
+      "grades": {
+         "lowest": "9th Grade",
+         "highest": "12th Grade"
+      },
+      "students": "2065",
+      "fte": "137",
+      "pupilTeacherRatio": "15.07"
+   },
+   {
+      "name": "Calloway (Cab) School of the Arts",
+      "location": {
+         "state": {
+            "name": "Delaware",
+            "abbr": "DE "
+         }
+      },
+      "district": "Red Clay Consolidated School District",
+      "level": "High",
+      "type": "1-Regular school",
+      "charterSchool": "2-No",
+      "magnentSchool": "1-Yes",
+      "locale": "13-City: Small",
+      "grades": {
+         "lowest": "6th Grade",
+         "highest": "12th Grade"
+      },
+      "students": "937",
+      "fte": "48",
+      "pupilTeacherRatio": "19.52"
+   },
+   {
+      "name": "Campus Community School",
+      "location": {
+         "state": {
+            "name": "Delaware",
+            "abbr": "DE "
+         }
+      },
+      "district": "Campus Community School",
+      "level": "Elementary",
+      "type": "1-Regular school",
+      "charterSchool": "1-Yes",
+      "magnentSchool": "2-No",
+      "locale": "13-City: Small",
+      "grades": {
+         "lowest": "Kindergarten",
+         "highest": "8th Grade"
+      },
+      "students": "420",
+      "fte": "24",
+      "pupilTeacherRatio": "17.5"
+   },
+   {
+      "name": "Cantwell Bridge Middle School",
+      "location": {
+         "state": {
+            "name": "DELAWARE",
+            "abbr": "DE "
+         }
+      },
+      "district": "Appoquinimink School District",
+      "level": "Not Reported",
+      "type": "1-Regular school",
+      "charterSchool": "2-No",
+      "magnentSchool": "†",
+      "locale": "31-Town: Fringe",
+      "grades": {
+         "lowest": "–",
+         "highest": "–"
+      },
+      "students": "†",
+      "fte": "†",
+      "pupilTeacherRatio": "†"
+   },
+   {
+      "name": "Cape Henlopen High School",
+      "location": {
+         "state": {
+            "name": "Delaware",
+            "abbr": "DE "
+         }
+      },
+      "district": "Cape Henlopen School District",
+      "level": "High",
+      "type": "1-Regular school",
+      "charterSchool": "2-No",
+      "magnentSchool": "2-No",
+      "locale": "32-Town: Distant",
+      "grades": {
+         "lowest": "9th Grade",
+         "highest": "12th Grade"
+      },
+      "students": "1506",
+      "fte": "103",
+      "pupilTeacherRatio": "14.62"
+   },
+   {
+      "name": "Capital Early Childhood Center",
+      "location": {
+         "state": {
+            "name": "DELAWARE",
+            "abbr": "DE "
+         }
+      },
+      "district": "Capital School District",
+      "level": "Not Reported",
+      "type": "1-Regular school",
+      "charterSchool": "2-No",
+      "magnentSchool": "†",
+      "locale": "13-City: Small",
+      "grades": {
+         "lowest": "–",
+         "highest": "–"
+      },
+      "students": "†",
+      "fte": "†",
+      "pupilTeacherRatio": "†"
+   },
+   {
+      "name": "Carrcroft Elementary School",
+      "location": {
+         "state": {
+            "name": "Delaware",
+            "abbr": "DE "
+         }
+      },
+      "district": "Brandywine School District",
+      "level": "Elementary",
+      "type": "1-Regular school",
+      "charterSchool": "2-No",
+      "magnentSchool": "2-No",
+      "locale": "21-Suburb: Large",
+      "grades": {
+         "lowest": "Kindergarten",
+         "highest": "5th Grade"
+      },
+      "students": "483",
+      "fte": "34",
+      "pupilTeacherRatio": "14.21"
+   },
+   {
+      "name": "Carver (G.w.) Educational Center",
+      "location": {
+         "state": {
+            "name": "Delaware",
+            "abbr": "DE "
+         }
+      },
+      "district": "Indian River School District",
+      "level": "Other",
+      "type": "4-Alternative/other school",
+      "charterSchool": "2-No",
+      "magnentSchool": "2-No",
+      "locale": "41-Rural: Fringe",
+      "grades": {
+         "lowest": "4th Grade",
+         "highest": "12th Grade"
+      },
+      "students": "33",
+      "fte": "10",
+      "pupilTeacherRatio": "3.3"
+   },
+   {
+      "name": "Castle Hills Elementary School",
+      "location": {
+         "state": {
+            "name": "Delaware",
+            "abbr": "DE "
+         }
+      },
+      "district": "Colonial School District",
+      "level": "Elementary",
+      "type": "1-Regular school",
+      "charterSchool": "2-No",
+      "magnentSchool": "2-No",
+      "locale": "21-Suburb: Large",
+      "grades": {
+         "lowest": "Kindergarten",
+         "highest": "5th Grade"
+      },
+      "students": "631",
+      "fte": "44",
+      "pupilTeacherRatio": "14.34"
+   },
+   {
+      "name": "Cedar Lane Early Childhood Center",
+      "location": {
+         "state": {
+            "name": "Delaware",
+            "abbr": "DE "
+         }
+      },
+      "district": "Appoquinimink School District",
+      "level": "Elementary",
+      "type": "1-Regular school",
+      "charterSchool": "2-No",
+      "magnentSchool": "2-No",
+      "locale": "41-Rural: Fringe",
+      "grades": {
+         "lowest": "Kindergarten",
+         "highest": "Kindergarten"
+      },
+      "students": "309",
+      "fte": "21",
+      "pupilTeacherRatio": "14.71"
+   },
+   {
+      "name": "Cedar Lane Elementary School",
+      "location": {
+         "state": {
+            "name": "Delaware",
+            "abbr": "DE "
+         }
+      },
+      "district": "Appoquinimink School District",
+      "level": "Elementary",
+      "type": "1-Regular school",
+      "charterSchool": "2-No",
+      "magnentSchool": "2-No",
+      "locale": "41-Rural: Fringe",
+      "grades": {
+         "lowest": "1st Grade",
+         "highest": "5th Grade"
+      },
+      "students": "537",
+      "fte": "38",
+      "pupilTeacherRatio": "14.13"
+   },
+   {
+      "name": "Central Middle School",
+      "location": {
+         "state": {
+            "name": "Delaware",
+            "abbr": "DE "
+         }
+      },
+      "district": "Capital School District",
+      "level": "Middle",
+      "type": "1-Regular school",
+      "charterSchool": "2-No",
+      "magnentSchool": "2-No",
+      "locale": "13-City: Small",
+      "grades": {
+         "lowest": "7th Grade",
+         "highest": "8th Grade"
+      },
+      "students": "961",
+      "fte": "64",
+      "pupilTeacherRatio": "15.02"
+   },
+   {
+      "name": "Charter School of New Castle",
+      "location": {
+         "state": {
+            "name": "Delaware",
+            "abbr": "DE "
+         }
+      },
+      "district": "Charter School of New Castle",
+      "level": "Elementary",
+      "type": "1-Regular school",
+      "charterSchool": "1-Yes",
+      "magnentSchool": "2-No",
+      "locale": "21-Suburb: Large",
+      "grades": {
+         "lowest": "Kindergarten",
+         "highest": "8th Grade"
+      },
+      "students": "766",
+      "fte": "47",
+      "pupilTeacherRatio": "16.3"
+   },
+   {
+      "name": "Charter School of Wilmington",
+      "location": {
+         "state": {
+            "name": "Delaware",
+            "abbr": "DE "
+         }
+      },
+      "district": "Charter School of Wilmington",
+      "level": "High",
+      "type": "1-Regular school",
+      "charterSchool": "1-Yes",
+      "magnentSchool": "2-No",
+      "locale": "13-City: Small",
+      "grades": {
+         "lowest": "9th Grade",
+         "highest": "12th Grade"
+      },
+      "students": "971",
+      "fte": "47",
+      "pupilTeacherRatio": "20.66"
+   },
+   {
+      "name": "Chipman (W.t.) Middle School",
+      "location": {
+         "state": {
+            "name": "Delaware",
+            "abbr": "DE "
+         }
+      },
+      "district": "Lake Forest School District",
+      "level": "Middle",
+      "type": "1-Regular school",
+      "charterSchool": "2-No",
+      "magnentSchool": "2-No",
+      "locale": "31-Town: Fringe",
+      "grades": {
+         "lowest": "6th Grade",
+         "highest": "8th Grade"
+      },
+      "students": "905",
+      "fte": "58",
+      "pupilTeacherRatio": "15.6"
+   },
+   {
+      "name": "Christiana High School",
+      "location": {
+         "state": {
+            "name": "Delaware",
+            "abbr": "DE "
+         }
+      },
+      "district": "Christina School District",
+      "level": "High",
+      "type": "1-Regular school",
+      "charterSchool": "2-No",
+      "magnentSchool": "2-No",
+      "locale": "21-Suburb: Large",
+      "grades": {
+         "lowest": "6th Grade",
+         "highest": "12th Grade"
+      },
+      "students": "1030",
+      "fte": "71",
+      "pupilTeacherRatio": "14.51"
+   },
+   {
+      "name": "Christina Early Education Center",
+      "location": {
+         "state": {
+            "name": "Delaware",
+            "abbr": "DE "
+         }
+      },
+      "district": "Christina School District",
+      "level": "Prekindergarten",
+      "type": "2-Special education school",
+      "charterSchool": "2-No",
+      "magnentSchool": "2-No",
+      "locale": "21-Suburb: Large",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "Prekindergarten"
+      },
+      "students": "331",
+      "fte": "30",
+      "pupilTeacherRatio": "11.03"
+   },
+   {
+      "name": "Claymont Elementary School",
+      "location": {
+         "state": {
+            "name": "Delaware",
+            "abbr": "DE "
+         }
+      },
+      "district": "Brandywine School District",
+      "level": "Elementary",
+      "type": "1-Regular school",
+      "charterSchool": "2-No",
+      "magnentSchool": "2-No",
+      "locale": "21-Suburb: Large",
+      "grades": {
+         "lowest": "Kindergarten",
+         "highest": "5th Grade"
+      },
+      "students": "845",
+      "fte": "60",
+      "pupilTeacherRatio": "14.08"
+   },
+   {
+      "name": "Clayton (John M.) Elementary School",
+      "location": {
+         "state": {
+            "name": "Delaware",
+            "abbr": "DE "
+         }
+      },
+      "district": "Indian River School District",
+      "level": "Elementary",
+      "type": "1-Regular school",
+      "charterSchool": "2-No",
+      "magnentSchool": "2-No",
+      "locale": "32-Town: Distant",
+      "grades": {
+         "lowest": "Kindergarten",
+         "highest": "5th Grade"
+      },
+      "students": "563",
+      "fte": "45",
+      "pupilTeacherRatio": "12.51"
+   },
+   {
+      "name": "Clayton Elementary School",
+      "location": {
+         "state": {
+            "name": "Delaware",
+            "abbr": "DE "
+         }
+      },
+      "district": "Smyrna School District",
+      "level": "Elementary",
+      "type": "1-Regular school",
+      "charterSchool": "2-No",
+      "magnentSchool": "2-No",
+      "locale": "22-Suburb: Mid-size",
+      "grades": {
+         "lowest": "Kindergarten",
+         "highest": "4th Grade"
+      },
+      "students": "532",
+      "fte": "34",
+      "pupilTeacherRatio": "15.65"
+   },
+   {
+      "name": "Clayton Intermediate School",
+      "location": {
+         "state": {
+            "name": "Delaware",
+            "abbr": "DE "
+         }
+      },
+      "district": "Smyrna School District",
+      "level": "Middle",
+      "type": "1-Regular school",
+      "charterSchool": "2-No",
+      "magnentSchool": "2-No",
+      "locale": "41-Rural: Fringe",
+      "grades": {
+         "lowest": "5th Grade",
+         "highest": "6th Grade"
+      },
+      "students": "524",
+      "fte": "30",
+      "pupilTeacherRatio": "17.47"
+   },
+   {
+      "name": "Concord High School",
+      "location": {
+         "state": {
+            "name": "Delaware",
+            "abbr": "DE "
+         }
+      },
+      "district": "Brandywine School District",
+      "level": "High",
+      "type": "1-Regular school",
+      "charterSchool": "2-No",
+      "magnentSchool": "2-No",
+      "locale": "21-Suburb: Large",
+      "grades": {
+         "lowest": "9th Grade",
+         "highest": "12th Grade"
+      },
+      "students": "1084",
+      "fte": "75",
+      "pupilTeacherRatio": "14.45"
+   },
+   {
+      "name": "Conrad Schools of Science",
+      "location": {
+         "state": {
+            "name": "Delaware",
+            "abbr": "DE "
+         }
+      },
+      "district": "Red Clay Consolidated School District",
+      "level": "High",
+      "type": "1-Regular school",
+      "charterSchool": "2-No",
+      "magnentSchool": "1-Yes",
+      "locale": "21-Suburb: Large",
+      "grades": {
+         "lowest": "6th Grade",
+         "highest": "12th Grade"
+      },
+      "students": "1179",
+      "fte": "63",
+      "pupilTeacherRatio": "18.71"
+   },
+   {
+      "name": "Delaware Early Childhood Center",
+      "location": {
+         "state": {
+            "name": "DELAWARE",
+            "abbr": "DE "
+         }
+      },
+      "district": "Lake Forest School District",
+      "level": "Prekindergarten",
+      "type": "2-Special education school",
+      "charterSchool": "2-No",
+      "magnentSchool": "2-No",
+      "locale": "31-Town: Fringe",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "Prekindergarten"
+      },
+      "students": "45",
+      "fte": "3",
+      "pupilTeacherRatio": "15"
+   },
+   {
+      "name": "Delaware Military Academy",
+      "location": {
+         "state": {
+            "name": "Delaware",
+            "abbr": "DE "
+         }
+      },
+      "district": "Delaware Military Academy",
+      "level": "High",
+      "type": "1-Regular school",
+      "charterSchool": "1-Yes",
+      "magnentSchool": "2-No",
+      "locale": "21-Suburb: Large",
+      "grades": {
+         "lowest": "9th Grade",
+         "highest": "12th Grade"
+      },
+      "students": "578",
+      "fte": "26",
+      "pupilTeacherRatio": "22.23"
+   },
+   {
+      "name": "Delaware School for the Deaf",
+      "location": {
+         "state": {
+            "name": "Delaware",
+            "abbr": "DE "
+         }
+      },
+      "district": "Christina School District",
+      "level": "Other",
+      "type": "2-Special education school",
+      "charterSchool": "2-No",
+      "magnentSchool": "2-No",
+      "locale": "21-Suburb: Large",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "108",
+      "fte": "27",
+      "pupilTeacherRatio": "4"
+   },
+   {
+      "name": "Delcastle Technical High School",
+      "location": {
+         "state": {
+            "name": "Delaware",
+            "abbr": "DE "
+         }
+      },
+      "district": "New Castle County Vocational-Technical School District",
+      "level": "High",
+      "type": "3-Vocational school",
+      "charterSchool": "2-No",
+      "magnentSchool": "2-No",
+      "locale": "21-Suburb: Large",
+      "grades": {
+         "lowest": "9th Grade",
+         "highest": "12th Grade"
+      },
+      "students": "1561",
+      "fte": "127",
+      "pupilTeacherRatio": "12.29"
+   },
+   {
+      "name": "Delmar High School",
+      "location": {
+         "state": {
+            "name": "Delaware",
+            "abbr": "DE "
+         }
+      },
+      "district": "Delmar School District",
+      "level": "High",
+      "type": "1-Regular school",
+      "charterSchool": "2-No",
+      "magnentSchool": "2-No",
+      "locale": "23-Suburb: Small",
+      "grades": {
+         "lowest": "9th Grade",
+         "highest": "12th Grade"
+      },
+      "students": "635",
+      "fte": "39",
+      "pupilTeacherRatio": "16.28"
+   },
+   {
+      "name": "Delmar Middle Level Ilc",
+      "location": {
+         "state": {
+            "name": "DELAWARE",
+            "abbr": "DE "
+         }
+      },
+      "district": "Delmar School District",
+      "level": "Middle",
+      "type": "2-Special education school",
+      "charterSchool": "2-No",
+      "magnentSchool": "2-No",
+      "locale": "23-Suburb: Small",
+      "grades": {
+         "lowest": "6th Grade",
+         "highest": "8th Grade"
+      },
+      "students": "4",
+      "fte": "–",
+      "pupilTeacherRatio": "†"
+   },
+   {
+      "name": "Delmar Middle School",
+      "location": {
+         "state": {
+            "name": "Delaware",
+            "abbr": "DE "
+         }
+      },
+      "district": "Delmar School District",
+      "level": "Middle",
+      "type": "1-Regular school",
+      "charterSchool": "2-No",
+      "magnentSchool": "2-No",
+      "locale": "23-Suburb: Small",
+      "grades": {
+         "lowest": "5th Grade",
+         "highest": "8th Grade"
+      },
+      "students": "756",
+      "fte": "33",
+      "pupilTeacherRatio": "22.91"
+   },
+   {
+      "name": "Dickinson (John) School",
+      "location": {
+         "state": {
+            "name": "Delaware",
+            "abbr": "DE "
+         }
+      },
+      "district": "Red Clay Consolidated School District",
+      "level": "High",
+      "type": "1-Regular school",
+      "charterSchool": "2-No",
+      "magnentSchool": "2-No",
+      "locale": "21-Suburb: Large",
+      "grades": {
+         "lowest": "6th Grade",
+         "highest": "12th Grade"
+      },
+      "students": "894",
+      "fte": "59",
+      "pupilTeacherRatio": "15.15"
+   },
+   {
+      "name": "Douglass School",
+      "location": {
+         "state": {
+            "name": "Delaware",
+            "abbr": "DE "
+         }
+      },
+      "district": "Christina School District",
+      "level": "Other",
+      "type": "2-Special education school",
+      "charterSchool": "2-No",
+      "magnentSchool": "2-No",
+      "locale": "13-City: Small",
+      "grades": {
+         "lowest": "1st Grade",
+         "highest": "12th Grade"
+      },
+      "students": "55",
+      "fte": "0.00",
+      "pupilTeacherRatio": "†"
+   },
+   {
+      "name": "Dover Air Force Base Middle School",
+      "location": {
+         "state": {
+            "name": "Delaware",
+            "abbr": "DE "
+         }
+      },
+      "district": "Caesar Rodney School District",
+      "level": "Middle",
+      "type": "1-Regular school",
+      "charterSchool": "2-No",
+      "magnentSchool": "2-No",
+      "locale": "22-Suburb: Mid-size",
+      "grades": {
+         "lowest": "6th Grade",
+         "highest": "8th Grade"
+      },
+      "students": "185",
+      "fte": "15",
+      "pupilTeacherRatio": "12.33"
+   },
+   {
+      "name": "Dover High School",
+      "location": {
+         "state": {
+            "name": "Delaware",
+            "abbr": "DE "
+         }
+      },
+      "district": "Capital School District",
+      "level": "High",
+      "type": "1-Regular school",
+      "charterSchool": "2-No",
+      "magnentSchool": "2-No",
+      "locale": "13-City: Small",
+      "grades": {
+         "lowest": "9th Grade",
+         "highest": "12th Grade"
+      },
+      "students": "1790",
+      "fte": "114",
+      "pupilTeacherRatio": "15.7"
+   },
+   {
+      "name": "Downes (John R.) Elementary School",
+      "location": {
+         "state": {
+            "name": "Delaware",
+            "abbr": "DE "
+         }
+      },
+      "district": "Christina School District",
+      "level": "Elementary",
+      "type": "1-Regular school",
+      "charterSchool": "2-No",
+      "magnentSchool": "2-No",
+      "locale": "21-Suburb: Large",
+      "grades": {
+         "lowest": "Kindergarten",
+         "highest": "5th Grade"
+      },
+      "students": "468",
+      "fte": "34",
+      "pupilTeacherRatio": "13.76"
+   },
+   {
+      "name": "Downie (Carrie) Elementary School",
+      "location": {
+         "state": {
+            "name": "Delaware",
+            "abbr": "DE "
+         }
+      },
+      "district": "Colonial School District",
+      "level": "Elementary",
+      "type": "1-Regular school",
+      "charterSchool": "2-No",
+      "magnentSchool": "2-No",
+      "locale": "21-Suburb: Large",
+      "grades": {
+         "lowest": "Kindergarten",
+         "highest": "5th Grade"
+      },
+      "students": "402",
+      "fte": "27",
+      "pupilTeacherRatio": "14.89"
+   },
+   {
+      "name": "Dupont (Alexis I.) High School",
+      "location": {
+         "state": {
+            "name": "Delaware",
+            "abbr": "DE "
+         }
+      },
+      "district": "Red Clay Consolidated School District",
+      "level": "High",
+      "type": "1-Regular school",
+      "charterSchool": "2-No",
+      "magnentSchool": "2-No",
+      "locale": "21-Suburb: Large",
+      "grades": {
+         "lowest": "9th Grade",
+         "highest": "12th Grade"
+      },
+      "students": "807",
+      "fte": "52",
+      "pupilTeacherRatio": "15.52"
+   },
+   {
+      "name": "Dupont (Alexis I.) Middle School",
+      "location": {
+         "state": {
+            "name": "Delaware",
+            "abbr": "DE "
+         }
+      },
+      "district": "Red Clay Consolidated School District",
+      "level": "Middle",
+      "type": "1-Regular school",
+      "charterSchool": "2-No",
+      "magnentSchool": "2-No",
+      "locale": "41-Rural: Fringe",
+      "grades": {
+         "lowest": "6th Grade",
+         "highest": "8th Grade"
+      },
+      "students": "463",
+      "fte": "34",
+      "pupilTeacherRatio": "13.62"
+   },
+   {
+      "name": "Dupont (H.b.) Middle School",
+      "location": {
+         "state": {
+            "name": "Delaware",
+            "abbr": "DE "
+         }
+      },
+      "district": "Red Clay Consolidated School District",
+      "level": "Middle",
+      "type": "1-Regular school",
+      "charterSchool": "2-No",
+      "magnentSchool": "2-No",
+      "locale": "21-Suburb: Large",
+      "grades": {
+         "lowest": "6th Grade",
+         "highest": "8th Grade"
+      },
+      "students": "758",
+      "fte": "50",
+      "pupilTeacherRatio": "15.16"
+   },
+   {
+      "name": "Dupont (Pierre S.) Middle School",
+      "location": {
+         "state": {
+            "name": "Delaware",
+            "abbr": "DE "
+         }
+      },
+      "district": "Brandywine School District",
+      "level": "Middle",
+      "type": "1-Regular school",
+      "charterSchool": "2-No",
+      "magnentSchool": "2-No",
+      "locale": "13-City: Small",
+      "grades": {
+         "lowest": "6th Grade",
+         "highest": "8th Grade"
+      },
+      "students": "880",
+      "fte": "73",
+      "pupilTeacherRatio": "12.05"
+   },
+   {
+      "name": "Early College High School at Del State",
+      "location": {
+         "state": {
+            "name": "Delaware",
+            "abbr": "DE "
+         }
+      },
+      "district": "Early College High School at Del State",
+      "level": "High",
+      "type": "1-Regular school",
+      "charterSchool": "1-Yes",
+      "magnentSchool": "2-No",
+      "locale": "13-City: Small",
+      "grades": {
+         "lowest": "9th Grade",
+         "highest": "12th Grade"
+      },
+      "students": "421",
+      "fte": "13",
+      "pupilTeacherRatio": "32.38"
+   },
+   {
+      "name": "East Dover Elementary School",
+      "location": {
+         "state": {
+            "name": "Delaware",
+            "abbr": "DE "
+         }
+      },
+      "district": "Capital School District",
+      "level": "Elementary",
+      "type": "1-Regular school",
+      "charterSchool": "2-No",
+      "magnentSchool": "2-No",
+      "locale": "13-City: Small",
+      "grades": {
+         "lowest": "Kindergarten",
+         "highest": "4th Grade"
+      },
+      "students": "322",
+      "fte": "31",
+      "pupilTeacherRatio": "10.39"
+   },
+   {
+      "name": "East Millsboro Elementary School",
+      "location": {
+         "state": {
+            "name": "Delaware",
+            "abbr": "DE "
+         }
+      },
+      "district": "Indian River School District",
+      "level": "Elementary",
+      "type": "1-Regular school",
+      "charterSchool": "2-No",
+      "magnentSchool": "2-No",
+      "locale": "32-Town: Distant",
+      "grades": {
+         "lowest": "Kindergarten",
+         "highest": "5th Grade"
+      },
+      "students": "873",
+      "fte": "54",
+      "pupilTeacherRatio": "16.17"
+   },
+   {
+      "name": "East Side Charter School",
+      "location": {
+         "state": {
+            "name": "Delaware",
+            "abbr": "DE "
+         }
+      },
+      "district": "East Side Charter School",
+      "level": "Elementary",
+      "type": "1-Regular school",
+      "charterSchool": "1-Yes",
+      "magnentSchool": "2-No",
+      "locale": "13-City: Small",
+      "grades": {
+         "lowest": "Kindergarten",
+         "highest": "8th Grade"
+      },
+      "students": "426",
+      "fte": "33",
+      "pupilTeacherRatio": "12.91"
+   },
+   {
+      "name": "Edison (Thomas A.) Charter School",
+      "location": {
+         "state": {
+            "name": "Delaware",
+            "abbr": "DE "
+         }
+      },
+      "district": "Edison (Thomas A.) Charter School",
+      "level": "Elementary",
+      "type": "1-Regular school",
+      "charterSchool": "1-Yes",
+      "magnentSchool": "2-No",
+      "locale": "13-City: Small",
+      "grades": {
+         "lowest": "Kindergarten",
+         "highest": "8th Grade"
+      },
+      "students": "728",
+      "fte": "43",
+      "pupilTeacherRatio": "16.93"
+   },
+   {
+      "name": "Eisenberg (Harry O.) Elementary School",
+      "location": {
+         "state": {
+            "name": "Delaware",
+            "abbr": "DE "
+         }
+      },
+      "district": "Colonial School District",
+      "level": "Elementary",
+      "type": "1-Regular school",
+      "charterSchool": "2-No",
+      "magnentSchool": "2-No",
+      "locale": "21-Suburb: Large",
+      "grades": {
+         "lowest": "Kindergarten",
+         "highest": "5th Grade"
+      },
+      "students": "494",
+      "fte": "36",
+      "pupilTeacherRatio": "13.72"
+   },
+   {
+      "name": "Ennis (Howard T.) School",
+      "location": {
+         "state": {
+            "name": "Delaware",
+            "abbr": "DE "
+         }
+      },
+      "district": "Indian River School District",
+      "level": "Other",
+      "type": "2-Special education school",
+      "charterSchool": "2-No",
+      "magnentSchool": "2-No",
+      "locale": "31-Town: Fringe",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "138",
+      "fte": "40",
+      "pupilTeacherRatio": "3.45"
+   },
+   {
+      "name": "F. Niel Postlethwait Middle School",
+      "location": {
+         "state": {
+            "name": "Delaware",
+            "abbr": "DE "
+         }
+      },
+      "district": "Caesar Rodney School District",
+      "level": "Middle",
+      "type": "1-Regular school",
+      "charterSchool": "2-No",
+      "magnentSchool": "2-No",
+      "locale": "22-Suburb: Mid-size",
+      "grades": {
+         "lowest": "6th Grade",
+         "highest": "8th Grade"
+      },
+      "students": "968",
+      "fte": "51",
+      "pupilTeacherRatio": "18.98"
+   },
+   {
+      "name": "Fairview Elementary School",
+      "location": {
+         "state": {
+            "name": "Delaware",
+            "abbr": "DE "
+         }
+      },
+      "district": "Capital School District",
+      "level": "Elementary",
+      "type": "1-Regular school",
+      "charterSchool": "2-No",
+      "magnentSchool": "2-No",
+      "locale": "13-City: Small",
+      "grades": {
+         "lowest": "Kindergarten",
+         "highest": "4th Grade"
+      },
+      "students": "287",
+      "fte": "19",
+      "pupilTeacherRatio": "15.11"
+   },
+   {
+      "name": "First State Military Academy",
+      "location": {
+         "state": {
+            "name": "Delaware",
+            "abbr": "DE "
+         }
+      },
+      "district": "First State Military Academy",
+      "level": "High",
+      "type": "1-Regular school",
+      "charterSchool": "1-Yes",
+      "magnentSchool": "2-No",
+      "locale": "41-Rural: Fringe",
+      "grades": {
+         "lowest": "9th Grade",
+         "highest": "12th Grade"
+      },
+      "students": "452",
+      "fte": "24",
+      "pupilTeacherRatio": "18.83"
+   },
+   {
+      "name": "First State Montessori Academy",
+      "location": {
+         "state": {
+            "name": "Delaware",
+            "abbr": "DE "
+         }
+      },
+      "district": "First State Montessori Academy",
+      "level": "Elementary",
+      "type": "1-Regular school",
+      "charterSchool": "1-Yes",
+      "magnentSchool": "2-No",
+      "locale": "13-City: Small",
+      "grades": {
+         "lowest": "Kindergarten",
+         "highest": "8th Grade"
+      },
+      "students": "599",
+      "fte": "32",
+      "pupilTeacherRatio": "18.72"
+   },
+   {
+      "name": "First State School",
+      "location": {
+         "state": {
+            "name": "Delaware",
+            "abbr": "DE "
+         }
+      },
+      "district": "Red Clay Consolidated School District",
+      "level": "Other",
+      "type": "4-Alternative/other school",
+      "charterSchool": "2-No",
+      "magnentSchool": "2-No",
+      "locale": "13-City: Small",
+      "grades": {
+         "lowest": "1st Grade",
+         "highest": "12th Grade"
+      },
+      "students": "22",
+      "fte": "4",
+      "pupilTeacherRatio": "5.5"
+   },
+   {
+      "name": "Forest Oak Elementary School",
+      "location": {
+         "state": {
+            "name": "Delaware",
+            "abbr": "DE "
+         }
+      },
+      "district": "Red Clay Consolidated School District",
+      "level": "Elementary",
+      "type": "1-Regular school",
+      "charterSchool": "2-No",
+      "magnentSchool": "2-No",
+      "locale": "21-Suburb: Large",
+      "grades": {
+         "lowest": "Kindergarten",
+         "highest": "5th Grade"
+      },
+      "students": "496",
+      "fte": "33",
+      "pupilTeacherRatio": "15.03"
+   },
+   {
+      "name": "Forwood Elementary School",
+      "location": {
+         "state": {
+            "name": "Delaware",
+            "abbr": "DE "
+         }
+      },
+      "district": "Brandywine School District",
+      "level": "Elementary",
+      "type": "1-Regular school",
+      "charterSchool": "2-No",
+      "magnentSchool": "2-No",
+      "locale": "21-Suburb: Large",
+      "grades": {
+         "lowest": "Kindergarten",
+         "highest": "5th Grade"
+      },
+      "students": "351",
+      "fte": "27",
+      "pupilTeacherRatio": "13"
+   },
+   {
+      "name": "Fred Fifer Iii Middle School",
+      "location": {
+         "state": {
+            "name": "Delaware",
+            "abbr": "DE "
+         }
+      },
+      "district": "Caesar Rodney School District",
+      "level": "Middle",
+      "type": "1-Regular school",
+      "charterSchool": "2-No",
+      "magnentSchool": "2-No",
+      "locale": "22-Suburb: Mid-size",
+      "grades": {
+         "lowest": "6th Grade",
+         "highest": "8th Grade"
+      },
+      "students": "900",
+      "fte": "50",
+      "pupilTeacherRatio": "18"
+   },
+   {
+      "name": "Frederick Douglass Elementary School",
+      "location": {
+         "state": {
+            "name": "Delaware",
+            "abbr": "DE "
+         }
+      },
+      "district": "Seaford School District",
+      "level": "Elementary",
+      "type": "1-Regular school",
+      "charterSchool": "2-No",
+      "magnentSchool": "2-No",
+      "locale": "23-Suburb: Small",
+      "grades": {
+         "lowest": "3rd Grade",
+         "highest": "5th Grade"
+      },
+      "students": "472",
+      "fte": "37",
+      "pupilTeacherRatio": "12.76"
+   },
+   {
+      "name": "Freire Charter School",
+      "location": {
+         "state": {
+            "name": "DELAWARE",
+            "abbr": "DE "
+         }
+      },
+      "district": "Freire Charter School Wilmington",
+      "level": "High",
+      "type": "1-Regular school",
+      "charterSchool": "1-Yes",
+      "magnentSchool": "2-No",
+      "locale": "13-City: Small",
+      "grades": {
+         "lowest": "8th Grade",
+         "highest": "12th Grade"
+      },
+      "students": "487",
+      "fte": "26",
+      "pupilTeacherRatio": "18.73"
+   },
+   {
+      "name": "Gallaher (Robert S.) Elementary School",
+      "location": {
+         "state": {
+            "name": "Delaware",
+            "abbr": "DE "
+         }
+      },
+      "district": "Christina School District",
+      "level": "Elementary",
+      "type": "1-Regular school",
+      "charterSchool": "2-No",
+      "magnentSchool": "2-No",
+      "locale": "21-Suburb: Large",
+      "grades": {
+         "lowest": "Kindergarten",
+         "highest": "5th Grade"
+      },
+      "students": "514",
+      "fte": "37",
+      "pupilTeacherRatio": "13.89"
+   },
+   {
+      "name": "Gateway Lab School",
+      "location": {
+         "state": {
+            "name": "Delaware",
+            "abbr": "DE "
+         }
+      },
+      "district": "Gateway Lab School",
+      "level": "Middle",
+      "type": "1-Regular school",
+      "charterSchool": "1-Yes",
+      "magnentSchool": "2-No",
+      "locale": "21-Suburb: Large",
+      "grades": {
+         "lowest": "3rd Grade",
+         "highest": "8th Grade"
+      },
+      "students": "177",
+      "fte": "23",
+      "pupilTeacherRatio": "7.7"
+   },
+   {
+      "name": "Gauger-Cobbs Middle School",
+      "location": {
+         "state": {
+            "name": "Delaware",
+            "abbr": "DE "
+         }
+      },
+      "district": "Christina School District",
+      "level": "Middle",
+      "type": "1-Regular school",
+      "charterSchool": "2-No",
+      "magnentSchool": "2-No",
+      "locale": "21-Suburb: Large",
+      "grades": {
+         "lowest": "6th Grade",
+         "highest": "8th Grade"
+      },
+      "students": "939",
+      "fte": "59",
+      "pupilTeacherRatio": "15.92"
+   },
+   {
+      "name": "Georgetown Elementary School",
+      "location": {
+         "state": {
+            "name": "Delaware",
+            "abbr": "DE "
+         }
+      },
+      "district": "Indian River School District",
+      "level": "Elementary",
+      "type": "1-Regular school",
+      "charterSchool": "2-No",
+      "magnentSchool": "2-No",
+      "locale": "31-Town: Fringe",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "5th Grade"
+      },
+      "students": "990",
+      "fte": "66",
+      "pupilTeacherRatio": "15"
+   },
+   {
+      "name": "Georgetown Middle School",
+      "location": {
+         "state": {
+            "name": "Delaware",
+            "abbr": "DE "
+         }
+      },
+      "district": "Indian River School District",
+      "level": "Middle",
+      "type": "1-Regular school",
+      "charterSchool": "2-No",
+      "magnentSchool": "2-No",
+      "locale": "31-Town: Fringe",
+      "grades": {
+         "lowest": "6th Grade",
+         "highest": "8th Grade"
+      },
+      "students": "874",
+      "fte": "55",
+      "pupilTeacherRatio": "15.89"
+   },
+   {
+      "name": "Glasgow High School",
+      "location": {
+         "state": {
+            "name": "Delaware",
+            "abbr": "DE "
+         }
+      },
+      "district": "Christina School District",
+      "level": "High",
+      "type": "1-Regular school",
+      "charterSchool": "2-No",
+      "magnentSchool": "2-No",
+      "locale": "21-Suburb: Large",
+      "grades": {
+         "lowest": "9th Grade",
+         "highest": "12th Grade"
+      },
+      "students": "717",
+      "fte": "47",
+      "pupilTeacherRatio": "15.26"
+   },
+   {
+      "name": "Great Oaks Charter School",
+      "location": {
+         "state": {
+            "name": "DELAWARE",
+            "abbr": "DE "
+         }
+      },
+      "district": "Great Oaks Charter School",
+      "level": "Middle",
+      "type": "1-Regular school",
+      "charterSchool": "1-Yes",
+      "magnentSchool": "2-No",
+      "locale": "13-City: Small",
+      "grades": {
+         "lowest": "6th Grade",
+         "highest": "10th Grade"
+      },
+      "students": "479",
+      "fte": "25",
+      "pupilTeacherRatio": "19.16"
+   },
+   {
+      "name": "H. O. Brittingham Elementary School",
+      "location": {
+         "state": {
+            "name": "Delaware",
+            "abbr": "DE "
+         }
+      },
+      "district": "Cape Henlopen School District",
+      "level": "Elementary",
+      "type": "1-Regular school",
+      "charterSchool": "2-No",
+      "magnentSchool": "2-No",
+      "locale": "32-Town: Distant",
+      "grades": {
+         "lowest": "Kindergarten",
+         "highest": "5th Grade"
+      },
+      "students": "445",
+      "fte": "33",
+      "pupilTeacherRatio": "13.48"
+   },
+   {
+      "name": "Hanby Elementary School",
+      "location": {
+         "state": {
+            "name": "Delaware",
+            "abbr": "DE "
+         }
+      },
+      "district": "Brandywine School District",
+      "level": "Elementary",
+      "type": "1-Regular school",
+      "charterSchool": "2-No",
+      "magnentSchool": "2-No",
+      "locale": "21-Suburb: Large",
+      "grades": {
+         "lowest": "Kindergarten",
+         "highest": "5th Grade"
+      },
+      "students": "515",
+      "fte": "39",
+      "pupilTeacherRatio": "13.21"
+   },
+   {
+      "name": "Harlan (David W. ) Elementary School",
+      "location": {
+         "state": {
+            "name": "Delaware",
+            "abbr": "DE "
+         }
+      },
+      "district": "Brandywine School District",
+      "level": "Elementary",
+      "type": "1-Regular school",
+      "charterSchool": "2-No",
+      "magnentSchool": "2-No",
+      "locale": "13-City: Small",
+      "grades": {
+         "lowest": "Kindergarten",
+         "highest": "5th Grade"
+      },
+      "students": "360",
+      "fte": "33",
+      "pupilTeacherRatio": "10.91"
+   },
+   {
+      "name": "Hartly Elementary School",
+      "location": {
+         "state": {
+            "name": "Delaware",
+            "abbr": "DE "
+         }
+      },
+      "district": "Capital School District",
+      "level": "Elementary",
+      "type": "1-Regular school",
+      "charterSchool": "2-No",
+      "magnentSchool": "2-No",
+      "locale": "42-Rural: Distant",
+      "grades": {
+         "lowest": "Kindergarten",
+         "highest": "4th Grade"
+      },
+      "students": "292",
+      "fte": "22",
+      "pupilTeacherRatio": "13.27"
+   },
+   {
+      "name": "Heritage Elementary School",
+      "location": {
+         "state": {
+            "name": "Delaware",
+            "abbr": "DE "
+         }
+      },
+      "district": "Red Clay Consolidated School District",
+      "level": "Elementary",
+      "type": "1-Regular school",
+      "charterSchool": "2-No",
+      "magnentSchool": "2-No",
+      "locale": "21-Suburb: Large",
+      "grades": {
+         "lowest": "Kindergarten",
+         "highest": "5th Grade"
+      },
+      "students": "504",
+      "fte": "36",
+      "pupilTeacherRatio": "14"
+   },
+   {
+      "name": "Highlands Elementary School",
+      "location": {
+         "state": {
+            "name": "Delaware",
+            "abbr": "DE "
+         }
+      },
+      "district": "Red Clay Consolidated School District",
+      "level": "Elementary",
+      "type": "1-Regular school",
+      "charterSchool": "2-No",
+      "magnentSchool": "2-No",
+      "locale": "13-City: Small",
+      "grades": {
+         "lowest": "Kindergarten",
+         "highest": "5th Grade"
+      },
+      "students": "315",
+      "fte": "22",
+      "pupilTeacherRatio": "14.32"
+   },
+   {
+      "name": "Hodgson (Paul M.) Vocational Technical High School",
+      "location": {
+         "state": {
+            "name": "Delaware",
+            "abbr": "DE "
+         }
+      },
+      "district": "New Castle County Vocational-Technical School District",
+      "level": "High",
+      "type": "3-Vocational school",
+      "charterSchool": "2-No",
+      "magnentSchool": "2-No",
+      "locale": "21-Suburb: Large",
+      "grades": {
+         "lowest": "9th Grade",
+         "highest": "12th Grade"
+      },
+      "students": "1096",
+      "fte": "79",
+      "pupilTeacherRatio": "13.87"
+   },
+   {
+      "name": "Howard High School of Technology",
+      "location": {
+         "state": {
+            "name": "Delaware",
+            "abbr": "DE "
+         }
+      },
+      "district": "New Castle County Vocational-Technical School District",
+      "level": "High",
+      "type": "3-Vocational school",
+      "charterSchool": "2-No",
+      "magnentSchool": "2-No",
+      "locale": "13-City: Small",
+      "grades": {
+         "lowest": "9th Grade",
+         "highest": "12th Grade"
+      },
+      "students": "835",
+      "fte": "62",
+      "pupilTeacherRatio": "13.47"
+   },
+   {
+      "name": "Indian River High School",
+      "location": {
+         "state": {
+            "name": "Delaware",
+            "abbr": "DE "
+         }
+      },
+      "district": "Indian River School District",
+      "level": "High",
+      "type": "1-Regular school",
+      "charterSchool": "2-No",
+      "magnentSchool": "2-No",
+      "locale": "41-Rural: Fringe",
+      "grades": {
+         "lowest": "9th Grade",
+         "highest": "12th Grade"
+      },
+      "students": "945",
+      "fte": "74",
+      "pupilTeacherRatio": "12.77"
+   },
+   {
+      "name": "Indian River Intensive Learning Center",
+      "location": {
+         "state": {
+            "name": "DELAWARE",
+            "abbr": "DE "
+         }
+      },
+      "district": "Indian River School District",
+      "level": "Prekindergarten",
+      "type": "2-Special education school",
+      "charterSchool": "2-No",
+      "magnentSchool": "2-No",
+      "locale": "41-Rural: Fringe",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "Prekindergarten"
+      },
+      "students": "142",
+      "fte": "0.00",
+      "pupilTeacherRatio": "†"
+   },
+   {
+      "name": "J. Ralph Mcilvaine Early Childhood Center",
+      "location": {
+         "state": {
+            "name": "Delaware",
+            "abbr": "DE "
+         }
+      },
+      "district": "Caesar Rodney School District",
+      "level": "Elementary",
+      "type": "1-Regular school",
+      "charterSchool": "2-No",
+      "magnentSchool": "2-No",
+      "locale": "22-Suburb: Mid-size",
+      "grades": {
+         "lowest": "Kindergarten",
+         "highest": "Kindergarten"
+      },
+      "students": "515",
+      "fte": "31",
+      "pupilTeacherRatio": "16.61"
+   },
+   {
+      "name": "John S. Charlton School",
+      "location": {
+         "state": {
+            "name": "Delaware",
+            "abbr": "DE "
+         }
+      },
+      "district": "Caesar Rodney School District",
+      "level": "Other",
+      "type": "2-Special education school",
+      "charterSchool": "2-No",
+      "magnentSchool": "2-No",
+      "locale": "22-Suburb: Mid-size",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "233",
+      "fte": "42",
+      "pupilTeacherRatio": "5.55"
+   },
+   {
+      "name": "Jones (Albert H.) Elementary School",
+      "location": {
+         "state": {
+            "name": "Delaware",
+            "abbr": "DE "
+         }
+      },
+      "district": "Christina School District",
+      "level": "Elementary",
+      "type": "1-Regular school",
+      "charterSchool": "2-No",
+      "magnentSchool": "2-No",
+      "locale": "21-Suburb: Large",
+      "grades": {
+         "lowest": "Kindergarten",
+         "highest": "5th Grade"
+      },
+      "students": "362",
+      "fte": "25",
+      "pupilTeacherRatio": "14.48"
+   },
+   {
+      "name": "Keene (William B.) Elementary School",
+      "location": {
+         "state": {
+            "name": "Delaware",
+            "abbr": "DE "
+         }
+      },
+      "district": "Christina School District",
+      "level": "Elementary",
+      "type": "1-Regular school",
+      "charterSchool": "2-No",
+      "magnentSchool": "2-No",
+      "locale": "21-Suburb: Large",
+      "grades": {
+         "lowest": "Kindergarten",
+         "highest": "5th Grade"
+      },
+      "students": "524",
+      "fte": "37",
+      "pupilTeacherRatio": "14.16"
+   },
+   {
+      "name": "Kent County Community School",
+      "location": {
+         "state": {
+            "name": "Delaware",
+            "abbr": "DE "
+         }
+      },
+      "district": "Capital School District",
+      "level": "Other",
+      "type": "2-Special education school",
+      "charterSchool": "2-No",
+      "magnentSchool": "2-No",
+      "locale": "13-City: Small",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "258",
+      "fte": "33",
+      "pupilTeacherRatio": "7.82"
+   },
+   {
+      "name": "Kent County Secondary Ilc",
+      "location": {
+         "state": {
+            "name": "Delaware",
+            "abbr": "DE "
+         }
+      },
+      "district": "Capital School District",
+      "level": "High",
+      "type": "2-Special education school",
+      "charterSchool": "2-No",
+      "magnentSchool": "2-No",
+      "locale": "13-City: Small",
+      "grades": {
+         "lowest": "6th Grade",
+         "highest": "12th Grade"
+      },
+      "students": "108",
+      "fte": "18",
+      "pupilTeacherRatio": "6"
+   },
+   {
+      "name": "Kent Elementary Intensive Learning Center",
+      "location": {
+         "state": {
+            "name": "Delaware",
+            "abbr": "DE "
+         }
+      },
+      "district": "Caesar Rodney School District",
+      "level": "Elementary",
+      "type": "2-Special education school",
+      "charterSchool": "2-No",
+      "magnentSchool": "2-No",
+      "locale": "22-Suburb: Mid-size",
+      "grades": {
+         "lowest": "Kindergarten",
+         "highest": "5th Grade"
+      },
+      "students": "42",
+      "fte": "7",
+      "pupilTeacherRatio": "6"
+   },
+   {
+      "name": "Kirk (George V.) Middle School",
+      "location": {
+         "state": {
+            "name": "Delaware",
+            "abbr": "DE "
+         }
+      },
+      "district": "Christina School District",
+      "level": "Middle",
+      "type": "1-Regular school",
+      "charterSchool": "2-No",
+      "magnentSchool": "2-No",
+      "locale": "21-Suburb: Large",
+      "grades": {
+         "lowest": "6th Grade",
+         "highest": "8th Grade"
+      },
+      "students": "707",
+      "fte": "49",
+      "pupilTeacherRatio": "14.43"
+   },
+   {
+      "name": "Kuumba Academy Charter School",
+      "location": {
+         "state": {
+            "name": "Delaware",
+            "abbr": "DE "
+         }
+      },
+      "district": "Kuumba Academy Charter School",
+      "level": "Elementary",
+      "type": "1-Regular school",
+      "charterSchool": "1-Yes",
+      "magnentSchool": "2-No",
+      "locale": "13-City: Small",
+      "grades": {
+         "lowest": "Kindergarten",
+         "highest": "8th Grade"
+      },
+      "students": "668",
+      "fte": "51",
+      "pupilTeacherRatio": "13.1"
+   },
+   {
+      "name": "Lake Forest Central Elementary School",
+      "location": {
+         "state": {
+            "name": "Delaware",
+            "abbr": "DE "
+         }
+      },
+      "district": "Lake Forest School District",
+      "level": "Elementary",
+      "type": "1-Regular school",
+      "charterSchool": "2-No",
+      "magnentSchool": "2-No",
+      "locale": "41-Rural: Fringe",
+      "grades": {
+         "lowest": "4th Grade",
+         "highest": "5th Grade"
+      },
+      "students": "663",
+      "fte": "42",
+      "pupilTeacherRatio": "15.79"
+   },
+   {
+      "name": "Lake Forest East Elementary School",
+      "location": {
+         "state": {
+            "name": "Delaware",
+            "abbr": "DE "
+         }
+      },
+      "district": "Lake Forest School District",
+      "level": "Elementary",
+      "type": "1-Regular school",
+      "charterSchool": "2-No",
+      "magnentSchool": "2-No",
+      "locale": "22-Suburb: Mid-size",
+      "grades": {
+         "lowest": "Kindergarten",
+         "highest": "3rd Grade"
+      },
+      "students": "310",
+      "fte": "22",
+      "pupilTeacherRatio": "14.09"
+   },
+   {
+      "name": "Lake Forest High School",
+      "location": {
+         "state": {
+            "name": "Delaware",
+            "abbr": "DE "
+         }
+      },
+      "district": "Lake Forest School District",
+      "level": "High",
+      "type": "1-Regular school",
+      "charterSchool": "2-No",
+      "magnentSchool": "2-No",
+      "locale": "41-Rural: Fringe",
+      "grades": {
+         "lowest": "9th Grade",
+         "highest": "12th Grade"
+      },
+      "students": "840",
+      "fte": "60",
+      "pupilTeacherRatio": "14"
+   },
+   {
+      "name": "Lake Forest North Elementary School",
+      "location": {
+         "state": {
+            "name": "Delaware",
+            "abbr": "DE "
+         }
+      },
+      "district": "Lake Forest School District",
+      "level": "Elementary",
+      "type": "1-Regular school",
+      "charterSchool": "2-No",
+      "magnentSchool": "2-No",
+      "locale": "22-Suburb: Mid-size",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "3rd Grade"
+      },
+      "students": "532",
+      "fte": "38",
+      "pupilTeacherRatio": "14"
+   },
+   {
+      "name": "Lake Forest South Elementary School",
+      "location": {
+         "state": {
+            "name": "Delaware",
+            "abbr": "DE "
+         }
+      },
+      "district": "Lake Forest School District",
+      "level": "Elementary",
+      "type": "1-Regular school",
+      "charterSchool": "2-No",
+      "magnentSchool": "2-No",
+      "locale": "31-Town: Fringe",
+      "grades": {
+         "lowest": "Kindergarten",
+         "highest": "3rd Grade"
+      },
+      "students": "426",
+      "fte": "31",
+      "pupilTeacherRatio": "13.74"
+   },
+   {
+      "name": "Lancashire Elementary School",
+      "location": {
+         "state": {
+            "name": "Delaware",
+            "abbr": "DE "
+         }
+      },
+      "district": "Brandywine School District",
+      "level": "Elementary",
+      "type": "1-Regular school",
+      "charterSchool": "2-No",
+      "magnentSchool": "2-No",
+      "locale": "21-Suburb: Large",
+      "grades": {
+         "lowest": "Kindergarten",
+         "highest": "5th Grade"
+      },
+      "students": "516",
+      "fte": "33",
+      "pupilTeacherRatio": "15.64"
+   },
+   {
+      "name": "Las Americas Aspira Academy",
+      "location": {
+         "state": {
+            "name": "Delaware",
+            "abbr": "DE "
+         }
+      },
+      "district": "Las Americas Aspira Academy",
+      "level": "Elementary",
+      "type": "1-Regular school",
+      "charterSchool": "1-Yes",
+      "magnentSchool": "2-No",
+      "locale": "21-Suburb: Large",
+      "grades": {
+         "lowest": "Kindergarten",
+         "highest": "8th Grade"
+      },
+      "students": "946",
+      "fte": "65",
+      "pupilTeacherRatio": "14.55"
+   },
+   {
+      "name": "Laurel Elementary School",
+      "location": {
+         "state": {
+            "name": "Delaware",
+            "abbr": "DE "
+         }
+      },
+      "district": "Laurel School District",
+      "level": "Elementary",
+      "type": "1-Regular school",
+      "charterSchool": "2-No",
+      "magnentSchool": "2-No",
+      "locale": "23-Suburb: Small",
+      "grades": {
+         "lowest": "1st Grade",
+         "highest": "5th Grade"
+      },
+      "students": "1060",
+      "fte": "59",
+      "pupilTeacherRatio": "17.97"
+   },
+   {
+      "name": "Laurel Middle School",
+      "location": {
+         "state": {
+            "name": "Delaware",
+            "abbr": "DE "
+         }
+      },
+      "district": "Laurel School District",
+      "level": "Middle",
+      "type": "1-Regular school",
+      "charterSchool": "2-No",
+      "magnentSchool": "2-No",
+      "locale": "41-Rural: Fringe",
+      "grades": {
+         "lowest": "6th Grade",
+         "highest": "8th Grade"
+      },
+      "students": "713",
+      "fte": "50",
+      "pupilTeacherRatio": "14.26"
+   },
+   {
+      "name": "Laurel Senior High School",
+      "location": {
+         "state": {
+            "name": "Delaware",
+            "abbr": "DE "
+         }
+      },
+      "district": "Laurel School District",
+      "level": "High",
+      "type": "1-Regular school",
+      "charterSchool": "2-No",
+      "magnentSchool": "2-No",
+      "locale": "41-Rural: Fringe",
+      "grades": {
+         "lowest": "9th Grade",
+         "highest": "12th Grade"
+      },
+      "students": "626",
+      "fte": "39",
+      "pupilTeacherRatio": "16.05"
+   },
+   {
+      "name": "Leach (John G.) School",
+      "location": {
+         "state": {
+            "name": "Delaware",
+            "abbr": "DE "
+         }
+      },
+      "district": "Colonial School District",
+      "level": "Other",
+      "type": "2-Special education school",
+      "charterSchool": "2-No",
+      "magnentSchool": "2-No",
+      "locale": "21-Suburb: Large",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "71",
+      "fte": "17",
+      "pupilTeacherRatio": "4.18"
+   },
+   {
+      "name": "Leasure (May B.) Elementary School",
+      "location": {
+         "state": {
+            "name": "Delaware",
+            "abbr": "DE "
+         }
+      },
+      "district": "Christina School District",
+      "level": "Elementary",
+      "type": "1-Regular school",
+      "charterSchool": "2-No",
+      "magnentSchool": "2-No",
+      "locale": "21-Suburb: Large",
+      "grades": {
+         "lowest": "Kindergarten",
+         "highest": "5th Grade"
+      },
+      "students": "409",
+      "fte": "33",
+      "pupilTeacherRatio": "12.39"
+   },
+   {
+      "name": "Lewis (William C.) Dual Language Elementary School",
+      "location": {
+         "state": {
+            "name": "Delaware",
+            "abbr": "DE "
+         }
+      },
+      "district": "Red Clay Consolidated School District",
+      "level": "Elementary",
+      "type": "1-Regular school",
+      "charterSchool": "2-No",
+      "magnentSchool": "2-No",
+      "locale": "13-City: Small",
+      "grades": {
+         "lowest": "Kindergarten",
+         "highest": "5th Grade"
+      },
+      "students": "424",
+      "fte": "38",
+      "pupilTeacherRatio": "11.16"
+   },
+   {
+      "name": "Linden Hill Elementary School",
+      "location": {
+         "state": {
+            "name": "Delaware",
+            "abbr": "DE "
+         }
+      },
+      "district": "Red Clay Consolidated School District",
+      "level": "Elementary",
+      "type": "1-Regular school",
+      "charterSchool": "2-No",
+      "magnentSchool": "2-No",
+      "locale": "21-Suburb: Large",
+      "grades": {
+         "lowest": "Kindergarten",
+         "highest": "5th Grade"
+      },
+      "students": "608",
+      "fte": "39",
+      "pupilTeacherRatio": "15.59"
+   },
+   {
+      "name": "Lombardy Elementary School",
+      "location": {
+         "state": {
+            "name": "Delaware",
+            "abbr": "DE "
+         }
+      },
+      "district": "Brandywine School District",
+      "level": "Elementary",
+      "type": "1-Regular school",
+      "charterSchool": "2-No",
+      "magnentSchool": "2-No",
+      "locale": "21-Suburb: Large",
+      "grades": {
+         "lowest": "Kindergarten",
+         "highest": "5th Grade"
+      },
+      "students": "491",
+      "fte": "36",
+      "pupilTeacherRatio": "13.64"
+   },
+   {
+      "name": "Long Neck Elementary School",
+      "location": {
+         "state": {
+            "name": "Delaware",
+            "abbr": "DE "
+         }
+      },
+      "district": "Indian River School District",
+      "level": "Elementary",
+      "type": "1-Regular school",
+      "charterSchool": "2-No",
+      "magnentSchool": "2-No",
+      "locale": "32-Town: Distant",
+      "grades": {
+         "lowest": "Kindergarten",
+         "highest": "5th Grade"
+      },
+      "students": "712",
+      "fte": "51",
+      "pupilTeacherRatio": "13.96"
+   },
+   {
+      "name": "Lord Baltimore Elementary School",
+      "location": {
+         "state": {
+            "name": "Delaware",
+            "abbr": "DE "
+         }
+      },
+      "district": "Indian River School District",
+      "level": "Elementary",
+      "type": "1-Regular school",
+      "charterSchool": "2-No",
+      "magnentSchool": "2-No",
+      "locale": "32-Town: Distant",
+      "grades": {
+         "lowest": "Kindergarten",
+         "highest": "5th Grade"
+      },
+      "students": "641",
+      "fte": "45",
+      "pupilTeacherRatio": "14.24"
+   },
+   {
+      "name": "Lorewood Grove Elementary School",
+      "location": {
+         "state": {
+            "name": "DELAWARE",
+            "abbr": "DE "
+         }
+      },
+      "district": "Appoquinimink School District",
+      "level": "Elementary",
+      "type": "1-Regular school",
+      "charterSchool": "2-No",
+      "magnentSchool": "2-No",
+      "locale": "41-Rural: Fringe",
+      "grades": {
+         "lowest": "1st Grade",
+         "highest": "5th Grade"
+      },
+      "students": "543",
+      "fte": "33",
+      "pupilTeacherRatio": "16.45"
+   },
+   {
+      "name": "Loss (Olive B.) Elementary School",
+      "location": {
+         "state": {
+            "name": "Delaware",
+            "abbr": "DE "
+         }
+      },
+      "district": "Appoquinimink School District",
+      "level": "Elementary",
+      "type": "1-Regular school",
+      "charterSchool": "2-No",
+      "magnentSchool": "2-No",
+      "locale": "21-Suburb: Large",
+      "grades": {
+         "lowest": "1st Grade",
+         "highest": "5th Grade"
+      },
+      "students": "604",
+      "fte": "37",
+      "pupilTeacherRatio": "16.32"
+   },
+   {
+      "name": "Love Creek Elementary School",
+      "location": {
+         "state": {
+            "name": "DELAWARE",
+            "abbr": "DE "
+         }
+      },
+      "district": "Cape Henlopen School District",
+      "level": "Elementary",
+      "type": "1-Regular school",
+      "charterSchool": "2-No",
+      "magnentSchool": "2-No",
+      "locale": "41-Rural: Fringe",
+      "grades": {
+         "lowest": "Kindergarten",
+         "highest": "5th Grade"
+      },
+      "students": "703",
+      "fte": "46",
+      "pupilTeacherRatio": "15.28"
+   },
+   {
+      "name": "Maclary (R. Elisabeth) Elementary School",
+      "location": {
+         "state": {
+            "name": "Delaware",
+            "abbr": "DE "
+         }
+      },
+      "district": "Christina School District",
+      "level": "Elementary",
+      "type": "1-Regular school",
+      "charterSchool": "2-No",
+      "magnentSchool": "2-No",
+      "locale": "21-Suburb: Large",
+      "grades": {
+         "lowest": "Kindergarten",
+         "highest": "5th Grade"
+      },
+      "students": "313",
+      "fte": "28",
+      "pupilTeacherRatio": "11.18"
+   },
+   {
+      "name": "Major George S. Welch Elementary School",
+      "location": {
+         "state": {
+            "name": "Delaware",
+            "abbr": "DE "
+         }
+      },
+      "district": "Caesar Rodney School District",
+      "level": "Elementary",
+      "type": "1-Regular school",
+      "charterSchool": "2-No",
+      "magnentSchool": "2-No",
+      "locale": "22-Suburb: Mid-size",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "5th Grade"
+      },
+      "students": "392",
+      "fte": "31",
+      "pupilTeacherRatio": "12.65"
+   },
+   {
+      "name": "Maple Lane Elementary School",
+      "location": {
+         "state": {
+            "name": "Delaware",
+            "abbr": "DE "
+         }
+      },
+      "district": "Brandywine School District",
+      "level": "Elementary",
+      "type": "1-Regular school",
+      "charterSchool": "2-No",
+      "magnentSchool": "2-No",
+      "locale": "21-Suburb: Large",
+      "grades": {
+         "lowest": "Kindergarten",
+         "highest": "5th Grade"
+      },
+      "students": "422",
+      "fte": "27",
+      "pupilTeacherRatio": "15.63"
+   },
+   {
+      "name": "Marbrook Elementary School",
+      "location": {
+         "state": {
+            "name": "Delaware",
+            "abbr": "DE "
+         }
+      },
+      "district": "Red Clay Consolidated School District",
+      "level": "Elementary",
+      "type": "1-Regular school",
+      "charterSchool": "2-No",
+      "magnentSchool": "2-No",
+      "locale": "21-Suburb: Large",
+      "grades": {
+         "lowest": "Kindergarten",
+         "highest": "5th Grade"
+      },
+      "students": "429",
+      "fte": "35",
+      "pupilTeacherRatio": "12.26"
+   },
+   {
+      "name": "Mariner Middle School",
+      "location": {
+         "state": {
+            "name": "Delaware",
+            "abbr": "DE "
+         }
+      },
+      "district": "Cape Henlopen School District",
+      "level": "Middle",
+      "type": "1-Regular school",
+      "charterSchool": "2-No",
+      "magnentSchool": "2-No",
+      "locale": "41-Rural: Fringe",
+      "grades": {
+         "lowest": "6th Grade",
+         "highest": "8th Grade"
+      },
+      "students": "623",
+      "fte": "43",
+      "pupilTeacherRatio": "14.49"
+   },
+   {
+      "name": "Marshall (Thurgood) Elementary School",
+      "location": {
+         "state": {
+            "name": "Delaware",
+            "abbr": "DE "
+         }
+      },
+      "district": "Christina School District",
+      "level": "Elementary",
+      "type": "1-Regular school",
+      "charterSchool": "2-No",
+      "magnentSchool": "2-No",
+      "locale": "21-Suburb: Large",
+      "grades": {
+         "lowest": "Kindergarten",
+         "highest": "5th Grade"
+      },
+      "students": "787",
+      "fte": "47",
+      "pupilTeacherRatio": "16.74"
+   },
+   {
+      "name": "Mccullough (Calvin R. ) Middle School",
+      "location": {
+         "state": {
+            "name": "Delaware",
+            "abbr": "DE "
+         }
+      },
+      "district": "Colonial School District",
+      "level": "Middle",
+      "type": "1-Regular school",
+      "charterSchool": "2-No",
+      "magnentSchool": "2-No",
+      "locale": "21-Suburb: Large",
+      "grades": {
+         "lowest": "6th Grade",
+         "highest": "8th Grade"
+      },
+      "students": "755",
+      "fte": "47",
+      "pupilTeacherRatio": "16.06"
+   },
+   {
+      "name": "Mckean (Thomas) High School",
+      "location": {
+         "state": {
+            "name": "Delaware",
+            "abbr": "DE "
+         }
+      },
+      "district": "Red Clay Consolidated School District",
+      "level": "High",
+      "type": "1-Regular school",
+      "charterSchool": "2-No",
+      "magnentSchool": "2-No",
+      "locale": "21-Suburb: Large",
+      "grades": {
+         "lowest": "9th Grade",
+         "highest": "12th Grade"
+      },
+      "students": "920",
+      "fte": "66",
+      "pupilTeacherRatio": "13.94"
+   },
+   {
+      "name": "Mcvey (Joseph M.) Elementary School",
+      "location": {
+         "state": {
+            "name": "Delaware",
+            "abbr": "DE "
+         }
+      },
+      "district": "Christina School District",
+      "level": "Elementary",
+      "type": "1-Regular school",
+      "charterSchool": "2-No",
+      "magnentSchool": "2-No",
+      "locale": "21-Suburb: Large",
+      "grades": {
+         "lowest": "Kindergarten",
+         "highest": "5th Grade"
+      },
+      "students": "346",
+      "fte": "33",
+      "pupilTeacherRatio": "10.48"
+   },
+   {
+      "name": "Meadowood Program",
+      "location": {
+         "state": {
+            "name": "Delaware",
+            "abbr": "DE "
+         }
+      },
+      "district": "Red Clay Consolidated School District",
+      "level": "Other",
+      "type": "4-Alternative/other school",
+      "charterSchool": "2-No",
+      "magnentSchool": "2-No",
+      "locale": "21-Suburb: Large",
+      "grades": {
+         "lowest": "Kindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "140",
+      "fte": "21",
+      "pupilTeacherRatio": "6.67"
+   },
+   {
+      "name": "Meredith (Everett) Middle School",
+      "location": {
+         "state": {
+            "name": "Delaware",
+            "abbr": "DE "
+         }
+      },
+      "district": "Appoquinimink School District",
+      "level": "Middle",
+      "type": "1-Regular school",
+      "charterSchool": "2-No",
+      "magnentSchool": "2-No",
+      "locale": "31-Town: Fringe",
+      "grades": {
+         "lowest": "6th Grade",
+         "highest": "8th Grade"
+      },
+      "students": "927",
+      "fte": "62",
+      "pupilTeacherRatio": "14.95"
+   },
+   {
+      "name": "Middletown High School",
+      "location": {
+         "state": {
+            "name": "Delaware",
+            "abbr": "DE "
+         }
+      },
+      "district": "Appoquinimink School District",
+      "level": "High",
+      "type": "1-Regular school",
+      "charterSchool": "2-No",
+      "magnentSchool": "2-No",
+      "locale": "31-Town: Fringe",
+      "grades": {
+         "lowest": "9th Grade",
+         "highest": "12th Grade"
+      },
+      "students": "1776",
+      "fte": "108",
+      "pupilTeacherRatio": "16.44"
+   },
+   {
+      "name": "Milford Central Academy",
+      "location": {
+         "state": {
+            "name": "Delaware",
+            "abbr": "DE "
+         }
+      },
+      "district": "Milford School District",
+      "level": "Middle",
+      "type": "1-Regular school",
+      "charterSchool": "2-No",
+      "magnentSchool": "2-No",
+      "locale": "31-Town: Fringe",
+      "grades": {
+         "lowest": "6th Grade",
+         "highest": "8th Grade"
+      },
+      "students": "1045",
+      "fte": "65",
+      "pupilTeacherRatio": "16.08"
+   },
+   {
+      "name": "Milford Senior High School",
+      "location": {
+         "state": {
+            "name": "Delaware",
+            "abbr": "DE "
+         }
+      },
+      "district": "Milford School District",
+      "level": "High",
+      "type": "1-Regular school",
+      "charterSchool": "2-No",
+      "magnentSchool": "2-No",
+      "locale": "31-Town: Fringe",
+      "grades": {
+         "lowest": "9th Grade",
+         "highest": "12th Grade"
+      },
+      "students": "1087",
+      "fte": "72",
+      "pupilTeacherRatio": "15.1"
+   },
+   {
+      "name": "Millsboro Middle School",
+      "location": {
+         "state": {
+            "name": "Delaware",
+            "abbr": "DE "
+         }
+      },
+      "district": "Indian River School District",
+      "level": "Middle",
+      "type": "1-Regular school",
+      "charterSchool": "2-No",
+      "magnentSchool": "2-No",
+      "locale": "32-Town: Distant",
+      "grades": {
+         "lowest": "6th Grade",
+         "highest": "8th Grade"
+      },
+      "students": "752",
+      "fte": "56",
+      "pupilTeacherRatio": "13.43"
+   },
+   {
+      "name": "Milton Elementary School",
+      "location": {
+         "state": {
+            "name": "Delaware",
+            "abbr": "DE "
+         }
+      },
+      "district": "Cape Henlopen School District",
+      "level": "Elementary",
+      "type": "1-Regular school",
+      "charterSchool": "2-No",
+      "magnentSchool": "2-No",
+      "locale": "32-Town: Distant",
+      "grades": {
+         "lowest": "Kindergarten",
+         "highest": "5th Grade"
+      },
+      "students": "429",
+      "fte": "35",
+      "pupilTeacherRatio": "12.26"
+   },
+   {
+      "name": "Mispillion Elementary",
+      "location": {
+         "state": {
+            "name": "Delaware",
+            "abbr": "DE "
+         }
+      },
+      "district": "Milford School District",
+      "level": "Elementary",
+      "type": "1-Regular school",
+      "charterSchool": "2-No",
+      "magnentSchool": "2-No",
+      "locale": "31-Town: Fringe",
+      "grades": {
+         "lowest": "1st Grade",
+         "highest": "5th Grade"
+      },
+      "students": "524",
+      "fte": "33",
+      "pupilTeacherRatio": "15.88"
+   },
+   {
+      "name": "Moore (John Bassett) School",
+      "location": {
+         "state": {
+            "name": "Delaware",
+            "abbr": "DE "
+         }
+      },
+      "district": "Smyrna School District",
+      "level": "Middle",
+      "type": "1-Regular school",
+      "charterSchool": "2-No",
+      "magnentSchool": "2-No",
+      "locale": "22-Suburb: Mid-size",
+      "grades": {
+         "lowest": "4th Grade",
+         "highest": "6th Grade"
+      },
+      "students": "712",
+      "fte": "44",
+      "pupilTeacherRatio": "16.18"
+   },
+   {
+      "name": "Morris (Evelyn I.) Early Childhood",
+      "location": {
+         "state": {
+            "name": "Delaware",
+            "abbr": "DE "
+         }
+      },
+      "district": "Milford School District",
+      "level": "Elementary",
+      "type": "1-Regular school",
+      "charterSchool": "2-No",
+      "magnentSchool": "2-No",
+      "locale": "41-Rural: Fringe",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "Kindergarten"
+      },
+      "students": "419",
+      "fte": "31",
+      "pupilTeacherRatio": "13.52"
+   },
+   {
+      "name": "Mot Charter School",
+      "location": {
+         "state": {
+            "name": "Delaware",
+            "abbr": "DE "
+         }
+      },
+      "district": "Mot Charter School",
+      "level": "Other",
+      "type": "1-Regular school",
+      "charterSchool": "1-Yes",
+      "magnentSchool": "2-No",
+      "locale": "41-Rural: Fringe",
+      "grades": {
+         "lowest": "Kindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "1375",
+      "fte": "80",
+      "pupilTeacherRatio": "17.19"
+   },
+   {
+      "name": "Mote (Anna P.) Elementary School",
+      "location": {
+         "state": {
+            "name": "Delaware",
+            "abbr": "DE "
+         }
+      },
+      "district": "Red Clay Consolidated School District",
+      "level": "Elementary",
+      "type": "1-Regular school",
+      "charterSchool": "2-No",
+      "magnentSchool": "2-No",
+      "locale": "21-Suburb: Large",
+      "grades": {
+         "lowest": "Kindergarten",
+         "highest": "5th Grade"
+      },
+      "students": "375",
+      "fte": "36",
+      "pupilTeacherRatio": "10.42"
+   },
+   {
+      "name": "Mount Pleasant Elementary School",
+      "location": {
+         "state": {
+            "name": "Delaware",
+            "abbr": "DE "
+         }
+      },
+      "district": "Brandywine School District",
+      "level": "Elementary",
+      "type": "1-Regular school",
+      "charterSchool": "2-No",
+      "magnentSchool": "2-No",
+      "locale": "21-Suburb: Large",
+      "grades": {
+         "lowest": "Kindergarten",
+         "highest": "5th Grade"
+      },
+      "students": "741",
+      "fte": "55",
+      "pupilTeacherRatio": "13.47"
+   },
+   {
+      "name": "Mount Pleasant High School",
+      "location": {
+         "state": {
+            "name": "Delaware",
+            "abbr": "DE "
+         }
+      },
+      "district": "Brandywine School District",
+      "level": "High",
+      "type": "1-Regular school",
+      "charterSchool": "2-No",
+      "magnentSchool": "2-No",
+      "locale": "21-Suburb: Large",
+      "grades": {
+         "lowest": "9th Grade",
+         "highest": "12th Grade"
+      },
+      "students": "1062",
+      "fte": "70",
+      "pupilTeacherRatio": "15.17"
+   },
+   {
+      "name": "Nellie Hughes Stokes Elementary School",
+      "location": {
+         "state": {
+            "name": "Delaware",
+            "abbr": "DE "
+         }
+      },
+      "district": "Caesar Rodney School District",
+      "level": "Elementary",
+      "type": "1-Regular school",
+      "charterSchool": "2-No",
+      "magnentSchool": "2-No",
+      "locale": "22-Suburb: Mid-size",
+      "grades": {
+         "lowest": "1st Grade",
+         "highest": "5th Grade"
+      },
+      "students": "512",
+      "fte": "35",
+      "pupilTeacherRatio": "14.63"
+   },
+   {
+      "name": "New Castle Elementary School",
+      "location": {
+         "state": {
+            "name": "Delaware",
+            "abbr": "DE "
+         }
+      },
+      "district": "Colonial School District",
+      "level": "Elementary",
+      "type": "1-Regular school",
+      "charterSchool": "2-No",
+      "magnentSchool": "2-No",
+      "locale": "21-Suburb: Large",
+      "grades": {
+         "lowest": "Kindergarten",
+         "highest": "5th Grade"
+      },
+      "students": "524",
+      "fte": "42",
+      "pupilTeacherRatio": "12.48"
+   },
+   {
+      "name": "Newark Charter School",
+      "location": {
+         "state": {
+            "name": "Delaware",
+            "abbr": "DE "
+         }
+      },
+      "district": "Newark Charter School",
+      "level": "Other",
+      "type": "1-Regular school",
+      "charterSchool": "1-Yes",
+      "magnentSchool": "2-No",
+      "locale": "21-Suburb: Large",
+      "grades": {
+         "lowest": "Kindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "2412",
+      "fte": "141",
+      "pupilTeacherRatio": "17.11"
+   },
+   {
+      "name": "Newark High School",
+      "location": {
+         "state": {
+            "name": "Delaware",
+            "abbr": "DE "
+         }
+      },
+      "district": "Christina School District",
+      "level": "High",
+      "type": "1-Regular school",
+      "charterSchool": "2-No",
+      "magnentSchool": "2-No",
+      "locale": "21-Suburb: Large",
+      "grades": {
+         "lowest": "9th Grade",
+         "highest": "12th Grade"
+      },
+      "students": "1059",
+      "fte": "64",
+      "pupilTeacherRatio": "16.55"
+   },
+   {
+      "name": "North Dover Elementary School",
+      "location": {
+         "state": {
+            "name": "Delaware",
+            "abbr": "DE "
+         }
+      },
+      "district": "Capital School District",
+      "level": "Elementary",
+      "type": "1-Regular school",
+      "charterSchool": "2-No",
+      "magnentSchool": "2-No",
+      "locale": "13-City: Small",
+      "grades": {
+         "lowest": "Kindergarten",
+         "highest": "4th Grade"
+      },
+      "students": "346",
+      "fte": "26",
+      "pupilTeacherRatio": "13.31"
+   },
+   {
+      "name": "North Georgetown Elementary School",
+      "location": {
+         "state": {
+            "name": "Delaware",
+            "abbr": "DE "
+         }
+      },
+      "district": "Indian River School District",
+      "level": "Elementary",
+      "type": "1-Regular school",
+      "charterSchool": "2-No",
+      "magnentSchool": "2-No",
+      "locale": "41-Rural: Fringe",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "5th Grade"
+      },
+      "students": "920",
+      "fte": "66",
+      "pupilTeacherRatio": "13.94"
+   },
+   {
+      "name": "North Laurel Early Learning Academy",
+      "location": {
+         "state": {
+            "name": "Delaware",
+            "abbr": "DE "
+         }
+      },
+      "district": "Laurel School District",
+      "level": "Elementary",
+      "type": "1-Regular school",
+      "charterSchool": "2-No",
+      "magnentSchool": "2-No",
+      "locale": "23-Suburb: Small",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "Kindergarten"
+      },
+      "students": "246",
+      "fte": "20",
+      "pupilTeacherRatio": "12.3"
+   },
+   {
+      "name": "North Smyrna Elementary School",
+      "location": {
+         "state": {
+            "name": "Delaware",
+            "abbr": "DE "
+         }
+      },
+      "district": "Smyrna School District",
+      "level": "Elementary",
+      "type": "1-Regular school",
+      "charterSchool": "2-No",
+      "magnentSchool": "2-No",
+      "locale": "22-Suburb: Mid-size",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "3rd Grade"
+      },
+      "students": "528",
+      "fte": "38",
+      "pupilTeacherRatio": "13.89"
+   },
+   {
+      "name": "North Star Elementary School",
+      "location": {
+         "state": {
+            "name": "Delaware",
+            "abbr": "DE "
+         }
+      },
+      "district": "Red Clay Consolidated School District",
+      "level": "Elementary",
+      "type": "1-Regular school",
+      "charterSchool": "2-No",
+      "magnentSchool": "2-No",
+      "locale": "21-Suburb: Large",
+      "grades": {
+         "lowest": "Kindergarten",
+         "highest": "5th Grade"
+      },
+      "students": "652",
+      "fte": "38",
+      "pupilTeacherRatio": "17.16"
+   },
+   {
+      "name": "Oberle (William) Elementary School",
+      "location": {
+         "state": {
+            "name": "Delaware",
+            "abbr": "DE "
+         }
+      },
+      "district": "Christina School District",
+      "level": "Elementary",
+      "type": "1-Regular school",
+      "charterSchool": "2-No",
+      "magnentSchool": "2-No",
+      "locale": "21-Suburb: Large",
+      "grades": {
+         "lowest": "Kindergarten",
+         "highest": "5th Grade"
+      },
+      "students": "594",
+      "fte": "42",
+      "pupilTeacherRatio": "14.14"
+   },
+   {
+      "name": "Odessa High School",
+      "location": {
+         "state": {
+            "name": "DELAWARE",
+            "abbr": "DE "
+         }
+      },
+      "district": "Appoquinimink School District",
+      "level": "Not Reported",
+      "type": "1-Regular school",
+      "charterSchool": "2-No",
+      "magnentSchool": "†",
+      "locale": "31-Town: Fringe",
+      "grades": {
+         "lowest": "–",
+         "highest": "–"
+      },
+      "students": "†",
+      "fte": "†",
+      "pupilTeacherRatio": "†"
+   },
+   {
+      "name": "Odyssey Charter School",
+      "location": {
+         "state": {
+            "name": "Delaware",
+            "abbr": "DE "
+         }
+      },
+      "district": "Odyssey Charter School",
+      "level": "Other",
+      "type": "1-Regular school",
+      "charterSchool": "1-Yes",
+      "magnentSchool": "2-No",
+      "locale": "21-Suburb: Large",
+      "grades": {
+         "lowest": "Kindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "1916",
+      "fte": "156",
+      "pupilTeacherRatio": "12.28"
+   },
+   {
+      "name": "Old State Elementary School",
+      "location": {
+         "state": {
+            "name": "Delaware",
+            "abbr": "DE "
+         }
+      },
+      "district": "Appoquinimink School District",
+      "level": "Elementary",
+      "type": "1-Regular school",
+      "charterSchool": "2-No",
+      "magnentSchool": "2-No",
+      "locale": "31-Town: Fringe",
+      "grades": {
+         "lowest": "1st Grade",
+         "highest": "5th Grade"
+      },
+      "students": "738",
+      "fte": "48",
+      "pupilTeacherRatio": "15.38"
+   },
+   {
+      "name": "Penn (William) High School",
+      "location": {
+         "state": {
+            "name": "Delaware",
+            "abbr": "DE "
+         }
+      },
+      "district": "Colonial School District",
+      "level": "High",
+      "type": "1-Regular school",
+      "charterSchool": "2-No",
+      "magnentSchool": "2-No",
+      "locale": "21-Suburb: Large",
+      "grades": {
+         "lowest": "9th Grade",
+         "highest": "12th Grade"
+      },
+      "students": "2271",
+      "fte": "128",
+      "pupilTeacherRatio": "17.74"
+   },
+   {
+      "name": "Phillis Wheatley Elementary School",
+      "location": {
+         "state": {
+            "name": "DELAWARE",
+            "abbr": "DE "
+         }
+      },
+      "district": "Woodbridge School District",
+      "level": "Elementary",
+      "type": "1-Regular school",
+      "charterSchool": "2-No",
+      "magnentSchool": "2-No",
+      "locale": "31-Town: Fringe",
+      "grades": {
+         "lowest": "3rd Grade",
+         "highest": "5th Grade"
+      },
+      "students": "612",
+      "fte": "43",
+      "pupilTeacherRatio": "14.23"
+   },
+   {
+      "name": "Pleasantville Elementary School",
+      "location": {
+         "state": {
+            "name": "Delaware",
+            "abbr": "DE "
+         }
+      },
+      "district": "Colonial School District",
+      "level": "Elementary",
+      "type": "1-Regular school",
+      "charterSchool": "2-No",
+      "magnentSchool": "2-No",
+      "locale": "21-Suburb: Large",
+      "grades": {
+         "lowest": "Kindergarten",
+         "highest": "5th Grade"
+      },
+      "students": "381",
+      "fte": "32",
+      "pupilTeacherRatio": "11.91"
+   },
+   {
+      "name": "Polytech High School",
+      "location": {
+         "state": {
+            "name": "Delaware",
+            "abbr": "DE "
+         }
+      },
+      "district": "Polytech School District",
+      "level": "High",
+      "type": "3-Vocational school",
+      "charterSchool": "2-No",
+      "magnentSchool": "2-No",
+      "locale": "41-Rural: Fringe",
+      "grades": {
+         "lowest": "9th Grade",
+         "highest": "12th Grade"
+      },
+      "students": "1192",
+      "fte": "86",
+      "pupilTeacherRatio": "13.86"
+   },
+   {
+      "name": "Positive Outcomes Charter School",
+      "location": {
+         "state": {
+            "name": "Delaware",
+            "abbr": "DE "
+         }
+      },
+      "district": "Positive Outcomes Charter School",
+      "level": "High",
+      "type": "1-Regular school",
+      "charterSchool": "1-Yes",
+      "magnentSchool": "2-No",
+      "locale": "22-Suburb: Mid-size",
+      "grades": {
+         "lowest": "7th Grade",
+         "highest": "12th Grade"
+      },
+      "students": "121",
+      "fte": "15",
+      "pupilTeacherRatio": "8.07"
+   },
+   {
+      "name": "Providence Creek Academy Charter School",
+      "location": {
+         "state": {
+            "name": "Delaware",
+            "abbr": "DE "
+         }
+      },
+      "district": "Providence Creek Academy Charter School",
+      "level": "Elementary",
+      "type": "1-Regular school",
+      "charterSchool": "1-Yes",
+      "magnentSchool": "2-No",
+      "locale": "41-Rural: Fringe",
+      "grades": {
+         "lowest": "Kindergarten",
+         "highest": "8th Grade"
+      },
+      "students": "703",
+      "fte": "40",
+      "pupilTeacherRatio": "17.58"
+   },
+   {
+      "name": "Pyle (Sarah) Academy",
+      "location": {
+         "state": {
+            "name": "Delaware",
+            "abbr": "DE "
+         }
+      },
+      "district": "Christina School District",
+      "level": "Ungraded",
+      "type": "4-Alternative/other school",
+      "charterSchool": "2-No",
+      "magnentSchool": "2-No",
+      "locale": "13-City: Small",
+      "grades": {
+         "lowest": "Ungraded",
+         "highest": "Ungraded"
+      },
+      "students": "0",
+      "fte": "12",
+      "pupilTeacherRatio": "0.00"
+   },
+   {
+      "name": "Read (George) Middle School",
+      "location": {
+         "state": {
+            "name": "Delaware",
+            "abbr": "DE "
+         }
+      },
+      "district": "Colonial School District",
+      "level": "Middle",
+      "type": "1-Regular school",
+      "charterSchool": "2-No",
+      "magnentSchool": "2-No",
+      "locale": "21-Suburb: Large",
+      "grades": {
+         "lowest": "6th Grade",
+         "highest": "8th Grade"
+      },
+      "students": "762",
+      "fte": "51",
+      "pupilTeacherRatio": "14.94"
+   },
+   {
+      "name": "Red Clay Early Years Program",
+      "location": {
+         "state": {
+            "name": "DELAWARE",
+            "abbr": "DE "
+         }
+      },
+      "district": "Red Clay Consolidated School District",
+      "level": "Prekindergarten",
+      "type": "4-Alternative/other school",
+      "charterSchool": "2-No",
+      "magnentSchool": "2-No",
+      "locale": "21-Suburb: Large",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "Prekindergarten"
+      },
+      "students": "306",
+      "fte": "14",
+      "pupilTeacherRatio": "21.86"
+   },
+   {
+      "name": "Redding (Louis L.) Middle School",
+      "location": {
+         "state": {
+            "name": "Delaware",
+            "abbr": "DE "
+         }
+      },
+      "district": "Appoquinimink School District",
+      "level": "Middle",
+      "type": "1-Regular school",
+      "charterSchool": "2-No",
+      "magnentSchool": "2-No",
+      "locale": "31-Town: Fringe",
+      "grades": {
+         "lowest": "6th Grade",
+         "highest": "8th Grade"
+      },
+      "students": "903",
+      "fte": "59",
+      "pupilTeacherRatio": "15.31"
+   },
+   {
+      "name": "Rehoboth Elementary School",
+      "location": {
+         "state": {
+            "name": "Delaware",
+            "abbr": "DE "
+         }
+      },
+      "district": "Cape Henlopen School District",
+      "level": "Elementary",
+      "type": "1-Regular school",
+      "charterSchool": "2-No",
+      "magnentSchool": "2-No",
+      "locale": "32-Town: Distant",
+      "grades": {
+         "lowest": "Kindergarten",
+         "highest": "5th Grade"
+      },
+      "students": "508",
+      "fte": "37",
+      "pupilTeacherRatio": "13.73"
+   },
+   {
+      "name": "Richardson Park Elementary School",
+      "location": {
+         "state": {
+            "name": "Delaware",
+            "abbr": "DE "
+         }
+      },
+      "district": "Red Clay Consolidated School District",
+      "level": "Elementary",
+      "type": "1-Regular school",
+      "charterSchool": "2-No",
+      "magnentSchool": "2-No",
+      "locale": "21-Suburb: Large",
+      "grades": {
+         "lowest": "Kindergarten",
+         "highest": "5th Grade"
+      },
+      "students": "599",
+      "fte": "52",
+      "pupilTeacherRatio": "11.52"
+   },
+   {
+      "name": "Richardson Park Learning Center",
+      "location": {
+         "state": {
+            "name": "Delaware",
+            "abbr": "DE "
+         }
+      },
+      "district": "Red Clay Consolidated School District",
+      "level": "Ungraded",
+      "type": "2-Special education school",
+      "charterSchool": "2-No",
+      "magnentSchool": "2-No",
+      "locale": "21-Suburb: Large",
+      "grades": {
+         "lowest": "Ungraded",
+         "highest": "Ungraded"
+      },
+      "students": "0",
+      "fte": "9",
+      "pupilTeacherRatio": "0.00"
+   },
+   {
+      "name": "Richey Elementary School",
+      "location": {
+         "state": {
+            "name": "Delaware",
+            "abbr": "DE "
+         }
+      },
+      "district": "Red Clay Consolidated School District",
+      "level": "Elementary",
+      "type": "1-Regular school",
+      "charterSchool": "2-No",
+      "magnentSchool": "2-No",
+      "locale": "21-Suburb: Large",
+      "grades": {
+         "lowest": "Kindergarten",
+         "highest": "5th Grade"
+      },
+      "students": "383",
+      "fte": "28",
+      "pupilTeacherRatio": "13.68"
+   },
+   {
+      "name": "Ross (Lulu M.) Elementary School",
+      "location": {
+         "state": {
+            "name": "Delaware",
+            "abbr": "DE "
+         }
+      },
+      "district": "Milford School District",
+      "level": "Elementary",
+      "type": "1-Regular school",
+      "charterSchool": "2-No",
+      "magnentSchool": "2-No",
+      "locale": "31-Town: Fringe",
+      "grades": {
+         "lowest": "1st Grade",
+         "highest": "5th Grade"
+      },
+      "students": "667",
+      "fte": "43",
+      "pupilTeacherRatio": "15.51"
+   },
+   {
+      "name": "Seaford Central Elementary School",
+      "location": {
+         "state": {
+            "name": "Delaware",
+            "abbr": "DE "
+         }
+      },
+      "district": "Seaford School District",
+      "level": "Elementary",
+      "type": "1-Regular school",
+      "charterSchool": "2-No",
+      "magnentSchool": "2-No",
+      "locale": "23-Suburb: Small",
+      "grades": {
+         "lowest": "3rd Grade",
+         "highest": "5th Grade"
+      },
+      "students": "400",
+      "fte": "31",
+      "pupilTeacherRatio": "12.9"
+   },
+   {
+      "name": "Seaford Middle School",
+      "location": {
+         "state": {
+            "name": "Delaware",
+            "abbr": "DE "
+         }
+      },
+      "district": "Seaford School District",
+      "level": "Middle",
+      "type": "1-Regular school",
+      "charterSchool": "2-No",
+      "magnentSchool": "2-No",
+      "locale": "23-Suburb: Small",
+      "grades": {
+         "lowest": "6th Grade",
+         "highest": "8th Grade"
+      },
+      "students": "829",
+      "fte": "54",
+      "pupilTeacherRatio": "15.35"
+   },
+   {
+      "name": "Seaford Senior High School",
+      "location": {
+         "state": {
+            "name": "Delaware",
+            "abbr": "DE "
+         }
+      },
+      "district": "Seaford School District",
+      "level": "High",
+      "type": "1-Regular school",
+      "charterSchool": "2-No",
+      "magnentSchool": "2-No",
+      "locale": "23-Suburb: Small",
+      "grades": {
+         "lowest": "9th Grade",
+         "highest": "12th Grade"
+      },
+      "students": "826",
+      "fte": "56",
+      "pupilTeacherRatio": "14.75"
+   },
+   {
+      "name": "Selbyville Middle School",
+      "location": {
+         "state": {
+            "name": "Delaware",
+            "abbr": "DE "
+         }
+      },
+      "district": "Indian River School District",
+      "level": "Middle",
+      "type": "1-Regular school",
+      "charterSchool": "2-No",
+      "magnentSchool": "2-No",
+      "locale": "41-Rural: Fringe",
+      "grades": {
+         "lowest": "6th Grade",
+         "highest": "8th Grade"
+      },
+      "students": "782",
+      "fte": "48",
+      "pupilTeacherRatio": "16.29"
+   },
+   {
+      "name": "Shields (Richard A.) Elementary School",
+      "location": {
+         "state": {
+            "name": "Delaware",
+            "abbr": "DE "
+         }
+      },
+      "district": "Cape Henlopen School District",
+      "level": "Elementary",
+      "type": "1-Regular school",
+      "charterSchool": "2-No",
+      "magnentSchool": "2-No",
+      "locale": "32-Town: Distant",
+      "grades": {
+         "lowest": "Kindergarten",
+         "highest": "5th Grade"
+      },
+      "students": "571",
+      "fte": "39",
+      "pupilTeacherRatio": "14.64"
+   },
+   {
+      "name": "Shortlidge (Evan G.) Academy",
+      "location": {
+         "state": {
+            "name": "Delaware",
+            "abbr": "DE "
+         }
+      },
+      "district": "Red Clay Consolidated School District",
+      "level": "Elementary",
+      "type": "1-Regular school",
+      "charterSchool": "2-No",
+      "magnentSchool": "2-No",
+      "locale": "13-City: Small",
+      "grades": {
+         "lowest": "Kindergarten",
+         "highest": "2nd Grade"
+      },
+      "students": "341",
+      "fte": "30",
+      "pupilTeacherRatio": "11.37"
+   },
+   {
+      "name": "Showell (Phillip C.) Elementary School",
+      "location": {
+         "state": {
+            "name": "Delaware",
+            "abbr": "DE "
+         }
+      },
+      "district": "Indian River School District",
+      "level": "Elementary",
+      "type": "1-Regular school",
+      "charterSchool": "2-No",
+      "magnentSchool": "2-No",
+      "locale": "41-Rural: Fringe",
+      "grades": {
+         "lowest": "Kindergarten",
+         "highest": "5th Grade"
+      },
+      "students": "309",
+      "fte": "23",
+      "pupilTeacherRatio": "13.43"
+   },
+   {
+      "name": "Shue-Medill Middle School",
+      "location": {
+         "state": {
+            "name": "Delaware",
+            "abbr": "DE "
+         }
+      },
+      "district": "Christina School District",
+      "level": "Middle",
+      "type": "1-Regular school",
+      "charterSchool": "2-No",
+      "magnentSchool": "2-No",
+      "locale": "21-Suburb: Large",
+      "grades": {
+         "lowest": "6th Grade",
+         "highest": "8th Grade"
+      },
+      "students": "822",
+      "fte": "58",
+      "pupilTeacherRatio": "14.17"
+   },
+   {
+      "name": "Silver Lake Elementary School",
+      "location": {
+         "state": {
+            "name": "Delaware",
+            "abbr": "DE "
+         }
+      },
+      "district": "Appoquinimink School District",
+      "level": "Elementary",
+      "type": "1-Regular school",
+      "charterSchool": "2-No",
+      "magnentSchool": "2-No",
+      "locale": "31-Town: Fringe",
+      "grades": {
+         "lowest": "1st Grade",
+         "highest": "5th Grade"
+      },
+      "students": "607",
+      "fte": "38",
+      "pupilTeacherRatio": "15.97"
+   },
+   {
+      "name": "Skyline Middle School",
+      "location": {
+         "state": {
+            "name": "Delaware",
+            "abbr": "DE "
+         }
+      },
+      "district": "Red Clay Consolidated School District",
+      "level": "Middle",
+      "type": "1-Regular school",
+      "charterSchool": "2-No",
+      "magnentSchool": "2-No",
+      "locale": "21-Suburb: Large",
+      "grades": {
+         "lowest": "6th Grade",
+         "highest": "8th Grade"
+      },
+      "students": "632",
+      "fte": "45",
+      "pupilTeacherRatio": "14.04"
+   },
+   {
+      "name": "Smith (Jennie E.) Elementary School",
+      "location": {
+         "state": {
+            "name": "Delaware",
+            "abbr": "DE "
+         }
+      },
+      "district": "Christina School District",
+      "level": "Elementary",
+      "type": "1-Regular school",
+      "charterSchool": "2-No",
+      "magnentSchool": "2-No",
+      "locale": "21-Suburb: Large",
+      "grades": {
+         "lowest": "Kindergarten",
+         "highest": "5th Grade"
+      },
+      "students": "471",
+      "fte": "34",
+      "pupilTeacherRatio": "13.85"
+   },
+   {
+      "name": "Smyrna Elementary School",
+      "location": {
+         "state": {
+            "name": "Delaware",
+            "abbr": "DE "
+         }
+      },
+      "district": "Smyrna School District",
+      "level": "Elementary",
+      "type": "1-Regular school",
+      "charterSchool": "2-No",
+      "magnentSchool": "2-No",
+      "locale": "22-Suburb: Mid-size",
+      "grades": {
+         "lowest": "Kindergarten",
+         "highest": "3rd Grade"
+      },
+      "students": "437",
+      "fte": "30",
+      "pupilTeacherRatio": "14.57"
+   },
+   {
+      "name": "Smyrna High School",
+      "location": {
+         "state": {
+            "name": "Delaware",
+            "abbr": "DE "
+         }
+      },
+      "district": "Smyrna School District",
+      "level": "High",
+      "type": "1-Regular school",
+      "charterSchool": "2-No",
+      "magnentSchool": "2-No",
+      "locale": "41-Rural: Fringe",
+      "grades": {
+         "lowest": "9th Grade",
+         "highest": "12th Grade"
+      },
+      "students": "1612",
+      "fte": "107",
+      "pupilTeacherRatio": "15.07"
+   },
+   {
+      "name": "Smyrna Middle School",
+      "location": {
+         "state": {
+            "name": "Delaware",
+            "abbr": "DE "
+         }
+      },
+      "district": "Smyrna School District",
+      "level": "Middle",
+      "type": "1-Regular school",
+      "charterSchool": "2-No",
+      "magnentSchool": "2-No",
+      "locale": "41-Rural: Fringe",
+      "grades": {
+         "lowest": "7th Grade",
+         "highest": "8th Grade"
+      },
+      "students": "984",
+      "fte": "64",
+      "pupilTeacherRatio": "15.38"
+   },
+   {
+      "name": "South Dover Elementary School",
+      "location": {
+         "state": {
+            "name": "Delaware",
+            "abbr": "DE "
+         }
+      },
+      "district": "Capital School District",
+      "level": "Elementary",
+      "type": "1-Regular school",
+      "charterSchool": "2-No",
+      "magnentSchool": "2-No",
+      "locale": "13-City: Small",
+      "grades": {
+         "lowest": "Kindergarten",
+         "highest": "4th Grade"
+      },
+      "students": "568",
+      "fte": "39",
+      "pupilTeacherRatio": "14.56"
+   },
+   {
+      "name": "Southern Delaware School of the Arts",
+      "location": {
+         "state": {
+            "name": "Delaware",
+            "abbr": "DE "
+         }
+      },
+      "district": "Indian River School District",
+      "level": "Elementary",
+      "type": "1-Regular school",
+      "charterSchool": "2-No",
+      "magnentSchool": "1-Yes",
+      "locale": "41-Rural: Fringe",
+      "grades": {
+         "lowest": "Kindergarten",
+         "highest": "8th Grade"
+      },
+      "students": "465",
+      "fte": "32",
+      "pupilTeacherRatio": "14.53"
+   },
+   {
+      "name": "Southern Elementary School",
+      "location": {
+         "state": {
+            "name": "Delaware",
+            "abbr": "DE "
+         }
+      },
+      "district": "Colonial School District",
+      "level": "Elementary",
+      "type": "1-Regular school",
+      "charterSchool": "2-No",
+      "magnentSchool": "2-No",
+      "locale": "41-Rural: Fringe",
+      "grades": {
+         "lowest": "Kindergarten",
+         "highest": "5th Grade"
+      },
+      "students": "833",
+      "fte": "68",
+      "pupilTeacherRatio": "12.25"
+   },
+   {
+      "name": "Spring Meadow Early Childhood Center",
+      "location": {
+         "state": {
+            "name": "Delaware",
+            "abbr": "DE "
+         }
+      },
+      "district": "Appoquinimink School District",
+      "level": "Elementary",
+      "type": "1-Regular school",
+      "charterSchool": "2-No",
+      "magnentSchool": "2-No",
+      "locale": "31-Town: Fringe",
+      "grades": {
+         "lowest": "Kindergarten",
+         "highest": "Kindergarten"
+      },
+      "students": "256",
+      "fte": "38",
+      "pupilTeacherRatio": "6.74"
+   },
+   {
+      "name": "Springer Middle School",
+      "location": {
+         "state": {
+            "name": "Delaware",
+            "abbr": "DE "
+         }
+      },
+      "district": "Brandywine School District",
+      "level": "Middle",
+      "type": "1-Regular school",
+      "charterSchool": "2-No",
+      "magnentSchool": "2-No",
+      "locale": "21-Suburb: Large",
+      "grades": {
+         "lowest": "6th Grade",
+         "highest": "8th Grade"
+      },
+      "students": "917",
+      "fte": "60",
+      "pupilTeacherRatio": "15.28"
+   },
+   {
+      "name": "St. Georges Technical High School",
+      "location": {
+         "state": {
+            "name": "Delaware",
+            "abbr": "DE "
+         }
+      },
+      "district": "New Castle County Vocational-Technical School District",
+      "level": "High",
+      "type": "3-Vocational school",
+      "charterSchool": "2-No",
+      "magnentSchool": "2-No",
+      "locale": "41-Rural: Fringe",
+      "grades": {
+         "lowest": "9th Grade",
+         "highest": "12th Grade"
+      },
+      "students": "1123",
+      "fte": "79",
+      "pupilTeacherRatio": "14.22"
+   },
+   {
+      "name": "Stanton Middle School",
+      "location": {
+         "state": {
+            "name": "Delaware",
+            "abbr": "DE "
+         }
+      },
+      "district": "Red Clay Consolidated School District",
+      "level": "Middle",
+      "type": "1-Regular school",
+      "charterSchool": "2-No",
+      "magnentSchool": "2-No",
+      "locale": "21-Suburb: Large",
+      "grades": {
+         "lowest": "6th Grade",
+         "highest": "8th Grade"
+      },
+      "students": "730",
+      "fte": "46",
+      "pupilTeacherRatio": "15.87"
+   },
+   {
+      "name": "Star Hill Elementary School",
+      "location": {
+         "state": {
+            "name": "Delaware",
+            "abbr": "DE "
+         }
+      },
+      "district": "Caesar Rodney School District",
+      "level": "Elementary",
+      "type": "1-Regular school",
+      "charterSchool": "2-No",
+      "magnentSchool": "2-No",
+      "locale": "22-Suburb: Mid-size",
+      "grades": {
+         "lowest": "1st Grade",
+         "highest": "5th Grade"
+      },
+      "students": "428",
+      "fte": "31",
+      "pupilTeacherRatio": "13.81"
+   },
+   {
+      "name": "Stubbs Early Education Center",
+      "location": {
+         "state": {
+            "name": "Delaware",
+            "abbr": "DE "
+         }
+      },
+      "district": "Christina School District",
+      "level": "Elementary",
+      "type": "1-Regular school",
+      "charterSchool": "2-No",
+      "magnentSchool": "2-No",
+      "locale": "13-City: Small",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "Kindergarten"
+      },
+      "students": "146",
+      "fte": "18",
+      "pupilTeacherRatio": "8.11"
+   },
+   {
+      "name": "Sunnyside Elementary School",
+      "location": {
+         "state": {
+            "name": "Delaware",
+            "abbr": "DE "
+         }
+      },
+      "district": "Smyrna School District",
+      "level": "Elementary",
+      "type": "1-Regular school",
+      "charterSchool": "2-No",
+      "magnentSchool": "2-No",
+      "locale": "22-Suburb: Mid-size",
+      "grades": {
+         "lowest": "Kindergarten",
+         "highest": "4th Grade"
+      },
+      "students": "553",
+      "fte": "34",
+      "pupilTeacherRatio": "16.26"
+   },
+   {
+      "name": "Sussex Academy of Arts and Sciences",
+      "location": {
+         "state": {
+            "name": "Delaware",
+            "abbr": "DE "
+         }
+      },
+      "district": "Sussex Academy",
+      "level": "High",
+      "type": "1-Regular school",
+      "charterSchool": "1-Yes",
+      "magnentSchool": "2-No",
+      "locale": "31-Town: Fringe",
+      "grades": {
+         "lowest": "6th Grade",
+         "highest": "12th Grade"
+      },
+      "students": "858",
+      "fte": "41",
+      "pupilTeacherRatio": "20.93"
+   },
+   {
+      "name": "Sussex Central High School",
+      "location": {
+         "state": {
+            "name": "Delaware",
+            "abbr": "DE "
+         }
+      },
+      "district": "Indian River School District",
+      "level": "High",
+      "type": "1-Regular school",
+      "charterSchool": "2-No",
+      "magnentSchool": "2-No",
+      "locale": "41-Rural: Fringe",
+      "grades": {
+         "lowest": "9th Grade",
+         "highest": "12th Grade"
+      },
+      "students": "1803",
+      "fte": "118",
+      "pupilTeacherRatio": "15.28"
+   },
+   {
+      "name": "Sussex Consortium",
+      "location": {
+         "state": {
+            "name": "Delaware",
+            "abbr": "DE "
+         }
+      },
+      "district": "Cape Henlopen School District",
+      "level": "Other",
+      "type": "2-Special education school",
+      "charterSchool": "2-No",
+      "magnentSchool": "2-No",
+      "locale": "41-Rural: Fringe",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "360",
+      "fte": "70",
+      "pupilTeacherRatio": "5.14"
+   },
+   {
+      "name": "Sussex Montessori School",
+      "location": {
+         "state": {
+            "name": "DELAWARE",
+            "abbr": "DE "
+         }
+      },
+      "district": "Sussex Montessori School",
+      "level": "Not Reported",
+      "type": "1-Regular school",
+      "charterSchool": "1-Yes",
+      "magnentSchool": "†",
+      "locale": "21-Suburb: Large",
+      "grades": {
+         "lowest": "–",
+         "highest": "–"
+      },
+      "students": "†",
+      "fte": "†",
+      "pupilTeacherRatio": "†"
+   },
+   {
+      "name": "Sussex Orthopedic Program",
+      "location": {
+         "state": {
+            "name": "Delaware",
+            "abbr": "DE "
+         }
+      },
+      "district": "Seaford School District",
+      "level": "Other",
+      "type": "2-Special education school",
+      "charterSchool": "2-No",
+      "magnentSchool": "2-No",
+      "locale": "23-Suburb: Small",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "48",
+      "fte": "–",
+      "pupilTeacherRatio": "†"
+   },
+   {
+      "name": "Sussex Technical High School",
+      "location": {
+         "state": {
+            "name": "Delaware",
+            "abbr": "DE "
+         }
+      },
+      "district": "Sussex Technical School District",
+      "level": "High",
+      "type": "3-Vocational school",
+      "charterSchool": "2-No",
+      "magnentSchool": "2-No",
+      "locale": "42-Rural: Distant",
+      "grades": {
+         "lowest": "9th Grade",
+         "highest": "12th Grade"
+      },
+      "students": "1241",
+      "fte": "85",
+      "pupilTeacherRatio": "14.6"
+   },
+   {
+      "name": "Talley Middle School",
+      "location": {
+         "state": {
+            "name": "Delaware",
+            "abbr": "DE "
+         }
+      },
+      "district": "Brandywine School District",
+      "level": "Middle",
+      "type": "1-Regular school",
+      "charterSchool": "2-No",
+      "magnentSchool": "2-No",
+      "locale": "21-Suburb: Large",
+      "grades": {
+         "lowest": "6th Grade",
+         "highest": "8th Grade"
+      },
+      "students": "811",
+      "fte": "64",
+      "pupilTeacherRatio": "12.67"
+   },
+   {
+      "name": "The Bancroft School",
+      "location": {
+         "state": {
+            "name": "Delaware",
+            "abbr": "DE "
+         }
+      },
+      "district": "Christina School District",
+      "level": "Elementary",
+      "type": "1-Regular school",
+      "charterSchool": "2-No",
+      "magnentSchool": "2-No",
+      "locale": "13-City: Small",
+      "grades": {
+         "lowest": "1st Grade",
+         "highest": "6th Grade"
+      },
+      "students": "405",
+      "fte": "45",
+      "pupilTeacherRatio": "9"
+   },
+   {
+      "name": "The Bayard School",
+      "location": {
+         "state": {
+            "name": "Delaware",
+            "abbr": "DE "
+         }
+      },
+      "district": "Christina School District",
+      "level": "Elementary",
+      "type": "1-Regular school",
+      "charterSchool": "2-No",
+      "magnentSchool": "2-No",
+      "locale": "13-City: Small",
+      "grades": {
+         "lowest": "1st Grade",
+         "highest": "8th Grade"
+      },
+      "students": "577",
+      "fte": "59",
+      "pupilTeacherRatio": "9.78"
+   },
+   {
+      "name": "The Colwyck Center",
+      "location": {
+         "state": {
+            "name": "Delaware",
+            "abbr": "DE "
+         }
+      },
+      "district": "Colonial School District",
+      "level": "Prekindergarten",
+      "type": "1-Regular school",
+      "charterSchool": "2-No",
+      "magnentSchool": "2-No",
+      "locale": "21-Suburb: Large",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "Prekindergarten"
+      },
+      "students": "165",
+      "fte": "21",
+      "pupilTeacherRatio": "7.86"
+   },
+   {
+      "name": "The Wallace Wallin School",
+      "location": {
+         "state": {
+            "name": "DELAWARE",
+            "abbr": "DE "
+         }
+      },
+      "district": "Colonial School District",
+      "level": "High",
+      "type": "2-Special education school",
+      "charterSchool": "2-No",
+      "magnentSchool": "2-No",
+      "locale": "21-Suburb: Large",
+      "grades": {
+         "lowest": "7th Grade",
+         "highest": "12th Grade"
+      },
+      "students": "121",
+      "fte": "10",
+      "pupilTeacherRatio": "12.1"
+   },
+   {
+      "name": "Towne Point Elementary School",
+      "location": {
+         "state": {
+            "name": "Delaware",
+            "abbr": "DE "
+         }
+      },
+      "district": "Capital School District",
+      "level": "Elementary",
+      "type": "1-Regular school",
+      "charterSchool": "2-No",
+      "magnentSchool": "2-No",
+      "locale": "13-City: Small",
+      "grades": {
+         "lowest": "Kindergarten",
+         "highest": "4th Grade"
+      },
+      "students": "288",
+      "fte": "21",
+      "pupilTeacherRatio": "13.71"
+   },
+   {
+      "name": "Townsend Early Childhood Center",
+      "location": {
+         "state": {
+            "name": "Delaware",
+            "abbr": "DE "
+         }
+      },
+      "district": "Appoquinimink School District",
+      "level": "Elementary",
+      "type": "1-Regular school",
+      "charterSchool": "2-No",
+      "magnentSchool": "2-No",
+      "locale": "31-Town: Fringe",
+      "grades": {
+         "lowest": "Kindergarten",
+         "highest": "Kindergarten"
+      },
+      "students": "242",
+      "fte": "14",
+      "pupilTeacherRatio": "17.29"
+   },
+   {
+      "name": "Townsend Elementary School",
+      "location": {
+         "state": {
+            "name": "Delaware",
+            "abbr": "DE "
+         }
+      },
+      "district": "Appoquinimink School District",
+      "level": "Elementary",
+      "type": "1-Regular school",
+      "charterSchool": "2-No",
+      "magnentSchool": "2-No",
+      "locale": "31-Town: Fringe",
+      "grades": {
+         "lowest": "1st Grade",
+         "highest": "5th Grade"
+      },
+      "students": "443",
+      "fte": "29",
+      "pupilTeacherRatio": "15.28"
+   },
+   {
+      "name": "W. B. Simpson Elementary School",
+      "location": {
+         "state": {
+            "name": "Delaware",
+            "abbr": "DE "
+         }
+      },
+      "district": "Caesar Rodney School District",
+      "level": "Elementary",
+      "type": "1-Regular school",
+      "charterSchool": "2-No",
+      "magnentSchool": "2-No",
+      "locale": "22-Suburb: Mid-size",
+      "grades": {
+         "lowest": "1st Grade",
+         "highest": "5th Grade"
+      },
+      "students": "607",
+      "fte": "40",
+      "pupilTeacherRatio": "15.18"
+   },
+   {
+      "name": "W. Reily Brown Elementary School",
+      "location": {
+         "state": {
+            "name": "Delaware",
+            "abbr": "DE "
+         }
+      },
+      "district": "Caesar Rodney School District",
+      "level": "Elementary",
+      "type": "1-Regular school",
+      "charterSchool": "2-No",
+      "magnentSchool": "2-No",
+      "locale": "13-City: Small",
+      "grades": {
+         "lowest": "1st Grade",
+         "highest": "5th Grade"
+      },
+      "students": "619",
+      "fte": "37",
+      "pupilTeacherRatio": "16.73"
+   },
+   {
+      "name": "Warner Elementary School",
+      "location": {
+         "state": {
+            "name": "Delaware",
+            "abbr": "DE "
+         }
+      },
+      "district": "Red Clay Consolidated School District",
+      "level": "Elementary",
+      "type": "1-Regular school",
+      "charterSchool": "2-No",
+      "magnentSchool": "2-No",
+      "locale": "13-City: Small",
+      "grades": {
+         "lowest": "3rd Grade",
+         "highest": "5th Grade"
+      },
+      "students": "389",
+      "fte": "41",
+      "pupilTeacherRatio": "9.49"
+   },
+   {
+      "name": "Waters (Alfred G.) Middle School",
+      "location": {
+         "state": {
+            "name": "Delaware",
+            "abbr": "DE "
+         }
+      },
+      "district": "Appoquinimink School District",
+      "level": "Middle",
+      "type": "1-Regular school",
+      "charterSchool": "2-No",
+      "magnentSchool": "2-No",
+      "locale": "41-Rural: Fringe",
+      "grades": {
+         "lowest": "6th Grade",
+         "highest": "8th Grade"
+      },
+      "students": "987",
+      "fte": "58",
+      "pupilTeacherRatio": "17.02"
+   },
+   {
+      "name": "West Park Place Elementary School",
+      "location": {
+         "state": {
+            "name": "Delaware",
+            "abbr": "DE "
+         }
+      },
+      "district": "Christina School District",
+      "level": "Elementary",
+      "type": "1-Regular school",
+      "charterSchool": "2-No",
+      "magnentSchool": "2-No",
+      "locale": "21-Suburb: Large",
+      "grades": {
+         "lowest": "Kindergarten",
+         "highest": "5th Grade"
+      },
+      "students": "335",
+      "fte": "25",
+      "pupilTeacherRatio": "13.4"
+   },
+   {
+      "name": "West Seaford Elementary School",
+      "location": {
+         "state": {
+            "name": "Delaware",
+            "abbr": "DE "
+         }
+      },
+      "district": "Seaford School District",
+      "level": "Elementary",
+      "type": "1-Regular school",
+      "charterSchool": "2-No",
+      "magnentSchool": "2-No",
+      "locale": "23-Suburb: Small",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "2nd Grade"
+      },
+      "students": "463",
+      "fte": "29",
+      "pupilTeacherRatio": "15.97"
+   },
+   {
+      "name": "Wilbur (Kathleen H.) Elementary",
+      "location": {
+         "state": {
+            "name": "Delaware",
+            "abbr": "DE "
+         }
+      },
+      "district": "Colonial School District",
+      "level": "Elementary",
+      "type": "1-Regular school",
+      "charterSchool": "2-No",
+      "magnentSchool": "2-No",
+      "locale": "21-Suburb: Large",
+      "grades": {
+         "lowest": "Kindergarten",
+         "highest": "5th Grade"
+      },
+      "students": "1142",
+      "fte": "73",
+      "pupilTeacherRatio": "15.64"
+   },
+   {
+      "name": "William F. Cooke Jr. Elementary",
+      "location": {
+         "state": {
+            "name": "DELAWARE",
+            "abbr": "DE "
+         }
+      },
+      "district": "Red Clay Consolidated School District",
+      "level": "Elementary",
+      "type": "1-Regular school",
+      "charterSchool": "2-No",
+      "magnentSchool": "2-No",
+      "locale": "21-Suburb: Large",
+      "grades": {
+         "lowest": "Kindergarten",
+         "highest": "5th Grade"
+      },
+      "students": "683",
+      "fte": "41",
+      "pupilTeacherRatio": "16.66"
+   },
+   {
+      "name": "William Henry Middle School",
+      "location": {
+         "state": {
+            "name": "Delaware",
+            "abbr": "DE "
+         }
+      },
+      "district": "Capital School District",
+      "level": "Middle",
+      "type": "1-Regular school",
+      "charterSchool": "2-No",
+      "magnentSchool": "2-No",
+      "locale": "13-City: Small",
+      "grades": {
+         "lowest": "5th Grade",
+         "highest": "6th Grade"
+      },
+      "students": "995",
+      "fte": "64",
+      "pupilTeacherRatio": "15.55"
+   },
+   {
+      "name": "Wilmington Manor Elementary School",
+      "location": {
+         "state": {
+            "name": "Delaware",
+            "abbr": "DE "
+         }
+      },
+      "district": "Colonial School District",
+      "level": "Elementary",
+      "type": "1-Regular school",
+      "charterSchool": "2-No",
+      "magnentSchool": "2-No",
+      "locale": "21-Suburb: Large",
+      "grades": {
+         "lowest": "Kindergarten",
+         "highest": "5th Grade"
+      },
+      "students": "334",
+      "fte": "26",
+      "pupilTeacherRatio": "12.85"
+   },
+   {
+      "name": "Wilson (Etta J.) Elementary School",
+      "location": {
+         "state": {
+            "name": "Delaware",
+            "abbr": "DE "
+         }
+      },
+      "district": "Christina School District",
+      "level": "Elementary",
+      "type": "1-Regular school",
+      "charterSchool": "2-No",
+      "magnentSchool": "2-No",
+      "locale": "21-Suburb: Large",
+      "grades": {
+         "lowest": "Kindergarten",
+         "highest": "5th Grade"
+      },
+      "students": "249",
+      "fte": "21",
+      "pupilTeacherRatio": "11.86"
+   },
+   {
+      "name": "Woodbridge Early Childhood Education Center",
+      "location": {
+         "state": {
+            "name": "Delaware",
+            "abbr": "DE "
+         }
+      },
+      "district": "Woodbridge School District",
+      "level": "Elementary",
+      "type": "1-Regular school",
+      "charterSchool": "2-No",
+      "magnentSchool": "2-No",
+      "locale": "41-Rural: Fringe",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "2nd Grade"
+      },
+      "students": "643",
+      "fte": "41",
+      "pupilTeacherRatio": "15.68"
+   },
+   {
+      "name": "Woodbridge High School",
+      "location": {
+         "state": {
+            "name": "Delaware",
+            "abbr": "DE "
+         }
+      },
+      "district": "Woodbridge School District",
+      "level": "High",
+      "type": "1-Regular school",
+      "charterSchool": "2-No",
+      "magnentSchool": "2-No",
+      "locale": "41-Rural: Fringe",
+      "grades": {
+         "lowest": "9th Grade",
+         "highest": "12th Grade"
+      },
+      "students": "712",
+      "fte": "44",
+      "pupilTeacherRatio": "16.18"
+   },
+   {
+      "name": "Woodbridge Middle School",
+      "location": {
+         "state": {
+            "name": "Delaware",
+            "abbr": "DE "
+         }
+      },
+      "district": "Woodbridge School District",
+      "level": "Middle",
+      "type": "1-Regular school",
+      "charterSchool": "2-No",
+      "magnentSchool": "2-No",
+      "locale": "31-Town: Fringe",
+      "grades": {
+         "lowest": "6th Grade",
+         "highest": "8th Grade"
+      },
+      "students": "627",
+      "fte": "45",
+      "pupilTeacherRatio": "13.93"
+   }
+]

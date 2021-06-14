@@ -1,0 +1,2928 @@
+[
+   {
+      "name": "Aberdeen School Dist",
+      "location": {
+         "state": {
+            "name": "Mississippi",
+            "abbr": "MS",
+            "county": "Monroe County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Kindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "1114",
+      "fte": "91.5",
+      "pupilTeacherRatio": "12.17",
+      "numberOfSchools": "3"
+   },
+   {
+      "name": "Alcorn School Dist",
+      "location": {
+         "state": {
+            "name": "Mississippi",
+            "abbr": "MS",
+            "county": "Alcorn County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "3203",
+      "fte": "242.46",
+      "pupilTeacherRatio": "13.21",
+      "numberOfSchools": "10"
+   },
+   {
+      "name": "Ambition Preparatory Charter School",
+      "location": {
+         "state": {
+            "name": "MISSISSIPPI",
+            "abbr": "MS",
+            "county": "Hinds County"
+         }
+      },
+      "type": "7-Independent Charter District",
+      "grades": {
+         "lowest": "Kindergarten",
+         "highest": "1st Grade"
+      },
+      "students": "135",
+      "fte": "5.8",
+      "pupilTeacherRatio": "23.28",
+      "numberOfSchools": "1"
+   },
+   {
+      "name": "Amite County School District",
+      "location": {
+         "state": {
+            "name": "Mississippi",
+            "abbr": "MS",
+            "county": "Amite County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Kindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "929",
+      "fte": "85.15",
+      "pupilTeacherRatio": "10.91",
+      "numberOfSchools": "3"
+   },
+   {
+      "name": "Amory School Dist",
+      "location": {
+         "state": {
+            "name": "Mississippi",
+            "abbr": "MS",
+            "county": "Monroe County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Kindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "1605",
+      "fte": "116.05",
+      "pupilTeacherRatio": "13.83",
+      "numberOfSchools": "5"
+   },
+   {
+      "name": "Attala Co School Dist",
+      "location": {
+         "state": {
+            "name": "Mississippi",
+            "abbr": "MS",
+            "county": "Attala County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "1046",
+      "fte": "91.31",
+      "pupilTeacherRatio": "11.46",
+      "numberOfSchools": "5"
+   },
+   {
+      "name": "Baldwyn School District",
+      "location": {
+         "state": {
+            "name": "Mississippi",
+            "abbr": "MS",
+            "county": "Lee County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Kindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "761",
+      "fte": "60.16",
+      "pupilTeacherRatio": "12.65",
+      "numberOfSchools": "3"
+   },
+   {
+      "name": "Bay St Louis Waveland School Dist",
+      "location": {
+         "state": {
+            "name": "Mississippi",
+            "abbr": "MS",
+            "county": "Hancock County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Kindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "1767",
+      "fte": "127.35",
+      "pupilTeacherRatio": "13.88",
+      "numberOfSchools": "4"
+   },
+   {
+      "name": "Benton Co School Dist",
+      "location": {
+         "state": {
+            "name": "Mississippi",
+            "abbr": "MS",
+            "county": "Benton County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Kindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "1019",
+      "fte": "76.29",
+      "pupilTeacherRatio": "13.36",
+      "numberOfSchools": "4"
+   },
+   {
+      "name": "Biloxi Public School Dist",
+      "location": {
+         "state": {
+            "name": "Mississippi",
+            "abbr": "MS",
+            "county": "Harrison County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "6309",
+      "fte": "418.77",
+      "pupilTeacherRatio": "15.07",
+      "numberOfSchools": "10"
+   },
+   {
+      "name": "Booneville School Dist",
+      "location": {
+         "state": {
+            "name": "Mississippi",
+            "abbr": "MS",
+            "county": "Prentiss County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "1290",
+      "fte": "94.62",
+      "pupilTeacherRatio": "13.63",
+      "numberOfSchools": "4"
+   },
+   {
+      "name": "Brookhaven School Dist",
+      "location": {
+         "state": {
+            "name": "Mississippi",
+            "abbr": "MS",
+            "county": "Lincoln County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "2822",
+      "fte": "179.13",
+      "pupilTeacherRatio": "15.75",
+      "numberOfSchools": "7"
+   },
+   {
+      "name": "Calhoun Co School Dist",
+      "location": {
+         "state": {
+            "name": "Mississippi",
+            "abbr": "MS",
+            "county": "Calhoun County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "2381",
+      "fte": "164.05",
+      "pupilTeacherRatio": "14.51",
+      "numberOfSchools": "7"
+   },
+   {
+      "name": "Canton Public School Dist",
+      "location": {
+         "state": {
+            "name": "Mississippi",
+            "abbr": "MS",
+            "county": "Madison County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "3350",
+      "fte": "207.93",
+      "pupilTeacherRatio": "16.11",
+      "numberOfSchools": "10"
+   },
+   {
+      "name": "Carroll County School Dist",
+      "location": {
+         "state": {
+            "name": "Mississippi",
+            "abbr": "MS",
+            "county": "Carroll County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "923",
+      "fte": "66.32",
+      "pupilTeacherRatio": "13.92",
+      "numberOfSchools": "2"
+   },
+   {
+      "name": "Chickasaw Co School Dist",
+      "location": {
+         "state": {
+            "name": "Mississippi",
+            "abbr": "MS",
+            "county": "Chickasaw County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "512",
+      "fte": "35.89",
+      "pupilTeacherRatio": "14.27",
+      "numberOfSchools": "1"
+   },
+   {
+      "name": "Choctaw Co School Dist",
+      "location": {
+         "state": {
+            "name": "Mississippi",
+            "abbr": "MS",
+            "county": "Choctaw County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "1278",
+      "fte": "119.33",
+      "pupilTeacherRatio": "10.71",
+      "numberOfSchools": "5"
+   },
+   {
+      "name": "Claiborne Co School Dist",
+      "location": {
+         "state": {
+            "name": "Mississippi",
+            "abbr": "MS",
+            "county": "Claiborne County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "1374",
+      "fte": "81.45",
+      "pupilTeacherRatio": "16.87",
+      "numberOfSchools": "4"
+   },
+   {
+      "name": "Clarksdale Collegiate District",
+      "location": {
+         "state": {
+            "name": "MISSISSIPPI",
+            "abbr": "MS",
+            "county": "Coahoma County"
+         }
+      },
+      "type": "7-Independent Charter District",
+      "grades": {
+         "lowest": "Kindergarten",
+         "highest": "3rd Grade"
+      },
+      "students": "247",
+      "fte": "13.2",
+      "pupilTeacherRatio": "18.71",
+      "numberOfSchools": "1"
+   },
+   {
+      "name": "Clarksdale Municipal School Dist",
+      "location": {
+         "state": {
+            "name": "Mississippi",
+            "abbr": "MS",
+            "county": "Coahoma County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "2294",
+      "fte": "168.68",
+      "pupilTeacherRatio": "13.6",
+      "numberOfSchools": "9"
+   },
+   {
+      "name": "Cleveland School Dist",
+      "location": {
+         "state": {
+            "name": "Mississippi",
+            "abbr": "MS",
+            "county": "Bolivar County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "3352",
+      "fte": "225.37",
+      "pupilTeacherRatio": "14.87",
+      "numberOfSchools": "9"
+   },
+   {
+      "name": "Clinton Public School Dist",
+      "location": {
+         "state": {
+            "name": "Mississippi",
+            "abbr": "MS",
+            "county": "Hinds County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "5306",
+      "fte": "284.14",
+      "pupilTeacherRatio": "18.67",
+      "numberOfSchools": "9"
+   },
+   {
+      "name": "Coahoma County School District",
+      "location": {
+         "state": {
+            "name": "Mississippi",
+            "abbr": "MS",
+            "county": "Coahoma County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Kindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "1173",
+      "fte": "85.23",
+      "pupilTeacherRatio": "13.76",
+      "numberOfSchools": "5"
+   },
+   {
+      "name": "Coahoma Early College",
+      "location": {
+         "state": {
+            "name": "Mississippi",
+            "abbr": "MS",
+            "county": "Coahoma County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "9th Grade",
+         "highest": "12th Grade"
+      },
+      "students": "267",
+      "fte": "15.02",
+      "pupilTeacherRatio": "17.78",
+      "numberOfSchools": "1"
+   },
+   {
+      "name": "Coffeeville School Dist",
+      "location": {
+         "state": {
+            "name": "Mississippi",
+            "abbr": "MS",
+            "county": "Yalobusha County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "464",
+      "fte": "38.02",
+      "pupilTeacherRatio": "12.2",
+      "numberOfSchools": "2"
+   },
+   {
+      "name": "Columbia School District",
+      "location": {
+         "state": {
+            "name": "Mississippi",
+            "abbr": "MS",
+            "county": "Marion County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "1651",
+      "fte": "115.76",
+      "pupilTeacherRatio": "14.26",
+      "numberOfSchools": "4"
+   },
+   {
+      "name": "Columbus Municipal School Dist",
+      "location": {
+         "state": {
+            "name": "Mississippi",
+            "abbr": "MS",
+            "county": "Lowndes County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "3452",
+      "fte": "251.02",
+      "pupilTeacherRatio": "13.75",
+      "numberOfSchools": "9"
+   },
+   {
+      "name": "Copiah Co School Dist",
+      "location": {
+         "state": {
+            "name": "Mississippi",
+            "abbr": "MS",
+            "county": "Copiah County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Kindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "2462",
+      "fte": "150.09",
+      "pupilTeacherRatio": "16.4",
+      "numberOfSchools": "4"
+   },
+   {
+      "name": "Corinth School Dist",
+      "location": {
+         "state": {
+            "name": "Mississippi",
+            "abbr": "MS",
+            "county": "Alcorn County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "2678",
+      "fte": "159.52",
+      "pupilTeacherRatio": "16.79",
+      "numberOfSchools": "3"
+   },
+   {
+      "name": "Covington County School District",
+      "location": {
+         "state": {
+            "name": "Mississippi",
+            "abbr": "MS",
+            "county": "Covington County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Kindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "2724",
+      "fte": "194.22",
+      "pupilTeacherRatio": "14.03",
+      "numberOfSchools": "10"
+   },
+   {
+      "name": "Desoto Co School Dist",
+      "location": {
+         "state": {
+            "name": "Mississippi",
+            "abbr": "MS",
+            "county": "DeSoto County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "34752",
+      "fte": "2119.66",
+      "pupilTeacherRatio": "16.4",
+      "numberOfSchools": "41"
+   },
+   {
+      "name": "East Jasper Consolidated Sch Dist",
+      "location": {
+         "state": {
+            "name": "Mississippi",
+            "abbr": "MS",
+            "county": "Jasper County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "847",
+      "fte": "67.22",
+      "pupilTeacherRatio": "12.6",
+      "numberOfSchools": "3"
+   },
+   {
+      "name": "East Tallahatchie Consol Sch Dist",
+      "location": {
+         "state": {
+            "name": "Mississippi",
+            "abbr": "MS",
+            "county": "Tallahatchie County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "1010",
+      "fte": "80.68",
+      "pupilTeacherRatio": "12.52",
+      "numberOfSchools": "4"
+   },
+   {
+      "name": "Ellisville State School Adm",
+      "location": {
+         "state": {
+            "name": "Mississippi",
+            "abbr": "MS",
+            "county": "Jones County"
+         }
+      },
+      "type": "5-State agency providing elementary and/or secondary level instruction",
+      "grades": {
+         "lowest": "Ungraded",
+         "highest": "Ungraded"
+      },
+      "students": "7",
+      "fte": "3",
+      "pupilTeacherRatio": "2.33",
+      "numberOfSchools": "1"
+   },
+   {
+      "name": "Enterprise School Dist",
+      "location": {
+         "state": {
+            "name": "Mississippi",
+            "abbr": "MS",
+            "county": "Clarke County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "937",
+      "fte": "78.03",
+      "pupilTeacherRatio": "12.01",
+      "numberOfSchools": "3"
+   },
+   {
+      "name": "Forest Municipal School Dist",
+      "location": {
+         "state": {
+            "name": "Mississippi",
+            "abbr": "MS",
+            "county": "Scott County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "1747",
+      "fte": "99.69",
+      "pupilTeacherRatio": "17.52",
+      "numberOfSchools": "3"
+   },
+   {
+      "name": "Forrest County Ag High School",
+      "location": {
+         "state": {
+            "name": "Mississippi",
+            "abbr": "MS",
+            "county": "Forrest County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "9th Grade",
+         "highest": "12th Grade"
+      },
+      "students": "569",
+      "fte": "39.71",
+      "pupilTeacherRatio": "14.33",
+      "numberOfSchools": "1"
+   },
+   {
+      "name": "Forrest County School District",
+      "location": {
+         "state": {
+            "name": "Mississippi",
+            "abbr": "MS",
+            "county": "Forrest County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "2226",
+      "fte": "169.99",
+      "pupilTeacherRatio": "13.09",
+      "numberOfSchools": "6"
+   },
+   {
+      "name": "Franklin Co School Dist",
+      "location": {
+         "state": {
+            "name": "Mississippi",
+            "abbr": "MS",
+            "county": "Franklin County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "1289",
+      "fte": "91.96",
+      "pupilTeacherRatio": "14.02",
+      "numberOfSchools": "5"
+   },
+   {
+      "name": "George Co School Dist",
+      "location": {
+         "state": {
+            "name": "Mississippi",
+            "abbr": "MS",
+            "county": "George County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "4152",
+      "fte": "255.01",
+      "pupilTeacherRatio": "16.28",
+      "numberOfSchools": "9"
+   },
+   {
+      "name": "Greene County School District",
+      "location": {
+         "state": {
+            "name": "Mississippi",
+            "abbr": "MS",
+            "county": "Greene County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Kindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "1755",
+      "fte": "113.03",
+      "pupilTeacherRatio": "15.53",
+      "numberOfSchools": "6"
+   },
+   {
+      "name": "Greenville Public Schools",
+      "location": {
+         "state": {
+            "name": "Mississippi",
+            "abbr": "MS",
+            "county": "Washington County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "4244",
+      "fte": "261.33",
+      "pupilTeacherRatio": "16.24",
+      "numberOfSchools": "12"
+   },
+   {
+      "name": "Greenwood-Leflore Cons Sch District",
+      "location": {
+         "state": {
+            "name": "MISSISSIPPI",
+            "abbr": "MS",
+            "county": "Leflore County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "4717",
+      "fte": "328.95",
+      "pupilTeacherRatio": "14.34",
+      "numberOfSchools": "15"
+   },
+   {
+      "name": "Grenada School Dist",
+      "location": {
+         "state": {
+            "name": "Mississippi",
+            "abbr": "MS",
+            "county": "Grenada County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "4012",
+      "fte": "254.98",
+      "pupilTeacherRatio": "15.73",
+      "numberOfSchools": "5"
+   },
+   {
+      "name": "Gulfport School Dist",
+      "location": {
+         "state": {
+            "name": "Mississippi",
+            "abbr": "MS",
+            "county": "Harrison County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "6576",
+      "fte": "383.65",
+      "pupilTeacherRatio": "17.14",
+      "numberOfSchools": "11"
+   },
+   {
+      "name": "Hancock Co School Dist",
+      "location": {
+         "state": {
+            "name": "Mississippi",
+            "abbr": "MS",
+            "county": "Hancock County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Kindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "4437",
+      "fte": "298.77",
+      "pupilTeacherRatio": "14.85",
+      "numberOfSchools": "7"
+   },
+   {
+      "name": "Harrison Co School Dist",
+      "location": {
+         "state": {
+            "name": "Mississippi",
+            "abbr": "MS",
+            "county": "Harrison County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Kindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "14780",
+      "fte": "894.8",
+      "pupilTeacherRatio": "16.52",
+      "numberOfSchools": "22"
+   },
+   {
+      "name": "Hattiesburg Public School Dist",
+      "location": {
+         "state": {
+            "name": "Mississippi",
+            "abbr": "MS",
+            "county": "Forrest County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "3852",
+      "fte": "291.48",
+      "pupilTeacherRatio": "13.22",
+      "numberOfSchools": "9"
+   },
+   {
+      "name": "Hazlehurst City School District",
+      "location": {
+         "state": {
+            "name": "Mississippi",
+            "abbr": "MS",
+            "county": "Copiah County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "1502",
+      "fte": "85.15",
+      "pupilTeacherRatio": "17.64",
+      "numberOfSchools": "3"
+   },
+   {
+      "name": "Hinds Co School Dist",
+      "location": {
+         "state": {
+            "name": "Mississippi",
+            "abbr": "MS",
+            "county": "Hinds County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "5578",
+      "fte": "332.19",
+      "pupilTeacherRatio": "16.79",
+      "numberOfSchools": "11"
+   },
+   {
+      "name": "Hollandale School Dist",
+      "location": {
+         "state": {
+            "name": "Mississippi",
+            "abbr": "MS",
+            "county": "Washington County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "570",
+      "fte": "45.78",
+      "pupilTeacherRatio": "12.45",
+      "numberOfSchools": "3"
+   },
+   {
+      "name": "Holly Springs School Dist",
+      "location": {
+         "state": {
+            "name": "Mississippi",
+            "abbr": "MS",
+            "county": "Marshall County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "1184",
+      "fte": "73.06",
+      "pupilTeacherRatio": "16.21",
+      "numberOfSchools": "5"
+   },
+   {
+      "name": "Holmes Co Consolidated School Dist",
+      "location": {
+         "state": {
+            "name": "MISSISSIPPI",
+            "abbr": "MS",
+            "county": "Holmes County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "2965",
+      "fte": "201.69",
+      "pupilTeacherRatio": "14.7",
+      "numberOfSchools": "8"
+   },
+   {
+      "name": "Houston  School Dist",
+      "location": {
+         "state": {
+            "name": "Mississippi",
+            "abbr": "MS",
+            "county": "Chickasaw County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "1764",
+      "fte": "128.89",
+      "pupilTeacherRatio": "13.69",
+      "numberOfSchools": "6"
+   },
+   {
+      "name": "Hudspeth Center Administration",
+      "location": {
+         "state": {
+            "name": "Mississippi",
+            "abbr": "MS",
+            "county": "Rankin County"
+         }
+      },
+      "type": "5-State agency providing elementary and/or secondary level instruction",
+      "grades": {
+         "lowest": "Ungraded",
+         "highest": "Ungraded"
+      },
+      "students": "5",
+      "fte": "2",
+      "pupilTeacherRatio": "2.5",
+      "numberOfSchools": "1"
+   },
+   {
+      "name": "Humphreys Co School Dist",
+      "location": {
+         "state": {
+            "name": "Mississippi",
+            "abbr": "MS",
+            "county": "Humphreys County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Kindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "1486",
+      "fte": "88.73",
+      "pupilTeacherRatio": "16.75",
+      "numberOfSchools": "4"
+   },
+   {
+      "name": "Itawamba County School Dist",
+      "location": {
+         "state": {
+            "name": "Mississippi",
+            "abbr": "MS",
+            "county": "Itawamba County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Kindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "3468",
+      "fte": "258.16",
+      "pupilTeacherRatio": "13.43",
+      "numberOfSchools": "8"
+   },
+   {
+      "name": "Jackson Co School Dist",
+      "location": {
+         "state": {
+            "name": "Mississippi",
+            "abbr": "MS",
+            "county": "Jackson County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "9204",
+      "fte": "560.55",
+      "pupilTeacherRatio": "16.42",
+      "numberOfSchools": "14"
+   },
+   {
+      "name": "Jackson Public School District",
+      "location": {
+         "state": {
+            "name": "Mississippi",
+            "abbr": "MS",
+            "county": "Hinds County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "22510",
+      "fte": "1539.97",
+      "pupilTeacherRatio": "14.62",
+      "numberOfSchools": "58"
+   },
+   {
+      "name": "Jefferson Co School Dist",
+      "location": {
+         "state": {
+            "name": "Mississippi",
+            "abbr": "MS",
+            "county": "Jefferson County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "1102",
+      "fte": "77.32",
+      "pupilTeacherRatio": "14.25",
+      "numberOfSchools": "6"
+   },
+   {
+      "name": "Jefferson Davis Co School Dist",
+      "location": {
+         "state": {
+            "name": "Mississippi",
+            "abbr": "MS",
+            "county": "Jefferson Davis County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Kindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "1362",
+      "fte": "102.52",
+      "pupilTeacherRatio": "13.29",
+      "numberOfSchools": "4"
+   },
+   {
+      "name": "Joel E Smilow Collegiate",
+      "location": {
+         "state": {
+            "name": "MISSISSIPPI",
+            "abbr": "MS",
+            "county": "Hinds County"
+         }
+      },
+      "type": "7-Independent Charter District",
+      "grades": {
+         "lowest": "Kindergarten",
+         "highest": "2nd Grade"
+      },
+      "students": "357",
+      "fte": "8.04",
+      "pupilTeacherRatio": "44.4",
+      "numberOfSchools": "1"
+   },
+   {
+      "name": "Joel E. Smillow Prep",
+      "location": {
+         "state": {
+            "name": "MISSISSIPPI",
+            "abbr": "MS",
+            "county": "Hinds County"
+         }
+      },
+      "type": "7-Independent Charter District",
+      "grades": {
+         "lowest": "5th Grade",
+         "highest": "8th Grade"
+      },
+      "students": "564",
+      "fte": "21.81",
+      "pupilTeacherRatio": "25.86",
+      "numberOfSchools": "1"
+   },
+   {
+      "name": "Jones Co School Dist",
+      "location": {
+         "state": {
+            "name": "Mississippi",
+            "abbr": "MS",
+            "county": "Jones County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "8837",
+      "fte": "583.45",
+      "pupilTeacherRatio": "15.15",
+      "numberOfSchools": "11"
+   },
+   {
+      "name": "Kemper Co School Dist",
+      "location": {
+         "state": {
+            "name": "Mississippi",
+            "abbr": "MS",
+            "county": "Kemper County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "929",
+      "fte": "82.32",
+      "pupilTeacherRatio": "11.29",
+      "numberOfSchools": "5"
+   },
+   {
+      "name": "Kosciusko School District",
+      "location": {
+         "state": {
+            "name": "Mississippi",
+            "abbr": "MS",
+            "county": "Attala County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "2292",
+      "fte": "158.12",
+      "pupilTeacherRatio": "14.5",
+      "numberOfSchools": "6"
+   },
+   {
+      "name": "Lafayette Co School Dist",
+      "location": {
+         "state": {
+            "name": "Mississippi",
+            "abbr": "MS",
+            "county": "Lafayette County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "2912",
+      "fte": "200.48",
+      "pupilTeacherRatio": "14.53",
+      "numberOfSchools": "5"
+   },
+   {
+      "name": "Lamar County School District",
+      "location": {
+         "state": {
+            "name": "Mississippi",
+            "abbr": "MS",
+            "county": "Lamar County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "10718",
+      "fte": "717.08",
+      "pupilTeacherRatio": "14.95",
+      "numberOfSchools": "19"
+   },
+   {
+      "name": "Lauderdale Co School Dist",
+      "location": {
+         "state": {
+            "name": "Mississippi",
+            "abbr": "MS",
+            "county": "Lauderdale County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Kindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "6179",
+      "fte": "415.45",
+      "pupilTeacherRatio": "14.87",
+      "numberOfSchools": "13"
+   },
+   {
+      "name": "Laurel School District",
+      "location": {
+         "state": {
+            "name": "Mississippi",
+            "abbr": "MS",
+            "county": "Jones County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "3091",
+      "fte": "216.93",
+      "pupilTeacherRatio": "14.25",
+      "numberOfSchools": "8"
+   },
+   {
+      "name": "Lawrence Co School Dist",
+      "location": {
+         "state": {
+            "name": "Mississippi",
+            "abbr": "MS",
+            "county": "Lawrence County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Kindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "2027",
+      "fte": "126.88",
+      "pupilTeacherRatio": "15.98",
+      "numberOfSchools": "6"
+   },
+   {
+      "name": "Leake Co School Dist",
+      "location": {
+         "state": {
+            "name": "Mississippi",
+            "abbr": "MS",
+            "county": "Leake County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Kindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "2775",
+      "fte": "174.69",
+      "pupilTeacherRatio": "15.89",
+      "numberOfSchools": "6"
+   },
+   {
+      "name": "Lee County School District",
+      "location": {
+         "state": {
+            "name": "Mississippi",
+            "abbr": "MS",
+            "county": "Lee County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Kindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "6720",
+      "fte": "461.65",
+      "pupilTeacherRatio": "14.56",
+      "numberOfSchools": "14"
+   },
+   {
+      "name": "Leland School Dist",
+      "location": {
+         "state": {
+            "name": "Mississippi",
+            "abbr": "MS",
+            "county": "Washington County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "785",
+      "fte": "58.92",
+      "pupilTeacherRatio": "13.32",
+      "numberOfSchools": "4"
+   },
+   {
+      "name": "Lincoln County School District",
+      "location": {
+         "state": {
+            "name": "Mississippi",
+            "abbr": "MS",
+            "county": "Lincoln County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Kindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "2950",
+      "fte": "193.08",
+      "pupilTeacherRatio": "15.28",
+      "numberOfSchools": "4"
+   },
+   {
+      "name": "Long Beach School Dist",
+      "location": {
+         "state": {
+            "name": "Mississippi",
+            "abbr": "MS",
+            "county": "Harrison County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Kindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "3115",
+      "fte": "208.87",
+      "pupilTeacherRatio": "14.91",
+      "numberOfSchools": "5"
+   },
+   {
+      "name": "Louisville Municipal School Dist",
+      "location": {
+         "state": {
+            "name": "Mississippi",
+            "abbr": "MS",
+            "county": "Winston County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "2728",
+      "fte": "190.79",
+      "pupilTeacherRatio": "14.3",
+      "numberOfSchools": "7"
+   },
+   {
+      "name": "Lowndes Co School Dist",
+      "location": {
+         "state": {
+            "name": "Mississippi",
+            "abbr": "MS",
+            "county": "Lowndes County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "5528",
+      "fte": "370.86",
+      "pupilTeacherRatio": "14.91",
+      "numberOfSchools": "11"
+   },
+   {
+      "name": "Madison Co School Dist",
+      "location": {
+         "state": {
+            "name": "Mississippi",
+            "abbr": "MS",
+            "county": "Madison County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "13310",
+      "fte": "940.31",
+      "pupilTeacherRatio": "14.15",
+      "numberOfSchools": "23"
+   },
+   {
+      "name": "Marion Co School Dist",
+      "location": {
+         "state": {
+            "name": "Mississippi",
+            "abbr": "MS",
+            "county": "Marion County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "2041",
+      "fte": "146.14",
+      "pupilTeacherRatio": "13.97",
+      "numberOfSchools": "7"
+   },
+   {
+      "name": "Marshall Co School Dist",
+      "location": {
+         "state": {
+            "name": "Mississippi",
+            "abbr": "MS",
+            "county": "Marshall County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Kindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "2856",
+      "fte": "193.86",
+      "pupilTeacherRatio": "14.73",
+      "numberOfSchools": "9"
+   },
+   {
+      "name": "Mccomb School District",
+      "location": {
+         "state": {
+            "name": "Mississippi",
+            "abbr": "MS",
+            "county": "Pike County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "2411",
+      "fte": "160.47",
+      "pupilTeacherRatio": "15.02",
+      "numberOfSchools": "8"
+   },
+   {
+      "name": "Mdhs Division of Youth Services",
+      "location": {
+         "state": {
+            "name": "Mississippi",
+            "abbr": "MS",
+            "county": "Hinds County"
+         }
+      },
+      "type": "5-State agency providing elementary and/or secondary level instruction",
+      "grades": {
+         "lowest": "6th Grade",
+         "highest": "12th Grade"
+      },
+      "students": "46",
+      "fte": "20.01",
+      "pupilTeacherRatio": "2.3",
+      "numberOfSchools": "1"
+   },
+   {
+      "name": "Meridian Public Schools",
+      "location": {
+         "state": {
+            "name": "Mississippi",
+            "abbr": "MS",
+            "county": "Lauderdale County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "5143",
+      "fte": "369.76",
+      "pupilTeacherRatio": "13.91",
+      "numberOfSchools": "12"
+   },
+   {
+      "name": "Midtown Public Charter School",
+      "location": {
+         "state": {
+            "name": "MISSISSIPPI",
+            "abbr": "MS",
+            "county": "Hinds County"
+         }
+      },
+      "type": "7-Independent Charter District",
+      "grades": {
+         "lowest": "5th Grade",
+         "highest": "8th Grade"
+      },
+      "students": "262",
+      "fte": "29.23",
+      "pupilTeacherRatio": "8.96",
+      "numberOfSchools": "1"
+   },
+   {
+      "name": "Monroe Co School Dist",
+      "location": {
+         "state": {
+            "name": "Mississippi",
+            "abbr": "MS",
+            "county": "Monroe County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Kindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "2224",
+      "fte": "177.85",
+      "pupilTeacherRatio": "12.5",
+      "numberOfSchools": "5"
+   },
+   {
+      "name": "Moss Point Separate School Dist",
+      "location": {
+         "state": {
+            "name": "Mississippi",
+            "abbr": "MS",
+            "county": "Jackson County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "1684",
+      "fte": "126.81",
+      "pupilTeacherRatio": "13.28",
+      "numberOfSchools": "6"
+   },
+   {
+      "name": "Ms School for Math and Science",
+      "location": {
+         "state": {
+            "name": "Mississippi",
+            "abbr": "MS",
+            "county": "Lowndes County"
+         }
+      },
+      "type": "5-State agency providing elementary and/or secondary level instruction",
+      "grades": {
+         "lowest": "11th Grade",
+         "highest": "12th Grade"
+      },
+      "students": "238",
+      "fte": "21.78",
+      "pupilTeacherRatio": "10.93",
+      "numberOfSchools": "1"
+   },
+   {
+      "name": "Ms School for the Arts",
+      "location": {
+         "state": {
+            "name": "Mississippi",
+            "abbr": "MS",
+            "county": "Lincoln County"
+         }
+      },
+      "type": "5-State agency providing elementary and/or secondary level instruction",
+      "grades": {
+         "lowest": "11th Grade",
+         "highest": "12th Grade"
+      },
+      "students": "111",
+      "fte": "8.66",
+      "pupilTeacherRatio": "12.82",
+      "numberOfSchools": "1"
+   },
+   {
+      "name": "Ms Schs for the Blind and Deaf",
+      "location": {
+         "state": {
+            "name": "Mississippi",
+            "abbr": "MS",
+            "county": "Hinds County"
+         }
+      },
+      "type": "5-State agency providing elementary and/or secondary level instruction",
+      "grades": {
+         "lowest": "Kindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "131",
+      "fte": "36.81",
+      "pupilTeacherRatio": "3.56",
+      "numberOfSchools": "2"
+   },
+   {
+      "name": "Natchez-Adams School District",
+      "location": {
+         "state": {
+            "name": "Mississippi",
+            "abbr": "MS",
+            "county": "Adams County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "3104",
+      "fte": "208.25",
+      "pupilTeacherRatio": "14.91",
+      "numberOfSchools": "10"
+   },
+   {
+      "name": "Neshoba County School District",
+      "location": {
+         "state": {
+            "name": "Mississippi",
+            "abbr": "MS",
+            "county": "Neshoba County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "3261",
+      "fte": "185.27",
+      "pupilTeacherRatio": "17.6",
+      "numberOfSchools": "3"
+   },
+   {
+      "name": "Nettleton School Dist",
+      "location": {
+         "state": {
+            "name": "Mississippi",
+            "abbr": "MS",
+            "county": "Lee County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Kindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "1269",
+      "fte": "97.6",
+      "pupilTeacherRatio": "13",
+      "numberOfSchools": "4"
+   },
+   {
+      "name": "New Albany Public Schools",
+      "location": {
+         "state": {
+            "name": "Mississippi",
+            "abbr": "MS",
+            "county": "Union County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "2187",
+      "fte": "153.28",
+      "pupilTeacherRatio": "14.27",
+      "numberOfSchools": "5"
+   },
+   {
+      "name": "Newton County School District",
+      "location": {
+         "state": {
+            "name": "Mississippi",
+            "abbr": "MS",
+            "county": "Newton County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "1738",
+      "fte": "125.92",
+      "pupilTeacherRatio": "13.8",
+      "numberOfSchools": "4"
+   },
+   {
+      "name": "Newton Municipal School District",
+      "location": {
+         "state": {
+            "name": "Mississippi",
+            "abbr": "MS",
+            "county": "Newton County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "899",
+      "fte": "69.88",
+      "pupilTeacherRatio": "12.86",
+      "numberOfSchools": "4"
+   },
+   {
+      "name": "North Bolivar Cons School Dist",
+      "location": {
+         "state": {
+            "name": "MISSISSIPPI",
+            "abbr": "MS",
+            "county": "Bolivar County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Kindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "920",
+      "fte": "63.46",
+      "pupilTeacherRatio": "14.5",
+      "numberOfSchools": "3"
+   },
+   {
+      "name": "North Panola School District",
+      "location": {
+         "state": {
+            "name": "Mississippi",
+            "abbr": "MS",
+            "county": "Panola County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "1405",
+      "fte": "101.95",
+      "pupilTeacherRatio": "13.78",
+      "numberOfSchools": "6"
+   },
+   {
+      "name": "North Pike School Dist",
+      "location": {
+         "state": {
+            "name": "Mississippi",
+            "abbr": "MS",
+            "county": "Pike County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Kindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "2355",
+      "fte": "152.63",
+      "pupilTeacherRatio": "15.43",
+      "numberOfSchools": "5"
+   },
+   {
+      "name": "North Tippah School Dist",
+      "location": {
+         "state": {
+            "name": "Mississippi",
+            "abbr": "MS",
+            "county": "Tippah County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "1274",
+      "fte": "83.38",
+      "pupilTeacherRatio": "15.28",
+      "numberOfSchools": "4"
+   },
+   {
+      "name": "Noxubee County School District",
+      "location": {
+         "state": {
+            "name": "Mississippi",
+            "abbr": "MS",
+            "county": "Noxubee County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "1458",
+      "fte": "90.1",
+      "pupilTeacherRatio": "16.18",
+      "numberOfSchools": "4"
+   },
+   {
+      "name": "Ocean Springs School Dist",
+      "location": {
+         "state": {
+            "name": "Mississippi",
+            "abbr": "MS",
+            "county": "Jackson County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Kindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "6041",
+      "fte": "414.53",
+      "pupilTeacherRatio": "14.57",
+      "numberOfSchools": "7"
+   },
+   {
+      "name": "Okolona Separate School Dist",
+      "location": {
+         "state": {
+            "name": "Mississippi",
+            "abbr": "MS",
+            "county": "Chickasaw County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Kindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "570",
+      "fte": "46.57",
+      "pupilTeacherRatio": "12.24",
+      "numberOfSchools": "4"
+   },
+   {
+      "name": "Oxford School District",
+      "location": {
+         "state": {
+            "name": "Mississippi",
+            "abbr": "MS",
+            "county": "Lafayette County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "4492",
+      "fte": "285.94",
+      "pupilTeacherRatio": "15.71",
+      "numberOfSchools": "7"
+   },
+   {
+      "name": "Pascagoula-Gautier School District",
+      "location": {
+         "state": {
+            "name": "Mississippi",
+            "abbr": "MS",
+            "county": "Jackson County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "6787",
+      "fte": "514.93",
+      "pupilTeacherRatio": "13.18",
+      "numberOfSchools": "19"
+   },
+   {
+      "name": "Pass Christian Public School Dist",
+      "location": {
+         "state": {
+            "name": "Mississippi",
+            "abbr": "MS",
+            "county": "Harrison County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "2067",
+      "fte": "133.72",
+      "pupilTeacherRatio": "15.46",
+      "numberOfSchools": "4"
+   },
+   {
+      "name": "Pearl Public School District",
+      "location": {
+         "state": {
+            "name": "Mississippi",
+            "abbr": "MS",
+            "county": "Rankin County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "4366",
+      "fte": "268.61",
+      "pupilTeacherRatio": "16.25",
+      "numberOfSchools": "5"
+   },
+   {
+      "name": "Pearl River Co School Dist",
+      "location": {
+         "state": {
+            "name": "Mississippi",
+            "abbr": "MS",
+            "county": "Pearl River County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Kindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "3321",
+      "fte": "197.43",
+      "pupilTeacherRatio": "16.82",
+      "numberOfSchools": "4"
+   },
+   {
+      "name": "Perry Co School Dist",
+      "location": {
+         "state": {
+            "name": "Mississippi",
+            "abbr": "MS",
+            "county": "Perry County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Kindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "994",
+      "fte": "89.7",
+      "pupilTeacherRatio": "11.08",
+      "numberOfSchools": "6"
+   },
+   {
+      "name": "Petal School Dist",
+      "location": {
+         "state": {
+            "name": "Mississippi",
+            "abbr": "MS",
+            "county": "Forrest County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "4169",
+      "fte": "286.97",
+      "pupilTeacherRatio": "14.53",
+      "numberOfSchools": "5"
+   },
+   {
+      "name": "Philadelphia Public School Dist",
+      "location": {
+         "state": {
+            "name": "Mississippi",
+            "abbr": "MS",
+            "county": "Neshoba County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "919",
+      "fte": "61.41",
+      "pupilTeacherRatio": "14.96",
+      "numberOfSchools": "2"
+   },
+   {
+      "name": "Picayune School District",
+      "location": {
+         "state": {
+            "name": "Mississippi",
+            "abbr": "MS",
+            "county": "Pearl River County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "3482",
+      "fte": "243.55",
+      "pupilTeacherRatio": "14.3",
+      "numberOfSchools": "11"
+   },
+   {
+      "name": "Pontotoc City Schools",
+      "location": {
+         "state": {
+            "name": "Mississippi",
+            "abbr": "MS",
+            "county": "Pontotoc County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Kindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "2330",
+      "fte": "159.52",
+      "pupilTeacherRatio": "14.61",
+      "numberOfSchools": "5"
+   },
+   {
+      "name": "Pontotoc Co School Dist",
+      "location": {
+         "state": {
+            "name": "Mississippi",
+            "abbr": "MS",
+            "county": "Pontotoc County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Kindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "3632",
+      "fte": "244.97",
+      "pupilTeacherRatio": "14.83",
+      "numberOfSchools": "9"
+   },
+   {
+      "name": "Poplarville Separate School Dist",
+      "location": {
+         "state": {
+            "name": "Mississippi",
+            "abbr": "MS",
+            "county": "Pearl River County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Kindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "1839",
+      "fte": "144.18",
+      "pupilTeacherRatio": "12.75",
+      "numberOfSchools": "5"
+   },
+   {
+      "name": "Prentiss Co School Dist",
+      "location": {
+         "state": {
+            "name": "Mississippi",
+            "abbr": "MS",
+            "county": "Prentiss County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "2376",
+      "fte": "200.96",
+      "pupilTeacherRatio": "11.82",
+      "numberOfSchools": "7"
+   },
+   {
+      "name": "Quitman Co School Dist",
+      "location": {
+         "state": {
+            "name": "Mississippi",
+            "abbr": "MS",
+            "county": "Quitman County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "973",
+      "fte": "87.14",
+      "pupilTeacherRatio": "11.17",
+      "numberOfSchools": "4"
+   },
+   {
+      "name": "Quitman School Dist",
+      "location": {
+         "state": {
+            "name": "Mississippi",
+            "abbr": "MS",
+            "county": "Clarke County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "1744",
+      "fte": "126.09",
+      "pupilTeacherRatio": "13.83",
+      "numberOfSchools": "6"
+   },
+   {
+      "name": "Rankin Co School Dist",
+      "location": {
+         "state": {
+            "name": "Mississippi",
+            "abbr": "MS",
+            "county": "Rankin County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "19160",
+      "fte": "1331.71",
+      "pupilTeacherRatio": "14.39",
+      "numberOfSchools": "28"
+   },
+   {
+      "name": "Reimagine Prep",
+      "location": {
+         "state": {
+            "name": "MISSISSIPPI",
+            "abbr": "MS",
+            "county": "Hinds County"
+         }
+      },
+      "type": "7-Independent Charter District",
+      "grades": {
+         "lowest": "5th Grade",
+         "highest": "8th Grade"
+      },
+      "students": "563",
+      "fte": "24.31",
+      "pupilTeacherRatio": "23.16",
+      "numberOfSchools": "1"
+   },
+   {
+      "name": "Richton School Dist",
+      "location": {
+         "state": {
+            "name": "Mississippi",
+            "abbr": "MS",
+            "county": "Perry County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Kindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "641",
+      "fte": "57.78",
+      "pupilTeacherRatio": "11.09",
+      "numberOfSchools": "2"
+   },
+   {
+      "name": "Roger Amos Mcmurtry Adm",
+      "location": {
+         "state": {
+            "name": "Mississippi",
+            "abbr": "MS",
+            "county": "Harrison County"
+         }
+      },
+      "type": "5-State agency providing elementary and/or secondary level instruction",
+      "grades": {
+         "lowest": "6th Grade",
+         "highest": "12th Grade"
+      },
+      "students": "31",
+      "fte": "3.39",
+      "pupilTeacherRatio": "9.14",
+      "numberOfSchools": "1"
+   },
+   {
+      "name": "Scott Co School Dist",
+      "location": {
+         "state": {
+            "name": "Mississippi",
+            "abbr": "MS",
+            "county": "Scott County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Kindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "4012",
+      "fte": "277.44",
+      "pupilTeacherRatio": "14.46",
+      "numberOfSchools": "9"
+   },
+   {
+      "name": "Senatobia Municipal School Dist",
+      "location": {
+         "state": {
+            "name": "Mississippi",
+            "abbr": "MS",
+            "county": "Tate County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "1649",
+      "fte": "114.66",
+      "pupilTeacherRatio": "14.38",
+      "numberOfSchools": "4"
+   },
+   {
+      "name": "Simpson Co School Dist",
+      "location": {
+         "state": {
+            "name": "Mississippi",
+            "abbr": "MS",
+            "county": "Simpson County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Kindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "3540",
+      "fte": "231.79",
+      "pupilTeacherRatio": "15.27",
+      "numberOfSchools": "9"
+   },
+   {
+      "name": "Smith Co School Dist",
+      "location": {
+         "state": {
+            "name": "Mississippi",
+            "abbr": "MS",
+            "county": "Smith County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Kindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "2616",
+      "fte": "173.61",
+      "pupilTeacherRatio": "15.07",
+      "numberOfSchools": "6"
+   },
+   {
+      "name": "South Delta School District",
+      "location": {
+         "state": {
+            "name": "Mississippi",
+            "abbr": "MS",
+            "county": "Sharkey County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "759",
+      "fte": "57.68",
+      "pupilTeacherRatio": "13.16",
+      "numberOfSchools": "4"
+   },
+   {
+      "name": "South Panola School District",
+      "location": {
+         "state": {
+            "name": "Mississippi",
+            "abbr": "MS",
+            "county": "Panola County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "4337",
+      "fte": "285.24",
+      "pupilTeacherRatio": "15.2",
+      "numberOfSchools": "6"
+   },
+   {
+      "name": "South Pike School Dist",
+      "location": {
+         "state": {
+            "name": "Mississippi",
+            "abbr": "MS",
+            "county": "Pike County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "1726",
+      "fte": "120.8",
+      "pupilTeacherRatio": "14.29",
+      "numberOfSchools": "7"
+   },
+   {
+      "name": "South Tippah School Dist",
+      "location": {
+         "state": {
+            "name": "Mississippi",
+            "abbr": "MS",
+            "county": "Tippah County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "2660",
+      "fte": "211.43",
+      "pupilTeacherRatio": "12.58",
+      "numberOfSchools": "6"
+   },
+   {
+      "name": "Starkville- Oktibbeha Cons Dist",
+      "location": {
+         "state": {
+            "name": "MISSISSIPPI",
+            "abbr": "MS",
+            "county": "Oktibbeha County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "5061",
+      "fte": "310.62",
+      "pupilTeacherRatio": "16.29",
+      "numberOfSchools": "8"
+   },
+   {
+      "name": "Stone Co School Dist",
+      "location": {
+         "state": {
+            "name": "Mississippi",
+            "abbr": "MS",
+            "county": "Stone County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Kindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "2544",
+      "fte": "168.46",
+      "pupilTeacherRatio": "15.1",
+      "numberOfSchools": "4"
+   },
+   {
+      "name": "Stovall Sped Complex Administration",
+      "location": {
+         "state": {
+            "name": "Mississippi",
+            "abbr": "MS",
+            "county": "Lafayette County"
+         }
+      },
+      "type": "5-State agency providing elementary and/or secondary level instruction",
+      "grades": {
+         "lowest": "4th Grade",
+         "highest": "12th Grade"
+      },
+      "students": "0",
+      "fte": "0",
+      "pupilTeacherRatio": "†",
+      "numberOfSchools": "1"
+   },
+   {
+      "name": "Sunflower Cty Cons School District",
+      "location": {
+         "state": {
+            "name": "MISSISSIPPI",
+            "abbr": "MS",
+            "county": "Sunflower County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "3455",
+      "fte": "254.86",
+      "pupilTeacherRatio": "13.56",
+      "numberOfSchools": "14"
+   },
+   {
+      "name": "Tate Co School Dist",
+      "location": {
+         "state": {
+            "name": "Mississippi",
+            "abbr": "MS",
+            "county": "Tate County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Kindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "2264",
+      "fte": "157.16",
+      "pupilTeacherRatio": "14.41",
+      "numberOfSchools": "7"
+   },
+   {
+      "name": "Tishomingo Co Sp Mun Sch Dist",
+      "location": {
+         "state": {
+            "name": "Mississippi",
+            "abbr": "MS",
+            "county": "Tishomingo County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Kindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "2984",
+      "fte": "222.26",
+      "pupilTeacherRatio": "13.43",
+      "numberOfSchools": "8"
+   },
+   {
+      "name": "Tunica County School District",
+      "location": {
+         "state": {
+            "name": "Mississippi",
+            "abbr": "MS",
+            "county": "Tunica County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "1883",
+      "fte": "134.98",
+      "pupilTeacherRatio": "13.95",
+      "numberOfSchools": "7"
+   },
+   {
+      "name": "Tupelo Public School Dist",
+      "location": {
+         "state": {
+            "name": "Mississippi",
+            "abbr": "MS",
+            "county": "Lee County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "7002",
+      "fte": "506.59",
+      "pupilTeacherRatio": "13.82",
+      "numberOfSchools": "14"
+   },
+   {
+      "name": "Union Co School Dist",
+      "location": {
+         "state": {
+            "name": "Mississippi",
+            "abbr": "MS",
+            "county": "Union County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "2931",
+      "fte": "190.26",
+      "pupilTeacherRatio": "15.41",
+      "numberOfSchools": "4"
+   },
+   {
+      "name": "Union Public School Dist",
+      "location": {
+         "state": {
+            "name": "Mississippi",
+            "abbr": "MS",
+            "county": "Newton County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "987",
+      "fte": "70.85",
+      "pupilTeacherRatio": "13.93",
+      "numberOfSchools": "3"
+   },
+   {
+      "name": "Vicksburg Warren School Dist",
+      "location": {
+         "state": {
+            "name": "Mississippi",
+            "abbr": "MS",
+            "county": "Warren County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "7556",
+      "fte": "544.14",
+      "pupilTeacherRatio": "13.89",
+      "numberOfSchools": "17"
+   },
+   {
+      "name": "Walthall Co School Dist",
+      "location": {
+         "state": {
+            "name": "Mississippi",
+            "abbr": "MS",
+            "county": "Walthall County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Kindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "1812",
+      "fte": "139.18",
+      "pupilTeacherRatio": "13.02",
+      "numberOfSchools": "6"
+   },
+   {
+      "name": "Water Valley School District",
+      "location": {
+         "state": {
+            "name": "Mississippi",
+            "abbr": "MS",
+            "county": "Yalobusha County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "1040",
+      "fte": "71.98",
+      "pupilTeacherRatio": "14.45",
+      "numberOfSchools": "2"
+   },
+   {
+      "name": "Wayne Co School Dist",
+      "location": {
+         "state": {
+            "name": "Mississippi",
+            "abbr": "MS",
+            "county": "Wayne County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "3340",
+      "fte": "254.34",
+      "pupilTeacherRatio": "13.13",
+      "numberOfSchools": "8"
+   },
+   {
+      "name": "Webster Co School Dist",
+      "location": {
+         "state": {
+            "name": "Mississippi",
+            "abbr": "MS",
+            "county": "Webster County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "1797",
+      "fte": "116.89",
+      "pupilTeacherRatio": "15.37",
+      "numberOfSchools": "5"
+   },
+   {
+      "name": "West Bolivar Cons School Dist",
+      "location": {
+         "state": {
+            "name": "MISSISSIPPI",
+            "abbr": "MS",
+            "county": "Bolivar County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Kindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "1110",
+      "fte": "103.13",
+      "pupilTeacherRatio": "10.76",
+      "numberOfSchools": "7"
+   },
+   {
+      "name": "West Jasper Consolidated Schools",
+      "location": {
+         "state": {
+            "name": "Mississippi",
+            "abbr": "MS",
+            "county": "Jasper County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Kindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "1395",
+      "fte": "98.01",
+      "pupilTeacherRatio": "14.23",
+      "numberOfSchools": "4"
+   },
+   {
+      "name": "West Point Consolidated School Dist",
+      "location": {
+         "state": {
+            "name": "MISSISSIPPI",
+            "abbr": "MS",
+            "county": "Clay County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "2944",
+      "fte": "196.51",
+      "pupilTeacherRatio": "14.98",
+      "numberOfSchools": "8"
+   },
+   {
+      "name": "West Tallahatchie School District",
+      "location": {
+         "state": {
+            "name": "Mississippi",
+            "abbr": "MS",
+            "county": "Tallahatchie County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Kindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "652",
+      "fte": "50.28",
+      "pupilTeacherRatio": "12.97",
+      "numberOfSchools": "3"
+   },
+   {
+      "name": "Western Line School District",
+      "location": {
+         "state": {
+            "name": "Mississippi",
+            "abbr": "MS",
+            "county": "Washington County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "1928",
+      "fte": "131.55",
+      "pupilTeacherRatio": "14.66",
+      "numberOfSchools": "4"
+   },
+   {
+      "name": "Wilkinson Co School Dist",
+      "location": {
+         "state": {
+            "name": "Mississippi",
+            "abbr": "MS",
+            "county": "Wilkinson County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "1083",
+      "fte": "79.41",
+      "pupilTeacherRatio": "13.64",
+      "numberOfSchools": "5"
+   },
+   {
+      "name": "Winona-Montgomery Consolidated",
+      "location": {
+         "state": {
+            "name": "MISSISSIPPI",
+            "abbr": "MS",
+            "county": "Montgomery County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "1270",
+      "fte": "87.85",
+      "pupilTeacherRatio": "14.46",
+      "numberOfSchools": "3"
+   },
+   {
+      "name": "Yazoo City Municipal School Dist",
+      "location": {
+         "state": {
+            "name": "Mississippi",
+            "abbr": "MS",
+            "county": "Yazoo County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "2337",
+      "fte": "150.32",
+      "pupilTeacherRatio": "15.55",
+      "numberOfSchools": "6"
+   },
+   {
+      "name": "Yazoo Co School Dist",
+      "location": {
+         "state": {
+            "name": "Mississippi",
+            "abbr": "MS",
+            "county": "Yazoo County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "1500",
+      "fte": "97.91",
+      "pupilTeacherRatio": "15.32",
+      "numberOfSchools": "4"
+   }
+]

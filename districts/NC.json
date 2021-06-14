@@ -1,0 +1,6766 @@
+[
+   {
+      "name": "A.c.e. Academy",
+      "location": {
+         "state": {
+            "name": "North Carolina",
+            "abbr": "NC",
+            "county": "Cabarrus County"
+         }
+      },
+      "type": "7-Independent Charter District",
+      "grades": {
+         "lowest": "Kindergarten",
+         "highest": "8th Grade"
+      },
+      "students": "402",
+      "fte": "26.52",
+      "pupilTeacherRatio": "15.16",
+      "numberOfSchools": "1"
+   },
+   {
+      "name": "Achievement Charter Academy",
+      "location": {
+         "state": {
+            "name": "NORTH CAROLINA",
+            "abbr": "NC",
+            "county": "Harnett County"
+         }
+      },
+      "type": "7-Independent Charter District",
+      "grades": {
+         "lowest": "–",
+         "highest": "–"
+      },
+      "students": "†",
+      "fte": "†",
+      "pupilTeacherRatio": "†",
+      "numberOfSchools": "0"
+   },
+   {
+      "name": "Alamance Community School",
+      "location": {
+         "state": {
+            "name": "NORTH CAROLINA",
+            "abbr": "NC",
+            "county": "Alamance County"
+         }
+      },
+      "type": "7-Independent Charter District",
+      "grades": {
+         "lowest": "–",
+         "highest": "–"
+      },
+      "students": "†",
+      "fte": "†",
+      "pupilTeacherRatio": "†",
+      "numberOfSchools": "0"
+   },
+   {
+      "name": "Alamance-Burlington Schools",
+      "location": {
+         "state": {
+            "name": "North Carolina",
+            "abbr": "NC",
+            "county": "Alamance County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "13th Grade"
+      },
+      "students": "23148",
+      "fte": "1495.67",
+      "pupilTeacherRatio": "15.48",
+      "numberOfSchools": "36"
+   },
+   {
+      "name": "Alexander County Schools",
+      "location": {
+         "state": {
+            "name": "North Carolina",
+            "abbr": "NC",
+            "county": "Alexander County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "4826",
+      "fte": "304.58",
+      "pupilTeacherRatio": "15.84",
+      "numberOfSchools": "11"
+   },
+   {
+      "name": "Alleghany County Schools",
+      "location": {
+         "state": {
+            "name": "North Carolina",
+            "abbr": "NC",
+            "county": "Alleghany County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "1452",
+      "fte": "111.89",
+      "pupilTeacherRatio": "12.98",
+      "numberOfSchools": "4"
+   },
+   {
+      "name": "Alpha Academy",
+      "location": {
+         "state": {
+            "name": "North Carolina",
+            "abbr": "NC",
+            "county": "Cumberland County"
+         }
+      },
+      "type": "7-Independent Charter District",
+      "grades": {
+         "lowest": "Kindergarten",
+         "highest": "10th Grade"
+      },
+      "students": "913",
+      "fte": "45.33",
+      "pupilTeacherRatio": "20.14",
+      "numberOfSchools": "1"
+   },
+   {
+      "name": "American Renaissance School",
+      "location": {
+         "state": {
+            "name": "North Carolina",
+            "abbr": "NC",
+            "county": "Iredell County"
+         }
+      },
+      "type": "7-Independent Charter District",
+      "grades": {
+         "lowest": "Kindergarten",
+         "highest": "8th Grade"
+      },
+      "students": "590",
+      "fte": "38.19",
+      "pupilTeacherRatio": "15.45",
+      "numberOfSchools": "1"
+   },
+   {
+      "name": "Anderson Creek Academy",
+      "location": {
+         "state": {
+            "name": "North Carolina",
+            "abbr": "NC",
+            "county": "Harnett County"
+         }
+      },
+      "type": "7-Independent Charter District",
+      "grades": {
+         "lowest": "Kindergarten",
+         "highest": "5th Grade"
+      },
+      "students": "262",
+      "fte": "10.85",
+      "pupilTeacherRatio": "24.15",
+      "numberOfSchools": "1"
+   },
+   {
+      "name": "Anson County Schools",
+      "location": {
+         "state": {
+            "name": "North Carolina",
+            "abbr": "NC",
+            "county": "Anson County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Kindergarten",
+         "highest": "13th Grade"
+      },
+      "students": "3147",
+      "fte": "206.57",
+      "pupilTeacherRatio": "15.23",
+      "numberOfSchools": "10"
+   },
+   {
+      "name": "Appalachian State U Academy Middle Fork",
+      "location": {
+         "state": {
+            "name": "NORTH CAROLINA",
+            "abbr": "NC",
+            "county": "Forsyth County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Kindergarten",
+         "highest": "5th Grade"
+      },
+      "students": "280",
+      "fte": "14",
+      "pupilTeacherRatio": "20",
+      "numberOfSchools": "1"
+   },
+   {
+      "name": "Apprentice Academy Hs of Nc",
+      "location": {
+         "state": {
+            "name": "NORTH CAROLINA",
+            "abbr": "NC",
+            "county": "Union County"
+         }
+      },
+      "type": "7-Independent Charter District",
+      "grades": {
+         "lowest": "9th Grade",
+         "highest": "11th Grade"
+      },
+      "students": "225",
+      "fte": "16.69",
+      "pupilTeacherRatio": "13.48",
+      "numberOfSchools": "1"
+   },
+   {
+      "name": "Arapahoe Charter School",
+      "location": {
+         "state": {
+            "name": "North Carolina",
+            "abbr": "NC",
+            "county": "Pamlico County"
+         }
+      },
+      "type": "7-Independent Charter District",
+      "grades": {
+         "lowest": "Kindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "537",
+      "fte": "39.66",
+      "pupilTeacherRatio": "13.54",
+      "numberOfSchools": "1"
+   },
+   {
+      "name": "Aristotle Preparatory Academy",
+      "location": {
+         "state": {
+            "name": "North Carolina",
+            "abbr": "NC",
+            "county": "Mecklenburg County"
+         }
+      },
+      "type": "7-Independent Charter District",
+      "grades": {
+         "lowest": "Kindergarten",
+         "highest": "6th Grade"
+      },
+      "students": "136",
+      "fte": "8",
+      "pupilTeacherRatio": "17",
+      "numberOfSchools": "1"
+   },
+   {
+      "name": "Arts Based School",
+      "location": {
+         "state": {
+            "name": "North Carolina",
+            "abbr": "NC",
+            "county": "Forsyth County"
+         }
+      },
+      "type": "7-Independent Charter District",
+      "grades": {
+         "lowest": "Kindergarten",
+         "highest": "8th Grade"
+      },
+      "students": "521",
+      "fte": "37",
+      "pupilTeacherRatio": "14.08",
+      "numberOfSchools": "1"
+   },
+   {
+      "name": "Artspace Charter",
+      "location": {
+         "state": {
+            "name": "North Carolina",
+            "abbr": "NC",
+            "county": "Buncombe County"
+         }
+      },
+      "type": "7-Independent Charter District",
+      "grades": {
+         "lowest": "Kindergarten",
+         "highest": "8th Grade"
+      },
+      "students": "399",
+      "fte": "30.67",
+      "pupilTeacherRatio": "13.01",
+      "numberOfSchools": "1"
+   },
+   {
+      "name": "Ascend Leadership Academy: Lee County",
+      "location": {
+         "state": {
+            "name": "NORTH CAROLINA",
+            "abbr": "NC",
+            "county": "Lee County"
+         }
+      },
+      "type": "7-Independent Charter District",
+      "grades": {
+         "lowest": "6th Grade",
+         "highest": "9th Grade"
+      },
+      "students": "320",
+      "fte": "21.14",
+      "pupilTeacherRatio": "15.14",
+      "numberOfSchools": "1"
+   },
+   {
+      "name": "Ashe County Schools",
+      "location": {
+         "state": {
+            "name": "North Carolina",
+            "abbr": "NC",
+            "county": "Ashe County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "3005",
+      "fte": "217.69",
+      "pupilTeacherRatio": "13.8",
+      "numberOfSchools": "6"
+   },
+   {
+      "name": "Ashe County Trac",
+      "location": {
+         "state": {
+            "name": "North Carolina",
+            "abbr": "NC",
+            "county": "Ashe County"
+         }
+      },
+      "type": "8-Other education agencies",
+      "grades": {
+         "lowest": "†",
+         "highest": "†"
+      },
+      "students": "†",
+      "fte": "†",
+      "pupilTeacherRatio": "†",
+      "numberOfSchools": "0"
+   },
+   {
+      "name": "Asheboro City Schools",
+      "location": {
+         "state": {
+            "name": "North Carolina",
+            "abbr": "NC",
+            "county": "Randolph County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "4558",
+      "fte": "331.56",
+      "pupilTeacherRatio": "13.75",
+      "numberOfSchools": "8"
+   },
+   {
+      "name": "Asheville City Schools",
+      "location": {
+         "state": {
+            "name": "North Carolina",
+            "abbr": "NC",
+            "county": "Buncombe County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "4443",
+      "fte": "359.49",
+      "pupilTeacherRatio": "12.36",
+      "numberOfSchools": "10"
+   },
+   {
+      "name": "Avery County Schools",
+      "location": {
+         "state": {
+            "name": "North Carolina",
+            "abbr": "NC",
+            "county": "Avery County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "1958",
+      "fte": "150.69",
+      "pupilTeacherRatio": "12.99",
+      "numberOfSchools": "9"
+   },
+   {
+      "name": "B.l.u.e.-G.r.e.e.n. Academy",
+      "location": {
+         "state": {
+            "name": "NORTH CAROLINA",
+            "abbr": "NC",
+            "county": "Forsyth County"
+         }
+      },
+      "type": "7-Independent Charter District",
+      "grades": {
+         "lowest": "5th Grade",
+         "highest": "6th Grade"
+      },
+      "students": "53",
+      "fte": "1",
+      "pupilTeacherRatio": "53",
+      "numberOfSchools": "1"
+   },
+   {
+      "name": "Bear Grass Charter School",
+      "location": {
+         "state": {
+            "name": "North Carolina",
+            "abbr": "NC",
+            "county": "Martin County"
+         }
+      },
+      "type": "7-Independent Charter District",
+      "grades": {
+         "lowest": "6th Grade",
+         "highest": "12th Grade"
+      },
+      "students": "420",
+      "fte": "28",
+      "pupilTeacherRatio": "15",
+      "numberOfSchools": "1"
+   },
+   {
+      "name": "Beaufort County Schools",
+      "location": {
+         "state": {
+            "name": "North Carolina",
+            "abbr": "NC",
+            "county": "Beaufort County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "13th Grade"
+      },
+      "students": "6467",
+      "fte": "434.59",
+      "pupilTeacherRatio": "14.88",
+      "numberOfSchools": "14"
+   },
+   {
+      "name": "Bertie County Schools",
+      "location": {
+         "state": {
+            "name": "North Carolina",
+            "abbr": "NC",
+            "county": "Bertie County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "13th Grade"
+      },
+      "students": "2080",
+      "fte": "139.54",
+      "pupilTeacherRatio": "14.91",
+      "numberOfSchools": "7"
+   },
+   {
+      "name": "Bethany Community Middle",
+      "location": {
+         "state": {
+            "name": "North Carolina",
+            "abbr": "NC",
+            "county": "Rockingham County"
+         }
+      },
+      "type": "7-Independent Charter District",
+      "grades": {
+         "lowest": "6th Grade",
+         "highest": "11th Grade"
+      },
+      "students": "507",
+      "fte": "29.19",
+      "pupilTeacherRatio": "17.37",
+      "numberOfSchools": "1"
+   },
+   {
+      "name": "Bethel Hill Charter",
+      "location": {
+         "state": {
+            "name": "North Carolina",
+            "abbr": "NC",
+            "county": "Person County"
+         }
+      },
+      "type": "7-Independent Charter District",
+      "grades": {
+         "lowest": "Kindergarten",
+         "highest": "5th Grade"
+      },
+      "students": "400",
+      "fte": "29.61",
+      "pupilTeacherRatio": "13.51",
+      "numberOfSchools": "1"
+   },
+   {
+      "name": "Bladen County Schools",
+      "location": {
+         "state": {
+            "name": "North Carolina",
+            "abbr": "NC",
+            "county": "Bladen County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "4249",
+      "fte": "282.7",
+      "pupilTeacherRatio": "15.03",
+      "numberOfSchools": "13"
+   },
+   {
+      "name": "Bold Kids After School Prog",
+      "location": {
+         "state": {
+            "name": "North Carolina",
+            "abbr": "NC",
+            "county": "Mecklenburg County"
+         }
+      },
+      "type": "8-Other education agencies",
+      "grades": {
+         "lowest": "†",
+         "highest": "†"
+      },
+      "students": "†",
+      "fte": "†",
+      "pupilTeacherRatio": "†",
+      "numberOfSchools": "0"
+   },
+   {
+      "name": "Bonnie Cone Classical Academy",
+      "location": {
+         "state": {
+            "name": "NORTH CAROLINA",
+            "abbr": "NC",
+            "county": "Mecklenburg County"
+         }
+      },
+      "type": "7-Independent Charter District",
+      "grades": {
+         "lowest": "Kindergarten",
+         "highest": "6th Grade"
+      },
+      "students": "234",
+      "fte": "17.31",
+      "pupilTeacherRatio": "13.52",
+      "numberOfSchools": "1"
+   },
+   {
+      "name": "Bradford Preparatory School",
+      "location": {
+         "state": {
+            "name": "North Carolina",
+            "abbr": "NC",
+            "county": "Mecklenburg County"
+         }
+      },
+      "type": "7-Independent Charter District",
+      "grades": {
+         "lowest": "Kindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "1445",
+      "fte": "56.7",
+      "pupilTeacherRatio": "25.49",
+      "numberOfSchools": "1"
+   },
+   {
+      "name": "Brevard Academy",
+      "location": {
+         "state": {
+            "name": "North Carolina",
+            "abbr": "NC",
+            "county": "Transylvania County"
+         }
+      },
+      "type": "7-Independent Charter District",
+      "grades": {
+         "lowest": "Kindergarten",
+         "highest": "8th Grade"
+      },
+      "students": "425",
+      "fte": "22.97",
+      "pupilTeacherRatio": "18.5",
+      "numberOfSchools": "1"
+   },
+   {
+      "name": "Bridges Academy",
+      "location": {
+         "state": {
+            "name": "North Carolina",
+            "abbr": "NC",
+            "county": "Wilkes County"
+         }
+      },
+      "type": "7-Independent Charter District",
+      "grades": {
+         "lowest": "Kindergarten",
+         "highest": "9th Grade"
+      },
+      "students": "173",
+      "fte": "12.38",
+      "pupilTeacherRatio": "13.97",
+      "numberOfSchools": "1"
+   },
+   {
+      "name": "Brunswick County Schools",
+      "location": {
+         "state": {
+            "name": "North Carolina",
+            "abbr": "NC",
+            "county": "Brunswick County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "13th Grade"
+      },
+      "students": "12610",
+      "fte": "802.11",
+      "pupilTeacherRatio": "15.72",
+      "numberOfSchools": "19"
+   },
+   {
+      "name": "Buncombe County Schools",
+      "location": {
+         "state": {
+            "name": "North Carolina",
+            "abbr": "NC",
+            "county": "Buncombe County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Kindergarten",
+         "highest": "13th Grade"
+      },
+      "students": "23669",
+      "fte": "1611.06",
+      "pupilTeacherRatio": "14.69",
+      "numberOfSchools": "44"
+   },
+   {
+      "name": "Burke County Schools",
+      "location": {
+         "state": {
+            "name": "North Carolina",
+            "abbr": "NC",
+            "county": "Burke County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "12334",
+      "fte": "773.62",
+      "pupilTeacherRatio": "15.94",
+      "numberOfSchools": "26"
+   },
+   {
+      "name": "Cabarrus Charter Academy",
+      "location": {
+         "state": {
+            "name": "North Carolina",
+            "abbr": "NC",
+            "county": "Cabarrus County"
+         }
+      },
+      "type": "7-Independent Charter District",
+      "grades": {
+         "lowest": "Kindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "904",
+      "fte": "73.5",
+      "pupilTeacherRatio": "12.3",
+      "numberOfSchools": "1"
+   },
+   {
+      "name": "Cabarrus County Schools",
+      "location": {
+         "state": {
+            "name": "North Carolina",
+            "abbr": "NC",
+            "county": "Cabarrus County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "13th Grade"
+      },
+      "students": "33658",
+      "fte": "2034.13",
+      "pupilTeacherRatio": "16.55",
+      "numberOfSchools": "39"
+   },
+   {
+      "name": "Caldwell County Schools",
+      "location": {
+         "state": {
+            "name": "North Carolina",
+            "abbr": "NC",
+            "county": "Caldwell County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "13th Grade"
+      },
+      "students": "11444",
+      "fte": "779.29",
+      "pupilTeacherRatio": "14.69",
+      "numberOfSchools": "26"
+   },
+   {
+      "name": "Camden County Schools",
+      "location": {
+         "state": {
+            "name": "North Carolina",
+            "abbr": "NC",
+            "county": "Camden County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "13th Grade"
+      },
+      "students": "1875",
+      "fte": "129.79",
+      "pupilTeacherRatio": "14.45",
+      "numberOfSchools": "5"
+   },
+   {
+      "name": "Camp Lejeune",
+      "location": {
+         "state": {
+            "name": "NORTH CAROLINA",
+            "abbr": "NC",
+            "county": "Onslow County"
+         }
+      },
+      "type": "6-Federal agency providing elementary and/or secondary level instruction",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "0",
+      "fte": "0",
+      "pupilTeacherRatio": "†",
+      "numberOfSchools": "0"
+   },
+   {
+      "name": "Cape Fear Center for Inquiry",
+      "location": {
+         "state": {
+            "name": "North Carolina",
+            "abbr": "NC",
+            "county": "New Hanover County"
+         }
+      },
+      "type": "7-Independent Charter District",
+      "grades": {
+         "lowest": "Kindergarten",
+         "highest": "8th Grade"
+      },
+      "students": "405",
+      "fte": "30.67",
+      "pupilTeacherRatio": "13.21",
+      "numberOfSchools": "1"
+   },
+   {
+      "name": "Cardinal Charter",
+      "location": {
+         "state": {
+            "name": "North Carolina",
+            "abbr": "NC",
+            "county": "Wake County"
+         }
+      },
+      "type": "7-Independent Charter District",
+      "grades": {
+         "lowest": "Kindergarten",
+         "highest": "8th Grade"
+      },
+      "students": "922",
+      "fte": "57.2",
+      "pupilTeacherRatio": "16.12",
+      "numberOfSchools": "1"
+   },
+   {
+      "name": "Cardinal Charter Acad at Wendell Falls",
+      "location": {
+         "state": {
+            "name": "NORTH CAROLINA",
+            "abbr": "NC",
+            "county": "Wake County"
+         }
+      },
+      "type": "7-Independent Charter District",
+      "grades": {
+         "lowest": "–",
+         "highest": "–"
+      },
+      "students": "†",
+      "fte": "†",
+      "pupilTeacherRatio": "†",
+      "numberOfSchools": "0"
+   },
+   {
+      "name": "Carolina Charter Academy: Cfa",
+      "location": {
+         "state": {
+            "name": "NORTH CAROLINA",
+            "abbr": "NC",
+            "county": "Wake County"
+         }
+      },
+      "type": "7-Independent Charter District",
+      "grades": {
+         "lowest": "Kindergarten",
+         "highest": "6th Grade"
+      },
+      "students": "422",
+      "fte": "23",
+      "pupilTeacherRatio": "18.35",
+      "numberOfSchools": "1"
+   },
+   {
+      "name": "Carolina International School",
+      "location": {
+         "state": {
+            "name": "North Carolina",
+            "abbr": "NC",
+            "county": "Cabarrus County"
+         }
+      },
+      "type": "7-Independent Charter District",
+      "grades": {
+         "lowest": "Kindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "884",
+      "fte": "60.63",
+      "pupilTeacherRatio": "14.58",
+      "numberOfSchools": "1"
+   },
+   {
+      "name": "Carter Community Charter",
+      "location": {
+         "state": {
+            "name": "North Carolina",
+            "abbr": "NC",
+            "county": "Durham County"
+         }
+      },
+      "type": "7-Independent Charter District",
+      "grades": {
+         "lowest": "Kindergarten",
+         "highest": "8th Grade"
+      },
+      "students": "231",
+      "fte": "18",
+      "pupilTeacherRatio": "12.83",
+      "numberOfSchools": "1"
+   },
+   {
+      "name": "Carter G Woodson School",
+      "location": {
+         "state": {
+            "name": "North Carolina",
+            "abbr": "NC",
+            "county": "Forsyth County"
+         }
+      },
+      "type": "7-Independent Charter District",
+      "grades": {
+         "lowest": "Kindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "364",
+      "fte": "25.26",
+      "pupilTeacherRatio": "14.41",
+      "numberOfSchools": "1"
+   },
+   {
+      "name": "Carteret County Public Schools",
+      "location": {
+         "state": {
+            "name": "North Carolina",
+            "abbr": "NC",
+            "county": "Carteret County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "8190",
+      "fte": "598.11",
+      "pupilTeacherRatio": "13.69",
+      "numberOfSchools": "18"
+   },
+   {
+      "name": "Casa Esperanza Montessori",
+      "location": {
+         "state": {
+            "name": "North Carolina",
+            "abbr": "NC",
+            "county": "Wake County"
+         }
+      },
+      "type": "7-Independent Charter District",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "8th Grade"
+      },
+      "students": "566",
+      "fte": "26.29",
+      "pupilTeacherRatio": "21.53",
+      "numberOfSchools": "1"
+   },
+   {
+      "name": "Caswell County Schools",
+      "location": {
+         "state": {
+            "name": "North Carolina",
+            "abbr": "NC",
+            "county": "Caswell County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "2398",
+      "fte": "168.89",
+      "pupilTeacherRatio": "14.2",
+      "numberOfSchools": "6"
+   },
+   {
+      "name": "Catamount School",
+      "location": {
+         "state": {
+            "name": "NORTH CAROLINA",
+            "abbr": "NC",
+            "county": "Jackson County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "6th Grade",
+         "highest": "8th Grade"
+      },
+      "students": "59",
+      "fte": "5",
+      "pupilTeacherRatio": "11.8",
+      "numberOfSchools": "1"
+   },
+   {
+      "name": "Catawba County Schools",
+      "location": {
+         "state": {
+            "name": "North Carolina",
+            "abbr": "NC",
+            "county": "Catawba County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "15942",
+      "fte": "998.2",
+      "pupilTeacherRatio": "15.97",
+      "numberOfSchools": "28"
+   },
+   {
+      "name": "Ce Academy",
+      "location": {
+         "state": {
+            "name": "NORTH CAROLINA",
+            "abbr": "NC",
+            "county": "Wake County"
+         }
+      },
+      "type": "7-Independent Charter District",
+      "grades": {
+         "lowest": "–",
+         "highest": "–"
+      },
+      "students": "†",
+      "fte": "†",
+      "pupilTeacherRatio": "†",
+      "numberOfSchools": "0"
+   },
+   {
+      "name": "Central Park School for Children",
+      "location": {
+         "state": {
+            "name": "North Carolina",
+            "abbr": "NC",
+            "county": "Durham County"
+         }
+      },
+      "type": "7-Independent Charter District",
+      "grades": {
+         "lowest": "Kindergarten",
+         "highest": "8th Grade"
+      },
+      "students": "615",
+      "fte": "44.31",
+      "pupilTeacherRatio": "13.88",
+      "numberOfSchools": "1"
+   },
+   {
+      "name": "Central Wake Charter High School",
+      "location": {
+         "state": {
+            "name": "NORTH CAROLINA",
+            "abbr": "NC",
+            "county": "Wake County"
+         }
+      },
+      "type": "7-Independent Charter District",
+      "grades": {
+         "lowest": "9th Grade",
+         "highest": "12th Grade"
+      },
+      "students": "229",
+      "fte": "7",
+      "pupilTeacherRatio": "32.71",
+      "numberOfSchools": "1"
+   },
+   {
+      "name": "Chapel Hill-Carrboro City Schools",
+      "location": {
+         "state": {
+            "name": "North Carolina",
+            "abbr": "NC",
+            "county": "Orange County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "13th Grade"
+      },
+      "students": "12426",
+      "fte": "880.51",
+      "pupilTeacherRatio": "14.11",
+      "numberOfSchools": "20"
+   },
+   {
+      "name": "Charlotte Choice Charter",
+      "location": {
+         "state": {
+            "name": "North Carolina",
+            "abbr": "NC",
+            "county": "Mecklenburg County"
+         }
+      },
+      "type": "7-Independent Charter District",
+      "grades": {
+         "lowest": "Kindergarten",
+         "highest": "8th Grade"
+      },
+      "students": "116",
+      "fte": "5.1",
+      "pupilTeacherRatio": "22.75",
+      "numberOfSchools": "1"
+   },
+   {
+      "name": "Charlotte Lab School",
+      "location": {
+         "state": {
+            "name": "NORTH CAROLINA",
+            "abbr": "NC",
+            "county": "Mecklenburg County"
+         }
+      },
+      "type": "7-Independent Charter District",
+      "grades": {
+         "lowest": "Kindergarten",
+         "highest": "8th Grade"
+      },
+      "students": "654",
+      "fte": "36.86",
+      "pupilTeacherRatio": "17.74",
+      "numberOfSchools": "1"
+   },
+   {
+      "name": "Charlotte Secondary School",
+      "location": {
+         "state": {
+            "name": "North Carolina",
+            "abbr": "NC",
+            "county": "Mecklenburg County"
+         }
+      },
+      "type": "7-Independent Charter District",
+      "grades": {
+         "lowest": "6th Grade",
+         "highest": "12th Grade"
+      },
+      "students": "277",
+      "fte": "16.21",
+      "pupilTeacherRatio": "17.09",
+      "numberOfSchools": "1"
+   },
+   {
+      "name": "Charlotte-Mecklenburg Schools",
+      "location": {
+         "state": {
+            "name": "North Carolina",
+            "abbr": "NC",
+            "county": "Mecklenburg County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "13th Grade"
+      },
+      "students": "149845",
+      "fte": "9183.03",
+      "pupilTeacherRatio": "16.32",
+      "numberOfSchools": "175"
+   },
+   {
+      "name": "Charter Day School",
+      "location": {
+         "state": {
+            "name": "North Carolina",
+            "abbr": "NC",
+            "county": "Brunswick County"
+         }
+      },
+      "type": "7-Independent Charter District",
+      "grades": {
+         "lowest": "Kindergarten",
+         "highest": "8th Grade"
+      },
+      "students": "956",
+      "fte": "39.51",
+      "pupilTeacherRatio": "24.2",
+      "numberOfSchools": "1"
+   },
+   {
+      "name": "Chatham Charter",
+      "location": {
+         "state": {
+            "name": "North Carolina",
+            "abbr": "NC",
+            "county": "Chatham County"
+         }
+      },
+      "type": "7-Independent Charter District",
+      "grades": {
+         "lowest": "Kindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "570",
+      "fte": "39.89",
+      "pupilTeacherRatio": "14.29",
+      "numberOfSchools": "1"
+   },
+   {
+      "name": "Chatham County Schools",
+      "location": {
+         "state": {
+            "name": "North Carolina",
+            "abbr": "NC",
+            "county": "Chatham County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "9196",
+      "fte": "620.26",
+      "pupilTeacherRatio": "14.83",
+      "numberOfSchools": "18"
+   },
+   {
+      "name": "Cherokee Central Schools",
+      "location": {
+         "state": {
+            "name": "North Carolina",
+            "abbr": "NC",
+            "county": "Swain County"
+         }
+      },
+      "type": "6-Federal agency providing elementary and/or secondary level instruction",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "0",
+      "fte": "0",
+      "pupilTeacherRatio": "†",
+      "numberOfSchools": "0"
+   },
+   {
+      "name": "Cherokee County Schools",
+      "location": {
+         "state": {
+            "name": "North Carolina",
+            "abbr": "NC",
+            "county": "Cherokee County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "13th Grade"
+      },
+      "students": "3206",
+      "fte": "256.66",
+      "pupilTeacherRatio": "12.49",
+      "numberOfSchools": "13"
+   },
+   {
+      "name": "Children's Village Academy",
+      "location": {
+         "state": {
+            "name": "North Carolina",
+            "abbr": "NC",
+            "county": "Lenoir County"
+         }
+      },
+      "type": "7-Independent Charter District",
+      "grades": {
+         "lowest": "Kindergarten",
+         "highest": "8th Grade"
+      },
+      "students": "170",
+      "fte": "9.43",
+      "pupilTeacherRatio": "18.03",
+      "numberOfSchools": "1"
+   },
+   {
+      "name": "Cis Academy",
+      "location": {
+         "state": {
+            "name": "North Carolina",
+            "abbr": "NC",
+            "county": "Robeson County"
+         }
+      },
+      "type": "7-Independent Charter District",
+      "grades": {
+         "lowest": "6th Grade",
+         "highest": "8th Grade"
+      },
+      "students": "120",
+      "fte": "8",
+      "pupilTeacherRatio": "15",
+      "numberOfSchools": "1"
+   },
+   {
+      "name": "Clay County Schools",
+      "location": {
+         "state": {
+            "name": "North Carolina",
+            "abbr": "NC",
+            "county": "Clay County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "1344",
+      "fte": "100.01",
+      "pupilTeacherRatio": "13.44",
+      "numberOfSchools": "3"
+   },
+   {
+      "name": "Cleveland County Community In-Schools",
+      "location": {
+         "state": {
+            "name": "North Carolina",
+            "abbr": "NC",
+            "county": "Cleveland County"
+         }
+      },
+      "type": "8-Other education agencies",
+      "grades": {
+         "lowest": "†",
+         "highest": "†"
+      },
+      "students": "†",
+      "fte": "†",
+      "pupilTeacherRatio": "†",
+      "numberOfSchools": "0"
+   },
+   {
+      "name": "Cleveland County Schools",
+      "location": {
+         "state": {
+            "name": "North Carolina",
+            "abbr": "NC",
+            "county": "Cleveland County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "13th Grade"
+      },
+      "students": "14584",
+      "fte": "963.93",
+      "pupilTeacherRatio": "15.13",
+      "numberOfSchools": "29"
+   },
+   {
+      "name": "Clinton City Schools",
+      "location": {
+         "state": {
+            "name": "North Carolina",
+            "abbr": "NC",
+            "county": "Sampson County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "3063",
+      "fte": "199.19",
+      "pupilTeacherRatio": "15.38",
+      "numberOfSchools": "5"
+   },
+   {
+      "name": "Clover Garden",
+      "location": {
+         "state": {
+            "name": "North Carolina",
+            "abbr": "NC",
+            "county": "Alamance County"
+         }
+      },
+      "type": "7-Independent Charter District",
+      "grades": {
+         "lowest": "Kindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "653",
+      "fte": "34.75",
+      "pupilTeacherRatio": "18.79",
+      "numberOfSchools": "1"
+   },
+   {
+      "name": "Coastal Preparatory Academy",
+      "location": {
+         "state": {
+            "name": "NORTH CAROLINA",
+            "abbr": "NC",
+            "county": "New Hanover County"
+         }
+      },
+      "type": "7-Independent Charter District",
+      "grades": {
+         "lowest": "Kindergarten",
+         "highest": "8th Grade"
+      },
+      "students": "557",
+      "fte": "46.53",
+      "pupilTeacherRatio": "11.97",
+      "numberOfSchools": "1"
+   },
+   {
+      "name": "Columbus Charter School",
+      "location": {
+         "state": {
+            "name": "North Carolina",
+            "abbr": "NC",
+            "county": "Columbus County"
+         }
+      },
+      "type": "7-Independent Charter District",
+      "grades": {
+         "lowest": "Kindergarten",
+         "highest": "8th Grade"
+      },
+      "students": "773",
+      "fte": "21.26",
+      "pupilTeacherRatio": "36.36",
+      "numberOfSchools": "1"
+   },
+   {
+      "name": "Columbus County Schools",
+      "location": {
+         "state": {
+            "name": "North Carolina",
+            "abbr": "NC",
+            "county": "Columbus County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "13th Grade"
+      },
+      "students": "5612",
+      "fte": "372.6",
+      "pupilTeacherRatio": "15.06",
+      "numberOfSchools": "17"
+   },
+   {
+      "name": "Commonwealth High School",
+      "location": {
+         "state": {
+            "name": "North Carolina",
+            "abbr": "NC",
+            "county": "Mecklenburg County"
+         }
+      },
+      "type": "7-Independent Charter District",
+      "grades": {
+         "lowest": "9th Grade",
+         "highest": "12th Grade"
+      },
+      "students": "213",
+      "fte": "8",
+      "pupilTeacherRatio": "26.63",
+      "numberOfSchools": "1"
+   },
+   {
+      "name": "Communities In-Schools of Brunswick County",
+      "location": {
+         "state": {
+            "name": "North Carolina",
+            "abbr": "NC",
+            "county": "Brunswick County"
+         }
+      },
+      "type": "8-Other education agencies",
+      "grades": {
+         "lowest": "†",
+         "highest": "†"
+      },
+      "students": "†",
+      "fte": "†",
+      "pupilTeacherRatio": "†",
+      "numberOfSchools": "0"
+   },
+   {
+      "name": "Community School of Davidson",
+      "location": {
+         "state": {
+            "name": "North Carolina",
+            "abbr": "NC",
+            "county": "Mecklenburg County"
+         }
+      },
+      "type": "7-Independent Charter District",
+      "grades": {
+         "lowest": "Kindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "1398",
+      "fte": "93.31",
+      "pupilTeacherRatio": "14.98",
+      "numberOfSchools": "1"
+   },
+   {
+      "name": "Concord Lake Steam Academy",
+      "location": {
+         "state": {
+            "name": "NORTH CAROLINA",
+            "abbr": "NC",
+            "county": "Cabarrus County"
+         }
+      },
+      "type": "7-Independent Charter District",
+      "grades": {
+         "lowest": "Kindergarten",
+         "highest": "8th Grade"
+      },
+      "students": "465",
+      "fte": "27",
+      "pupilTeacherRatio": "17.22",
+      "numberOfSchools": "1"
+   },
+   {
+      "name": "Cornerstone Charter Academy",
+      "location": {
+         "state": {
+            "name": "North Carolina",
+            "abbr": "NC",
+            "county": "Guilford County"
+         }
+      },
+      "type": "7-Independent Charter District",
+      "grades": {
+         "lowest": "Kindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "1245",
+      "fte": "69.88",
+      "pupilTeacherRatio": "17.82",
+      "numberOfSchools": "1"
+   },
+   {
+      "name": "Corvian Community School",
+      "location": {
+         "state": {
+            "name": "North Carolina",
+            "abbr": "NC",
+            "county": "Mecklenburg County"
+         }
+      },
+      "type": "7-Independent Charter District",
+      "grades": {
+         "lowest": "Kindergarten",
+         "highest": "10th Grade"
+      },
+      "students": "1104",
+      "fte": "65.59",
+      "pupilTeacherRatio": "16.83",
+      "numberOfSchools": "1"
+   },
+   {
+      "name": "Craven County Schools",
+      "location": {
+         "state": {
+            "name": "North Carolina",
+            "abbr": "NC",
+            "county": "Craven County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "13th Grade"
+      },
+      "students": "13410",
+      "fte": "821.11",
+      "pupilTeacherRatio": "16.33",
+      "numberOfSchools": "25"
+   },
+   {
+      "name": "Crosscreek Charter School",
+      "location": {
+         "state": {
+            "name": "North Carolina",
+            "abbr": "NC",
+            "county": "Franklin County"
+         }
+      },
+      "type": "7-Independent Charter District",
+      "grades": {
+         "lowest": "Kindergarten",
+         "highest": "8th Grade"
+      },
+      "students": "348",
+      "fte": "23",
+      "pupilTeacherRatio": "15.13",
+      "numberOfSchools": "1"
+   },
+   {
+      "name": "Cumberland County Schools",
+      "location": {
+         "state": {
+            "name": "North Carolina",
+            "abbr": "NC",
+            "county": "Cumberland County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "50750",
+      "fte": "3421.89",
+      "pupilTeacherRatio": "14.83",
+      "numberOfSchools": "87"
+   },
+   {
+      "name": "Currituck County Schools",
+      "location": {
+         "state": {
+            "name": "North Carolina",
+            "abbr": "NC",
+            "county": "Currituck County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "13th Grade"
+      },
+      "students": "4226",
+      "fte": "277.18",
+      "pupilTeacherRatio": "15.25",
+      "numberOfSchools": "10"
+   },
+   {
+      "name": "D.c. Virgo Preparatory Academy",
+      "location": {
+         "state": {
+            "name": "NORTH CAROLINA",
+            "abbr": "NC",
+            "county": "New Hanover County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Kindergarten",
+         "highest": "8th Grade"
+      },
+      "students": "216",
+      "fte": "16.87",
+      "pupilTeacherRatio": "12.8",
+      "numberOfSchools": "1"
+   },
+   {
+      "name": "Dare County Schools",
+      "location": {
+         "state": {
+            "name": "North Carolina",
+            "abbr": "NC",
+            "county": "Dare County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "5388",
+      "fte": "398.26",
+      "pupilTeacherRatio": "13.53",
+      "numberOfSchools": "11"
+   },
+   {
+      "name": "Davidson Charter Academy: Cfa",
+      "location": {
+         "state": {
+            "name": "NORTH CAROLINA",
+            "abbr": "NC",
+            "county": "Davidson County"
+         }
+      },
+      "type": "7-Independent Charter District",
+      "grades": {
+         "lowest": "Kindergarten",
+         "highest": "5th Grade"
+      },
+      "students": "446",
+      "fte": "26",
+      "pupilTeacherRatio": "17.15",
+      "numberOfSchools": "1"
+   },
+   {
+      "name": "Davidson County Schools",
+      "location": {
+         "state": {
+            "name": "North Carolina",
+            "abbr": "NC",
+            "county": "Davidson County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "13th Grade"
+      },
+      "students": "18723",
+      "fte": "1149.86",
+      "pupilTeacherRatio": "16.28",
+      "numberOfSchools": "36"
+   },
+   {
+      "name": "Davie County Schools",
+      "location": {
+         "state": {
+            "name": "North Carolina",
+            "abbr": "NC",
+            "county": "Davie County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "13th Grade"
+      },
+      "students": "6202",
+      "fte": "413.15",
+      "pupilTeacherRatio": "15.01",
+      "numberOfSchools": "12"
+   },
+   {
+      "name": "Davis Academy Chadbourn",
+      "location": {
+         "state": {
+            "name": "NORTH CAROLINA",
+            "abbr": "NC",
+            "county": "Wake County"
+         }
+      },
+      "type": "7-Independent Charter District",
+      "grades": {
+         "lowest": "–",
+         "highest": "–"
+      },
+      "students": "†",
+      "fte": "†",
+      "pupilTeacherRatio": "†",
+      "numberOfSchools": "0"
+   },
+   {
+      "name": "Deaf and Blind Schools",
+      "location": {
+         "state": {
+            "name": "North Carolina",
+            "abbr": "NC",
+            "county": "Wake County"
+         }
+      },
+      "type": "5-State agency providing elementary and/or secondary level instruction",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "182",
+      "fte": "51",
+      "pupilTeacherRatio": "3.57",
+      "numberOfSchools": "3"
+   },
+   {
+      "name": "Dillard Academy",
+      "location": {
+         "state": {
+            "name": "North Carolina",
+            "abbr": "NC",
+            "county": "Wayne County"
+         }
+      },
+      "type": "7-Independent Charter District",
+      "grades": {
+         "lowest": "Kindergarten",
+         "highest": "8th Grade"
+      },
+      "students": "294",
+      "fte": "20.3",
+      "pupilTeacherRatio": "14.48",
+      "numberOfSchools": "1"
+   },
+   {
+      "name": "Discovery Charter School",
+      "location": {
+         "state": {
+            "name": "NORTH CAROLINA",
+            "abbr": "NC",
+            "county": "Durham County"
+         }
+      },
+      "type": "7-Independent Charter District",
+      "grades": {
+         "lowest": "6th Grade",
+         "highest": "7th Grade"
+      },
+      "students": "116",
+      "fte": "9.59",
+      "pupilTeacherRatio": "12.1",
+      "numberOfSchools": "1"
+   },
+   {
+      "name": "Doral Academy North Carolina",
+      "location": {
+         "state": {
+            "name": "NORTH CAROLINA",
+            "abbr": "NC",
+            "county": "Wake County"
+         }
+      },
+      "type": "7-Independent Charter District",
+      "grades": {
+         "lowest": "–",
+         "highest": "–"
+      },
+      "students": "†",
+      "fte": "†",
+      "pupilTeacherRatio": "†",
+      "numberOfSchools": "0"
+   },
+   {
+      "name": "Douglass Academy",
+      "location": {
+         "state": {
+            "name": "North Carolina",
+            "abbr": "NC",
+            "county": "New Hanover County"
+         }
+      },
+      "type": "7-Independent Charter District",
+      "grades": {
+         "lowest": "Kindergarten",
+         "highest": "5th Grade"
+      },
+      "students": "125",
+      "fte": "4.31",
+      "pupilTeacherRatio": "29",
+      "numberOfSchools": "1"
+   },
+   {
+      "name": "Dps Education Services (Fka Div Prisons)",
+      "location": {
+         "state": {
+            "name": "North Carolina",
+            "abbr": "NC",
+            "county": "Wake County"
+         }
+      },
+      "type": "5-State agency providing elementary and/or secondary level instruction",
+      "grades": {
+         "lowest": "9th Grade",
+         "highest": "12th Grade"
+      },
+      "students": "0",
+      "fte": "0",
+      "pupilTeacherRatio": "†",
+      "numberOfSchools": "0"
+   },
+   {
+      "name": "Duplin County Schools",
+      "location": {
+         "state": {
+            "name": "North Carolina",
+            "abbr": "NC",
+            "county": "Duplin County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "13th Grade"
+      },
+      "students": "9969",
+      "fte": "592.99",
+      "pupilTeacherRatio": "16.81",
+      "numberOfSchools": "13"
+   },
+   {
+      "name": "Durham Public Schools",
+      "location": {
+         "state": {
+            "name": "North Carolina",
+            "abbr": "NC",
+            "county": "Durham County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "33435",
+      "fte": "2325.78",
+      "pupilTeacherRatio": "14.38",
+      "numberOfSchools": "54"
+   },
+   {
+      "name": "East Carolina Community School",
+      "location": {
+         "state": {
+            "name": "NORTH CAROLINA",
+            "abbr": "NC",
+            "county": "Pitt County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Kindergarten",
+         "highest": "5th Grade"
+      },
+      "students": "117",
+      "fte": "7.75",
+      "pupilTeacherRatio": "15.1",
+      "numberOfSchools": "1"
+   },
+   {
+      "name": "East Voyager Academy",
+      "location": {
+         "state": {
+            "name": "NORTH CAROLINA",
+            "abbr": "NC",
+            "county": "Mecklenburg County"
+         }
+      },
+      "type": "7-Independent Charter District",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "5th Grade"
+      },
+      "students": "138",
+      "fte": "5.92",
+      "pupilTeacherRatio": "23.31",
+      "numberOfSchools": "1"
+   },
+   {
+      "name": "East Wake Academy",
+      "location": {
+         "state": {
+            "name": "North Carolina",
+            "abbr": "NC",
+            "county": "Wake County"
+         }
+      },
+      "type": "7-Independent Charter District",
+      "grades": {
+         "lowest": "Kindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "1202",
+      "fte": "76.94",
+      "pupilTeacherRatio": "15.62",
+      "numberOfSchools": "1"
+   },
+   {
+      "name": "Edenton-Chowan Schools",
+      "location": {
+         "state": {
+            "name": "North Carolina",
+            "abbr": "NC",
+            "county": "Chowan County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "1941",
+      "fte": "135.07",
+      "pupilTeacherRatio": "14.37",
+      "numberOfSchools": "4"
+   },
+   {
+      "name": "Edgecombe County Public Schools",
+      "location": {
+         "state": {
+            "name": "North Carolina",
+            "abbr": "NC",
+            "county": "Edgecombe County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "13th Grade"
+      },
+      "students": "5773",
+      "fte": "395.81",
+      "pupilTeacherRatio": "14.59",
+      "numberOfSchools": "14"
+   },
+   {
+      "name": "Elaine Riddick Charter School",
+      "location": {
+         "state": {
+            "name": "NORTH CAROLINA",
+            "abbr": "NC",
+            "county": "Pasquotank County"
+         }
+      },
+      "type": "7-Independent Charter District",
+      "grades": {
+         "lowest": "–",
+         "highest": "–"
+      },
+      "students": "†",
+      "fte": "†",
+      "pupilTeacherRatio": "†",
+      "numberOfSchools": "0"
+   },
+   {
+      "name": "Elizabeth City-Pasquotank Public Schools",
+      "location": {
+         "state": {
+            "name": "North Carolina",
+            "abbr": "NC",
+            "county": "Pasquotank County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "5372",
+      "fte": "361.56",
+      "pupilTeacherRatio": "14.86",
+      "numberOfSchools": "13"
+   },
+   {
+      "name": "Elkin City Schools",
+      "location": {
+         "state": {
+            "name": "North Carolina",
+            "abbr": "NC",
+            "county": "Surry County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "1219",
+      "fte": "84.94",
+      "pupilTeacherRatio": "14.35",
+      "numberOfSchools": "3"
+   },
+   {
+      "name": "Emereau: Bladen",
+      "location": {
+         "state": {
+            "name": "NORTH CAROLINA",
+            "abbr": "NC",
+            "county": "Bladen County"
+         }
+      },
+      "type": "7-Independent Charter District",
+      "grades": {
+         "lowest": "Kindergarten",
+         "highest": "8th Grade"
+      },
+      "students": "559",
+      "fte": "30",
+      "pupilTeacherRatio": "18.63",
+      "numberOfSchools": "1"
+   },
+   {
+      "name": "Endeavor Charter",
+      "location": {
+         "state": {
+            "name": "North Carolina",
+            "abbr": "NC",
+            "county": "Wake County"
+         }
+      },
+      "type": "7-Independent Charter District",
+      "grades": {
+         "lowest": "Kindergarten",
+         "highest": "8th Grade"
+      },
+      "students": "513",
+      "fte": "34.17",
+      "pupilTeacherRatio": "15.01",
+      "numberOfSchools": "1"
+   },
+   {
+      "name": "Eno River Academy",
+      "location": {
+         "state": {
+            "name": "North Carolina",
+            "abbr": "NC",
+            "county": "Orange County"
+         }
+      },
+      "type": "7-Independent Charter District",
+      "grades": {
+         "lowest": "Kindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "723",
+      "fte": "60.11",
+      "pupilTeacherRatio": "12.03",
+      "numberOfSchools": "1"
+   },
+   {
+      "name": "Envision Science Academy",
+      "location": {
+         "state": {
+            "name": "North Carolina",
+            "abbr": "NC",
+            "county": "Wake County"
+         }
+      },
+      "type": "7-Independent Charter District",
+      "grades": {
+         "lowest": "Kindergarten",
+         "highest": "8th Grade"
+      },
+      "students": "726",
+      "fte": "53",
+      "pupilTeacherRatio": "13.7",
+      "numberOfSchools": "1"
+   },
+   {
+      "name": "Essie Mae Kiser Foxx Charter School",
+      "location": {
+         "state": {
+            "name": "NORTH CAROLINA",
+            "abbr": "NC",
+            "county": "Rowan County"
+         }
+      },
+      "type": "7-Independent Charter District",
+      "grades": {
+         "lowest": "Kindergarten",
+         "highest": "5th Grade"
+      },
+      "students": "121",
+      "fte": "10",
+      "pupilTeacherRatio": "12.1",
+      "numberOfSchools": "1"
+   },
+   {
+      "name": "Evergreen Community Charter",
+      "location": {
+         "state": {
+            "name": "North Carolina",
+            "abbr": "NC",
+            "county": "Buncombe County"
+         }
+      },
+      "type": "7-Independent Charter District",
+      "grades": {
+         "lowest": "Kindergarten",
+         "highest": "8th Grade"
+      },
+      "students": "443",
+      "fte": "28.59",
+      "pupilTeacherRatio": "15.49",
+      "numberOfSchools": "1"
+   },
+   {
+      "name": "Excelsior Classical Academy",
+      "location": {
+         "state": {
+            "name": "NORTH CAROLINA",
+            "abbr": "NC",
+            "county": "Durham County"
+         }
+      },
+      "type": "7-Independent Charter District",
+      "grades": {
+         "lowest": "Kindergarten",
+         "highest": "8th Grade"
+      },
+      "students": "706",
+      "fte": "36.28",
+      "pupilTeacherRatio": "19.46",
+      "numberOfSchools": "1"
+   },
+   {
+      "name": "Falls Lake Academy",
+      "location": {
+         "state": {
+            "name": "North Carolina",
+            "abbr": "NC",
+            "county": "Granville County"
+         }
+      },
+      "type": "7-Independent Charter District",
+      "grades": {
+         "lowest": "Kindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "1089",
+      "fte": "81.77",
+      "pupilTeacherRatio": "13.32",
+      "numberOfSchools": "1"
+   },
+   {
+      "name": "Fernleaf Community Charter School",
+      "location": {
+         "state": {
+            "name": "NORTH CAROLINA",
+            "abbr": "NC",
+            "county": "Henderson County"
+         }
+      },
+      "type": "7-Independent Charter District",
+      "grades": {
+         "lowest": "Kindergarten",
+         "highest": "6th Grade"
+      },
+      "students": "327",
+      "fte": "16.65",
+      "pupilTeacherRatio": "19.64",
+      "numberOfSchools": "1"
+   },
+   {
+      "name": "Forsyth Academy",
+      "location": {
+         "state": {
+            "name": "North Carolina",
+            "abbr": "NC",
+            "county": "Forsyth County"
+         }
+      },
+      "type": "7-Independent Charter District",
+      "grades": {
+         "lowest": "Kindergarten",
+         "highest": "8th Grade"
+      },
+      "students": "729",
+      "fte": "37.15",
+      "pupilTeacherRatio": "19.62",
+      "numberOfSchools": "1"
+   },
+   {
+      "name": "Fort Bragg",
+      "location": {
+         "state": {
+            "name": "North Carolina",
+            "abbr": "NC",
+            "county": "Cumberland County"
+         }
+      },
+      "type": "6-Federal agency providing elementary and/or secondary level instruction",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "8th Grade"
+      },
+      "students": "0",
+      "fte": "0",
+      "pupilTeacherRatio": "†",
+      "numberOfSchools": "0"
+   },
+   {
+      "name": "Francine Delany New School",
+      "location": {
+         "state": {
+            "name": "North Carolina",
+            "abbr": "NC",
+            "county": "Buncombe County"
+         }
+      },
+      "type": "7-Independent Charter District",
+      "grades": {
+         "lowest": "Kindergarten",
+         "highest": "8th Grade"
+      },
+      "students": "180",
+      "fte": "14.75",
+      "pupilTeacherRatio": "12.2",
+      "numberOfSchools": "1"
+   },
+   {
+      "name": "Franklin Academy",
+      "location": {
+         "state": {
+            "name": "North Carolina",
+            "abbr": "NC",
+            "county": "Wake County"
+         }
+      },
+      "type": "7-Independent Charter District",
+      "grades": {
+         "lowest": "Kindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "1652",
+      "fte": "106.73",
+      "pupilTeacherRatio": "15.48",
+      "numberOfSchools": "1"
+   },
+   {
+      "name": "Franklin County Schools",
+      "location": {
+         "state": {
+            "name": "North Carolina",
+            "abbr": "NC",
+            "county": "Franklin County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "13th Grade"
+      },
+      "students": "8125",
+      "fte": "526.88",
+      "pupilTeacherRatio": "15.42",
+      "numberOfSchools": "16"
+   },
+   {
+      "name": "Gaston College Preparatory",
+      "location": {
+         "state": {
+            "name": "North Carolina",
+            "abbr": "NC",
+            "county": "Northampton County"
+         }
+      },
+      "type": "7-Independent Charter District",
+      "grades": {
+         "lowest": "Kindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "1291",
+      "fte": "83.38",
+      "pupilTeacherRatio": "15.48",
+      "numberOfSchools": "1"
+   },
+   {
+      "name": "Gaston County Schools",
+      "location": {
+         "state": {
+            "name": "North Carolina",
+            "abbr": "NC",
+            "county": "Gaston County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "13th Grade"
+      },
+      "students": "31193",
+      "fte": "1908.53",
+      "pupilTeacherRatio": "16.34",
+      "numberOfSchools": "55"
+   },
+   {
+      "name": "Gate City Charter Academy",
+      "location": {
+         "state": {
+            "name": "NORTH CAROLINA",
+            "abbr": "NC",
+            "county": "Guilford County"
+         }
+      },
+      "type": "7-Independent Charter District",
+      "grades": {
+         "lowest": "Kindergarten",
+         "highest": "8th Grade"
+      },
+      "students": "663",
+      "fte": "33.45",
+      "pupilTeacherRatio": "19.82",
+      "numberOfSchools": "1"
+   },
+   {
+      "name": "Gates County Schools",
+      "location": {
+         "state": {
+            "name": "North Carolina",
+            "abbr": "NC",
+            "county": "Gates County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "1637",
+      "fte": "129.7",
+      "pupilTeacherRatio": "12.62",
+      "numberOfSchools": "5"
+   },
+   {
+      "name": "Girls Leadership Academy of Wilmington",
+      "location": {
+         "state": {
+            "name": "NORTH CAROLINA",
+            "abbr": "NC",
+            "county": "New Hanover County"
+         }
+      },
+      "type": "7-Independent Charter District",
+      "grades": {
+         "lowest": "6th Grade",
+         "highest": "9th Grade"
+      },
+      "students": "296",
+      "fte": "21.88",
+      "pupilTeacherRatio": "13.53",
+      "numberOfSchools": "1"
+   },
+   {
+      "name": "Global Scholars Academy",
+      "location": {
+         "state": {
+            "name": "North Carolina",
+            "abbr": "NC",
+            "county": "Durham County"
+         }
+      },
+      "type": "7-Independent Charter District",
+      "grades": {
+         "lowest": "Kindergarten",
+         "highest": "8th Grade"
+      },
+      "students": "217",
+      "fte": "20.16",
+      "pupilTeacherRatio": "10.76",
+      "numberOfSchools": "1"
+   },
+   {
+      "name": "Graham County Schools",
+      "location": {
+         "state": {
+            "name": "North Carolina",
+            "abbr": "NC",
+            "county": "Graham County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "1187",
+      "fte": "90.85",
+      "pupilTeacherRatio": "13.07",
+      "numberOfSchools": "3"
+   },
+   {
+      "name": "Grandfather Academy",
+      "location": {
+         "state": {
+            "name": "North Carolina",
+            "abbr": "NC",
+            "county": "Avery County"
+         }
+      },
+      "type": "7-Independent Charter District",
+      "grades": {
+         "lowest": "1st Grade",
+         "highest": "12th Grade"
+      },
+      "students": "32",
+      "fte": "6",
+      "pupilTeacherRatio": "5.33",
+      "numberOfSchools": "1"
+   },
+   {
+      "name": "Granville County Schools",
+      "location": {
+         "state": {
+            "name": "North Carolina",
+            "abbr": "NC",
+            "county": "Granville County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "13th Grade"
+      },
+      "students": "7369",
+      "fte": "452.97",
+      "pupilTeacherRatio": "16.27",
+      "numberOfSchools": "18"
+   },
+   {
+      "name": "Gray Stone Day School",
+      "location": {
+         "state": {
+            "name": "North Carolina",
+            "abbr": "NC",
+            "county": "Stanly County"
+         }
+      },
+      "type": "7-Independent Charter District",
+      "grades": {
+         "lowest": "6th Grade",
+         "highest": "12th Grade"
+      },
+      "students": "814",
+      "fte": "48",
+      "pupilTeacherRatio": "16.96",
+      "numberOfSchools": "1"
+   },
+   {
+      "name": "Greene County Schools",
+      "location": {
+         "state": {
+            "name": "North Carolina",
+            "abbr": "NC",
+            "county": "Greene County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Kindergarten",
+         "highest": "13th Grade"
+      },
+      "students": "2874",
+      "fte": "210.3",
+      "pupilTeacherRatio": "13.67",
+      "numberOfSchools": "6"
+   },
+   {
+      "name": "Greensboro Academy",
+      "location": {
+         "state": {
+            "name": "North Carolina",
+            "abbr": "NC",
+            "county": "Guilford County"
+         }
+      },
+      "type": "7-Independent Charter District",
+      "grades": {
+         "lowest": "Kindergarten",
+         "highest": "8th Grade"
+      },
+      "students": "758",
+      "fte": "35.7",
+      "pupilTeacherRatio": "21.23",
+      "numberOfSchools": "1"
+   },
+   {
+      "name": "Guilford County Schools",
+      "location": {
+         "state": {
+            "name": "North Carolina",
+            "abbr": "NC",
+            "county": "Guilford County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "13th Grade"
+      },
+      "students": "72682",
+      "fte": "4688.43",
+      "pupilTeacherRatio": "15.5",
+      "numberOfSchools": "124"
+   },
+   {
+      "name": "Guilford Preparatory Academy",
+      "location": {
+         "state": {
+            "name": "North Carolina",
+            "abbr": "NC",
+            "county": "Guilford County"
+         }
+      },
+      "type": "7-Independent Charter District",
+      "grades": {
+         "lowest": "Kindergarten",
+         "highest": "8th Grade"
+      },
+      "students": "338",
+      "fte": "23.81",
+      "pupilTeacherRatio": "14.2",
+      "numberOfSchools": "1"
+   },
+   {
+      "name": "Halifax County Schools",
+      "location": {
+         "state": {
+            "name": "North Carolina",
+            "abbr": "NC",
+            "county": "Halifax County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "13th Grade"
+      },
+      "students": "2333",
+      "fte": "167.85",
+      "pupilTeacherRatio": "13.9",
+      "numberOfSchools": "11"
+   },
+   {
+      "name": "Haliwa-Saponi Tribal School",
+      "location": {
+         "state": {
+            "name": "North Carolina",
+            "abbr": "NC",
+            "county": "Warren County"
+         }
+      },
+      "type": "7-Independent Charter District",
+      "grades": {
+         "lowest": "Kindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "150",
+      "fte": "11.32",
+      "pupilTeacherRatio": "13.25",
+      "numberOfSchools": "1"
+   },
+   {
+      "name": "Harnett County Schools",
+      "location": {
+         "state": {
+            "name": "North Carolina",
+            "abbr": "NC",
+            "county": "Harnett County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "13th Grade"
+      },
+      "students": "20416",
+      "fte": "1256.57",
+      "pupilTeacherRatio": "16.25",
+      "numberOfSchools": "28"
+   },
+   {
+      "name": "Haywood County Schools",
+      "location": {
+         "state": {
+            "name": "North Carolina",
+            "abbr": "NC",
+            "county": "Haywood County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "13th Grade"
+      },
+      "students": "7208",
+      "fte": "493.9",
+      "pupilTeacherRatio": "14.59",
+      "numberOfSchools": "15"
+   },
+   {
+      "name": "Healthy Start Academy",
+      "location": {
+         "state": {
+            "name": "North Carolina",
+            "abbr": "NC",
+            "county": "Durham County"
+         }
+      },
+      "type": "7-Independent Charter District",
+      "grades": {
+         "lowest": "Kindergarten",
+         "highest": "8th Grade"
+      },
+      "students": "470",
+      "fte": "33.15",
+      "pupilTeacherRatio": "14.18",
+      "numberOfSchools": "1"
+   },
+   {
+      "name": "Henderson Collegiate",
+      "location": {
+         "state": {
+            "name": "North Carolina",
+            "abbr": "NC",
+            "county": "Vance County"
+         }
+      },
+      "type": "7-Independent Charter District",
+      "grades": {
+         "lowest": "Kindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "1328",
+      "fte": "80.06",
+      "pupilTeacherRatio": "16.59",
+      "numberOfSchools": "1"
+   },
+   {
+      "name": "Henderson County Schools",
+      "location": {
+         "state": {
+            "name": "North Carolina",
+            "abbr": "NC",
+            "county": "Henderson County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Kindergarten",
+         "highest": "13th Grade"
+      },
+      "students": "13396",
+      "fte": "878.75",
+      "pupilTeacherRatio": "15.24",
+      "numberOfSchools": "23"
+   },
+   {
+      "name": "Hertford County Schools",
+      "location": {
+         "state": {
+            "name": "North Carolina",
+            "abbr": "NC",
+            "county": "Hertford County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "13th Grade"
+      },
+      "students": "2758",
+      "fte": "188.15",
+      "pupilTeacherRatio": "14.66",
+      "numberOfSchools": "7"
+   },
+   {
+      "name": "Hickory City Schools",
+      "location": {
+         "state": {
+            "name": "North Carolina",
+            "abbr": "NC",
+            "county": "Catawba County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "13th Grade"
+      },
+      "students": "4218",
+      "fte": "272.87",
+      "pupilTeacherRatio": "15.46",
+      "numberOfSchools": "9"
+   },
+   {
+      "name": "Hobgood Charter School",
+      "location": {
+         "state": {
+            "name": "NORTH CAROLINA",
+            "abbr": "NC",
+            "county": "Halifax County"
+         }
+      },
+      "type": "7-Independent Charter District",
+      "grades": {
+         "lowest": "Kindergarten",
+         "highest": "8th Grade"
+      },
+      "students": "223",
+      "fte": "17",
+      "pupilTeacherRatio": "13.12",
+      "numberOfSchools": "1"
+   },
+   {
+      "name": "Hoke County Schools",
+      "location": {
+         "state": {
+            "name": "North Carolina",
+            "abbr": "NC",
+            "county": "Hoke County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "13th Grade"
+      },
+      "students": "9051",
+      "fte": "592.76",
+      "pupilTeacherRatio": "15.27",
+      "numberOfSchools": "14"
+   },
+   {
+      "name": "Hyde County Schools",
+      "location": {
+         "state": {
+            "name": "North Carolina",
+            "abbr": "NC",
+            "county": "Hyde County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "13th Grade"
+      },
+      "students": "561",
+      "fte": "57.18",
+      "pupilTeacherRatio": "9.81",
+      "numberOfSchools": "3"
+   },
+   {
+      "name": "Ignite Innovation Academy - Pitt",
+      "location": {
+         "state": {
+            "name": "NORTH CAROLINA",
+            "abbr": "NC",
+            "county": "Pitt County"
+         }
+      },
+      "type": "7-Independent Charter District",
+      "grades": {
+         "lowest": "Kindergarten",
+         "highest": "8th Grade"
+      },
+      "students": "171",
+      "fte": "12.11",
+      "pupilTeacherRatio": "14.12",
+      "numberOfSchools": "1"
+   },
+   {
+      "name": "Innovative School District",
+      "location": {
+         "state": {
+            "name": "NORTH CAROLINA",
+            "abbr": "NC",
+            "county": "Wake County"
+         }
+      },
+      "type": "5-State agency providing elementary and/or secondary level instruction",
+      "grades": {
+         "lowest": "Kindergarten",
+         "highest": "5th Grade"
+      },
+      "students": "216",
+      "fte": "15.5",
+      "pupilTeacherRatio": "13.94",
+      "numberOfSchools": "1"
+   },
+   {
+      "name": "Invest Collegiate",
+      "location": {
+         "state": {
+            "name": "North Carolina",
+            "abbr": "NC",
+            "county": "Mecklenburg County"
+         }
+      },
+      "type": "7-Independent Charter District",
+      "grades": {
+         "lowest": "Kindergarten",
+         "highest": "9th Grade"
+      },
+      "students": "367",
+      "fte": "19.88",
+      "pupilTeacherRatio": "18.46",
+      "numberOfSchools": "1"
+   },
+   {
+      "name": "Invest Collegiate - Imagine",
+      "location": {
+         "state": {
+            "name": "North Carolina",
+            "abbr": "NC",
+            "county": "Buncombe County"
+         }
+      },
+      "type": "7-Independent Charter District",
+      "grades": {
+         "lowest": "Kindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "1165",
+      "fte": "83.04",
+      "pupilTeacherRatio": "14.03",
+      "numberOfSchools": "1"
+   },
+   {
+      "name": "Iredell Charter Academy",
+      "location": {
+         "state": {
+            "name": "NORTH CAROLINA",
+            "abbr": "NC",
+            "county": "Iredell County"
+         }
+      },
+      "type": "7-Independent Charter District",
+      "grades": {
+         "lowest": "Kindergarten",
+         "highest": "8th Grade"
+      },
+      "students": "650",
+      "fte": "43",
+      "pupilTeacherRatio": "15.12",
+      "numberOfSchools": "1"
+   },
+   {
+      "name": "Iredell-Statesville Schools",
+      "location": {
+         "state": {
+            "name": "North Carolina",
+            "abbr": "NC",
+            "county": "Iredell County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "13th Grade"
+      },
+      "students": "20606",
+      "fte": "1230.75",
+      "pupilTeacherRatio": "16.74",
+      "numberOfSchools": "37"
+   },
+   {
+      "name": "Island Montessori Charter",
+      "location": {
+         "state": {
+            "name": "North Carolina",
+            "abbr": "NC",
+            "county": "New Hanover County"
+         }
+      },
+      "type": "7-Independent Charter District",
+      "grades": {
+         "lowest": "Kindergarten",
+         "highest": "8th Grade"
+      },
+      "students": "220",
+      "fte": "20.3",
+      "pupilTeacherRatio": "10.84",
+      "numberOfSchools": "1"
+   },
+   {
+      "name": "Jackson County Public Schools",
+      "location": {
+         "state": {
+            "name": "North Carolina",
+            "abbr": "NC",
+            "county": "Jackson County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "13th Grade"
+      },
+      "students": "3636",
+      "fte": "241.35",
+      "pupilTeacherRatio": "15.07",
+      "numberOfSchools": "9"
+   },
+   {
+      "name": "Johnston Charter Academy",
+      "location": {
+         "state": {
+            "name": "NORTH CAROLINA",
+            "abbr": "NC",
+            "county": "Johnston County"
+         }
+      },
+      "type": "7-Independent Charter District",
+      "grades": {
+         "lowest": "Kindergarten",
+         "highest": "8th Grade"
+      },
+      "students": "716",
+      "fte": "33.08",
+      "pupilTeacherRatio": "21.64",
+      "numberOfSchools": "1"
+   },
+   {
+      "name": "Johnston County Public Schools",
+      "location": {
+         "state": {
+            "name": "North Carolina",
+            "abbr": "NC",
+            "county": "Johnston County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "13th Grade"
+      },
+      "students": "37295",
+      "fte": "2435.51",
+      "pupilTeacherRatio": "15.31",
+      "numberOfSchools": "45"
+   },
+   {
+      "name": "Jones County Schools",
+      "location": {
+         "state": {
+            "name": "North Carolina",
+            "abbr": "NC",
+            "county": "Jones County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "1101",
+      "fte": "81.43",
+      "pupilTeacherRatio": "13.52",
+      "numberOfSchools": "5"
+   },
+   {
+      "name": "Kaleidoscope Charter High School",
+      "location": {
+         "state": {
+            "name": "NORTH CAROLINA",
+            "abbr": "NC",
+            "county": "Wake County"
+         }
+      },
+      "type": "7-Independent Charter District",
+      "grades": {
+         "lowest": "–",
+         "highest": "–"
+      },
+      "students": "†",
+      "fte": "†",
+      "pupilTeacherRatio": "†",
+      "numberOfSchools": "0"
+   },
+   {
+      "name": "Kannapolis City Schools",
+      "location": {
+         "state": {
+            "name": "North Carolina",
+            "abbr": "NC",
+            "county": "Cabarrus County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "5459",
+      "fte": "369.11",
+      "pupilTeacherRatio": "14.79",
+      "numberOfSchools": "8"
+   },
+   {
+      "name": "Kestrel Heights School",
+      "location": {
+         "state": {
+            "name": "North Carolina",
+            "abbr": "NC",
+            "county": "Durham County"
+         }
+      },
+      "type": "7-Independent Charter District",
+      "grades": {
+         "lowest": "Kindergarten",
+         "highest": "8th Grade"
+      },
+      "students": "505",
+      "fte": "33.75",
+      "pupilTeacherRatio": "14.96",
+      "numberOfSchools": "1"
+   },
+   {
+      "name": "Kipp Durham College Preparatory",
+      "location": {
+         "state": {
+            "name": "NORTH CAROLINA",
+            "abbr": "NC",
+            "county": "Durham County"
+         }
+      },
+      "type": "7-Independent Charter District",
+      "grades": {
+         "lowest": "5th Grade",
+         "highest": "8th Grade"
+      },
+      "students": "370",
+      "fte": "22.19",
+      "pupilTeacherRatio": "16.67",
+      "numberOfSchools": "1"
+   },
+   {
+      "name": "Kipp Halifax College Preparatory",
+      "location": {
+         "state": {
+            "name": "North Carolina",
+            "abbr": "NC",
+            "county": "Halifax County"
+         }
+      },
+      "type": "7-Independent Charter District",
+      "grades": {
+         "lowest": "Kindergarten",
+         "highest": "8th Grade"
+      },
+      "students": "520",
+      "fte": "34.21",
+      "pupilTeacherRatio": "15.2",
+      "numberOfSchools": "1"
+   },
+   {
+      "name": "Kipp: Charlotte",
+      "location": {
+         "state": {
+            "name": "North Carolina",
+            "abbr": "NC",
+            "county": "Mecklenburg County"
+         }
+      },
+      "type": "7-Independent Charter District",
+      "grades": {
+         "lowest": "Kindergarten",
+         "highest": "8th Grade"
+      },
+      "students": "862",
+      "fte": "41.43",
+      "pupilTeacherRatio": "20.81",
+      "numberOfSchools": "1"
+   },
+   {
+      "name": "Lake Lure Classical Academy",
+      "location": {
+         "state": {
+            "name": "North Carolina",
+            "abbr": "NC",
+            "county": "Rutherford County"
+         }
+      },
+      "type": "7-Independent Charter District",
+      "grades": {
+         "lowest": "Kindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "518",
+      "fte": "24.89",
+      "pupilTeacherRatio": "20.81",
+      "numberOfSchools": "1"
+   },
+   {
+      "name": "Lake Norman Charter",
+      "location": {
+         "state": {
+            "name": "North Carolina",
+            "abbr": "NC",
+            "county": "Mecklenburg County"
+         }
+      },
+      "type": "7-Independent Charter District",
+      "grades": {
+         "lowest": "Kindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "2103",
+      "fte": "121.56",
+      "pupilTeacherRatio": "17.3",
+      "numberOfSchools": "1"
+   },
+   {
+      "name": "Lakeside Charter Acad  Fka Thunderbird",
+      "location": {
+         "state": {
+            "name": "North Carolina",
+            "abbr": "NC",
+            "county": "Mecklenburg County"
+         }
+      },
+      "type": "7-Independent Charter District",
+      "grades": {
+         "lowest": "Kindergarten",
+         "highest": "8th Grade"
+      },
+      "students": "158",
+      "fte": "13.38",
+      "pupilTeacherRatio": "11.81",
+      "numberOfSchools": "1"
+   },
+   {
+      "name": "Langtree Charter Academy",
+      "location": {
+         "state": {
+            "name": "North Carolina",
+            "abbr": "NC",
+            "county": "Iredell County"
+         }
+      },
+      "type": "7-Independent Charter District",
+      "grades": {
+         "lowest": "Kindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "1566",
+      "fte": "110",
+      "pupilTeacherRatio": "14.24",
+      "numberOfSchools": "1"
+   },
+   {
+      "name": "Lee County Schools",
+      "location": {
+         "state": {
+            "name": "North Carolina",
+            "abbr": "NC",
+            "county": "Lee County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "13th Grade"
+      },
+      "students": "10119",
+      "fte": "671.8",
+      "pupilTeacherRatio": "15.06",
+      "numberOfSchools": "17"
+   },
+   {
+      "name": "Lenoir County Public Schools",
+      "location": {
+         "state": {
+            "name": "North Carolina",
+            "abbr": "NC",
+            "county": "Lenoir County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "13th Grade"
+      },
+      "students": "8612",
+      "fte": "555.42",
+      "pupilTeacherRatio": "15.51",
+      "numberOfSchools": "17"
+   },
+   {
+      "name": "Lexington City Schools",
+      "location": {
+         "state": {
+            "name": "North Carolina",
+            "abbr": "NC",
+            "county": "Davidson County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "3131",
+      "fte": "201.95",
+      "pupilTeacherRatio": "15.5",
+      "numberOfSchools": "7"
+   },
+   {
+      "name": "Lincoln Charter School",
+      "location": {
+         "state": {
+            "name": "North Carolina",
+            "abbr": "NC",
+            "county": "Lincoln County"
+         }
+      },
+      "type": "7-Independent Charter District",
+      "grades": {
+         "lowest": "Kindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "2155",
+      "fte": "119.53",
+      "pupilTeacherRatio": "18.03",
+      "numberOfSchools": "1"
+   },
+   {
+      "name": "Lincoln County Schools",
+      "location": {
+         "state": {
+            "name": "North Carolina",
+            "abbr": "NC",
+            "county": "Lincoln County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "11571",
+      "fte": "728.64",
+      "pupilTeacherRatio": "15.88",
+      "numberOfSchools": "23"
+   },
+   {
+      "name": "Links to Learning",
+      "location": {
+         "state": {
+            "name": "North Carolina",
+            "abbr": "NC",
+            "county": "Durham County"
+         }
+      },
+      "type": "8-Other education agencies",
+      "grades": {
+         "lowest": "†",
+         "highest": "†"
+      },
+      "students": "†",
+      "fte": "†",
+      "pupilTeacherRatio": "†",
+      "numberOfSchools": "0"
+   },
+   {
+      "name": "Longleaf School of the Arts",
+      "location": {
+         "state": {
+            "name": "North Carolina",
+            "abbr": "NC",
+            "county": "Wake County"
+         }
+      },
+      "type": "7-Independent Charter District",
+      "grades": {
+         "lowest": "9th Grade",
+         "highest": "12th Grade"
+      },
+      "students": "349",
+      "fte": "28.5",
+      "pupilTeacherRatio": "12.25",
+      "numberOfSchools": "1"
+   },
+   {
+      "name": "Macon County Schools",
+      "location": {
+         "state": {
+            "name": "North Carolina",
+            "abbr": "NC",
+            "county": "Macon County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "13th Grade"
+      },
+      "students": "4529",
+      "fte": "320.13",
+      "pupilTeacherRatio": "14.15",
+      "numberOfSchools": "11"
+   },
+   {
+      "name": "Madison County Schools",
+      "location": {
+         "state": {
+            "name": "North Carolina",
+            "abbr": "NC",
+            "county": "Madison County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Kindergarten",
+         "highest": "13th Grade"
+      },
+      "students": "2244",
+      "fte": "171.31",
+      "pupilTeacherRatio": "13.1",
+      "numberOfSchools": "7"
+   },
+   {
+      "name": "Magellan Charter",
+      "location": {
+         "state": {
+            "name": "North Carolina",
+            "abbr": "NC",
+            "county": "Wake County"
+         }
+      },
+      "type": "7-Independent Charter District",
+      "grades": {
+         "lowest": "3rd Grade",
+         "highest": "8th Grade"
+      },
+      "students": "406",
+      "fte": "28.8",
+      "pupilTeacherRatio": "14.1",
+      "numberOfSchools": "1"
+   },
+   {
+      "name": "Mallard Creek Stem Academy",
+      "location": {
+         "state": {
+            "name": "NORTH CAROLINA",
+            "abbr": "NC",
+            "county": "Mecklenburg County"
+         }
+      },
+      "type": "7-Independent Charter District",
+      "grades": {
+         "lowest": "Kindergarten",
+         "highest": "8th Grade"
+      },
+      "students": "906",
+      "fte": "57.57",
+      "pupilTeacherRatio": "15.74",
+      "numberOfSchools": "1"
+   },
+   {
+      "name": "Martin County Schools",
+      "location": {
+         "state": {
+            "name": "North Carolina",
+            "abbr": "NC",
+            "county": "Martin County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "2906",
+      "fte": "223.23",
+      "pupilTeacherRatio": "13.02",
+      "numberOfSchools": "8"
+   },
+   {
+      "name": "Matthews Charter Academy",
+      "location": {
+         "state": {
+            "name": "NORTH CAROLINA",
+            "abbr": "NC",
+            "county": "Mecklenburg County"
+         }
+      },
+      "type": "7-Independent Charter District",
+      "grades": {
+         "lowest": "Kindergarten",
+         "highest": "8th Grade"
+      },
+      "students": "747",
+      "fte": "37.72",
+      "pupilTeacherRatio": "19.8",
+      "numberOfSchools": "1"
+   },
+   {
+      "name": "Maureen Joy Charter",
+      "location": {
+         "state": {
+            "name": "North Carolina",
+            "abbr": "NC",
+            "county": "Durham County"
+         }
+      },
+      "type": "7-Independent Charter District",
+      "grades": {
+         "lowest": "Kindergarten",
+         "highest": "8th Grade"
+      },
+      "students": "640",
+      "fte": "59",
+      "pupilTeacherRatio": "10.85",
+      "numberOfSchools": "1"
+   },
+   {
+      "name": "Mcdowell County Schools",
+      "location": {
+         "state": {
+            "name": "North Carolina",
+            "abbr": "NC",
+            "county": "McDowell County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "13th Grade"
+      },
+      "students": "5905",
+      "fte": "418.48",
+      "pupilTeacherRatio": "14.11",
+      "numberOfSchools": "14"
+   },
+   {
+      "name": "Metrolina Regional Scholars Academy",
+      "location": {
+         "state": {
+            "name": "North Carolina",
+            "abbr": "NC",
+            "county": "Mecklenburg County"
+         }
+      },
+      "type": "7-Independent Charter District",
+      "grades": {
+         "lowest": "Kindergarten",
+         "highest": "8th Grade"
+      },
+      "students": "373",
+      "fte": "23.32",
+      "pupilTeacherRatio": "15.99",
+      "numberOfSchools": "1"
+   },
+   {
+      "name": "Millennium Charter Academy",
+      "location": {
+         "state": {
+            "name": "North Carolina",
+            "abbr": "NC",
+            "county": "Surry County"
+         }
+      },
+      "type": "7-Independent Charter District",
+      "grades": {
+         "lowest": "Kindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "822",
+      "fte": "57.63",
+      "pupilTeacherRatio": "14.26",
+      "numberOfSchools": "1"
+   },
+   {
+      "name": "Mina Charter School of Lee County",
+      "location": {
+         "state": {
+            "name": "NORTH CAROLINA",
+            "abbr": "NC",
+            "county": "Lee County"
+         }
+      },
+      "type": "7-Independent Charter District",
+      "grades": {
+         "lowest": "–",
+         "highest": "–"
+      },
+      "students": "†",
+      "fte": "†",
+      "pupilTeacherRatio": "†",
+      "numberOfSchools": "0"
+   },
+   {
+      "name": "Mitchell County Schools",
+      "location": {
+         "state": {
+            "name": "North Carolina",
+            "abbr": "NC",
+            "county": "Mitchell County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Kindergarten",
+         "highest": "13th Grade"
+      },
+      "students": "1837",
+      "fte": "139.56",
+      "pupilTeacherRatio": "13.16",
+      "numberOfSchools": "7"
+   },
+   {
+      "name": "Monroe Charter Academy",
+      "location": {
+         "state": {
+            "name": "NORTH CAROLINA",
+            "abbr": "NC",
+            "county": "Union County"
+         }
+      },
+      "type": "7-Independent Charter District",
+      "grades": {
+         "lowest": "Kindergarten",
+         "highest": "3rd Grade"
+      },
+      "students": "83",
+      "fte": "7.28",
+      "pupilTeacherRatio": "11.4",
+      "numberOfSchools": "1"
+   },
+   {
+      "name": "Montgomery County Schools",
+      "location": {
+         "state": {
+            "name": "North Carolina",
+            "abbr": "NC",
+            "county": "Montgomery County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "3851",
+      "fte": "254.47",
+      "pupilTeacherRatio": "15.13",
+      "numberOfSchools": "12"
+   },
+   {
+      "name": "Moore County Schools",
+      "location": {
+         "state": {
+            "name": "North Carolina",
+            "abbr": "NC",
+            "county": "Moore County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "12897",
+      "fte": "791.61",
+      "pupilTeacherRatio": "16.29",
+      "numberOfSchools": "24"
+   },
+   {
+      "name": "Moore Montessori Community School",
+      "location": {
+         "state": {
+            "name": "NORTH CAROLINA",
+            "abbr": "NC",
+            "county": "Moore County"
+         }
+      },
+      "type": "7-Independent Charter District",
+      "grades": {
+         "lowest": "Kindergarten",
+         "highest": "3rd Grade"
+      },
+      "students": "117",
+      "fte": "6.86",
+      "pupilTeacherRatio": "17.06",
+      "numberOfSchools": "1"
+   },
+   {
+      "name": "Mooresville Graded School District",
+      "location": {
+         "state": {
+            "name": "North Carolina",
+            "abbr": "NC",
+            "county": "Iredell County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "6080",
+      "fte": "387.65",
+      "pupilTeacherRatio": "15.68",
+      "numberOfSchools": "8"
+   },
+   {
+      "name": "Moss Street Partnership School",
+      "location": {
+         "state": {
+            "name": "NORTH CAROLINA",
+            "abbr": "NC",
+            "county": "Rockingham County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Kindergarten",
+         "highest": "5th Grade"
+      },
+      "students": "383",
+      "fte": "27.71",
+      "pupilTeacherRatio": "13.82",
+      "numberOfSchools": "1"
+   },
+   {
+      "name": "Mount Airy City Schools",
+      "location": {
+         "state": {
+            "name": "North Carolina",
+            "abbr": "NC",
+            "county": "Surry County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "1640",
+      "fte": "114.03",
+      "pupilTeacherRatio": "14.38",
+      "numberOfSchools": "4"
+   },
+   {
+      "name": "Mountain Discovery Charter School",
+      "location": {
+         "state": {
+            "name": "North Carolina",
+            "abbr": "NC",
+            "county": "Swain County"
+         }
+      },
+      "type": "7-Independent Charter District",
+      "grades": {
+         "lowest": "Kindergarten",
+         "highest": "8th Grade"
+      },
+      "students": "181",
+      "fte": "12",
+      "pupilTeacherRatio": "15.08",
+      "numberOfSchools": "1"
+   },
+   {
+      "name": "Mountain Island Charter",
+      "location": {
+         "state": {
+            "name": "North Carolina",
+            "abbr": "NC",
+            "county": "Gaston County"
+         }
+      },
+      "type": "7-Independent Charter District",
+      "grades": {
+         "lowest": "Kindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "1552",
+      "fte": "90.54",
+      "pupilTeacherRatio": "17.14",
+      "numberOfSchools": "1"
+   },
+   {
+      "name": "Mountain Island Day Community Charter Sc",
+      "location": {
+         "state": {
+            "name": "NORTH CAROLINA",
+            "abbr": "NC",
+            "county": "Mecklenburg County"
+         }
+      },
+      "type": "7-Independent Charter District",
+      "grades": {
+         "lowest": "Kindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "504",
+      "fte": "34.95",
+      "pupilTeacherRatio": "14.42",
+      "numberOfSchools": "1"
+   },
+   {
+      "name": "Movement Charter School",
+      "location": {
+         "state": {
+            "name": "NORTH CAROLINA",
+            "abbr": "NC",
+            "county": "Mecklenburg County"
+         }
+      },
+      "type": "7-Independent Charter District",
+      "grades": {
+         "lowest": "Kindergarten",
+         "highest": "4th Grade"
+      },
+      "students": "484",
+      "fte": "28",
+      "pupilTeacherRatio": "17.29",
+      "numberOfSchools": "1"
+   },
+   {
+      "name": "Movement School East",
+      "location": {
+         "state": {
+            "name": "NORTH CAROLINA",
+            "abbr": "NC",
+            "county": "Mecklenburg County"
+         }
+      },
+      "type": "7-Independent Charter District",
+      "grades": {
+         "lowest": "–",
+         "highest": "–"
+      },
+      "students": "†",
+      "fte": "†",
+      "pupilTeacherRatio": "†",
+      "numberOfSchools": "0"
+   },
+   {
+      "name": "Nash-Rocky Mount Schools",
+      "location": {
+         "state": {
+            "name": "North Carolina",
+            "abbr": "NC",
+            "county": "Nash County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "13th Grade"
+      },
+      "students": "15237",
+      "fte": "917.61",
+      "pupilTeacherRatio": "16.61",
+      "numberOfSchools": "29"
+   },
+   {
+      "name": "Nc Central University",
+      "location": {
+         "state": {
+            "name": "North Carolina",
+            "abbr": "NC",
+            "county": "Durham County"
+         }
+      },
+      "type": "8-Other education agencies",
+      "grades": {
+         "lowest": "†",
+         "highest": "†"
+      },
+      "students": "†",
+      "fte": "†",
+      "pupilTeacherRatio": "†",
+      "numberOfSchools": "0"
+   },
+   {
+      "name": "Nc Health and Human Services",
+      "location": {
+         "state": {
+            "name": "North Carolina",
+            "abbr": "NC",
+            "county": "Wake County"
+         }
+      },
+      "type": "5-State agency providing elementary and/or secondary level instruction",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "13th Grade"
+      },
+      "students": "0",
+      "fte": "0",
+      "pupilTeacherRatio": "†",
+      "numberOfSchools": "0"
+   },
+   {
+      "name": "Nc Leadership Charter Academy",
+      "location": {
+         "state": {
+            "name": "North Carolina",
+            "abbr": "NC",
+            "county": "Forsyth County"
+         }
+      },
+      "type": "7-Independent Charter District",
+      "grades": {
+         "lowest": "Kindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "934",
+      "fte": "54.43",
+      "pupilTeacherRatio": "17.16",
+      "numberOfSchools": "1"
+   },
+   {
+      "name": "Nc School of Science and Math",
+      "location": {
+         "state": {
+            "name": "North Carolina",
+            "abbr": "NC",
+            "county": "Durham County"
+         }
+      },
+      "type": "8-Other education agencies",
+      "grades": {
+         "lowest": "†",
+         "highest": "†"
+      },
+      "students": "†",
+      "fte": "†",
+      "pupilTeacherRatio": "†",
+      "numberOfSchools": "0"
+   },
+   {
+      "name": "Nc Virtual Academy",
+      "location": {
+         "state": {
+            "name": "NORTH CAROLINA",
+            "abbr": "NC",
+            "county": "Durham County"
+         }
+      },
+      "type": "7-Independent Charter District",
+      "grades": {
+         "lowest": "Kindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "2610",
+      "fte": "104.82",
+      "pupilTeacherRatio": "24.9",
+      "numberOfSchools": "1"
+   },
+   {
+      "name": "Nc Virtual Public School",
+      "location": {
+         "state": {
+            "name": "North Carolina",
+            "abbr": "NC",
+            "county": "Wake County"
+         }
+      },
+      "type": "8-Other education agencies",
+      "grades": {
+         "lowest": "7th Grade",
+         "highest": "13th Grade"
+      },
+      "students": "0",
+      "fte": "0",
+      "pupilTeacherRatio": "†",
+      "numberOfSchools": "1"
+   },
+   {
+      "name": "Ncdps Juvenile Education Services",
+      "location": {
+         "state": {
+            "name": "North Carolina",
+            "abbr": "NC",
+            "county": "Wake County"
+         }
+      },
+      "type": "5-State agency providing elementary and/or secondary level instruction",
+      "grades": {
+         "lowest": "5th Grade",
+         "highest": "12th Grade"
+      },
+      "students": "0",
+      "fte": "0",
+      "pupilTeacherRatio": "†",
+      "numberOfSchools": "0"
+   },
+   {
+      "name": "Neuse Charter School",
+      "location": {
+         "state": {
+            "name": "North Carolina",
+            "abbr": "NC",
+            "county": "Johnston County"
+         }
+      },
+      "type": "7-Independent Charter District",
+      "grades": {
+         "lowest": "Kindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "947",
+      "fte": "57.59",
+      "pupilTeacherRatio": "16.44",
+      "numberOfSchools": "1"
+   },
+   {
+      "name": "New Hanover County Schools",
+      "location": {
+         "state": {
+            "name": "North Carolina",
+            "abbr": "NC",
+            "county": "New Hanover County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "13th Grade"
+      },
+      "students": "25938",
+      "fte": "1704.85",
+      "pupilTeacherRatio": "15.21",
+      "numberOfSchools": "42"
+   },
+   {
+      "name": "Newton Conover City Schools",
+      "location": {
+         "state": {
+            "name": "North Carolina",
+            "abbr": "NC",
+            "county": "Catawba County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "3001",
+      "fte": "182.83",
+      "pupilTeacherRatio": "16.41",
+      "numberOfSchools": "7"
+   },
+   {
+      "name": "Next Generation Academy",
+      "location": {
+         "state": {
+            "name": "NORTH CAROLINA",
+            "abbr": "NC",
+            "county": "Guilford County"
+         }
+      },
+      "type": "7-Independent Charter District",
+      "grades": {
+         "lowest": "Kindergarten",
+         "highest": "3rd Grade"
+      },
+      "students": "261",
+      "fte": "17.91",
+      "pupilTeacherRatio": "14.57",
+      "numberOfSchools": "1"
+   },
+   {
+      "name": "Niner University Elementary School",
+      "location": {
+         "state": {
+            "name": "NORTH CAROLINA",
+            "abbr": "NC",
+            "county": "Mecklenburg County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Kindergarten",
+         "highest": "2nd Grade"
+      },
+      "students": "0",
+      "fte": "0",
+      "pupilTeacherRatio": "†",
+      "numberOfSchools": "0"
+   },
+   {
+      "name": "North Carolina Cyber Academy",
+      "location": {
+         "state": {
+            "name": "NORTH CAROLINA",
+            "abbr": "NC",
+            "county": "Durham County"
+         }
+      },
+      "type": "7-Independent Charter District",
+      "grades": {
+         "lowest": "Kindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "2249",
+      "fte": "72.43",
+      "pupilTeacherRatio": "31.05",
+      "numberOfSchools": "1"
+   },
+   {
+      "name": "North East Carolina Preparatory School",
+      "location": {
+         "state": {
+            "name": "North Carolina",
+            "abbr": "NC",
+            "county": "Edgecombe County"
+         }
+      },
+      "type": "7-Independent Charter District",
+      "grades": {
+         "lowest": "Kindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "980",
+      "fte": "71.19",
+      "pupilTeacherRatio": "13.77",
+      "numberOfSchools": "1"
+   },
+   {
+      "name": "North Raleigh Charter Academy",
+      "location": {
+         "state": {
+            "name": "NORTH CAROLINA",
+            "abbr": "NC",
+            "county": "Wake County"
+         }
+      },
+      "type": "7-Independent Charter District",
+      "grades": {
+         "lowest": "–",
+         "highest": "–"
+      },
+      "students": "†",
+      "fte": "†",
+      "pupilTeacherRatio": "†",
+      "numberOfSchools": "0"
+   },
+   {
+      "name": "Northampton County Schools",
+      "location": {
+         "state": {
+            "name": "North Carolina",
+            "abbr": "NC",
+            "county": "Northampton County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "13th Grade"
+      },
+      "students": "1485",
+      "fte": "113.46",
+      "pupilTeacherRatio": "13.09",
+      "numberOfSchools": "7"
+   },
+   {
+      "name": "Northeast Academy of Aerospace & Advtech",
+      "location": {
+         "state": {
+            "name": "NORTH CAROLINA",
+            "abbr": "NC",
+            "county": "Pasquotank County"
+         }
+      },
+      "type": "7-Independent Charter District",
+      "grades": {
+         "lowest": "6th Grade",
+         "highest": "12th Grade"
+      },
+      "students": "591",
+      "fte": "29.87",
+      "pupilTeacherRatio": "19.79",
+      "numberOfSchools": "1"
+   },
+   {
+      "name": "Northeast Regional School - Biotech/agri",
+      "location": {
+         "state": {
+            "name": "North Carolina",
+            "abbr": "NC",
+            "county": "Martin County"
+         }
+      },
+      "type": "4-Regional Education Service Agency (RESA)",
+      "grades": {
+         "lowest": "9th Grade",
+         "highest": "13th Grade"
+      },
+      "students": "194",
+      "fte": "8.5",
+      "pupilTeacherRatio": "22.82",
+      "numberOfSchools": "1"
+   },
+   {
+      "name": "Onslow County Schools",
+      "location": {
+         "state": {
+            "name": "North Carolina",
+            "abbr": "NC",
+            "county": "Onslow County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "26946",
+      "fte": "1648.34",
+      "pupilTeacherRatio": "16.35",
+      "numberOfSchools": "36"
+   },
+   {
+      "name": "Orange County Schools",
+      "location": {
+         "state": {
+            "name": "North Carolina",
+            "abbr": "NC",
+            "county": "Orange County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "7456",
+      "fte": "518.07",
+      "pupilTeacherRatio": "14.39",
+      "numberOfSchools": "13"
+   },
+   {
+      "name": "Oxford Preparatory School",
+      "location": {
+         "state": {
+            "name": "North Carolina",
+            "abbr": "NC",
+            "county": "Granville County"
+         }
+      },
+      "type": "7-Independent Charter District",
+      "grades": {
+         "lowest": "5th Grade",
+         "highest": "12th Grade"
+      },
+      "students": "507",
+      "fte": "33.5",
+      "pupilTeacherRatio": "15.13",
+      "numberOfSchools": "1"
+   },
+   {
+      "name": "Pamlico County Schools",
+      "location": {
+         "state": {
+            "name": "North Carolina",
+            "abbr": "NC",
+            "county": "Pamlico County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "1285",
+      "fte": "102.34",
+      "pupilTeacherRatio": "12.56",
+      "numberOfSchools": "4"
+   },
+   {
+      "name": "Paul R Brown Leadership Academy",
+      "location": {
+         "state": {
+            "name": "North Carolina",
+            "abbr": "NC",
+            "county": "Bladen County"
+         }
+      },
+      "type": "7-Independent Charter District",
+      "grades": {
+         "lowest": "6th Grade",
+         "highest": "12th Grade"
+      },
+      "students": "154",
+      "fte": "15.69",
+      "pupilTeacherRatio": "9.82",
+      "numberOfSchools": "1"
+   },
+   {
+      "name": "Pave Southeast Raleigh Charter School",
+      "location": {
+         "state": {
+            "name": "NORTH CAROLINA",
+            "abbr": "NC",
+            "county": "Wake County"
+         }
+      },
+      "type": "7-Independent Charter District",
+      "grades": {
+         "lowest": "Kindergarten",
+         "highest": "5th Grade"
+      },
+      "students": "412",
+      "fte": "25.36",
+      "pupilTeacherRatio": "16.25",
+      "numberOfSchools": "1"
+   },
+   {
+      "name": "Peak Charter Academy",
+      "location": {
+         "state": {
+            "name": "NORTH CAROLINA",
+            "abbr": "NC",
+            "county": "Wake County"
+         }
+      },
+      "type": "7-Independent Charter District",
+      "grades": {
+         "lowest": "Kindergarten",
+         "highest": "8th Grade"
+      },
+      "students": "751",
+      "fte": "35.36",
+      "pupilTeacherRatio": "21.24",
+      "numberOfSchools": "1"
+   },
+   {
+      "name": "Pender County Schools",
+      "location": {
+         "state": {
+            "name": "North Carolina",
+            "abbr": "NC",
+            "county": "Pender County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "13th Grade"
+      },
+      "students": "9810",
+      "fte": "589.01",
+      "pupilTeacherRatio": "16.66",
+      "numberOfSchools": "18"
+   },
+   {
+      "name": "Perquimans County Schools",
+      "location": {
+         "state": {
+            "name": "North Carolina",
+            "abbr": "NC",
+            "county": "Perquimans County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "1663",
+      "fte": "118.19",
+      "pupilTeacherRatio": "14.07",
+      "numberOfSchools": "4"
+   },
+   {
+      "name": "Person County Schools",
+      "location": {
+         "state": {
+            "name": "North Carolina",
+            "abbr": "NC",
+            "county": "Person County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "4362",
+      "fte": "282.5",
+      "pupilTeacherRatio": "15.44",
+      "numberOfSchools": "11"
+   },
+   {
+      "name": "Phoenix Academy Inc",
+      "location": {
+         "state": {
+            "name": "North Carolina",
+            "abbr": "NC",
+            "county": "Guilford County"
+         }
+      },
+      "type": "7-Independent Charter District",
+      "grades": {
+         "lowest": "Kindergarten",
+         "highest": "8th Grade"
+      },
+      "students": "1001",
+      "fte": "60",
+      "pupilTeacherRatio": "16.68",
+      "numberOfSchools": "1"
+   },
+   {
+      "name": "Piedmont Classical High School",
+      "location": {
+         "state": {
+            "name": "NORTH CAROLINA",
+            "abbr": "NC",
+            "county": "Guilford County"
+         }
+      },
+      "type": "7-Independent Charter District",
+      "grades": {
+         "lowest": "9th Grade",
+         "highest": "12th Grade"
+      },
+      "students": "438",
+      "fte": "35.24",
+      "pupilTeacherRatio": "12.43",
+      "numberOfSchools": "1"
+   },
+   {
+      "name": "Piedmont Community Charter",
+      "location": {
+         "state": {
+            "name": "North Carolina",
+            "abbr": "NC",
+            "county": "Gaston County"
+         }
+      },
+      "type": "7-Independent Charter District",
+      "grades": {
+         "lowest": "Kindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "1355",
+      "fte": "77.87",
+      "pupilTeacherRatio": "17.4",
+      "numberOfSchools": "1"
+   },
+   {
+      "name": "Pine Lake Preparatory",
+      "location": {
+         "state": {
+            "name": "North Carolina",
+            "abbr": "NC",
+            "county": "Iredell County"
+         }
+      },
+      "type": "7-Independent Charter District",
+      "grades": {
+         "lowest": "Kindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "1877",
+      "fte": "106.95",
+      "pupilTeacherRatio": "17.55",
+      "numberOfSchools": "1"
+   },
+   {
+      "name": "Pine Springs Preparatory Academy: Cfa",
+      "location": {
+         "state": {
+            "name": "NORTH CAROLINA",
+            "abbr": "NC",
+            "county": "Wake County"
+         }
+      },
+      "type": "7-Independent Charter District",
+      "grades": {
+         "lowest": "Kindergarten",
+         "highest": "8th Grade"
+      },
+      "students": "765",
+      "fte": "43.69",
+      "pupilTeacherRatio": "17.51",
+      "numberOfSchools": "1"
+   },
+   {
+      "name": "Pinnacle Classical Academy",
+      "location": {
+         "state": {
+            "name": "North Carolina",
+            "abbr": "NC",
+            "county": "Cleveland County"
+         }
+      },
+      "type": "7-Independent Charter District",
+      "grades": {
+         "lowest": "Kindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "987",
+      "fte": "46.72",
+      "pupilTeacherRatio": "21.13",
+      "numberOfSchools": "1"
+   },
+   {
+      "name": "Pioneer Springs Community School",
+      "location": {
+         "state": {
+            "name": "North Carolina",
+            "abbr": "NC",
+            "county": "Mecklenburg County"
+         }
+      },
+      "type": "7-Independent Charter District",
+      "grades": {
+         "lowest": "Kindergarten",
+         "highest": "8th Grade"
+      },
+      "students": "367",
+      "fte": "28.99",
+      "pupilTeacherRatio": "12.66",
+      "numberOfSchools": "1"
+   },
+   {
+      "name": "Pitt County Schools",
+      "location": {
+         "state": {
+            "name": "North Carolina",
+            "abbr": "NC",
+            "county": "Pitt County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "13th Grade"
+      },
+      "students": "23975",
+      "fte": "1602.62",
+      "pupilTeacherRatio": "14.96",
+      "numberOfSchools": "38"
+   },
+   {
+      "name": "Pocosin Innovative Charter",
+      "location": {
+         "state": {
+            "name": "NORTH CAROLINA",
+            "abbr": "NC",
+            "county": "Washington County"
+         }
+      },
+      "type": "7-Independent Charter District",
+      "grades": {
+         "lowest": "Kindergarten",
+         "highest": "8th Grade"
+      },
+      "students": "139",
+      "fte": "8.29",
+      "pupilTeacherRatio": "16.77",
+      "numberOfSchools": "1"
+   },
+   {
+      "name": "Polk County Schools",
+      "location": {
+         "state": {
+            "name": "North Carolina",
+            "abbr": "NC",
+            "county": "Polk County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "13th Grade"
+      },
+      "students": "2201",
+      "fte": "172.5",
+      "pupilTeacherRatio": "12.76",
+      "numberOfSchools": "7"
+   },
+   {
+      "name": "Preeminent Charter School",
+      "location": {
+         "state": {
+            "name": "North Carolina",
+            "abbr": "NC",
+            "county": "Wake County"
+         }
+      },
+      "type": "7-Independent Charter District",
+      "grades": {
+         "lowest": "Kindergarten",
+         "highest": "8th Grade"
+      },
+      "students": "688",
+      "fte": "36.64",
+      "pupilTeacherRatio": "18.78",
+      "numberOfSchools": "1"
+   },
+   {
+      "name": "Project Excel Teach Academics",
+      "location": {
+         "state": {
+            "name": "North Carolina",
+            "abbr": "NC",
+            "county": "Wilson County"
+         }
+      },
+      "type": "8-Other education agencies",
+      "grades": {
+         "lowest": "†",
+         "highest": "†"
+      },
+      "students": "†",
+      "fte": "†",
+      "pupilTeacherRatio": "†",
+      "numberOfSchools": "0"
+   },
+   {
+      "name": "Public Schools of Robeson County",
+      "location": {
+         "state": {
+            "name": "North Carolina",
+            "abbr": "NC",
+            "county": "Robeson County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "13th Grade"
+      },
+      "students": "21783",
+      "fte": "1359.77",
+      "pupilTeacherRatio": "16.02",
+      "numberOfSchools": "36"
+   },
+   {
+      "name": "Quality Education Academy",
+      "location": {
+         "state": {
+            "name": "North Carolina",
+            "abbr": "NC",
+            "county": "Forsyth County"
+         }
+      },
+      "type": "7-Independent Charter District",
+      "grades": {
+         "lowest": "Kindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "569",
+      "fte": "56.63",
+      "pupilTeacherRatio": "10.05",
+      "numberOfSchools": "1"
+   },
+   {
+      "name": "Queen City Stem School",
+      "location": {
+         "state": {
+            "name": "NORTH CAROLINA",
+            "abbr": "NC",
+            "county": "Mecklenburg County"
+         }
+      },
+      "type": "7-Independent Charter District",
+      "grades": {
+         "lowest": "Kindergarten",
+         "highest": "9th Grade"
+      },
+      "students": "717",
+      "fte": "46.7",
+      "pupilTeacherRatio": "15.35",
+      "numberOfSchools": "1"
+   },
+   {
+      "name": "Queen's Grant Community School",
+      "location": {
+         "state": {
+            "name": "North Carolina",
+            "abbr": "NC",
+            "county": "Mecklenburg County"
+         }
+      },
+      "type": "7-Independent Charter District",
+      "grades": {
+         "lowest": "Kindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "1231",
+      "fte": "63.93",
+      "pupilTeacherRatio": "19.26",
+      "numberOfSchools": "1"
+   },
+   {
+      "name": "Quest Academy",
+      "location": {
+         "state": {
+            "name": "North Carolina",
+            "abbr": "NC",
+            "county": "Wake County"
+         }
+      },
+      "type": "7-Independent Charter District",
+      "grades": {
+         "lowest": "Kindergarten",
+         "highest": "8th Grade"
+      },
+      "students": "143",
+      "fte": "10",
+      "pupilTeacherRatio": "14.3",
+      "numberOfSchools": "1"
+   },
+   {
+      "name": "Raleigh Charter High School",
+      "location": {
+         "state": {
+            "name": "North Carolina",
+            "abbr": "NC",
+            "county": "Wake County"
+         }
+      },
+      "type": "7-Independent Charter District",
+      "grades": {
+         "lowest": "9th Grade",
+         "highest": "12th Grade"
+      },
+      "students": "562",
+      "fte": "40.44",
+      "pupilTeacherRatio": "13.9",
+      "numberOfSchools": "1"
+   },
+   {
+      "name": "Raleigh Oak Charter School",
+      "location": {
+         "state": {
+            "name": "NORTH CAROLINA",
+            "abbr": "NC",
+            "county": "Wake County"
+         }
+      },
+      "type": "7-Independent Charter District",
+      "grades": {
+         "lowest": "Kindergarten",
+         "highest": "5th Grade"
+      },
+      "students": "273",
+      "fte": "20.69",
+      "pupilTeacherRatio": "13.19",
+      "numberOfSchools": "1"
+   },
+   {
+      "name": "Randolph County School System",
+      "location": {
+         "state": {
+            "name": "North Carolina",
+            "abbr": "NC",
+            "county": "Randolph County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "13th Grade"
+      },
+      "students": "15971",
+      "fte": "992.45",
+      "pupilTeacherRatio": "16.09",
+      "numberOfSchools": "31"
+   },
+   {
+      "name": "Reaching All Minds Academy",
+      "location": {
+         "state": {
+            "name": "North Carolina",
+            "abbr": "NC",
+            "county": "Durham County"
+         }
+      },
+      "type": "7-Independent Charter District",
+      "grades": {
+         "lowest": "Kindergarten",
+         "highest": "8th Grade"
+      },
+      "students": "344",
+      "fte": "31",
+      "pupilTeacherRatio": "11.1",
+      "numberOfSchools": "1"
+   },
+   {
+      "name": "Research Triangle Charter",
+      "location": {
+         "state": {
+            "name": "North Carolina",
+            "abbr": "NC",
+            "county": "Durham County"
+         }
+      },
+      "type": "7-Independent Charter District",
+      "grades": {
+         "lowest": "Kindergarten",
+         "highest": "8th Grade"
+      },
+      "students": "732",
+      "fte": "34.18",
+      "pupilTeacherRatio": "21.42",
+      "numberOfSchools": "1"
+   },
+   {
+      "name": "Research Triangle High School",
+      "location": {
+         "state": {
+            "name": "North Carolina",
+            "abbr": "NC",
+            "county": "Durham County"
+         }
+      },
+      "type": "7-Independent Charter District",
+      "grades": {
+         "lowest": "9th Grade",
+         "highest": "12th Grade"
+      },
+      "students": "561",
+      "fte": "35",
+      "pupilTeacherRatio": "16.03",
+      "numberOfSchools": "1"
+   },
+   {
+      "name": "Revolution Academy",
+      "location": {
+         "state": {
+            "name": "NORTH CAROLINA",
+            "abbr": "NC",
+            "county": "Guilford County"
+         }
+      },
+      "type": "7-Independent Charter District",
+      "grades": {
+         "lowest": "–",
+         "highest": "–"
+      },
+      "students": "†",
+      "fte": "†",
+      "pupilTeacherRatio": "†",
+      "numberOfSchools": "0"
+   },
+   {
+      "name": "Richmond County Schools",
+      "location": {
+         "state": {
+            "name": "North Carolina",
+            "abbr": "NC",
+            "county": "Richmond County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "13th Grade"
+      },
+      "students": "7180",
+      "fte": "452.19",
+      "pupilTeacherRatio": "15.88",
+      "numberOfSchools": "15"
+   },
+   {
+      "name": "Ridgeview Charter School",
+      "location": {
+         "state": {
+            "name": "NORTH CAROLINA",
+            "abbr": "NC",
+            "county": "Gaston County"
+         }
+      },
+      "type": "7-Independent Charter District",
+      "grades": {
+         "lowest": "Kindergarten",
+         "highest": "4th Grade"
+      },
+      "students": "170",
+      "fte": "13.87",
+      "pupilTeacherRatio": "12.26",
+      "numberOfSchools": "1"
+   },
+   {
+      "name": "River Mill Academy",
+      "location": {
+         "state": {
+            "name": "North Carolina",
+            "abbr": "NC",
+            "county": "Alamance County"
+         }
+      },
+      "type": "7-Independent Charter District",
+      "grades": {
+         "lowest": "Kindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "822",
+      "fte": "45.51",
+      "pupilTeacherRatio": "18.06",
+      "numberOfSchools": "1"
+   },
+   {
+      "name": "Roanoke Rapids City Schools",
+      "location": {
+         "state": {
+            "name": "North Carolina",
+            "abbr": "NC",
+            "county": "Halifax County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "13th Grade"
+      },
+      "students": "2888",
+      "fte": "188.41",
+      "pupilTeacherRatio": "15.33",
+      "numberOfSchools": "5"
+   },
+   {
+      "name": "Rockingham County Schools",
+      "location": {
+         "state": {
+            "name": "North Carolina",
+            "abbr": "NC",
+            "county": "Rockingham County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "13th Grade"
+      },
+      "students": "11669",
+      "fte": "726.77",
+      "pupilTeacherRatio": "16.06",
+      "numberOfSchools": "22"
+   },
+   {
+      "name": "Rocky Mount Preparatory",
+      "location": {
+         "state": {
+            "name": "North Carolina",
+            "abbr": "NC",
+            "county": "Nash County"
+         }
+      },
+      "type": "7-Independent Charter District",
+      "grades": {
+         "lowest": "Kindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "1063",
+      "fte": "65.13",
+      "pupilTeacherRatio": "16.32",
+      "numberOfSchools": "1"
+   },
+   {
+      "name": "Rolesville Charter Academy",
+      "location": {
+         "state": {
+            "name": "NORTH CAROLINA",
+            "abbr": "NC",
+            "county": "Wake County"
+         }
+      },
+      "type": "7-Independent Charter District",
+      "grades": {
+         "lowest": "Kindergarten",
+         "highest": "7th Grade"
+      },
+      "students": "656",
+      "fte": "31.1",
+      "pupilTeacherRatio": "21.09",
+      "numberOfSchools": "1"
+   },
+   {
+      "name": "Rowan-Salisbury Schools",
+      "location": {
+         "state": {
+            "name": "North Carolina",
+            "abbr": "NC",
+            "county": "Rowan County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "18972",
+      "fte": "1231.63",
+      "pupilTeacherRatio": "15.4",
+      "numberOfSchools": "34"
+   },
+   {
+      "name": "Roxboro Community School",
+      "location": {
+         "state": {
+            "name": "North Carolina",
+            "abbr": "NC",
+            "county": "Person County"
+         }
+      },
+      "type": "7-Independent Charter District",
+      "grades": {
+         "lowest": "6th Grade",
+         "highest": "12th Grade"
+      },
+      "students": "715",
+      "fte": "47.72",
+      "pupilTeacherRatio": "14.98",
+      "numberOfSchools": "1"
+   },
+   {
+      "name": "Rutherford County Schools",
+      "location": {
+         "state": {
+            "name": "North Carolina",
+            "abbr": "NC",
+            "county": "Rutherford County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "13th Grade"
+      },
+      "students": "7825",
+      "fte": "516.99",
+      "pupilTeacherRatio": "15.14",
+      "numberOfSchools": "18"
+   },
+   {
+      "name": "Sallie B Howard School",
+      "location": {
+         "state": {
+            "name": "North Carolina",
+            "abbr": "NC",
+            "county": "Wilson County"
+         }
+      },
+      "type": "7-Independent Charter District",
+      "grades": {
+         "lowest": "Kindergarten",
+         "highest": "8th Grade"
+      },
+      "students": "1057",
+      "fte": "50.71",
+      "pupilTeacherRatio": "20.84",
+      "numberOfSchools": "1"
+   },
+   {
+      "name": "Sampson County Schools",
+      "location": {
+         "state": {
+            "name": "North Carolina",
+            "abbr": "NC",
+            "county": "Sampson County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "13th Grade"
+      },
+      "students": "8179",
+      "fte": "513.59",
+      "pupilTeacherRatio": "15.93",
+      "numberOfSchools": "18"
+   },
+   {
+      "name": "Sandhills Theatre Arts Renaiss",
+      "location": {
+         "state": {
+            "name": "North Carolina",
+            "abbr": "NC",
+            "county": "Moore County"
+         }
+      },
+      "type": "7-Independent Charter District",
+      "grades": {
+         "lowest": "Kindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "573",
+      "fte": "41.97",
+      "pupilTeacherRatio": "13.65",
+      "numberOfSchools": "1"
+   },
+   {
+      "name": "Scotland County Schools",
+      "location": {
+         "state": {
+            "name": "North Carolina",
+            "abbr": "NC",
+            "county": "Scotland County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "13th Grade"
+      },
+      "students": "5743",
+      "fte": "406.71",
+      "pupilTeacherRatio": "14.12",
+      "numberOfSchools": "10"
+   },
+   {
+      "name": "Shining Rock Classical Academy: Cfa",
+      "location": {
+         "state": {
+            "name": "NORTH CAROLINA",
+            "abbr": "NC",
+            "county": "Haywood County"
+         }
+      },
+      "type": "7-Independent Charter District",
+      "grades": {
+         "lowest": "Kindergarten",
+         "highest": "8th Grade"
+      },
+      "students": "316",
+      "fte": "25.07",
+      "pupilTeacherRatio": "12.6",
+      "numberOfSchools": "1"
+   },
+   {
+      "name": "Socrates Academy",
+      "location": {
+         "state": {
+            "name": "North Carolina",
+            "abbr": "NC",
+            "county": "Mecklenburg County"
+         }
+      },
+      "type": "7-Independent Charter District",
+      "grades": {
+         "lowest": "Kindergarten",
+         "highest": "8th Grade"
+      },
+      "students": "743",
+      "fte": "50.57",
+      "pupilTeacherRatio": "14.69",
+      "numberOfSchools": "1"
+   },
+   {
+      "name": "South Brunswick Charter School",
+      "location": {
+         "state": {
+            "name": "North Carolina",
+            "abbr": "NC",
+            "county": "Brunswick County"
+         }
+      },
+      "type": "7-Independent Charter District",
+      "grades": {
+         "lowest": "Kindergarten",
+         "highest": "5th Grade"
+      },
+      "students": "397",
+      "fte": "16.29",
+      "pupilTeacherRatio": "24.37",
+      "numberOfSchools": "1"
+   },
+   {
+      "name": "Southeastern Academy",
+      "location": {
+         "state": {
+            "name": "North Carolina",
+            "abbr": "NC",
+            "county": "Robeson County"
+         }
+      },
+      "type": "7-Independent Charter District",
+      "grades": {
+         "lowest": "Kindergarten",
+         "highest": "8th Grade"
+      },
+      "students": "218",
+      "fte": "16",
+      "pupilTeacherRatio": "13.63",
+      "numberOfSchools": "1"
+   },
+   {
+      "name": "Southern Wake Academy",
+      "location": {
+         "state": {
+            "name": "North Carolina",
+            "abbr": "NC",
+            "county": "Wake County"
+         }
+      },
+      "type": "7-Independent Charter District",
+      "grades": {
+         "lowest": "6th Grade",
+         "highest": "12th Grade"
+      },
+      "students": "803",
+      "fte": "62",
+      "pupilTeacherRatio": "12.95",
+      "numberOfSchools": "1"
+   },
+   {
+      "name": "Southwest Charlotte Stem Academy",
+      "location": {
+         "state": {
+            "name": "NORTH CAROLINA",
+            "abbr": "NC",
+            "county": "Mecklenburg County"
+         }
+      },
+      "type": "7-Independent Charter District",
+      "grades": {
+         "lowest": "Kindergarten",
+         "highest": "6th Grade"
+      },
+      "students": "442",
+      "fte": "30.5",
+      "pupilTeacherRatio": "14.49",
+      "numberOfSchools": "1"
+   },
+   {
+      "name": "Stanly County Schools",
+      "location": {
+         "state": {
+            "name": "North Carolina",
+            "abbr": "NC",
+            "county": "Stanly County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "13th Grade"
+      },
+      "students": "8352",
+      "fte": "541.52",
+      "pupilTeacherRatio": "15.42",
+      "numberOfSchools": "23"
+   },
+   {
+      "name": "Statesville Housing Authority",
+      "location": {
+         "state": {
+            "name": "North Carolina",
+            "abbr": "NC",
+            "county": "Iredell County"
+         }
+      },
+      "type": "8-Other education agencies",
+      "grades": {
+         "lowest": "†",
+         "highest": "†"
+      },
+      "students": "†",
+      "fte": "†",
+      "pupilTeacherRatio": "†",
+      "numberOfSchools": "0"
+   },
+   {
+      "name": "Steele Creek Preparatory Academy",
+      "location": {
+         "state": {
+            "name": "NORTH CAROLINA",
+            "abbr": "NC",
+            "county": "Mecklenburg County"
+         }
+      },
+      "type": "7-Independent Charter District",
+      "grades": {
+         "lowest": "Kindergarten",
+         "highest": "6th Grade"
+      },
+      "students": "368",
+      "fte": "25",
+      "pupilTeacherRatio": "14.72",
+      "numberOfSchools": "1"
+   },
+   {
+      "name": "Sterling Montessori Academy",
+      "location": {
+         "state": {
+            "name": "North Carolina",
+            "abbr": "NC",
+            "county": "Wake County"
+         }
+      },
+      "type": "7-Independent Charter District",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "8th Grade"
+      },
+      "students": "609",
+      "fte": "35.19",
+      "pupilTeacherRatio": "17.31",
+      "numberOfSchools": "1"
+   },
+   {
+      "name": "Stewart Creek High School",
+      "location": {
+         "state": {
+            "name": "North Carolina",
+            "abbr": "NC",
+            "county": "Mecklenburg County"
+         }
+      },
+      "type": "7-Independent Charter District",
+      "grades": {
+         "lowest": "9th Grade",
+         "highest": "12th Grade"
+      },
+      "students": "205",
+      "fte": "8.13",
+      "pupilTeacherRatio": "25.22",
+      "numberOfSchools": "1"
+   },
+   {
+      "name": "Stokes County Schools",
+      "location": {
+         "state": {
+            "name": "North Carolina",
+            "abbr": "NC",
+            "county": "Stokes County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "13th Grade"
+      },
+      "students": "5890",
+      "fte": "411.38",
+      "pupilTeacherRatio": "14.32",
+      "numberOfSchools": "19"
+   },
+   {
+      "name": "Success Charter School",
+      "location": {
+         "state": {
+            "name": "North Carolina",
+            "abbr": "NC",
+            "county": "Iredell County"
+         }
+      },
+      "type": "7-Independent Charter District",
+      "grades": {
+         "lowest": "Kindergarten",
+         "highest": "8th Grade"
+      },
+      "students": "103",
+      "fte": "4.59",
+      "pupilTeacherRatio": "22.44",
+      "numberOfSchools": "1"
+   },
+   {
+      "name": "Sugar Creek Charter",
+      "location": {
+         "state": {
+            "name": "North Carolina",
+            "abbr": "NC",
+            "county": "Mecklenburg County"
+         }
+      },
+      "type": "7-Independent Charter District",
+      "grades": {
+         "lowest": "Kindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "1724",
+      "fte": "87.13",
+      "pupilTeacherRatio": "19.79",
+      "numberOfSchools": "1"
+   },
+   {
+      "name": "Summerfield Charter Academy",
+      "location": {
+         "state": {
+            "name": "North Carolina",
+            "abbr": "NC",
+            "county": "Guilford County"
+         }
+      },
+      "type": "7-Independent Charter District",
+      "grades": {
+         "lowest": "Kindergarten",
+         "highest": "8th Grade"
+      },
+      "students": "783",
+      "fte": "35.14",
+      "pupilTeacherRatio": "22.28",
+      "numberOfSchools": "1"
+   },
+   {
+      "name": "Summit Charter",
+      "location": {
+         "state": {
+            "name": "North Carolina",
+            "abbr": "NC",
+            "county": "Jackson County"
+         }
+      },
+      "type": "7-Independent Charter District",
+      "grades": {
+         "lowest": "Kindergarten",
+         "highest": "10th Grade"
+      },
+      "students": "235",
+      "fte": "20.17",
+      "pupilTeacherRatio": "11.65",
+      "numberOfSchools": "1"
+   },
+   {
+      "name": "Surry County Schools",
+      "location": {
+         "state": {
+            "name": "North Carolina",
+            "abbr": "NC",
+            "county": "Surry County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "13th Grade"
+      },
+      "students": "7589",
+      "fte": "506.09",
+      "pupilTeacherRatio": "15",
+      "numberOfSchools": "19"
+   },
+   {
+      "name": "Swain County Schools",
+      "location": {
+         "state": {
+            "name": "North Carolina",
+            "abbr": "NC",
+            "county": "Swain County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "1925",
+      "fte": "131.25",
+      "pupilTeacherRatio": "14.67",
+      "numberOfSchools": "5"
+   },
+   {
+      "name": "Teamcfa - Community Public Charter",
+      "location": {
+         "state": {
+            "name": "NORTH CAROLINA",
+            "abbr": "NC",
+            "county": "Gaston County"
+         }
+      },
+      "type": "7-Independent Charter District",
+      "grades": {
+         "lowest": "Kindergarten",
+         "highest": "5th Grade"
+      },
+      "students": "237",
+      "fte": "17.76",
+      "pupilTeacherRatio": "13.34",
+      "numberOfSchools": "1"
+   },
+   {
+      "name": "The Academy of Moore County",
+      "location": {
+         "state": {
+            "name": "North Carolina",
+            "abbr": "NC",
+            "county": "Moore County"
+         }
+      },
+      "type": "7-Independent Charter District",
+      "grades": {
+         "lowest": "Kindergarten",
+         "highest": "5th Grade"
+      },
+      "students": "446",
+      "fte": "27.22",
+      "pupilTeacherRatio": "16.39",
+      "numberOfSchools": "1"
+   },
+   {
+      "name": "The Capitol Encore Academy",
+      "location": {
+         "state": {
+            "name": "North Carolina",
+            "abbr": "NC",
+            "county": "Cumberland County"
+         }
+      },
+      "type": "7-Independent Charter District",
+      "grades": {
+         "lowest": "Kindergarten",
+         "highest": "8th Grade"
+      },
+      "students": "541",
+      "fte": "39.5",
+      "pupilTeacherRatio": "13.7",
+      "numberOfSchools": "1"
+   },
+   {
+      "name": "The College Preparatory and Leadership A",
+      "location": {
+         "state": {
+            "name": "North Carolina",
+            "abbr": "NC",
+            "county": "Guilford County"
+         }
+      },
+      "type": "7-Independent Charter District",
+      "grades": {
+         "lowest": "Kindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "771",
+      "fte": "31.11",
+      "pupilTeacherRatio": "24.78",
+      "numberOfSchools": "1"
+   },
+   {
+      "name": "The Expedition School",
+      "location": {
+         "state": {
+            "name": "North Carolina",
+            "abbr": "NC",
+            "county": "Orange County"
+         }
+      },
+      "type": "7-Independent Charter District",
+      "grades": {
+         "lowest": "Kindergarten",
+         "highest": "8th Grade"
+      },
+      "students": "359",
+      "fte": "28.88",
+      "pupilTeacherRatio": "12.43",
+      "numberOfSchools": "1"
+   },
+   {
+      "name": "The Experiential School of Greensboro",
+      "location": {
+         "state": {
+            "name": "NORTH CAROLINA",
+            "abbr": "NC",
+            "county": "Guilford County"
+         }
+      },
+      "type": "7-Independent Charter District",
+      "grades": {
+         "lowest": "Kindergarten",
+         "highest": "7th Grade"
+      },
+      "students": "320",
+      "fte": "22.53",
+      "pupilTeacherRatio": "14.2",
+      "numberOfSchools": "1"
+   },
+   {
+      "name": "The Exploris School",
+      "location": {
+         "state": {
+            "name": "North Carolina",
+            "abbr": "NC",
+            "county": "Wake County"
+         }
+      },
+      "type": "7-Independent Charter District",
+      "grades": {
+         "lowest": "Kindergarten",
+         "highest": "8th Grade"
+      },
+      "students": "456",
+      "fte": "35.07",
+      "pupilTeacherRatio": "13",
+      "numberOfSchools": "1"
+   },
+   {
+      "name": "The Franklin School of Innovation",
+      "location": {
+         "state": {
+            "name": "North Carolina",
+            "abbr": "NC",
+            "county": "Buncombe County"
+         }
+      },
+      "type": "7-Independent Charter District",
+      "grades": {
+         "lowest": "5th Grade",
+         "highest": "12th Grade"
+      },
+      "students": "568",
+      "fte": "47.45",
+      "pupilTeacherRatio": "11.97",
+      "numberOfSchools": "1"
+   },
+   {
+      "name": "The Hawbridge School",
+      "location": {
+         "state": {
+            "name": "North Carolina",
+            "abbr": "NC",
+            "county": "Alamance County"
+         }
+      },
+      "type": "7-Independent Charter District",
+      "grades": {
+         "lowest": "4th Grade",
+         "highest": "12th Grade"
+      },
+      "students": "302",
+      "fte": "24.2",
+      "pupilTeacherRatio": "12.48",
+      "numberOfSchools": "1"
+   },
+   {
+      "name": "The Institute for the Development of You",
+      "location": {
+         "state": {
+            "name": "North Carolina",
+            "abbr": "NC",
+            "county": "Durham County"
+         }
+      },
+      "type": "7-Independent Charter District",
+      "grades": {
+         "lowest": "Kindergarten",
+         "highest": "8th Grade"
+      },
+      "students": "362",
+      "fte": "20.25",
+      "pupilTeacherRatio": "17.88",
+      "numberOfSchools": "1"
+   },
+   {
+      "name": "The Learning Center",
+      "location": {
+         "state": {
+            "name": "North Carolina",
+            "abbr": "NC",
+            "county": "Cherokee County"
+         }
+      },
+      "type": "7-Independent Charter District",
+      "grades": {
+         "lowest": "Kindergarten",
+         "highest": "8th Grade"
+      },
+      "students": "189",
+      "fte": "18.26",
+      "pupilTeacherRatio": "10.35",
+      "numberOfSchools": "1"
+   },
+   {
+      "name": "The Mountain Community Sch",
+      "location": {
+         "state": {
+            "name": "North Carolina",
+            "abbr": "NC",
+            "county": "Henderson County"
+         }
+      },
+      "type": "7-Independent Charter District",
+      "grades": {
+         "lowest": "Kindergarten",
+         "highest": "8th Grade"
+      },
+      "students": "199",
+      "fte": "14",
+      "pupilTeacherRatio": "14.21",
+      "numberOfSchools": "1"
+   },
+   {
+      "name": "The New Dimensions School",
+      "location": {
+         "state": {
+            "name": "North Carolina",
+            "abbr": "NC",
+            "county": "Burke County"
+         }
+      },
+      "type": "7-Independent Charter District",
+      "grades": {
+         "lowest": "Kindergarten",
+         "highest": "8th Grade"
+      },
+      "students": "341",
+      "fte": "21.74",
+      "pupilTeacherRatio": "15.69",
+      "numberOfSchools": "1"
+   },
+   {
+      "name": "Think Smart Outreach Center",
+      "location": {
+         "state": {
+            "name": "North Carolina",
+            "abbr": "NC",
+            "county": "Harnett County"
+         }
+      },
+      "type": "8-Other education agencies",
+      "grades": {
+         "lowest": "†",
+         "highest": "†"
+      },
+      "students": "†",
+      "fte": "†",
+      "pupilTeacherRatio": "†",
+      "numberOfSchools": "0"
+   },
+   {
+      "name": "Thomas Academy",
+      "location": {
+         "state": {
+            "name": "North Carolina",
+            "abbr": "NC",
+            "county": "Columbus County"
+         }
+      },
+      "type": "7-Independent Charter District",
+      "grades": {
+         "lowest": "6th Grade",
+         "highest": "12th Grade"
+      },
+      "students": "86",
+      "fte": "6.25",
+      "pupilTeacherRatio": "13.76",
+      "numberOfSchools": "1"
+   },
+   {
+      "name": "Thomas Jefferson Classical Academy",
+      "location": {
+         "state": {
+            "name": "North Carolina",
+            "abbr": "NC",
+            "county": "Rutherford County"
+         }
+      },
+      "type": "7-Independent Charter District",
+      "grades": {
+         "lowest": "Kindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "1364",
+      "fte": "69.87",
+      "pupilTeacherRatio": "19.52",
+      "numberOfSchools": "1"
+   },
+   {
+      "name": "Thomasville City Schools",
+      "location": {
+         "state": {
+            "name": "North Carolina",
+            "abbr": "NC",
+            "county": "Davidson County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "2323",
+      "fte": "158.88",
+      "pupilTeacherRatio": "14.62",
+      "numberOfSchools": "4"
+   },
+   {
+      "name": "Three Rivers Academy (Fka Heritage Coll)",
+      "location": {
+         "state": {
+            "name": "North Carolina",
+            "abbr": "NC",
+            "county": "Bertie County"
+         }
+      },
+      "type": "7-Independent Charter District",
+      "grades": {
+         "lowest": "Kindergarten",
+         "highest": "8th Grade"
+      },
+      "students": "89",
+      "fte": "1",
+      "pupilTeacherRatio": "89",
+      "numberOfSchools": "1"
+   },
+   {
+      "name": "Tiller School",
+      "location": {
+         "state": {
+            "name": "North Carolina",
+            "abbr": "NC",
+            "county": "Carteret County"
+         }
+      },
+      "type": "7-Independent Charter District",
+      "grades": {
+         "lowest": "Kindergarten",
+         "highest": "5th Grade"
+      },
+      "students": "206",
+      "fte": "17",
+      "pupilTeacherRatio": "12.12",
+      "numberOfSchools": "1"
+   },
+   {
+      "name": "Tillery Charter Academy",
+      "location": {
+         "state": {
+            "name": "NORTH CAROLINA",
+            "abbr": "NC",
+            "county": "Montgomery County"
+         }
+      },
+      "type": "7-Independent Charter District",
+      "grades": {
+         "lowest": "Kindergarten",
+         "highest": "2nd Grade"
+      },
+      "students": "63",
+      "fte": "5.36",
+      "pupilTeacherRatio": "11.75",
+      "numberOfSchools": "1"
+   },
+   {
+      "name": "Torchlight Academy",
+      "location": {
+         "state": {
+            "name": "North Carolina",
+            "abbr": "NC",
+            "county": "Wake County"
+         }
+      },
+      "type": "7-Independent Charter District",
+      "grades": {
+         "lowest": "Kindergarten",
+         "highest": "8th Grade"
+      },
+      "students": "567",
+      "fte": "7.25",
+      "pupilTeacherRatio": "78.21",
+      "numberOfSchools": "1"
+   },
+   {
+      "name": "Transylvania Community In-Schools",
+      "location": {
+         "state": {
+            "name": "North Carolina",
+            "abbr": "NC",
+            "county": "Transylvania County"
+         }
+      },
+      "type": "8-Other education agencies",
+      "grades": {
+         "lowest": "†",
+         "highest": "†"
+      },
+      "students": "†",
+      "fte": "†",
+      "pupilTeacherRatio": "†",
+      "numberOfSchools": "0"
+   },
+   {
+      "name": "Transylvania County Schools",
+      "location": {
+         "state": {
+            "name": "North Carolina",
+            "abbr": "NC",
+            "county": "Transylvania County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "3399",
+      "fte": "264.05",
+      "pupilTeacherRatio": "12.87",
+      "numberOfSchools": "9"
+   },
+   {
+      "name": "Triad Math and Science Academy",
+      "location": {
+         "state": {
+            "name": "North Carolina",
+            "abbr": "NC",
+            "county": "Guilford County"
+         }
+      },
+      "type": "7-Independent Charter District",
+      "grades": {
+         "lowest": "Kindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "1268",
+      "fte": "89.32",
+      "pupilTeacherRatio": "14.2",
+      "numberOfSchools": "1"
+   },
+   {
+      "name": "Triangle Math and Science Academy",
+      "location": {
+         "state": {
+            "name": "North Carolina",
+            "abbr": "NC",
+            "county": "Wake County"
+         }
+      },
+      "type": "7-Independent Charter District",
+      "grades": {
+         "lowest": "Kindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "900",
+      "fte": "69.88",
+      "pupilTeacherRatio": "12.88",
+      "numberOfSchools": "1"
+   },
+   {
+      "name": "Two Rivers Community School",
+      "location": {
+         "state": {
+            "name": "North Carolina",
+            "abbr": "NC",
+            "county": "Watauga County"
+         }
+      },
+      "type": "7-Independent Charter District",
+      "grades": {
+         "lowest": "Kindergarten",
+         "highest": "8th Grade"
+      },
+      "students": "159",
+      "fte": "14.21",
+      "pupilTeacherRatio": "11.19",
+      "numberOfSchools": "1"
+   },
+   {
+      "name": "Tyrrell County Schools",
+      "location": {
+         "state": {
+            "name": "North Carolina",
+            "abbr": "NC",
+            "county": "Tyrrell County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "13th Grade"
+      },
+      "students": "604",
+      "fte": "49.77",
+      "pupilTeacherRatio": "12.14",
+      "numberOfSchools": "3"
+   },
+   {
+      "name": "Union Academy Charter School",
+      "location": {
+         "state": {
+            "name": "North Carolina",
+            "abbr": "NC",
+            "county": "Union County"
+         }
+      },
+      "type": "7-Independent Charter District",
+      "grades": {
+         "lowest": "Kindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "1977",
+      "fte": "111.66",
+      "pupilTeacherRatio": "17.71",
+      "numberOfSchools": "1"
+   },
+   {
+      "name": "Union County Public Schools",
+      "location": {
+         "state": {
+            "name": "North Carolina",
+            "abbr": "NC",
+            "county": "Union County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "13th Grade"
+      },
+      "students": "41707",
+      "fte": "2535.64",
+      "pupilTeacherRatio": "16.45",
+      "numberOfSchools": "52"
+   },
+   {
+      "name": "Union Day School",
+      "location": {
+         "state": {
+            "name": "NORTH CAROLINA",
+            "abbr": "NC",
+            "county": "Union County"
+         }
+      },
+      "type": "7-Independent Charter District",
+      "grades": {
+         "lowest": "Kindergarten",
+         "highest": "6th Grade"
+      },
+      "students": "450",
+      "fte": "31.61",
+      "pupilTeacherRatio": "14.24",
+      "numberOfSchools": "1"
+   },
+   {
+      "name": "Union Preparatory Academy at Indian Trai",
+      "location": {
+         "state": {
+            "name": "NORTH CAROLINA",
+            "abbr": "NC",
+            "county": "Union County"
+         }
+      },
+      "type": "7-Independent Charter District",
+      "grades": {
+         "lowest": "Kindergarten",
+         "highest": "8th Grade"
+      },
+      "students": "971",
+      "fte": "64",
+      "pupilTeacherRatio": "15.17",
+      "numberOfSchools": "1"
+   },
+   {
+      "name": "United Community School",
+      "location": {
+         "state": {
+            "name": "North Carolina",
+            "abbr": "NC",
+            "county": "Mecklenburg County"
+         }
+      },
+      "type": "7-Independent Charter District",
+      "grades": {
+         "lowest": "Kindergarten",
+         "highest": "7th Grade"
+      },
+      "students": "244",
+      "fte": "17.55",
+      "pupilTeacherRatio": "13.9",
+      "numberOfSchools": "1"
+   },
+   {
+      "name": "Unity Classical Charter School",
+      "location": {
+         "state": {
+            "name": "NORTH CAROLINA",
+            "abbr": "NC",
+            "county": "Mecklenburg County"
+         }
+      },
+      "type": "7-Independent Charter District",
+      "grades": {
+         "lowest": "Kindergarten",
+         "highest": "4th Grade"
+      },
+      "students": "198",
+      "fte": "12",
+      "pupilTeacherRatio": "16.5",
+      "numberOfSchools": "1"
+   },
+   {
+      "name": "Uproar Leadership Academy",
+      "location": {
+         "state": {
+            "name": "NORTH CAROLINA",
+            "abbr": "NC",
+            "county": "Mecklenburg County"
+         }
+      },
+      "type": "7-Independent Charter District",
+      "grades": {
+         "lowest": "5th Grade",
+         "highest": "10th Grade"
+      },
+      "students": "118",
+      "fte": "7.25",
+      "pupilTeacherRatio": "16.28",
+      "numberOfSchools": "1"
+   },
+   {
+      "name": "Uwharrie Charter Academy",
+      "location": {
+         "state": {
+            "name": "North Carolina",
+            "abbr": "NC",
+            "county": "Randolph County"
+         }
+      },
+      "type": "7-Independent Charter District",
+      "grades": {
+         "lowest": "Kindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "1711",
+      "fte": "105.19",
+      "pupilTeacherRatio": "16.27",
+      "numberOfSchools": "1"
+   },
+   {
+      "name": "Vance Charter School",
+      "location": {
+         "state": {
+            "name": "North Carolina",
+            "abbr": "NC",
+            "county": "Vance County"
+         }
+      },
+      "type": "7-Independent Charter District",
+      "grades": {
+         "lowest": "Kindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "933",
+      "fte": "62.91",
+      "pupilTeacherRatio": "14.83",
+      "numberOfSchools": "1"
+   },
+   {
+      "name": "Vance County Schools",
+      "location": {
+         "state": {
+            "name": "North Carolina",
+            "abbr": "NC",
+            "county": "Vance County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "13th Grade"
+      },
+      "students": "5555",
+      "fte": "360.76",
+      "pupilTeacherRatio": "15.4",
+      "numberOfSchools": "15"
+   },
+   {
+      "name": "Veritas Community School",
+      "location": {
+         "state": {
+            "name": "NORTH CAROLINA",
+            "abbr": "NC",
+            "county": "Mecklenburg County"
+         }
+      },
+      "type": "7-Independent Charter District",
+      "grades": {
+         "lowest": "Kindergarten",
+         "highest": "6th Grade"
+      },
+      "students": "123",
+      "fte": "7.3",
+      "pupilTeacherRatio": "16.85",
+      "numberOfSchools": "1"
+   },
+   {
+      "name": "Victorious Community Development",
+      "location": {
+         "state": {
+            "name": "North Carolina",
+            "abbr": "NC",
+            "county": "Durham County"
+         }
+      },
+      "type": "8-Other education agencies",
+      "grades": {
+         "lowest": "†",
+         "highest": "†"
+      },
+      "students": "†",
+      "fte": "†",
+      "pupilTeacherRatio": "†",
+      "numberOfSchools": "0"
+   },
+   {
+      "name": "Voyager Academy",
+      "location": {
+         "state": {
+            "name": "North Carolina",
+            "abbr": "NC",
+            "county": "Durham County"
+         }
+      },
+      "type": "7-Independent Charter District",
+      "grades": {
+         "lowest": "Kindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "1354",
+      "fte": "106.38",
+      "pupilTeacherRatio": "12.73",
+      "numberOfSchools": "1"
+   },
+   {
+      "name": "Wake County Schools",
+      "location": {
+         "state": {
+            "name": "North Carolina",
+            "abbr": "NC",
+            "county": "Wake County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "13th Grade"
+      },
+      "students": "163404",
+      "fte": "10449.95",
+      "pupilTeacherRatio": "15.64",
+      "numberOfSchools": "191"
+   },
+   {
+      "name": "Wake Forest Charter Academy",
+      "location": {
+         "state": {
+            "name": "North Carolina",
+            "abbr": "NC",
+            "county": "Wake County"
+         }
+      },
+      "type": "7-Independent Charter District",
+      "grades": {
+         "lowest": "Kindergarten",
+         "highest": "8th Grade"
+      },
+      "students": "767",
+      "fte": "32.76",
+      "pupilTeacherRatio": "23.41",
+      "numberOfSchools": "1"
+   },
+   {
+      "name": "Wake Preparatory Academy",
+      "location": {
+         "state": {
+            "name": "NORTH CAROLINA",
+            "abbr": "NC",
+            "county": "Wake County"
+         }
+      },
+      "type": "7-Independent Charter District",
+      "grades": {
+         "lowest": "–",
+         "highest": "–"
+      },
+      "students": "†",
+      "fte": "†",
+      "pupilTeacherRatio": "†",
+      "numberOfSchools": "0"
+   },
+   {
+      "name": "Wamy Comm Action Inc",
+      "location": {
+         "state": {
+            "name": "North Carolina",
+            "abbr": "NC",
+            "county": "Watauga County"
+         }
+      },
+      "type": "8-Other education agencies",
+      "grades": {
+         "lowest": "†",
+         "highest": "†"
+      },
+      "students": "†",
+      "fte": "†",
+      "pupilTeacherRatio": "†",
+      "numberOfSchools": "0"
+   },
+   {
+      "name": "Warren County Schools",
+      "location": {
+         "state": {
+            "name": "North Carolina",
+            "abbr": "NC",
+            "county": "Warren County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "13th Grade"
+      },
+      "students": "1872",
+      "fte": "127.86",
+      "pupilTeacherRatio": "14.64",
+      "numberOfSchools": "7"
+   },
+   {
+      "name": "Washington County Schools",
+      "location": {
+         "state": {
+            "name": "North Carolina",
+            "abbr": "NC",
+            "county": "Washington County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "13th Grade"
+      },
+      "students": "1235",
+      "fte": "92.42",
+      "pupilTeacherRatio": "13.36",
+      "numberOfSchools": "5"
+   },
+   {
+      "name": "Washington Montessori",
+      "location": {
+         "state": {
+            "name": "North Carolina",
+            "abbr": "NC",
+            "county": "Beaufort County"
+         }
+      },
+      "type": "7-Independent Charter District",
+      "grades": {
+         "lowest": "Kindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "403",
+      "fte": "34.46",
+      "pupilTeacherRatio": "11.69",
+      "numberOfSchools": "1"
+   },
+   {
+      "name": "Watauga County Schools",
+      "location": {
+         "state": {
+            "name": "North Carolina",
+            "abbr": "NC",
+            "county": "Watauga County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "4756",
+      "fte": "378.03",
+      "pupilTeacherRatio": "12.58",
+      "numberOfSchools": "10"
+   },
+   {
+      "name": "Water's Edge Village School",
+      "location": {
+         "state": {
+            "name": "North Carolina",
+            "abbr": "NC",
+            "county": "Currituck County"
+         }
+      },
+      "type": "7-Independent Charter District",
+      "grades": {
+         "lowest": "Kindergarten",
+         "highest": "8th Grade"
+      },
+      "students": "38",
+      "fte": "4",
+      "pupilTeacherRatio": "9.5",
+      "numberOfSchools": "1"
+   },
+   {
+      "name": "Wayne County Public Schools",
+      "location": {
+         "state": {
+            "name": "North Carolina",
+            "abbr": "NC",
+            "county": "Wayne County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "13th Grade"
+      },
+      "students": "18240",
+      "fte": "1243.56",
+      "pupilTeacherRatio": "14.67",
+      "numberOfSchools": "32"
+   },
+   {
+      "name": "Wayne Preparatory",
+      "location": {
+         "state": {
+            "name": "North Carolina",
+            "abbr": "NC",
+            "county": "Wayne County"
+         }
+      },
+      "type": "7-Independent Charter District",
+      "grades": {
+         "lowest": "Kindergarten",
+         "highest": "9th Grade"
+      },
+      "students": "882",
+      "fte": "52.8",
+      "pupilTeacherRatio": "16.7",
+      "numberOfSchools": "1"
+   },
+   {
+      "name": "Weldon City Schools",
+      "location": {
+         "state": {
+            "name": "North Carolina",
+            "abbr": "NC",
+            "county": "Halifax County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "13th Grade"
+      },
+      "students": "798",
+      "fte": "58.35",
+      "pupilTeacherRatio": "13.68",
+      "numberOfSchools": "4"
+   },
+   {
+      "name": "West Lake Preparatory Academy",
+      "location": {
+         "state": {
+            "name": "NORTH CAROLINA",
+            "abbr": "NC",
+            "county": "Lincoln County"
+         }
+      },
+      "type": "7-Independent Charter District",
+      "grades": {
+         "lowest": "Kindergarten",
+         "highest": "6th Grade"
+      },
+      "students": "117",
+      "fte": "13",
+      "pupilTeacherRatio": "9",
+      "numberOfSchools": "1"
+   },
+   {
+      "name": "Whiteville City Schools",
+      "location": {
+         "state": {
+            "name": "North Carolina",
+            "abbr": "NC",
+            "county": "Columbus County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "2257",
+      "fte": "154.01",
+      "pupilTeacherRatio": "14.65",
+      "numberOfSchools": "5"
+   },
+   {
+      "name": "Wilkes County Schools",
+      "location": {
+         "state": {
+            "name": "North Carolina",
+            "abbr": "NC",
+            "county": "Wilkes County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "13th Grade"
+      },
+      "students": "9355",
+      "fte": "599.05",
+      "pupilTeacherRatio": "15.62",
+      "numberOfSchools": "22"
+   },
+   {
+      "name": "Williams Academy",
+      "location": {
+         "state": {
+            "name": "North Carolina",
+            "abbr": "NC",
+            "county": "Avery County"
+         }
+      },
+      "type": "7-Independent Charter District",
+      "grades": {
+         "lowest": "Kindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "111",
+      "fte": "16",
+      "pupilTeacherRatio": "6.94",
+      "numberOfSchools": "1"
+   },
+   {
+      "name": "Willow Oak Montessori",
+      "location": {
+         "state": {
+            "name": "North Carolina",
+            "abbr": "NC",
+            "county": "Chatham County"
+         }
+      },
+      "type": "7-Independent Charter District",
+      "grades": {
+         "lowest": "1st Grade",
+         "highest": "8th Grade"
+      },
+      "students": "216",
+      "fte": "24.28",
+      "pupilTeacherRatio": "8.9",
+      "numberOfSchools": "1"
+   },
+   {
+      "name": "Wilmington Preparatory Academy",
+      "location": {
+         "state": {
+            "name": "North Carolina",
+            "abbr": "NC",
+            "county": "New Hanover County"
+         }
+      },
+      "type": "7-Independent Charter District",
+      "grades": {
+         "lowest": "Kindergarten",
+         "highest": "8th Grade"
+      },
+      "students": "129",
+      "fte": "10.74",
+      "pupilTeacherRatio": "12.01",
+      "numberOfSchools": "1"
+   },
+   {
+      "name": "Wilmington School of the Arts",
+      "location": {
+         "state": {
+            "name": "NORTH CAROLINA",
+            "abbr": "NC",
+            "county": "New Hanover County"
+         }
+      },
+      "type": "7-Independent Charter District",
+      "grades": {
+         "lowest": "–",
+         "highest": "–"
+      },
+      "students": "†",
+      "fte": "†",
+      "pupilTeacherRatio": "†",
+      "numberOfSchools": "0"
+   },
+   {
+      "name": "Wilson County Schools",
+      "location": {
+         "state": {
+            "name": "North Carolina",
+            "abbr": "NC",
+            "county": "Wilson County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "13th Grade"
+      },
+      "students": "11012",
+      "fte": "669.96",
+      "pupilTeacherRatio": "16.44",
+      "numberOfSchools": "26"
+   },
+   {
+      "name": "Wilson Preparatory Academy",
+      "location": {
+         "state": {
+            "name": "North Carolina",
+            "abbr": "NC",
+            "county": "Wilson County"
+         }
+      },
+      "type": "7-Independent Charter District",
+      "grades": {
+         "lowest": "Kindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "911",
+      "fte": "44.13",
+      "pupilTeacherRatio": "20.64",
+      "numberOfSchools": "1"
+   },
+   {
+      "name": "Winston Salem / Forsyth County Schools",
+      "location": {
+         "state": {
+            "name": "North Carolina",
+            "abbr": "NC",
+            "county": "Forsyth County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "54566",
+      "fte": "3765.57",
+      "pupilTeacherRatio": "14.49",
+      "numberOfSchools": "79"
+   },
+   {
+      "name": "Winterville Charter Academy",
+      "location": {
+         "state": {
+            "name": "NORTH CAROLINA",
+            "abbr": "NC",
+            "county": "Pitt County"
+         }
+      },
+      "type": "7-Independent Charter District",
+      "grades": {
+         "lowest": "Kindergarten",
+         "highest": "8th Grade"
+      },
+      "students": "677",
+      "fte": "33.33",
+      "pupilTeacherRatio": "20.31",
+      "numberOfSchools": "1"
+   },
+   {
+      "name": "Woods Charter School",
+      "location": {
+         "state": {
+            "name": "North Carolina",
+            "abbr": "NC",
+            "county": "Chatham County"
+         }
+      },
+      "type": "7-Independent Charter District",
+      "grades": {
+         "lowest": "Kindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "514",
+      "fte": "47.47",
+      "pupilTeacherRatio": "10.83",
+      "numberOfSchools": "1"
+   },
+   {
+      "name": "Yadkin County Schools",
+      "location": {
+         "state": {
+            "name": "North Carolina",
+            "abbr": "NC",
+            "county": "Yadkin County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "13th Grade"
+      },
+      "students": "5259",
+      "fte": "335.71",
+      "pupilTeacherRatio": "15.67",
+      "numberOfSchools": "14"
+   },
+   {
+      "name": "Yancey County Schools",
+      "location": {
+         "state": {
+            "name": "North Carolina",
+            "abbr": "NC",
+            "county": "Yancey County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "2124",
+      "fte": "154.32",
+      "pupilTeacherRatio": "13.76",
+      "numberOfSchools": "7"
+   },
+   {
+      "name": "Ymca of Northwest Nc Forsyth",
+      "location": {
+         "state": {
+            "name": "North Carolina",
+            "abbr": "NC",
+            "county": "Forsyth County"
+         }
+      },
+      "type": "8-Other education agencies",
+      "grades": {
+         "lowest": "†",
+         "highest": "†"
+      },
+      "students": "†",
+      "fte": "†",
+      "pupilTeacherRatio": "†",
+      "numberOfSchools": "0"
+   },
+   {
+      "name": "Ymca of Wake County",
+      "location": {
+         "state": {
+            "name": "North Carolina",
+            "abbr": "NC",
+            "county": "Wake County"
+         }
+      },
+      "type": "8-Other education agencies",
+      "grades": {
+         "lowest": "†",
+         "highest": "†"
+      },
+      "students": "†",
+      "fte": "†",
+      "pupilTeacherRatio": "†",
+      "numberOfSchools": "0"
+   },
+   {
+      "name": "Youngsville Academy",
+      "location": {
+         "state": {
+            "name": "NORTH CAROLINA",
+            "abbr": "NC",
+            "county": "Franklin County"
+         }
+      },
+      "type": "7-Independent Charter District",
+      "grades": {
+         "lowest": "Kindergarten",
+         "highest": "6th Grade"
+      },
+      "students": "391",
+      "fte": "25.65",
+      "pupilTeacherRatio": "15.24",
+      "numberOfSchools": "1"
+   },
+   {
+      "name": "Z.e.c.a. School of Arts and Technology",
+      "location": {
+         "state": {
+            "name": "North Carolina",
+            "abbr": "NC",
+            "county": "Onslow County"
+         }
+      },
+      "type": "7-Independent Charter District",
+      "grades": {
+         "lowest": "Kindergarten",
+         "highest": "8th Grade"
+      },
+      "students": "171",
+      "fte": "8",
+      "pupilTeacherRatio": "21.38",
+      "numberOfSchools": "1"
+   }
+]

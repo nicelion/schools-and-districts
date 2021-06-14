@@ -1,0 +1,6367 @@
+[
+   {
+      "name": "Aberdeen School District",
+      "location": {
+         "state": {
+            "name": "Washington",
+            "abbr": "WA",
+            "county": "Grays Harbor County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "3500",
+      "fte": "203.55",
+      "pupilTeacherRatio": "17.19",
+      "numberOfSchools": "12"
+   },
+   {
+      "name": "Adna School District",
+      "location": {
+         "state": {
+            "name": "Washington",
+            "abbr": "WA",
+            "county": "Lewis County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "642",
+      "fte": "36.21",
+      "pupilTeacherRatio": "17.73",
+      "numberOfSchools": "2"
+   },
+   {
+      "name": "Almira School District",
+      "location": {
+         "state": {
+            "name": "Washington",
+            "abbr": "WA",
+            "county": "Lincoln County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "8th Grade"
+      },
+      "students": "130",
+      "fte": "10.99",
+      "pupilTeacherRatio": "11.83",
+      "numberOfSchools": "1"
+   },
+   {
+      "name": "Anacortes School District",
+      "location": {
+         "state": {
+            "name": "Washington",
+            "abbr": "WA",
+            "county": "Skagit County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "2795",
+      "fte": "147.03",
+      "pupilTeacherRatio": "19.01",
+      "numberOfSchools": "8"
+   },
+   {
+      "name": "Arlington School District",
+      "location": {
+         "state": {
+            "name": "Washington",
+            "abbr": "WA",
+            "county": "Snohomish County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "5936",
+      "fte": "309.68",
+      "pupilTeacherRatio": "19.17",
+      "numberOfSchools": "11"
+   },
+   {
+      "name": "Ashe Preparatory Academy",
+      "location": {
+         "state": {
+            "name": "WASHINGTON",
+            "abbr": "WA",
+            "county": "King County"
+         }
+      },
+      "type": "7-Independent Charter District",
+      "grades": {
+         "lowest": "Kindergarten",
+         "highest": "8th Grade"
+      },
+      "students": "89",
+      "fte": "0",
+      "pupilTeacherRatio": "†",
+      "numberOfSchools": "1"
+   },
+   {
+      "name": "Asotin-Anatone School District",
+      "location": {
+         "state": {
+            "name": "Washington",
+            "abbr": "WA",
+            "county": "Asotin County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "626",
+      "fte": "36.61",
+      "pupilTeacherRatio": "17.1",
+      "numberOfSchools": "2"
+   },
+   {
+      "name": "Auburn School District",
+      "location": {
+         "state": {
+            "name": "Washington",
+            "abbr": "WA",
+            "county": "King County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "17950",
+      "fte": "979.73",
+      "pupilTeacherRatio": "18.32",
+      "numberOfSchools": "24"
+   },
+   {
+      "name": "Bainbridge Island School District",
+      "location": {
+         "state": {
+            "name": "Washington",
+            "abbr": "WA",
+            "county": "Kitsap County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "3835",
+      "fte": "207.79",
+      "pupilTeacherRatio": "18.46",
+      "numberOfSchools": "10"
+   },
+   {
+      "name": "Bates Technical College",
+      "location": {
+         "state": {
+            "name": "Washington",
+            "abbr": "WA",
+            "county": "Pierce County"
+         }
+      },
+      "type": "8-Other education agencies",
+      "grades": {
+         "lowest": "9th Grade",
+         "highest": "12th Grade"
+      },
+      "students": "442",
+      "fte": "0",
+      "pupilTeacherRatio": "†",
+      "numberOfSchools": "2"
+   },
+   {
+      "name": "Battle Ground School District",
+      "location": {
+         "state": {
+            "name": "Washington",
+            "abbr": "WA",
+            "county": "Clark County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "13199",
+      "fte": "717.24",
+      "pupilTeacherRatio": "18.4",
+      "numberOfSchools": "21"
+   },
+   {
+      "name": "Bellevue School District",
+      "location": {
+         "state": {
+            "name": "Washington",
+            "abbr": "WA",
+            "county": "King County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "21672",
+      "fte": "1172.36",
+      "pupilTeacherRatio": "18.49",
+      "numberOfSchools": "31"
+   },
+   {
+      "name": "Bellingham School District",
+      "location": {
+         "state": {
+            "name": "Washington",
+            "abbr": "WA",
+            "county": "Whatcom County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "12027",
+      "fte": "668.14",
+      "pupilTeacherRatio": "18",
+      "numberOfSchools": "25"
+   },
+   {
+      "name": "Benge School District",
+      "location": {
+         "state": {
+            "name": "Washington",
+            "abbr": "WA",
+            "county": "Adams County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Kindergarten",
+         "highest": "6th Grade"
+      },
+      "students": "18",
+      "fte": "2",
+      "pupilTeacherRatio": "9",
+      "numberOfSchools": "1"
+   },
+   {
+      "name": "Bethel School District",
+      "location": {
+         "state": {
+            "name": "Washington",
+            "abbr": "WA",
+            "county": "Pierce County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "20615",
+      "fte": "1118.97",
+      "pupilTeacherRatio": "18.42",
+      "numberOfSchools": "31"
+   },
+   {
+      "name": "Bickleton School District",
+      "location": {
+         "state": {
+            "name": "Washington",
+            "abbr": "WA",
+            "county": "Klickitat County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Kindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "124",
+      "fte": "12.7",
+      "pupilTeacherRatio": "9.76",
+      "numberOfSchools": "1"
+   },
+   {
+      "name": "Blaine School District",
+      "location": {
+         "state": {
+            "name": "Washington",
+            "abbr": "WA",
+            "county": "Whatcom County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "2290",
+      "fte": "129.25",
+      "pupilTeacherRatio": "17.72",
+      "numberOfSchools": "7"
+   },
+   {
+      "name": "Boistfort School District",
+      "location": {
+         "state": {
+            "name": "Washington",
+            "abbr": "WA",
+            "county": "Lewis County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "8th Grade"
+      },
+      "students": "106",
+      "fte": "6",
+      "pupilTeacherRatio": "17.67",
+      "numberOfSchools": "1"
+   },
+   {
+      "name": "Bremerton School District",
+      "location": {
+         "state": {
+            "name": "Washington",
+            "abbr": "WA",
+            "county": "Kitsap County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "4953",
+      "fte": "318.78",
+      "pupilTeacherRatio": "15.54",
+      "numberOfSchools": "14"
+   },
+   {
+      "name": "Brewster School District",
+      "location": {
+         "state": {
+            "name": "Washington",
+            "abbr": "WA",
+            "county": "Okanogan County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "997",
+      "fte": "58.25",
+      "pupilTeacherRatio": "17.12",
+      "numberOfSchools": "4"
+   },
+   {
+      "name": "Bridgeport School District",
+      "location": {
+         "state": {
+            "name": "Washington",
+            "abbr": "WA",
+            "county": "Douglas County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "841",
+      "fte": "55.12",
+      "pupilTeacherRatio": "15.26",
+      "numberOfSchools": "4"
+   },
+   {
+      "name": "Brinnon School District",
+      "location": {
+         "state": {
+            "name": "Washington",
+            "abbr": "WA",
+            "county": "Jefferson County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "8th Grade"
+      },
+      "students": "83",
+      "fte": "5.33",
+      "pupilTeacherRatio": "15.57",
+      "numberOfSchools": "1"
+   },
+   {
+      "name": "Burlington-Edison School District",
+      "location": {
+         "state": {
+            "name": "Washington",
+            "abbr": "WA",
+            "county": "Skagit County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "3628",
+      "fte": "209.5",
+      "pupilTeacherRatio": "17.32",
+      "numberOfSchools": "9"
+   },
+   {
+      "name": "Camas School District",
+      "location": {
+         "state": {
+            "name": "Washington",
+            "abbr": "WA",
+            "county": "Clark County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "7616",
+      "fte": "384.5",
+      "pupilTeacherRatio": "19.81",
+      "numberOfSchools": "15"
+   },
+   {
+      "name": "Cape Flattery School District",
+      "location": {
+         "state": {
+            "name": "Washington",
+            "abbr": "WA",
+            "county": "Clallam County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "519",
+      "fte": "38.32",
+      "pupilTeacherRatio": "13.54",
+      "numberOfSchools": "4"
+   },
+   {
+      "name": "Capital Region ESD 113",
+      "location": {
+         "state": {
+            "name": "Washington",
+            "abbr": "WA",
+            "county": "Thurston County"
+         }
+      },
+      "type": "8-Other education agencies",
+      "grades": {
+         "lowest": "11th Grade",
+         "highest": "12th Grade"
+      },
+      "students": "400",
+      "fte": "0",
+      "pupilTeacherRatio": "†",
+      "numberOfSchools": "1"
+   },
+   {
+      "name": "Carbonado School District",
+      "location": {
+         "state": {
+            "name": "Washington",
+            "abbr": "WA",
+            "county": "Pierce County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "8th Grade"
+      },
+      "students": "202",
+      "fte": "12.5",
+      "pupilTeacherRatio": "16.16",
+      "numberOfSchools": "1"
+   },
+   {
+      "name": "Cascade School District",
+      "location": {
+         "state": {
+            "name": "Washington",
+            "abbr": "WA",
+            "county": "Chelan County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "1379",
+      "fte": "80.5",
+      "pupilTeacherRatio": "17.13",
+      "numberOfSchools": "6"
+   },
+   {
+      "name": "Cashmere School District",
+      "location": {
+         "state": {
+            "name": "Washington",
+            "abbr": "WA",
+            "county": "Chelan County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "1675",
+      "fte": "95.03",
+      "pupilTeacherRatio": "17.63",
+      "numberOfSchools": "3"
+   },
+   {
+      "name": "Castle Rock School District",
+      "location": {
+         "state": {
+            "name": "Washington",
+            "abbr": "WA",
+            "county": "Cowlitz County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "1507",
+      "fte": "74.88",
+      "pupilTeacherRatio": "20.13",
+      "numberOfSchools": "3"
+   },
+   {
+      "name": "Catalyst Public Schools",
+      "location": {
+         "state": {
+            "name": "WASHINGTON",
+            "abbr": "WA",
+            "county": "Kitsap County"
+         }
+      },
+      "type": "7-Independent Charter District",
+      "grades": {
+         "lowest": "–",
+         "highest": "–"
+      },
+      "students": "†",
+      "fte": "†",
+      "pupilTeacherRatio": "†",
+      "numberOfSchools": "0"
+   },
+   {
+      "name": "Centerville School District",
+      "location": {
+         "state": {
+            "name": "Washington",
+            "abbr": "WA",
+            "county": "Klickitat County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Kindergarten",
+         "highest": "8th Grade"
+      },
+      "students": "86",
+      "fte": "5.6",
+      "pupilTeacherRatio": "15.36",
+      "numberOfSchools": "1"
+   },
+   {
+      "name": "Central Kitsap School District",
+      "location": {
+         "state": {
+            "name": "Washington",
+            "abbr": "WA",
+            "county": "Kitsap County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "11869",
+      "fte": "638.62",
+      "pupilTeacherRatio": "18.59",
+      "numberOfSchools": "19"
+   },
+   {
+      "name": "Central Valley School District",
+      "location": {
+         "state": {
+            "name": "Washington",
+            "abbr": "WA",
+            "county": "Spokane County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "14783",
+      "fte": "816",
+      "pupilTeacherRatio": "18.12",
+      "numberOfSchools": "31"
+   },
+   {
+      "name": "Central Washington University",
+      "location": {
+         "state": {
+            "name": "Washington",
+            "abbr": "WA",
+            "county": "Kittitas County"
+         }
+      },
+      "type": "8-Other education agencies",
+      "grades": {
+         "lowest": "†",
+         "highest": "†"
+      },
+      "students": "†",
+      "fte": "0",
+      "pupilTeacherRatio": "–",
+      "numberOfSchools": "0"
+   },
+   {
+      "name": "Centralia College",
+      "location": {
+         "state": {
+            "name": "Washington",
+            "abbr": "WA",
+            "county": "Lewis County"
+         }
+      },
+      "type": "8-Other education agencies",
+      "grades": {
+         "lowest": "8th Grade",
+         "highest": "12th Grade"
+      },
+      "students": "0",
+      "fte": "0",
+      "pupilTeacherRatio": "†",
+      "numberOfSchools": "1"
+   },
+   {
+      "name": "Centralia School District",
+      "location": {
+         "state": {
+            "name": "Washington",
+            "abbr": "WA",
+            "county": "Lewis County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "3638",
+      "fte": "197.39",
+      "pupilTeacherRatio": "18.43",
+      "numberOfSchools": "9"
+   },
+   {
+      "name": "Chehalis School District",
+      "location": {
+         "state": {
+            "name": "Washington",
+            "abbr": "WA",
+            "county": "Lewis County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "3259",
+      "fte": "173.41",
+      "pupilTeacherRatio": "18.79",
+      "numberOfSchools": "8"
+   },
+   {
+      "name": "Cheney School District",
+      "location": {
+         "state": {
+            "name": "Washington",
+            "abbr": "WA",
+            "county": "Spokane County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "5268",
+      "fte": "308.06",
+      "pupilTeacherRatio": "17.1",
+      "numberOfSchools": "12"
+   },
+   {
+      "name": "Chewelah School District",
+      "location": {
+         "state": {
+            "name": "Washington",
+            "abbr": "WA",
+            "county": "Stevens County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Kindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "775",
+      "fte": "43.53",
+      "pupilTeacherRatio": "17.8",
+      "numberOfSchools": "4"
+   },
+   {
+      "name": "Chimacum School District",
+      "location": {
+         "state": {
+            "name": "Washington",
+            "abbr": "WA",
+            "county": "Jefferson County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "835",
+      "fte": "49.56",
+      "pupilTeacherRatio": "16.85",
+      "numberOfSchools": "5"
+   },
+   {
+      "name": "Clarkston School District",
+      "location": {
+         "state": {
+            "name": "Washington",
+            "abbr": "WA",
+            "county": "Asotin County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "2711",
+      "fte": "146.59",
+      "pupilTeacherRatio": "18.49",
+      "numberOfSchools": "9"
+   },
+   {
+      "name": "Cle Elum-Roslyn School District",
+      "location": {
+         "state": {
+            "name": "Washington",
+            "abbr": "WA",
+            "county": "Kittitas County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "943",
+      "fte": "52.97",
+      "pupilTeacherRatio": "17.8",
+      "numberOfSchools": "4"
+   },
+   {
+      "name": "Clover Park School District",
+      "location": {
+         "state": {
+            "name": "Washington",
+            "abbr": "WA",
+            "county": "Pierce County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "13761",
+      "fte": "782.75",
+      "pupilTeacherRatio": "17.58",
+      "numberOfSchools": "33"
+   },
+   {
+      "name": "Clover Park Technical College",
+      "location": {
+         "state": {
+            "name": "Washington",
+            "abbr": "WA",
+            "county": "Pierce County"
+         }
+      },
+      "type": "8-Other education agencies",
+      "grades": {
+         "lowest": "9th Grade",
+         "highest": "12th Grade"
+      },
+      "students": "0",
+      "fte": "0",
+      "pupilTeacherRatio": "†",
+      "numberOfSchools": "1"
+   },
+   {
+      "name": "Colfax School District",
+      "location": {
+         "state": {
+            "name": "Washington",
+            "abbr": "WA",
+            "county": "Whitman County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Kindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "559",
+      "fte": "34.34",
+      "pupilTeacherRatio": "16.28",
+      "numberOfSchools": "2"
+   },
+   {
+      "name": "College Place School District",
+      "location": {
+         "state": {
+            "name": "Washington",
+            "abbr": "WA",
+            "county": "Walla Walla County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "1627",
+      "fte": "91.46",
+      "pupilTeacherRatio": "17.79",
+      "numberOfSchools": "4"
+   },
+   {
+      "name": "Colton School District",
+      "location": {
+         "state": {
+            "name": "Washington",
+            "abbr": "WA",
+            "county": "Whitman County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "189",
+      "fte": "15.4",
+      "pupilTeacherRatio": "12.27",
+      "numberOfSchools": "1"
+   },
+   {
+      "name": "Columbia (Stevens) School District",
+      "location": {
+         "state": {
+            "name": "Washington",
+            "abbr": "WA",
+            "county": "Stevens County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "107",
+      "fte": "13.77",
+      "pupilTeacherRatio": "7.77",
+      "numberOfSchools": "2"
+   },
+   {
+      "name": "Columbia (Walla Walla) School District",
+      "location": {
+         "state": {
+            "name": "Washington",
+            "abbr": "WA",
+            "county": "Walla Walla County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Kindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "785",
+      "fte": "45.58",
+      "pupilTeacherRatio": "17.22",
+      "numberOfSchools": "3"
+   },
+   {
+      "name": "Colville School District",
+      "location": {
+         "state": {
+            "name": "Washington",
+            "abbr": "WA",
+            "county": "Stevens County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "1751",
+      "fte": "102.83",
+      "pupilTeacherRatio": "17.03",
+      "numberOfSchools": "6"
+   },
+   {
+      "name": "Community Colleges of Spokane",
+      "location": {
+         "state": {
+            "name": "Washington",
+            "abbr": "WA",
+            "county": "Spokane County"
+         }
+      },
+      "type": "8-Other education agencies",
+      "grades": {
+         "lowest": "†",
+         "highest": "†"
+      },
+      "students": "†",
+      "fte": "0",
+      "pupilTeacherRatio": "–",
+      "numberOfSchools": "0"
+   },
+   {
+      "name": "Concrete School District",
+      "location": {
+         "state": {
+            "name": "Washington",
+            "abbr": "WA",
+            "county": "Skagit County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "534",
+      "fte": "31.36",
+      "pupilTeacherRatio": "17.03",
+      "numberOfSchools": "4"
+   },
+   {
+      "name": "Conway School District",
+      "location": {
+         "state": {
+            "name": "Washington",
+            "abbr": "WA",
+            "county": "Skagit County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "8th Grade"
+      },
+      "students": "489",
+      "fte": "25",
+      "pupilTeacherRatio": "19.56",
+      "numberOfSchools": "1"
+   },
+   {
+      "name": "Cosmopolis School District",
+      "location": {
+         "state": {
+            "name": "Washington",
+            "abbr": "WA",
+            "county": "Grays Harbor County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "6th Grade"
+      },
+      "students": "188",
+      "fte": "11.85",
+      "pupilTeacherRatio": "15.86",
+      "numberOfSchools": "1"
+   },
+   {
+      "name": "Coulee-Hartline School District",
+      "location": {
+         "state": {
+            "name": "Washington",
+            "abbr": "WA",
+            "county": "Grant County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "171",
+      "fte": "14.95",
+      "pupilTeacherRatio": "11.44",
+      "numberOfSchools": "3"
+   },
+   {
+      "name": "Coupeville School District",
+      "location": {
+         "state": {
+            "name": "Washington",
+            "abbr": "WA",
+            "county": "Island County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "1045",
+      "fte": "59.33",
+      "pupilTeacherRatio": "17.61",
+      "numberOfSchools": "7"
+   },
+   {
+      "name": "Crescent School District",
+      "location": {
+         "state": {
+            "name": "Washington",
+            "abbr": "WA",
+            "county": "Clallam County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Kindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "366",
+      "fte": "20.65",
+      "pupilTeacherRatio": "17.72",
+      "numberOfSchools": "2"
+   },
+   {
+      "name": "Creston School District",
+      "location": {
+         "state": {
+            "name": "Washington",
+            "abbr": "WA",
+            "county": "Lincoln County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Kindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "83",
+      "fte": "10.42",
+      "pupilTeacherRatio": "7.97",
+      "numberOfSchools": "2"
+   },
+   {
+      "name": "Curlew School District",
+      "location": {
+         "state": {
+            "name": "Washington",
+            "abbr": "WA",
+            "county": "Ferry County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "220",
+      "fte": "15.51",
+      "pupilTeacherRatio": "14.18",
+      "numberOfSchools": "2"
+   },
+   {
+      "name": "Cusick School District",
+      "location": {
+         "state": {
+            "name": "Washington",
+            "abbr": "WA",
+            "county": "Pend Oreille County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Kindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "246",
+      "fte": "20.2",
+      "pupilTeacherRatio": "12.18",
+      "numberOfSchools": "4"
+   },
+   {
+      "name": "Damman School District",
+      "location": {
+         "state": {
+            "name": "Washington",
+            "abbr": "WA",
+            "county": "Kittitas County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Kindergarten",
+         "highest": "5th Grade"
+      },
+      "students": "37",
+      "fte": "2.49",
+      "pupilTeacherRatio": "14.86",
+      "numberOfSchools": "1"
+   },
+   {
+      "name": "Darrington School District",
+      "location": {
+         "state": {
+            "name": "Washington",
+            "abbr": "WA",
+            "county": "Snohomish County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "453",
+      "fte": "25",
+      "pupilTeacherRatio": "18.12",
+      "numberOfSchools": "2"
+   },
+   {
+      "name": "Davenport School District",
+      "location": {
+         "state": {
+            "name": "Washington",
+            "abbr": "WA",
+            "county": "Lincoln County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "593",
+      "fte": "36.89",
+      "pupilTeacherRatio": "16.07",
+      "numberOfSchools": "3"
+   },
+   {
+      "name": "Dayton School District",
+      "location": {
+         "state": {
+            "name": "Washington",
+            "abbr": "WA",
+            "county": "Columbia County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "432",
+      "fte": "31.04",
+      "pupilTeacherRatio": "13.92",
+      "numberOfSchools": "3"
+   },
+   {
+      "name": "Deer Park School District",
+      "location": {
+         "state": {
+            "name": "Washington",
+            "abbr": "WA",
+            "county": "Spokane County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "2660",
+      "fte": "136.24",
+      "pupilTeacherRatio": "19.52",
+      "numberOfSchools": "7"
+   },
+   {
+      "name": "Dieringer School District",
+      "location": {
+         "state": {
+            "name": "Washington",
+            "abbr": "WA",
+            "county": "Pierce County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Kindergarten",
+         "highest": "8th Grade"
+      },
+      "students": "1570",
+      "fte": "84.7",
+      "pupilTeacherRatio": "18.54",
+      "numberOfSchools": "3"
+   },
+   {
+      "name": "Dixie School District",
+      "location": {
+         "state": {
+            "name": "Washington",
+            "abbr": "WA",
+            "county": "Walla Walla County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "5th Grade"
+      },
+      "students": "16",
+      "fte": "2",
+      "pupilTeacherRatio": "8",
+      "numberOfSchools": "1"
+   },
+   {
+      "name": "East Valley School District (Spokane)",
+      "location": {
+         "state": {
+            "name": "Washington",
+            "abbr": "WA",
+            "county": "Spokane County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "4233",
+      "fte": "227.1",
+      "pupilTeacherRatio": "18.64",
+      "numberOfSchools": "10"
+   },
+   {
+      "name": "East Valley School District (Yakima)",
+      "location": {
+         "state": {
+            "name": "Washington",
+            "abbr": "WA",
+            "county": "Yakima County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "3306",
+      "fte": "181.63",
+      "pupilTeacherRatio": "18.2",
+      "numberOfSchools": "5"
+   },
+   {
+      "name": "Eastmont School District",
+      "location": {
+         "state": {
+            "name": "Washington",
+            "abbr": "WA",
+            "county": "Douglas County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "6306",
+      "fte": "345.1",
+      "pupilTeacherRatio": "18.27",
+      "numberOfSchools": "11"
+   },
+   {
+      "name": "Easton School District",
+      "location": {
+         "state": {
+            "name": "Washington",
+            "abbr": "WA",
+            "county": "Kittitas County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "106",
+      "fte": "13.04",
+      "pupilTeacherRatio": "8.13",
+      "numberOfSchools": "2"
+   },
+   {
+      "name": "Eatonville School District",
+      "location": {
+         "state": {
+            "name": "Washington",
+            "abbr": "WA",
+            "county": "Pierce County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "2059",
+      "fte": "98.09",
+      "pupilTeacherRatio": "20.99",
+      "numberOfSchools": "9"
+   },
+   {
+      "name": "Edmonds School District",
+      "location": {
+         "state": {
+            "name": "Washington",
+            "abbr": "WA",
+            "county": "Snohomish County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "21727",
+      "fte": "1134.73",
+      "pupilTeacherRatio": "19.15",
+      "numberOfSchools": "38"
+   },
+   {
+      "name": "Educational Service Agency 112",
+      "location": {
+         "state": {
+            "name": "WASHINGTON",
+            "abbr": "WA",
+            "county": "Clark County"
+         }
+      },
+      "type": "8-Other education agencies",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "0",
+      "fte": "0",
+      "pupilTeacherRatio": "†",
+      "numberOfSchools": "1"
+   },
+   {
+      "name": "Educational Service District 101",
+      "location": {
+         "state": {
+            "name": "Washington",
+            "abbr": "WA",
+            "county": "Spokane County"
+         }
+      },
+      "type": "8-Other education agencies",
+      "grades": {
+         "lowest": "6th Grade",
+         "highest": "12th Grade"
+      },
+      "students": "200",
+      "fte": "0",
+      "pupilTeacherRatio": "†",
+      "numberOfSchools": "4"
+   },
+   {
+      "name": "Educational Service District 105",
+      "location": {
+         "state": {
+            "name": "Washington",
+            "abbr": "WA",
+            "county": "Yakima County"
+         }
+      },
+      "type": "8-Other education agencies",
+      "grades": {
+         "lowest": "9th Grade",
+         "highest": "12th Grade"
+      },
+      "students": "11",
+      "fte": "0",
+      "pupilTeacherRatio": "†",
+      "numberOfSchools": "1"
+   },
+   {
+      "name": "Educational Service District 112",
+      "location": {
+         "state": {
+            "name": "Washington",
+            "abbr": "WA",
+            "county": "Clark County"
+         }
+      },
+      "type": "8-Other education agencies",
+      "grades": {
+         "lowest": "3rd Grade",
+         "highest": "12th Grade"
+      },
+      "students": "249",
+      "fte": "3.75",
+      "pupilTeacherRatio": "66.4",
+      "numberOfSchools": "3"
+   },
+   {
+      "name": "Educational Service District 123",
+      "location": {
+         "state": {
+            "name": "Washington",
+            "abbr": "WA",
+            "county": "Franklin County"
+         }
+      },
+      "type": "8-Other education agencies",
+      "grades": {
+         "lowest": "8th Grade",
+         "highest": "12th Grade"
+      },
+      "students": "87",
+      "fte": "3",
+      "pupilTeacherRatio": "29",
+      "numberOfSchools": "2"
+   },
+   {
+      "name": "Ellensburg School District",
+      "location": {
+         "state": {
+            "name": "Washington",
+            "abbr": "WA",
+            "county": "Kittitas County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "3451",
+      "fte": "192.87",
+      "pupilTeacherRatio": "17.89",
+      "numberOfSchools": "7"
+   },
+   {
+      "name": "Elma School District",
+      "location": {
+         "state": {
+            "name": "Washington",
+            "abbr": "WA",
+            "county": "Grays Harbor County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "1602",
+      "fte": "88.32",
+      "pupilTeacherRatio": "18.14",
+      "numberOfSchools": "5"
+   },
+   {
+      "name": "Endicott School District",
+      "location": {
+         "state": {
+            "name": "Washington",
+            "abbr": "WA",
+            "county": "Whitman County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "8th Grade"
+      },
+      "students": "103",
+      "fte": "12.3",
+      "pupilTeacherRatio": "8.37",
+      "numberOfSchools": "1"
+   },
+   {
+      "name": "Entiat School District",
+      "location": {
+         "state": {
+            "name": "Washington",
+            "abbr": "WA",
+            "county": "Chelan County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "335",
+      "fte": "22.31",
+      "pupilTeacherRatio": "15.02",
+      "numberOfSchools": "2"
+   },
+   {
+      "name": "Enumclaw School District",
+      "location": {
+         "state": {
+            "name": "Washington",
+            "abbr": "WA",
+            "county": "King County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "4327",
+      "fte": "227.32",
+      "pupilTeacherRatio": "19.03",
+      "numberOfSchools": "10"
+   },
+   {
+      "name": "Ephrata School District",
+      "location": {
+         "state": {
+            "name": "Washington",
+            "abbr": "WA",
+            "county": "Grant County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "2738",
+      "fte": "142.11",
+      "pupilTeacherRatio": "19.27",
+      "numberOfSchools": "8"
+   },
+   {
+      "name": "Evaline School District",
+      "location": {
+         "state": {
+            "name": "Washington",
+            "abbr": "WA",
+            "county": "Lewis County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Kindergarten",
+         "highest": "6th Grade"
+      },
+      "students": "51",
+      "fte": "4.88",
+      "pupilTeacherRatio": "10.45",
+      "numberOfSchools": "1"
+   },
+   {
+      "name": "Everett Community College",
+      "location": {
+         "state": {
+            "name": "Washington",
+            "abbr": "WA",
+            "county": "Snohomish County"
+         }
+      },
+      "type": "8-Other education agencies",
+      "grades": {
+         "lowest": "†",
+         "highest": "†"
+      },
+      "students": "†",
+      "fte": "0",
+      "pupilTeacherRatio": "–",
+      "numberOfSchools": "0"
+   },
+   {
+      "name": "Everett School District",
+      "location": {
+         "state": {
+            "name": "Washington",
+            "abbr": "WA",
+            "county": "Snohomish County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "21162",
+      "fte": "1103.97",
+      "pupilTeacherRatio": "19.17",
+      "numberOfSchools": "33"
+   },
+   {
+      "name": "Evergreen School District (Clark)",
+      "location": {
+         "state": {
+            "name": "Washington",
+            "abbr": "WA",
+            "county": "Clark County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "25021",
+      "fte": "1500.7",
+      "pupilTeacherRatio": "16.67",
+      "numberOfSchools": "39"
+   },
+   {
+      "name": "Evergreen School District (Stevens)",
+      "location": {
+         "state": {
+            "name": "Washington",
+            "abbr": "WA",
+            "county": "Stevens County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Kindergarten",
+         "highest": "6th Grade"
+      },
+      "students": "36",
+      "fte": "2.78",
+      "pupilTeacherRatio": "12.95",
+      "numberOfSchools": "1"
+   },
+   {
+      "name": "Evergreen State College",
+      "location": {
+         "state": {
+            "name": "WASHINGTON",
+            "abbr": "WA",
+            "county": "Thurston County"
+         }
+      },
+      "type": "8-Other education agencies",
+      "grades": {
+         "lowest": "†",
+         "highest": "†"
+      },
+      "students": "†",
+      "fte": "0",
+      "pupilTeacherRatio": "–",
+      "numberOfSchools": "0"
+   },
+   {
+      "name": "Federal Way School District",
+      "location": {
+         "state": {
+            "name": "Washington",
+            "abbr": "WA",
+            "county": "King County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "23289",
+      "fte": "1277.73",
+      "pupilTeacherRatio": "18.23",
+      "numberOfSchools": "46"
+   },
+   {
+      "name": "Ferndale School District",
+      "location": {
+         "state": {
+            "name": "Washington",
+            "abbr": "WA",
+            "county": "Whatcom County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "4796",
+      "fte": "264.35",
+      "pupilTeacherRatio": "18.14",
+      "numberOfSchools": "14"
+   },
+   {
+      "name": "Fife School District",
+      "location": {
+         "state": {
+            "name": "Washington",
+            "abbr": "WA",
+            "county": "Pierce County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "3907",
+      "fte": "208.36",
+      "pupilTeacherRatio": "18.75",
+      "numberOfSchools": "7"
+   },
+   {
+      "name": "Finley School District",
+      "location": {
+         "state": {
+            "name": "Washington",
+            "abbr": "WA",
+            "county": "Benton County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "914",
+      "fte": "53.6",
+      "pupilTeacherRatio": "17.05",
+      "numberOfSchools": "3"
+   },
+   {
+      "name": "Franklin Pierce School District",
+      "location": {
+         "state": {
+            "name": "Washington",
+            "abbr": "WA",
+            "county": "Pierce County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "8090",
+      "fte": "467.61",
+      "pupilTeacherRatio": "17.3",
+      "numberOfSchools": "15"
+   },
+   {
+      "name": "Freeman School District",
+      "location": {
+         "state": {
+            "name": "Washington",
+            "abbr": "WA",
+            "county": "Spokane County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "919",
+      "fte": "51.94",
+      "pupilTeacherRatio": "17.69",
+      "numberOfSchools": "3"
+   },
+   {
+      "name": "Garfield School District",
+      "location": {
+         "state": {
+            "name": "Washington",
+            "abbr": "WA",
+            "county": "Whitman County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "141",
+      "fte": "12",
+      "pupilTeacherRatio": "11.75",
+      "numberOfSchools": "3"
+   },
+   {
+      "name": "Glenwood School District",
+      "location": {
+         "state": {
+            "name": "Washington",
+            "abbr": "WA",
+            "county": "Klickitat County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "69",
+      "fte": "9.25",
+      "pupilTeacherRatio": "7.46",
+      "numberOfSchools": "2"
+   },
+   {
+      "name": "Goldendale School District",
+      "location": {
+         "state": {
+            "name": "Washington",
+            "abbr": "WA",
+            "county": "Klickitat County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "940",
+      "fte": "48.63",
+      "pupilTeacherRatio": "19.33",
+      "numberOfSchools": "4"
+   },
+   {
+      "name": "Grand Coulee Dam School District",
+      "location": {
+         "state": {
+            "name": "Washington",
+            "abbr": "WA",
+            "county": "Douglas County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "763",
+      "fte": "44.64",
+      "pupilTeacherRatio": "17.09",
+      "numberOfSchools": "3"
+   },
+   {
+      "name": "Grandview School District",
+      "location": {
+         "state": {
+            "name": "Washington",
+            "abbr": "WA",
+            "county": "Yakima County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "3756",
+      "fte": "194.55",
+      "pupilTeacherRatio": "19.31",
+      "numberOfSchools": "7"
+   },
+   {
+      "name": "Granger School District",
+      "location": {
+         "state": {
+            "name": "Washington",
+            "abbr": "WA",
+            "county": "Yakima County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "1580",
+      "fte": "84.1",
+      "pupilTeacherRatio": "18.79",
+      "numberOfSchools": "3"
+   },
+   {
+      "name": "Granite Falls School District",
+      "location": {
+         "state": {
+            "name": "Washington",
+            "abbr": "WA",
+            "county": "Snohomish County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "2168",
+      "fte": "112.44",
+      "pupilTeacherRatio": "19.28",
+      "numberOfSchools": "6"
+   },
+   {
+      "name": "Grapeview School District",
+      "location": {
+         "state": {
+            "name": "Washington",
+            "abbr": "WA",
+            "county": "Mason County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Kindergarten",
+         "highest": "8th Grade"
+      },
+      "students": "206",
+      "fte": "14.07",
+      "pupilTeacherRatio": "14.64",
+      "numberOfSchools": "1"
+   },
+   {
+      "name": "Great Northern School District",
+      "location": {
+         "state": {
+            "name": "Washington",
+            "abbr": "WA",
+            "county": "Spokane County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Kindergarten",
+         "highest": "6th Grade"
+      },
+      "students": "44",
+      "fte": "3.97",
+      "pupilTeacherRatio": "11.08",
+      "numberOfSchools": "1"
+   },
+   {
+      "name": "Green Mountain School District",
+      "location": {
+         "state": {
+            "name": "Washington",
+            "abbr": "WA",
+            "county": "Clark County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Kindergarten",
+         "highest": "8th Grade"
+      },
+      "students": "159",
+      "fte": "10.41",
+      "pupilTeacherRatio": "15.27",
+      "numberOfSchools": "1"
+   },
+   {
+      "name": "Green River Community College",
+      "location": {
+         "state": {
+            "name": "Washington",
+            "abbr": "WA",
+            "county": "King County"
+         }
+      },
+      "type": "8-Other education agencies",
+      "grades": {
+         "lowest": "†",
+         "highest": "†"
+      },
+      "students": "†",
+      "fte": "0",
+      "pupilTeacherRatio": "–",
+      "numberOfSchools": "0"
+   },
+   {
+      "name": "Griffin School District",
+      "location": {
+         "state": {
+            "name": "Washington",
+            "abbr": "WA",
+            "county": "Thurston County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "8th Grade"
+      },
+      "students": "644",
+      "fte": "35.79",
+      "pupilTeacherRatio": "17.99",
+      "numberOfSchools": "1"
+   },
+   {
+      "name": "Harrington School District",
+      "location": {
+         "state": {
+            "name": "Washington",
+            "abbr": "WA",
+            "county": "Lincoln County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "145",
+      "fte": "13.9",
+      "pupilTeacherRatio": "10.43",
+      "numberOfSchools": "2"
+   },
+   {
+      "name": "Highland School District",
+      "location": {
+         "state": {
+            "name": "Washington",
+            "abbr": "WA",
+            "county": "Yakima County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "1181",
+      "fte": "65.68",
+      "pupilTeacherRatio": "17.98",
+      "numberOfSchools": "5"
+   },
+   {
+      "name": "Highline School District",
+      "location": {
+         "state": {
+            "name": "Washington",
+            "abbr": "WA",
+            "county": "King County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "19130",
+      "fte": "1014.19",
+      "pupilTeacherRatio": "18.86",
+      "numberOfSchools": "41"
+   },
+   {
+      "name": "Hockinson School District",
+      "location": {
+         "state": {
+            "name": "Washington",
+            "abbr": "WA",
+            "county": "Clark County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Kindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "2012",
+      "fte": "103.86",
+      "pupilTeacherRatio": "19.37",
+      "numberOfSchools": "3"
+   },
+   {
+      "name": "Hood Canal School District",
+      "location": {
+         "state": {
+            "name": "Washington",
+            "abbr": "WA",
+            "county": "Mason County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "8th Grade"
+      },
+      "students": "335",
+      "fte": "25.25",
+      "pupilTeacherRatio": "13.27",
+      "numberOfSchools": "2"
+   },
+   {
+      "name": "Hoquiam School District",
+      "location": {
+         "state": {
+            "name": "Washington",
+            "abbr": "WA",
+            "county": "Grays Harbor County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "1674",
+      "fte": "90.92",
+      "pupilTeacherRatio": "18.41",
+      "numberOfSchools": "6"
+   },
+   {
+      "name": "Impact Public Schools",
+      "location": {
+         "state": {
+            "name": "WASHINGTON",
+            "abbr": "WA",
+            "county": "King County"
+         }
+      },
+      "type": "7-Independent Charter District",
+      "grades": {
+         "lowest": "Kindergarten",
+         "highest": "5th Grade"
+      },
+      "students": "285",
+      "fte": "19.7",
+      "pupilTeacherRatio": "14.47",
+      "numberOfSchools": "1"
+   },
+   {
+      "name": "Inchelium School District",
+      "location": {
+         "state": {
+            "name": "Washington",
+            "abbr": "WA",
+            "county": "Ferry County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Kindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "210",
+      "fte": "18",
+      "pupilTeacherRatio": "11.67",
+      "numberOfSchools": "3"
+   },
+   {
+      "name": "Index Elementary School District 63",
+      "location": {
+         "state": {
+            "name": "Washington",
+            "abbr": "WA",
+            "county": "Snohomish County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "8th Grade"
+      },
+      "students": "32",
+      "fte": "3.35",
+      "pupilTeacherRatio": "9.55",
+      "numberOfSchools": "1"
+   },
+   {
+      "name": "Innovation Schools",
+      "location": {
+         "state": {
+            "name": "WASHINGTON",
+            "abbr": "WA",
+            "county": "Walla Walla County"
+         }
+      },
+      "type": "7-Independent Charter District",
+      "grades": {
+         "lowest": "6th Grade",
+         "highest": "8th Grade"
+      },
+      "students": "49",
+      "fte": "6",
+      "pupilTeacherRatio": "8.17",
+      "numberOfSchools": "1"
+   },
+   {
+      "name": "Issaquah School District",
+      "location": {
+         "state": {
+            "name": "Washington",
+            "abbr": "WA",
+            "county": "King County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "21358",
+      "fte": "1119.41",
+      "pupilTeacherRatio": "19.08",
+      "numberOfSchools": "28"
+   },
+   {
+      "name": "Kahlotus School District",
+      "location": {
+         "state": {
+            "name": "Washington",
+            "abbr": "WA",
+            "county": "Franklin County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "47",
+      "fte": "10.33",
+      "pupilTeacherRatio": "4.55",
+      "numberOfSchools": "1"
+   },
+   {
+      "name": "Kalama School District",
+      "location": {
+         "state": {
+            "name": "Washington",
+            "abbr": "WA",
+            "county": "Cowlitz County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Kindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "1066",
+      "fte": "54.09",
+      "pupilTeacherRatio": "19.71",
+      "numberOfSchools": "3"
+   },
+   {
+      "name": "Keller School District",
+      "location": {
+         "state": {
+            "name": "Washington",
+            "abbr": "WA",
+            "county": "Ferry County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Kindergarten",
+         "highest": "6th Grade"
+      },
+      "students": "40",
+      "fte": "3.02",
+      "pupilTeacherRatio": "13.25",
+      "numberOfSchools": "1"
+   },
+   {
+      "name": "Kelso School District",
+      "location": {
+         "state": {
+            "name": "Washington",
+            "abbr": "WA",
+            "county": "Cowlitz County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "5110",
+      "fte": "276.12",
+      "pupilTeacherRatio": "18.51",
+      "numberOfSchools": "14"
+   },
+   {
+      "name": "Kennewick School District",
+      "location": {
+         "state": {
+            "name": "Washington",
+            "abbr": "WA",
+            "county": "Benton County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "19187",
+      "fte": "1037.61",
+      "pupilTeacherRatio": "18.49",
+      "numberOfSchools": "32"
+   },
+   {
+      "name": "Kent School District",
+      "location": {
+         "state": {
+            "name": "Washington",
+            "abbr": "WA",
+            "county": "King County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "27401",
+      "fte": "1396.13",
+      "pupilTeacherRatio": "19.63",
+      "numberOfSchools": "44"
+   },
+   {
+      "name": "Kettle Falls School District",
+      "location": {
+         "state": {
+            "name": "Washington",
+            "abbr": "WA",
+            "county": "Stevens County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "1128",
+      "fte": "60.28",
+      "pupilTeacherRatio": "18.71",
+      "numberOfSchools": "5"
+   },
+   {
+      "name": "Kiona-Benton City School District",
+      "location": {
+         "state": {
+            "name": "Washington",
+            "abbr": "WA",
+            "county": "Benton County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "1428",
+      "fte": "80.22",
+      "pupilTeacherRatio": "17.8",
+      "numberOfSchools": "4"
+   },
+   {
+      "name": "Kittitas School District",
+      "location": {
+         "state": {
+            "name": "Washington",
+            "abbr": "WA",
+            "county": "Kittitas County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "676",
+      "fte": "40.99",
+      "pupilTeacherRatio": "16.49",
+      "numberOfSchools": "4"
+   },
+   {
+      "name": "Klickitat School District",
+      "location": {
+         "state": {
+            "name": "Washington",
+            "abbr": "WA",
+            "county": "Klickitat County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Kindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "74",
+      "fte": "8.26",
+      "pupilTeacherRatio": "8.96",
+      "numberOfSchools": "1"
+   },
+   {
+      "name": "La Center School District",
+      "location": {
+         "state": {
+            "name": "Washington",
+            "abbr": "WA",
+            "county": "Clark County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "1724",
+      "fte": "96.4",
+      "pupilTeacherRatio": "17.88",
+      "numberOfSchools": "4"
+   },
+   {
+      "name": "La Conner School District",
+      "location": {
+         "state": {
+            "name": "Washington",
+            "abbr": "WA",
+            "county": "Skagit County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "663",
+      "fte": "44.1",
+      "pupilTeacherRatio": "15.03",
+      "numberOfSchools": "3"
+   },
+   {
+      "name": "Lacrosse School District",
+      "location": {
+         "state": {
+            "name": "Washington",
+            "abbr": "WA",
+            "county": "Whitman County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "88",
+      "fte": "11.85",
+      "pupilTeacherRatio": "7.43",
+      "numberOfSchools": "2"
+   },
+   {
+      "name": "Lake Chelan School District",
+      "location": {
+         "state": {
+            "name": "Washington",
+            "abbr": "WA",
+            "county": "Chelan County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "1454",
+      "fte": "88.13",
+      "pupilTeacherRatio": "16.5",
+      "numberOfSchools": "6"
+   },
+   {
+      "name": "Lake Quinault School District",
+      "location": {
+         "state": {
+            "name": "Washington",
+            "abbr": "WA",
+            "county": "Grays Harbor County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "213",
+      "fte": "14.72",
+      "pupilTeacherRatio": "14.47",
+      "numberOfSchools": "1"
+   },
+   {
+      "name": "Lake Stevens School District",
+      "location": {
+         "state": {
+            "name": "Washington",
+            "abbr": "WA",
+            "county": "Snohomish County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "9606",
+      "fte": "472.29",
+      "pupilTeacherRatio": "20.34",
+      "numberOfSchools": "15"
+   },
+   {
+      "name": "Lake Washington Institute of Technology",
+      "location": {
+         "state": {
+            "name": "Washington",
+            "abbr": "WA",
+            "county": "King County"
+         }
+      },
+      "type": "8-Other education agencies",
+      "grades": {
+         "lowest": "11th Grade",
+         "highest": "12th Grade"
+      },
+      "students": "812",
+      "fte": "0",
+      "pupilTeacherRatio": "†",
+      "numberOfSchools": "2"
+   },
+   {
+      "name": "Lake Washington School District",
+      "location": {
+         "state": {
+            "name": "Washington",
+            "abbr": "WA",
+            "county": "King County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "31851",
+      "fte": "1728.32",
+      "pupilTeacherRatio": "18.43",
+      "numberOfSchools": "56"
+   },
+   {
+      "name": "Lakewood School District",
+      "location": {
+         "state": {
+            "name": "Washington",
+            "abbr": "WA",
+            "county": "Snohomish County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "2614",
+      "fte": "136.26",
+      "pupilTeacherRatio": "19.18",
+      "numberOfSchools": "5"
+   },
+   {
+      "name": "Lamont School District",
+      "location": {
+         "state": {
+            "name": "Washington",
+            "abbr": "WA",
+            "county": "Whitman County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "5th Grade",
+         "highest": "8th Grade"
+      },
+      "students": "40",
+      "fte": "3.53",
+      "pupilTeacherRatio": "11.33",
+      "numberOfSchools": "1"
+   },
+   {
+      "name": "Liberty School District",
+      "location": {
+         "state": {
+            "name": "Washington",
+            "abbr": "WA",
+            "county": "Spokane County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "558",
+      "fte": "32.17",
+      "pupilTeacherRatio": "17.35",
+      "numberOfSchools": "2"
+   },
+   {
+      "name": "Lind School District",
+      "location": {
+         "state": {
+            "name": "Washington",
+            "abbr": "WA",
+            "county": "Adams County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "211",
+      "fte": "17.02",
+      "pupilTeacherRatio": "12.4",
+      "numberOfSchools": "3"
+   },
+   {
+      "name": "Longview School District",
+      "location": {
+         "state": {
+            "name": "Washington",
+            "abbr": "WA",
+            "county": "Cowlitz County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "6710",
+      "fte": "375.46",
+      "pupilTeacherRatio": "17.87",
+      "numberOfSchools": "17"
+   },
+   {
+      "name": "Loon Lake School District",
+      "location": {
+         "state": {
+            "name": "Washington",
+            "abbr": "WA",
+            "county": "Stevens County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "8th Grade"
+      },
+      "students": "199",
+      "fte": "10.58",
+      "pupilTeacherRatio": "18.81",
+      "numberOfSchools": "2"
+   },
+   {
+      "name": "Lopez School District",
+      "location": {
+         "state": {
+            "name": "Washington",
+            "abbr": "WA",
+            "county": "San Juan County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Kindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "241",
+      "fte": "19.68",
+      "pupilTeacherRatio": "12.25",
+      "numberOfSchools": "3"
+   },
+   {
+      "name": "Lyle School District",
+      "location": {
+         "state": {
+            "name": "Washington",
+            "abbr": "WA",
+            "county": "Klickitat County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "277",
+      "fte": "15.01",
+      "pupilTeacherRatio": "18.45",
+      "numberOfSchools": "3"
+   },
+   {
+      "name": "Lynden School District",
+      "location": {
+         "state": {
+            "name": "Washington",
+            "abbr": "WA",
+            "county": "Whatcom County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "3656",
+      "fte": "189.04",
+      "pupilTeacherRatio": "19.34",
+      "numberOfSchools": "8"
+   },
+   {
+      "name": "Mabton School District",
+      "location": {
+         "state": {
+            "name": "Washington",
+            "abbr": "WA",
+            "county": "Yakima County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Kindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "869",
+      "fte": "50.8",
+      "pupilTeacherRatio": "17.11",
+      "numberOfSchools": "3"
+   },
+   {
+      "name": "Mansfield School District",
+      "location": {
+         "state": {
+            "name": "Washington",
+            "abbr": "WA",
+            "county": "Douglas County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "102",
+      "fte": "12",
+      "pupilTeacherRatio": "8.5",
+      "numberOfSchools": "1"
+   },
+   {
+      "name": "Manson School District",
+      "location": {
+         "state": {
+            "name": "Washington",
+            "abbr": "WA",
+            "county": "Chelan County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "664",
+      "fte": "41.66",
+      "pupilTeacherRatio": "15.94",
+      "numberOfSchools": "3"
+   },
+   {
+      "name": "Mary M Knight School District",
+      "location": {
+         "state": {
+            "name": "Washington",
+            "abbr": "WA",
+            "county": "Mason County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "1834",
+      "fte": "46.64",
+      "pupilTeacherRatio": "39.32",
+      "numberOfSchools": "2"
+   },
+   {
+      "name": "Mary Walker School District",
+      "location": {
+         "state": {
+            "name": "Washington",
+            "abbr": "WA",
+            "county": "Stevens County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "497",
+      "fte": "26.64",
+      "pupilTeacherRatio": "18.66",
+      "numberOfSchools": "4"
+   },
+   {
+      "name": "Marysville School District",
+      "location": {
+         "state": {
+            "name": "Washington",
+            "abbr": "WA",
+            "county": "Snohomish County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "10990",
+      "fte": "595.76",
+      "pupilTeacherRatio": "18.45",
+      "numberOfSchools": "23"
+   },
+   {
+      "name": "Mccleary School District",
+      "location": {
+         "state": {
+            "name": "Washington",
+            "abbr": "WA",
+            "county": "Grays Harbor County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "8th Grade"
+      },
+      "students": "347",
+      "fte": "21.05",
+      "pupilTeacherRatio": "16.48",
+      "numberOfSchools": "1"
+   },
+   {
+      "name": "Mead School District",
+      "location": {
+         "state": {
+            "name": "Washington",
+            "abbr": "WA",
+            "county": "Spokane County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "10802",
+      "fte": "556",
+      "pupilTeacherRatio": "19.43",
+      "numberOfSchools": "15"
+   },
+   {
+      "name": "Medical Lake School District",
+      "location": {
+         "state": {
+            "name": "Washington",
+            "abbr": "WA",
+            "county": "Spokane County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "1998",
+      "fte": "113.98",
+      "pupilTeacherRatio": "17.53",
+      "numberOfSchools": "5"
+   },
+   {
+      "name": "Mercer Island School District",
+      "location": {
+         "state": {
+            "name": "Washington",
+            "abbr": "WA",
+            "county": "King County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "4496",
+      "fte": "244.06",
+      "pupilTeacherRatio": "18.42",
+      "numberOfSchools": "6"
+   },
+   {
+      "name": "Meridian School District",
+      "location": {
+         "state": {
+            "name": "Washington",
+            "abbr": "WA",
+            "county": "Whatcom County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "1848",
+      "fte": "96.89",
+      "pupilTeacherRatio": "19.07",
+      "numberOfSchools": "6"
+   },
+   {
+      "name": "Methow Valley School District",
+      "location": {
+         "state": {
+            "name": "Washington",
+            "abbr": "WA",
+            "county": "Okanogan County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "735",
+      "fte": "42.55",
+      "pupilTeacherRatio": "17.27",
+      "numberOfSchools": "4"
+   },
+   {
+      "name": "Mill a School District",
+      "location": {
+         "state": {
+            "name": "Washington",
+            "abbr": "WA",
+            "county": "Skamania County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Kindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "51",
+      "fte": "9.5",
+      "pupilTeacherRatio": "5.37",
+      "numberOfSchools": "2"
+   },
+   {
+      "name": "Monroe School District",
+      "location": {
+         "state": {
+            "name": "Washington",
+            "abbr": "WA",
+            "county": "Snohomish County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "6825",
+      "fte": "322.25",
+      "pupilTeacherRatio": "21.18",
+      "numberOfSchools": "14"
+   },
+   {
+      "name": "Montesano School District",
+      "location": {
+         "state": {
+            "name": "Washington",
+            "abbr": "WA",
+            "county": "Grays Harbor County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "1467",
+      "fte": "79.67",
+      "pupilTeacherRatio": "18.41",
+      "numberOfSchools": "3"
+   },
+   {
+      "name": "Morton School District",
+      "location": {
+         "state": {
+            "name": "Washington",
+            "abbr": "WA",
+            "county": "Lewis County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "369",
+      "fte": "22.63",
+      "pupilTeacherRatio": "16.31",
+      "numberOfSchools": "2"
+   },
+   {
+      "name": "Moses Lake School District",
+      "location": {
+         "state": {
+            "name": "Washington",
+            "abbr": "WA",
+            "county": "Grant County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "8882",
+      "fte": "435.22",
+      "pupilTeacherRatio": "20.41",
+      "numberOfSchools": "17"
+   },
+   {
+      "name": "Mossyrock School District",
+      "location": {
+         "state": {
+            "name": "Washington",
+            "abbr": "WA",
+            "county": "Lewis County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Kindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "567",
+      "fte": "37.13",
+      "pupilTeacherRatio": "15.27",
+      "numberOfSchools": "3"
+   },
+   {
+      "name": "Mount Adams School District",
+      "location": {
+         "state": {
+            "name": "Washington",
+            "abbr": "WA",
+            "county": "Yakima County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "911",
+      "fte": "62.7",
+      "pupilTeacherRatio": "14.53",
+      "numberOfSchools": "3"
+   },
+   {
+      "name": "Mount Baker School District",
+      "location": {
+         "state": {
+            "name": "Washington",
+            "abbr": "WA",
+            "county": "Whatcom County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "1854",
+      "fte": "113.97",
+      "pupilTeacherRatio": "16.27",
+      "numberOfSchools": "7"
+   },
+   {
+      "name": "Mount Pleasant School District",
+      "location": {
+         "state": {
+            "name": "Washington",
+            "abbr": "WA",
+            "county": "Skamania County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Kindergarten",
+         "highest": "8th Grade"
+      },
+      "students": "69",
+      "fte": "4.88",
+      "pupilTeacherRatio": "14.14",
+      "numberOfSchools": "1"
+   },
+   {
+      "name": "Mount Vernon School District",
+      "location": {
+         "state": {
+            "name": "Washington",
+            "abbr": "WA",
+            "county": "Skagit County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "6894",
+      "fte": "396.86",
+      "pupilTeacherRatio": "17.37",
+      "numberOfSchools": "13"
+   },
+   {
+      "name": "Mukilteo School District",
+      "location": {
+         "state": {
+            "name": "Washington",
+            "abbr": "WA",
+            "county": "Snohomish County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "16070",
+      "fte": "935.66",
+      "pupilTeacherRatio": "17.18",
+      "numberOfSchools": "24"
+   },
+   {
+      "name": "Naches Valley School District",
+      "location": {
+         "state": {
+            "name": "Washington",
+            "abbr": "WA",
+            "county": "Yakima County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Kindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "1293",
+      "fte": "75.71",
+      "pupilTeacherRatio": "17.08",
+      "numberOfSchools": "4"
+   },
+   {
+      "name": "Napavine School District",
+      "location": {
+         "state": {
+            "name": "Washington",
+            "abbr": "WA",
+            "county": "Lewis County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "852",
+      "fte": "46.08",
+      "pupilTeacherRatio": "18.49",
+      "numberOfSchools": "2"
+   },
+   {
+      "name": "Naselle-Grays River Valley School District",
+      "location": {
+         "state": {
+            "name": "Washington",
+            "abbr": "WA",
+            "county": "Pacific County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Kindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "413",
+      "fte": "25.68",
+      "pupilTeacherRatio": "16.08",
+      "numberOfSchools": "3"
+   },
+   {
+      "name": "Nespelem School District #14",
+      "location": {
+         "state": {
+            "name": "Washington",
+            "abbr": "WA",
+            "county": "Okanogan County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "8th Grade"
+      },
+      "students": "157",
+      "fte": "10",
+      "pupilTeacherRatio": "15.7",
+      "numberOfSchools": "1"
+   },
+   {
+      "name": "Newport School District",
+      "location": {
+         "state": {
+            "name": "Washington",
+            "abbr": "WA",
+            "county": "Pend Oreille County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "1136",
+      "fte": "69.51",
+      "pupilTeacherRatio": "16.34",
+      "numberOfSchools": "4"
+   },
+   {
+      "name": "Nine Mile Falls School District",
+      "location": {
+         "state": {
+            "name": "Washington",
+            "abbr": "WA",
+            "county": "Spokane County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "1448",
+      "fte": "86.76",
+      "pupilTeacherRatio": "16.69",
+      "numberOfSchools": "5"
+   },
+   {
+      "name": "Nooksack Valley School District",
+      "location": {
+         "state": {
+            "name": "Washington",
+            "abbr": "WA",
+            "county": "Whatcom County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "1969",
+      "fte": "118.71",
+      "pupilTeacherRatio": "16.59",
+      "numberOfSchools": "7"
+   },
+   {
+      "name": "North Beach School District No. 64",
+      "location": {
+         "state": {
+            "name": "Washington",
+            "abbr": "WA",
+            "county": "Grays Harbor County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "738",
+      "fte": "46.04",
+      "pupilTeacherRatio": "16.03",
+      "numberOfSchools": "4"
+   },
+   {
+      "name": "North Central Educational Service District 171",
+      "location": {
+         "state": {
+            "name": "Washington",
+            "abbr": "WA",
+            "county": "Chelan County"
+         }
+      },
+      "type": "4-Regional Education Service Agency (RESA)",
+      "grades": {
+         "lowest": "†",
+         "highest": "†"
+      },
+      "students": "†",
+      "fte": "0",
+      "pupilTeacherRatio": "–",
+      "numberOfSchools": "0"
+   },
+   {
+      "name": "North Franklin School District",
+      "location": {
+         "state": {
+            "name": "Washington",
+            "abbr": "WA",
+            "county": "Franklin County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "2168",
+      "fte": "123.9",
+      "pupilTeacherRatio": "17.5",
+      "numberOfSchools": "9"
+   },
+   {
+      "name": "North Kitsap School District",
+      "location": {
+         "state": {
+            "name": "Washington",
+            "abbr": "WA",
+            "county": "Kitsap County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "6070",
+      "fte": "305.08",
+      "pupilTeacherRatio": "19.9",
+      "numberOfSchools": "14"
+   },
+   {
+      "name": "North Mason School District",
+      "location": {
+         "state": {
+            "name": "Washington",
+            "abbr": "WA",
+            "county": "Mason County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "2394",
+      "fte": "136.5",
+      "pupilTeacherRatio": "17.54",
+      "numberOfSchools": "7"
+   },
+   {
+      "name": "North River School District",
+      "location": {
+         "state": {
+            "name": "Washington",
+            "abbr": "WA",
+            "county": "Pacific County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "70",
+      "fte": "9.7",
+      "pupilTeacherRatio": "7.22",
+      "numberOfSchools": "1"
+   },
+   {
+      "name": "North Thurston Public Schools",
+      "location": {
+         "state": {
+            "name": "Washington",
+            "abbr": "WA",
+            "county": "Thurston County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "15634",
+      "fte": "829.79",
+      "pupilTeacherRatio": "18.84",
+      "numberOfSchools": "22"
+   },
+   {
+      "name": "Northport School District",
+      "location": {
+         "state": {
+            "name": "Washington",
+            "abbr": "WA",
+            "county": "Stevens County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "186",
+      "fte": "16.7",
+      "pupilTeacherRatio": "11.14",
+      "numberOfSchools": "3"
+   },
+   {
+      "name": "Northshore School District",
+      "location": {
+         "state": {
+            "name": "Washington",
+            "abbr": "WA",
+            "county": "Snohomish County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "23915",
+      "fte": "1275.3",
+      "pupilTeacherRatio": "18.75",
+      "numberOfSchools": "37"
+   },
+   {
+      "name": "Northwest Educational Service District 189",
+      "location": {
+         "state": {
+            "name": "Washington",
+            "abbr": "WA",
+            "county": "Skagit County"
+         }
+      },
+      "type": "8-Other education agencies",
+      "grades": {
+         "lowest": "6th Grade",
+         "highest": "12th Grade"
+      },
+      "students": "18",
+      "fte": "4",
+      "pupilTeacherRatio": "4.5",
+      "numberOfSchools": "5"
+   },
+   {
+      "name": "Oak Harbor School District",
+      "location": {
+         "state": {
+            "name": "Washington",
+            "abbr": "WA",
+            "county": "Island County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "6128",
+      "fte": "348.79",
+      "pupilTeacherRatio": "17.57",
+      "numberOfSchools": "11"
+   },
+   {
+      "name": "Oakesdale School District",
+      "location": {
+         "state": {
+            "name": "Washington",
+            "abbr": "WA",
+            "county": "Whitman County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "144",
+      "fte": "11.85",
+      "pupilTeacherRatio": "12.15",
+      "numberOfSchools": "2"
+   },
+   {
+      "name": "Oakville School District",
+      "location": {
+         "state": {
+            "name": "Washington",
+            "abbr": "WA",
+            "county": "Grays Harbor County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "285",
+      "fte": "20.31",
+      "pupilTeacherRatio": "14.03",
+      "numberOfSchools": "4"
+   },
+   {
+      "name": "Ocean Beach School District",
+      "location": {
+         "state": {
+            "name": "Washington",
+            "abbr": "WA",
+            "county": "Pacific County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "1106",
+      "fte": "53.22",
+      "pupilTeacherRatio": "20.78",
+      "numberOfSchools": "6"
+   },
+   {
+      "name": "Ocosta School District",
+      "location": {
+         "state": {
+            "name": "Washington",
+            "abbr": "WA",
+            "county": "Grays Harbor County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "636",
+      "fte": "41.69",
+      "pupilTeacherRatio": "15.26",
+      "numberOfSchools": "2"
+   },
+   {
+      "name": "Odessa School District",
+      "location": {
+         "state": {
+            "name": "Washington",
+            "abbr": "WA",
+            "county": "Lincoln County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "252",
+      "fte": "18.91",
+      "pupilTeacherRatio": "13.33",
+      "numberOfSchools": "2"
+   },
+   {
+      "name": "Office of the Governor (Sch for Blind)",
+      "location": {
+         "state": {
+            "name": "Washington",
+            "abbr": "WA",
+            "county": "Clark County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "6th Grade",
+         "highest": "12th Grade"
+      },
+      "students": "54",
+      "fte": "0",
+      "pupilTeacherRatio": "†",
+      "numberOfSchools": "1"
+   },
+   {
+      "name": "Okanogan School District",
+      "location": {
+         "state": {
+            "name": "Washington",
+            "abbr": "WA",
+            "county": "Okanogan County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Kindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "1158",
+      "fte": "59.31",
+      "pupilTeacherRatio": "19.52",
+      "numberOfSchools": "6"
+   },
+   {
+      "name": "Olympia School District",
+      "location": {
+         "state": {
+            "name": "Washington",
+            "abbr": "WA",
+            "county": "Thurston County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "10057",
+      "fte": "554.89",
+      "pupilTeacherRatio": "18.12",
+      "numberOfSchools": "21"
+   },
+   {
+      "name": "Olympic Educational Service District 114",
+      "location": {
+         "state": {
+            "name": "Washington",
+            "abbr": "WA",
+            "county": "Kitsap County"
+         }
+      },
+      "type": "8-Other education agencies",
+      "grades": {
+         "lowest": "8th Grade",
+         "highest": "12th Grade"
+      },
+      "students": "0",
+      "fte": "1.8",
+      "pupilTeacherRatio": "0",
+      "numberOfSchools": "2"
+   },
+   {
+      "name": "Omak School District",
+      "location": {
+         "state": {
+            "name": "Washington",
+            "abbr": "WA",
+            "county": "Okanogan County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "5483",
+      "fte": "249.62",
+      "pupilTeacherRatio": "21.97",
+      "numberOfSchools": "8"
+   },
+   {
+      "name": "Onalaska School District",
+      "location": {
+         "state": {
+            "name": "Washington",
+            "abbr": "WA",
+            "county": "Lewis County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "860",
+      "fte": "49.93",
+      "pupilTeacherRatio": "17.22",
+      "numberOfSchools": "3"
+   },
+   {
+      "name": "Onion Creek School District",
+      "location": {
+         "state": {
+            "name": "Washington",
+            "abbr": "WA",
+            "county": "Stevens County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "8th Grade"
+      },
+      "students": "49",
+      "fte": "4.16",
+      "pupilTeacherRatio": "11.78",
+      "numberOfSchools": "1"
+   },
+   {
+      "name": "Orcas Island School District",
+      "location": {
+         "state": {
+            "name": "Washington",
+            "abbr": "WA",
+            "county": "San Juan County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Kindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "826",
+      "fte": "45.5",
+      "pupilTeacherRatio": "18.15",
+      "numberOfSchools": "6"
+   },
+   {
+      "name": "Orchard Prairie School District",
+      "location": {
+         "state": {
+            "name": "Washington",
+            "abbr": "WA",
+            "county": "Spokane County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Kindergarten",
+         "highest": "7th Grade"
+      },
+      "students": "78",
+      "fte": "7.01",
+      "pupilTeacherRatio": "11.13",
+      "numberOfSchools": "1"
+   },
+   {
+      "name": "Orient School District",
+      "location": {
+         "state": {
+            "name": "Washington",
+            "abbr": "WA",
+            "county": "Ferry County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Kindergarten",
+         "highest": "8th Grade"
+      },
+      "students": "46",
+      "fte": "3.61",
+      "pupilTeacherRatio": "12.74",
+      "numberOfSchools": "1"
+   },
+   {
+      "name": "Orondo School District",
+      "location": {
+         "state": {
+            "name": "Washington",
+            "abbr": "WA",
+            "county": "Douglas County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "8th Grade"
+      },
+      "students": "204",
+      "fte": "11.12",
+      "pupilTeacherRatio": "18.35",
+      "numberOfSchools": "1"
+   },
+   {
+      "name": "Oroville School District",
+      "location": {
+         "state": {
+            "name": "Washington",
+            "abbr": "WA",
+            "county": "Okanogan County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "582",
+      "fte": "38.56",
+      "pupilTeacherRatio": "15.09",
+      "numberOfSchools": "2"
+   },
+   {
+      "name": "Orting School District",
+      "location": {
+         "state": {
+            "name": "Washington",
+            "abbr": "WA",
+            "county": "Pierce County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "2772",
+      "fte": "136.99",
+      "pupilTeacherRatio": "20.24",
+      "numberOfSchools": "5"
+   },
+   {
+      "name": "Othello School District",
+      "location": {
+         "state": {
+            "name": "Washington",
+            "abbr": "WA",
+            "county": "Adams County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "4804",
+      "fte": "250.87",
+      "pupilTeacherRatio": "19.15",
+      "numberOfSchools": "8"
+   },
+   {
+      "name": "Palisades School District",
+      "location": {
+         "state": {
+            "name": "Washington",
+            "abbr": "WA",
+            "county": "Douglas County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "6th Grade"
+      },
+      "students": "31",
+      "fte": "3",
+      "pupilTeacherRatio": "10.33",
+      "numberOfSchools": "1"
+   },
+   {
+      "name": "Palouse School District",
+      "location": {
+         "state": {
+            "name": "Washington",
+            "abbr": "WA",
+            "county": "Whitman County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "199",
+      "fte": "14.09",
+      "pupilTeacherRatio": "14.12",
+      "numberOfSchools": "3"
+   },
+   {
+      "name": "Pasco School District",
+      "location": {
+         "state": {
+            "name": "Washington",
+            "abbr": "WA",
+            "county": "Franklin County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "19209",
+      "fte": "1073.36",
+      "pupilTeacherRatio": "17.9",
+      "numberOfSchools": "26"
+   },
+   {
+      "name": "Pateros School District",
+      "location": {
+         "state": {
+            "name": "Washington",
+            "abbr": "WA",
+            "county": "Okanogan County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Kindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "318",
+      "fte": "21.96",
+      "pupilTeacherRatio": "14.48",
+      "numberOfSchools": "2"
+   },
+   {
+      "name": "Paterson School District",
+      "location": {
+         "state": {
+            "name": "Washington",
+            "abbr": "WA",
+            "county": "Benton County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Kindergarten",
+         "highest": "8th Grade"
+      },
+      "students": "117",
+      "fte": "7.79",
+      "pupilTeacherRatio": "15.02",
+      "numberOfSchools": "1"
+   },
+   {
+      "name": "Pe Ell School District",
+      "location": {
+         "state": {
+            "name": "Washington",
+            "abbr": "WA",
+            "county": "Lewis County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "293",
+      "fte": "21.2",
+      "pupilTeacherRatio": "13.82",
+      "numberOfSchools": "2"
+   },
+   {
+      "name": "Peninsula School District",
+      "location": {
+         "state": {
+            "name": "Washington",
+            "abbr": "WA",
+            "county": "Pierce County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "9545",
+      "fte": "520.16",
+      "pupilTeacherRatio": "18.35",
+      "numberOfSchools": "15"
+   },
+   {
+      "name": "Pioneer School District",
+      "location": {
+         "state": {
+            "name": "Washington",
+            "abbr": "WA",
+            "county": "Mason County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "8th Grade"
+      },
+      "students": "797",
+      "fte": "53.57",
+      "pupilTeacherRatio": "14.88",
+      "numberOfSchools": "2"
+   },
+   {
+      "name": "Pomeroy School District",
+      "location": {
+         "state": {
+            "name": "Washington",
+            "abbr": "WA",
+            "county": "Garfield County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "357",
+      "fte": "22.08",
+      "pupilTeacherRatio": "16.17",
+      "numberOfSchools": "2"
+   },
+   {
+      "name": "Port Angeles School District",
+      "location": {
+         "state": {
+            "name": "Washington",
+            "abbr": "WA",
+            "county": "Clallam County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "3762",
+      "fte": "217.07",
+      "pupilTeacherRatio": "17.33",
+      "numberOfSchools": "9"
+   },
+   {
+      "name": "Port Townsend School District",
+      "location": {
+         "state": {
+            "name": "Washington",
+            "abbr": "WA",
+            "county": "Jefferson County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "1237",
+      "fte": "75.3",
+      "pupilTeacherRatio": "16.43",
+      "numberOfSchools": "4"
+   },
+   {
+      "name": "Prescott School District",
+      "location": {
+         "state": {
+            "name": "Washington",
+            "abbr": "WA",
+            "county": "Walla Walla County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "255",
+      "fte": "18.52",
+      "pupilTeacherRatio": "13.77",
+      "numberOfSchools": "3"
+   },
+   {
+      "name": "Pride Prep Charter School District",
+      "location": {
+         "state": {
+            "name": "WASHINGTON",
+            "abbr": "WA",
+            "county": "Spokane County"
+         }
+      },
+      "type": "7-Independent Charter District",
+      "grades": {
+         "lowest": "6th Grade",
+         "highest": "12th Grade"
+      },
+      "students": "568",
+      "fte": "29.39",
+      "pupilTeacherRatio": "19.33",
+      "numberOfSchools": "1"
+   },
+   {
+      "name": "Prosser School District",
+      "location": {
+         "state": {
+            "name": "Washington",
+            "abbr": "WA",
+            "county": "Benton County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "2661",
+      "fte": "151.92",
+      "pupilTeacherRatio": "17.52",
+      "numberOfSchools": "6"
+   },
+   {
+      "name": "Puget Sound Educational Service District 121",
+      "location": {
+         "state": {
+            "name": "Washington",
+            "abbr": "WA",
+            "county": "King County"
+         }
+      },
+      "type": "4-Regional Education Service Agency (RESA)",
+      "grades": {
+         "lowest": "†",
+         "highest": "†"
+      },
+      "students": "†",
+      "fte": "0",
+      "pupilTeacherRatio": "–",
+      "numberOfSchools": "0"
+   },
+   {
+      "name": "Pullman School District",
+      "location": {
+         "state": {
+            "name": "Washington",
+            "abbr": "WA",
+            "county": "Whitman County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "2797",
+      "fte": "165.07",
+      "pupilTeacherRatio": "16.94",
+      "numberOfSchools": "6"
+   },
+   {
+      "name": "Puyallup School District",
+      "location": {
+         "state": {
+            "name": "Washington",
+            "abbr": "WA",
+            "county": "Pierce County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "23563",
+      "fte": "1176.52",
+      "pupilTeacherRatio": "20.03",
+      "numberOfSchools": "37"
+   },
+   {
+      "name": "Queets-Clearwater School District",
+      "location": {
+         "state": {
+            "name": "Washington",
+            "abbr": "WA",
+            "county": "Jefferson County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Kindergarten",
+         "highest": "8th Grade"
+      },
+      "students": "31",
+      "fte": "3.01",
+      "pupilTeacherRatio": "10.3",
+      "numberOfSchools": "1"
+   },
+   {
+      "name": "Quilcene School District",
+      "location": {
+         "state": {
+            "name": "Washington",
+            "abbr": "WA",
+            "county": "Jefferson County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "608",
+      "fte": "28.27",
+      "pupilTeacherRatio": "21.51",
+      "numberOfSchools": "3"
+   },
+   {
+      "name": "Quillayute Valley School District",
+      "location": {
+         "state": {
+            "name": "Washington",
+            "abbr": "WA",
+            "county": "Clallam County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "3378",
+      "fte": "174.79",
+      "pupilTeacherRatio": "19.33",
+      "numberOfSchools": "7"
+   },
+   {
+      "name": "Quincy School District",
+      "location": {
+         "state": {
+            "name": "Washington",
+            "abbr": "WA",
+            "county": "Grant County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "3034",
+      "fte": "180.17",
+      "pupilTeacherRatio": "16.84",
+      "numberOfSchools": "8"
+   },
+   {
+      "name": "Rainier Prep Charter School District",
+      "location": {
+         "state": {
+            "name": "WASHINGTON",
+            "abbr": "WA",
+            "county": "King County"
+         }
+      },
+      "type": "7-Independent Charter District",
+      "grades": {
+         "lowest": "5th Grade",
+         "highest": "8th Grade"
+      },
+      "students": "350",
+      "fte": "23.8",
+      "pupilTeacherRatio": "14.71",
+      "numberOfSchools": "1"
+   },
+   {
+      "name": "Rainier School District",
+      "location": {
+         "state": {
+            "name": "Washington",
+            "abbr": "WA",
+            "county": "Thurston County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "922",
+      "fte": "50.62",
+      "pupilTeacherRatio": "18.21",
+      "numberOfSchools": "3"
+   },
+   {
+      "name": "Rainier Valley Leadership Academy",
+      "location": {
+         "state": {
+            "name": "WASHINGTON",
+            "abbr": "WA",
+            "county": "King County"
+         }
+      },
+      "type": "7-Independent Charter District",
+      "grades": {
+         "lowest": "6th Grade",
+         "highest": "10th Grade"
+      },
+      "students": "320",
+      "fte": "22",
+      "pupilTeacherRatio": "14.55",
+      "numberOfSchools": "1"
+   },
+   {
+      "name": "Raymond School District",
+      "location": {
+         "state": {
+            "name": "Washington",
+            "abbr": "WA",
+            "county": "Pacific County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "599",
+      "fte": "36",
+      "pupilTeacherRatio": "16.64",
+      "numberOfSchools": "3"
+   },
+   {
+      "name": "Reardan-Edwall School District",
+      "location": {
+         "state": {
+            "name": "Washington",
+            "abbr": "WA",
+            "county": "Lincoln County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "688",
+      "fte": "34.58",
+      "pupilTeacherRatio": "19.9",
+      "numberOfSchools": "2"
+   },
+   {
+      "name": "Renton School District",
+      "location": {
+         "state": {
+            "name": "Washington",
+            "abbr": "WA",
+            "county": "King County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "16189",
+      "fte": "867.47",
+      "pupilTeacherRatio": "18.66",
+      "numberOfSchools": "29"
+   },
+   {
+      "name": "Renton Technical College",
+      "location": {
+         "state": {
+            "name": "Washington",
+            "abbr": "WA",
+            "county": "King County"
+         }
+      },
+      "type": "8-Other education agencies",
+      "grades": {
+         "lowest": "11th Grade",
+         "highest": "12th Grade"
+      },
+      "students": "10",
+      "fte": "0",
+      "pupilTeacherRatio": "†",
+      "numberOfSchools": "2"
+   },
+   {
+      "name": "Republic School District",
+      "location": {
+         "state": {
+            "name": "Washington",
+            "abbr": "WA",
+            "county": "Ferry County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "346",
+      "fte": "20.99",
+      "pupilTeacherRatio": "16.48",
+      "numberOfSchools": "4"
+   },
+   {
+      "name": "Richland School District",
+      "location": {
+         "state": {
+            "name": "Washington",
+            "abbr": "WA",
+            "county": "Benton County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "14221",
+      "fte": "713.02",
+      "pupilTeacherRatio": "19.94",
+      "numberOfSchools": "21"
+   },
+   {
+      "name": "Ridgefield School District",
+      "location": {
+         "state": {
+            "name": "Washington",
+            "abbr": "WA",
+            "county": "Clark County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "3499",
+      "fte": "181.11",
+      "pupilTeacherRatio": "19.32",
+      "numberOfSchools": "6"
+   },
+   {
+      "name": "Ritzville School District",
+      "location": {
+         "state": {
+            "name": "Washington",
+            "abbr": "WA",
+            "county": "Adams County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "378",
+      "fte": "23.51",
+      "pupilTeacherRatio": "16.08",
+      "numberOfSchools": "3"
+   },
+   {
+      "name": "Riverside School District",
+      "location": {
+         "state": {
+            "name": "Washington",
+            "abbr": "WA",
+            "county": "Spokane County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "1554",
+      "fte": "84.07",
+      "pupilTeacherRatio": "18.48",
+      "numberOfSchools": "5"
+   },
+   {
+      "name": "Riverview School District",
+      "location": {
+         "state": {
+            "name": "Washington",
+            "abbr": "WA",
+            "county": "King County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "3405",
+      "fte": "183.63",
+      "pupilTeacherRatio": "18.54",
+      "numberOfSchools": "9"
+   },
+   {
+      "name": "Rochester School District",
+      "location": {
+         "state": {
+            "name": "Washington",
+            "abbr": "WA",
+            "county": "Thurston County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "2238",
+      "fte": "127.81",
+      "pupilTeacherRatio": "17.51",
+      "numberOfSchools": "5"
+   },
+   {
+      "name": "Roosevelt School District",
+      "location": {
+         "state": {
+            "name": "Washington",
+            "abbr": "WA",
+            "county": "Klickitat County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Kindergarten",
+         "highest": "6th Grade"
+      },
+      "students": "31",
+      "fte": "1.9",
+      "pupilTeacherRatio": "16.32",
+      "numberOfSchools": "1"
+   },
+   {
+      "name": "Rosalia School District",
+      "location": {
+         "state": {
+            "name": "Washington",
+            "abbr": "WA",
+            "county": "Whitman County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "219",
+      "fte": "17.59",
+      "pupilTeacherRatio": "12.45",
+      "numberOfSchools": "1"
+   },
+   {
+      "name": "Royal School District",
+      "location": {
+         "state": {
+            "name": "Washington",
+            "abbr": "WA",
+            "county": "Grant County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "1765",
+      "fte": "100.64",
+      "pupilTeacherRatio": "17.54",
+      "numberOfSchools": "4"
+   },
+   {
+      "name": "San Juan Island School District",
+      "location": {
+         "state": {
+            "name": "Washington",
+            "abbr": "WA",
+            "county": "San Juan County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Kindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "816",
+      "fte": "44.42",
+      "pupilTeacherRatio": "18.37",
+      "numberOfSchools": "5"
+   },
+   {
+      "name": "Satsop School District",
+      "location": {
+         "state": {
+            "name": "Washington",
+            "abbr": "WA",
+            "county": "Grays Harbor County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Kindergarten",
+         "highest": "6th Grade"
+      },
+      "students": "60",
+      "fte": "3.41",
+      "pupilTeacherRatio": "17.6",
+      "numberOfSchools": "1"
+   },
+   {
+      "name": "Seattle Central Community College",
+      "location": {
+         "state": {
+            "name": "Washington",
+            "abbr": "WA",
+            "county": "King County"
+         }
+      },
+      "type": "8-Other education agencies",
+      "grades": {
+         "lowest": "†",
+         "highest": "†"
+      },
+      "students": "†",
+      "fte": "0",
+      "pupilTeacherRatio": "–",
+      "numberOfSchools": "0"
+   },
+   {
+      "name": "Seattle School District No. 1",
+      "location": {
+         "state": {
+            "name": "Washington",
+            "abbr": "WA",
+            "county": "King County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "55986",
+      "fte": "3238.68",
+      "pupilTeacherRatio": "17.29",
+      "numberOfSchools": "110"
+   },
+   {
+      "name": "Sedro-Woolley School District",
+      "location": {
+         "state": {
+            "name": "Washington",
+            "abbr": "WA",
+            "county": "Skagit County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "4688",
+      "fte": "273.82",
+      "pupilTeacherRatio": "17.12",
+      "numberOfSchools": "12"
+   },
+   {
+      "name": "Selah School District",
+      "location": {
+         "state": {
+            "name": "Washington",
+            "abbr": "WA",
+            "county": "Yakima County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "3910",
+      "fte": "213.68",
+      "pupilTeacherRatio": "18.3",
+      "numberOfSchools": "10"
+   },
+   {
+      "name": "Selkirk School District",
+      "location": {
+         "state": {
+            "name": "Washington",
+            "abbr": "WA",
+            "county": "Pend Oreille County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "283",
+      "fte": "19.39",
+      "pupilTeacherRatio": "14.6",
+      "numberOfSchools": "3"
+   },
+   {
+      "name": "Sequim School District",
+      "location": {
+         "state": {
+            "name": "Washington",
+            "abbr": "WA",
+            "county": "Clallam County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "2750",
+      "fte": "160.94",
+      "pupilTeacherRatio": "17.09",
+      "numberOfSchools": "5"
+   },
+   {
+      "name": "Shaw Island School District",
+      "location": {
+         "state": {
+            "name": "Washington",
+            "abbr": "WA",
+            "county": "San Juan County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Kindergarten",
+         "highest": "8th Grade"
+      },
+      "students": "5",
+      "fte": "1",
+      "pupilTeacherRatio": "5",
+      "numberOfSchools": "1"
+   },
+   {
+      "name": "Shelton School District",
+      "location": {
+         "state": {
+            "name": "Washington",
+            "abbr": "WA",
+            "county": "Mason County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "4728",
+      "fte": "279.86",
+      "pupilTeacherRatio": "16.89",
+      "numberOfSchools": "9"
+   },
+   {
+      "name": "Shoreline School District",
+      "location": {
+         "state": {
+            "name": "Washington",
+            "abbr": "WA",
+            "county": "King County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "10223",
+      "fte": "507.46",
+      "pupilTeacherRatio": "20.15",
+      "numberOfSchools": "19"
+   },
+   {
+      "name": "Skamania School District",
+      "location": {
+         "state": {
+            "name": "Washington",
+            "abbr": "WA",
+            "county": "Skamania County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Kindergarten",
+         "highest": "8th Grade"
+      },
+      "students": "70",
+      "fte": "4.63",
+      "pupilTeacherRatio": "15.12",
+      "numberOfSchools": "1"
+   },
+   {
+      "name": "Skykomish School District",
+      "location": {
+         "state": {
+            "name": "Washington",
+            "abbr": "WA",
+            "county": "King County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "58",
+      "fte": "9",
+      "pupilTeacherRatio": "6.44",
+      "numberOfSchools": "2"
+   },
+   {
+      "name": "Snohomish School District",
+      "location": {
+         "state": {
+            "name": "Washington",
+            "abbr": "WA",
+            "county": "Snohomish County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "10079",
+      "fte": "489.63",
+      "pupilTeacherRatio": "20.58",
+      "numberOfSchools": "18"
+   },
+   {
+      "name": "Snoqualmie Valley School District",
+      "location": {
+         "state": {
+            "name": "Washington",
+            "abbr": "WA",
+            "county": "King County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "7354",
+      "fte": "384.38",
+      "pupilTeacherRatio": "19.13",
+      "numberOfSchools": "14"
+   },
+   {
+      "name": "Soap Lake School District",
+      "location": {
+         "state": {
+            "name": "Washington",
+            "abbr": "WA",
+            "county": "Grant County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "576",
+      "fte": "35.69",
+      "pupilTeacherRatio": "16.14",
+      "numberOfSchools": "3"
+   },
+   {
+      "name": "South Bend School District",
+      "location": {
+         "state": {
+            "name": "Washington",
+            "abbr": "WA",
+            "county": "Pacific County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "639",
+      "fte": "35.16",
+      "pupilTeacherRatio": "18.17",
+      "numberOfSchools": "4"
+   },
+   {
+      "name": "South Kitsap School District",
+      "location": {
+         "state": {
+            "name": "Washington",
+            "abbr": "WA",
+            "county": "Kitsap County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "9981",
+      "fte": "562.57",
+      "pupilTeacherRatio": "17.74",
+      "numberOfSchools": "18"
+   },
+   {
+      "name": "South Seattle Community College",
+      "location": {
+         "state": {
+            "name": "Washington",
+            "abbr": "WA",
+            "county": "King County"
+         }
+      },
+      "type": "8-Other education agencies",
+      "grades": {
+         "lowest": "†",
+         "highest": "†"
+      },
+      "students": "†",
+      "fte": "0",
+      "pupilTeacherRatio": "–",
+      "numberOfSchools": "0"
+   },
+   {
+      "name": "South Whidbey School District",
+      "location": {
+         "state": {
+            "name": "Washington",
+            "abbr": "WA",
+            "county": "Island County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "1358",
+      "fte": "68.97",
+      "pupilTeacherRatio": "19.69",
+      "numberOfSchools": "5"
+   },
+   {
+      "name": "Southside School District",
+      "location": {
+         "state": {
+            "name": "Washington",
+            "abbr": "WA",
+            "county": "Mason County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Kindergarten",
+         "highest": "7th Grade"
+      },
+      "students": "201",
+      "fte": "13.79",
+      "pupilTeacherRatio": "14.58",
+      "numberOfSchools": "1"
+   },
+   {
+      "name": "Spokane International Academy",
+      "location": {
+         "state": {
+            "name": "WASHINGTON",
+            "abbr": "WA",
+            "county": "Spokane County"
+         }
+      },
+      "type": "7-Independent Charter District",
+      "grades": {
+         "lowest": "Kindergarten",
+         "highest": "8th Grade"
+      },
+      "students": "467",
+      "fte": "29.27",
+      "pupilTeacherRatio": "15.95",
+      "numberOfSchools": "1"
+   },
+   {
+      "name": "Spokane School District",
+      "location": {
+         "state": {
+            "name": "Washington",
+            "abbr": "WA",
+            "county": "Spokane County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "30464",
+      "fte": "1807.81",
+      "pupilTeacherRatio": "16.85",
+      "numberOfSchools": "64"
+   },
+   {
+      "name": "Sprague School District",
+      "location": {
+         "state": {
+            "name": "Washington",
+            "abbr": "WA",
+            "county": "Lincoln County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "79",
+      "fte": "10.34",
+      "pupilTeacherRatio": "7.64",
+      "numberOfSchools": "2"
+   },
+   {
+      "name": "St. John School District",
+      "location": {
+         "state": {
+            "name": "Washington",
+            "abbr": "WA",
+            "county": "Whitman County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "155",
+      "fte": "15.29",
+      "pupilTeacherRatio": "10.14",
+      "numberOfSchools": "2"
+   },
+   {
+      "name": "Stanwood-Camano School District",
+      "location": {
+         "state": {
+            "name": "Washington",
+            "abbr": "WA",
+            "county": "Snohomish County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "4883",
+      "fte": "253.41",
+      "pupilTeacherRatio": "19.27",
+      "numberOfSchools": "11"
+   },
+   {
+      "name": "Star School District No. 054",
+      "location": {
+         "state": {
+            "name": "Washington",
+            "abbr": "WA",
+            "county": "Franklin County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Kindergarten",
+         "highest": "6th Grade"
+      },
+      "students": "15",
+      "fte": "2",
+      "pupilTeacherRatio": "7.5",
+      "numberOfSchools": "1"
+   },
+   {
+      "name": "Starbuck School District",
+      "location": {
+         "state": {
+            "name": "Washington",
+            "abbr": "WA",
+            "county": "Columbia County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Kindergarten",
+         "highest": "8th Grade"
+      },
+      "students": "20",
+      "fte": "3",
+      "pupilTeacherRatio": "6.67",
+      "numberOfSchools": "1"
+   },
+   {
+      "name": "Stehekin School District",
+      "location": {
+         "state": {
+            "name": "Washington",
+            "abbr": "WA",
+            "county": "Chelan County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Kindergarten",
+         "highest": "8th Grade"
+      },
+      "students": "10",
+      "fte": "1",
+      "pupilTeacherRatio": "10",
+      "numberOfSchools": "1"
+   },
+   {
+      "name": "Steilacoom Hist. School District",
+      "location": {
+         "state": {
+            "name": "Washington",
+            "abbr": "WA",
+            "county": "Pierce County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "3426",
+      "fte": "174.25",
+      "pupilTeacherRatio": "19.66",
+      "numberOfSchools": "10"
+   },
+   {
+      "name": "Steptoe School District",
+      "location": {
+         "state": {
+            "name": "Washington",
+            "abbr": "WA",
+            "county": "Whitman County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "8th Grade"
+      },
+      "students": "69",
+      "fte": "3.74",
+      "pupilTeacherRatio": "18.45",
+      "numberOfSchools": "1"
+   },
+   {
+      "name": "Stevenson-Carson School District",
+      "location": {
+         "state": {
+            "name": "Washington",
+            "abbr": "WA",
+            "county": "Skamania County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "942",
+      "fte": "45.6",
+      "pupilTeacherRatio": "20.66",
+      "numberOfSchools": "6"
+   },
+   {
+      "name": "Sultan School District",
+      "location": {
+         "state": {
+            "name": "Washington",
+            "abbr": "WA",
+            "county": "Snohomish County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "1988",
+      "fte": "113.48",
+      "pupilTeacherRatio": "17.52",
+      "numberOfSchools": "7"
+   },
+   {
+      "name": "Summit Public School: Atlas",
+      "location": {
+         "state": {
+            "name": "WASHINGTON",
+            "abbr": "WA",
+            "county": "King County"
+         }
+      },
+      "type": "7-Independent Charter District",
+      "grades": {
+         "lowest": "6th Grade",
+         "highest": "12th Grade"
+      },
+      "students": "506",
+      "fte": "27",
+      "pupilTeacherRatio": "18.74",
+      "numberOfSchools": "1"
+   },
+   {
+      "name": "Summit Public School: Olympus",
+      "location": {
+         "state": {
+            "name": "WASHINGTON",
+            "abbr": "WA",
+            "county": "Pierce County"
+         }
+      },
+      "type": "7-Independent Charter District",
+      "grades": {
+         "lowest": "9th Grade",
+         "highest": "12th Grade"
+      },
+      "students": "183",
+      "fte": "10",
+      "pupilTeacherRatio": "18.3",
+      "numberOfSchools": "1"
+   },
+   {
+      "name": "Summit Public School: Sierra",
+      "location": {
+         "state": {
+            "name": "WASHINGTON",
+            "abbr": "WA",
+            "county": "King County"
+         }
+      },
+      "type": "7-Independent Charter District",
+      "grades": {
+         "lowest": "9th Grade",
+         "highest": "12th Grade"
+      },
+      "students": "344",
+      "fte": "22",
+      "pupilTeacherRatio": "15.64",
+      "numberOfSchools": "1"
+   },
+   {
+      "name": "Summit Valley School District",
+      "location": {
+         "state": {
+            "name": "Washington",
+            "abbr": "WA",
+            "county": "Stevens County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "8th Grade"
+      },
+      "students": "84",
+      "fte": "5.15",
+      "pupilTeacherRatio": "16.31",
+      "numberOfSchools": "1"
+   },
+   {
+      "name": "Sumner School District",
+      "location": {
+         "state": {
+            "name": "Washington",
+            "abbr": "WA",
+            "county": "Pierce County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "10302",
+      "fte": "508.77",
+      "pupilTeacherRatio": "20.25",
+      "numberOfSchools": "15"
+   },
+   {
+      "name": "Sunnyside School District",
+      "location": {
+         "state": {
+            "name": "Washington",
+            "abbr": "WA",
+            "county": "Yakima County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "6799",
+      "fte": "368.31",
+      "pupilTeacherRatio": "18.46",
+      "numberOfSchools": "9"
+   },
+   {
+      "name": "Suquamish Tribal Education Department",
+      "location": {
+         "state": {
+            "name": "WASHINGTON",
+            "abbr": "WA",
+            "county": "Kitsap County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Kindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "86",
+      "fte": "10",
+      "pupilTeacherRatio": "8.6",
+      "numberOfSchools": "1"
+   },
+   {
+      "name": "Tacoma School District",
+      "location": {
+         "state": {
+            "name": "Washington",
+            "abbr": "WA",
+            "county": "Pierce County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "30330",
+      "fte": "1648.35",
+      "pupilTeacherRatio": "18.4",
+      "numberOfSchools": "66"
+   },
+   {
+      "name": "Taholah School District",
+      "location": {
+         "state": {
+            "name": "Washington",
+            "abbr": "WA",
+            "county": "Grays Harbor County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Kindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "178",
+      "fte": "18.15",
+      "pupilTeacherRatio": "9.81",
+      "numberOfSchools": "2"
+   },
+   {
+      "name": "Tahoma School District",
+      "location": {
+         "state": {
+            "name": "Washington",
+            "abbr": "WA",
+            "county": "King County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "9292",
+      "fte": "447.35",
+      "pupilTeacherRatio": "20.77",
+      "numberOfSchools": "10"
+   },
+   {
+      "name": "Tekoa School District",
+      "location": {
+         "state": {
+            "name": "Washington",
+            "abbr": "WA",
+            "county": "Whitman County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "232",
+      "fte": "17.26",
+      "pupilTeacherRatio": "13.44",
+      "numberOfSchools": "2"
+   },
+   {
+      "name": "Tenino School District",
+      "location": {
+         "state": {
+            "name": "Washington",
+            "abbr": "WA",
+            "county": "Thurston County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "1348",
+      "fte": "72.01",
+      "pupilTeacherRatio": "18.72",
+      "numberOfSchools": "4"
+   },
+   {
+      "name": "Thorp School District",
+      "location": {
+         "state": {
+            "name": "Washington",
+            "abbr": "WA",
+            "county": "Kittitas County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "243",
+      "fte": "18.14",
+      "pupilTeacherRatio": "13.4",
+      "numberOfSchools": "1"
+   },
+   {
+      "name": "Toledo School District",
+      "location": {
+         "state": {
+            "name": "Washington",
+            "abbr": "WA",
+            "county": "Lewis County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "865",
+      "fte": "48.29",
+      "pupilTeacherRatio": "17.91",
+      "numberOfSchools": "4"
+   },
+   {
+      "name": "Tonasket School District",
+      "location": {
+         "state": {
+            "name": "Washington",
+            "abbr": "WA",
+            "county": "Okanogan County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "1160",
+      "fte": "67.8",
+      "pupilTeacherRatio": "17.11",
+      "numberOfSchools": "5"
+   },
+   {
+      "name": "Toppenish School District",
+      "location": {
+         "state": {
+            "name": "Washington",
+            "abbr": "WA",
+            "county": "Yakima County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "4466",
+      "fte": "201.74",
+      "pupilTeacherRatio": "22.14",
+      "numberOfSchools": "9"
+   },
+   {
+      "name": "Touchet School District",
+      "location": {
+         "state": {
+            "name": "Washington",
+            "abbr": "WA",
+            "county": "Walla Walla County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Kindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "225",
+      "fte": "19.4",
+      "pupilTeacherRatio": "11.6",
+      "numberOfSchools": "1"
+   },
+   {
+      "name": "Toutle Lake School District",
+      "location": {
+         "state": {
+            "name": "Washington",
+            "abbr": "WA",
+            "county": "Cowlitz County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Kindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "695",
+      "fte": "36.8",
+      "pupilTeacherRatio": "18.89",
+      "numberOfSchools": "2"
+   },
+   {
+      "name": "Trout Lake School District",
+      "location": {
+         "state": {
+            "name": "Washington",
+            "abbr": "WA",
+            "county": "Klickitat County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Kindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "224",
+      "fte": "16.6",
+      "pupilTeacherRatio": "13.49",
+      "numberOfSchools": "2"
+   },
+   {
+      "name": "Tukwila School District",
+      "location": {
+         "state": {
+            "name": "Washington",
+            "abbr": "WA",
+            "county": "King County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "3022",
+      "fte": "159.26",
+      "pupilTeacherRatio": "18.98",
+      "numberOfSchools": "8"
+   },
+   {
+      "name": "Tumwater School District",
+      "location": {
+         "state": {
+            "name": "Washington",
+            "abbr": "WA",
+            "county": "Thurston County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "6495",
+      "fte": "366.19",
+      "pupilTeacherRatio": "17.74",
+      "numberOfSchools": "14"
+   },
+   {
+      "name": "Union Gap School District",
+      "location": {
+         "state": {
+            "name": "Washington",
+            "abbr": "WA",
+            "county": "Yakima County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "8th Grade"
+      },
+      "students": "663",
+      "fte": "35.26",
+      "pupilTeacherRatio": "18.8",
+      "numberOfSchools": "1"
+   },
+   {
+      "name": "University of Washington (17904)",
+      "location": {
+         "state": {
+            "name": "Washington",
+            "abbr": "WA",
+            "county": "King County"
+         }
+      },
+      "type": "8-Other education agencies",
+      "grades": {
+         "lowest": "†",
+         "highest": "†"
+      },
+      "students": "†",
+      "fte": "0",
+      "pupilTeacherRatio": "–",
+      "numberOfSchools": "0"
+   },
+   {
+      "name": "University Place School District",
+      "location": {
+         "state": {
+            "name": "Washington",
+            "abbr": "WA",
+            "county": "Pierce County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "5759",
+      "fte": "308.74",
+      "pupilTeacherRatio": "18.65",
+      "numberOfSchools": "8"
+   },
+   {
+      "name": "Valley School District",
+      "location": {
+         "state": {
+            "name": "Washington",
+            "abbr": "WA",
+            "county": "Stevens County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "1118",
+      "fte": "43.15",
+      "pupilTeacherRatio": "25.91",
+      "numberOfSchools": "4"
+   },
+   {
+      "name": "Vancouver School District",
+      "location": {
+         "state": {
+            "name": "Washington",
+            "abbr": "WA",
+            "county": "Clark County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "23355",
+      "fte": "1285.89",
+      "pupilTeacherRatio": "18.16",
+      "numberOfSchools": "41"
+   },
+   {
+      "name": "Vashon Island School District",
+      "location": {
+         "state": {
+            "name": "Washington",
+            "abbr": "WA",
+            "county": "King County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "1529",
+      "fte": "81.37",
+      "pupilTeacherRatio": "18.79",
+      "numberOfSchools": "5"
+   },
+   {
+      "name": "Wahkiakum School District",
+      "location": {
+         "state": {
+            "name": "Washington",
+            "abbr": "WA",
+            "county": "Wahkiakum County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Kindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "514",
+      "fte": "25.84",
+      "pupilTeacherRatio": "19.89",
+      "numberOfSchools": "2"
+   },
+   {
+      "name": "Wahluke School District",
+      "location": {
+         "state": {
+            "name": "Washington",
+            "abbr": "WA",
+            "county": "Grant County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "2583",
+      "fte": "148.88",
+      "pupilTeacherRatio": "17.35",
+      "numberOfSchools": "8"
+   },
+   {
+      "name": "Waitsburg School District",
+      "location": {
+         "state": {
+            "name": "Washington",
+            "abbr": "WA",
+            "county": "Walla Walla County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "296",
+      "fte": "17.97",
+      "pupilTeacherRatio": "16.47",
+      "numberOfSchools": "3"
+   },
+   {
+      "name": "Walla Walla Public Schools",
+      "location": {
+         "state": {
+            "name": "Washington",
+            "abbr": "WA",
+            "county": "Walla Walla County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "5865",
+      "fte": "330.2",
+      "pupilTeacherRatio": "17.76",
+      "numberOfSchools": "14"
+   },
+   {
+      "name": "Wapato School District",
+      "location": {
+         "state": {
+            "name": "Washington",
+            "abbr": "WA",
+            "county": "Yakima County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "3443",
+      "fte": "200.3",
+      "pupilTeacherRatio": "17.19",
+      "numberOfSchools": "8"
+   },
+   {
+      "name": "Warden School District",
+      "location": {
+         "state": {
+            "name": "Washington",
+            "abbr": "WA",
+            "county": "Grant County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "961",
+      "fte": "55.77",
+      "pupilTeacherRatio": "17.23",
+      "numberOfSchools": "3"
+   },
+   {
+      "name": "Washington Center for Deaf and Hard of Hearing Youth",
+      "location": {
+         "state": {
+            "name": "Washington",
+            "abbr": "WA",
+            "county": "Clark County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "116",
+      "fte": "0",
+      "pupilTeacherRatio": "†",
+      "numberOfSchools": "1"
+   },
+   {
+      "name": "Washington Military Department",
+      "location": {
+         "state": {
+            "name": "Washington",
+            "abbr": "WA",
+            "county": "Kitsap County"
+         }
+      },
+      "type": "8-Other education agencies",
+      "grades": {
+         "lowest": "9th Grade",
+         "highest": "12th Grade"
+      },
+      "students": "142",
+      "fte": "0",
+      "pupilTeacherRatio": "†",
+      "numberOfSchools": "1"
+   },
+   {
+      "name": "Washington State University",
+      "location": {
+         "state": {
+            "name": "Washington",
+            "abbr": "WA",
+            "county": "Whitman County"
+         }
+      },
+      "type": "8-Other education agencies",
+      "grades": {
+         "lowest": "†",
+         "highest": "†"
+      },
+      "students": "†",
+      "fte": "0",
+      "pupilTeacherRatio": "–",
+      "numberOfSchools": "0"
+   },
+   {
+      "name": "Washougal School District",
+      "location": {
+         "state": {
+            "name": "Washington",
+            "abbr": "WA",
+            "county": "Clark County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "3225",
+      "fte": "165.65",
+      "pupilTeacherRatio": "19.47",
+      "numberOfSchools": "8"
+   },
+   {
+      "name": "Washtucna School District",
+      "location": {
+         "state": {
+            "name": "Washington",
+            "abbr": "WA",
+            "county": "Adams County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "61",
+      "fte": "10.49",
+      "pupilTeacherRatio": "5.82",
+      "numberOfSchools": "1"
+   },
+   {
+      "name": "Waterville School District",
+      "location": {
+         "state": {
+            "name": "Washington",
+            "abbr": "WA",
+            "county": "Douglas County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Kindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "270",
+      "fte": "20.98",
+      "pupilTeacherRatio": "12.87",
+      "numberOfSchools": "2"
+   },
+   {
+      "name": "Wellpinit School District #49",
+      "location": {
+         "state": {
+            "name": "Washington",
+            "abbr": "WA",
+            "county": "Stevens County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Kindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "425",
+      "fte": "29.9",
+      "pupilTeacherRatio": "14.21",
+      "numberOfSchools": "4"
+   },
+   {
+      "name": "Wenatchee School District",
+      "location": {
+         "state": {
+            "name": "Washington",
+            "abbr": "WA",
+            "county": "Chelan County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "7805",
+      "fte": "443.58",
+      "pupilTeacherRatio": "17.6",
+      "numberOfSchools": "18"
+   },
+   {
+      "name": "West Valley School District (Spokane)",
+      "location": {
+         "state": {
+            "name": "Washington",
+            "abbr": "WA",
+            "county": "Spokane County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "3740",
+      "fte": "202.38",
+      "pupilTeacherRatio": "18.48",
+      "numberOfSchools": "13"
+   },
+   {
+      "name": "West Valley School District (Yakima)",
+      "location": {
+         "state": {
+            "name": "Washington",
+            "abbr": "WA",
+            "county": "Yakima County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "5615",
+      "fte": "277.93",
+      "pupilTeacherRatio": "20.2",
+      "numberOfSchools": "15"
+   },
+   {
+      "name": "Western Washington University",
+      "location": {
+         "state": {
+            "name": "Washington",
+            "abbr": "WA",
+            "county": "Whatcom County"
+         }
+      },
+      "type": "8-Other education agencies",
+      "grades": {
+         "lowest": "†",
+         "highest": "†"
+      },
+      "students": "†",
+      "fte": "0",
+      "pupilTeacherRatio": "–",
+      "numberOfSchools": "0"
+   },
+   {
+      "name": "White Pass School District",
+      "location": {
+         "state": {
+            "name": "Washington",
+            "abbr": "WA",
+            "county": "Lewis County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "408",
+      "fte": "22.39",
+      "pupilTeacherRatio": "18.22",
+      "numberOfSchools": "2"
+   },
+   {
+      "name": "White River School District",
+      "location": {
+         "state": {
+            "name": "Washington",
+            "abbr": "WA",
+            "county": "Pierce County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "4165",
+      "fte": "208",
+      "pupilTeacherRatio": "20.02",
+      "numberOfSchools": "10"
+   },
+   {
+      "name": "White Salmon Valley School District",
+      "location": {
+         "state": {
+            "name": "Washington",
+            "abbr": "WA",
+            "county": "Klickitat County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Kindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "1289",
+      "fte": "69.37",
+      "pupilTeacherRatio": "18.58",
+      "numberOfSchools": "5"
+   },
+   {
+      "name": "Wilbur School District",
+      "location": {
+         "state": {
+            "name": "Washington",
+            "abbr": "WA",
+            "county": "Lincoln County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Kindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "232",
+      "fte": "17.96",
+      "pupilTeacherRatio": "12.92",
+      "numberOfSchools": "2"
+   },
+   {
+      "name": "Willapa Valley School District",
+      "location": {
+         "state": {
+            "name": "Washington",
+            "abbr": "WA",
+            "county": "Pacific County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "399",
+      "fte": "23.14",
+      "pupilTeacherRatio": "17.24",
+      "numberOfSchools": "2"
+   },
+   {
+      "name": "Wilson Creek School District",
+      "location": {
+         "state": {
+            "name": "Washington",
+            "abbr": "WA",
+            "county": "Grant County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "164",
+      "fte": "14.19",
+      "pupilTeacherRatio": "11.56",
+      "numberOfSchools": "2"
+   },
+   {
+      "name": "Winlock School District",
+      "location": {
+         "state": {
+            "name": "Washington",
+            "abbr": "WA",
+            "county": "Lewis County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "739",
+      "fte": "38.94",
+      "pupilTeacherRatio": "18.98",
+      "numberOfSchools": "4"
+   },
+   {
+      "name": "Wishkah Valley School District",
+      "location": {
+         "state": {
+            "name": "Washington",
+            "abbr": "WA",
+            "county": "Grays Harbor County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Kindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "160",
+      "fte": "14.66",
+      "pupilTeacherRatio": "10.91",
+      "numberOfSchools": "1"
+   },
+   {
+      "name": "Wishram School District",
+      "location": {
+         "state": {
+            "name": "Washington",
+            "abbr": "WA",
+            "county": "Klickitat County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "72",
+      "fte": "9.04",
+      "pupilTeacherRatio": "7.96",
+      "numberOfSchools": "1"
+   },
+   {
+      "name": "Woodland School District",
+      "location": {
+         "state": {
+            "name": "Washington",
+            "abbr": "WA",
+            "county": "Cowlitz County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "2533",
+      "fte": "131.67",
+      "pupilTeacherRatio": "19.24",
+      "numberOfSchools": "7"
+   },
+   {
+      "name": "Yakima School District",
+      "location": {
+         "state": {
+            "name": "Washington",
+            "abbr": "WA",
+            "county": "Yakima County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "16400",
+      "fte": "857.44",
+      "pupilTeacherRatio": "19.13",
+      "numberOfSchools": "29"
+   },
+   {
+      "name": "Yelm School District",
+      "location": {
+         "state": {
+            "name": "Washington",
+            "abbr": "WA",
+            "county": "Thurston County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "5888",
+      "fte": "310.87",
+      "pupilTeacherRatio": "18.94",
+      "numberOfSchools": "10"
+   },
+   {
+      "name": "Zillah School District",
+      "location": {
+         "state": {
+            "name": "Washington",
+            "abbr": "WA",
+            "county": "Yakima County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "1332",
+      "fte": "75.02",
+      "pupilTeacherRatio": "17.76",
+      "numberOfSchools": "4"
+   }
+]

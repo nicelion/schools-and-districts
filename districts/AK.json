@@ -1,0 +1,1028 @@
+[
+   {
+      "name": "Alaska Gateway School District",
+      "location": {
+         "state": {
+            "name": "Alaska",
+            "abbr": "AK",
+            "county": "Southeast Fairbanks Census Area"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "409",
+      "fte": "26.05",
+      "pupilTeacherRatio": "15.7",
+      "numberOfSchools": "8"
+   },
+   {
+      "name": "Aleutian Region School District",
+      "location": {
+         "state": {
+            "name": "Alaska",
+            "abbr": "AK",
+            "county": "Anchorage Municipality"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "29",
+      "fte": "4",
+      "pupilTeacherRatio": "7.25",
+      "numberOfSchools": "2"
+   },
+   {
+      "name": "Aleutians East Borough School District",
+      "location": {
+         "state": {
+            "name": "Alaska",
+            "abbr": "AK",
+            "county": "Aleutians East Borough"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "234",
+      "fte": "28.9",
+      "pupilTeacherRatio": "8.1",
+      "numberOfSchools": "4"
+   },
+   {
+      "name": "Anchorage School District",
+      "location": {
+         "state": {
+            "name": "Alaska",
+            "abbr": "AK",
+            "county": "Anchorage Municipality"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "46143",
+      "fte": "2650.21",
+      "pupilTeacherRatio": "17.41",
+      "numberOfSchools": "99"
+   },
+   {
+      "name": "Annette Island School District",
+      "location": {
+         "state": {
+            "name": "Alaska",
+            "abbr": "AK",
+            "county": "Prince of Wales-Hyder Census Area"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "310",
+      "fte": "27.93",
+      "pupilTeacherRatio": "11.1",
+      "numberOfSchools": "3"
+   },
+   {
+      "name": "Bering Strait School District",
+      "location": {
+         "state": {
+            "name": "Alaska",
+            "abbr": "AK",
+            "county": "Nome Census Area"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "1900",
+      "fte": "167",
+      "pupilTeacherRatio": "11.38",
+      "numberOfSchools": "15"
+   },
+   {
+      "name": "Bristol Bay Borough School District",
+      "location": {
+         "state": {
+            "name": "Alaska",
+            "abbr": "AK",
+            "county": "Bristol Bay Borough"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "113",
+      "fte": "10.8",
+      "pupilTeacherRatio": "10.46",
+      "numberOfSchools": "3"
+   },
+   {
+      "name": "Chatham School District",
+      "location": {
+         "state": {
+            "name": "Alaska",
+            "abbr": "AK",
+            "county": "Hoonah-Angoon Census Area"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "152",
+      "fte": "15.7",
+      "pupilTeacherRatio": "9.68",
+      "numberOfSchools": "4"
+   },
+   {
+      "name": "Chugach School District",
+      "location": {
+         "state": {
+            "name": "Alaska",
+            "abbr": "AK",
+            "county": "Anchorage Municipality"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "510",
+      "fte": "17.15",
+      "pupilTeacherRatio": "29.74",
+      "numberOfSchools": "4"
+   },
+   {
+      "name": "Copper River School District",
+      "location": {
+         "state": {
+            "name": "Alaska",
+            "abbr": "AK",
+            "county": "Valdez-Cordova Census Area"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "446",
+      "fte": "27.7",
+      "pupilTeacherRatio": "16.1",
+      "numberOfSchools": "5"
+   },
+   {
+      "name": "Cordova City School District",
+      "location": {
+         "state": {
+            "name": "Alaska",
+            "abbr": "AK",
+            "county": "Valdez-Cordova Census Area"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "336",
+      "fte": "22",
+      "pupilTeacherRatio": "15.27",
+      "numberOfSchools": "3"
+   },
+   {
+      "name": "Craig City School District",
+      "location": {
+         "state": {
+            "name": "Alaska",
+            "abbr": "AK",
+            "county": "Prince of Wales-Hyder Census Area"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "560",
+      "fte": "27.25",
+      "pupilTeacherRatio": "20.55",
+      "numberOfSchools": "4"
+   },
+   {
+      "name": "Delta-Greely School District",
+      "location": {
+         "state": {
+            "name": "Alaska",
+            "abbr": "AK",
+            "county": "Southeast Fairbanks Census Area"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "791",
+      "fte": "46.83",
+      "pupilTeacherRatio": "16.89",
+      "numberOfSchools": "5"
+   },
+   {
+      "name": "Denali Borough School District",
+      "location": {
+         "state": {
+            "name": "Alaska",
+            "abbr": "AK",
+            "county": "Denali Borough"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "993",
+      "fte": "30.49",
+      "pupilTeacherRatio": "32.57",
+      "numberOfSchools": "4"
+   },
+   {
+      "name": "Dillingham City School District",
+      "location": {
+         "state": {
+            "name": "Alaska",
+            "abbr": "AK",
+            "county": "Dillingham Census Area"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "442",
+      "fte": "37.95",
+      "pupilTeacherRatio": "11.65",
+      "numberOfSchools": "3"
+   },
+   {
+      "name": "Fairbanks North Star Borough School District",
+      "location": {
+         "state": {
+            "name": "Alaska",
+            "abbr": "AK",
+            "county": "Fairbanks North Star Borough"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "13319",
+      "fte": "755.88",
+      "pupilTeacherRatio": "17.62",
+      "numberOfSchools": "37"
+   },
+   {
+      "name": "Galena City School District",
+      "location": {
+         "state": {
+            "name": "Alaska",
+            "abbr": "AK",
+            "county": "Yukon-Koyukuk Census Area"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "5326",
+      "fte": "65.7",
+      "pupilTeacherRatio": "81.07",
+      "numberOfSchools": "4"
+   },
+   {
+      "name": "Haines Borough School District",
+      "location": {
+         "state": {
+            "name": "Alaska",
+            "abbr": "AK",
+            "county": "Haines Borough"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "276",
+      "fte": "18.23",
+      "pupilTeacherRatio": "15.14",
+      "numberOfSchools": "3"
+   },
+   {
+      "name": "Hoonah City School District",
+      "location": {
+         "state": {
+            "name": "Alaska",
+            "abbr": "AK",
+            "county": "Hoonah-Angoon Census Area"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "127",
+      "fte": "10.81",
+      "pupilTeacherRatio": "11.75",
+      "numberOfSchools": "1"
+   },
+   {
+      "name": "Hydaburg City School District",
+      "location": {
+         "state": {
+            "name": "Alaska",
+            "abbr": "AK",
+            "county": "Prince of Wales-Hyder Census Area"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "112",
+      "fte": "11.5",
+      "pupilTeacherRatio": "9.74",
+      "numberOfSchools": "2"
+   },
+   {
+      "name": "Iditarod Area School District",
+      "location": {
+         "state": {
+            "name": "Alaska",
+            "abbr": "AK",
+            "county": "Yukon-Koyukuk Census Area"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "320",
+      "fte": "17.49",
+      "pupilTeacherRatio": "18.3",
+      "numberOfSchools": "8"
+   },
+   {
+      "name": "Juneau Borough School District",
+      "location": {
+         "state": {
+            "name": "Alaska",
+            "abbr": "AK",
+            "county": "Juneau City and Borough"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "4725",
+      "fte": "291.11",
+      "pupilTeacherRatio": "16.23",
+      "numberOfSchools": "15"
+   },
+   {
+      "name": "Kake City School District",
+      "location": {
+         "state": {
+            "name": "Alaska",
+            "abbr": "AK",
+            "county": "Prince of Wales-Hyder Census Area"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "103",
+      "fte": "11.3",
+      "pupilTeacherRatio": "9.12",
+      "numberOfSchools": "1"
+   },
+   {
+      "name": "Kashunamiut School District",
+      "location": {
+         "state": {
+            "name": "Alaska",
+            "abbr": "AK",
+            "county": "Kusilvak Census Area"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "313",
+      "fte": "22",
+      "pupilTeacherRatio": "14.23",
+      "numberOfSchools": "1"
+   },
+   {
+      "name": "Kenai Peninsula Borough School District",
+      "location": {
+         "state": {
+            "name": "Alaska",
+            "abbr": "AK",
+            "county": "Kenai Peninsula Borough"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "8774",
+      "fte": "543.56",
+      "pupilTeacherRatio": "16.14",
+      "numberOfSchools": "43"
+   },
+   {
+      "name": "Ketchikan Gateway Borough School District",
+      "location": {
+         "state": {
+            "name": "Alaska",
+            "abbr": "AK",
+            "county": "Ketchikan Gateway Borough"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "2291",
+      "fte": "157",
+      "pupilTeacherRatio": "14.59",
+      "numberOfSchools": "9"
+   },
+   {
+      "name": "Klawock City School District",
+      "location": {
+         "state": {
+            "name": "Alaska",
+            "abbr": "AK",
+            "county": "Prince of Wales-Hyder Census Area"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "131",
+      "fte": "14.3",
+      "pupilTeacherRatio": "9.16",
+      "numberOfSchools": "1"
+   },
+   {
+      "name": "Kodiak Island Borough School District",
+      "location": {
+         "state": {
+            "name": "Alaska",
+            "abbr": "AK",
+            "county": "Kodiak Island Borough"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "2308",
+      "fte": "146.71",
+      "pupilTeacherRatio": "15.73",
+      "numberOfSchools": "12"
+   },
+   {
+      "name": "Kuspuk School District",
+      "location": {
+         "state": {
+            "name": "Alaska",
+            "abbr": "AK",
+            "county": "Bethel Census Area"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "406",
+      "fte": "29.2",
+      "pupilTeacherRatio": "13.9",
+      "numberOfSchools": "9"
+   },
+   {
+      "name": "Lake and Peninsula Borough School District",
+      "location": {
+         "state": {
+            "name": "Alaska",
+            "abbr": "AK",
+            "county": "Bristol Bay Borough"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "361",
+      "fte": "46.5",
+      "pupilTeacherRatio": "7.76",
+      "numberOfSchools": "13"
+   },
+   {
+      "name": "Lower Kuskokwim School District",
+      "location": {
+         "state": {
+            "name": "Alaska",
+            "abbr": "AK",
+            "county": "Bethel Census Area"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "4245",
+      "fte": "271.46",
+      "pupilTeacherRatio": "15.64",
+      "numberOfSchools": "29"
+   },
+   {
+      "name": "Lower Yukon School District",
+      "location": {
+         "state": {
+            "name": "Alaska",
+            "abbr": "AK",
+            "county": "Kusilvak Census Area"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "2027",
+      "fte": "124.24",
+      "pupilTeacherRatio": "16.32",
+      "numberOfSchools": "10"
+   },
+   {
+      "name": "Matanuska-Susitna Borough School District",
+      "location": {
+         "state": {
+            "name": "Alaska",
+            "abbr": "AK",
+            "county": "Matanuska-Susitna Borough"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "19502",
+      "fte": "951.58",
+      "pupilTeacherRatio": "20.49",
+      "numberOfSchools": "47"
+   },
+   {
+      "name": "Mount Edgecumbe High School Agency",
+      "location": {
+         "state": {
+            "name": "Alaska",
+            "abbr": "AK",
+            "county": "Sitka City and Borough"
+         }
+      },
+      "type": "5-State agency providing elementary and/or secondary level instruction",
+      "grades": {
+         "lowest": "9th Grade",
+         "highest": "12th Grade"
+      },
+      "students": "430",
+      "fte": "24.45",
+      "pupilTeacherRatio": "17.59",
+      "numberOfSchools": "1"
+   },
+   {
+      "name": "Nenana City School District",
+      "location": {
+         "state": {
+            "name": "Alaska",
+            "abbr": "AK",
+            "county": "Yukon-Koyukuk Census Area"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "1442",
+      "fte": "22.15",
+      "pupilTeacherRatio": "65.1",
+      "numberOfSchools": "2"
+   },
+   {
+      "name": "Nome Public Schools",
+      "location": {
+         "state": {
+            "name": "Alaska",
+            "abbr": "AK",
+            "county": "Nome Census Area"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "710",
+      "fte": "51",
+      "pupilTeacherRatio": "13.92",
+      "numberOfSchools": "4"
+   },
+   {
+      "name": "North Slope Borough School District",
+      "location": {
+         "state": {
+            "name": "Alaska",
+            "abbr": "AK",
+            "county": "North Slope Borough"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "2170",
+      "fte": "169.5",
+      "pupilTeacherRatio": "12.8",
+      "numberOfSchools": "11"
+   },
+   {
+      "name": "Northwest Arctic Borough School District",
+      "location": {
+         "state": {
+            "name": "Alaska",
+            "abbr": "AK",
+            "county": "Northwest Arctic Borough"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "2097",
+      "fte": "125.29",
+      "pupilTeacherRatio": "16.74",
+      "numberOfSchools": "13"
+   },
+   {
+      "name": "Pelican City School District",
+      "location": {
+         "state": {
+            "name": "Alaska",
+            "abbr": "AK",
+            "county": "Hoonah-Angoon Census Area"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Kindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "16",
+      "fte": "1.6",
+      "pupilTeacherRatio": "10",
+      "numberOfSchools": "1"
+   },
+   {
+      "name": "Petersburg Borough School District",
+      "location": {
+         "state": {
+            "name": "Alaska",
+            "abbr": "AK",
+            "county": "Petersburg Borough"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "469",
+      "fte": "34",
+      "pupilTeacherRatio": "13.79",
+      "numberOfSchools": "3"
+   },
+   {
+      "name": "Pribilof School District",
+      "location": {
+         "state": {
+            "name": "Alaska",
+            "abbr": "AK",
+            "county": "Aleutians West Census Area"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "65",
+      "fte": "4.5",
+      "pupilTeacherRatio": "14.44",
+      "numberOfSchools": "2"
+   },
+   {
+      "name": "Saint Mary's School District",
+      "location": {
+         "state": {
+            "name": "Alaska",
+            "abbr": "AK",
+            "county": "Kusilvak Census Area"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "204",
+      "fte": "14.1",
+      "pupilTeacherRatio": "14.47",
+      "numberOfSchools": "1"
+   },
+   {
+      "name": "Sitka School District",
+      "location": {
+         "state": {
+            "name": "Alaska",
+            "abbr": "AK",
+            "county": "Sitka City and Borough"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "1203",
+      "fte": "96.55",
+      "pupilTeacherRatio": "12.46",
+      "numberOfSchools": "6"
+   },
+   {
+      "name": "Skagway School District",
+      "location": {
+         "state": {
+            "name": "Alaska",
+            "abbr": "AK",
+            "county": "Skagway Municipality"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "140",
+      "fte": "12.5",
+      "pupilTeacherRatio": "11.2",
+      "numberOfSchools": "1"
+   },
+   {
+      "name": "Southeast Island School District",
+      "location": {
+         "state": {
+            "name": "Alaska",
+            "abbr": "AK",
+            "county": "Prince of Wales-Hyder Census Area"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "175",
+      "fte": "19.62",
+      "pupilTeacherRatio": "8.92",
+      "numberOfSchools": "9"
+   },
+   {
+      "name": "Southwest Region School District",
+      "location": {
+         "state": {
+            "name": "Alaska",
+            "abbr": "AK",
+            "county": "Dillingham Census Area"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "636",
+      "fte": "57.1",
+      "pupilTeacherRatio": "11.14",
+      "numberOfSchools": "8"
+   },
+   {
+      "name": "Tanana City School District",
+      "location": {
+         "state": {
+            "name": "Alaska",
+            "abbr": "AK",
+            "county": "Yukon-Koyukuk Census Area"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Kindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "33",
+      "fte": "4",
+      "pupilTeacherRatio": "8.25",
+      "numberOfSchools": "1"
+   },
+   {
+      "name": "Unalaska City School District",
+      "location": {
+         "state": {
+            "name": "Alaska",
+            "abbr": "AK",
+            "county": "Aleutians West Census Area"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "412",
+      "fte": "30.25",
+      "pupilTeacherRatio": "13.62",
+      "numberOfSchools": "2"
+   },
+   {
+      "name": "Valdez City School District",
+      "location": {
+         "state": {
+            "name": "Alaska",
+            "abbr": "AK",
+            "county": "Valdez-Cordova Census Area"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "718",
+      "fte": "54.09",
+      "pupilTeacherRatio": "13.27",
+      "numberOfSchools": "4"
+   },
+   {
+      "name": "Wrangell Public School District",
+      "location": {
+         "state": {
+            "name": "Alaska",
+            "abbr": "AK",
+            "county": "Wrangell City and Borough"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "308",
+      "fte": "22.99",
+      "pupilTeacherRatio": "13.4",
+      "numberOfSchools": "3"
+   },
+   {
+      "name": "Yakutat School District",
+      "location": {
+         "state": {
+            "name": "Alaska",
+            "abbr": "AK",
+            "county": "Yakutat City and Borough"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "103",
+      "fte": "6",
+      "pupilTeacherRatio": "17.17",
+      "numberOfSchools": "2"
+   },
+   {
+      "name": "Yukon Flats School District",
+      "location": {
+         "state": {
+            "name": "Alaska",
+            "abbr": "AK",
+            "county": "Yukon-Koyukuk Census Area"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "211",
+      "fte": "21",
+      "pupilTeacherRatio": "10.05",
+      "numberOfSchools": "7"
+   },
+   {
+      "name": "Yukon-Koyukuk School District",
+      "location": {
+         "state": {
+            "name": "Alaska",
+            "abbr": "AK",
+            "county": "Fairbanks North Star Borough"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "1978",
+      "fte": "48.2",
+      "pupilTeacherRatio": "41.04",
+      "numberOfSchools": "11"
+   },
+   {
+      "name": "Yupiit School District",
+      "location": {
+         "state": {
+            "name": "Alaska",
+            "abbr": "AK",
+            "county": "Bethel Census Area"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Kindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "463",
+      "fte": "36.3",
+      "pupilTeacherRatio": "12.75",
+      "numberOfSchools": "3"
+   }
+]

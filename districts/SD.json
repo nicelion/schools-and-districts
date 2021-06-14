@@ -1,0 +1,3156 @@
+[
+   {
+      "name": "Aberdeen School District 06-1",
+      "location": {
+         "state": {
+            "name": "South Dakota",
+            "abbr": "SD",
+            "county": "Brown County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "4495",
+      "fte": "301.31",
+      "pupilTeacherRatio": "14.92",
+      "numberOfSchools": "10"
+   },
+   {
+      "name": "Agar-Blunt-Onida School District 58-3",
+      "location": {
+         "state": {
+            "name": "South Dakota",
+            "abbr": "SD",
+            "county": "Sully County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Kindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "268",
+      "fte": "27.48",
+      "pupilTeacherRatio": "9.75",
+      "numberOfSchools": "4"
+   },
+   {
+      "name": "Alcester-Hudson School District 61-1",
+      "location": {
+         "state": {
+            "name": "South Dakota",
+            "abbr": "SD",
+            "county": "Union County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "390",
+      "fte": "30.68",
+      "pupilTeacherRatio": "12.71",
+      "numberOfSchools": "3"
+   },
+   {
+      "name": "Andes Central School District 11-1",
+      "location": {
+         "state": {
+            "name": "South Dakota",
+            "abbr": "SD",
+            "county": "Charles Mix County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "346",
+      "fte": "34.68",
+      "pupilTeacherRatio": "9.98",
+      "numberOfSchools": "4"
+   },
+   {
+      "name": "Arlington School District 38-1",
+      "location": {
+         "state": {
+            "name": "South Dakota",
+            "abbr": "SD",
+            "county": "Kingsbury County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "275",
+      "fte": "21.91",
+      "pupilTeacherRatio": "12.55",
+      "numberOfSchools": "4"
+   },
+   {
+      "name": "Armour School District 21-1",
+      "location": {
+         "state": {
+            "name": "South Dakota",
+            "abbr": "SD",
+            "county": "Douglas County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Kindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "177",
+      "fte": "17.93",
+      "pupilTeacherRatio": "9.87",
+      "numberOfSchools": "3"
+   },
+   {
+      "name": "Avon School District 04-1",
+      "location": {
+         "state": {
+            "name": "South Dakota",
+            "abbr": "SD",
+            "county": "Bon Homme County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "239",
+      "fte": "21.17",
+      "pupilTeacherRatio": "11.29",
+      "numberOfSchools": "4"
+   },
+   {
+      "name": "Baltic School District 49-1",
+      "location": {
+         "state": {
+            "name": "South Dakota",
+            "abbr": "SD",
+            "county": "Minnehaha County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "537",
+      "fte": "35.88",
+      "pupilTeacherRatio": "14.97",
+      "numberOfSchools": "3"
+   },
+   {
+      "name": "Belle Fourche School District 09-1",
+      "location": {
+         "state": {
+            "name": "South Dakota",
+            "abbr": "SD",
+            "county": "Butte County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Kindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "1388",
+      "fte": "95.62",
+      "pupilTeacherRatio": "14.52",
+      "numberOfSchools": "5"
+   },
+   {
+      "name": "Bennett County School District 03-1",
+      "location": {
+         "state": {
+            "name": "South Dakota",
+            "abbr": "SD",
+            "county": "Bennett County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "522",
+      "fte": "45.5",
+      "pupilTeacherRatio": "11.47",
+      "numberOfSchools": "3"
+   },
+   {
+      "name": "Beresford School District 61-2",
+      "location": {
+         "state": {
+            "name": "South Dakota",
+            "abbr": "SD",
+            "county": "Union County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Kindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "704",
+      "fte": "49.35",
+      "pupilTeacherRatio": "14.27",
+      "numberOfSchools": "3"
+   },
+   {
+      "name": "Big Stone City School District 25-1",
+      "location": {
+         "state": {
+            "name": "South Dakota",
+            "abbr": "SD",
+            "county": "Grant County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "62",
+      "fte": "12.77",
+      "pupilTeacherRatio": "4.86",
+      "numberOfSchools": "3"
+   },
+   {
+      "name": "Bison School District 52-1",
+      "location": {
+         "state": {
+            "name": "South Dakota",
+            "abbr": "SD",
+            "county": "Perkins County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Kindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "141",
+      "fte": "21.93",
+      "pupilTeacherRatio": "6.43",
+      "numberOfSchools": "3"
+   },
+   {
+      "name": "Black Hills Special Services Cooperative",
+      "location": {
+         "state": {
+            "name": "South Dakota",
+            "abbr": "SD",
+            "county": "Meade County"
+         }
+      },
+      "type": "4-Regional Education Service Agency (RESA)",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "0",
+      "fte": "3.02",
+      "pupilTeacherRatio": "0",
+      "numberOfSchools": "3"
+   },
+   {
+      "name": "Bon Homme School District 04-2",
+      "location": {
+         "state": {
+            "name": "South Dakota",
+            "abbr": "SD",
+            "county": "Bon Homme County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "543",
+      "fte": "45.33",
+      "pupilTeacherRatio": "11.98",
+      "numberOfSchools": "8"
+   },
+   {
+      "name": "Bowdle School District 22-1",
+      "location": {
+         "state": {
+            "name": "South Dakota",
+            "abbr": "SD",
+            "county": "Edmunds County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "117",
+      "fte": "17.08",
+      "pupilTeacherRatio": "6.85",
+      "numberOfSchools": "3"
+   },
+   {
+      "name": "Brandon Valley School District 49-2",
+      "location": {
+         "state": {
+            "name": "South Dakota",
+            "abbr": "SD",
+            "county": "Minnehaha County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "4464",
+      "fte": "250.44",
+      "pupilTeacherRatio": "17.82",
+      "numberOfSchools": "7"
+   },
+   {
+      "name": "Bridgewater-Emery 30-3",
+      "location": {
+         "state": {
+            "name": "South Dakota",
+            "abbr": "SD",
+            "county": "McCook County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "328",
+      "fte": "29.22",
+      "pupilTeacherRatio": "11.23",
+      "numberOfSchools": "3"
+   },
+   {
+      "name": "Britton-Hecla School District 45-4",
+      "location": {
+         "state": {
+            "name": "South Dakota",
+            "abbr": "SD",
+            "county": "Marshall County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Kindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "419",
+      "fte": "31.9",
+      "pupilTeacherRatio": "13.13",
+      "numberOfSchools": "6"
+   },
+   {
+      "name": "Brookings School District 05-1",
+      "location": {
+         "state": {
+            "name": "South Dakota",
+            "abbr": "SD",
+            "county": "Brookings County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Kindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "3413",
+      "fte": "232.22",
+      "pupilTeacherRatio": "14.7",
+      "numberOfSchools": "6"
+   },
+   {
+      "name": "Burke School District 26-2",
+      "location": {
+         "state": {
+            "name": "South Dakota",
+            "abbr": "SD",
+            "county": "Gregory County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "258",
+      "fte": "20.74",
+      "pupilTeacherRatio": "12.44",
+      "numberOfSchools": "3"
+   },
+   {
+      "name": "Canistota School District 43-1",
+      "location": {
+         "state": {
+            "name": "South Dakota",
+            "abbr": "SD",
+            "county": "McCook County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "222",
+      "fte": "20.89",
+      "pupilTeacherRatio": "10.63",
+      "numberOfSchools": "3"
+   },
+   {
+      "name": "Canton School District 41-1",
+      "location": {
+         "state": {
+            "name": "South Dakota",
+            "abbr": "SD",
+            "county": "Lincoln County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Kindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "896",
+      "fte": "63.35",
+      "pupilTeacherRatio": "14.14",
+      "numberOfSchools": "3"
+   },
+   {
+      "name": "Castlewood School District 28-1",
+      "location": {
+         "state": {
+            "name": "South Dakota",
+            "abbr": "SD",
+            "county": "Hamlin County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "315",
+      "fte": "19.54",
+      "pupilTeacherRatio": "16.12",
+      "numberOfSchools": "4"
+   },
+   {
+      "name": "Centerville School District 60-1",
+      "location": {
+         "state": {
+            "name": "South Dakota",
+            "abbr": "SD",
+            "county": "Turner County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "295",
+      "fte": "21.25",
+      "pupilTeacherRatio": "13.88",
+      "numberOfSchools": "3"
+   },
+   {
+      "name": "Chamberlain School District 07-1",
+      "location": {
+         "state": {
+            "name": "South Dakota",
+            "abbr": "SD",
+            "county": "Brule County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Kindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "869",
+      "fte": "80.56",
+      "pupilTeacherRatio": "10.79",
+      "numberOfSchools": "3"
+   },
+   {
+      "name": "Chester Area School District 39-1",
+      "location": {
+         "state": {
+            "name": "South Dakota",
+            "abbr": "SD",
+            "county": "Lake County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "599",
+      "fte": "36.38",
+      "pupilTeacherRatio": "16.47",
+      "numberOfSchools": "7"
+   },
+   {
+      "name": "Clark School District 12-2",
+      "location": {
+         "state": {
+            "name": "South Dakota",
+            "abbr": "SD",
+            "county": "Clark County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "440",
+      "fte": "34.46",
+      "pupilTeacherRatio": "12.77",
+      "numberOfSchools": "6"
+   },
+   {
+      "name": "Colman-Egan School District 50-5",
+      "location": {
+         "state": {
+            "name": "South Dakota",
+            "abbr": "SD",
+            "county": "Moody County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "279",
+      "fte": "20.83",
+      "pupilTeacherRatio": "13.39",
+      "numberOfSchools": "3"
+   },
+   {
+      "name": "Colome Consolidated 59-3",
+      "location": {
+         "state": {
+            "name": "South Dakota",
+            "abbr": "SD",
+            "county": "Tripp County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "229",
+      "fte": "22.23",
+      "pupilTeacherRatio": "10.3",
+      "numberOfSchools": "4"
+   },
+   {
+      "name": "Core Educational Cooperative",
+      "location": {
+         "state": {
+            "name": "SOUTH DAKOTA",
+            "abbr": "SD",
+            "county": "Charles Mix County"
+         }
+      },
+      "type": "4-Regional Education Service Agency (RESA)",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "0",
+      "fte": "0",
+      "pupilTeacherRatio": "†",
+      "numberOfSchools": "0"
+   },
+   {
+      "name": "Cornbelt Educational Cooperative",
+      "location": {
+         "state": {
+            "name": "South Dakota",
+            "abbr": "SD",
+            "county": "Minnehaha County"
+         }
+      },
+      "type": "4-Regional Education Service Agency (RESA)",
+      "grades": {
+         "lowest": "†",
+         "highest": "†"
+      },
+      "students": "†",
+      "fte": "0",
+      "pupilTeacherRatio": "–",
+      "numberOfSchools": "0"
+   },
+   {
+      "name": "Correctional Facilities",
+      "location": {
+         "state": {
+            "name": "South Dakota",
+            "abbr": "SD",
+            "county": "Hughes County"
+         }
+      },
+      "type": "5-State agency providing elementary and/or secondary level instruction",
+      "grades": {
+         "lowest": "†",
+         "highest": "†"
+      },
+      "students": "†",
+      "fte": "†",
+      "pupilTeacherRatio": "†",
+      "numberOfSchools": "0"
+   },
+   {
+      "name": "Corsica-Stickney 21-3",
+      "location": {
+         "state": {
+            "name": "SOUTH DAKOTA",
+            "abbr": "SD",
+            "county": "Douglas County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "278",
+      "fte": "22.02",
+      "pupilTeacherRatio": "12.62",
+      "numberOfSchools": "3"
+   },
+   {
+      "name": "Custer School District 16-1",
+      "location": {
+         "state": {
+            "name": "South Dakota",
+            "abbr": "SD",
+            "county": "Custer County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "930",
+      "fte": "72.33",
+      "pupilTeacherRatio": "12.86",
+      "numberOfSchools": "4"
+   },
+   {
+      "name": "Dakota Valley School District 61-8",
+      "location": {
+         "state": {
+            "name": "South Dakota",
+            "abbr": "SD",
+            "county": "Union County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Kindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "1381",
+      "fte": "88.06",
+      "pupilTeacherRatio": "15.68",
+      "numberOfSchools": "4"
+   },
+   {
+      "name": "De Smet School District 38-2",
+      "location": {
+         "state": {
+            "name": "South Dakota",
+            "abbr": "SD",
+            "county": "Kingsbury County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "300",
+      "fte": "25.12",
+      "pupilTeacherRatio": "11.94",
+      "numberOfSchools": "3"
+   },
+   {
+      "name": "Dell Rapids School District 49-3",
+      "location": {
+         "state": {
+            "name": "South Dakota",
+            "abbr": "SD",
+            "county": "Minnehaha County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Kindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "991",
+      "fte": "67.8",
+      "pupilTeacherRatio": "14.62",
+      "numberOfSchools": "3"
+   },
+   {
+      "name": "Deubrook Area School District 05-6",
+      "location": {
+         "state": {
+            "name": "South Dakota",
+            "abbr": "SD",
+            "county": "Brookings County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "384",
+      "fte": "34.07",
+      "pupilTeacherRatio": "11.27",
+      "numberOfSchools": "5"
+   },
+   {
+      "name": "Deuel School District 19-4",
+      "location": {
+         "state": {
+            "name": "South Dakota",
+            "abbr": "SD",
+            "county": "Deuel County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "528",
+      "fte": "41.1",
+      "pupilTeacherRatio": "12.85",
+      "numberOfSchools": "3"
+   },
+   {
+      "name": "Doland School District 56-2",
+      "location": {
+         "state": {
+            "name": "South Dakota",
+            "abbr": "SD",
+            "county": "Spink County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "157",
+      "fte": "19.98",
+      "pupilTeacherRatio": "7.86",
+      "numberOfSchools": "7"
+   },
+   {
+      "name": "Douglas School District 51-1",
+      "location": {
+         "state": {
+            "name": "South Dakota",
+            "abbr": "SD",
+            "county": "Pennington County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "2858",
+      "fte": "184.05",
+      "pupilTeacherRatio": "15.53",
+      "numberOfSchools": "5"
+   },
+   {
+      "name": "Dss Facilities",
+      "location": {
+         "state": {
+            "name": "South Dakota",
+            "abbr": "SD",
+            "county": "Hughes County"
+         }
+      },
+      "type": "5-State agency providing elementary and/or secondary level instruction",
+      "grades": {
+         "lowest": "†",
+         "highest": "†"
+      },
+      "students": "†",
+      "fte": "†",
+      "pupilTeacherRatio": "†",
+      "numberOfSchools": "0"
+   },
+   {
+      "name": "Dupree School District 64-2",
+      "location": {
+         "state": {
+            "name": "South Dakota",
+            "abbr": "SD",
+            "county": "Ziebach County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "396",
+      "fte": "34.74",
+      "pupilTeacherRatio": "11.4",
+      "numberOfSchools": "3"
+   },
+   {
+      "name": "Eagle Butte School District 20-1",
+      "location": {
+         "state": {
+            "name": "South Dakota",
+            "abbr": "SD",
+            "county": "Ziebach County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Kindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "340",
+      "fte": "44.21",
+      "pupilTeacherRatio": "7.69",
+      "numberOfSchools": "6"
+   },
+   {
+      "name": "East Dakota Educational Cooperative",
+      "location": {
+         "state": {
+            "name": "South Dakota",
+            "abbr": "SD",
+            "county": "Minnehaha County"
+         }
+      },
+      "type": "4-Regional Education Service Agency (RESA)",
+      "grades": {
+         "lowest": "5th Grade",
+         "highest": "12th Grade"
+      },
+      "students": "0",
+      "fte": "8.75",
+      "pupilTeacherRatio": "0",
+      "numberOfSchools": "5"
+   },
+   {
+      "name": "Edgemont School District 23-1",
+      "location": {
+         "state": {
+            "name": "South Dakota",
+            "abbr": "SD",
+            "county": "Fall River County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "162",
+      "fte": "16.04",
+      "pupilTeacherRatio": "10.1",
+      "numberOfSchools": "2"
+   },
+   {
+      "name": "Edmunds Central School District 22-5",
+      "location": {
+         "state": {
+            "name": "South Dakota",
+            "abbr": "SD",
+            "county": "Edmunds County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "145",
+      "fte": "16.96",
+      "pupilTeacherRatio": "8.55",
+      "numberOfSchools": "4"
+   },
+   {
+      "name": "Elk Mountain School District 16-2",
+      "location": {
+         "state": {
+            "name": "South Dakota",
+            "abbr": "SD",
+            "county": "Custer County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "13",
+      "fte": "3.45",
+      "pupilTeacherRatio": "3.77",
+      "numberOfSchools": "3"
+   },
+   {
+      "name": "Elk Point-Jefferson School District 61-7",
+      "location": {
+         "state": {
+            "name": "South Dakota",
+            "abbr": "SD",
+            "county": "Union County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Kindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "684",
+      "fte": "46.34",
+      "pupilTeacherRatio": "14.76",
+      "numberOfSchools": "3"
+   },
+   {
+      "name": "Elkton School District 05-3",
+      "location": {
+         "state": {
+            "name": "South Dakota",
+            "abbr": "SD",
+            "county": "Brookings County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "424",
+      "fte": "32.8",
+      "pupilTeacherRatio": "12.93",
+      "numberOfSchools": "5"
+   },
+   {
+      "name": "Estelline School District 28-2",
+      "location": {
+         "state": {
+            "name": "South Dakota",
+            "abbr": "SD",
+            "county": "Hamlin County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "280",
+      "fte": "21.69",
+      "pupilTeacherRatio": "12.91",
+      "numberOfSchools": "3"
+   },
+   {
+      "name": "Ethan School District 17-1",
+      "location": {
+         "state": {
+            "name": "South Dakota",
+            "abbr": "SD",
+            "county": "Davison County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "287",
+      "fte": "22.01",
+      "pupilTeacherRatio": "13.04",
+      "numberOfSchools": "3"
+   },
+   {
+      "name": "Eureka School District 44-1",
+      "location": {
+         "state": {
+            "name": "South Dakota",
+            "abbr": "SD",
+            "county": "McPherson County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "169",
+      "fte": "18.09",
+      "pupilTeacherRatio": "9.34",
+      "numberOfSchools": "3"
+   },
+   {
+      "name": "Faith School District 46-2",
+      "location": {
+         "state": {
+            "name": "South Dakota",
+            "abbr": "SD",
+            "county": "Meade County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "175",
+      "fte": "15.39",
+      "pupilTeacherRatio": "11.37",
+      "numberOfSchools": "4"
+   },
+   {
+      "name": "Faulkton Area Schools 24-4",
+      "location": {
+         "state": {
+            "name": "South Dakota",
+            "abbr": "SD",
+            "county": "Faulk County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "359",
+      "fte": "29.34",
+      "pupilTeacherRatio": "12.24",
+      "numberOfSchools": "6"
+   },
+   {
+      "name": "Flandreau School District 50-3",
+      "location": {
+         "state": {
+            "name": "South Dakota",
+            "abbr": "SD",
+            "county": "Moody County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Kindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "708",
+      "fte": "59.8",
+      "pupilTeacherRatio": "11.84",
+      "numberOfSchools": "4"
+   },
+   {
+      "name": "Florence School District 14-1",
+      "location": {
+         "state": {
+            "name": "South Dakota",
+            "abbr": "SD",
+            "county": "Codington County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "291",
+      "fte": "21.17",
+      "pupilTeacherRatio": "13.75",
+      "numberOfSchools": "3"
+   },
+   {
+      "name": "Frederick Area School District 06-2",
+      "location": {
+         "state": {
+            "name": "South Dakota",
+            "abbr": "SD",
+            "county": "Brown County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Kindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "158",
+      "fte": "17.12",
+      "pupilTeacherRatio": "9.23",
+      "numberOfSchools": "3"
+   },
+   {
+      "name": "Freeman School District 33-1",
+      "location": {
+         "state": {
+            "name": "South Dakota",
+            "abbr": "SD",
+            "county": "Hutchinson County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Kindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "325",
+      "fte": "27.33",
+      "pupilTeacherRatio": "11.89",
+      "numberOfSchools": "5"
+   },
+   {
+      "name": "Garretson School District 49-4",
+      "location": {
+         "state": {
+            "name": "South Dakota",
+            "abbr": "SD",
+            "county": "Minnehaha County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "524",
+      "fte": "34.15",
+      "pupilTeacherRatio": "15.34",
+      "numberOfSchools": "3"
+   },
+   {
+      "name": "Gayville-Volin School District 63-1",
+      "location": {
+         "state": {
+            "name": "South Dakota",
+            "abbr": "SD",
+            "county": "Yankton County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "322",
+      "fte": "23.26",
+      "pupilTeacherRatio": "13.84",
+      "numberOfSchools": "3"
+   },
+   {
+      "name": "Gettysburg School District 53-1",
+      "location": {
+         "state": {
+            "name": "South Dakota",
+            "abbr": "SD",
+            "county": "Potter County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Kindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "226",
+      "fte": "22.16",
+      "pupilTeacherRatio": "10.2",
+      "numberOfSchools": "3"
+   },
+   {
+      "name": "Gregory School District 26-4",
+      "location": {
+         "state": {
+            "name": "South Dakota",
+            "abbr": "SD",
+            "county": "Gregory County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Kindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "373",
+      "fte": "34.17",
+      "pupilTeacherRatio": "10.92",
+      "numberOfSchools": "3"
+   },
+   {
+      "name": "Groton Area School District 06-6",
+      "location": {
+         "state": {
+            "name": "South Dakota",
+            "abbr": "SD",
+            "county": "Brown County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "589",
+      "fte": "44.15",
+      "pupilTeacherRatio": "13.34",
+      "numberOfSchools": "3"
+   },
+   {
+      "name": "Haakon School District 27-1",
+      "location": {
+         "state": {
+            "name": "South Dakota",
+            "abbr": "SD",
+            "county": "Haakon County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Kindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "318",
+      "fte": "23.7",
+      "pupilTeacherRatio": "13.42",
+      "numberOfSchools": "4"
+   },
+   {
+      "name": "Hamlin School District 28-3",
+      "location": {
+         "state": {
+            "name": "South Dakota",
+            "abbr": "SD",
+            "county": "Hamlin County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "881",
+      "fte": "53.16",
+      "pupilTeacherRatio": "16.57",
+      "numberOfSchools": "3"
+   },
+   {
+      "name": "Hanson School District 30-1",
+      "location": {
+         "state": {
+            "name": "South Dakota",
+            "abbr": "SD",
+            "county": "Hanson County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "410",
+      "fte": "33.29",
+      "pupilTeacherRatio": "12.32",
+      "numberOfSchools": "6"
+   },
+   {
+      "name": "Harding County School District 31-1",
+      "location": {
+         "state": {
+            "name": "South Dakota",
+            "abbr": "SD",
+            "county": "Harding County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Kindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "200",
+      "fte": "22.55",
+      "pupilTeacherRatio": "8.87",
+      "numberOfSchools": "5"
+   },
+   {
+      "name": "Harrisburg School District 41-2",
+      "location": {
+         "state": {
+            "name": "South Dakota",
+            "abbr": "SD",
+            "county": "Lincoln County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "5195",
+      "fte": "363.47",
+      "pupilTeacherRatio": "14.29",
+      "numberOfSchools": "9"
+   },
+   {
+      "name": "Henry School District 14-2",
+      "location": {
+         "state": {
+            "name": "South Dakota",
+            "abbr": "SD",
+            "county": "Codington County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "171",
+      "fte": "16.95",
+      "pupilTeacherRatio": "10.09",
+      "numberOfSchools": "3"
+   },
+   {
+      "name": "Herreid School District 10-1",
+      "location": {
+         "state": {
+            "name": "South Dakota",
+            "abbr": "SD",
+            "county": "Campbell County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Kindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "123",
+      "fte": "14.34",
+      "pupilTeacherRatio": "8.58",
+      "numberOfSchools": "3"
+   },
+   {
+      "name": "Highmore-Harrold 34-2",
+      "location": {
+         "state": {
+            "name": "South Dakota",
+            "abbr": "SD",
+            "county": "Hyde County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "243",
+      "fte": "23.96",
+      "pupilTeacherRatio": "10.14",
+      "numberOfSchools": "3"
+   },
+   {
+      "name": "Hill City School District 51-2",
+      "location": {
+         "state": {
+            "name": "South Dakota",
+            "abbr": "SD",
+            "county": "Pennington County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "463",
+      "fte": "34.13",
+      "pupilTeacherRatio": "13.57",
+      "numberOfSchools": "3"
+   },
+   {
+      "name": "Hitchcock Tulare School District 56-6",
+      "location": {
+         "state": {
+            "name": "South Dakota",
+            "abbr": "SD",
+            "county": "Spink County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Kindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "229",
+      "fte": "25.49",
+      "pupilTeacherRatio": "8.98",
+      "numberOfSchools": "5"
+   },
+   {
+      "name": "Hot Springs School District 23-2",
+      "location": {
+         "state": {
+            "name": "South Dakota",
+            "abbr": "SD",
+            "county": "Fall River County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "788",
+      "fte": "54.99",
+      "pupilTeacherRatio": "14.33",
+      "numberOfSchools": "3"
+   },
+   {
+      "name": "Hoven School District 53-2",
+      "location": {
+         "state": {
+            "name": "South Dakota",
+            "abbr": "SD",
+            "county": "Potter County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "110",
+      "fte": "18.83",
+      "pupilTeacherRatio": "5.84",
+      "numberOfSchools": "3"
+   },
+   {
+      "name": "Howard School District 48-3",
+      "location": {
+         "state": {
+            "name": "South Dakota",
+            "abbr": "SD",
+            "county": "Miner County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Kindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "359",
+      "fte": "33.11",
+      "pupilTeacherRatio": "10.84",
+      "numberOfSchools": "4"
+   },
+   {
+      "name": "Huron School District 02-2",
+      "location": {
+         "state": {
+            "name": "South Dakota",
+            "abbr": "SD",
+            "county": "Beadle County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Kindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "2795",
+      "fte": "170.4",
+      "pupilTeacherRatio": "16.4",
+      "numberOfSchools": "9"
+   },
+   {
+      "name": "Ipswich Public School District 22-6",
+      "location": {
+         "state": {
+            "name": "South Dakota",
+            "abbr": "SD",
+            "county": "Edmunds County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "441",
+      "fte": "36.86",
+      "pupilTeacherRatio": "11.96",
+      "numberOfSchools": "6"
+   },
+   {
+      "name": "Irene - Wakonda School District 13-3",
+      "location": {
+         "state": {
+            "name": "South Dakota",
+            "abbr": "SD",
+            "county": "Turner County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "315",
+      "fte": "25.51",
+      "pupilTeacherRatio": "12.35",
+      "numberOfSchools": "3"
+   },
+   {
+      "name": "Iroquois School District 02-3",
+      "location": {
+         "state": {
+            "name": "South Dakota",
+            "abbr": "SD",
+            "county": "Kingsbury County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "228",
+      "fte": "22.58",
+      "pupilTeacherRatio": "10.1",
+      "numberOfSchools": "4"
+   },
+   {
+      "name": "James Valley Education Cooperative",
+      "location": {
+         "state": {
+            "name": "South Dakota",
+            "abbr": "SD",
+            "county": "Davison County"
+         }
+      },
+      "type": "4-Regional Education Service Agency (RESA)",
+      "grades": {
+         "lowest": "†",
+         "highest": "†"
+      },
+      "students": "†",
+      "fte": "0",
+      "pupilTeacherRatio": "–",
+      "numberOfSchools": "0"
+   },
+   {
+      "name": "Jones County School District 37-3",
+      "location": {
+         "state": {
+            "name": "South Dakota",
+            "abbr": "SD",
+            "county": "Jones County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Kindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "168",
+      "fte": "20.07",
+      "pupilTeacherRatio": "8.37",
+      "numberOfSchools": "3"
+   },
+   {
+      "name": "Kadoka Area School District 35-2",
+      "location": {
+         "state": {
+            "name": "South Dakota",
+            "abbr": "SD",
+            "county": "Jackson County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "357",
+      "fte": "37.82",
+      "pupilTeacherRatio": "9.44",
+      "numberOfSchools": "6"
+   },
+   {
+      "name": "Kimball School District 07-2",
+      "location": {
+         "state": {
+            "name": "South Dakota",
+            "abbr": "SD",
+            "county": "Brule County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "330",
+      "fte": "30.37",
+      "pupilTeacherRatio": "10.87",
+      "numberOfSchools": "5"
+   },
+   {
+      "name": "Lake Preston School District 38-3",
+      "location": {
+         "state": {
+            "name": "South Dakota",
+            "abbr": "SD",
+            "county": "Kingsbury County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "193",
+      "fte": "22.3",
+      "pupilTeacherRatio": "8.65",
+      "numberOfSchools": "3"
+   },
+   {
+      "name": "Langford Area 45-5",
+      "location": {
+         "state": {
+            "name": "South Dakota",
+            "abbr": "SD",
+            "county": "Marshall County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "229",
+      "fte": "19.7",
+      "pupilTeacherRatio": "11.62",
+      "numberOfSchools": "4"
+   },
+   {
+      "name": "Lead-Deadwood School District 40-1",
+      "location": {
+         "state": {
+            "name": "South Dakota",
+            "abbr": "SD",
+            "county": "Lawrence County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Kindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "782",
+      "fte": "78",
+      "pupilTeacherRatio": "10.03",
+      "numberOfSchools": "4"
+   },
+   {
+      "name": "Lemmon School District 52-4",
+      "location": {
+         "state": {
+            "name": "South Dakota",
+            "abbr": "SD",
+            "county": "Perkins County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Kindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "249",
+      "fte": "20.09",
+      "pupilTeacherRatio": "12.39",
+      "numberOfSchools": "3"
+   },
+   {
+      "name": "Lennox School District 41-4",
+      "location": {
+         "state": {
+            "name": "South Dakota",
+            "abbr": "SD",
+            "county": "Lincoln County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "1194",
+      "fte": "75.48",
+      "pupilTeacherRatio": "15.82",
+      "numberOfSchools": "5"
+   },
+   {
+      "name": "Leola School District 44-2",
+      "location": {
+         "state": {
+            "name": "South Dakota",
+            "abbr": "SD",
+            "county": "McPherson County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "234",
+      "fte": "25.49",
+      "pupilTeacherRatio": "9.18",
+      "numberOfSchools": "7"
+   },
+   {
+      "name": "Lyman School District 42-1",
+      "location": {
+         "state": {
+            "name": "South Dakota",
+            "abbr": "SD",
+            "county": "Lyman County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "367",
+      "fte": "40.04",
+      "pupilTeacherRatio": "9.17",
+      "numberOfSchools": "4"
+   },
+   {
+      "name": "Madison Central School District 39-2",
+      "location": {
+         "state": {
+            "name": "South Dakota",
+            "abbr": "SD",
+            "county": "Lake County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Kindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "1169",
+      "fte": "79.8",
+      "pupilTeacherRatio": "14.65",
+      "numberOfSchools": "3"
+   },
+   {
+      "name": "Marion School District 60-3",
+      "location": {
+         "state": {
+            "name": "South Dakota",
+            "abbr": "SD",
+            "county": "Turner County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "190",
+      "fte": "22.19",
+      "pupilTeacherRatio": "8.56",
+      "numberOfSchools": "3"
+   },
+   {
+      "name": "Mccook Central School District 43-7",
+      "location": {
+         "state": {
+            "name": "South Dakota",
+            "abbr": "SD",
+            "county": "McCook County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "433",
+      "fte": "33.18",
+      "pupilTeacherRatio": "13.05",
+      "numberOfSchools": "4"
+   },
+   {
+      "name": "Mcintosh School District 15-1",
+      "location": {
+         "state": {
+            "name": "South Dakota",
+            "abbr": "SD",
+            "county": "Corson County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "173",
+      "fte": "21.61",
+      "pupilTeacherRatio": "8.01",
+      "numberOfSchools": "3"
+   },
+   {
+      "name": "Mclaughlin School District 15-2",
+      "location": {
+         "state": {
+            "name": "South Dakota",
+            "abbr": "SD",
+            "county": "Corson County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "457",
+      "fte": "41",
+      "pupilTeacherRatio": "11.15",
+      "numberOfSchools": "3"
+   },
+   {
+      "name": "Meade School District 46-1",
+      "location": {
+         "state": {
+            "name": "South Dakota",
+            "abbr": "SD",
+            "county": "Meade County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Kindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "2966",
+      "fte": "199.2",
+      "pupilTeacherRatio": "14.89",
+      "numberOfSchools": "12"
+   },
+   {
+      "name": "Menno School District 33-2",
+      "location": {
+         "state": {
+            "name": "South Dakota",
+            "abbr": "SD",
+            "county": "Hutchinson County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "277",
+      "fte": "30.78",
+      "pupilTeacherRatio": "9",
+      "numberOfSchools": "5"
+   },
+   {
+      "name": "Milbank School District 25-4",
+      "location": {
+         "state": {
+            "name": "South Dakota",
+            "abbr": "SD",
+            "county": "Grant County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "1018",
+      "fte": "69.71",
+      "pupilTeacherRatio": "14.6",
+      "numberOfSchools": "4"
+   },
+   {
+      "name": "Miller 29-4",
+      "location": {
+         "state": {
+            "name": "South Dakota",
+            "abbr": "SD",
+            "county": "Hand County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Kindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "443",
+      "fte": "41.39",
+      "pupilTeacherRatio": "10.7",
+      "numberOfSchools": "4"
+   },
+   {
+      "name": "Mitchell School District 17-2",
+      "location": {
+         "state": {
+            "name": "South Dakota",
+            "abbr": "SD",
+            "county": "Davison County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Kindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "2755",
+      "fte": "185.98",
+      "pupilTeacherRatio": "14.81",
+      "numberOfSchools": "9"
+   },
+   {
+      "name": "Mobridge-Pollock 62-6",
+      "location": {
+         "state": {
+            "name": "South Dakota",
+            "abbr": "SD",
+            "county": "Walworth County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Kindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "604",
+      "fte": "42.26",
+      "pupilTeacherRatio": "14.29",
+      "numberOfSchools": "4"
+   },
+   {
+      "name": "Montrose School District 43-2",
+      "location": {
+         "state": {
+            "name": "South Dakota",
+            "abbr": "SD",
+            "county": "McCook County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "250",
+      "fte": "21.46",
+      "pupilTeacherRatio": "11.65",
+      "numberOfSchools": "4"
+   },
+   {
+      "name": "Mount Vernon School District 17-3",
+      "location": {
+         "state": {
+            "name": "South Dakota",
+            "abbr": "SD",
+            "county": "Davison County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "247",
+      "fte": "21.19",
+      "pupilTeacherRatio": "11.66",
+      "numberOfSchools": "3"
+   },
+   {
+      "name": "Ne Ed Services Cooperative",
+      "location": {
+         "state": {
+            "name": "South Dakota",
+            "abbr": "SD",
+            "county": "Hamlin County"
+         }
+      },
+      "type": "4-Regional Education Service Agency (RESA)",
+      "grades": {
+         "lowest": "†",
+         "highest": "†"
+      },
+      "students": "†",
+      "fte": "0",
+      "pupilTeacherRatio": "–",
+      "numberOfSchools": "0"
+   },
+   {
+      "name": "New Underwood School District 51-3",
+      "location": {
+         "state": {
+            "name": "South Dakota",
+            "abbr": "SD",
+            "county": "Pennington County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Kindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "248",
+      "fte": "17.2",
+      "pupilTeacherRatio": "14.42",
+      "numberOfSchools": "3"
+   },
+   {
+      "name": "Newell School District 09-2",
+      "location": {
+         "state": {
+            "name": "South Dakota",
+            "abbr": "SD",
+            "county": "Butte County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "278",
+      "fte": "27.39",
+      "pupilTeacherRatio": "10.15",
+      "numberOfSchools": "3"
+   },
+   {
+      "name": "North Central Special Ed Cooperative",
+      "location": {
+         "state": {
+            "name": "South Dakota",
+            "abbr": "SD",
+            "county": "Brown County"
+         }
+      },
+      "type": "4-Regional Education Service Agency (RESA)",
+      "grades": {
+         "lowest": "†",
+         "highest": "†"
+      },
+      "students": "†",
+      "fte": "0",
+      "pupilTeacherRatio": "–",
+      "numberOfSchools": "0"
+   },
+   {
+      "name": "Northeast Technical High School",
+      "location": {
+         "state": {
+            "name": "South Dakota",
+            "abbr": "SD",
+            "county": "Codington County"
+         }
+      },
+      "type": "4-Regional Education Service Agency (RESA)",
+      "grades": {
+         "lowest": "9th Grade",
+         "highest": "12th Grade"
+      },
+      "students": "0",
+      "fte": "0",
+      "pupilTeacherRatio": "†",
+      "numberOfSchools": "0"
+   },
+   {
+      "name": "Northwest Area Schools Ed Cooperative",
+      "location": {
+         "state": {
+            "name": "South Dakota",
+            "abbr": "SD",
+            "county": "Dewey County"
+         }
+      },
+      "type": "4-Regional Education Service Agency (RESA)",
+      "grades": {
+         "lowest": "Kindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "0",
+      "fte": "0.03",
+      "pupilTeacherRatio": "0",
+      "numberOfSchools": "0"
+   },
+   {
+      "name": "Northwestern Area School District 56-7",
+      "location": {
+         "state": {
+            "name": "South Dakota",
+            "abbr": "SD",
+            "county": "Spink County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "307",
+      "fte": "21.57",
+      "pupilTeacherRatio": "14.23",
+      "numberOfSchools": "4"
+   },
+   {
+      "name": "Oahe Special Education Cooperative",
+      "location": {
+         "state": {
+            "name": "South Dakota",
+            "abbr": "SD",
+            "county": "Walworth County"
+         }
+      },
+      "type": "4-Regional Education Service Agency (RESA)",
+      "grades": {
+         "lowest": "†",
+         "highest": "†"
+      },
+      "students": "†",
+      "fte": "0",
+      "pupilTeacherRatio": "–",
+      "numberOfSchools": "0"
+   },
+   {
+      "name": "Oelrichs School District 23-3",
+      "location": {
+         "state": {
+            "name": "South Dakota",
+            "abbr": "SD",
+            "county": "Fall River County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "128",
+      "fte": "15.95",
+      "pupilTeacherRatio": "8.03",
+      "numberOfSchools": "3"
+   },
+   {
+      "name": "Oglala Lakota County 65-1",
+      "location": {
+         "state": {
+            "name": "South Dakota",
+            "abbr": "SD",
+            "county": "Oglala Lakota County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "1335",
+      "fte": "100.38",
+      "pupilTeacherRatio": "13.3",
+      "numberOfSchools": "5"
+   },
+   {
+      "name": "Oldham - Ramona School District 39-5",
+      "location": {
+         "state": {
+            "name": "South Dakota",
+            "abbr": "SD",
+            "county": "Lake County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "180",
+      "fte": "19.04",
+      "pupilTeacherRatio": "9.45",
+      "numberOfSchools": "5"
+   },
+   {
+      "name": "Parker School District 60-4",
+      "location": {
+         "state": {
+            "name": "South Dakota",
+            "abbr": "SD",
+            "county": "Turner County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "473",
+      "fte": "33.44",
+      "pupilTeacherRatio": "14.14",
+      "numberOfSchools": "3"
+   },
+   {
+      "name": "Parkston School District 33-3",
+      "location": {
+         "state": {
+            "name": "South Dakota",
+            "abbr": "SD",
+            "county": "Hutchinson County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "579",
+      "fte": "45.56",
+      "pupilTeacherRatio": "12.71",
+      "numberOfSchools": "7"
+   },
+   {
+      "name": "Pierre School District 32-2",
+      "location": {
+         "state": {
+            "name": "South Dakota",
+            "abbr": "SD",
+            "county": "Hughes County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Kindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "2779",
+      "fte": "168.07",
+      "pupilTeacherRatio": "16.53",
+      "numberOfSchools": "5"
+   },
+   {
+      "name": "Plankinton School District 01-1",
+      "location": {
+         "state": {
+            "name": "South Dakota",
+            "abbr": "SD",
+            "county": "Aurora County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "333",
+      "fte": "32.99",
+      "pupilTeacherRatio": "10.09",
+      "numberOfSchools": "5"
+   },
+   {
+      "name": "Platte - Geddes School District 11-5",
+      "location": {
+         "state": {
+            "name": "South Dakota",
+            "abbr": "SD",
+            "county": "Charles Mix County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Kindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "501",
+      "fte": "42.79",
+      "pupilTeacherRatio": "11.71",
+      "numberOfSchools": "5"
+   },
+   {
+      "name": "Prairie Lakes Educational Cooperative",
+      "location": {
+         "state": {
+            "name": "South Dakota",
+            "abbr": "SD",
+            "county": "Lake County"
+         }
+      },
+      "type": "4-Regional Education Service Agency (RESA)",
+      "grades": {
+         "lowest": "†",
+         "highest": "†"
+      },
+      "students": "†",
+      "fte": "0",
+      "pupilTeacherRatio": "–",
+      "numberOfSchools": "0"
+   },
+   {
+      "name": "Rapid City Area School District 51-4",
+      "location": {
+         "state": {
+            "name": "South Dakota",
+            "abbr": "SD",
+            "county": "Pennington County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "13620",
+      "fte": "839.49",
+      "pupilTeacherRatio": "16.22",
+      "numberOfSchools": "25"
+   },
+   {
+      "name": "Redfield School District 56-4",
+      "location": {
+         "state": {
+            "name": "South Dakota",
+            "abbr": "SD",
+            "county": "Spink County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "625",
+      "fte": "46.3",
+      "pupilTeacherRatio": "13.5",
+      "numberOfSchools": "5"
+   },
+   {
+      "name": "Rosholt School District 54-4",
+      "location": {
+         "state": {
+            "name": "South Dakota",
+            "abbr": "SD",
+            "county": "Roberts County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Kindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "243",
+      "fte": "22.29",
+      "pupilTeacherRatio": "10.9",
+      "numberOfSchools": "4"
+   },
+   {
+      "name": "Rutland School District 39-4",
+      "location": {
+         "state": {
+            "name": "South Dakota",
+            "abbr": "SD",
+            "county": "Lake County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "175",
+      "fte": "21.28",
+      "pupilTeacherRatio": "8.22",
+      "numberOfSchools": "4"
+   },
+   {
+      "name": "Sanborn Central School District 55-5",
+      "location": {
+         "state": {
+            "name": "South Dakota",
+            "abbr": "SD",
+            "county": "Sanborn County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "193",
+      "fte": "20.89",
+      "pupilTeacherRatio": "9.24",
+      "numberOfSchools": "4"
+   },
+   {
+      "name": "Scotland School District 04-3",
+      "location": {
+         "state": {
+            "name": "South Dakota",
+            "abbr": "SD",
+            "county": "Bon Homme County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "277",
+      "fte": "23.39",
+      "pupilTeacherRatio": "11.84",
+      "numberOfSchools": "3"
+   },
+   {
+      "name": "SD Sch for the Blind & Visually Impaired",
+      "location": {
+         "state": {
+            "name": "South Dakota",
+            "abbr": "SD",
+            "county": "Brown County"
+         }
+      },
+      "type": "5-State agency providing elementary and/or secondary level instruction",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "24",
+      "fte": "13.75",
+      "pupilTeacherRatio": "1.75",
+      "numberOfSchools": "2"
+   },
+   {
+      "name": "Selby Area School District 62-5",
+      "location": {
+         "state": {
+            "name": "South Dakota",
+            "abbr": "SD",
+            "county": "Walworth County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "181",
+      "fte": "19.23",
+      "pupilTeacherRatio": "9.41",
+      "numberOfSchools": "3"
+   },
+   {
+      "name": "Sioux Falls School District 49-5",
+      "location": {
+         "state": {
+            "name": "South Dakota",
+            "abbr": "SD",
+            "county": "Minnehaha County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "25196",
+      "fte": "1591.02",
+      "pupilTeacherRatio": "15.84",
+      "numberOfSchools": "44"
+   },
+   {
+      "name": "Sioux Valley School District 05-5",
+      "location": {
+         "state": {
+            "name": "South Dakota",
+            "abbr": "SD",
+            "county": "Brookings County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Kindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "671",
+      "fte": "43.88",
+      "pupilTeacherRatio": "15.29",
+      "numberOfSchools": "3"
+   },
+   {
+      "name": "Sisseton School District 54-2",
+      "location": {
+         "state": {
+            "name": "South Dakota",
+            "abbr": "SD",
+            "county": "Roberts County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "973",
+      "fte": "73.79",
+      "pupilTeacherRatio": "13.19",
+      "numberOfSchools": "3"
+   },
+   {
+      "name": "Smee School District 15-3",
+      "location": {
+         "state": {
+            "name": "South Dakota",
+            "abbr": "SD",
+            "county": "Corson County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Kindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "196",
+      "fte": "22.72",
+      "pupilTeacherRatio": "8.63",
+      "numberOfSchools": "3"
+   },
+   {
+      "name": "South Central 26-5",
+      "location": {
+         "state": {
+            "name": "South Dakota",
+            "abbr": "SD",
+            "county": "Gregory County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "84",
+      "fte": "7.2",
+      "pupilTeacherRatio": "11.67",
+      "numberOfSchools": "2"
+   },
+   {
+      "name": "South Central Cooperative",
+      "location": {
+         "state": {
+            "name": "South Dakota",
+            "abbr": "SD",
+            "county": "Bon Homme County"
+         }
+      },
+      "type": "4-Regional Education Service Agency (RESA)",
+      "grades": {
+         "lowest": "†",
+         "highest": "†"
+      },
+      "students": "†",
+      "fte": "0",
+      "pupilTeacherRatio": "–",
+      "numberOfSchools": "0"
+   },
+   {
+      "name": "Southeast Area Cooperative",
+      "location": {
+         "state": {
+            "name": "South Dakota",
+            "abbr": "SD",
+            "county": "Union County"
+         }
+      },
+      "type": "4-Regional Education Service Agency (RESA)",
+      "grades": {
+         "lowest": "9th Grade",
+         "highest": "12th Grade"
+      },
+      "students": "0",
+      "fte": "0",
+      "pupilTeacherRatio": "†",
+      "numberOfSchools": "0"
+   },
+   {
+      "name": "Spearfish School District 40-2",
+      "location": {
+         "state": {
+            "name": "South Dakota",
+            "abbr": "SD",
+            "county": "Lawrence County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Kindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "2381",
+      "fte": "163.11",
+      "pupilTeacherRatio": "14.6",
+      "numberOfSchools": "8"
+   },
+   {
+      "name": "Stanley County School District 57-1",
+      "location": {
+         "state": {
+            "name": "South Dakota",
+            "abbr": "SD",
+            "county": "Stanley County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Kindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "406",
+      "fte": "37.33",
+      "pupilTeacherRatio": "10.88",
+      "numberOfSchools": "4"
+   },
+   {
+      "name": "Summit School District 54-6",
+      "location": {
+         "state": {
+            "name": "South Dakota",
+            "abbr": "SD",
+            "county": "Roberts County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "188",
+      "fte": "16.5",
+      "pupilTeacherRatio": "11.39",
+      "numberOfSchools": "2"
+   },
+   {
+      "name": "Tea Area School District 41-5",
+      "location": {
+         "state": {
+            "name": "South Dakota",
+            "abbr": "SD",
+            "county": "Lincoln County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Kindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "1962",
+      "fte": "121.04",
+      "pupilTeacherRatio": "16.21",
+      "numberOfSchools": "5"
+   },
+   {
+      "name": "Three-Rivers Special Serv Cooperative",
+      "location": {
+         "state": {
+            "name": "South Dakota",
+            "abbr": "SD",
+            "county": "Haakon County"
+         }
+      },
+      "type": "4-Regional Education Service Agency (RESA)",
+      "grades": {
+         "lowest": "†",
+         "highest": "†"
+      },
+      "students": "†",
+      "fte": "0",
+      "pupilTeacherRatio": "–",
+      "numberOfSchools": "0"
+   },
+   {
+      "name": "Timber Lake School District 20-3",
+      "location": {
+         "state": {
+            "name": "South Dakota",
+            "abbr": "SD",
+            "county": "Dewey County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "363",
+      "fte": "35.79",
+      "pupilTeacherRatio": "10.14",
+      "numberOfSchools": "3"
+   },
+   {
+      "name": "Todd County School District 66-1",
+      "location": {
+         "state": {
+            "name": "South Dakota",
+            "abbr": "SD",
+            "county": "Todd County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Kindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "2135",
+      "fte": "170.05",
+      "pupilTeacherRatio": "12.56",
+      "numberOfSchools": "13"
+   },
+   {
+      "name": "Tri-Valley School District 49-6",
+      "location": {
+         "state": {
+            "name": "South Dakota",
+            "abbr": "SD",
+            "county": "Minnehaha County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Kindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "961",
+      "fte": "65",
+      "pupilTeacherRatio": "14.78",
+      "numberOfSchools": "3"
+   },
+   {
+      "name": "Tripp-Delmont School District 33-5",
+      "location": {
+         "state": {
+            "name": "South Dakota",
+            "abbr": "SD",
+            "county": "Hutchinson County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "148",
+      "fte": "21.97",
+      "pupilTeacherRatio": "6.74",
+      "numberOfSchools": "5"
+   },
+   {
+      "name": "Vermillion School District 13-1",
+      "location": {
+         "state": {
+            "name": "South Dakota",
+            "abbr": "SD",
+            "county": "Clay County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "1305",
+      "fte": "91.3",
+      "pupilTeacherRatio": "14.29",
+      "numberOfSchools": "4"
+   },
+   {
+      "name": "Viborg-Hurley School District 60-6",
+      "location": {
+         "state": {
+            "name": "South Dakota",
+            "abbr": "SD",
+            "county": "Turner County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "376",
+      "fte": "28.87",
+      "pupilTeacherRatio": "13.02",
+      "numberOfSchools": "4"
+   },
+   {
+      "name": "Wagner Community School District 11-4",
+      "location": {
+         "state": {
+            "name": "South Dakota",
+            "abbr": "SD",
+            "county": "Charles Mix County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "937",
+      "fte": "74.05",
+      "pupilTeacherRatio": "12.65",
+      "numberOfSchools": "4"
+   },
+   {
+      "name": "Wall School District 51-5",
+      "location": {
+         "state": {
+            "name": "South Dakota",
+            "abbr": "SD",
+            "county": "Pennington County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Kindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "283",
+      "fte": "22.87",
+      "pupilTeacherRatio": "12.37",
+      "numberOfSchools": "4"
+   },
+   {
+      "name": "Warner School District 06-5",
+      "location": {
+         "state": {
+            "name": "South Dakota",
+            "abbr": "SD",
+            "county": "Brown County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Kindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "312",
+      "fte": "21.24",
+      "pupilTeacherRatio": "14.69",
+      "numberOfSchools": "3"
+   },
+   {
+      "name": "Watertown School District 14-4",
+      "location": {
+         "state": {
+            "name": "South Dakota",
+            "abbr": "SD",
+            "county": "Codington County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "3916",
+      "fte": "254.12",
+      "pupilTeacherRatio": "15.41",
+      "numberOfSchools": "8"
+   },
+   {
+      "name": "Waubay School District 18-3",
+      "location": {
+         "state": {
+            "name": "South Dakota",
+            "abbr": "SD",
+            "county": "Day County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "185",
+      "fte": "19.52",
+      "pupilTeacherRatio": "9.48",
+      "numberOfSchools": "3"
+   },
+   {
+      "name": "Waverly School District 14-5",
+      "location": {
+         "state": {
+            "name": "South Dakota",
+            "abbr": "SD",
+            "county": "Codington County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "278",
+      "fte": "21.81",
+      "pupilTeacherRatio": "12.75",
+      "numberOfSchools": "3"
+   },
+   {
+      "name": "Webster Area 18-5",
+      "location": {
+         "state": {
+            "name": "South Dakota",
+            "abbr": "SD",
+            "county": "Day County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "556",
+      "fte": "38.5",
+      "pupilTeacherRatio": "14.44",
+      "numberOfSchools": "3"
+   },
+   {
+      "name": "Wessington Springs School District 36-2",
+      "location": {
+         "state": {
+            "name": "South Dakota",
+            "abbr": "SD",
+            "county": "Jerauld County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "340",
+      "fte": "27.77",
+      "pupilTeacherRatio": "12.24",
+      "numberOfSchools": "7"
+   },
+   {
+      "name": "West Central School District 49-7",
+      "location": {
+         "state": {
+            "name": "South Dakota",
+            "abbr": "SD",
+            "county": "Minnehaha County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Kindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "1379",
+      "fte": "90.22",
+      "pupilTeacherRatio": "15.28",
+      "numberOfSchools": "6"
+   },
+   {
+      "name": "White Lake School District 01-3",
+      "location": {
+         "state": {
+            "name": "South Dakota",
+            "abbr": "SD",
+            "county": "Aurora County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "136",
+      "fte": "13.41",
+      "pupilTeacherRatio": "10.14",
+      "numberOfSchools": "3"
+   },
+   {
+      "name": "White River School District 47-1",
+      "location": {
+         "state": {
+            "name": "South Dakota",
+            "abbr": "SD",
+            "county": "Mellette County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "403",
+      "fte": "45.39",
+      "pupilTeacherRatio": "8.88",
+      "numberOfSchools": "4"
+   },
+   {
+      "name": "Willow Lake School District 12-3",
+      "location": {
+         "state": {
+            "name": "South Dakota",
+            "abbr": "SD",
+            "county": "Clark County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "289",
+      "fte": "23.23",
+      "pupilTeacherRatio": "12.44",
+      "numberOfSchools": "6"
+   },
+   {
+      "name": "Wilmot School District 54-7",
+      "location": {
+         "state": {
+            "name": "South Dakota",
+            "abbr": "SD",
+            "county": "Roberts County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "241",
+      "fte": "19.24",
+      "pupilTeacherRatio": "12.53",
+      "numberOfSchools": "3"
+   },
+   {
+      "name": "Winner School District 59-2",
+      "location": {
+         "state": {
+            "name": "South Dakota",
+            "abbr": "SD",
+            "county": "Tripp County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Kindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "704",
+      "fte": "52.71",
+      "pupilTeacherRatio": "13.36",
+      "numberOfSchools": "3"
+   },
+   {
+      "name": "Wolsey Wessington School District 02-6",
+      "location": {
+         "state": {
+            "name": "South Dakota",
+            "abbr": "SD",
+            "county": "Beadle County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "384",
+      "fte": "27.74",
+      "pupilTeacherRatio": "13.84",
+      "numberOfSchools": "3"
+   },
+   {
+      "name": "Woonsocket School District 55-4",
+      "location": {
+         "state": {
+            "name": "South Dakota",
+            "abbr": "SD",
+            "county": "Sanborn County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "269",
+      "fte": "21.89",
+      "pupilTeacherRatio": "12.29",
+      "numberOfSchools": "2"
+   },
+   {
+      "name": "Yankton School District 63-3",
+      "location": {
+         "state": {
+            "name": "South Dakota",
+            "abbr": "SD",
+            "county": "Yankton County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "2932",
+      "fte": "169.57",
+      "pupilTeacherRatio": "17.29",
+      "numberOfSchools": "6"
+   }
+]

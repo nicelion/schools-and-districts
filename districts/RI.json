@@ -1,0 +1,1218 @@
+[
+   {
+      "name": "Achievement First Rhode Island",
+      "location": {
+         "state": {
+            "name": "Rhode Island",
+            "abbr": "RI",
+            "county": "Providence County"
+         }
+      },
+      "type": "7-Independent Charter District",
+      "grades": {
+         "lowest": "Kindergarten",
+         "highest": "7th Grade"
+      },
+      "students": "1357",
+      "fte": "65",
+      "pupilTeacherRatio": "20.88",
+      "numberOfSchools": "4"
+   },
+   {
+      "name": "Barrington",
+      "location": {
+         "state": {
+            "name": "Rhode Island",
+            "abbr": "RI",
+            "county": "Bristol County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "3397",
+      "fte": "227.77",
+      "pupilTeacherRatio": "14.91",
+      "numberOfSchools": "6"
+   },
+   {
+      "name": "Beacon Charter School",
+      "location": {
+         "state": {
+            "name": "Rhode Island",
+            "abbr": "RI",
+            "county": "Providence County"
+         }
+      },
+      "type": "7-Independent Charter District",
+      "grades": {
+         "lowest": "6th Grade",
+         "highest": "12th Grade"
+      },
+      "students": "379",
+      "fte": "32.5",
+      "pupilTeacherRatio": "11.66",
+      "numberOfSchools": "2"
+   },
+   {
+      "name": "Blackstone Academy",
+      "location": {
+         "state": {
+            "name": "Rhode Island",
+            "abbr": "RI",
+            "county": "Providence County"
+         }
+      },
+      "type": "7-Independent Charter District",
+      "grades": {
+         "lowest": "9th Grade",
+         "highest": "12th Grade"
+      },
+      "students": "355",
+      "fte": "26.25",
+      "pupilTeacherRatio": "13.52",
+      "numberOfSchools": "1"
+   },
+   {
+      "name": "Blackstone Valley Prep  a Ri Mayoral Academy",
+      "location": {
+         "state": {
+            "name": "Rhode Island",
+            "abbr": "RI",
+            "county": "Providence County"
+         }
+      },
+      "type": "7-Independent Charter District",
+      "grades": {
+         "lowest": "Kindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "2053",
+      "fte": "175.2",
+      "pupilTeacherRatio": "11.72",
+      "numberOfSchools": "6"
+   },
+   {
+      "name": "Bristol Warren",
+      "location": {
+         "state": {
+            "name": "Rhode Island",
+            "abbr": "RI",
+            "county": "Bristol County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "3173",
+      "fte": "223.4",
+      "pupilTeacherRatio": "14.2",
+      "numberOfSchools": "6"
+   },
+   {
+      "name": "Burrillville",
+      "location": {
+         "state": {
+            "name": "Rhode Island",
+            "abbr": "RI",
+            "county": "Providence County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "2247",
+      "fte": "164.6",
+      "pupilTeacherRatio": "13.65",
+      "numberOfSchools": "5"
+   },
+   {
+      "name": "Central Falls",
+      "location": {
+         "state": {
+            "name": "Rhode Island",
+            "abbr": "RI",
+            "county": "Providence County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "2878",
+      "fte": "200.8",
+      "pupilTeacherRatio": "14.33",
+      "numberOfSchools": "6"
+   },
+   {
+      "name": "Charette Charter",
+      "location": {
+         "state": {
+            "name": "RHODE ISLAND",
+            "abbr": "RI",
+            "county": "Providence County"
+         }
+      },
+      "type": "7-Independent Charter District",
+      "grades": {
+         "lowest": "9th Grade",
+         "highest": "11th Grade"
+      },
+      "students": "128",
+      "fte": "7",
+      "pupilTeacherRatio": "18.29",
+      "numberOfSchools": "1"
+   },
+   {
+      "name": "Chariho",
+      "location": {
+         "state": {
+            "name": "Rhode Island",
+            "abbr": "RI",
+            "county": "Washington County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "3238",
+      "fte": "266.5",
+      "pupilTeacherRatio": "12.15",
+      "numberOfSchools": "8"
+   },
+   {
+      "name": "Coventry",
+      "location": {
+         "state": {
+            "name": "Rhode Island",
+            "abbr": "RI",
+            "county": "Kent County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "4548",
+      "fte": "354.44",
+      "pupilTeacherRatio": "12.83",
+      "numberOfSchools": "8"
+   },
+   {
+      "name": "Cranston",
+      "location": {
+         "state": {
+            "name": "Rhode Island",
+            "abbr": "RI",
+            "county": "Providence County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "10475",
+      "fte": "811.28",
+      "pupilTeacherRatio": "12.91",
+      "numberOfSchools": "24"
+   },
+   {
+      "name": "Cumberland",
+      "location": {
+         "state": {
+            "name": "Rhode Island",
+            "abbr": "RI",
+            "county": "Providence County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "4668",
+      "fte": "347.45",
+      "pupilTeacherRatio": "13.44",
+      "numberOfSchools": "9"
+   },
+   {
+      "name": "Davies Career and Tech",
+      "location": {
+         "state": {
+            "name": "Rhode Island",
+            "abbr": "RI",
+            "county": "Providence County"
+         }
+      },
+      "type": "5-State agency providing elementary and/or secondary level instruction",
+      "grades": {
+         "lowest": "9th Grade",
+         "highest": "12th Grade"
+      },
+      "students": "894",
+      "fte": "71.68",
+      "pupilTeacherRatio": "12.47",
+      "numberOfSchools": "1"
+   },
+   {
+      "name": "Dcyf",
+      "location": {
+         "state": {
+            "name": "Rhode Island",
+            "abbr": "RI",
+            "county": "Providence County"
+         }
+      },
+      "type": "5-State agency providing elementary and/or secondary level instruction",
+      "grades": {
+         "lowest": "10th Grade",
+         "highest": "12th Grade"
+      },
+      "students": "31",
+      "fte": "14",
+      "pupilTeacherRatio": "2.21",
+      "numberOfSchools": "1"
+   },
+   {
+      "name": "East Bay Educational Collaborative",
+      "location": {
+         "state": {
+            "name": "Rhode Island",
+            "abbr": "RI",
+            "county": "Bristol County"
+         }
+      },
+      "type": "5-State agency providing elementary and/or secondary level instruction",
+      "grades": {
+         "lowest": "†",
+         "highest": "†"
+      },
+      "students": "†",
+      "fte": "0",
+      "pupilTeacherRatio": "–",
+      "numberOfSchools": "0"
+   },
+   {
+      "name": "East Greenwich",
+      "location": {
+         "state": {
+            "name": "Rhode Island",
+            "abbr": "RI",
+            "county": "Kent County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "2595",
+      "fte": "178",
+      "pupilTeacherRatio": "14.58",
+      "numberOfSchools": "6"
+   },
+   {
+      "name": "East Providence",
+      "location": {
+         "state": {
+            "name": "Rhode Island",
+            "abbr": "RI",
+            "county": "Providence County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "5251",
+      "fte": "399.9",
+      "pupilTeacherRatio": "13.13",
+      "numberOfSchools": "13"
+   },
+   {
+      "name": "Exeter-West Greenwich",
+      "location": {
+         "state": {
+            "name": "Rhode Island",
+            "abbr": "RI",
+            "county": "Kent County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "1663",
+      "fte": "132.15",
+      "pupilTeacherRatio": "12.58",
+      "numberOfSchools": "5"
+   },
+   {
+      "name": "Foster",
+      "location": {
+         "state": {
+            "name": "Rhode Island",
+            "abbr": "RI",
+            "county": "Providence County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "5th Grade"
+      },
+      "students": "239",
+      "fte": "21.3",
+      "pupilTeacherRatio": "11.22",
+      "numberOfSchools": "1"
+   },
+   {
+      "name": "Foster-Glocester",
+      "location": {
+         "state": {
+            "name": "Rhode Island",
+            "abbr": "RI",
+            "county": "Providence County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "6th Grade",
+         "highest": "12th Grade"
+      },
+      "students": "1355",
+      "fte": "108.6",
+      "pupilTeacherRatio": "12.48",
+      "numberOfSchools": "2"
+   },
+   {
+      "name": "Glocester",
+      "location": {
+         "state": {
+            "name": "Rhode Island",
+            "abbr": "RI",
+            "county": "Providence County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "5th Grade"
+      },
+      "students": "555",
+      "fte": "40.9",
+      "pupilTeacherRatio": "13.57",
+      "numberOfSchools": "2"
+   },
+   {
+      "name": "Highlander",
+      "location": {
+         "state": {
+            "name": "Rhode Island",
+            "abbr": "RI",
+            "county": "Providence County"
+         }
+      },
+      "type": "7-Independent Charter District",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "597",
+      "fte": "50.37",
+      "pupilTeacherRatio": "11.85",
+      "numberOfSchools": "2"
+   },
+   {
+      "name": "International Charter",
+      "location": {
+         "state": {
+            "name": "Rhode Island",
+            "abbr": "RI",
+            "county": "Providence County"
+         }
+      },
+      "type": "7-Independent Charter District",
+      "grades": {
+         "lowest": "Kindergarten",
+         "highest": "5th Grade"
+      },
+      "students": "380",
+      "fte": "19.16",
+      "pupilTeacherRatio": "19.83",
+      "numberOfSchools": "1"
+   },
+   {
+      "name": "Jamestown",
+      "location": {
+         "state": {
+            "name": "Rhode Island",
+            "abbr": "RI",
+            "county": "Newport County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "489",
+      "fte": "44.9",
+      "pupilTeacherRatio": "10.89",
+      "numberOfSchools": "2"
+   },
+   {
+      "name": "Johnston",
+      "location": {
+         "state": {
+            "name": "Rhode Island",
+            "abbr": "RI",
+            "county": "Providence County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "3258",
+      "fte": "252.56",
+      "pupilTeacherRatio": "12.9",
+      "numberOfSchools": "8"
+   },
+   {
+      "name": "Kingston Hill Academy",
+      "location": {
+         "state": {
+            "name": "Rhode Island",
+            "abbr": "RI",
+            "county": "Washington County"
+         }
+      },
+      "type": "7-Independent Charter District",
+      "grades": {
+         "lowest": "Kindergarten",
+         "highest": "5th Grade"
+      },
+      "students": "240",
+      "fte": "33",
+      "pupilTeacherRatio": "7.27",
+      "numberOfSchools": "1"
+   },
+   {
+      "name": "Learning Community",
+      "location": {
+         "state": {
+            "name": "Rhode Island",
+            "abbr": "RI",
+            "county": "Providence County"
+         }
+      },
+      "type": "7-Independent Charter District",
+      "grades": {
+         "lowest": "Kindergarten",
+         "highest": "8th Grade"
+      },
+      "students": "578",
+      "fte": "43",
+      "pupilTeacherRatio": "13.44",
+      "numberOfSchools": "1"
+   },
+   {
+      "name": "Lincoln",
+      "location": {
+         "state": {
+            "name": "Rhode Island",
+            "abbr": "RI",
+            "county": "Providence County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "3211",
+      "fte": "213.1",
+      "pupilTeacherRatio": "15.07",
+      "numberOfSchools": "6"
+   },
+   {
+      "name": "Little Compton",
+      "location": {
+         "state": {
+            "name": "Rhode Island",
+            "abbr": "RI",
+            "county": "Newport County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "8th Grade"
+      },
+      "students": "237",
+      "fte": "27.6",
+      "pupilTeacherRatio": "8.59",
+      "numberOfSchools": "1"
+   },
+   {
+      "name": "Met Career and Tech",
+      "location": {
+         "state": {
+            "name": "Rhode Island",
+            "abbr": "RI",
+            "county": "Providence County"
+         }
+      },
+      "type": "5-State agency providing elementary and/or secondary level instruction",
+      "grades": {
+         "lowest": "9th Grade",
+         "highest": "12th Grade"
+      },
+      "students": "785",
+      "fte": "63",
+      "pupilTeacherRatio": "12.46",
+      "numberOfSchools": "1"
+   },
+   {
+      "name": "Middletown",
+      "location": {
+         "state": {
+            "name": "Rhode Island",
+            "abbr": "RI",
+            "county": "Newport County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "2133",
+      "fte": "164.76",
+      "pupilTeacherRatio": "12.95",
+      "numberOfSchools": "5"
+   },
+   {
+      "name": "Narragansett",
+      "location": {
+         "state": {
+            "name": "Rhode Island",
+            "abbr": "RI",
+            "county": "Washington County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "1278",
+      "fte": "92.1",
+      "pupilTeacherRatio": "13.88",
+      "numberOfSchools": "3"
+   },
+   {
+      "name": "New Shoreham",
+      "location": {
+         "state": {
+            "name": "Rhode Island",
+            "abbr": "RI",
+            "county": "Washington County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Kindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "135",
+      "fte": "23",
+      "pupilTeacherRatio": "5.87",
+      "numberOfSchools": "1"
+   },
+   {
+      "name": "Newport",
+      "location": {
+         "state": {
+            "name": "Rhode Island",
+            "abbr": "RI",
+            "county": "Newport County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "2154",
+      "fte": "168.05",
+      "pupilTeacherRatio": "12.82",
+      "numberOfSchools": "5"
+   },
+   {
+      "name": "North Kingstown",
+      "location": {
+         "state": {
+            "name": "Rhode Island",
+            "abbr": "RI",
+            "county": "Washington County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "3992",
+      "fte": "303.54",
+      "pupilTeacherRatio": "13.15",
+      "numberOfSchools": "8"
+   },
+   {
+      "name": "North Providence",
+      "location": {
+         "state": {
+            "name": "Rhode Island",
+            "abbr": "RI",
+            "county": "Providence County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "3585",
+      "fte": "259.98",
+      "pupilTeacherRatio": "13.79",
+      "numberOfSchools": "8"
+   },
+   {
+      "name": "North Smithfield",
+      "location": {
+         "state": {
+            "name": "Rhode Island",
+            "abbr": "RI",
+            "county": "Providence County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "1666",
+      "fte": "123.55",
+      "pupilTeacherRatio": "13.48",
+      "numberOfSchools": "3"
+   },
+   {
+      "name": "Northern Ri Collaborative",
+      "location": {
+         "state": {
+            "name": "Rhode Island",
+            "abbr": "RI",
+            "county": "Providence County"
+         }
+      },
+      "type": "5-State agency providing elementary and/or secondary level instruction",
+      "grades": {
+         "lowest": "†",
+         "highest": "†"
+      },
+      "students": "†",
+      "fte": "17",
+      "pupilTeacherRatio": "–",
+      "numberOfSchools": "0"
+   },
+   {
+      "name": "Paul Cuffee Charter Sch",
+      "location": {
+         "state": {
+            "name": "Rhode Island",
+            "abbr": "RI",
+            "county": "Providence County"
+         }
+      },
+      "type": "7-Independent Charter District",
+      "grades": {
+         "lowest": "Kindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "817",
+      "fte": "69.7",
+      "pupilTeacherRatio": "11.72",
+      "numberOfSchools": "3"
+   },
+   {
+      "name": "Pawtucket",
+      "location": {
+         "state": {
+            "name": "Rhode Island",
+            "abbr": "RI",
+            "county": "Providence County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "8784",
+      "fte": "609.35",
+      "pupilTeacherRatio": "14.42",
+      "numberOfSchools": "16"
+   },
+   {
+      "name": "Portsmouth",
+      "location": {
+         "state": {
+            "name": "Rhode Island",
+            "abbr": "RI",
+            "county": "Newport County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "2426",
+      "fte": "181.6",
+      "pupilTeacherRatio": "13.36",
+      "numberOfSchools": "4"
+   },
+   {
+      "name": "Providence",
+      "location": {
+         "state": {
+            "name": "Rhode Island",
+            "abbr": "RI",
+            "county": "Providence County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "23836",
+      "fte": "1614.82",
+      "pupilTeacherRatio": "14.76",
+      "numberOfSchools": "43"
+   },
+   {
+      "name": "R.i. Sch for the Deaf",
+      "location": {
+         "state": {
+            "name": "Rhode Island",
+            "abbr": "RI",
+            "county": "Providence County"
+         }
+      },
+      "type": "5-State agency providing elementary and/or secondary level instruction",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "76",
+      "fte": "21.45",
+      "pupilTeacherRatio": "3.54",
+      "numberOfSchools": "1"
+   },
+   {
+      "name": "Rhode Island Nurses Institute Middle College",
+      "location": {
+         "state": {
+            "name": "Rhode Island",
+            "abbr": "RI",
+            "county": "Providence County"
+         }
+      },
+      "type": "7-Independent Charter District",
+      "grades": {
+         "lowest": "9th Grade",
+         "highest": "12th Grade"
+      },
+      "students": "271",
+      "fte": "21",
+      "pupilTeacherRatio": "12.9",
+      "numberOfSchools": "1"
+   },
+   {
+      "name": "Rise Prep Mayoral Academy",
+      "location": {
+         "state": {
+            "name": "RHODE ISLAND",
+            "abbr": "RI",
+            "county": "Providence County"
+         }
+      },
+      "type": "7-Independent Charter District",
+      "grades": {
+         "lowest": "Kindergarten",
+         "highest": "4th Grade"
+      },
+      "students": "277",
+      "fte": "18",
+      "pupilTeacherRatio": "15.39",
+      "numberOfSchools": "1"
+   },
+   {
+      "name": "Scituate",
+      "location": {
+         "state": {
+            "name": "Rhode Island",
+            "abbr": "RI",
+            "county": "Providence County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "1226",
+      "fte": "99.88",
+      "pupilTeacherRatio": "12.27",
+      "numberOfSchools": "5"
+   },
+   {
+      "name": "Segue Institute for Learning",
+      "location": {
+         "state": {
+            "name": "Rhode Island",
+            "abbr": "RI",
+            "county": "Providence County"
+         }
+      },
+      "type": "7-Independent Charter District",
+      "grades": {
+         "lowest": "4th Grade",
+         "highest": "8th Grade"
+      },
+      "students": "236",
+      "fte": "22.5",
+      "pupilTeacherRatio": "10.49",
+      "numberOfSchools": "1"
+   },
+   {
+      "name": "Sheila Skip Nowell Leadership Academy",
+      "location": {
+         "state": {
+            "name": "Rhode Island",
+            "abbr": "RI",
+            "county": "Providence County"
+         }
+      },
+      "type": "7-Independent Charter District",
+      "grades": {
+         "lowest": "9th Grade",
+         "highest": "12th Grade"
+      },
+      "students": "159",
+      "fte": "8",
+      "pupilTeacherRatio": "19.88",
+      "numberOfSchools": "2"
+   },
+   {
+      "name": "Smithfield",
+      "location": {
+         "state": {
+            "name": "Rhode Island",
+            "abbr": "RI",
+            "county": "Providence County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "2382",
+      "fte": "194.73",
+      "pupilTeacherRatio": "12.23",
+      "numberOfSchools": "6"
+   },
+   {
+      "name": "South Kingstown",
+      "location": {
+         "state": {
+            "name": "Rhode Island",
+            "abbr": "RI",
+            "county": "Washington County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "2882",
+      "fte": "224.9",
+      "pupilTeacherRatio": "12.81",
+      "numberOfSchools": "7"
+   },
+   {
+      "name": "Southside Charter School",
+      "location": {
+         "state": {
+            "name": "RHODE ISLAND",
+            "abbr": "RI",
+            "county": "Providence County"
+         }
+      },
+      "type": "7-Independent Charter District",
+      "grades": {
+         "lowest": "Kindergarten",
+         "highest": "5th Grade"
+      },
+      "students": "143",
+      "fte": "7.2",
+      "pupilTeacherRatio": "19.86",
+      "numberOfSchools": "1"
+   },
+   {
+      "name": "The Compass School",
+      "location": {
+         "state": {
+            "name": "Rhode Island",
+            "abbr": "RI",
+            "county": "Washington County"
+         }
+      },
+      "type": "7-Independent Charter District",
+      "grades": {
+         "lowest": "Kindergarten",
+         "highest": "8th Grade"
+      },
+      "students": "197",
+      "fte": "12",
+      "pupilTeacherRatio": "16.42",
+      "numberOfSchools": "1"
+   },
+   {
+      "name": "The Greene School",
+      "location": {
+         "state": {
+            "name": "Rhode Island",
+            "abbr": "RI",
+            "county": "Kent County"
+         }
+      },
+      "type": "7-Independent Charter District",
+      "grades": {
+         "lowest": "9th Grade",
+         "highest": "12th Grade"
+      },
+      "students": "202",
+      "fte": "11.1",
+      "pupilTeacherRatio": "18.2",
+      "numberOfSchools": "1"
+   },
+   {
+      "name": "The Hope Academy",
+      "location": {
+         "state": {
+            "name": "RHODE ISLAND",
+            "abbr": "RI",
+            "county": "Providence County"
+         }
+      },
+      "type": "7-Independent Charter District",
+      "grades": {
+         "lowest": "Kindergarten",
+         "highest": "5th Grade"
+      },
+      "students": "209",
+      "fte": "21.13",
+      "pupilTeacherRatio": "9.89",
+      "numberOfSchools": "1"
+   },
+   {
+      "name": "Tiverton",
+      "location": {
+         "state": {
+            "name": "Rhode Island",
+            "abbr": "RI",
+            "county": "Newport County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "1759",
+      "fte": "155.59",
+      "pupilTeacherRatio": "11.31",
+      "numberOfSchools": "5"
+   },
+   {
+      "name": "Trinity Academy for the Performing Arts",
+      "location": {
+         "state": {
+            "name": "Rhode Island",
+            "abbr": "RI",
+            "county": "Providence County"
+         }
+      },
+      "type": "7-Independent Charter District",
+      "grades": {
+         "lowest": "7th Grade",
+         "highest": "12th Grade"
+      },
+      "students": "211",
+      "fte": "20",
+      "pupilTeacherRatio": "10.55",
+      "numberOfSchools": "1"
+   },
+   {
+      "name": "Urban Collaborative",
+      "location": {
+         "state": {
+            "name": "Rhode Island",
+            "abbr": "RI",
+            "county": "Providence County"
+         }
+      },
+      "type": "5-State agency providing elementary and/or secondary level instruction",
+      "grades": {
+         "lowest": "7th Grade",
+         "highest": "8th Grade"
+      },
+      "students": "128",
+      "fte": "13.2",
+      "pupilTeacherRatio": "9.7",
+      "numberOfSchools": "1"
+   },
+   {
+      "name": "Village Green Virtual",
+      "location": {
+         "state": {
+            "name": "Rhode Island",
+            "abbr": "RI",
+            "county": "Providence County"
+         }
+      },
+      "type": "7-Independent Charter District",
+      "grades": {
+         "lowest": "9th Grade",
+         "highest": "12th Grade"
+      },
+      "students": "225",
+      "fte": "16.8",
+      "pupilTeacherRatio": "13.39",
+      "numberOfSchools": "1"
+   },
+   {
+      "name": "Warwick",
+      "location": {
+         "state": {
+            "name": "Rhode Island",
+            "abbr": "RI",
+            "county": "Kent County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "8610",
+      "fte": "674.6",
+      "pupilTeacherRatio": "12.76",
+      "numberOfSchools": "19"
+   },
+   {
+      "name": "West Bay Collaborative",
+      "location": {
+         "state": {
+            "name": "Rhode Island",
+            "abbr": "RI",
+            "county": "Kent County"
+         }
+      },
+      "type": "5-State agency providing elementary and/or secondary level instruction",
+      "grades": {
+         "lowest": "†",
+         "highest": "†"
+      },
+      "students": "†",
+      "fte": "8",
+      "pupilTeacherRatio": "–",
+      "numberOfSchools": "0"
+   },
+   {
+      "name": "West Warwick",
+      "location": {
+         "state": {
+            "name": "Rhode Island",
+            "abbr": "RI",
+            "county": "Kent County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "3629",
+      "fte": "271.3",
+      "pupilTeacherRatio": "13.38",
+      "numberOfSchools": "6"
+   },
+   {
+      "name": "Westerly",
+      "location": {
+         "state": {
+            "name": "Rhode Island",
+            "abbr": "RI",
+            "county": "Washington County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "2648",
+      "fte": "219.6",
+      "pupilTeacherRatio": "12.06",
+      "numberOfSchools": "6"
+   },
+   {
+      "name": "Woonsocket",
+      "location": {
+         "state": {
+            "name": "Rhode Island",
+            "abbr": "RI",
+            "county": "Providence County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "6027",
+      "fte": "408.8",
+      "pupilTeacherRatio": "14.74",
+      "numberOfSchools": "10"
+   }
+]

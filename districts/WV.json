@@ -1,0 +1,1142 @@
+[
+   {
+      "name": "Barbour County Board of Education",
+      "location": {
+         "state": {
+            "name": "West Virginia",
+            "abbr": "WV",
+            "county": "Barbour County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "2266",
+      "fte": "162.01",
+      "pupilTeacherRatio": "13.99",
+      "numberOfSchools": "7"
+   },
+   {
+      "name": "Berkeley County Schools",
+      "location": {
+         "state": {
+            "name": "West Virginia",
+            "abbr": "WV",
+            "county": "Berkeley County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "19700",
+      "fte": "1260.8",
+      "pupilTeacherRatio": "15.63",
+      "numberOfSchools": "33"
+   },
+   {
+      "name": "Boone County  Schools",
+      "location": {
+         "state": {
+            "name": "West Virginia",
+            "abbr": "WV",
+            "county": "Boone County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "3674",
+      "fte": "279",
+      "pupilTeacherRatio": "13.17",
+      "numberOfSchools": "13"
+   },
+   {
+      "name": "Braxton County Schools",
+      "location": {
+         "state": {
+            "name": "West Virginia",
+            "abbr": "WV",
+            "county": "Braxton County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "1935",
+      "fte": "135",
+      "pupilTeacherRatio": "14.33",
+      "numberOfSchools": "8"
+   },
+   {
+      "name": "Brooke County Schools",
+      "location": {
+         "state": {
+            "name": "West Virginia",
+            "abbr": "WV",
+            "county": "Brooke County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "2691",
+      "fte": "199",
+      "pupilTeacherRatio": "13.52",
+      "numberOfSchools": "7"
+   },
+   {
+      "name": "Cabell County Schools",
+      "location": {
+         "state": {
+            "name": "West Virginia",
+            "abbr": "WV",
+            "county": "Cabell County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "12189",
+      "fte": "861.3",
+      "pupilTeacherRatio": "14.15",
+      "numberOfSchools": "26"
+   },
+   {
+      "name": "Calhoun County Schools",
+      "location": {
+         "state": {
+            "name": "West Virginia",
+            "abbr": "WV",
+            "county": "Calhoun County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "937",
+      "fte": "90",
+      "pupilTeacherRatio": "10.41",
+      "numberOfSchools": "4"
+   },
+   {
+      "name": "Clay County Schools",
+      "location": {
+         "state": {
+            "name": "West Virginia",
+            "abbr": "WV",
+            "county": "Clay County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "1813",
+      "fte": "129.3",
+      "pupilTeacherRatio": "14.02",
+      "numberOfSchools": "6"
+   },
+   {
+      "name": "Doddridge County Schools",
+      "location": {
+         "state": {
+            "name": "West Virginia",
+            "abbr": "WV",
+            "county": "Doddridge County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "1121",
+      "fte": "97",
+      "pupilTeacherRatio": "11.56",
+      "numberOfSchools": "4"
+   },
+   {
+      "name": "Eastern Panhandle Instructional Cooperative",
+      "location": {
+         "state": {
+            "name": "WEST VIRGINIA",
+            "abbr": "WV",
+            "county": "Berkeley County"
+         }
+      },
+      "type": "4-Regional Education Service Agency (RESA)",
+      "grades": {
+         "lowest": "–",
+         "highest": "–"
+      },
+      "students": "†",
+      "fte": "29",
+      "pupilTeacherRatio": "–",
+      "numberOfSchools": "0"
+   },
+   {
+      "name": "Fayette County Schools",
+      "location": {
+         "state": {
+            "name": "West Virginia",
+            "abbr": "WV",
+            "county": "Fayette County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "6064",
+      "fte": "439.5",
+      "pupilTeacherRatio": "13.8",
+      "numberOfSchools": "21"
+   },
+   {
+      "name": "Gilmer County Schools",
+      "location": {
+         "state": {
+            "name": "West Virginia",
+            "abbr": "WV",
+            "county": "Gilmer County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "806",
+      "fte": "67",
+      "pupilTeacherRatio": "12.03",
+      "numberOfSchools": "2"
+   },
+   {
+      "name": "Grant County Schools",
+      "location": {
+         "state": {
+            "name": "West Virginia",
+            "abbr": "WV",
+            "county": "Grant County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "1619",
+      "fte": "117",
+      "pupilTeacherRatio": "13.84",
+      "numberOfSchools": "5"
+   },
+   {
+      "name": "Greenbrier County Schools",
+      "location": {
+         "state": {
+            "name": "West Virginia",
+            "abbr": "WV",
+            "county": "Greenbrier County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "4807",
+      "fte": "339.5",
+      "pupilTeacherRatio": "14.16",
+      "numberOfSchools": "14"
+   },
+   {
+      "name": "Hampshire County Schools",
+      "location": {
+         "state": {
+            "name": "West Virginia",
+            "abbr": "WV",
+            "county": "Hampshire County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "2968",
+      "fte": "218.65",
+      "pupilTeacherRatio": "13.57",
+      "numberOfSchools": "9"
+   },
+   {
+      "name": "Hancock County Schools",
+      "location": {
+         "state": {
+            "name": "West Virginia",
+            "abbr": "WV",
+            "county": "Hancock County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "3985",
+      "fte": "294",
+      "pupilTeacherRatio": "13.55",
+      "numberOfSchools": "9"
+   },
+   {
+      "name": "Hardy County Schools",
+      "location": {
+         "state": {
+            "name": "West Virginia",
+            "abbr": "WV",
+            "county": "Hardy County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "2272",
+      "fte": "150.5",
+      "pupilTeacherRatio": "15.1",
+      "numberOfSchools": "6"
+   },
+   {
+      "name": "Harrison County Schools",
+      "location": {
+         "state": {
+            "name": "West Virginia",
+            "abbr": "WV",
+            "county": "Harrison County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "10593",
+      "fte": "786.76",
+      "pupilTeacherRatio": "13.46",
+      "numberOfSchools": "28"
+   },
+   {
+      "name": "Institutional Educational Programs",
+      "location": {
+         "state": {
+            "name": "West Virginia",
+            "abbr": "WV",
+            "county": "Kanawha County"
+         }
+      },
+      "type": "5-State agency providing elementary and/or secondary level instruction",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "0",
+      "fte": "0",
+      "pupilTeacherRatio": "†",
+      "numberOfSchools": "22"
+   },
+   {
+      "name": "Jackson County Schools",
+      "location": {
+         "state": {
+            "name": "West Virginia",
+            "abbr": "WV",
+            "county": "Jackson County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "4489",
+      "fte": "327.2",
+      "pupilTeacherRatio": "13.72",
+      "numberOfSchools": "13"
+   },
+   {
+      "name": "Jefferson County Schools",
+      "location": {
+         "state": {
+            "name": "West Virginia",
+            "abbr": "WV",
+            "county": "Jefferson County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "8954",
+      "fte": "588",
+      "pupilTeacherRatio": "15.23",
+      "numberOfSchools": "16"
+   },
+   {
+      "name": "Kanawha County Schools",
+      "location": {
+         "state": {
+            "name": "West Virginia",
+            "abbr": "WV",
+            "county": "Kanawha County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "25429",
+      "fte": "1801.1",
+      "pupilTeacherRatio": "14.12",
+      "numberOfSchools": "69"
+   },
+   {
+      "name": "Lewis County Schools",
+      "location": {
+         "state": {
+            "name": "West Virginia",
+            "abbr": "WV",
+            "county": "Lewis County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "2578",
+      "fte": "177.4",
+      "pupilTeacherRatio": "14.53",
+      "numberOfSchools": "6"
+   },
+   {
+      "name": "Lincoln County Schools",
+      "location": {
+         "state": {
+            "name": "West Virginia",
+            "abbr": "WV",
+            "county": "Lincoln County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "3312",
+      "fte": "227",
+      "pupilTeacherRatio": "14.59",
+      "numberOfSchools": "8"
+   },
+   {
+      "name": "Logan County Schools",
+      "location": {
+         "state": {
+            "name": "West Virginia",
+            "abbr": "WV",
+            "county": "Logan County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "5507",
+      "fte": "393.7",
+      "pupilTeacherRatio": "13.99",
+      "numberOfSchools": "18"
+   },
+   {
+      "name": "Marion County Schools",
+      "location": {
+         "state": {
+            "name": "West Virginia",
+            "abbr": "WV",
+            "county": "Marion County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "7965",
+      "fte": "551",
+      "pupilTeacherRatio": "14.46",
+      "numberOfSchools": "22"
+   },
+   {
+      "name": "Marshall County Schools",
+      "location": {
+         "state": {
+            "name": "West Virginia",
+            "abbr": "WV",
+            "county": "Marshall County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "4460",
+      "fte": "364.35",
+      "pupilTeacherRatio": "12.24",
+      "numberOfSchools": "14"
+   },
+   {
+      "name": "Mason County Schools",
+      "location": {
+         "state": {
+            "name": "West Virginia",
+            "abbr": "WV",
+            "county": "Mason County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "3935",
+      "fte": "272.75",
+      "pupilTeacherRatio": "14.43",
+      "numberOfSchools": "12"
+   },
+   {
+      "name": "Mcdowell County Schools",
+      "location": {
+         "state": {
+            "name": "West Virginia",
+            "abbr": "WV",
+            "county": "McDowell County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "2901",
+      "fte": "219",
+      "pupilTeacherRatio": "13.25",
+      "numberOfSchools": "11"
+   },
+   {
+      "name": "Mercer County Schools",
+      "location": {
+         "state": {
+            "name": "West Virginia",
+            "abbr": "WV",
+            "county": "Mercer County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "8785",
+      "fte": "617.5",
+      "pupilTeacherRatio": "14.23",
+      "numberOfSchools": "26"
+   },
+   {
+      "name": "Mineral County Schools",
+      "location": {
+         "state": {
+            "name": "West Virginia",
+            "abbr": "WV",
+            "county": "Mineral County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "4094",
+      "fte": "295",
+      "pupilTeacherRatio": "13.88",
+      "numberOfSchools": "14"
+   },
+   {
+      "name": "Mingo County Schools",
+      "location": {
+         "state": {
+            "name": "West Virginia",
+            "abbr": "WV",
+            "county": "Mingo County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "4130",
+      "fte": "285",
+      "pupilTeacherRatio": "14.49",
+      "numberOfSchools": "10"
+   },
+   {
+      "name": "Monongalia County Schools",
+      "location": {
+         "state": {
+            "name": "West Virginia",
+            "abbr": "WV",
+            "county": "Monongalia County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "11739",
+      "fte": "788.5",
+      "pupilTeacherRatio": "14.89",
+      "numberOfSchools": "19"
+   },
+   {
+      "name": "Monroe County Schools",
+      "location": {
+         "state": {
+            "name": "West Virginia",
+            "abbr": "WV",
+            "county": "Monroe County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "1702",
+      "fte": "125",
+      "pupilTeacherRatio": "13.62",
+      "numberOfSchools": "5"
+   },
+   {
+      "name": "Morgan County Schools",
+      "location": {
+         "state": {
+            "name": "West Virginia",
+            "abbr": "WV",
+            "county": "Morgan County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "2245",
+      "fte": "156.45",
+      "pupilTeacherRatio": "14.35",
+      "numberOfSchools": "7"
+   },
+   {
+      "name": "Mountain State Educational Services Cooperative",
+      "location": {
+         "state": {
+            "name": "WEST VIRGINIA",
+            "abbr": "WV",
+            "county": "Kanawha County"
+         }
+      },
+      "type": "4-Regional Education Service Agency (RESA)",
+      "grades": {
+         "lowest": "–",
+         "highest": "–"
+      },
+      "students": "†",
+      "fte": "†",
+      "pupilTeacherRatio": "†",
+      "numberOfSchools": "0"
+   },
+   {
+      "name": "Nicholas County Schools",
+      "location": {
+         "state": {
+            "name": "West Virginia",
+            "abbr": "WV",
+            "county": "Nicholas County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "3634",
+      "fte": "266.5",
+      "pupilTeacherRatio": "13.64",
+      "numberOfSchools": "14"
+   },
+   {
+      "name": "Ohio County Schools",
+      "location": {
+         "state": {
+            "name": "West Virginia",
+            "abbr": "WV",
+            "county": "Ohio County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "5269",
+      "fte": "384.5",
+      "pupilTeacherRatio": "13.7",
+      "numberOfSchools": "13"
+   },
+   {
+      "name": "Pendleton County Schools",
+      "location": {
+         "state": {
+            "name": "West Virginia",
+            "abbr": "WV",
+            "county": "Pendleton County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "864",
+      "fte": "80",
+      "pupilTeacherRatio": "10.8",
+      "numberOfSchools": "4"
+   },
+   {
+      "name": "Pleasants County Schools",
+      "location": {
+         "state": {
+            "name": "West Virginia",
+            "abbr": "WV",
+            "county": "Pleasants County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "1094",
+      "fte": "94",
+      "pupilTeacherRatio": "11.64",
+      "numberOfSchools": "5"
+   },
+   {
+      "name": "Pocahontas County Schools",
+      "location": {
+         "state": {
+            "name": "West Virginia",
+            "abbr": "WV",
+            "county": "Pocahontas County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "982",
+      "fte": "87.5",
+      "pupilTeacherRatio": "11.22",
+      "numberOfSchools": "5"
+   },
+   {
+      "name": "Preston County Schools",
+      "location": {
+         "state": {
+            "name": "West Virginia",
+            "abbr": "WV",
+            "county": "Preston County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "4384",
+      "fte": "303",
+      "pupilTeacherRatio": "14.47",
+      "numberOfSchools": "10"
+   },
+   {
+      "name": "Putnam County Schools",
+      "location": {
+         "state": {
+            "name": "West Virginia",
+            "abbr": "WV",
+            "county": "Putnam County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "9482",
+      "fte": "672.5",
+      "pupilTeacherRatio": "14.1",
+      "numberOfSchools": "23"
+   },
+   {
+      "name": "Raleigh County Schools",
+      "location": {
+         "state": {
+            "name": "West Virginia",
+            "abbr": "WV",
+            "county": "Raleigh County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "11461",
+      "fte": "846.5",
+      "pupilTeacherRatio": "13.54",
+      "numberOfSchools": "27"
+   },
+   {
+      "name": "Randolph County Schools",
+      "location": {
+         "state": {
+            "name": "West Virginia",
+            "abbr": "WV",
+            "county": "Randolph County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "3870",
+      "fte": "284.5",
+      "pupilTeacherRatio": "13.6",
+      "numberOfSchools": "14"
+   },
+   {
+      "name": "Ritchie County Schools",
+      "location": {
+         "state": {
+            "name": "West Virginia",
+            "abbr": "WV",
+            "county": "Ritchie County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "1341",
+      "fte": "103.25",
+      "pupilTeacherRatio": "12.99",
+      "numberOfSchools": "5"
+   },
+   {
+      "name": "Roane County Schools",
+      "location": {
+         "state": {
+            "name": "West Virginia",
+            "abbr": "WV",
+            "county": "Roane County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "2013",
+      "fte": "143.5",
+      "pupilTeacherRatio": "14.03",
+      "numberOfSchools": "5"
+   },
+   {
+      "name": "Southern Educational Services Cooperative",
+      "location": {
+         "state": {
+            "name": "WEST VIRGINIA",
+            "abbr": "WV",
+            "county": "Raleigh County"
+         }
+      },
+      "type": "4-Regional Education Service Agency (RESA)",
+      "grades": {
+         "lowest": "–",
+         "highest": "–"
+      },
+      "students": "†",
+      "fte": "†",
+      "pupilTeacherRatio": "†",
+      "numberOfSchools": "0"
+   },
+   {
+      "name": "Summers County Schools",
+      "location": {
+         "state": {
+            "name": "West Virginia",
+            "abbr": "WV",
+            "county": "Summers County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "1451",
+      "fte": "114.5",
+      "pupilTeacherRatio": "12.67",
+      "numberOfSchools": "5"
+   },
+   {
+      "name": "Taylor County Schools",
+      "location": {
+         "state": {
+            "name": "West Virginia",
+            "abbr": "WV",
+            "county": "Taylor County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "2414",
+      "fte": "162.5",
+      "pupilTeacherRatio": "14.86",
+      "numberOfSchools": "5"
+   },
+   {
+      "name": "Tucker County Schools",
+      "location": {
+         "state": {
+            "name": "West Virginia",
+            "abbr": "WV",
+            "county": "Tucker County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "976",
+      "fte": "80.51",
+      "pupilTeacherRatio": "12.12",
+      "numberOfSchools": "3"
+   },
+   {
+      "name": "Tyler County Schools",
+      "location": {
+         "state": {
+            "name": "West Virginia",
+            "abbr": "WV",
+            "county": "Tyler County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "1237",
+      "fte": "108",
+      "pupilTeacherRatio": "11.45",
+      "numberOfSchools": "4"
+   },
+   {
+      "name": "Upshur County Schools",
+      "location": {
+         "state": {
+            "name": "West Virginia",
+            "abbr": "WV",
+            "county": "Upshur County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "3825",
+      "fte": "265",
+      "pupilTeacherRatio": "14.43",
+      "numberOfSchools": "10"
+   },
+   {
+      "name": "Wayne County Schools",
+      "location": {
+         "state": {
+            "name": "West Virginia",
+            "abbr": "WV",
+            "county": "Wayne County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "6702",
+      "fte": "479",
+      "pupilTeacherRatio": "13.99",
+      "numberOfSchools": "18"
+   },
+   {
+      "name": "Webster County Schools",
+      "location": {
+         "state": {
+            "name": "West Virginia",
+            "abbr": "WV",
+            "county": "Webster County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "1276",
+      "fte": "99.8",
+      "pupilTeacherRatio": "12.79",
+      "numberOfSchools": "4"
+   },
+   {
+      "name": "Wetzel County Schools",
+      "location": {
+         "state": {
+            "name": "West Virginia",
+            "abbr": "WV",
+            "county": "Wetzel County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "2459",
+      "fte": "238",
+      "pupilTeacherRatio": "10.33",
+      "numberOfSchools": "9"
+   },
+   {
+      "name": "Wirt County Schools",
+      "location": {
+         "state": {
+            "name": "West Virginia",
+            "abbr": "WV",
+            "county": "Wirt County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "997",
+      "fte": "76",
+      "pupilTeacherRatio": "13.12",
+      "numberOfSchools": "3"
+   },
+   {
+      "name": "Wood County Schools",
+      "location": {
+         "state": {
+            "name": "West Virginia",
+            "abbr": "WV",
+            "county": "Wood County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "12238",
+      "fte": "851.4",
+      "pupilTeacherRatio": "14.37",
+      "numberOfSchools": "29"
+   },
+   {
+      "name": "Wv Schools for the Deaf and the Blind",
+      "location": {
+         "state": {
+            "name": "West Virginia",
+            "abbr": "WV",
+            "county": "Hampshire County"
+         }
+      },
+      "type": "5-State agency providing elementary and/or secondary level instruction",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "0",
+      "fte": "0",
+      "pupilTeacherRatio": "†",
+      "numberOfSchools": "2"
+   },
+   {
+      "name": "Wyoming County Schools",
+      "location": {
+         "state": {
+            "name": "West Virginia",
+            "abbr": "WV",
+            "county": "Wyoming County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "3852",
+      "fte": "269",
+      "pupilTeacherRatio": "14.32",
+      "numberOfSchools": "14"
+   }
+]

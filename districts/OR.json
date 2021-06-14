@@ -1,0 +1,4220 @@
+[
+   {
+      "name": "Adel SD 21",
+      "location": {
+         "state": {
+            "name": "Oregon",
+            "abbr": "OR",
+            "county": "Lake County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "11th Grade"
+      },
+      "students": "12",
+      "fte": "1",
+      "pupilTeacherRatio": "12",
+      "numberOfSchools": "1"
+   },
+   {
+      "name": "Adrian SD 61",
+      "location": {
+         "state": {
+            "name": "Oregon",
+            "abbr": "OR",
+            "county": "Malheur County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "292",
+      "fte": "14.17",
+      "pupilTeacherRatio": "20.61",
+      "numberOfSchools": "2"
+   },
+   {
+      "name": "Alsea SD 7j",
+      "location": {
+         "state": {
+            "name": "Oregon",
+            "abbr": "OR",
+            "county": "Benton County"
+         }
+      },
+      "type": "7-Independent Charter District",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "321",
+      "fte": "23.6",
+      "pupilTeacherRatio": "13.6",
+      "numberOfSchools": "1"
+   },
+   {
+      "name": "Amity SD 4j",
+      "location": {
+         "state": {
+            "name": "Oregon",
+            "abbr": "OR",
+            "county": "Yamhill County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "832",
+      "fte": "49.65",
+      "pupilTeacherRatio": "16.76",
+      "numberOfSchools": "4"
+   },
+   {
+      "name": "Annex SD 29",
+      "location": {
+         "state": {
+            "name": "Oregon",
+            "abbr": "OR",
+            "county": "Malheur County"
+         }
+      },
+      "type": "7-Independent Charter District",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "11th Grade"
+      },
+      "students": "94",
+      "fte": "8",
+      "pupilTeacherRatio": "11.75",
+      "numberOfSchools": "1"
+   },
+   {
+      "name": "Arlington SD 3",
+      "location": {
+         "state": {
+            "name": "Oregon",
+            "abbr": "OR",
+            "county": "Gilliam County"
+         }
+      },
+      "type": "7-Independent Charter District",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "172",
+      "fte": "14",
+      "pupilTeacherRatio": "12.29",
+      "numberOfSchools": "1"
+   },
+   {
+      "name": "Arock SD 81",
+      "location": {
+         "state": {
+            "name": "Oregon",
+            "abbr": "OR",
+            "county": "Malheur County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "8th Grade"
+      },
+      "students": "17",
+      "fte": "2.5",
+      "pupilTeacherRatio": "6.8",
+      "numberOfSchools": "1"
+   },
+   {
+      "name": "Ashland SD 5",
+      "location": {
+         "state": {
+            "name": "Oregon",
+            "abbr": "OR",
+            "county": "Jackson County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "2842",
+      "fte": "150.96",
+      "pupilTeacherRatio": "18.83",
+      "numberOfSchools": "6"
+   },
+   {
+      "name": "Ashwood SD 8",
+      "location": {
+         "state": {
+            "name": "Oregon",
+            "abbr": "OR",
+            "county": "Jefferson County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "11th Grade"
+      },
+      "students": "7",
+      "fte": "1",
+      "pupilTeacherRatio": "7",
+      "numberOfSchools": "1"
+   },
+   {
+      "name": "Astoria SD 1",
+      "location": {
+         "state": {
+            "name": "Oregon",
+            "abbr": "OR",
+            "county": "Clatsop County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "1894",
+      "fte": "103.8",
+      "pupilTeacherRatio": "18.25",
+      "numberOfSchools": "4"
+   },
+   {
+      "name": "Athena-Weston SD 29rj",
+      "location": {
+         "state": {
+            "name": "Oregon",
+            "abbr": "OR",
+            "county": "Umatilla County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "584",
+      "fte": "37.28",
+      "pupilTeacherRatio": "15.67",
+      "numberOfSchools": "3"
+   },
+   {
+      "name": "Baker SD 5j",
+      "location": {
+         "state": {
+            "name": "Oregon",
+            "abbr": "OR",
+            "county": "Baker County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "4089",
+      "fte": "195.93",
+      "pupilTeacherRatio": "20.87",
+      "numberOfSchools": "9"
+   },
+   {
+      "name": "Bandon SD 54",
+      "location": {
+         "state": {
+            "name": "Oregon",
+            "abbr": "OR",
+            "county": "Coos County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "676",
+      "fte": "37.68",
+      "pupilTeacherRatio": "17.94",
+      "numberOfSchools": "3"
+   },
+   {
+      "name": "Banks SD 13",
+      "location": {
+         "state": {
+            "name": "Oregon",
+            "abbr": "OR",
+            "county": "Washington County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "1147",
+      "fte": "55.2",
+      "pupilTeacherRatio": "20.78",
+      "numberOfSchools": "3"
+   },
+   {
+      "name": "Beaverton SD 48j",
+      "location": {
+         "state": {
+            "name": "Oregon",
+            "abbr": "OR",
+            "county": "Washington County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "41291",
+      "fte": "2114.87",
+      "pupilTeacherRatio": "19.52",
+      "numberOfSchools": "55"
+   },
+   {
+      "name": "Bend-Lapine Administrative SD 1",
+      "location": {
+         "state": {
+            "name": "Oregon",
+            "abbr": "OR",
+            "county": "Deschutes County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "18651",
+      "fte": "867.6",
+      "pupilTeacherRatio": "21.5",
+      "numberOfSchools": "35"
+   },
+   {
+      "name": "Bethel SD 52",
+      "location": {
+         "state": {
+            "name": "Oregon",
+            "abbr": "OR",
+            "county": "Lane County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "5560",
+      "fte": "264.99",
+      "pupilTeacherRatio": "20.98",
+      "numberOfSchools": "11"
+   },
+   {
+      "name": "Blachly SD 90",
+      "location": {
+         "state": {
+            "name": "Oregon",
+            "abbr": "OR",
+            "county": "Lane County"
+         }
+      },
+      "type": "7-Independent Charter District",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "228",
+      "fte": "16.66",
+      "pupilTeacherRatio": "13.69",
+      "numberOfSchools": "1"
+   },
+   {
+      "name": "Black Butte SD 41",
+      "location": {
+         "state": {
+            "name": "Oregon",
+            "abbr": "OR",
+            "county": "Jefferson County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "8th Grade"
+      },
+      "students": "28",
+      "fte": "2.8",
+      "pupilTeacherRatio": "10",
+      "numberOfSchools": "1"
+   },
+   {
+      "name": "Brookings-Harbor SD 17c",
+      "location": {
+         "state": {
+            "name": "Oregon",
+            "abbr": "OR",
+            "county": "Curry County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "1541",
+      "fte": "80.84",
+      "pupilTeacherRatio": "19.06",
+      "numberOfSchools": "3"
+   },
+   {
+      "name": "Burnt River SD 30j",
+      "location": {
+         "state": {
+            "name": "Oregon",
+            "abbr": "OR",
+            "county": "Baker County"
+         }
+      },
+      "type": "7-Independent Charter District",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "42",
+      "fte": "5.1",
+      "pupilTeacherRatio": "8.24",
+      "numberOfSchools": "1"
+   },
+   {
+      "name": "Butte Falls SD 91",
+      "location": {
+         "state": {
+            "name": "Oregon",
+            "abbr": "OR",
+            "county": "Jackson County"
+         }
+      },
+      "type": "7-Independent Charter District",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "228",
+      "fte": "16.67",
+      "pupilTeacherRatio": "13.68",
+      "numberOfSchools": "1"
+   },
+   {
+      "name": "Camas Valley SD 21j",
+      "location": {
+         "state": {
+            "name": "Oregon",
+            "abbr": "OR",
+            "county": "Douglas County"
+         }
+      },
+      "type": "7-Independent Charter District",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "216",
+      "fte": "17.21",
+      "pupilTeacherRatio": "12.55",
+      "numberOfSchools": "1"
+   },
+   {
+      "name": "Canby SD 86",
+      "location": {
+         "state": {
+            "name": "Oregon",
+            "abbr": "OR",
+            "county": "Clackamas County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "4668",
+      "fte": "241.63",
+      "pupilTeacherRatio": "19.32",
+      "numberOfSchools": "8"
+   },
+   {
+      "name": "Cascade SD 5",
+      "location": {
+         "state": {
+            "name": "Oregon",
+            "abbr": "OR",
+            "county": "Marion County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "2520",
+      "fte": "129.87",
+      "pupilTeacherRatio": "19.4",
+      "numberOfSchools": "6"
+   },
+   {
+      "name": "Centennial SD 28j",
+      "location": {
+         "state": {
+            "name": "Oregon",
+            "abbr": "OR",
+            "county": "Multnomah County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "6095",
+      "fte": "293.09",
+      "pupilTeacherRatio": "20.8",
+      "numberOfSchools": "10"
+   },
+   {
+      "name": "Central Curry SD 1",
+      "location": {
+         "state": {
+            "name": "Oregon",
+            "abbr": "OR",
+            "county": "Curry County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "483",
+      "fte": "29.02",
+      "pupilTeacherRatio": "16.64",
+      "numberOfSchools": "2"
+   },
+   {
+      "name": "Central Linn SD 552",
+      "location": {
+         "state": {
+            "name": "Oregon",
+            "abbr": "OR",
+            "county": "Linn County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "642",
+      "fte": "40.94",
+      "pupilTeacherRatio": "15.68",
+      "numberOfSchools": "2"
+   },
+   {
+      "name": "Central Point SD 6",
+      "location": {
+         "state": {
+            "name": "Oregon",
+            "abbr": "OR",
+            "county": "Jackson County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "4863",
+      "fte": "229.61",
+      "pupilTeacherRatio": "21.18",
+      "numberOfSchools": "10"
+   },
+   {
+      "name": "Central SD 13j",
+      "location": {
+         "state": {
+            "name": "Oregon",
+            "abbr": "OR",
+            "county": "Polk County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "3320",
+      "fte": "156.66",
+      "pupilTeacherRatio": "21.19",
+      "numberOfSchools": "5"
+   },
+   {
+      "name": "Clackamas ESD",
+      "location": {
+         "state": {
+            "name": "Oregon",
+            "abbr": "OR",
+            "county": "Clackamas County"
+         }
+      },
+      "type": "4-Regional Education Service Agency (RESA)",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "0",
+      "fte": "32.52",
+      "pupilTeacherRatio": "0",
+      "numberOfSchools": "0"
+   },
+   {
+      "name": "Clatskanie SD 6j",
+      "location": {
+         "state": {
+            "name": "Oregon",
+            "abbr": "OR",
+            "county": "Columbia County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "724",
+      "fte": "36.53",
+      "pupilTeacherRatio": "19.82",
+      "numberOfSchools": "2"
+   },
+   {
+      "name": "Colton SD 53",
+      "location": {
+         "state": {
+            "name": "Oregon",
+            "abbr": "OR",
+            "county": "Clackamas County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "591",
+      "fte": "36.7",
+      "pupilTeacherRatio": "16.1",
+      "numberOfSchools": "3"
+   },
+   {
+      "name": "Columbia Gorge ESD",
+      "location": {
+         "state": {
+            "name": "Oregon",
+            "abbr": "OR",
+            "county": "Wasco County"
+         }
+      },
+      "type": "4-Regional Education Service Agency (RESA)",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "0",
+      "fte": "2",
+      "pupilTeacherRatio": "0",
+      "numberOfSchools": "0"
+   },
+   {
+      "name": "Condon SD 25j",
+      "location": {
+         "state": {
+            "name": "Oregon",
+            "abbr": "OR",
+            "county": "Gilliam County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "138",
+      "fte": "11.63",
+      "pupilTeacherRatio": "11.87",
+      "numberOfSchools": "2"
+   },
+   {
+      "name": "Coos Bay SD 9",
+      "location": {
+         "state": {
+            "name": "Oregon",
+            "abbr": "OR",
+            "county": "Coos County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "3265",
+      "fte": "163.5",
+      "pupilTeacherRatio": "19.97",
+      "numberOfSchools": "8"
+   },
+   {
+      "name": "Coquille SD 8",
+      "location": {
+         "state": {
+            "name": "Oregon",
+            "abbr": "OR",
+            "county": "Coos County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "1268",
+      "fte": "62.95",
+      "pupilTeacherRatio": "20.14",
+      "numberOfSchools": "4"
+   },
+   {
+      "name": "Corbett SD 39",
+      "location": {
+         "state": {
+            "name": "Oregon",
+            "abbr": "OR",
+            "county": "Multnomah County"
+         }
+      },
+      "type": "7-Independent Charter District",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "1190",
+      "fte": "55.1",
+      "pupilTeacherRatio": "21.6",
+      "numberOfSchools": "1"
+   },
+   {
+      "name": "Corvallis SD 509j",
+      "location": {
+         "state": {
+            "name": "Oregon",
+            "abbr": "OR",
+            "county": "Benton County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "6748",
+      "fte": "347.79",
+      "pupilTeacherRatio": "19.4",
+      "numberOfSchools": "13"
+   },
+   {
+      "name": "Cove SD 15",
+      "location": {
+         "state": {
+            "name": "Oregon",
+            "abbr": "OR",
+            "county": "Union County"
+         }
+      },
+      "type": "7-Independent Charter District",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "291",
+      "fte": "18.99",
+      "pupilTeacherRatio": "15.32",
+      "numberOfSchools": "1"
+   },
+   {
+      "name": "Creswell SD 40",
+      "location": {
+         "state": {
+            "name": "Oregon",
+            "abbr": "OR",
+            "county": "Lane County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "1298",
+      "fte": "62.7",
+      "pupilTeacherRatio": "20.7",
+      "numberOfSchools": "3"
+   },
+   {
+      "name": "Crook County SD",
+      "location": {
+         "state": {
+            "name": "Oregon",
+            "abbr": "OR",
+            "county": "Crook County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "3071",
+      "fte": "161.72",
+      "pupilTeacherRatio": "18.99",
+      "numberOfSchools": "8"
+   },
+   {
+      "name": "Crow-Applegate-Lorane SD 66",
+      "location": {
+         "state": {
+            "name": "Oregon",
+            "abbr": "OR",
+            "county": "Lane County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "260",
+      "fte": "19.13",
+      "pupilTeacherRatio": "13.59",
+      "numberOfSchools": "2"
+   },
+   {
+      "name": "Culver SD 4",
+      "location": {
+         "state": {
+            "name": "Oregon",
+            "abbr": "OR",
+            "county": "Jefferson County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "687",
+      "fte": "39.98",
+      "pupilTeacherRatio": "17.18",
+      "numberOfSchools": "3"
+   },
+   {
+      "name": "Dallas SD 2",
+      "location": {
+         "state": {
+            "name": "Oregon",
+            "abbr": "OR",
+            "county": "Polk County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "3222",
+      "fte": "163.77",
+      "pupilTeacherRatio": "19.67",
+      "numberOfSchools": "7"
+   },
+   {
+      "name": "David Douglas SD 40",
+      "location": {
+         "state": {
+            "name": "Oregon",
+            "abbr": "OR",
+            "county": "Multnomah County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "9818",
+      "fte": "511.46",
+      "pupilTeacherRatio": "19.2",
+      "numberOfSchools": "14"
+   },
+   {
+      "name": "Dayton SD 8",
+      "location": {
+         "state": {
+            "name": "Oregon",
+            "abbr": "OR",
+            "county": "Yamhill County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "1009",
+      "fte": "45.76",
+      "pupilTeacherRatio": "22.05",
+      "numberOfSchools": "3"
+   },
+   {
+      "name": "Dayville SD 16j",
+      "location": {
+         "state": {
+            "name": "Oregon",
+            "abbr": "OR",
+            "county": "Grant County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "55",
+      "fte": "6.6",
+      "pupilTeacherRatio": "8.33",
+      "numberOfSchools": "1"
+   },
+   {
+      "name": "Diamond SD 7",
+      "location": {
+         "state": {
+            "name": "Oregon",
+            "abbr": "OR",
+            "county": "Harney County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "8th Grade"
+      },
+      "students": "4",
+      "fte": "1.01",
+      "pupilTeacherRatio": "3.96",
+      "numberOfSchools": "1"
+   },
+   {
+      "name": "Double O SD 28",
+      "location": {
+         "state": {
+            "name": "Oregon",
+            "abbr": "OR",
+            "county": "Harney County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "8th Grade"
+      },
+      "students": "7",
+      "fte": "1",
+      "pupilTeacherRatio": "7",
+      "numberOfSchools": "1"
+   },
+   {
+      "name": "Douglas County SD 15",
+      "location": {
+         "state": {
+            "name": "Oregon",
+            "abbr": "OR",
+            "county": "Douglas County"
+         }
+      },
+      "type": "7-Independent Charter District",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "203",
+      "fte": "15.45",
+      "pupilTeacherRatio": "13.14",
+      "numberOfSchools": "1"
+   },
+   {
+      "name": "Douglas County SD 4",
+      "location": {
+         "state": {
+            "name": "Oregon",
+            "abbr": "OR",
+            "county": "Douglas County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "6132",
+      "fte": "316.53",
+      "pupilTeacherRatio": "19.37",
+      "numberOfSchools": "13"
+   },
+   {
+      "name": "Douglas ESD",
+      "location": {
+         "state": {
+            "name": "Oregon",
+            "abbr": "OR",
+            "county": "Douglas County"
+         }
+      },
+      "type": "4-Regional Education Service Agency (RESA)",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "0",
+      "fte": "32",
+      "pupilTeacherRatio": "0",
+      "numberOfSchools": "0"
+   },
+   {
+      "name": "Drewsey SD 13",
+      "location": {
+         "state": {
+            "name": "Oregon",
+            "abbr": "OR",
+            "county": "Harney County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "8th Grade"
+      },
+      "students": "6",
+      "fte": "1",
+      "pupilTeacherRatio": "6",
+      "numberOfSchools": "1"
+   },
+   {
+      "name": "Dufur SD 29",
+      "location": {
+         "state": {
+            "name": "Oregon",
+            "abbr": "OR",
+            "county": "Wasco County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "342",
+      "fte": "24",
+      "pupilTeacherRatio": "14.25",
+      "numberOfSchools": "1"
+   },
+   {
+      "name": "Eagle Point SD 9",
+      "location": {
+         "state": {
+            "name": "Oregon",
+            "abbr": "OR",
+            "county": "Jackson County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "4157",
+      "fte": "194.1",
+      "pupilTeacherRatio": "21.42",
+      "numberOfSchools": "10"
+   },
+   {
+      "name": "Echo SD 5",
+      "location": {
+         "state": {
+            "name": "Oregon",
+            "abbr": "OR",
+            "county": "Umatilla County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "280",
+      "fte": "17.88",
+      "pupilTeacherRatio": "15.66",
+      "numberOfSchools": "1"
+   },
+   {
+      "name": "Elgin SD 23",
+      "location": {
+         "state": {
+            "name": "Oregon",
+            "abbr": "OR",
+            "county": "Union County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "403",
+      "fte": "30",
+      "pupilTeacherRatio": "13.43",
+      "numberOfSchools": "2"
+   },
+   {
+      "name": "Elkton SD 34",
+      "location": {
+         "state": {
+            "name": "Oregon",
+            "abbr": "OR",
+            "county": "Douglas County"
+         }
+      },
+      "type": "7-Independent Charter District",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "236",
+      "fte": "18.7",
+      "pupilTeacherRatio": "12.62",
+      "numberOfSchools": "1"
+   },
+   {
+      "name": "Enterprise SD 21",
+      "location": {
+         "state": {
+            "name": "Oregon",
+            "abbr": "OR",
+            "county": "Wallowa County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "406",
+      "fte": "25.86",
+      "pupilTeacherRatio": "15.7",
+      "numberOfSchools": "2"
+   },
+   {
+      "name": "Estacada SD 108",
+      "location": {
+         "state": {
+            "name": "Oregon",
+            "abbr": "OR",
+            "county": "Clackamas County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "2929",
+      "fte": "114.02",
+      "pupilTeacherRatio": "25.69",
+      "numberOfSchools": "6"
+   },
+   {
+      "name": "Eugene SD 4j",
+      "location": {
+         "state": {
+            "name": "Oregon",
+            "abbr": "OR",
+            "county": "Lane County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "17331",
+      "fte": "835.95",
+      "pupilTeacherRatio": "20.73",
+      "numberOfSchools": "38"
+   },
+   {
+      "name": "Falls City SD 57",
+      "location": {
+         "state": {
+            "name": "Oregon",
+            "abbr": "OR",
+            "county": "Polk County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "190",
+      "fte": "18",
+      "pupilTeacherRatio": "10.56",
+      "numberOfSchools": "2"
+   },
+   {
+      "name": "Fern Ridge SD 28j",
+      "location": {
+         "state": {
+            "name": "Oregon",
+            "abbr": "OR",
+            "county": "Lane County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "1517",
+      "fte": "74.5",
+      "pupilTeacherRatio": "20.36",
+      "numberOfSchools": "5"
+   },
+   {
+      "name": "Forest Grove SD 15",
+      "location": {
+         "state": {
+            "name": "Oregon",
+            "abbr": "OR",
+            "county": "Washington County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "6051",
+      "fte": "314.22",
+      "pupilTeacherRatio": "19.26",
+      "numberOfSchools": "10"
+   },
+   {
+      "name": "Fossil SD 21j",
+      "location": {
+         "state": {
+            "name": "Oregon",
+            "abbr": "OR",
+            "county": "Wheeler County"
+         }
+      },
+      "type": "7-Independent Charter District",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "1021",
+      "fte": "30",
+      "pupilTeacherRatio": "34.03",
+      "numberOfSchools": "1"
+   },
+   {
+      "name": "Frenchglen SD 16",
+      "location": {
+         "state": {
+            "name": "Oregon",
+            "abbr": "OR",
+            "county": "Harney County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "8th Grade"
+      },
+      "students": "3",
+      "fte": "1",
+      "pupilTeacherRatio": "3",
+      "numberOfSchools": "1"
+   },
+   {
+      "name": "Gaston SD 511j",
+      "location": {
+         "state": {
+            "name": "Oregon",
+            "abbr": "OR",
+            "county": "Washington County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "552",
+      "fte": "33.63",
+      "pupilTeacherRatio": "16.41",
+      "numberOfSchools": "2"
+   },
+   {
+      "name": "Gervais SD 1",
+      "location": {
+         "state": {
+            "name": "Oregon",
+            "abbr": "OR",
+            "county": "Marion County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "1380",
+      "fte": "79.8",
+      "pupilTeacherRatio": "17.29",
+      "numberOfSchools": "5"
+   },
+   {
+      "name": "Gladstone SD 115",
+      "location": {
+         "state": {
+            "name": "Oregon",
+            "abbr": "OR",
+            "county": "Clackamas County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "1944",
+      "fte": "95.1",
+      "pupilTeacherRatio": "20.44",
+      "numberOfSchools": "4"
+   },
+   {
+      "name": "Glendale SD 77",
+      "location": {
+         "state": {
+            "name": "Oregon",
+            "abbr": "OR",
+            "county": "Douglas County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "299",
+      "fte": "18.13",
+      "pupilTeacherRatio": "16.49",
+      "numberOfSchools": "2"
+   },
+   {
+      "name": "Glide SD 12",
+      "location": {
+         "state": {
+            "name": "Oregon",
+            "abbr": "OR",
+            "county": "Douglas County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "767",
+      "fte": "45.41",
+      "pupilTeacherRatio": "16.89",
+      "numberOfSchools": "3"
+   },
+   {
+      "name": "Grant ESD",
+      "location": {
+         "state": {
+            "name": "Oregon",
+            "abbr": "OR",
+            "county": "Grant County"
+         }
+      },
+      "type": "4-Regional Education Service Agency (RESA)",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "0",
+      "fte": "0",
+      "pupilTeacherRatio": "†",
+      "numberOfSchools": "0"
+   },
+   {
+      "name": "Grants Pass SD 7",
+      "location": {
+         "state": {
+            "name": "Oregon",
+            "abbr": "OR",
+            "county": "Josephine County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "6218",
+      "fte": "296.81",
+      "pupilTeacherRatio": "20.95",
+      "numberOfSchools": "9"
+   },
+   {
+      "name": "Greater Albany Public SD 8j",
+      "location": {
+         "state": {
+            "name": "Oregon",
+            "abbr": "OR",
+            "county": "Linn County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "9446",
+      "fte": "471.14",
+      "pupilTeacherRatio": "20.05",
+      "numberOfSchools": "20"
+   },
+   {
+      "name": "Gresham-Barlow SD 10j",
+      "location": {
+         "state": {
+            "name": "Oregon",
+            "abbr": "OR",
+            "county": "Multnomah County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "11945",
+      "fte": "530.85",
+      "pupilTeacherRatio": "22.5",
+      "numberOfSchools": "22"
+   },
+   {
+      "name": "Harney County SD 3",
+      "location": {
+         "state": {
+            "name": "Oregon",
+            "abbr": "OR",
+            "county": "Harney County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "836",
+      "fte": "53.5",
+      "pupilTeacherRatio": "15.63",
+      "numberOfSchools": "4"
+   },
+   {
+      "name": "Harney County SD 4",
+      "location": {
+         "state": {
+            "name": "Oregon",
+            "abbr": "OR",
+            "county": "Harney County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "602",
+      "fte": "29.36",
+      "pupilTeacherRatio": "20.5",
+      "numberOfSchools": "2"
+   },
+   {
+      "name": "Harney County Union High SD 1j",
+      "location": {
+         "state": {
+            "name": "Oregon",
+            "abbr": "OR",
+            "county": "Harney County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "662",
+      "fte": "18.14",
+      "pupilTeacherRatio": "36.49",
+      "numberOfSchools": "2"
+   },
+   {
+      "name": "Harney ESD Region Xvii",
+      "location": {
+         "state": {
+            "name": "Oregon",
+            "abbr": "OR",
+            "county": "Harney County"
+         }
+      },
+      "type": "4-Regional Education Service Agency (RESA)",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "0",
+      "fte": "0",
+      "pupilTeacherRatio": "†",
+      "numberOfSchools": "0"
+   },
+   {
+      "name": "Harper SD 66",
+      "location": {
+         "state": {
+            "name": "Oregon",
+            "abbr": "OR",
+            "county": "Malheur County"
+         }
+      },
+      "type": "7-Independent Charter District",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "115",
+      "fte": "9.7",
+      "pupilTeacherRatio": "11.86",
+      "numberOfSchools": "1"
+   },
+   {
+      "name": "Harrisburg SD 7j",
+      "location": {
+         "state": {
+            "name": "Oregon",
+            "abbr": "OR",
+            "county": "Linn County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "813",
+      "fte": "51.02",
+      "pupilTeacherRatio": "15.93",
+      "numberOfSchools": "2"
+   },
+   {
+      "name": "Helix SD 1",
+      "location": {
+         "state": {
+            "name": "Oregon",
+            "abbr": "OR",
+            "county": "Umatilla County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "183",
+      "fte": "15.25",
+      "pupilTeacherRatio": "12",
+      "numberOfSchools": "1"
+   },
+   {
+      "name": "Hermiston SD 8",
+      "location": {
+         "state": {
+            "name": "Oregon",
+            "abbr": "OR",
+            "county": "Umatilla County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "5740",
+      "fte": "297.96",
+      "pupilTeacherRatio": "19.26",
+      "numberOfSchools": "8"
+   },
+   {
+      "name": "High Desert ESD",
+      "location": {
+         "state": {
+            "name": "Oregon",
+            "abbr": "OR",
+            "county": "Deschutes County"
+         }
+      },
+      "type": "4-Regional Education Service Agency (RESA)",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "0",
+      "fte": "28.46",
+      "pupilTeacherRatio": "0",
+      "numberOfSchools": "0"
+   },
+   {
+      "name": "Hillsboro SD 1j",
+      "location": {
+         "state": {
+            "name": "Oregon",
+            "abbr": "OR",
+            "county": "Washington County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "20317",
+      "fte": "897.68",
+      "pupilTeacherRatio": "22.63",
+      "numberOfSchools": "35"
+   },
+   {
+      "name": "Hood River County SD",
+      "location": {
+         "state": {
+            "name": "Oregon",
+            "abbr": "OR",
+            "county": "Hood River County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "4065",
+      "fte": "236.38",
+      "pupilTeacherRatio": "17.2",
+      "numberOfSchools": "8"
+   },
+   {
+      "name": "Huntington SD 16j",
+      "location": {
+         "state": {
+            "name": "Oregon",
+            "abbr": "OR",
+            "county": "Baker County"
+         }
+      },
+      "type": "7-Independent Charter District",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "92",
+      "fte": "9.93",
+      "pupilTeacherRatio": "9.26",
+      "numberOfSchools": "1"
+   },
+   {
+      "name": "Imbler SD 11",
+      "location": {
+         "state": {
+            "name": "Oregon",
+            "abbr": "OR",
+            "county": "Union County"
+         }
+      },
+      "type": "7-Independent Charter District",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "290",
+      "fte": "21.36",
+      "pupilTeacherRatio": "13.58",
+      "numberOfSchools": "1"
+   },
+   {
+      "name": "Intermountain ESD",
+      "location": {
+         "state": {
+            "name": "Oregon",
+            "abbr": "OR",
+            "county": "Umatilla County"
+         }
+      },
+      "type": "4-Regional Education Service Agency (RESA)",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "0",
+      "fte": "18.28",
+      "pupilTeacherRatio": "0",
+      "numberOfSchools": "0"
+   },
+   {
+      "name": "Ione SD R2",
+      "location": {
+         "state": {
+            "name": "Oregon",
+            "abbr": "OR",
+            "county": "Morrow County"
+         }
+      },
+      "type": "7-Independent Charter District",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "182",
+      "fte": "16.27",
+      "pupilTeacherRatio": "11.19",
+      "numberOfSchools": "1"
+   },
+   {
+      "name": "Jefferson County SD 509j",
+      "location": {
+         "state": {
+            "name": "Oregon",
+            "abbr": "OR",
+            "county": "Jefferson County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "2895",
+      "fte": "166.76",
+      "pupilTeacherRatio": "17.36",
+      "numberOfSchools": "8"
+   },
+   {
+      "name": "Jefferson ESD",
+      "location": {
+         "state": {
+            "name": "Oregon",
+            "abbr": "OR",
+            "county": "Jefferson County"
+         }
+      },
+      "type": "4-Regional Education Service Agency (RESA)",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "0",
+      "fte": "2",
+      "pupilTeacherRatio": "0",
+      "numberOfSchools": "0"
+   },
+   {
+      "name": "Jefferson SD 14j",
+      "location": {
+         "state": {
+            "name": "Oregon",
+            "abbr": "OR",
+            "county": "Marion County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "828",
+      "fte": "46.36",
+      "pupilTeacherRatio": "17.86",
+      "numberOfSchools": "3"
+   },
+   {
+      "name": "Jewell SD 8",
+      "location": {
+         "state": {
+            "name": "Oregon",
+            "abbr": "OR",
+            "county": "Clatsop County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "154",
+      "fte": "15.57",
+      "pupilTeacherRatio": "9.89",
+      "numberOfSchools": "1"
+   },
+   {
+      "name": "John Day SD 3",
+      "location": {
+         "state": {
+            "name": "Oregon",
+            "abbr": "OR",
+            "county": "Grant County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "594",
+      "fte": "38",
+      "pupilTeacherRatio": "15.63",
+      "numberOfSchools": "3"
+   },
+   {
+      "name": "Jordan Valley SD 3",
+      "location": {
+         "state": {
+            "name": "Oregon",
+            "abbr": "OR",
+            "county": "Malheur County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "56",
+      "fte": "8.5",
+      "pupilTeacherRatio": "6.59",
+      "numberOfSchools": "3"
+   },
+   {
+      "name": "Joseph SD 6",
+      "location": {
+         "state": {
+            "name": "Oregon",
+            "abbr": "OR",
+            "county": "Wallowa County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "264",
+      "fte": "18.37",
+      "pupilTeacherRatio": "14.37",
+      "numberOfSchools": "2"
+   },
+   {
+      "name": "Junction City SD 69",
+      "location": {
+         "state": {
+            "name": "Oregon",
+            "abbr": "OR",
+            "county": "Lane County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "1724",
+      "fte": "92.48",
+      "pupilTeacherRatio": "18.64",
+      "numberOfSchools": "4"
+   },
+   {
+      "name": "Juntura SD 12",
+      "location": {
+         "state": {
+            "name": "Oregon",
+            "abbr": "OR",
+            "county": "Malheur County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "8th Grade"
+      },
+      "students": "2",
+      "fte": "1",
+      "pupilTeacherRatio": "2",
+      "numberOfSchools": "1"
+   },
+   {
+      "name": "Klamath County SD",
+      "location": {
+         "state": {
+            "name": "Oregon",
+            "abbr": "OR",
+            "county": "Klamath County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "6842",
+      "fte": "361.08",
+      "pupilTeacherRatio": "18.95",
+      "numberOfSchools": "22"
+   },
+   {
+      "name": "Klamath Falls City Schools",
+      "location": {
+         "state": {
+            "name": "Oregon",
+            "abbr": "OR",
+            "county": "Klamath County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "2931",
+      "fte": "157.97",
+      "pupilTeacherRatio": "18.55",
+      "numberOfSchools": "8"
+   },
+   {
+      "name": "Knappa SD 4",
+      "location": {
+         "state": {
+            "name": "Oregon",
+            "abbr": "OR",
+            "county": "Clatsop County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "504",
+      "fte": "29.5",
+      "pupilTeacherRatio": "17.08",
+      "numberOfSchools": "2"
+   },
+   {
+      "name": "La Grande SD 1",
+      "location": {
+         "state": {
+            "name": "Oregon",
+            "abbr": "OR",
+            "county": "Union County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "2334",
+      "fte": "125.63",
+      "pupilTeacherRatio": "18.58",
+      "numberOfSchools": "5"
+   },
+   {
+      "name": "Lake County SD 7",
+      "location": {
+         "state": {
+            "name": "Oregon",
+            "abbr": "OR",
+            "county": "Lake County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "732",
+      "fte": "49.32",
+      "pupilTeacherRatio": "14.84",
+      "numberOfSchools": "4"
+   },
+   {
+      "name": "Lake ESD",
+      "location": {
+         "state": {
+            "name": "Oregon",
+            "abbr": "OR",
+            "county": "Lake County"
+         }
+      },
+      "type": "4-Regional Education Service Agency (RESA)",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "0",
+      "fte": "0",
+      "pupilTeacherRatio": "†",
+      "numberOfSchools": "0"
+   },
+   {
+      "name": "Lake Oswego SD 7j",
+      "location": {
+         "state": {
+            "name": "Oregon",
+            "abbr": "OR",
+            "county": "Clackamas County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "7106",
+      "fte": "374.35",
+      "pupilTeacherRatio": "18.98",
+      "numberOfSchools": "11"
+   },
+   {
+      "name": "Lane ESD",
+      "location": {
+         "state": {
+            "name": "Oregon",
+            "abbr": "OR",
+            "county": "Lane County"
+         }
+      },
+      "type": "4-Regional Education Service Agency (RESA)",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "0",
+      "fte": "30.34",
+      "pupilTeacherRatio": "0",
+      "numberOfSchools": "0"
+   },
+   {
+      "name": "Lebanon Community SD 9",
+      "location": {
+         "state": {
+            "name": "Oregon",
+            "abbr": "OR",
+            "county": "Linn County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "4231",
+      "fte": "223.22",
+      "pupilTeacherRatio": "18.95",
+      "numberOfSchools": "9"
+   },
+   {
+      "name": "Lincoln County SD",
+      "location": {
+         "state": {
+            "name": "Oregon",
+            "abbr": "OR",
+            "county": "Lincoln County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "5625",
+      "fte": "290.81",
+      "pupilTeacherRatio": "19.34",
+      "numberOfSchools": "17"
+   },
+   {
+      "name": "Linn Benton Lincoln ESD",
+      "location": {
+         "state": {
+            "name": "Oregon",
+            "abbr": "OR",
+            "county": "Linn County"
+         }
+      },
+      "type": "4-Regional Education Service Agency (RESA)",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "0",
+      "fte": "19.77",
+      "pupilTeacherRatio": "0",
+      "numberOfSchools": "0"
+   },
+   {
+      "name": "Long Creek SD 17",
+      "location": {
+         "state": {
+            "name": "Oregon",
+            "abbr": "OR",
+            "county": "Grant County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "39",
+      "fte": "5",
+      "pupilTeacherRatio": "7.8",
+      "numberOfSchools": "1"
+   },
+   {
+      "name": "Lowell SD 71",
+      "location": {
+         "state": {
+            "name": "Oregon",
+            "abbr": "OR",
+            "county": "Lane County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "860",
+      "fte": "38.77",
+      "pupilTeacherRatio": "22.18",
+      "numberOfSchools": "4"
+   },
+   {
+      "name": "Malheur County SD 51",
+      "location": {
+         "state": {
+            "name": "Oregon",
+            "abbr": "OR",
+            "county": "Malheur County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "3",
+      "fte": "0",
+      "pupilTeacherRatio": "†",
+      "numberOfSchools": "0"
+   },
+   {
+      "name": "Malheur ESD Region 14",
+      "location": {
+         "state": {
+            "name": "Oregon",
+            "abbr": "OR",
+            "county": "Malheur County"
+         }
+      },
+      "type": "4-Regional Education Service Agency (RESA)",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "0",
+      "fte": "6",
+      "pupilTeacherRatio": "0",
+      "numberOfSchools": "0"
+   },
+   {
+      "name": "Mapleton SD 32",
+      "location": {
+         "state": {
+            "name": "Oregon",
+            "abbr": "OR",
+            "county": "Lane County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "159",
+      "fte": "13.71",
+      "pupilTeacherRatio": "11.6",
+      "numberOfSchools": "2"
+   },
+   {
+      "name": "Marcola SD 79j",
+      "location": {
+         "state": {
+            "name": "Oregon",
+            "abbr": "OR",
+            "county": "Lane County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "655",
+      "fte": "17.4",
+      "pupilTeacherRatio": "37.64",
+      "numberOfSchools": "3"
+   },
+   {
+      "name": "Mckenzie SD 68",
+      "location": {
+         "state": {
+            "name": "Oregon",
+            "abbr": "OR",
+            "county": "Lane County"
+         }
+      },
+      "type": "7-Independent Charter District",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "227",
+      "fte": "16.4",
+      "pupilTeacherRatio": "13.84",
+      "numberOfSchools": "1"
+   },
+   {
+      "name": "Mcminnville SD 40",
+      "location": {
+         "state": {
+            "name": "Oregon",
+            "abbr": "OR",
+            "county": "Yamhill County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "6712",
+      "fte": "337.32",
+      "pupilTeacherRatio": "19.9",
+      "numberOfSchools": "9"
+   },
+   {
+      "name": "Medford SD 549c",
+      "location": {
+         "state": {
+            "name": "Oregon",
+            "abbr": "OR",
+            "county": "Jackson County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "14498",
+      "fte": "678.26",
+      "pupilTeacherRatio": "21.38",
+      "numberOfSchools": "23"
+   },
+   {
+      "name": "Milton-Freewater Unified SD 7",
+      "location": {
+         "state": {
+            "name": "Oregon",
+            "abbr": "OR",
+            "county": "Umatilla County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "1671",
+      "fte": "106.06",
+      "pupilTeacherRatio": "15.76",
+      "numberOfSchools": "4"
+   },
+   {
+      "name": "Mitchell SD 55",
+      "location": {
+         "state": {
+            "name": "Oregon",
+            "abbr": "OR",
+            "county": "Wheeler County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "533",
+      "fte": "26.95",
+      "pupilTeacherRatio": "19.78",
+      "numberOfSchools": "4"
+   },
+   {
+      "name": "Molalla River SD 35",
+      "location": {
+         "state": {
+            "name": "Oregon",
+            "abbr": "OR",
+            "county": "Clackamas County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "2803",
+      "fte": "146.82",
+      "pupilTeacherRatio": "19.09",
+      "numberOfSchools": "8"
+   },
+   {
+      "name": "Monroe SD 1j",
+      "location": {
+         "state": {
+            "name": "Oregon",
+            "abbr": "OR",
+            "county": "Benton County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "349",
+      "fte": "24.49",
+      "pupilTeacherRatio": "14.25",
+      "numberOfSchools": "2"
+   },
+   {
+      "name": "Monument SD 8",
+      "location": {
+         "state": {
+            "name": "Oregon",
+            "abbr": "OR",
+            "county": "Grant County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "49",
+      "fte": "6",
+      "pupilTeacherRatio": "8.17",
+      "numberOfSchools": "1"
+   },
+   {
+      "name": "Morrow SD 1",
+      "location": {
+         "state": {
+            "name": "Oregon",
+            "abbr": "OR",
+            "county": "Morrow County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "2290",
+      "fte": "135",
+      "pupilTeacherRatio": "16.96",
+      "numberOfSchools": "9"
+   },
+   {
+      "name": "Mt Angel SD 91",
+      "location": {
+         "state": {
+            "name": "Oregon",
+            "abbr": "OR",
+            "county": "Marion County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "718",
+      "fte": "45.8",
+      "pupilTeacherRatio": "15.68",
+      "numberOfSchools": "3"
+   },
+   {
+      "name": "Multnomah ESD",
+      "location": {
+         "state": {
+            "name": "Oregon",
+            "abbr": "OR",
+            "county": "Multnomah County"
+         }
+      },
+      "type": "4-Regional Education Service Agency (RESA)",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "0",
+      "fte": "74.77",
+      "pupilTeacherRatio": "0",
+      "numberOfSchools": "2"
+   },
+   {
+      "name": "Myrtle Point SD 41",
+      "location": {
+         "state": {
+            "name": "Oregon",
+            "abbr": "OR",
+            "county": "Coos County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "524",
+      "fte": "32.82",
+      "pupilTeacherRatio": "15.97",
+      "numberOfSchools": "2"
+   },
+   {
+      "name": "Neah-Kah-Nie SD 56",
+      "location": {
+         "state": {
+            "name": "Oregon",
+            "abbr": "OR",
+            "county": "Tillamook County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "806",
+      "fte": "49.5",
+      "pupilTeacherRatio": "16.28",
+      "numberOfSchools": "4"
+   },
+   {
+      "name": "Nestucca Valley SD 101j",
+      "location": {
+         "state": {
+            "name": "Oregon",
+            "abbr": "OR",
+            "county": "Tillamook County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "495",
+      "fte": "28.72",
+      "pupilTeacherRatio": "17.24",
+      "numberOfSchools": "2"
+   },
+   {
+      "name": "Newberg SD 29j",
+      "location": {
+         "state": {
+            "name": "Oregon",
+            "abbr": "OR",
+            "county": "Yamhill County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "4830",
+      "fte": "254.53",
+      "pupilTeacherRatio": "18.98",
+      "numberOfSchools": "9"
+   },
+   {
+      "name": "North Bend SD 13",
+      "location": {
+         "state": {
+            "name": "Oregon",
+            "abbr": "OR",
+            "county": "Coos County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "4200",
+      "fte": "185.61",
+      "pupilTeacherRatio": "22.63",
+      "numberOfSchools": "5"
+   },
+   {
+      "name": "North Central ESD",
+      "location": {
+         "state": {
+            "name": "Oregon",
+            "abbr": "OR",
+            "county": "Gilliam County"
+         }
+      },
+      "type": "4-Regional Education Service Agency (RESA)",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "0",
+      "fte": "4.45",
+      "pupilTeacherRatio": "0",
+      "numberOfSchools": "0"
+   },
+   {
+      "name": "North Clackamas SD 12",
+      "location": {
+         "state": {
+            "name": "Oregon",
+            "abbr": "OR",
+            "county": "Clackamas County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "17288",
+      "fte": "831.51",
+      "pupilTeacherRatio": "20.79",
+      "numberOfSchools": "31"
+   },
+   {
+      "name": "North Douglas SD 22",
+      "location": {
+         "state": {
+            "name": "Oregon",
+            "abbr": "OR",
+            "county": "Douglas County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "319",
+      "fte": "22.77",
+      "pupilTeacherRatio": "14.01",
+      "numberOfSchools": "2"
+   },
+   {
+      "name": "North Lake SD 14",
+      "location": {
+         "state": {
+            "name": "Oregon",
+            "abbr": "OR",
+            "county": "Lake County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "224",
+      "fte": "19",
+      "pupilTeacherRatio": "11.79",
+      "numberOfSchools": "1"
+   },
+   {
+      "name": "North Marion SD 15",
+      "location": {
+         "state": {
+            "name": "Oregon",
+            "abbr": "OR",
+            "county": "Marion County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "1861",
+      "fte": "103.21",
+      "pupilTeacherRatio": "18.03",
+      "numberOfSchools": "4"
+   },
+   {
+      "name": "North Powder SD 8j",
+      "location": {
+         "state": {
+            "name": "Oregon",
+            "abbr": "OR",
+            "county": "Union County"
+         }
+      },
+      "type": "7-Independent Charter District",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "266",
+      "fte": "23.81",
+      "pupilTeacherRatio": "11.17",
+      "numberOfSchools": "1"
+   },
+   {
+      "name": "North Santiam SD 29j",
+      "location": {
+         "state": {
+            "name": "Oregon",
+            "abbr": "OR",
+            "county": "Marion County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "2284",
+      "fte": "120.23",
+      "pupilTeacherRatio": "19",
+      "numberOfSchools": "5"
+   },
+   {
+      "name": "North Wasco County SD 21",
+      "location": {
+         "state": {
+            "name": "Oregon",
+            "abbr": "OR",
+            "county": "Wasco County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "2976",
+      "fte": "150.76",
+      "pupilTeacherRatio": "19.74",
+      "numberOfSchools": "7"
+   },
+   {
+      "name": "Northwest Regional ESD",
+      "location": {
+         "state": {
+            "name": "Oregon",
+            "abbr": "OR",
+            "county": "Washington County"
+         }
+      },
+      "type": "4-Regional Education Service Agency (RESA)",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "0",
+      "fte": "30.28",
+      "pupilTeacherRatio": "0",
+      "numberOfSchools": "0"
+   },
+   {
+      "name": "Nyssa SD 26",
+      "location": {
+         "state": {
+            "name": "Oregon",
+            "abbr": "OR",
+            "county": "Malheur County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "1212",
+      "fte": "73.39",
+      "pupilTeacherRatio": "16.51",
+      "numberOfSchools": "3"
+   },
+   {
+      "name": "Oakland SD 1",
+      "location": {
+         "state": {
+            "name": "Oregon",
+            "abbr": "OR",
+            "county": "Douglas County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "647",
+      "fte": "36.74",
+      "pupilTeacherRatio": "17.61",
+      "numberOfSchools": "3"
+   },
+   {
+      "name": "Oakridge SD 76",
+      "location": {
+         "state": {
+            "name": "Oregon",
+            "abbr": "OR",
+            "county": "Lane County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "568",
+      "fte": "34.6",
+      "pupilTeacherRatio": "16.42",
+      "numberOfSchools": "3"
+   },
+   {
+      "name": "Ode Head Start",
+      "location": {
+         "state": {
+            "name": "Oregon",
+            "abbr": "OR",
+            "county": "Marion County"
+         }
+      },
+      "type": "5-State agency providing elementary and/or secondary level instruction",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "0",
+      "fte": "0",
+      "pupilTeacherRatio": "†",
+      "numberOfSchools": "0"
+   },
+   {
+      "name": "Ode Hospital Program District",
+      "location": {
+         "state": {
+            "name": "OREGON",
+            "abbr": "OR",
+            "county": "Marion County"
+         }
+      },
+      "type": "5-State agency providing elementary and/or secondary level instruction",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "48",
+      "fte": "0",
+      "pupilTeacherRatio": "†",
+      "numberOfSchools": "0"
+   },
+   {
+      "name": "Ode Jdep District",
+      "location": {
+         "state": {
+            "name": "Oregon",
+            "abbr": "OR",
+            "county": "Marion County"
+         }
+      },
+      "type": "5-State agency providing elementary and/or secondary level instruction",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "152",
+      "fte": "0",
+      "pupilTeacherRatio": "†",
+      "numberOfSchools": "0"
+   },
+   {
+      "name": "Ode Ltct District",
+      "location": {
+         "state": {
+            "name": "Oregon",
+            "abbr": "OR",
+            "county": "Marion County"
+         }
+      },
+      "type": "5-State agency providing elementary and/or secondary level instruction",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "586",
+      "fte": "0",
+      "pupilTeacherRatio": "†",
+      "numberOfSchools": "0"
+   },
+   {
+      "name": "Ode Ycep District",
+      "location": {
+         "state": {
+            "name": "Oregon",
+            "abbr": "OR",
+            "county": "Marion County"
+         }
+      },
+      "type": "5-State agency providing elementary and/or secondary level instruction",
+      "grades": {
+         "lowest": "6th Grade",
+         "highest": "12th Grade"
+      },
+      "students": "302",
+      "fte": "0",
+      "pupilTeacherRatio": "†",
+      "numberOfSchools": "8"
+   },
+   {
+      "name": "Ontario SD 8c",
+      "location": {
+         "state": {
+            "name": "Oregon",
+            "abbr": "OR",
+            "county": "Malheur County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "2406",
+      "fte": "131.81",
+      "pupilTeacherRatio": "18.25",
+      "numberOfSchools": "7"
+   },
+   {
+      "name": "Oregon City SD 62",
+      "location": {
+         "state": {
+            "name": "Oregon",
+            "abbr": "OR",
+            "county": "Clackamas County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "8058",
+      "fte": "380.15",
+      "pupilTeacherRatio": "21.2",
+      "numberOfSchools": "14"
+   },
+   {
+      "name": "Oregon Department of Education",
+      "location": {
+         "state": {
+            "name": "Oregon",
+            "abbr": "OR",
+            "county": "Marion County"
+         }
+      },
+      "type": "5-State agency providing elementary and/or secondary level instruction",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "986",
+      "fte": "63.35",
+      "pupilTeacherRatio": "15.56",
+      "numberOfSchools": "5"
+   },
+   {
+      "name": "Oregon Trail SD 46",
+      "location": {
+         "state": {
+            "name": "Oregon",
+            "abbr": "OR",
+            "county": "Clackamas County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "4551",
+      "fte": "193.46",
+      "pupilTeacherRatio": "23.52",
+      "numberOfSchools": "10"
+   },
+   {
+      "name": "Paisley SD 11",
+      "location": {
+         "state": {
+            "name": "Oregon",
+            "abbr": "OR",
+            "county": "Lake County"
+         }
+      },
+      "type": "7-Independent Charter District",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "211",
+      "fte": "11.59",
+      "pupilTeacherRatio": "18.21",
+      "numberOfSchools": "1"
+   },
+   {
+      "name": "Parkrose SD 3",
+      "location": {
+         "state": {
+            "name": "Oregon",
+            "abbr": "OR",
+            "county": "Multnomah County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "3124",
+      "fte": "147.49",
+      "pupilTeacherRatio": "21.18",
+      "numberOfSchools": "6"
+   },
+   {
+      "name": "Pendleton SD 16",
+      "location": {
+         "state": {
+            "name": "Oregon",
+            "abbr": "OR",
+            "county": "Umatilla County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "3100",
+      "fte": "158.28",
+      "pupilTeacherRatio": "19.59",
+      "numberOfSchools": "8"
+   },
+   {
+      "name": "Perrydale SD 21",
+      "location": {
+         "state": {
+            "name": "Oregon",
+            "abbr": "OR",
+            "county": "Polk County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "316",
+      "fte": "18.13",
+      "pupilTeacherRatio": "17.43",
+      "numberOfSchools": "1"
+   },
+   {
+      "name": "Philomath SD 17j",
+      "location": {
+         "state": {
+            "name": "Oregon",
+            "abbr": "OR",
+            "county": "Benton County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "1656",
+      "fte": "96.58",
+      "pupilTeacherRatio": "17.15",
+      "numberOfSchools": "6"
+   },
+   {
+      "name": "Phoenix-Talent SD 4",
+      "location": {
+         "state": {
+            "name": "Oregon",
+            "abbr": "OR",
+            "county": "Jackson County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "2590",
+      "fte": "127.05",
+      "pupilTeacherRatio": "20.39",
+      "numberOfSchools": "6"
+   },
+   {
+      "name": "Pilot Rock SD 2",
+      "location": {
+         "state": {
+            "name": "Oregon",
+            "abbr": "OR",
+            "county": "Umatilla County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "303",
+      "fte": "17",
+      "pupilTeacherRatio": "17.82",
+      "numberOfSchools": "2"
+   },
+   {
+      "name": "Pine Creek SD 5",
+      "location": {
+         "state": {
+            "name": "Oregon",
+            "abbr": "OR",
+            "county": "Harney County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "8th Grade"
+      },
+      "students": "4",
+      "fte": "1.01",
+      "pupilTeacherRatio": "3.96",
+      "numberOfSchools": "1"
+   },
+   {
+      "name": "Pine Eagle SD 61",
+      "location": {
+         "state": {
+            "name": "Oregon",
+            "abbr": "OR",
+            "county": "Baker County"
+         }
+      },
+      "type": "7-Independent Charter District",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "227",
+      "fte": "17.22",
+      "pupilTeacherRatio": "13.18",
+      "numberOfSchools": "1"
+   },
+   {
+      "name": "Pinehurst SD 94",
+      "location": {
+         "state": {
+            "name": "Oregon",
+            "abbr": "OR",
+            "county": "Jackson County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "15",
+      "fte": "1.88",
+      "pupilTeacherRatio": "7.98",
+      "numberOfSchools": "1"
+   },
+   {
+      "name": "Pleasant Hill SD 1",
+      "location": {
+         "state": {
+            "name": "Oregon",
+            "abbr": "OR",
+            "county": "Lane County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "1039",
+      "fte": "51.87",
+      "pupilTeacherRatio": "20.03",
+      "numberOfSchools": "2"
+   },
+   {
+      "name": "Plush SD 18",
+      "location": {
+         "state": {
+            "name": "Oregon",
+            "abbr": "OR",
+            "county": "Lake County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "11",
+      "fte": "1",
+      "pupilTeacherRatio": "11",
+      "numberOfSchools": "1"
+   },
+   {
+      "name": "Port Orford-Langlois SD 2cj",
+      "location": {
+         "state": {
+            "name": "Oregon",
+            "abbr": "OR",
+            "county": "Curry County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "229",
+      "fte": "14.59",
+      "pupilTeacherRatio": "15.7",
+      "numberOfSchools": "2"
+   },
+   {
+      "name": "Portland SD 1j",
+      "location": {
+         "state": {
+            "name": "Oregon",
+            "abbr": "OR",
+            "county": "Multnomah County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "48601",
+      "fte": "2763.3",
+      "pupilTeacherRatio": "17.59",
+      "numberOfSchools": "86"
+   },
+   {
+      "name": "Powers SD 31",
+      "location": {
+         "state": {
+            "name": "Oregon",
+            "abbr": "OR",
+            "county": "Coos County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "117",
+      "fte": "12.5",
+      "pupilTeacherRatio": "9.36",
+      "numberOfSchools": "2"
+   },
+   {
+      "name": "Prairie City SD 4",
+      "location": {
+         "state": {
+            "name": "Oregon",
+            "abbr": "OR",
+            "county": "Grant County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "170",
+      "fte": "13.5",
+      "pupilTeacherRatio": "12.59",
+      "numberOfSchools": "1"
+   },
+   {
+      "name": "Prospect SD 59",
+      "location": {
+         "state": {
+            "name": "Oregon",
+            "abbr": "OR",
+            "county": "Jackson County"
+         }
+      },
+      "type": "7-Independent Charter District",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "213",
+      "fte": "17.14",
+      "pupilTeacherRatio": "12.43",
+      "numberOfSchools": "1"
+   },
+   {
+      "name": "Rainier SD 13",
+      "location": {
+         "state": {
+            "name": "Oregon",
+            "abbr": "OR",
+            "county": "Columbia County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "920",
+      "fte": "51.25",
+      "pupilTeacherRatio": "17.95",
+      "numberOfSchools": "3"
+   },
+   {
+      "name": "Redmond SD 2j",
+      "location": {
+         "state": {
+            "name": "Oregon",
+            "abbr": "OR",
+            "county": "Deschutes County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "7470",
+      "fte": "364.27",
+      "pupilTeacherRatio": "20.51",
+      "numberOfSchools": "13"
+   },
+   {
+      "name": "Reedsport SD 105",
+      "location": {
+         "state": {
+            "name": "Oregon",
+            "abbr": "OR",
+            "county": "Douglas County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "628",
+      "fte": "34.11",
+      "pupilTeacherRatio": "18.41",
+      "numberOfSchools": "2"
+   },
+   {
+      "name": "Region 18 ESD",
+      "location": {
+         "state": {
+            "name": "Oregon",
+            "abbr": "OR",
+            "county": "Wallowa County"
+         }
+      },
+      "type": "4-Regional Education Service Agency (RESA)",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "0",
+      "fte": "5.8",
+      "pupilTeacherRatio": "0",
+      "numberOfSchools": "0"
+   },
+   {
+      "name": "Reynolds SD 7",
+      "location": {
+         "state": {
+            "name": "Oregon",
+            "abbr": "OR",
+            "county": "Multnomah County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "11071",
+      "fte": "573.16",
+      "pupilTeacherRatio": "19.32",
+      "numberOfSchools": "19"
+   },
+   {
+      "name": "Riddle SD 70",
+      "location": {
+         "state": {
+            "name": "Oregon",
+            "abbr": "OR",
+            "county": "Douglas County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "398",
+      "fte": "26.06",
+      "pupilTeacherRatio": "15.27",
+      "numberOfSchools": "2"
+   },
+   {
+      "name": "Riverdale SD 51j",
+      "location": {
+         "state": {
+            "name": "Oregon",
+            "abbr": "OR",
+            "county": "Multnomah County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "648",
+      "fte": "38.9",
+      "pupilTeacherRatio": "16.66",
+      "numberOfSchools": "2"
+   },
+   {
+      "name": "Rogue River SD 35",
+      "location": {
+         "state": {
+            "name": "Oregon",
+            "abbr": "OR",
+            "county": "Jackson County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "1102",
+      "fte": "58.13",
+      "pupilTeacherRatio": "18.96",
+      "numberOfSchools": "4"
+   },
+   {
+      "name": "Salem-Keizer SD 24j",
+      "location": {
+         "state": {
+            "name": "Oregon",
+            "abbr": "OR",
+            "county": "Marion County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "41792",
+      "fte": "2027.37",
+      "pupilTeacherRatio": "20.61",
+      "numberOfSchools": "65"
+   },
+   {
+      "name": "Santiam Canyon SD 129j",
+      "location": {
+         "state": {
+            "name": "Oregon",
+            "abbr": "OR",
+            "county": "Linn County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "4454",
+      "fte": "197.64",
+      "pupilTeacherRatio": "22.54",
+      "numberOfSchools": "3"
+   },
+   {
+      "name": "Scappoose SD 1j",
+      "location": {
+         "state": {
+            "name": "Oregon",
+            "abbr": "OR",
+            "county": "Columbia County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "2410",
+      "fte": "122.98",
+      "pupilTeacherRatio": "19.6",
+      "numberOfSchools": "7"
+   },
+   {
+      "name": "Scio SD 95",
+      "location": {
+         "state": {
+            "name": "Oregon",
+            "abbr": "OR",
+            "county": "Linn County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "863",
+      "fte": "74.63",
+      "pupilTeacherRatio": "11.56",
+      "numberOfSchools": "6"
+   },
+   {
+      "name": "Seaside SD 10",
+      "location": {
+         "state": {
+            "name": "Oregon",
+            "abbr": "OR",
+            "county": "Clatsop County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "1622",
+      "fte": "86.5",
+      "pupilTeacherRatio": "18.75",
+      "numberOfSchools": "5"
+   },
+   {
+      "name": "Sheridan SD 48j",
+      "location": {
+         "state": {
+            "name": "Oregon",
+            "abbr": "OR",
+            "county": "Yamhill County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "915",
+      "fte": "59.53",
+      "pupilTeacherRatio": "15.37",
+      "numberOfSchools": "4"
+   },
+   {
+      "name": "Sherman County SD",
+      "location": {
+         "state": {
+            "name": "Oregon",
+            "abbr": "OR",
+            "county": "Sherman County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "267",
+      "fte": "18.47",
+      "pupilTeacherRatio": "14.46",
+      "numberOfSchools": "1"
+   },
+   {
+      "name": "Sherwood SD 88j",
+      "location": {
+         "state": {
+            "name": "Oregon",
+            "abbr": "OR",
+            "county": "Washington County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "5273",
+      "fte": "238.57",
+      "pupilTeacherRatio": "22.1",
+      "numberOfSchools": "8"
+   },
+   {
+      "name": "Silver Falls SD 4j",
+      "location": {
+         "state": {
+            "name": "Oregon",
+            "abbr": "OR",
+            "county": "Marion County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "3984",
+      "fte": "210.61",
+      "pupilTeacherRatio": "18.92",
+      "numberOfSchools": "13"
+   },
+   {
+      "name": "Sisters SD 6",
+      "location": {
+         "state": {
+            "name": "Oregon",
+            "abbr": "OR",
+            "county": "Deschutes County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "1105",
+      "fte": "59.61",
+      "pupilTeacherRatio": "18.54",
+      "numberOfSchools": "3"
+   },
+   {
+      "name": "Siuslaw SD 97j",
+      "location": {
+         "state": {
+            "name": "Oregon",
+            "abbr": "OR",
+            "county": "Lane County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "1355",
+      "fte": "83.46",
+      "pupilTeacherRatio": "16.24",
+      "numberOfSchools": "3"
+   },
+   {
+      "name": "South Coast ESD",
+      "location": {
+         "state": {
+            "name": "Oregon",
+            "abbr": "OR",
+            "county": "Coos County"
+         }
+      },
+      "type": "4-Regional Education Service Agency (RESA)",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "0",
+      "fte": "12",
+      "pupilTeacherRatio": "0",
+      "numberOfSchools": "0"
+   },
+   {
+      "name": "South Harney SD 33",
+      "location": {
+         "state": {
+            "name": "Oregon",
+            "abbr": "OR",
+            "county": "Harney County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "8th Grade"
+      },
+      "students": "15",
+      "fte": "2",
+      "pupilTeacherRatio": "7.5",
+      "numberOfSchools": "1"
+   },
+   {
+      "name": "South Lane SD 45j3",
+      "location": {
+         "state": {
+            "name": "Oregon",
+            "abbr": "OR",
+            "county": "Lane County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "2808",
+      "fte": "143.56",
+      "pupilTeacherRatio": "19.56",
+      "numberOfSchools": "9"
+   },
+   {
+      "name": "South Umpqua SD 19",
+      "location": {
+         "state": {
+            "name": "Oregon",
+            "abbr": "OR",
+            "county": "Douglas County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "1521",
+      "fte": "83.96",
+      "pupilTeacherRatio": "18.12",
+      "numberOfSchools": "5"
+   },
+   {
+      "name": "South Wasco County SD 1",
+      "location": {
+         "state": {
+            "name": "Oregon",
+            "abbr": "OR",
+            "county": "Wasco County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "226",
+      "fte": "15.28",
+      "pupilTeacherRatio": "14.79",
+      "numberOfSchools": "2"
+   },
+   {
+      "name": "Southern Oregon ESD",
+      "location": {
+         "state": {
+            "name": "Oregon",
+            "abbr": "OR",
+            "county": "Jackson County"
+         }
+      },
+      "type": "4-Regional Education Service Agency (RESA)",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "0",
+      "fte": "25.11",
+      "pupilTeacherRatio": "0",
+      "numberOfSchools": "0"
+   },
+   {
+      "name": "Spray SD 1",
+      "location": {
+         "state": {
+            "name": "Oregon",
+            "abbr": "OR",
+            "county": "Wheeler County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "64",
+      "fte": "7.38",
+      "pupilTeacherRatio": "8.67",
+      "numberOfSchools": "1"
+   },
+   {
+      "name": "Springfield SD 19",
+      "location": {
+         "state": {
+            "name": "Oregon",
+            "abbr": "OR",
+            "county": "Lane County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "10519",
+      "fte": "534.18",
+      "pupilTeacherRatio": "19.69",
+      "numberOfSchools": "21"
+   },
+   {
+      "name": "St Helens SD 502",
+      "location": {
+         "state": {
+            "name": "Oregon",
+            "abbr": "OR",
+            "county": "Columbia County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "2835",
+      "fte": "150.36",
+      "pupilTeacherRatio": "18.85",
+      "numberOfSchools": "7"
+   },
+   {
+      "name": "St Paul SD 45",
+      "location": {
+         "state": {
+            "name": "Oregon",
+            "abbr": "OR",
+            "county": "Marion County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "290",
+      "fte": "20.76",
+      "pupilTeacherRatio": "13.97",
+      "numberOfSchools": "2"
+   },
+   {
+      "name": "Stanfield SD 61",
+      "location": {
+         "state": {
+            "name": "Oregon",
+            "abbr": "OR",
+            "county": "Umatilla County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "527",
+      "fte": "28.21",
+      "pupilTeacherRatio": "18.68",
+      "numberOfSchools": "2"
+   },
+   {
+      "name": "Suntex SD 10",
+      "location": {
+         "state": {
+            "name": "Oregon",
+            "abbr": "OR",
+            "county": "Harney County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "8th Grade"
+      },
+      "students": "4",
+      "fte": "1",
+      "pupilTeacherRatio": "4",
+      "numberOfSchools": "1"
+   },
+   {
+      "name": "Sutherlin SD 130",
+      "location": {
+         "state": {
+            "name": "Oregon",
+            "abbr": "OR",
+            "county": "Douglas County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "1402",
+      "fte": "74.6",
+      "pupilTeacherRatio": "18.79",
+      "numberOfSchools": "5"
+   },
+   {
+      "name": "Sweet Home SD 55",
+      "location": {
+         "state": {
+            "name": "Oregon",
+            "abbr": "OR",
+            "county": "Linn County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "2323",
+      "fte": "123.05",
+      "pupilTeacherRatio": "18.88",
+      "numberOfSchools": "7"
+   },
+   {
+      "name": "Three Rivers/josephine County SD",
+      "location": {
+         "state": {
+            "name": "Oregon",
+            "abbr": "OR",
+            "county": "Josephine County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "4815",
+      "fte": "228.37",
+      "pupilTeacherRatio": "21.08",
+      "numberOfSchools": "15"
+   },
+   {
+      "name": "Tigard-Tualatin SD 23j",
+      "location": {
+         "state": {
+            "name": "Oregon",
+            "abbr": "OR",
+            "county": "Washington County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "12625",
+      "fte": "648.77",
+      "pupilTeacherRatio": "19.46",
+      "numberOfSchools": "17"
+   },
+   {
+      "name": "Tillamook SD 9",
+      "location": {
+         "state": {
+            "name": "Oregon",
+            "abbr": "OR",
+            "county": "Tillamook County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "2254",
+      "fte": "123.89",
+      "pupilTeacherRatio": "18.19",
+      "numberOfSchools": "5"
+   },
+   {
+      "name": "Troy SD 54",
+      "location": {
+         "state": {
+            "name": "Oregon",
+            "abbr": "OR",
+            "county": "Wallowa County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "8th Grade"
+      },
+      "students": "3",
+      "fte": "1",
+      "pupilTeacherRatio": "3",
+      "numberOfSchools": "1"
+   },
+   {
+      "name": "Ukiah SD 80r",
+      "location": {
+         "state": {
+            "name": "Oregon",
+            "abbr": "OR",
+            "county": "Umatilla County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "29",
+      "fte": "4.75",
+      "pupilTeacherRatio": "6.11",
+      "numberOfSchools": "1"
+   },
+   {
+      "name": "Umatilla SD 6r",
+      "location": {
+         "state": {
+            "name": "Oregon",
+            "abbr": "OR",
+            "county": "Umatilla County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "1425",
+      "fte": "80.96",
+      "pupilTeacherRatio": "17.6",
+      "numberOfSchools": "3"
+   },
+   {
+      "name": "Union SD 5",
+      "location": {
+         "state": {
+            "name": "Oregon",
+            "abbr": "OR",
+            "county": "Union County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "373",
+      "fte": "23.16",
+      "pupilTeacherRatio": "16.11",
+      "numberOfSchools": "2"
+   },
+   {
+      "name": "Vale SD 84",
+      "location": {
+         "state": {
+            "name": "Oregon",
+            "abbr": "OR",
+            "county": "Malheur County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "906",
+      "fte": "58",
+      "pupilTeacherRatio": "15.62",
+      "numberOfSchools": "4"
+   },
+   {
+      "name": "Vernonia SD 47j",
+      "location": {
+         "state": {
+            "name": "Oregon",
+            "abbr": "OR",
+            "county": "Columbia County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "581",
+      "fte": "34.53",
+      "pupilTeacherRatio": "16.83",
+      "numberOfSchools": "4"
+   },
+   {
+      "name": "Wallowa SD 12",
+      "location": {
+         "state": {
+            "name": "Oregon",
+            "abbr": "OR",
+            "county": "Wallowa County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "191",
+      "fte": "16.5",
+      "pupilTeacherRatio": "11.58",
+      "numberOfSchools": "2"
+   },
+   {
+      "name": "Warrenton-Hammond SD 30",
+      "location": {
+         "state": {
+            "name": "Oregon",
+            "abbr": "OR",
+            "county": "Clatsop County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "1027",
+      "fte": "56.86",
+      "pupilTeacherRatio": "18.06",
+      "numberOfSchools": "2"
+   },
+   {
+      "name": "West Linn-Wilsonville SD 3j",
+      "location": {
+         "state": {
+            "name": "Oregon",
+            "abbr": "OR",
+            "county": "Clackamas County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "9808",
+      "fte": "494.92",
+      "pupilTeacherRatio": "19.82",
+      "numberOfSchools": "17"
+   },
+   {
+      "name": "Willamette ESD",
+      "location": {
+         "state": {
+            "name": "Oregon",
+            "abbr": "OR",
+            "county": "Marion County"
+         }
+      },
+      "type": "4-Regional Education Service Agency (RESA)",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "0",
+      "fte": "21.29",
+      "pupilTeacherRatio": "0",
+      "numberOfSchools": "0"
+   },
+   {
+      "name": "Willamina SD 30j",
+      "location": {
+         "state": {
+            "name": "Oregon",
+            "abbr": "OR",
+            "county": "Yamhill County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "872",
+      "fte": "49.56",
+      "pupilTeacherRatio": "17.59",
+      "numberOfSchools": "3"
+   },
+   {
+      "name": "Winston-Dillard SD 116",
+      "location": {
+         "state": {
+            "name": "Oregon",
+            "abbr": "OR",
+            "county": "Douglas County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "1393",
+      "fte": "75.75",
+      "pupilTeacherRatio": "18.39",
+      "numberOfSchools": "6"
+   },
+   {
+      "name": "Woodburn SD 103",
+      "location": {
+         "state": {
+            "name": "Oregon",
+            "abbr": "OR",
+            "county": "Marion County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "5634",
+      "fte": "305.34",
+      "pupilTeacherRatio": "18.45",
+      "numberOfSchools": "12"
+   },
+   {
+      "name": "Yamhill Carlton SD 1",
+      "location": {
+         "state": {
+            "name": "Oregon",
+            "abbr": "OR",
+            "county": "Yamhill County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "1048",
+      "fte": "54.35",
+      "pupilTeacherRatio": "19.28",
+      "numberOfSchools": "3"
+   },
+   {
+      "name": "Yoncalla SD 32",
+      "location": {
+         "state": {
+            "name": "Oregon",
+            "abbr": "OR",
+            "county": "Douglas County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "265",
+      "fte": "18",
+      "pupilTeacherRatio": "14.72",
+      "numberOfSchools": "2"
+   }
+]

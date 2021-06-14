@@ -1,0 +1,5151 @@
+[
+   {
+      "name": "Academy School District No. 20 in the County of El Paso An",
+      "location": {
+         "state": {
+            "name": "Colorado",
+            "abbr": "CO",
+            "county": "El Paso County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "26603",
+      "fte": "1606.04",
+      "pupilTeacherRatio": "16.56",
+      "numberOfSchools": "40"
+   },
+   {
+      "name": "Adams 1 Mapleton",
+      "location": {
+         "state": {
+            "name": "Colorado",
+            "abbr": "CO",
+            "county": "Adams County"
+         }
+      },
+      "type": "4-Regional Education Service Agency (RESA)",
+      "grades": {
+         "lowest": "–",
+         "highest": "–"
+      },
+      "students": "†",
+      "fte": "†",
+      "pupilTeacherRatio": "†",
+      "numberOfSchools": "0"
+   },
+   {
+      "name": "Adams 12 Five Star Schools",
+      "location": {
+         "state": {
+            "name": "Colorado",
+            "abbr": "CO",
+            "county": "Adams County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "38707",
+      "fte": "2075.79",
+      "pupilTeacherRatio": "18.65",
+      "numberOfSchools": "53"
+   },
+   {
+      "name": "Adams 12 Northglenn",
+      "location": {
+         "state": {
+            "name": "Colorado",
+            "abbr": "CO",
+            "county": "Adams County"
+         }
+      },
+      "type": "4-Regional Education Service Agency (RESA)",
+      "grades": {
+         "lowest": "–",
+         "highest": "–"
+      },
+      "students": "†",
+      "fte": "†",
+      "pupilTeacherRatio": "†",
+      "numberOfSchools": "0"
+   },
+   {
+      "name": "Adams 14 Commerce City",
+      "location": {
+         "state": {
+            "name": "Colorado",
+            "abbr": "CO",
+            "county": "Adams County"
+         }
+      },
+      "type": "4-Regional Education Service Agency (RESA)",
+      "grades": {
+         "lowest": "–",
+         "highest": "–"
+      },
+      "students": "†",
+      "fte": "†",
+      "pupilTeacherRatio": "†",
+      "numberOfSchools": "0"
+   },
+   {
+      "name": "Adams 27j School District 27j",
+      "location": {
+         "state": {
+            "name": "Colorado",
+            "abbr": "CO",
+            "county": "Adams County"
+         }
+      },
+      "type": "4-Regional Education Service Agency (RESA)",
+      "grades": {
+         "lowest": "–",
+         "highest": "–"
+      },
+      "students": "†",
+      "fte": "†",
+      "pupilTeacherRatio": "†",
+      "numberOfSchools": "0"
+   },
+   {
+      "name": "Adams County Boces",
+      "location": {
+         "state": {
+            "name": "Colorado",
+            "abbr": "CO",
+            "county": "Adams County"
+         }
+      },
+      "type": "4-Regional Education Service Agency (RESA)",
+      "grades": {
+         "lowest": "†",
+         "highest": "†"
+      },
+      "students": "†",
+      "fte": "0",
+      "pupilTeacherRatio": "–",
+      "numberOfSchools": "0"
+   },
+   {
+      "name": "Adams-Arap 28j Aurora",
+      "location": {
+         "state": {
+            "name": "Colorado",
+            "abbr": "CO",
+            "county": "Arapahoe County"
+         }
+      },
+      "type": "4-Regional Education Service Agency (RESA)",
+      "grades": {
+         "lowest": "–",
+         "highest": "–"
+      },
+      "students": "†",
+      "fte": "†",
+      "pupilTeacherRatio": "†",
+      "numberOfSchools": "0"
+   },
+   {
+      "name": "Agate School District No. 300",
+      "location": {
+         "state": {
+            "name": "Colorado",
+            "abbr": "CO",
+            "county": "Elbert County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "44",
+      "fte": "7.16",
+      "pupilTeacherRatio": "6.15",
+      "numberOfSchools": "2"
+   },
+   {
+      "name": "Aguilar Reorganized School District No. 6",
+      "location": {
+         "state": {
+            "name": "Colorado",
+            "abbr": "CO",
+            "county": "Las Animas County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "121",
+      "fte": "9.54",
+      "pupilTeacherRatio": "12.68",
+      "numberOfSchools": "2"
+   },
+   {
+      "name": "Akron School District No. R-1",
+      "location": {
+         "state": {
+            "name": "Colorado",
+            "abbr": "CO",
+            "county": "Washington County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "371",
+      "fte": "35.96",
+      "pupilTeacherRatio": "10.32",
+      "numberOfSchools": "2"
+   },
+   {
+      "name": "Alamosa School District No. Re-11j",
+      "location": {
+         "state": {
+            "name": "Colorado",
+            "abbr": "CO",
+            "county": "Alamosa County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "2298",
+      "fte": "133.84",
+      "pupilTeacherRatio": "17.17",
+      "numberOfSchools": "4"
+   },
+   {
+      "name": "Arapahoe 1 Englewood",
+      "location": {
+         "state": {
+            "name": "Colorado",
+            "abbr": "CO",
+            "county": "Arapahoe County"
+         }
+      },
+      "type": "4-Regional Education Service Agency (RESA)",
+      "grades": {
+         "lowest": "–",
+         "highest": "–"
+      },
+      "students": "†",
+      "fte": "†",
+      "pupilTeacherRatio": "†",
+      "numberOfSchools": "0"
+   },
+   {
+      "name": "Arapahoe 2 Sheridan",
+      "location": {
+         "state": {
+            "name": "Colorado",
+            "abbr": "CO",
+            "county": "Arapahoe County"
+         }
+      },
+      "type": "4-Regional Education Service Agency (RESA)",
+      "grades": {
+         "lowest": "–",
+         "highest": "–"
+      },
+      "students": "†",
+      "fte": "†",
+      "pupilTeacherRatio": "†",
+      "numberOfSchools": "0"
+   },
+   {
+      "name": "Arapahoe 5 Cherry Creek",
+      "location": {
+         "state": {
+            "name": "Colorado",
+            "abbr": "CO",
+            "county": "Arapahoe County"
+         }
+      },
+      "type": "4-Regional Education Service Agency (RESA)",
+      "grades": {
+         "lowest": "–",
+         "highest": "–"
+      },
+      "students": "†",
+      "fte": "†",
+      "pupilTeacherRatio": "†",
+      "numberOfSchools": "0"
+   },
+   {
+      "name": "Arapahoe 6 Littleton",
+      "location": {
+         "state": {
+            "name": "Colorado",
+            "abbr": "CO",
+            "county": "Arapahoe County"
+         }
+      },
+      "type": "4-Regional Education Service Agency (RESA)",
+      "grades": {
+         "lowest": "–",
+         "highest": "–"
+      },
+      "students": "†",
+      "fte": "†",
+      "pupilTeacherRatio": "†",
+      "numberOfSchools": "0"
+   },
+   {
+      "name": "Archuleta County School District No. 50 Jt",
+      "location": {
+         "state": {
+            "name": "Colorado",
+            "abbr": "CO",
+            "county": "Archuleta County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "1742",
+      "fte": "105.31",
+      "pupilTeacherRatio": "16.54",
+      "numberOfSchools": "4"
+   },
+   {
+      "name": "Arickaree School District No. R-2",
+      "location": {
+         "state": {
+            "name": "Colorado",
+            "abbr": "CO",
+            "county": "Washington County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "114",
+      "fte": "14.52",
+      "pupilTeacherRatio": "7.85",
+      "numberOfSchools": "2"
+   },
+   {
+      "name": "Arriba-Flagler Consolidated School District No. 20",
+      "location": {
+         "state": {
+            "name": "Colorado",
+            "abbr": "CO",
+            "county": "Kit Carson County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "152",
+      "fte": "16",
+      "pupilTeacherRatio": "9.5",
+      "numberOfSchools": "1"
+   },
+   {
+      "name": "Aspen 1",
+      "location": {
+         "state": {
+            "name": "COLORADO",
+            "abbr": "CO",
+            "county": "Pitkin County"
+         }
+      },
+      "type": "4-Regional Education Service Agency (RESA)",
+      "grades": {
+         "lowest": "–",
+         "highest": "–"
+      },
+      "students": "†",
+      "fte": "†",
+      "pupilTeacherRatio": "†",
+      "numberOfSchools": "0"
+   },
+   {
+      "name": "Aspen School District No. 1 in the County of Pitkin and Sta",
+      "location": {
+         "state": {
+            "name": "Colorado",
+            "abbr": "CO",
+            "county": "Pitkin County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "1653",
+      "fte": "131.67",
+      "pupilTeacherRatio": "12.55",
+      "numberOfSchools": "5"
+   },
+   {
+      "name": "Aurora Joint District No. 28 of the Counties of Adams and A",
+      "location": {
+         "state": {
+            "name": "Colorado",
+            "abbr": "CO",
+            "county": "Arapahoe County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "40088",
+      "fte": "2260.56",
+      "pupilTeacherRatio": "17.73",
+      "numberOfSchools": "64"
+   },
+   {
+      "name": "Bayfield School District No. 10jt-R",
+      "location": {
+         "state": {
+            "name": "Colorado",
+            "abbr": "CO",
+            "county": "La Plata County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "1363",
+      "fte": "101.71",
+      "pupilTeacherRatio": "13.4",
+      "numberOfSchools": "4"
+   },
+   {
+      "name": "Bennett School District No. 29j",
+      "location": {
+         "state": {
+            "name": "Colorado",
+            "abbr": "CO",
+            "county": "Adams County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "1117",
+      "fte": "62.47",
+      "pupilTeacherRatio": "17.88",
+      "numberOfSchools": "5"
+   },
+   {
+      "name": "Bethune School District No. R- 5",
+      "location": {
+         "state": {
+            "name": "Colorado",
+            "abbr": "CO",
+            "county": "Kit Carson County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "118",
+      "fte": "13.71",
+      "pupilTeacherRatio": "8.61",
+      "numberOfSchools": "1"
+   },
+   {
+      "name": "Big Sandy School District No. 100j",
+      "location": {
+         "state": {
+            "name": "Colorado",
+            "abbr": "CO",
+            "county": "Elbert County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "335",
+      "fte": "28.51",
+      "pupilTeacherRatio": "11.75",
+      "numberOfSchools": "3"
+   },
+   {
+      "name": "Boulder Re-1j St Vrain",
+      "location": {
+         "state": {
+            "name": "Colorado",
+            "abbr": "CO",
+            "county": "Boulder County"
+         }
+      },
+      "type": "4-Regional Education Service Agency (RESA)",
+      "grades": {
+         "lowest": "–",
+         "highest": "–"
+      },
+      "students": "†",
+      "fte": "†",
+      "pupilTeacherRatio": "†",
+      "numberOfSchools": "0"
+   },
+   {
+      "name": "Boulder Re-2 Boulder",
+      "location": {
+         "state": {
+            "name": "Colorado",
+            "abbr": "CO",
+            "county": "Boulder County"
+         }
+      },
+      "type": "4-Regional Education Service Agency (RESA)",
+      "grades": {
+         "lowest": "–",
+         "highest": "–"
+      },
+      "students": "†",
+      "fte": "†",
+      "pupilTeacherRatio": "†",
+      "numberOfSchools": "0"
+   },
+   {
+      "name": "Boulder Valley School District No. Re2",
+      "location": {
+         "state": {
+            "name": "Colorado",
+            "abbr": "CO",
+            "county": "Boulder County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "31000",
+      "fte": "1755.66",
+      "pupilTeacherRatio": "17.66",
+      "numberOfSchools": "56"
+   },
+   {
+      "name": "Branson Reorganized School District No. 82",
+      "location": {
+         "state": {
+            "name": "Colorado",
+            "abbr": "CO",
+            "county": "Las Animas County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "431",
+      "fte": "32.7",
+      "pupilTeacherRatio": "13.18",
+      "numberOfSchools": "2"
+   },
+   {
+      "name": "Buena Vista School District No. R-31",
+      "location": {
+         "state": {
+            "name": "Colorado",
+            "abbr": "CO",
+            "county": "Chaffee County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "1077",
+      "fte": "73.88",
+      "pupilTeacherRatio": "14.58",
+      "numberOfSchools": "5"
+   },
+   {
+      "name": "Burlington Public School District No. Re-6j",
+      "location": {
+         "state": {
+            "name": "Colorado",
+            "abbr": "CO",
+            "county": "Kit Carson County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "778",
+      "fte": "48.35",
+      "pupilTeacherRatio": "16.09",
+      "numberOfSchools": "3"
+   },
+   {
+      "name": "Byers School District No. 32j",
+      "location": {
+         "state": {
+            "name": "Colorado",
+            "abbr": "CO",
+            "county": "Arapahoe County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "2344",
+      "fte": "67.34",
+      "pupilTeacherRatio": "34.81",
+      "numberOfSchools": "11"
+   },
+   {
+      "name": "Calhan District No. Rj1",
+      "location": {
+         "state": {
+            "name": "Colorado",
+            "abbr": "CO",
+            "county": "El Paso County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "471",
+      "fte": "32.5",
+      "pupilTeacherRatio": "14.49",
+      "numberOfSchools": "3"
+   },
+   {
+      "name": "Campo School District No. Re-6",
+      "location": {
+         "state": {
+            "name": "Colorado",
+            "abbr": "CO",
+            "county": "Baca County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "42",
+      "fte": "8.48",
+      "pupilTeacherRatio": "4.95",
+      "numberOfSchools": "2"
+   },
+   {
+      "name": "Centennial Boces",
+      "location": {
+         "state": {
+            "name": "Colorado",
+            "abbr": "CO",
+            "county": "Weld County"
+         }
+      },
+      "type": "9-Specialized public school district",
+      "grades": {
+         "lowest": "10th Grade",
+         "highest": "12th Grade"
+      },
+      "students": "139",
+      "fte": "17.45",
+      "pupilTeacherRatio": "7.97",
+      "numberOfSchools": "2"
+   },
+   {
+      "name": "Centennial Boces",
+      "location": {
+         "state": {
+            "name": "Colorado",
+            "abbr": "CO",
+            "county": "Weld County"
+         }
+      },
+      "type": "4-Regional Education Service Agency (RESA)",
+      "grades": {
+         "lowest": "–",
+         "highest": "–"
+      },
+      "students": "†",
+      "fte": "†",
+      "pupilTeacherRatio": "†",
+      "numberOfSchools": "0"
+   },
+   {
+      "name": "Centennial School District No. R-1",
+      "location": {
+         "state": {
+            "name": "Colorado",
+            "abbr": "CO",
+            "county": "Costilla County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "219",
+      "fte": "11.97",
+      "pupilTeacherRatio": "18.3",
+      "numberOfSchools": "1"
+   },
+   {
+      "name": "Center Consolidated School District No. 26 Jt. of the Count",
+      "location": {
+         "state": {
+            "name": "Colorado",
+            "abbr": "CO",
+            "county": "Saguache County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "606",
+      "fte": "43.87",
+      "pupilTeacherRatio": "13.81",
+      "numberOfSchools": "5"
+   },
+   {
+      "name": "Charter School Institute",
+      "location": {
+         "state": {
+            "name": "Colorado",
+            "abbr": "CO",
+            "county": "Denver County"
+         }
+      },
+      "type": "7-Independent Charter District",
+      "grades": {
+         "lowest": "–",
+         "highest": "–"
+      },
+      "students": "†",
+      "fte": "†",
+      "pupilTeacherRatio": "†",
+      "numberOfSchools": "0"
+   },
+   {
+      "name": "Cheraw School District No. 31 in the County of Otero and S",
+      "location": {
+         "state": {
+            "name": "Colorado",
+            "abbr": "CO",
+            "county": "Otero County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "224",
+      "fte": "20.68",
+      "pupilTeacherRatio": "10.83",
+      "numberOfSchools": "1"
+   },
+   {
+      "name": "Cherry Creek School District No. 5 in the County of Arapah",
+      "location": {
+         "state": {
+            "name": "Colorado",
+            "abbr": "CO",
+            "county": "Arapahoe County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "56228",
+      "fte": "3234.26",
+      "pupilTeacherRatio": "17.39",
+      "numberOfSchools": "70"
+   },
+   {
+      "name": "Cheyenne County School District No. Re-5",
+      "location": {
+         "state": {
+            "name": "Colorado",
+            "abbr": "CO",
+            "county": "Cheyenne County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "197",
+      "fte": "16.89",
+      "pupilTeacherRatio": "11.66",
+      "numberOfSchools": "2"
+   },
+   {
+      "name": "Cheyenne Mountain School District No. 12 in the County of E",
+      "location": {
+         "state": {
+            "name": "Colorado",
+            "abbr": "CO",
+            "county": "El Paso County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "5309",
+      "fte": "361.04",
+      "pupilTeacherRatio": "14.7",
+      "numberOfSchools": "11"
+   },
+   {
+      "name": "Clear Creek School District No. Re-1",
+      "location": {
+         "state": {
+            "name": "Colorado",
+            "abbr": "CO",
+            "county": "Clear Creek County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "717",
+      "fte": "59.07",
+      "pupilTeacherRatio": "12.14",
+      "numberOfSchools": "5"
+   },
+   {
+      "name": "Cmhi Pueblo",
+      "location": {
+         "state": {
+            "name": "Colorado",
+            "abbr": "CO",
+            "county": "Pueblo County"
+         }
+      },
+      "type": "4-Regional Education Service Agency (RESA)",
+      "grades": {
+         "lowest": "–",
+         "highest": "–"
+      },
+      "students": "†",
+      "fte": "†",
+      "pupilTeacherRatio": "†",
+      "numberOfSchools": "0"
+   },
+   {
+      "name": "Cmhi Pueblo",
+      "location": {
+         "state": {
+            "name": "COLORADO",
+            "abbr": "CO",
+            "county": "Pueblo County"
+         }
+      },
+      "type": "5-State agency providing elementary and/or secondary level instruction",
+      "grades": {
+         "lowest": "†",
+         "highest": "†"
+      },
+      "students": "†",
+      "fte": "0",
+      "pupilTeacherRatio": "–",
+      "numberOfSchools": "0"
+   },
+   {
+      "name": "Colorado River Boces",
+      "location": {
+         "state": {
+            "name": "COLORADO",
+            "abbr": "CO",
+            "county": "Garfield County"
+         }
+      },
+      "type": "9-Specialized public school district",
+      "grades": {
+         "lowest": "6th Grade",
+         "highest": "12th Grade"
+      },
+      "students": "168",
+      "fte": "11.56",
+      "pupilTeacherRatio": "14.53",
+      "numberOfSchools": "1"
+   },
+   {
+      "name": "Colorado River Boces",
+      "location": {
+         "state": {
+            "name": "COLORADO",
+            "abbr": "CO",
+            "county": "Garfield County"
+         }
+      },
+      "type": "4-Regional Education Service Agency (RESA)",
+      "grades": {
+         "lowest": "–",
+         "highest": "–"
+      },
+      "students": "†",
+      "fte": "†",
+      "pupilTeacherRatio": "†",
+      "numberOfSchools": "0"
+   },
+   {
+      "name": "Colorado School for the Deaf and Blind",
+      "location": {
+         "state": {
+            "name": "Colorado",
+            "abbr": "CO",
+            "county": "El Paso County"
+         }
+      },
+      "type": "5-State agency providing elementary and/or secondary level instruction",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "189",
+      "fte": "32.44",
+      "pupilTeacherRatio": "5.83",
+      "numberOfSchools": "1"
+   },
+   {
+      "name": "Colorado Springs School District No. 11 in the County of E",
+      "location": {
+         "state": {
+            "name": "Colorado",
+            "abbr": "CO",
+            "county": "El Paso County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "26040",
+      "fte": "1572.28",
+      "pupilTeacherRatio": "16.56",
+      "numberOfSchools": "56"
+   },
+   {
+      "name": "Creede School District",
+      "location": {
+         "state": {
+            "name": "Colorado",
+            "abbr": "CO",
+            "county": "Mineral County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "81",
+      "fte": "13.09",
+      "pupilTeacherRatio": "6.19",
+      "numberOfSchools": "1"
+   },
+   {
+      "name": "Cripple Creek-Victor School District No. Re-1",
+      "location": {
+         "state": {
+            "name": "Colorado",
+            "abbr": "CO",
+            "county": "Teller County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "367",
+      "fte": "27.37",
+      "pupilTeacherRatio": "13.41",
+      "numberOfSchools": "2"
+   },
+   {
+      "name": "Crowley County School District No. Re-1-J",
+      "location": {
+         "state": {
+            "name": "Colorado",
+            "abbr": "CO",
+            "county": "Crowley County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "425",
+      "fte": "23.45",
+      "pupilTeacherRatio": "18.12",
+      "numberOfSchools": "2"
+   },
+   {
+      "name": "Csdb",
+      "location": {
+         "state": {
+            "name": "Colorado",
+            "abbr": "CO",
+            "county": "El Paso County"
+         }
+      },
+      "type": "4-Regional Education Service Agency (RESA)",
+      "grades": {
+         "lowest": "–",
+         "highest": "–"
+      },
+      "students": "†",
+      "fte": "†",
+      "pupilTeacherRatio": "†",
+      "numberOfSchools": "0"
+   },
+   {
+      "name": "Custer County School District Consolidate 1",
+      "location": {
+         "state": {
+            "name": "Colorado",
+            "abbr": "CO",
+            "county": "Custer County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "395",
+      "fte": "28.89",
+      "pupilTeacherRatio": "13.67",
+      "numberOfSchools": "3"
+   },
+   {
+      "name": "De Beque Joint District No. 49 of the Counties of Mesa And",
+      "location": {
+         "state": {
+            "name": "Colorado",
+            "abbr": "CO",
+            "county": "Mesa County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "164",
+      "fte": "14.55",
+      "pupilTeacherRatio": "11.27",
+      "numberOfSchools": "1"
+   },
+   {
+      "name": "Deer Trail School District No. 26j",
+      "location": {
+         "state": {
+            "name": "Colorado",
+            "abbr": "CO",
+            "county": "Arapahoe County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "253",
+      "fte": "18.65",
+      "pupilTeacherRatio": "13.57",
+      "numberOfSchools": "2"
+   },
+   {
+      "name": "Delta 50j",
+      "location": {
+         "state": {
+            "name": "Colorado",
+            "abbr": "CO",
+            "county": "Delta County"
+         }
+      },
+      "type": "4-Regional Education Service Agency (RESA)",
+      "grades": {
+         "lowest": "–",
+         "highest": "–"
+      },
+      "students": "†",
+      "fte": "†",
+      "pupilTeacherRatio": "†",
+      "numberOfSchools": "0"
+   },
+   {
+      "name": "Delta County Joint District No. 50",
+      "location": {
+         "state": {
+            "name": "Colorado",
+            "abbr": "CO",
+            "county": "Delta County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "5032",
+      "fte": "274.53",
+      "pupilTeacherRatio": "18.33",
+      "numberOfSchools": "17"
+   },
+   {
+      "name": "Denver 1",
+      "location": {
+         "state": {
+            "name": "Colorado",
+            "abbr": "CO",
+            "county": "Denver County"
+         }
+      },
+      "type": "9-Specialized public school district",
+      "grades": {
+         "lowest": "Kindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "368",
+      "fte": "21.64",
+      "pupilTeacherRatio": "17.01",
+      "numberOfSchools": "1"
+   },
+   {
+      "name": "Denver 1",
+      "location": {
+         "state": {
+            "name": "Colorado",
+            "abbr": "CO",
+            "county": "Denver County"
+         }
+      },
+      "type": "4-Regional Education Service Agency (RESA)",
+      "grades": {
+         "lowest": "–",
+         "highest": "–"
+      },
+      "students": "†",
+      "fte": "†",
+      "pupilTeacherRatio": "†",
+      "numberOfSchools": "0"
+   },
+   {
+      "name": "Department of Corrections",
+      "location": {
+         "state": {
+            "name": "Colorado",
+            "abbr": "CO",
+            "county": "El Paso County"
+         }
+      },
+      "type": "4-Regional Education Service Agency (RESA)",
+      "grades": {
+         "lowest": "–",
+         "highest": "–"
+      },
+      "students": "†",
+      "fte": "†",
+      "pupilTeacherRatio": "†",
+      "numberOfSchools": "0"
+   },
+   {
+      "name": "Department of Corrections",
+      "location": {
+         "state": {
+            "name": "COLORADO",
+            "abbr": "CO",
+            "county": "El Paso County"
+         }
+      },
+      "type": "5-State agency providing elementary and/or secondary level instruction",
+      "grades": {
+         "lowest": "9th Grade",
+         "highest": "12th Grade"
+      },
+      "students": "0",
+      "fte": "0",
+      "pupilTeacherRatio": "†",
+      "numberOfSchools": "0"
+   },
+   {
+      "name": "Division of Youth Services",
+      "location": {
+         "state": {
+            "name": "COLORADO",
+            "abbr": "CO",
+            "county": "Denver County"
+         }
+      },
+      "type": "5-State agency providing elementary and/or secondary level instruction",
+      "grades": {
+         "lowest": "5th Grade",
+         "highest": "12th Grade"
+      },
+      "students": "0",
+      "fte": "28.9",
+      "pupilTeacherRatio": "0",
+      "numberOfSchools": "6"
+   },
+   {
+      "name": "Division of Youth Services",
+      "location": {
+         "state": {
+            "name": "Colorado",
+            "abbr": "CO",
+            "county": "Denver County"
+         }
+      },
+      "type": "4-Regional Education Service Agency (RESA)",
+      "grades": {
+         "lowest": "–",
+         "highest": "–"
+      },
+      "students": "†",
+      "fte": "†",
+      "pupilTeacherRatio": "†",
+      "numberOfSchools": "0"
+   },
+   {
+      "name": "Dolores County School District Re-2j",
+      "location": {
+         "state": {
+            "name": "Colorado",
+            "abbr": "CO",
+            "county": "Dolores County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "232",
+      "fte": "19.11",
+      "pupilTeacherRatio": "12.14",
+      "numberOfSchools": "2"
+   },
+   {
+      "name": "Dolores School District No. Re-4a",
+      "location": {
+         "state": {
+            "name": "Colorado",
+            "abbr": "CO",
+            "county": "Montezuma County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "692",
+      "fte": "52",
+      "pupilTeacherRatio": "13.31",
+      "numberOfSchools": "3"
+   },
+   {
+      "name": "Douglas County School District No. Re 1",
+      "location": {
+         "state": {
+            "name": "Colorado",
+            "abbr": "CO",
+            "county": "Douglas County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "67305",
+      "fte": "3680.47",
+      "pupilTeacherRatio": "18.29",
+      "numberOfSchools": "92"
+   },
+   {
+      "name": "Douglas Re-1",
+      "location": {
+         "state": {
+            "name": "Colorado",
+            "abbr": "CO",
+            "county": "Douglas County"
+         }
+      },
+      "type": "4-Regional Education Service Agency (RESA)",
+      "grades": {
+         "lowest": "–",
+         "highest": "–"
+      },
+      "students": "†",
+      "fte": "†",
+      "pupilTeacherRatio": "†",
+      "numberOfSchools": "0"
+   },
+   {
+      "name": "Durango 9-R",
+      "location": {
+         "state": {
+            "name": "COLORADO",
+            "abbr": "CO",
+            "county": "La Plata County"
+         }
+      },
+      "type": "4-Regional Education Service Agency (RESA)",
+      "grades": {
+         "lowest": "–",
+         "highest": "–"
+      },
+      "students": "†",
+      "fte": "†",
+      "pupilTeacherRatio": "†",
+      "numberOfSchools": "0"
+   },
+   {
+      "name": "Durango School District No. 9-R",
+      "location": {
+         "state": {
+            "name": "Colorado",
+            "abbr": "CO",
+            "county": "La Plata County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "5545",
+      "fte": "392.63",
+      "pupilTeacherRatio": "14.12",
+      "numberOfSchools": "15"
+   },
+   {
+      "name": "Eagle County School District No. Re 50",
+      "location": {
+         "state": {
+            "name": "Colorado",
+            "abbr": "CO",
+            "county": "Eagle County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "6812",
+      "fte": "487.36",
+      "pupilTeacherRatio": "13.98",
+      "numberOfSchools": "20"
+   },
+   {
+      "name": "Eagle County School District Re-50j",
+      "location": {
+         "state": {
+            "name": "Colorado",
+            "abbr": "CO",
+            "county": "Eagle County"
+         }
+      },
+      "type": "4-Regional Education Service Agency (RESA)",
+      "grades": {
+         "lowest": "–",
+         "highest": "–"
+      },
+      "students": "†",
+      "fte": "†",
+      "pupilTeacherRatio": "†",
+      "numberOfSchools": "0"
+   },
+   {
+      "name": "East Central Boces",
+      "location": {
+         "state": {
+            "name": "Colorado",
+            "abbr": "CO",
+            "county": "Lincoln County"
+         }
+      },
+      "type": "4-Regional Education Service Agency (RESA)",
+      "grades": {
+         "lowest": "†",
+         "highest": "†"
+      },
+      "students": "†",
+      "fte": "3.19",
+      "pupilTeacherRatio": "–",
+      "numberOfSchools": "0"
+   },
+   {
+      "name": "East Central Boces",
+      "location": {
+         "state": {
+            "name": "Colorado",
+            "abbr": "CO",
+            "county": "Lincoln County"
+         }
+      },
+      "type": "4-Regional Education Service Agency (RESA)",
+      "grades": {
+         "lowest": "–",
+         "highest": "–"
+      },
+      "students": "†",
+      "fte": "†",
+      "pupilTeacherRatio": "†",
+      "numberOfSchools": "0"
+   },
+   {
+      "name": "East Grand School District No. 2",
+      "location": {
+         "state": {
+            "name": "Colorado",
+            "abbr": "CO",
+            "county": "Grand County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "1354",
+      "fte": "101.71",
+      "pupilTeacherRatio": "13.31",
+      "numberOfSchools": "4"
+   },
+   {
+      "name": "East Otero School District No. R1",
+      "location": {
+         "state": {
+            "name": "Colorado",
+            "abbr": "CO",
+            "county": "Otero County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "1422",
+      "fte": "92.51",
+      "pupilTeacherRatio": "15.37",
+      "numberOfSchools": "3"
+   },
+   {
+      "name": "Edison Joint District No. 54 of the Counties of El Paso And",
+      "location": {
+         "state": {
+            "name": "Colorado",
+            "abbr": "CO",
+            "county": "El Paso County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "243",
+      "fte": "15.88",
+      "pupilTeacherRatio": "15.3",
+      "numberOfSchools": "3"
+   },
+   {
+      "name": "Education Reenvisioned Boces",
+      "location": {
+         "state": {
+            "name": "Colorado",
+            "abbr": "CO",
+            "county": "El Paso County"
+         }
+      },
+      "type": "9-Specialized public school district",
+      "grades": {
+         "lowest": "Kindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "2836",
+      "fte": "88.5",
+      "pupilTeacherRatio": "32.05",
+      "numberOfSchools": "4"
+   },
+   {
+      "name": "Education Reenvisioned Boces.",
+      "location": {
+         "state": {
+            "name": "COLORADO",
+            "abbr": "CO",
+            "county": "El Paso County"
+         }
+      },
+      "type": "4-Regional Education Service Agency (RESA)",
+      "grades": {
+         "lowest": "–",
+         "highest": "–"
+      },
+      "students": "†",
+      "fte": "†",
+      "pupilTeacherRatio": "†",
+      "numberOfSchools": "0"
+   },
+   {
+      "name": "El Paso 11 Colo Springs",
+      "location": {
+         "state": {
+            "name": "Colorado",
+            "abbr": "CO",
+            "county": "El Paso County"
+         }
+      },
+      "type": "4-Regional Education Service Agency (RESA)",
+      "grades": {
+         "lowest": "–",
+         "highest": "–"
+      },
+      "students": "†",
+      "fte": "†",
+      "pupilTeacherRatio": "†",
+      "numberOfSchools": "0"
+   },
+   {
+      "name": "El Paso 12 Cheyenne Mountain",
+      "location": {
+         "state": {
+            "name": "Colorado",
+            "abbr": "CO",
+            "county": "El Paso County"
+         }
+      },
+      "type": "4-Regional Education Service Agency (RESA)",
+      "grades": {
+         "lowest": "–",
+         "highest": "–"
+      },
+      "students": "†",
+      "fte": "†",
+      "pupilTeacherRatio": "†",
+      "numberOfSchools": "0"
+   },
+   {
+      "name": "El Paso 2 Harrison",
+      "location": {
+         "state": {
+            "name": "Colorado",
+            "abbr": "CO",
+            "county": "El Paso County"
+         }
+      },
+      "type": "4-Regional Education Service Agency (RESA)",
+      "grades": {
+         "lowest": "–",
+         "highest": "–"
+      },
+      "students": "†",
+      "fte": "†",
+      "pupilTeacherRatio": "†",
+      "numberOfSchools": "0"
+   },
+   {
+      "name": "El Paso 20 Academy",
+      "location": {
+         "state": {
+            "name": "Colorado",
+            "abbr": "CO",
+            "county": "El Paso County"
+         }
+      },
+      "type": "4-Regional Education Service Agency (RESA)",
+      "grades": {
+         "lowest": "–",
+         "highest": "–"
+      },
+      "students": "†",
+      "fte": "†",
+      "pupilTeacherRatio": "†",
+      "numberOfSchools": "0"
+   },
+   {
+      "name": "El Paso 3 Widefield",
+      "location": {
+         "state": {
+            "name": "Colorado",
+            "abbr": "CO",
+            "county": "El Paso County"
+         }
+      },
+      "type": "4-Regional Education Service Agency (RESA)",
+      "grades": {
+         "lowest": "–",
+         "highest": "–"
+      },
+      "students": "†",
+      "fte": "†",
+      "pupilTeacherRatio": "†",
+      "numberOfSchools": "0"
+   },
+   {
+      "name": "El Paso 38 Lewis Palmer",
+      "location": {
+         "state": {
+            "name": "Colorado",
+            "abbr": "CO",
+            "county": "El Paso County"
+         }
+      },
+      "type": "4-Regional Education Service Agency (RESA)",
+      "grades": {
+         "lowest": "–",
+         "highest": "–"
+      },
+      "students": "†",
+      "fte": "†",
+      "pupilTeacherRatio": "†",
+      "numberOfSchools": "0"
+   },
+   {
+      "name": "El Paso 8 Fountain",
+      "location": {
+         "state": {
+            "name": "Colorado",
+            "abbr": "CO",
+            "county": "El Paso County"
+         }
+      },
+      "type": "4-Regional Education Service Agency (RESA)",
+      "grades": {
+         "lowest": "–",
+         "highest": "–"
+      },
+      "students": "†",
+      "fte": "†",
+      "pupilTeacherRatio": "†",
+      "numberOfSchools": "0"
+   },
+   {
+      "name": "El Paso County Colorado School District 49",
+      "location": {
+         "state": {
+            "name": "Colorado",
+            "abbr": "CO",
+            "county": "El Paso County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "23890",
+      "fte": "1188.46",
+      "pupilTeacherRatio": "20.1",
+      "numberOfSchools": "30"
+   },
+   {
+      "name": "El Paso County Colorado School District 49",
+      "location": {
+         "state": {
+            "name": "Colorado",
+            "abbr": "CO",
+            "county": "El Paso County"
+         }
+      },
+      "type": "4-Regional Education Service Agency (RESA)",
+      "grades": {
+         "lowest": "–",
+         "highest": "–"
+      },
+      "students": "†",
+      "fte": "†",
+      "pupilTeacherRatio": "†",
+      "numberOfSchools": "0"
+   },
+   {
+      "name": "Elbert School District No. 200",
+      "location": {
+         "state": {
+            "name": "Colorado",
+            "abbr": "CO",
+            "county": "Elbert County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "254",
+      "fte": "21.95",
+      "pupilTeacherRatio": "11.57",
+      "numberOfSchools": "2"
+   },
+   {
+      "name": "Elizabeth School District",
+      "location": {
+         "state": {
+            "name": "Colorado",
+            "abbr": "CO",
+            "county": "Elbert County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "2373",
+      "fte": "149.57",
+      "pupilTeacherRatio": "15.87",
+      "numberOfSchools": "8"
+   },
+   {
+      "name": "Elizabeth School District",
+      "location": {
+         "state": {
+            "name": "COLORADO",
+            "abbr": "CO",
+            "county": "Elbert County"
+         }
+      },
+      "type": "4-Regional Education Service Agency (RESA)",
+      "grades": {
+         "lowest": "–",
+         "highest": "–"
+      },
+      "students": "†",
+      "fte": "†",
+      "pupilTeacherRatio": "†",
+      "numberOfSchools": "0"
+   },
+   {
+      "name": "Ellicott School District No. 22 in the County of El Paso A",
+      "location": {
+         "state": {
+            "name": "Colorado",
+            "abbr": "CO",
+            "county": "El Paso County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "1142",
+      "fte": "70.78",
+      "pupilTeacherRatio": "16.13",
+      "numberOfSchools": "3"
+   },
+   {
+      "name": "Englewood School District No. 1 in the County of Arapahoe",
+      "location": {
+         "state": {
+            "name": "Colorado",
+            "abbr": "CO",
+            "county": "Arapahoe County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "2634",
+      "fte": "182.44",
+      "pupilTeacherRatio": "14.44",
+      "numberOfSchools": "9"
+   },
+   {
+      "name": "Estes Park School District R-3",
+      "location": {
+         "state": {
+            "name": "Colorado",
+            "abbr": "CO",
+            "county": "Larimer County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "1151",
+      "fte": "76.82",
+      "pupilTeacherRatio": "14.98",
+      "numberOfSchools": "4"
+   },
+   {
+      "name": "Fort Lupton/keenesburg",
+      "location": {
+         "state": {
+            "name": "Colorado",
+            "abbr": "CO",
+            "county": "Weld County"
+         }
+      },
+      "type": "4-Regional Education Service Agency (RESA)",
+      "grades": {
+         "lowest": "–",
+         "highest": "–"
+      },
+      "students": "†",
+      "fte": "†",
+      "pupilTeacherRatio": "†",
+      "numberOfSchools": "0"
+   },
+   {
+      "name": "Fountain School District No. 8 in the County of El Paso An",
+      "location": {
+         "state": {
+            "name": "Colorado",
+            "abbr": "CO",
+            "county": "El Paso County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "8529",
+      "fte": "506.77",
+      "pupilTeacherRatio": "16.83",
+      "numberOfSchools": "12"
+   },
+   {
+      "name": "Fowler School District No. R4j",
+      "location": {
+         "state": {
+            "name": "Colorado",
+            "abbr": "CO",
+            "county": "Otero County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "359",
+      "fte": "35.57",
+      "pupilTeacherRatio": "10.09",
+      "numberOfSchools": "3"
+   },
+   {
+      "name": "Fremont Re-1",
+      "location": {
+         "state": {
+            "name": "Colorado",
+            "abbr": "CO",
+            "county": "Fremont County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "3482",
+      "fte": "234.9",
+      "pupilTeacherRatio": "14.82",
+      "numberOfSchools": "8"
+   },
+   {
+      "name": "Fremont Re-1 Canon City",
+      "location": {
+         "state": {
+            "name": "Colorado",
+            "abbr": "CO",
+            "county": "Fremont County"
+         }
+      },
+      "type": "4-Regional Education Service Agency (RESA)",
+      "grades": {
+         "lowest": "–",
+         "highest": "–"
+      },
+      "students": "†",
+      "fte": "†",
+      "pupilTeacherRatio": "†",
+      "numberOfSchools": "0"
+   },
+   {
+      "name": "Fremont Re-2",
+      "location": {
+         "state": {
+            "name": "Colorado",
+            "abbr": "CO",
+            "county": "Fremont County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "1398",
+      "fte": "92.17",
+      "pupilTeacherRatio": "15.17",
+      "numberOfSchools": "3"
+   },
+   {
+      "name": "Fremont Re-3",
+      "location": {
+         "state": {
+            "name": "Colorado",
+            "abbr": "CO",
+            "county": "Fremont County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "229",
+      "fte": "18.8",
+      "pupilTeacherRatio": "12.18",
+      "numberOfSchools": "2"
+   },
+   {
+      "name": "Front Range Boces",
+      "location": {
+         "state": {
+            "name": "Colorado",
+            "abbr": "CO",
+            "county": "Boulder County"
+         }
+      },
+      "type": "4-Regional Education Service Agency (RESA)",
+      "grades": {
+         "lowest": "†",
+         "highest": "†"
+      },
+      "students": "†",
+      "fte": "0",
+      "pupilTeacherRatio": "–",
+      "numberOfSchools": "0"
+   },
+   {
+      "name": "Garfield School District No. Re-2",
+      "location": {
+         "state": {
+            "name": "Colorado",
+            "abbr": "CO",
+            "county": "Garfield County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "4802",
+      "fte": "286.09",
+      "pupilTeacherRatio": "16.78",
+      "numberOfSchools": "10"
+   },
+   {
+      "name": "Genoa-Hugo School District No. C-113",
+      "location": {
+         "state": {
+            "name": "Colorado",
+            "abbr": "CO",
+            "county": "Lincoln County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "220",
+      "fte": "16.75",
+      "pupilTeacherRatio": "13.13",
+      "numberOfSchools": "1"
+   },
+   {
+      "name": "Gilpin County School District No. Re-1",
+      "location": {
+         "state": {
+            "name": "Colorado",
+            "abbr": "CO",
+            "county": "Gilpin County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "498",
+      "fte": "37.74",
+      "pupilTeacherRatio": "13.2",
+      "numberOfSchools": "2"
+   },
+   {
+      "name": "Granada School District No. Re-1",
+      "location": {
+         "state": {
+            "name": "Colorado",
+            "abbr": "CO",
+            "county": "Prowers County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "197",
+      "fte": "16.91",
+      "pupilTeacherRatio": "11.65",
+      "numberOfSchools": "2"
+   },
+   {
+      "name": "Grand Valley Boces",
+      "location": {
+         "state": {
+            "name": "Colorado",
+            "abbr": "CO",
+            "county": "Mesa County"
+         }
+      },
+      "type": "4-Regional Education Service Agency (RESA)",
+      "grades": {
+         "lowest": "†",
+         "highest": "†"
+      },
+      "students": "†",
+      "fte": "0",
+      "pupilTeacherRatio": "–",
+      "numberOfSchools": "0"
+   },
+   {
+      "name": "Grand Valley School District No. 16 in the County of Garfi",
+      "location": {
+         "state": {
+            "name": "Colorado",
+            "abbr": "CO",
+            "county": "Garfield County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "1341",
+      "fte": "74.85",
+      "pupilTeacherRatio": "17.92",
+      "numberOfSchools": "4"
+   },
+   {
+      "name": "Greeleyschool District No. 6 in the County of Weld and Sta",
+      "location": {
+         "state": {
+            "name": "Colorado",
+            "abbr": "CO",
+            "county": "Weld County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "22544",
+      "fte": "1236.34",
+      "pupilTeacherRatio": "18.23",
+      "numberOfSchools": "32"
+   },
+   {
+      "name": "Gunnison Re-1j",
+      "location": {
+         "state": {
+            "name": "Colorado",
+            "abbr": "CO",
+            "county": "Gunnison County"
+         }
+      },
+      "type": "4-Regional Education Service Agency (RESA)",
+      "grades": {
+         "lowest": "–",
+         "highest": "–"
+      },
+      "students": "†",
+      "fte": "†",
+      "pupilTeacherRatio": "†",
+      "numberOfSchools": "0"
+   },
+   {
+      "name": "Gunnison Watershed School District Re1j",
+      "location": {
+         "state": {
+            "name": "Colorado",
+            "abbr": "CO",
+            "county": "Gunnison County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "2111",
+      "fte": "143.57",
+      "pupilTeacherRatio": "14.7",
+      "numberOfSchools": "7"
+   },
+   {
+      "name": "Hanover School District No. 28 in the County of El Paso An",
+      "location": {
+         "state": {
+            "name": "Colorado",
+            "abbr": "CO",
+            "county": "El Paso County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "258",
+      "fte": "19.35",
+      "pupilTeacherRatio": "13.33",
+      "numberOfSchools": "3"
+   },
+   {
+      "name": "Harrison School District No. 2 in the County of El Paso An",
+      "location": {
+         "state": {
+            "name": "Colorado",
+            "abbr": "CO",
+            "county": "El Paso County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "11543",
+      "fte": "760.66",
+      "pupilTeacherRatio": "15.17",
+      "numberOfSchools": "27"
+   },
+   {
+      "name": "Haxtun School District No. Re-2j",
+      "location": {
+         "state": {
+            "name": "Colorado",
+            "abbr": "CO",
+            "county": "Phillips County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "345",
+      "fte": "26.22",
+      "pupilTeacherRatio": "13.16",
+      "numberOfSchools": "2"
+   },
+   {
+      "name": "Hayden School District No. Re 1",
+      "location": {
+         "state": {
+            "name": "Colorado",
+            "abbr": "CO",
+            "county": "Routt County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "420",
+      "fte": "25.99",
+      "pupilTeacherRatio": "16.16",
+      "numberOfSchools": "3"
+   },
+   {
+      "name": "Hi-Plains R-23",
+      "location": {
+         "state": {
+            "name": "Colorado",
+            "abbr": "CO",
+            "county": "Kit Carson County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "130",
+      "fte": "15.05",
+      "pupilTeacherRatio": "8.64",
+      "numberOfSchools": "1"
+   },
+   {
+      "name": "Hinsdale County School District No. Re-1",
+      "location": {
+         "state": {
+            "name": "Colorado",
+            "abbr": "CO",
+            "county": "Hinsdale County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "87",
+      "fte": "11.19",
+      "pupilTeacherRatio": "7.77",
+      "numberOfSchools": "1"
+   },
+   {
+      "name": "Hoehne Reorganized School District No. 3",
+      "location": {
+         "state": {
+            "name": "Colorado",
+            "abbr": "CO",
+            "county": "Las Animas County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "365",
+      "fte": "19.74",
+      "pupilTeacherRatio": "18.49",
+      "numberOfSchools": "1"
+   },
+   {
+      "name": "Holly School District No. Re-3",
+      "location": {
+         "state": {
+            "name": "Colorado",
+            "abbr": "CO",
+            "county": "Prowers County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "304",
+      "fte": "22.88",
+      "pupilTeacherRatio": "13.29",
+      "numberOfSchools": "1"
+   },
+   {
+      "name": "Holyoke School District No. Re-1j",
+      "location": {
+         "state": {
+            "name": "Colorado",
+            "abbr": "CO",
+            "county": "Phillips County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "587",
+      "fte": "40",
+      "pupilTeacherRatio": "14.68",
+      "numberOfSchools": "3"
+   },
+   {
+      "name": "Huerfano School District Re-1",
+      "location": {
+         "state": {
+            "name": "Colorado",
+            "abbr": "CO",
+            "county": "Huerfano County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "541",
+      "fte": "23.87",
+      "pupilTeacherRatio": "22.66",
+      "numberOfSchools": "3"
+   },
+   {
+      "name": "Idalia Rj-3 School District",
+      "location": {
+         "state": {
+            "name": "Colorado",
+            "abbr": "CO",
+            "county": "Yuma County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "200",
+      "fte": "17.68",
+      "pupilTeacherRatio": "11.31",
+      "numberOfSchools": "2"
+   },
+   {
+      "name": "Ignacio School District No. 11jt",
+      "location": {
+         "state": {
+            "name": "Colorado",
+            "abbr": "CO",
+            "county": "La Plata County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "725",
+      "fte": "62.17",
+      "pupilTeacherRatio": "11.66",
+      "numberOfSchools": "3"
+   },
+   {
+      "name": "Jefferson County School District No. R-1",
+      "location": {
+         "state": {
+            "name": "Colorado",
+            "abbr": "CO",
+            "county": "Jefferson County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "84078",
+      "fte": "4726.72",
+      "pupilTeacherRatio": "17.79",
+      "numberOfSchools": "165"
+   },
+   {
+      "name": "Jefferson R-1",
+      "location": {
+         "state": {
+            "name": "Colorado",
+            "abbr": "CO",
+            "county": "Jefferson County"
+         }
+      },
+      "type": "4-Regional Education Service Agency (RESA)",
+      "grades": {
+         "lowest": "–",
+         "highest": "–"
+      },
+      "students": "†",
+      "fte": "†",
+      "pupilTeacherRatio": "†",
+      "numberOfSchools": "0"
+   },
+   {
+      "name": "Julesburg School District No. Re1",
+      "location": {
+         "state": {
+            "name": "Colorado",
+            "abbr": "CO",
+            "county": "Sedgwick County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "829",
+      "fte": "39.27",
+      "pupilTeacherRatio": "21.11",
+      "numberOfSchools": "3"
+   },
+   {
+      "name": "Karval School District No. Re 23",
+      "location": {
+         "state": {
+            "name": "Colorado",
+            "abbr": "CO",
+            "county": "Lincoln County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "55",
+      "fte": "6.42",
+      "pupilTeacherRatio": "8.57",
+      "numberOfSchools": "2"
+   },
+   {
+      "name": "Kim Reorganized School District No. 88",
+      "location": {
+         "state": {
+            "name": "Colorado",
+            "abbr": "CO",
+            "county": "Las Animas County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "48",
+      "fte": "8.19",
+      "pupilTeacherRatio": "5.86",
+      "numberOfSchools": "2"
+   },
+   {
+      "name": "Kiowa County School District No. Re-1",
+      "location": {
+         "state": {
+            "name": "Colorado",
+            "abbr": "CO",
+            "county": "Kiowa County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "203",
+      "fte": "17.21",
+      "pupilTeacherRatio": "11.8",
+      "numberOfSchools": "3"
+   },
+   {
+      "name": "Kiowa County School District No. Re-2",
+      "location": {
+         "state": {
+            "name": "Colorado",
+            "abbr": "CO",
+            "county": "Kiowa County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "57",
+      "fte": "7.13",
+      "pupilTeacherRatio": "7.99",
+      "numberOfSchools": "2"
+   },
+   {
+      "name": "Kit Carson School District No. R-1",
+      "location": {
+         "state": {
+            "name": "Colorado",
+            "abbr": "CO",
+            "county": "Cheyenne County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "109",
+      "fte": "16.05",
+      "pupilTeacherRatio": "6.79",
+      "numberOfSchools": "2"
+   },
+   {
+      "name": "La Veta School District Re-2",
+      "location": {
+         "state": {
+            "name": "Colorado",
+            "abbr": "CO",
+            "county": "Huerfano County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "212",
+      "fte": "22.85",
+      "pupilTeacherRatio": "9.28",
+      "numberOfSchools": "2"
+   },
+   {
+      "name": "Lake County School District No. R-1",
+      "location": {
+         "state": {
+            "name": "Colorado",
+            "abbr": "CO",
+            "county": "Lake County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "1102",
+      "fte": "61.08",
+      "pupilTeacherRatio": "18.04",
+      "numberOfSchools": "5"
+   },
+   {
+      "name": "Lamar School District No. Re-2",
+      "location": {
+         "state": {
+            "name": "Colorado",
+            "abbr": "CO",
+            "county": "Prowers County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "1588",
+      "fte": "105.19",
+      "pupilTeacherRatio": "15.1",
+      "numberOfSchools": "6"
+   },
+   {
+      "name": "Larimer R-1 Poudre",
+      "location": {
+         "state": {
+            "name": "Colorado",
+            "abbr": "CO",
+            "county": "Larimer County"
+         }
+      },
+      "type": "4-Regional Education Service Agency (RESA)",
+      "grades": {
+         "lowest": "–",
+         "highest": "–"
+      },
+      "students": "†",
+      "fte": "†",
+      "pupilTeacherRatio": "†",
+      "numberOfSchools": "0"
+   },
+   {
+      "name": "Larimer R-2j Thompson",
+      "location": {
+         "state": {
+            "name": "Colorado",
+            "abbr": "CO",
+            "county": "Larimer County"
+         }
+      },
+      "type": "4-Regional Education Service Agency (RESA)",
+      "grades": {
+         "lowest": "–",
+         "highest": "–"
+      },
+      "students": "†",
+      "fte": "†",
+      "pupilTeacherRatio": "†",
+      "numberOfSchools": "0"
+   },
+   {
+      "name": "Larimer R-3 Park",
+      "location": {
+         "state": {
+            "name": "Colorado",
+            "abbr": "CO",
+            "county": "Larimer County"
+         }
+      },
+      "type": "4-Regional Education Service Agency (RESA)",
+      "grades": {
+         "lowest": "–",
+         "highest": "–"
+      },
+      "students": "†",
+      "fte": "†",
+      "pupilTeacherRatio": "†",
+      "numberOfSchools": "0"
+   },
+   {
+      "name": "Las Animas School District No. Re-1",
+      "location": {
+         "state": {
+            "name": "Colorado",
+            "abbr": "CO",
+            "county": "Bent County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "2406",
+      "fte": "39.97",
+      "pupilTeacherRatio": "60.2",
+      "numberOfSchools": "6"
+   },
+   {
+      "name": "Lewis-Palmer Consolidated School District No. 38 in the Co",
+      "location": {
+         "state": {
+            "name": "Colorado",
+            "abbr": "CO",
+            "county": "El Paso County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "6756",
+      "fte": "383.75",
+      "pupilTeacherRatio": "17.61",
+      "numberOfSchools": "9"
+   },
+   {
+      "name": "Liberty J-4 School District",
+      "location": {
+         "state": {
+            "name": "Colorado",
+            "abbr": "CO",
+            "county": "Yuma County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "68",
+      "fte": "10.57",
+      "pupilTeacherRatio": "6.43",
+      "numberOfSchools": "1"
+   },
+   {
+      "name": "Limon School District No. Re 4j",
+      "location": {
+         "state": {
+            "name": "Colorado",
+            "abbr": "CO",
+            "county": "Lincoln County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "450",
+      "fte": "32.77",
+      "pupilTeacherRatio": "13.73",
+      "numberOfSchools": "2"
+   },
+   {
+      "name": "Littleton School District No. 6 in the County of Arapahoe",
+      "location": {
+         "state": {
+            "name": "Colorado",
+            "abbr": "CO",
+            "county": "Arapahoe County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "14988",
+      "fte": "838.73",
+      "pupilTeacherRatio": "17.87",
+      "numberOfSchools": "23"
+   },
+   {
+      "name": "Logan Re-1 Valley",
+      "location": {
+         "state": {
+            "name": "Colorado",
+            "abbr": "CO",
+            "county": "Logan County"
+         }
+      },
+      "type": "4-Regional Education Service Agency (RESA)",
+      "grades": {
+         "lowest": "–",
+         "highest": "–"
+      },
+      "students": "†",
+      "fte": "†",
+      "pupilTeacherRatio": "†",
+      "numberOfSchools": "0"
+   },
+   {
+      "name": "Lone Star School District No. 101",
+      "location": {
+         "state": {
+            "name": "Colorado",
+            "abbr": "CO",
+            "county": "Washington County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Kindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "130",
+      "fte": "13.85",
+      "pupilTeacherRatio": "9.39",
+      "numberOfSchools": "3"
+   },
+   {
+      "name": "Mancos School District Re-6",
+      "location": {
+         "state": {
+            "name": "Colorado",
+            "abbr": "CO",
+            "county": "Montezuma County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "507",
+      "fte": "34.39",
+      "pupilTeacherRatio": "14.74",
+      "numberOfSchools": "4"
+   },
+   {
+      "name": "Manitou Springs School District No. 14 in the County of El",
+      "location": {
+         "state": {
+            "name": "Colorado",
+            "abbr": "CO",
+            "county": "El Paso County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "1441",
+      "fte": "103.47",
+      "pupilTeacherRatio": "13.93",
+      "numberOfSchools": "4"
+   },
+   {
+      "name": "Manzanola Joint District No. 3j of the Counties of Otero A",
+      "location": {
+         "state": {
+            "name": "Colorado",
+            "abbr": "CO",
+            "county": "Otero County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "169",
+      "fte": "15.01",
+      "pupilTeacherRatio": "11.26",
+      "numberOfSchools": "2"
+   },
+   {
+      "name": "Mapleton School District No. 1 in the County of Adams & St",
+      "location": {
+         "state": {
+            "name": "Colorado",
+            "abbr": "CO",
+            "county": "Adams County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "9149",
+      "fte": "437.46",
+      "pupilTeacherRatio": "20.91",
+      "numberOfSchools": "19"
+   },
+   {
+      "name": "Mcclave School District No. Re-2",
+      "location": {
+         "state": {
+            "name": "Colorado",
+            "abbr": "CO",
+            "county": "Bent County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "229",
+      "fte": "20.4",
+      "pupilTeacherRatio": "11.23",
+      "numberOfSchools": "2"
+   },
+   {
+      "name": "Meeker School District Re1",
+      "location": {
+         "state": {
+            "name": "Colorado",
+            "abbr": "CO",
+            "county": "Rio Blanco County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "760",
+      "fte": "48.19",
+      "pupilTeacherRatio": "15.77",
+      "numberOfSchools": "3"
+   },
+   {
+      "name": "Mesa 51 Grand Junction",
+      "location": {
+         "state": {
+            "name": "Colorado",
+            "abbr": "CO",
+            "county": "Mesa County"
+         }
+      },
+      "type": "4-Regional Education Service Agency (RESA)",
+      "grades": {
+         "lowest": "–",
+         "highest": "–"
+      },
+      "students": "†",
+      "fte": "†",
+      "pupilTeacherRatio": "†",
+      "numberOfSchools": "0"
+   },
+   {
+      "name": "Mesa County Valley School District No. 51",
+      "location": {
+         "state": {
+            "name": "Colorado",
+            "abbr": "CO",
+            "county": "Mesa County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "22046",
+      "fte": "1313.07",
+      "pupilTeacherRatio": "16.79",
+      "numberOfSchools": "46"
+   },
+   {
+      "name": "Miami-Yoder Joint District No. 60 of the Counties of El Pas",
+      "location": {
+         "state": {
+            "name": "Colorado",
+            "abbr": "CO",
+            "county": "El Paso County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "288",
+      "fte": "21.9",
+      "pupilTeacherRatio": "13.15",
+      "numberOfSchools": "2"
+   },
+   {
+      "name": "Moffat County School District Re: No. 1",
+      "location": {
+         "state": {
+            "name": "Colorado",
+            "abbr": "CO",
+            "county": "Moffat County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "2202",
+      "fte": "126.2",
+      "pupilTeacherRatio": "17.45",
+      "numberOfSchools": "7"
+   },
+   {
+      "name": "Moffat Re-1 Craig",
+      "location": {
+         "state": {
+            "name": "Colorado",
+            "abbr": "CO",
+            "county": "Moffat County"
+         }
+      },
+      "type": "4-Regional Education Service Agency (RESA)",
+      "grades": {
+         "lowest": "–",
+         "highest": "–"
+      },
+      "students": "†",
+      "fte": "†",
+      "pupilTeacherRatio": "†",
+      "numberOfSchools": "0"
+   },
+   {
+      "name": "Moffat School District No. 2 in the County of Saguache And",
+      "location": {
+         "state": {
+            "name": "Colorado",
+            "abbr": "CO",
+            "county": "Saguache County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "227",
+      "fte": "25.07",
+      "pupilTeacherRatio": "9.05",
+      "numberOfSchools": "2"
+   },
+   {
+      "name": "Monte Vista School District No. C-8",
+      "location": {
+         "state": {
+            "name": "Colorado",
+            "abbr": "CO",
+            "county": "Rio Grande County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "1168",
+      "fte": "76.33",
+      "pupilTeacherRatio": "15.3",
+      "numberOfSchools": "6"
+   },
+   {
+      "name": "Montezuma-Cortez School District No. Re-1",
+      "location": {
+         "state": {
+            "name": "Colorado",
+            "abbr": "CO",
+            "county": "Montezuma County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "2779",
+      "fte": "178.48",
+      "pupilTeacherRatio": "15.57",
+      "numberOfSchools": "11"
+   },
+   {
+      "name": "Montrose County School District Re-1j",
+      "location": {
+         "state": {
+            "name": "Colorado",
+            "abbr": "CO",
+            "county": "Montrose County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "6215",
+      "fte": "348.43",
+      "pupilTeacherRatio": "17.84",
+      "numberOfSchools": "14"
+   },
+   {
+      "name": "Montrose Re-1j",
+      "location": {
+         "state": {
+            "name": "Colorado",
+            "abbr": "CO",
+            "county": "Montrose County"
+         }
+      },
+      "type": "4-Regional Education Service Agency (RESA)",
+      "grades": {
+         "lowest": "–",
+         "highest": "–"
+      },
+      "students": "†",
+      "fte": "†",
+      "pupilTeacherRatio": "†",
+      "numberOfSchools": "0"
+   },
+   {
+      "name": "Morgan Re-3 Fort Morgan",
+      "location": {
+         "state": {
+            "name": "Colorado",
+            "abbr": "CO",
+            "county": "Morgan County"
+         }
+      },
+      "type": "4-Regional Education Service Agency (RESA)",
+      "grades": {
+         "lowest": "–",
+         "highest": "–"
+      },
+      "students": "†",
+      "fte": "†",
+      "pupilTeacherRatio": "†",
+      "numberOfSchools": "0"
+   },
+   {
+      "name": "Mountain Boces",
+      "location": {
+         "state": {
+            "name": "Colorado",
+            "abbr": "CO",
+            "county": "Lake County"
+         }
+      },
+      "type": "4-Regional Education Service Agency (RESA)",
+      "grades": {
+         "lowest": "†",
+         "highest": "†"
+      },
+      "students": "†",
+      "fte": "0",
+      "pupilTeacherRatio": "–",
+      "numberOfSchools": "0"
+   },
+   {
+      "name": "Mountain Boces",
+      "location": {
+         "state": {
+            "name": "Colorado",
+            "abbr": "CO",
+            "county": "Lake County"
+         }
+      },
+      "type": "4-Regional Education Service Agency (RESA)",
+      "grades": {
+         "lowest": "–",
+         "highest": "–"
+      },
+      "students": "†",
+      "fte": "†",
+      "pupilTeacherRatio": "†",
+      "numberOfSchools": "0"
+   },
+   {
+      "name": "Mountain Valley School District No. Re 1",
+      "location": {
+         "state": {
+            "name": "Colorado",
+            "abbr": "CO",
+            "county": "Saguache County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "170",
+      "fte": "14.28",
+      "pupilTeacherRatio": "11.9",
+      "numberOfSchools": "1"
+   },
+   {
+      "name": "Mt Evans Boces",
+      "location": {
+         "state": {
+            "name": "Colorado",
+            "abbr": "CO",
+            "county": "Clear Creek County"
+         }
+      },
+      "type": "4-Regional Education Service Agency (RESA)",
+      "grades": {
+         "lowest": "–",
+         "highest": "–"
+      },
+      "students": "†",
+      "fte": "†",
+      "pupilTeacherRatio": "†",
+      "numberOfSchools": "0"
+   },
+   {
+      "name": "Mt Evans Boces",
+      "location": {
+         "state": {
+            "name": "Colorado",
+            "abbr": "CO",
+            "county": "Park County"
+         }
+      },
+      "type": "4-Regional Education Service Agency (RESA)",
+      "grades": {
+         "lowest": "†",
+         "highest": "†"
+      },
+      "students": "†",
+      "fte": "0",
+      "pupilTeacherRatio": "–",
+      "numberOfSchools": "0"
+   },
+   {
+      "name": "North Conejos School District No. Re1j",
+      "location": {
+         "state": {
+            "name": "Colorado",
+            "abbr": "CO",
+            "county": "Conejos County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "1067",
+      "fte": "73.57",
+      "pupilTeacherRatio": "14.5",
+      "numberOfSchools": "5"
+   },
+   {
+      "name": "North Park School District R-1",
+      "location": {
+         "state": {
+            "name": "Colorado",
+            "abbr": "CO",
+            "county": "Jackson County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "179",
+      "fte": "17.68",
+      "pupilTeacherRatio": "10.12",
+      "numberOfSchools": "1"
+   },
+   {
+      "name": "Northeast Boces",
+      "location": {
+         "state": {
+            "name": "Colorado",
+            "abbr": "CO",
+            "county": "Phillips County"
+         }
+      },
+      "type": "4-Regional Education Service Agency (RESA)",
+      "grades": {
+         "lowest": "†",
+         "highest": "†"
+      },
+      "students": "†",
+      "fte": "2.31",
+      "pupilTeacherRatio": "–",
+      "numberOfSchools": "0"
+   },
+   {
+      "name": "Northeast Boces",
+      "location": {
+         "state": {
+            "name": "Colorado",
+            "abbr": "CO",
+            "county": "Phillips County"
+         }
+      },
+      "type": "4-Regional Education Service Agency (RESA)",
+      "grades": {
+         "lowest": "–",
+         "highest": "–"
+      },
+      "students": "†",
+      "fte": "†",
+      "pupilTeacherRatio": "†",
+      "numberOfSchools": "0"
+   },
+   {
+      "name": "Northwest Boces",
+      "location": {
+         "state": {
+            "name": "Colorado",
+            "abbr": "CO",
+            "county": "Routt County"
+         }
+      },
+      "type": "4-Regional Education Service Agency (RESA)",
+      "grades": {
+         "lowest": "–",
+         "highest": "–"
+      },
+      "students": "†",
+      "fte": "†",
+      "pupilTeacherRatio": "†",
+      "numberOfSchools": "0"
+   },
+   {
+      "name": "Northwest Colo Boces",
+      "location": {
+         "state": {
+            "name": "Colorado",
+            "abbr": "CO",
+            "county": "Routt County"
+         }
+      },
+      "type": "4-Regional Education Service Agency (RESA)",
+      "grades": {
+         "lowest": "†",
+         "highest": "†"
+      },
+      "students": "†",
+      "fte": "0",
+      "pupilTeacherRatio": "–",
+      "numberOfSchools": "0"
+   },
+   {
+      "name": "Norwood School District No. R-2j",
+      "location": {
+         "state": {
+            "name": "Colorado",
+            "abbr": "CO",
+            "county": "San Miguel County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "199",
+      "fte": "19.83",
+      "pupilTeacherRatio": "10.04",
+      "numberOfSchools": "1"
+   },
+   {
+      "name": "Otis School District No. R-3",
+      "location": {
+         "state": {
+            "name": "Colorado",
+            "abbr": "CO",
+            "county": "Washington County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "216",
+      "fte": "19.47",
+      "pupilTeacherRatio": "11.09",
+      "numberOfSchools": "2"
+   },
+   {
+      "name": "Ouray School District No. R-1 of  the County of Ouray And",
+      "location": {
+         "state": {
+            "name": "Colorado",
+            "abbr": "CO",
+            "county": "Ouray County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "170",
+      "fte": "21.94",
+      "pupilTeacherRatio": "7.75",
+      "numberOfSchools": "3"
+   },
+   {
+      "name": "Park County School District No. Re-2",
+      "location": {
+         "state": {
+            "name": "Colorado",
+            "abbr": "CO",
+            "county": "Park County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "687",
+      "fte": "51.77",
+      "pupilTeacherRatio": "13.27",
+      "numberOfSchools": "5"
+   },
+   {
+      "name": "Peyton School District No. 23 in the County of El Paso And",
+      "location": {
+         "state": {
+            "name": "Colorado",
+            "abbr": "CO",
+            "county": "El Paso County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "626",
+      "fte": "42.55",
+      "pupilTeacherRatio": "14.71",
+      "numberOfSchools": "4"
+   },
+   {
+      "name": "Pikes Peak Boces",
+      "location": {
+         "state": {
+            "name": "Colorado",
+            "abbr": "CO",
+            "county": "El Paso County"
+         }
+      },
+      "type": "4-Regional Education Service Agency (RESA)",
+      "grades": {
+         "lowest": "–",
+         "highest": "–"
+      },
+      "students": "†",
+      "fte": "†",
+      "pupilTeacherRatio": "†",
+      "numberOfSchools": "0"
+   },
+   {
+      "name": "Pikes Peak Boces",
+      "location": {
+         "state": {
+            "name": "Colorado",
+            "abbr": "CO",
+            "county": "El Paso County"
+         }
+      },
+      "type": "4-Regional Education Service Agency (RESA)",
+      "grades": {
+         "lowest": "†",
+         "highest": "†"
+      },
+      "students": "†",
+      "fte": "14.01",
+      "pupilTeacherRatio": "–",
+      "numberOfSchools": "0"
+   },
+   {
+      "name": "Plateau Valley School District No. 50 in the County of Mesa",
+      "location": {
+         "state": {
+            "name": "Colorado",
+            "abbr": "CO",
+            "county": "Mesa County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "394",
+      "fte": "31.27",
+      "pupilTeacherRatio": "12.6",
+      "numberOfSchools": "4"
+   },
+   {
+      "name": "Platte Canyon School District No. 1 of  the County of Park",
+      "location": {
+         "state": {
+            "name": "Colorado",
+            "abbr": "CO",
+            "county": "Park County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "889",
+      "fte": "57.2",
+      "pupilTeacherRatio": "15.54",
+      "numberOfSchools": "3"
+   },
+   {
+      "name": "Poudre School District R-1",
+      "location": {
+         "state": {
+            "name": "Colorado",
+            "abbr": "CO",
+            "county": "Larimer County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "30754",
+      "fte": "1803.88",
+      "pupilTeacherRatio": "17.05",
+      "numberOfSchools": "51"
+   },
+   {
+      "name": "Primero Reorganized School District No. 2",
+      "location": {
+         "state": {
+            "name": "Colorado",
+            "abbr": "CO",
+            "county": "Las Animas County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "200",
+      "fte": "19.63",
+      "pupilTeacherRatio": "10.19",
+      "numberOfSchools": "2"
+   },
+   {
+      "name": "Pritchett School District No. Re-3",
+      "location": {
+         "state": {
+            "name": "Colorado",
+            "abbr": "CO",
+            "county": "Baca County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "60",
+      "fte": "7.67",
+      "pupilTeacherRatio": "7.82",
+      "numberOfSchools": "3"
+   },
+   {
+      "name": "Pueblo 60 Urban",
+      "location": {
+         "state": {
+            "name": "Colorado",
+            "abbr": "CO",
+            "county": "Pueblo County"
+         }
+      },
+      "type": "4-Regional Education Service Agency (RESA)",
+      "grades": {
+         "lowest": "–",
+         "highest": "–"
+      },
+      "students": "†",
+      "fte": "†",
+      "pupilTeacherRatio": "†",
+      "numberOfSchools": "0"
+   },
+   {
+      "name": "Pueblo 70 Rural",
+      "location": {
+         "state": {
+            "name": "Colorado",
+            "abbr": "CO",
+            "county": "Pueblo County"
+         }
+      },
+      "type": "4-Regional Education Service Agency (RESA)",
+      "grades": {
+         "lowest": "–",
+         "highest": "–"
+      },
+      "students": "†",
+      "fte": "†",
+      "pupilTeacherRatio": "†",
+      "numberOfSchools": "0"
+   },
+   {
+      "name": "Pueblo County School District 70",
+      "location": {
+         "state": {
+            "name": "Colorado",
+            "abbr": "CO",
+            "county": "Pueblo County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "10555",
+      "fte": "542.87",
+      "pupilTeacherRatio": "19.44",
+      "numberOfSchools": "26"
+   },
+   {
+      "name": "Pueblo School District No. 60 in the County of Pueblo And",
+      "location": {
+         "state": {
+            "name": "Colorado",
+            "abbr": "CO",
+            "county": "Pueblo County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "16065",
+      "fte": "898.83",
+      "pupilTeacherRatio": "17.87",
+      "numberOfSchools": "34"
+   },
+   {
+      "name": "Rangely School District Re4",
+      "location": {
+         "state": {
+            "name": "Colorado",
+            "abbr": "CO",
+            "county": "Rio Blanco County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "518",
+      "fte": "35.29",
+      "pupilTeacherRatio": "14.68",
+      "numberOfSchools": "2"
+   },
+   {
+      "name": "Revere School District",
+      "location": {
+         "state": {
+            "name": "Colorado",
+            "abbr": "CO",
+            "county": "Sedgwick County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "139",
+      "fte": "16.52",
+      "pupilTeacherRatio": "8.41",
+      "numberOfSchools": "2"
+   },
+   {
+      "name": "Ridgway School District No. R-2  of  the County of Ouray A",
+      "location": {
+         "state": {
+            "name": "Colorado",
+            "abbr": "CO",
+            "county": "Ouray County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "354",
+      "fte": "31.92",
+      "pupilTeacherRatio": "11.09",
+      "numberOfSchools": "3"
+   },
+   {
+      "name": "Rio Blanco Boces",
+      "location": {
+         "state": {
+            "name": "Colorado",
+            "abbr": "CO",
+            "county": "Rio Blanco County"
+         }
+      },
+      "type": "4-Regional Education Service Agency (RESA)",
+      "grades": {
+         "lowest": "–",
+         "highest": "–"
+      },
+      "students": "†",
+      "fte": "†",
+      "pupilTeacherRatio": "†",
+      "numberOfSchools": "0"
+   },
+   {
+      "name": "Rio Blanco Boces",
+      "location": {
+         "state": {
+            "name": "Colorado",
+            "abbr": "CO",
+            "county": "Rio Blanco County"
+         }
+      },
+      "type": "4-Regional Education Service Agency (RESA)",
+      "grades": {
+         "lowest": "†",
+         "highest": "†"
+      },
+      "students": "†",
+      "fte": "0",
+      "pupilTeacherRatio": "–",
+      "numberOfSchools": "0"
+   },
+   {
+      "name": "Roaring Fork School District No. Re-1",
+      "location": {
+         "state": {
+            "name": "Colorado",
+            "abbr": "CO",
+            "county": "Garfield County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "5647",
+      "fte": "373.66",
+      "pupilTeacherRatio": "15.11",
+      "numberOfSchools": "13"
+   },
+   {
+      "name": "Rocky Ford School District No. R2",
+      "location": {
+         "state": {
+            "name": "Colorado",
+            "abbr": "CO",
+            "county": "Otero County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "743",
+      "fte": "53.58",
+      "pupilTeacherRatio": "13.87",
+      "numberOfSchools": "3"
+   },
+   {
+      "name": "Salida School District No. R-32",
+      "location": {
+         "state": {
+            "name": "Colorado",
+            "abbr": "CO",
+            "county": "Chaffee County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "1331",
+      "fte": "100.05",
+      "pupilTeacherRatio": "13.3",
+      "numberOfSchools": "6"
+   },
+   {
+      "name": "San Juan Boces",
+      "location": {
+         "state": {
+            "name": "Colorado",
+            "abbr": "CO",
+            "county": "La Plata County"
+         }
+      },
+      "type": "4-Regional Education Service Agency (RESA)",
+      "grades": {
+         "lowest": "–",
+         "highest": "–"
+      },
+      "students": "†",
+      "fte": "†",
+      "pupilTeacherRatio": "†",
+      "numberOfSchools": "0"
+   },
+   {
+      "name": "San Juan Boces",
+      "location": {
+         "state": {
+            "name": "Colorado",
+            "abbr": "CO",
+            "county": "La Plata County"
+         }
+      },
+      "type": "9-Specialized public school district",
+      "grades": {
+         "lowest": "6th Grade",
+         "highest": "12th Grade"
+      },
+      "students": "61",
+      "fte": "7.52",
+      "pupilTeacherRatio": "8.11",
+      "numberOfSchools": "1"
+   },
+   {
+      "name": "San Luis Valley Boces",
+      "location": {
+         "state": {
+            "name": "Colorado",
+            "abbr": "CO",
+            "county": "Alamosa County"
+         }
+      },
+      "type": "4-Regional Education Service Agency (RESA)",
+      "grades": {
+         "lowest": "†",
+         "highest": "†"
+      },
+      "students": "†",
+      "fte": "0",
+      "pupilTeacherRatio": "–",
+      "numberOfSchools": "0"
+   },
+   {
+      "name": "San Luis Valley Boces",
+      "location": {
+         "state": {
+            "name": "Colorado",
+            "abbr": "CO",
+            "county": "Alamosa County"
+         }
+      },
+      "type": "4-Regional Education Service Agency (RESA)",
+      "grades": {
+         "lowest": "–",
+         "highest": "–"
+      },
+      "students": "†",
+      "fte": "†",
+      "pupilTeacherRatio": "†",
+      "numberOfSchools": "0"
+   },
+   {
+      "name": "Sanford School District No. 6 in the County of Conejos And",
+      "location": {
+         "state": {
+            "name": "Colorado",
+            "abbr": "CO",
+            "county": "Conejos County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "353",
+      "fte": "25.7",
+      "pupilTeacherRatio": "13.74",
+      "numberOfSchools": "2"
+   },
+   {
+      "name": "Sangre De Cristo School District No. Re-22j",
+      "location": {
+         "state": {
+            "name": "Colorado",
+            "abbr": "CO",
+            "county": "Alamosa County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "285",
+      "fte": "26.09",
+      "pupilTeacherRatio": "10.92",
+      "numberOfSchools": "2"
+   },
+   {
+      "name": "Santa Fe Trail Boces",
+      "location": {
+         "state": {
+            "name": "Colorado",
+            "abbr": "CO",
+            "county": "Otero County"
+         }
+      },
+      "type": "4-Regional Education Service Agency (RESA)",
+      "grades": {
+         "lowest": "†",
+         "highest": "†"
+      },
+      "students": "†",
+      "fte": "3.13",
+      "pupilTeacherRatio": "–",
+      "numberOfSchools": "0"
+   },
+   {
+      "name": "Santa Fe Trail Boces",
+      "location": {
+         "state": {
+            "name": "Colorado",
+            "abbr": "CO",
+            "county": "Otero County"
+         }
+      },
+      "type": "4-Regional Education Service Agency (RESA)",
+      "grades": {
+         "lowest": "–",
+         "highest": "–"
+      },
+      "students": "†",
+      "fte": "†",
+      "pupilTeacherRatio": "†",
+      "numberOfSchools": "0"
+   },
+   {
+      "name": "Sargent School District No. Re-33j",
+      "location": {
+         "state": {
+            "name": "Colorado",
+            "abbr": "CO",
+            "county": "Rio Grande County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "354",
+      "fte": "28.87",
+      "pupilTeacherRatio": "12.26",
+      "numberOfSchools": "3"
+   },
+   {
+      "name": "School District 27j",
+      "location": {
+         "state": {
+            "name": "Colorado",
+            "abbr": "CO",
+            "county": "Adams County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "19275",
+      "fte": "906.77",
+      "pupilTeacherRatio": "21.26",
+      "numberOfSchools": "29"
+   },
+   {
+      "name": "School District N. 14 in the County of Adams & State of Colo",
+      "location": {
+         "state": {
+            "name": "Colorado",
+            "abbr": "CO",
+            "county": "Adams County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "6610",
+      "fte": "358.05",
+      "pupilTeacherRatio": "18.46",
+      "numberOfSchools": "13"
+   },
+   {
+      "name": "School District No. 1 in the County of Denver and State of C",
+      "location": {
+         "state": {
+            "name": "Colorado",
+            "abbr": "CO",
+            "county": "Denver County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "92143",
+      "fte": "6149.47",
+      "pupilTeacherRatio": "14.98",
+      "numberOfSchools": "207"
+   },
+   {
+      "name": "School District No. 3 in the County of El Paso and State Of",
+      "location": {
+         "state": {
+            "name": "Colorado",
+            "abbr": "CO",
+            "county": "El Paso County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "9669",
+      "fte": "592.03",
+      "pupilTeacherRatio": "16.33",
+      "numberOfSchools": "17"
+   },
+   {
+      "name": "School District No. C-2 in the County of Elbert and State Of",
+      "location": {
+         "state": {
+            "name": "Colorado",
+            "abbr": "CO",
+            "county": "Elbert County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "252",
+      "fte": "20.35",
+      "pupilTeacherRatio": "12.38",
+      "numberOfSchools": "3"
+   },
+   {
+      "name": "School District No. R-4 in the County of Kit Carson and Stat",
+      "location": {
+         "state": {
+            "name": "Colorado",
+            "abbr": "CO",
+            "county": "Kit Carson County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "239",
+      "fte": "17.4",
+      "pupilTeacherRatio": "13.74",
+      "numberOfSchools": "3"
+   },
+   {
+      "name": "School District No. Re-1 Valley",
+      "location": {
+         "state": {
+            "name": "Colorado",
+            "abbr": "CO",
+            "county": "Logan County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "2258",
+      "fte": "140.92",
+      "pupilTeacherRatio": "16.02",
+      "numberOfSchools": "7"
+   },
+   {
+      "name": "School District No. Re-10 in the County of Weld and State O",
+      "location": {
+         "state": {
+            "name": "Colorado",
+            "abbr": "CO",
+            "county": "Weld County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "184",
+      "fte": "17.92",
+      "pupilTeacherRatio": "10.27",
+      "numberOfSchools": "2"
+   },
+   {
+      "name": "School District No. Re-11 in the County of Weld and State Of",
+      "location": {
+         "state": {
+            "name": "Colorado",
+            "abbr": "CO",
+            "county": "Weld County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "222",
+      "fte": "17.3",
+      "pupilTeacherRatio": "12.83",
+      "numberOfSchools": "2"
+   },
+   {
+      "name": "School District No. Re-12 in the County of Weld and State Of",
+      "location": {
+         "state": {
+            "name": "Colorado",
+            "abbr": "CO",
+            "county": "Weld County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "82",
+      "fte": "12.91",
+      "pupilTeacherRatio": "6.35",
+      "numberOfSchools": "1"
+   },
+   {
+      "name": "School District No. Re-2 Brush",
+      "location": {
+         "state": {
+            "name": "Colorado",
+            "abbr": "CO",
+            "county": "Morgan County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "1429",
+      "fte": "98.97",
+      "pupilTeacherRatio": "14.44",
+      "numberOfSchools": "4"
+   },
+   {
+      "name": "School District No. Re-20 Weldon Valley",
+      "location": {
+         "state": {
+            "name": "Colorado",
+            "abbr": "CO",
+            "county": "Morgan County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "214",
+      "fte": "18.12",
+      "pupilTeacherRatio": "11.81",
+      "numberOfSchools": "2"
+   },
+   {
+      "name": "School District No. Re-3 Fort Morgan",
+      "location": {
+         "state": {
+            "name": "Colorado",
+            "abbr": "CO",
+            "county": "Morgan County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "3473",
+      "fte": "209.66",
+      "pupilTeacherRatio": "16.56",
+      "numberOfSchools": "8"
+   },
+   {
+      "name": "School District No. Re-3 Frenchman",
+      "location": {
+         "state": {
+            "name": "Colorado",
+            "abbr": "CO",
+            "county": "Logan County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "207",
+      "fte": "20.01",
+      "pupilTeacherRatio": "10.34",
+      "numberOfSchools": "2"
+   },
+   {
+      "name": "School District No. Re-4 Buffalo",
+      "location": {
+         "state": {
+            "name": "Colorado",
+            "abbr": "CO",
+            "county": "Logan County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "302",
+      "fte": "23.06",
+      "pupilTeacherRatio": "13.1",
+      "numberOfSchools": "2"
+   },
+   {
+      "name": "School District No. Re-5 Plateau",
+      "location": {
+         "state": {
+            "name": "Colorado",
+            "abbr": "CO",
+            "county": "Logan County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "165",
+      "fte": "17.47",
+      "pupilTeacherRatio": "9.44",
+      "numberOfSchools": "2"
+   },
+   {
+      "name": "School District No. Re-50 Wiggins",
+      "location": {
+         "state": {
+            "name": "Colorado",
+            "abbr": "CO",
+            "county": "Morgan County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "715",
+      "fte": "44.23",
+      "pupilTeacherRatio": "16.17",
+      "numberOfSchools": "3"
+   },
+   {
+      "name": "Sheridan School District No. 2",
+      "location": {
+         "state": {
+            "name": "Colorado",
+            "abbr": "CO",
+            "county": "Arapahoe County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "1359",
+      "fte": "89.46",
+      "pupilTeacherRatio": "15.19",
+      "numberOfSchools": "5"
+   },
+   {
+      "name": "Sierra Grande School District No. R-30",
+      "location": {
+         "state": {
+            "name": "Colorado",
+            "abbr": "CO",
+            "county": "Costilla County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "269",
+      "fte": "20.77",
+      "pupilTeacherRatio": "12.95",
+      "numberOfSchools": "1"
+   },
+   {
+      "name": "Silverton School District No. 1 in the County of San Juan",
+      "location": {
+         "state": {
+            "name": "Colorado",
+            "abbr": "CO",
+            "county": "San Juan County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "81",
+      "fte": "13.27",
+      "pupilTeacherRatio": "6.1",
+      "numberOfSchools": "3"
+   },
+   {
+      "name": "South Central Boces",
+      "location": {
+         "state": {
+            "name": "Colorado",
+            "abbr": "CO",
+            "county": "Pueblo County"
+         }
+      },
+      "type": "4-Regional Education Service Agency (RESA)",
+      "grades": {
+         "lowest": "†",
+         "highest": "†"
+      },
+      "students": "†",
+      "fte": "3.38",
+      "pupilTeacherRatio": "–",
+      "numberOfSchools": "0"
+   },
+   {
+      "name": "South Central Boces",
+      "location": {
+         "state": {
+            "name": "Colorado",
+            "abbr": "CO",
+            "county": "Pueblo County"
+         }
+      },
+      "type": "4-Regional Education Service Agency (RESA)",
+      "grades": {
+         "lowest": "–",
+         "highest": "–"
+      },
+      "students": "†",
+      "fte": "†",
+      "pupilTeacherRatio": "†",
+      "numberOfSchools": "0"
+   },
+   {
+      "name": "South Conejos School District No. Re10",
+      "location": {
+         "state": {
+            "name": "Colorado",
+            "abbr": "CO",
+            "county": "Conejos County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "150",
+      "fte": "10.83",
+      "pupilTeacherRatio": "13.85",
+      "numberOfSchools": "3"
+   },
+   {
+      "name": "South Routt School District No. Re 3",
+      "location": {
+         "state": {
+            "name": "Colorado",
+            "abbr": "CO",
+            "county": "Routt County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "325",
+      "fte": "31.48",
+      "pupilTeacherRatio": "10.32",
+      "numberOfSchools": "4"
+   },
+   {
+      "name": "Southeastern Boces",
+      "location": {
+         "state": {
+            "name": "Colorado",
+            "abbr": "CO",
+            "county": "Prowers County"
+         }
+      },
+      "type": "4-Regional Education Service Agency (RESA)",
+      "grades": {
+         "lowest": "†",
+         "highest": "†"
+      },
+      "students": "†",
+      "fte": "0.96",
+      "pupilTeacherRatio": "–",
+      "numberOfSchools": "0"
+   },
+   {
+      "name": "Southeastern Boces",
+      "location": {
+         "state": {
+            "name": "Colorado",
+            "abbr": "CO",
+            "county": "Prowers County"
+         }
+      },
+      "type": "4-Regional Education Service Agency (RESA)",
+      "grades": {
+         "lowest": "–",
+         "highest": "–"
+      },
+      "students": "†",
+      "fte": "†",
+      "pupilTeacherRatio": "†",
+      "numberOfSchools": "0"
+   },
+   {
+      "name": "Springfield School District No. Re-4",
+      "location": {
+         "state": {
+            "name": "Colorado",
+            "abbr": "CO",
+            "county": "Baca County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "309",
+      "fte": "28.03",
+      "pupilTeacherRatio": "11.02",
+      "numberOfSchools": "2"
+   },
+   {
+      "name": "St. Vrain Valley School District No. Re1j",
+      "location": {
+         "state": {
+            "name": "Colorado",
+            "abbr": "CO",
+            "county": "Boulder County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "32855",
+      "fte": "1864.15",
+      "pupilTeacherRatio": "17.62",
+      "numberOfSchools": "53"
+   },
+   {
+      "name": "State Charter School Institute",
+      "location": {
+         "state": {
+            "name": "Colorado",
+            "abbr": "CO",
+            "county": "Denver County"
+         }
+      },
+      "type": "7-Independent Charter District",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "18275",
+      "fte": "1051.97",
+      "pupilTeacherRatio": "17.37",
+      "numberOfSchools": "41"
+   },
+   {
+      "name": "Steamboat Springs School District No. Re 2",
+      "location": {
+         "state": {
+            "name": "Colorado",
+            "abbr": "CO",
+            "county": "Routt County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "2653",
+      "fte": "176.97",
+      "pupilTeacherRatio": "14.99",
+      "numberOfSchools": "7"
+   },
+   {
+      "name": "Strasburg School District 31j",
+      "location": {
+         "state": {
+            "name": "Colorado",
+            "abbr": "CO",
+            "county": "Adams County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "1080",
+      "fte": "69.31",
+      "pupilTeacherRatio": "15.58",
+      "numberOfSchools": "4"
+   },
+   {
+      "name": "Summit Re-1",
+      "location": {
+         "state": {
+            "name": "COLORADO",
+            "abbr": "CO",
+            "county": "Summit County"
+         }
+      },
+      "type": "4-Regional Education Service Agency (RESA)",
+      "grades": {
+         "lowest": "–",
+         "highest": "–"
+      },
+      "students": "†",
+      "fte": "†",
+      "pupilTeacherRatio": "†",
+      "numberOfSchools": "0"
+   },
+   {
+      "name": "Summit School District No. Re 1",
+      "location": {
+         "state": {
+            "name": "Colorado",
+            "abbr": "CO",
+            "county": "Summit County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "3582",
+      "fte": "258.67",
+      "pupilTeacherRatio": "13.85",
+      "numberOfSchools": "9"
+   },
+   {
+      "name": "Swink School District No. 33 in the County of Otero and St",
+      "location": {
+         "state": {
+            "name": "Colorado",
+            "abbr": "CO",
+            "county": "Otero County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Kindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "321",
+      "fte": "26.46",
+      "pupilTeacherRatio": "12.13",
+      "numberOfSchools": "2"
+   },
+   {
+      "name": "Telluride School District No. R-1",
+      "location": {
+         "state": {
+            "name": "Colorado",
+            "abbr": "CO",
+            "county": "San Miguel County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "885",
+      "fte": "85.05",
+      "pupilTeacherRatio": "10.41",
+      "numberOfSchools": "4"
+   },
+   {
+      "name": "Thompson School District R-2j",
+      "location": {
+         "state": {
+            "name": "Colorado",
+            "abbr": "CO",
+            "county": "Larimer County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "16163",
+      "fte": "922.92",
+      "pupilTeacherRatio": "17.51",
+      "numberOfSchools": "33"
+   },
+   {
+      "name": "Trinidad School District 1 in the County of Las Animas And",
+      "location": {
+         "state": {
+            "name": "Colorado",
+            "abbr": "CO",
+            "county": "Las Animas County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "881",
+      "fte": "51.65",
+      "pupilTeacherRatio": "17.06",
+      "numberOfSchools": "4"
+   },
+   {
+      "name": "Uncompahgre Boces",
+      "location": {
+         "state": {
+            "name": "Colorado",
+            "abbr": "CO",
+            "county": "Ouray County"
+         }
+      },
+      "type": "4-Regional Education Service Agency (RESA)",
+      "grades": {
+         "lowest": "–",
+         "highest": "–"
+      },
+      "students": "†",
+      "fte": "†",
+      "pupilTeacherRatio": "†",
+      "numberOfSchools": "0"
+   },
+   {
+      "name": "Uncompahgre Boces",
+      "location": {
+         "state": {
+            "name": "Colorado",
+            "abbr": "CO",
+            "county": "Ouray County"
+         }
+      },
+      "type": "4-Regional Education Service Agency (RESA)",
+      "grades": {
+         "lowest": "†",
+         "highest": "†"
+      },
+      "students": "†",
+      "fte": "0",
+      "pupilTeacherRatio": "–",
+      "numberOfSchools": "0"
+   },
+   {
+      "name": "Upper Rio Grande School District C-7",
+      "location": {
+         "state": {
+            "name": "Colorado",
+            "abbr": "CO",
+            "county": "Rio Grande County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "421",
+      "fte": "36.29",
+      "pupilTeacherRatio": "11.6",
+      "numberOfSchools": "2"
+   },
+   {
+      "name": "Ute Pass Boces",
+      "location": {
+         "state": {
+            "name": "Colorado",
+            "abbr": "CO",
+            "county": "El Paso County"
+         }
+      },
+      "type": "4-Regional Education Service Agency (RESA)",
+      "grades": {
+         "lowest": "–",
+         "highest": "–"
+      },
+      "students": "†",
+      "fte": "†",
+      "pupilTeacherRatio": "†",
+      "numberOfSchools": "0"
+   },
+   {
+      "name": "Ute Pass Boces",
+      "location": {
+         "state": {
+            "name": "Colorado",
+            "abbr": "CO",
+            "county": "El Paso County"
+         }
+      },
+      "type": "4-Regional Education Service Agency (RESA)",
+      "grades": {
+         "lowest": "†",
+         "highest": "†"
+      },
+      "students": "†",
+      "fte": "2.21",
+      "pupilTeacherRatio": "–",
+      "numberOfSchools": "0"
+   },
+   {
+      "name": "Vilas School District Re-5",
+      "location": {
+         "state": {
+            "name": "Colorado",
+            "abbr": "CO",
+            "county": "Baca County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "0",
+      "fte": "7.12",
+      "pupilTeacherRatio": "0",
+      "numberOfSchools": "2"
+   },
+   {
+      "name": "Walsh School District No. Re-1",
+      "location": {
+         "state": {
+            "name": "Colorado",
+            "abbr": "CO",
+            "county": "Baca County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "154",
+      "fte": "18.43",
+      "pupilTeacherRatio": "8.36",
+      "numberOfSchools": "2"
+   },
+   {
+      "name": "Weld 6 Greeley",
+      "location": {
+         "state": {
+            "name": "Colorado",
+            "abbr": "CO",
+            "county": "Weld County"
+         }
+      },
+      "type": "4-Regional Education Service Agency (RESA)",
+      "grades": {
+         "lowest": "–",
+         "highest": "–"
+      },
+      "students": "†",
+      "fte": "†",
+      "pupilTeacherRatio": "†",
+      "numberOfSchools": "0"
+   },
+   {
+      "name": "Weld County Reorganized School District No. Re-1",
+      "location": {
+         "state": {
+            "name": "Colorado",
+            "abbr": "CO",
+            "county": "Weld County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "1953",
+      "fte": "144.98",
+      "pupilTeacherRatio": "13.47",
+      "numberOfSchools": "6"
+   },
+   {
+      "name": "Weld County Reorganized School District No. Re-4",
+      "location": {
+         "state": {
+            "name": "Colorado",
+            "abbr": "CO",
+            "county": "Weld County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "7313",
+      "fte": "409.81",
+      "pupilTeacherRatio": "17.84",
+      "numberOfSchools": "12"
+   },
+   {
+      "name": "Weld County School District No. Re-2",
+      "location": {
+         "state": {
+            "name": "Colorado",
+            "abbr": "CO",
+            "county": "Weld County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "1968",
+      "fte": "117.74",
+      "pupilTeacherRatio": "16.71",
+      "numberOfSchools": "5"
+   },
+   {
+      "name": "Weld County School District No. Re-5j",
+      "location": {
+         "state": {
+            "name": "Colorado",
+            "abbr": "CO",
+            "county": "Weld County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "3969",
+      "fte": "216.9",
+      "pupilTeacherRatio": "18.3",
+      "numberOfSchools": "6"
+   },
+   {
+      "name": "Weld County School District No. Re-7",
+      "location": {
+         "state": {
+            "name": "Colorado",
+            "abbr": "CO",
+            "county": "Weld County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "1093",
+      "fte": "82.18",
+      "pupilTeacherRatio": "13.3",
+      "numberOfSchools": "3"
+   },
+   {
+      "name": "Weld County School District No. Re-9",
+      "location": {
+         "state": {
+            "name": "Colorado",
+            "abbr": "CO",
+            "county": "Weld County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "943",
+      "fte": "63.55",
+      "pupilTeacherRatio": "14.84",
+      "numberOfSchools": "3"
+   },
+   {
+      "name": "Weld County School District Re-3j",
+      "location": {
+         "state": {
+            "name": "Colorado",
+            "abbr": "CO",
+            "county": "Weld County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "2697",
+      "fte": "167.64",
+      "pupilTeacherRatio": "16.09",
+      "numberOfSchools": "7"
+   },
+   {
+      "name": "Weld Re-4 Windsor",
+      "location": {
+         "state": {
+            "name": "Colorado",
+            "abbr": "CO",
+            "county": "Weld County"
+         }
+      },
+      "type": "4-Regional Education Service Agency (RESA)",
+      "grades": {
+         "lowest": "–",
+         "highest": "–"
+      },
+      "students": "†",
+      "fte": "†",
+      "pupilTeacherRatio": "†",
+      "numberOfSchools": "0"
+   },
+   {
+      "name": "Weld Re-5j Johnstown-Milliken",
+      "location": {
+         "state": {
+            "name": "Colorado",
+            "abbr": "CO",
+            "county": "Weld County"
+         }
+      },
+      "type": "4-Regional Education Service Agency (RESA)",
+      "grades": {
+         "lowest": "–",
+         "highest": "–"
+      },
+      "students": "†",
+      "fte": "†",
+      "pupilTeacherRatio": "†",
+      "numberOfSchools": "0"
+   },
+   {
+      "name": "Weld Re-8 Schools",
+      "location": {
+         "state": {
+            "name": "Colorado",
+            "abbr": "CO",
+            "county": "Weld County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "2452",
+      "fte": "148.59",
+      "pupilTeacherRatio": "16.5",
+      "numberOfSchools": "6"
+   },
+   {
+      "name": "West End School District No. Re-2",
+      "location": {
+         "state": {
+            "name": "Colorado",
+            "abbr": "CO",
+            "county": "Montrose County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "272",
+      "fte": "23.25",
+      "pupilTeacherRatio": "11.7",
+      "numberOfSchools": "4"
+   },
+   {
+      "name": "West Grand School District No. 1",
+      "location": {
+         "state": {
+            "name": "Colorado",
+            "abbr": "CO",
+            "county": "Grand County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "434",
+      "fte": "38.68",
+      "pupilTeacherRatio": "11.22",
+      "numberOfSchools": "2"
+   },
+   {
+      "name": "Westminster Public Schools",
+      "location": {
+         "state": {
+            "name": "Colorado",
+            "abbr": "CO",
+            "county": "Adams County"
+         }
+      },
+      "type": "4-Regional Education Service Agency (RESA)",
+      "grades": {
+         "lowest": "–",
+         "highest": "–"
+      },
+      "students": "†",
+      "fte": "†",
+      "pupilTeacherRatio": "†",
+      "numberOfSchools": "0"
+   },
+   {
+      "name": "Westminster Public Schools",
+      "location": {
+         "state": {
+            "name": "Colorado",
+            "abbr": "CO",
+            "county": "Adams County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "9090",
+      "fte": "516.89",
+      "pupilTeacherRatio": "17.59",
+      "numberOfSchools": "20"
+   },
+   {
+      "name": "Wiley School District No. Re-13 Jt",
+      "location": {
+         "state": {
+            "name": "Colorado",
+            "abbr": "CO",
+            "county": "Prowers County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "238",
+      "fte": "22.93",
+      "pupilTeacherRatio": "10.38",
+      "numberOfSchools": "2"
+   },
+   {
+      "name": "Woodland Park School District No. Re-2",
+      "location": {
+         "state": {
+            "name": "Colorado",
+            "abbr": "CO",
+            "county": "Teller County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "2284",
+      "fte": "146.16",
+      "pupilTeacherRatio": "15.63",
+      "numberOfSchools": "5"
+   },
+   {
+      "name": "Woodlin School District No. R-104",
+      "location": {
+         "state": {
+            "name": "Colorado",
+            "abbr": "CO",
+            "county": "Washington County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "85",
+      "fte": "8.76",
+      "pupilTeacherRatio": "9.7",
+      "numberOfSchools": "2"
+   },
+   {
+      "name": "Wray Rd-2 School District",
+      "location": {
+         "state": {
+            "name": "Colorado",
+            "abbr": "CO",
+            "county": "Yuma County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "759",
+      "fte": "53.23",
+      "pupilTeacherRatio": "14.26",
+      "numberOfSchools": "3"
+   },
+   {
+      "name": "Yuma 1 School District",
+      "location": {
+         "state": {
+            "name": "Colorado",
+            "abbr": "CO",
+            "county": "Yuma County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "903",
+      "fte": "62.93",
+      "pupilTeacherRatio": "14.35",
+      "numberOfSchools": "4"
+   }
+]

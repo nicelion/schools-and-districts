@@ -1,0 +1,4277 @@
+[
+   {
+      "name": "Alexander 2",
+      "location": {
+         "state": {
+            "name": "North Dakota",
+            "abbr": "ND",
+            "county": "McKenzie County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "281",
+      "fte": "24.1",
+      "pupilTeacherRatio": "11.66",
+      "numberOfSchools": "2"
+   },
+   {
+      "name": "Anamoose 14",
+      "location": {
+         "state": {
+            "name": "North Dakota",
+            "abbr": "ND",
+            "county": "McHenry County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "6th Grade"
+      },
+      "students": "81",
+      "fte": "8.75",
+      "pupilTeacherRatio": "9.26",
+      "numberOfSchools": "1"
+   },
+   {
+      "name": "Apple Creek 39",
+      "location": {
+         "state": {
+            "name": "North Dakota",
+            "abbr": "ND",
+            "county": "Burleigh County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "6th Grade"
+      },
+      "students": "59",
+      "fte": "6.34",
+      "pupilTeacherRatio": "9.31",
+      "numberOfSchools": "1"
+   },
+   {
+      "name": "Ashley 9",
+      "location": {
+         "state": {
+            "name": "North Dakota",
+            "abbr": "ND",
+            "county": "McIntosh County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "140",
+      "fte": "16.19",
+      "pupilTeacherRatio": "8.65",
+      "numberOfSchools": "2"
+   },
+   {
+      "name": "Bakker 10",
+      "location": {
+         "state": {
+            "name": "North Dakota",
+            "abbr": "ND",
+            "county": "Emmons County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Kindergarten",
+         "highest": "8th Grade"
+      },
+      "students": "9",
+      "fte": "1",
+      "pupilTeacherRatio": "9",
+      "numberOfSchools": "1"
+   },
+   {
+      "name": "Barnes County North 7",
+      "location": {
+         "state": {
+            "name": "North Dakota",
+            "abbr": "ND",
+            "county": "Barnes County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "268",
+      "fte": "29",
+      "pupilTeacherRatio": "9.24",
+      "numberOfSchools": "2"
+   },
+   {
+      "name": "Beach 3",
+      "location": {
+         "state": {
+            "name": "North Dakota",
+            "abbr": "ND",
+            "county": "Golden Valley County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "269",
+      "fte": "30.77",
+      "pupilTeacherRatio": "8.74",
+      "numberOfSchools": "2"
+   },
+   {
+      "name": "Belcourt 7",
+      "location": {
+         "state": {
+            "name": "North Dakota",
+            "abbr": "ND",
+            "county": "Rolette County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "1648",
+      "fte": "127.83",
+      "pupilTeacherRatio": "12.89",
+      "numberOfSchools": "4"
+   },
+   {
+      "name": "Belfield 13",
+      "location": {
+         "state": {
+            "name": "North Dakota",
+            "abbr": "ND",
+            "county": "Stark County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "285",
+      "fte": "23.64",
+      "pupilTeacherRatio": "12.06",
+      "numberOfSchools": "2"
+   },
+   {
+      "name": "Beulah 27",
+      "location": {
+         "state": {
+            "name": "North Dakota",
+            "abbr": "ND",
+            "county": "Mercer County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "734",
+      "fte": "54.42",
+      "pupilTeacherRatio": "13.49",
+      "numberOfSchools": "3"
+   },
+   {
+      "name": "Billings Co 1",
+      "location": {
+         "state": {
+            "name": "North Dakota",
+            "abbr": "ND",
+            "county": "Billings County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "8th Grade"
+      },
+      "students": "96",
+      "fte": "12.04",
+      "pupilTeacherRatio": "7.97",
+      "numberOfSchools": "2"
+   },
+   {
+      "name": "Bismarck 1",
+      "location": {
+         "state": {
+            "name": "North Dakota",
+            "abbr": "ND",
+            "county": "Burleigh County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "13669",
+      "fte": "859.28",
+      "pupilTeacherRatio": "15.91",
+      "numberOfSchools": "24"
+   },
+   {
+      "name": "Bismarck Career Academy",
+      "location": {
+         "state": {
+            "name": "North Dakota",
+            "abbr": "ND",
+            "county": "Burleigh County"
+         }
+      },
+      "type": "4-Regional Education Service Agency (RESA)",
+      "grades": {
+         "lowest": "†",
+         "highest": "†"
+      },
+      "students": "0",
+      "fte": "0",
+      "pupilTeacherRatio": "†",
+      "numberOfSchools": "0"
+   },
+   {
+      "name": "Bismarck Special Ed Unit",
+      "location": {
+         "state": {
+            "name": "North Dakota",
+            "abbr": "ND",
+            "county": "Burleigh County"
+         }
+      },
+      "type": "4-Regional Education Service Agency (RESA)",
+      "grades": {
+         "lowest": "†",
+         "highest": "†"
+      },
+      "students": "0",
+      "fte": "0",
+      "pupilTeacherRatio": "†",
+      "numberOfSchools": "0"
+   },
+   {
+      "name": "Bismarck Technical Center",
+      "location": {
+         "state": {
+            "name": "North Dakota",
+            "abbr": "ND",
+            "county": "Burleigh County"
+         }
+      },
+      "type": "4-Regional Education Service Agency (RESA)",
+      "grades": {
+         "lowest": "†",
+         "highest": "†"
+      },
+      "students": "0",
+      "fte": "0",
+      "pupilTeacherRatio": "†",
+      "numberOfSchools": "0"
+   },
+   {
+      "name": "Bottineau 1",
+      "location": {
+         "state": {
+            "name": "North Dakota",
+            "abbr": "ND",
+            "county": "Bottineau County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "647",
+      "fte": "58.6",
+      "pupilTeacherRatio": "11.04",
+      "numberOfSchools": "2"
+   },
+   {
+      "name": "Bowbells 14",
+      "location": {
+         "state": {
+            "name": "North Dakota",
+            "abbr": "ND",
+            "county": "Burke County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "77",
+      "fte": "11.55",
+      "pupilTeacherRatio": "6.67",
+      "numberOfSchools": "2"
+   },
+   {
+      "name": "Bowman Co 1",
+      "location": {
+         "state": {
+            "name": "North Dakota",
+            "abbr": "ND",
+            "county": "Bowman County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "530",
+      "fte": "51.15",
+      "pupilTeacherRatio": "10.36",
+      "numberOfSchools": "3"
+   },
+   {
+      "name": "Burke Central 36",
+      "location": {
+         "state": {
+            "name": "North Dakota",
+            "abbr": "ND",
+            "county": "Burke County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "95",
+      "fte": "19.05",
+      "pupilTeacherRatio": "4.99",
+      "numberOfSchools": "2"
+   },
+   {
+      "name": "Burleigh Co Special Ed Unit",
+      "location": {
+         "state": {
+            "name": "North Dakota",
+            "abbr": "ND",
+            "county": "Burleigh County"
+         }
+      },
+      "type": "4-Regional Education Service Agency (RESA)",
+      "grades": {
+         "lowest": "†",
+         "highest": "†"
+      },
+      "students": "0",
+      "fte": "0",
+      "pupilTeacherRatio": "†",
+      "numberOfSchools": "0"
+   },
+   {
+      "name": "Carrington 49",
+      "location": {
+         "state": {
+            "name": "North Dakota",
+            "abbr": "ND",
+            "county": "Foster County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "519",
+      "fte": "41.2",
+      "pupilTeacherRatio": "12.6",
+      "numberOfSchools": "2"
+   },
+   {
+      "name": "Cass County Career & Technical Center",
+      "location": {
+         "state": {
+            "name": "NORTH DAKOTA",
+            "abbr": "ND",
+            "county": "Cass County"
+         }
+      },
+      "type": "4-Regional Education Service Agency (RESA)",
+      "grades": {
+         "lowest": "†",
+         "highest": "†"
+      },
+      "students": "0",
+      "fte": "0",
+      "pupilTeacherRatio": "†",
+      "numberOfSchools": "0"
+   },
+   {
+      "name": "Cavalier 6",
+      "location": {
+         "state": {
+            "name": "North Dakota",
+            "abbr": "ND",
+            "county": "Pembina County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "448",
+      "fte": "37",
+      "pupilTeacherRatio": "12.11",
+      "numberOfSchools": "2"
+   },
+   {
+      "name": "Center-Stanton 1",
+      "location": {
+         "state": {
+            "name": "North Dakota",
+            "abbr": "ND",
+            "county": "Oliver County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "250",
+      "fte": "22",
+      "pupilTeacherRatio": "11.36",
+      "numberOfSchools": "2"
+   },
+   {
+      "name": "Central Cass 17",
+      "location": {
+         "state": {
+            "name": "North Dakota",
+            "abbr": "ND",
+            "county": "Cass County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "958",
+      "fte": "65.05",
+      "pupilTeacherRatio": "14.73",
+      "numberOfSchools": "3"
+   },
+   {
+      "name": "Central Elem 32",
+      "location": {
+         "state": {
+            "name": "North Dakota",
+            "abbr": "ND",
+            "county": "Slope County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "†",
+         "highest": "†"
+      },
+      "students": "0",
+      "fte": "0",
+      "pupilTeacherRatio": "†",
+      "numberOfSchools": "0"
+   },
+   {
+      "name": "Central Regional Area Career & Technical Center",
+      "location": {
+         "state": {
+            "name": "North Dakota",
+            "abbr": "ND",
+            "county": "Burleigh County"
+         }
+      },
+      "type": "4-Regional Education Service Agency (RESA)",
+      "grades": {
+         "lowest": "†",
+         "highest": "†"
+      },
+      "students": "0",
+      "fte": "0",
+      "pupilTeacherRatio": "†",
+      "numberOfSchools": "0"
+   },
+   {
+      "name": "Central Valley 3",
+      "location": {
+         "state": {
+            "name": "North Dakota",
+            "abbr": "ND",
+            "county": "Traill County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "203",
+      "fte": "19.41",
+      "pupilTeacherRatio": "10.46",
+      "numberOfSchools": "2"
+   },
+   {
+      "name": "Dakota Prairie 1",
+      "location": {
+         "state": {
+            "name": "North Dakota",
+            "abbr": "ND",
+            "county": "Nelson County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "297",
+      "fte": "29.8",
+      "pupilTeacherRatio": "9.97",
+      "numberOfSchools": "2"
+   },
+   {
+      "name": "Devils Lake 1",
+      "location": {
+         "state": {
+            "name": "North Dakota",
+            "abbr": "ND",
+            "county": "Ramsey County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "1658",
+      "fte": "129.42",
+      "pupilTeacherRatio": "12.81",
+      "numberOfSchools": "5"
+   },
+   {
+      "name": "Dickinson 1",
+      "location": {
+         "state": {
+            "name": "North Dakota",
+            "abbr": "ND",
+            "county": "Stark County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "4080",
+      "fte": "260.86",
+      "pupilTeacherRatio": "15.64",
+      "numberOfSchools": "10"
+   },
+   {
+      "name": "Dickinson Special Ed Unit",
+      "location": {
+         "state": {
+            "name": "North Dakota",
+            "abbr": "ND",
+            "county": "Stark County"
+         }
+      },
+      "type": "4-Regional Education Service Agency (RESA)",
+      "grades": {
+         "lowest": "†",
+         "highest": "†"
+      },
+      "students": "0",
+      "fte": "0",
+      "pupilTeacherRatio": "†",
+      "numberOfSchools": "0"
+   },
+   {
+      "name": "Divide County 1",
+      "location": {
+         "state": {
+            "name": "North Dakota",
+            "abbr": "ND",
+            "county": "Divide County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "384",
+      "fte": "32.8",
+      "pupilTeacherRatio": "11.71",
+      "numberOfSchools": "2"
+   },
+   {
+      "name": "Drake 57",
+      "location": {
+         "state": {
+            "name": "North Dakota",
+            "abbr": "ND",
+            "county": "McHenry County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "7th Grade",
+         "highest": "12th Grade"
+      },
+      "students": "70",
+      "fte": "8.13",
+      "pupilTeacherRatio": "8.61",
+      "numberOfSchools": "1"
+   },
+   {
+      "name": "Drayton 19",
+      "location": {
+         "state": {
+            "name": "North Dakota",
+            "abbr": "ND",
+            "county": "Pembina County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "188",
+      "fte": "20.18",
+      "pupilTeacherRatio": "9.32",
+      "numberOfSchools": "2"
+   },
+   {
+      "name": "Dunseith 1",
+      "location": {
+         "state": {
+            "name": "North Dakota",
+            "abbr": "ND",
+            "county": "Rolette County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "530",
+      "fte": "55",
+      "pupilTeacherRatio": "9.64",
+      "numberOfSchools": "2"
+   },
+   {
+      "name": "Earl 18",
+      "location": {
+         "state": {
+            "name": "North Dakota",
+            "abbr": "ND",
+            "county": "Richland County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Kindergarten",
+         "highest": "8th Grade"
+      },
+      "students": "0",
+      "fte": "1",
+      "pupilTeacherRatio": "0",
+      "numberOfSchools": "1"
+   },
+   {
+      "name": "East Central Special Ed Unit",
+      "location": {
+         "state": {
+            "name": "North Dakota",
+            "abbr": "ND",
+            "county": "Eddy County"
+         }
+      },
+      "type": "4-Regional Education Service Agency (RESA)",
+      "grades": {
+         "lowest": "†",
+         "highest": "†"
+      },
+      "students": "0",
+      "fte": "0",
+      "pupilTeacherRatio": "†",
+      "numberOfSchools": "0"
+   },
+   {
+      "name": "Edgeley 3",
+      "location": {
+         "state": {
+            "name": "North Dakota",
+            "abbr": "ND",
+            "county": "LaMoure County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "252",
+      "fte": "19.17",
+      "pupilTeacherRatio": "13.15",
+      "numberOfSchools": "3"
+   },
+   {
+      "name": "Edmore 2",
+      "location": {
+         "state": {
+            "name": "North Dakota",
+            "abbr": "ND",
+            "county": "Ramsey County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "42",
+      "fte": "13",
+      "pupilTeacherRatio": "3.23",
+      "numberOfSchools": "2"
+   },
+   {
+      "name": "Eight Mile 6",
+      "location": {
+         "state": {
+            "name": "North Dakota",
+            "abbr": "ND",
+            "county": "Williams County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Kindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "306",
+      "fte": "21.68",
+      "pupilTeacherRatio": "14.11",
+      "numberOfSchools": "2"
+   },
+   {
+      "name": "Elgin-New Leipzig 49",
+      "location": {
+         "state": {
+            "name": "North Dakota",
+            "abbr": "ND",
+            "county": "Grant County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "169",
+      "fte": "16.91",
+      "pupilTeacherRatio": "9.99",
+      "numberOfSchools": "2"
+   },
+   {
+      "name": "Ellendale 40",
+      "location": {
+         "state": {
+            "name": "North Dakota",
+            "abbr": "ND",
+            "county": "Dickey County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "341",
+      "fte": "31.5",
+      "pupilTeacherRatio": "10.83",
+      "numberOfSchools": "3"
+   },
+   {
+      "name": "Emerado 127",
+      "location": {
+         "state": {
+            "name": "North Dakota",
+            "abbr": "ND",
+            "county": "Grand Forks County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "8th Grade"
+      },
+      "students": "107",
+      "fte": "13",
+      "pupilTeacherRatio": "8.23",
+      "numberOfSchools": "1"
+   },
+   {
+      "name": "Enderlin Area 24",
+      "location": {
+         "state": {
+            "name": "North Dakota",
+            "abbr": "ND",
+            "county": "Ransom County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Kindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "301",
+      "fte": "31.24",
+      "pupilTeacherRatio": "9.64",
+      "numberOfSchools": "3"
+   },
+   {
+      "name": "Fairmount 18",
+      "location": {
+         "state": {
+            "name": "North Dakota",
+            "abbr": "ND",
+            "county": "Richland County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "96",
+      "fte": "12.75",
+      "pupilTeacherRatio": "7.53",
+      "numberOfSchools": "2"
+   },
+   {
+      "name": "Fargo 1",
+      "location": {
+         "state": {
+            "name": "North Dakota",
+            "abbr": "ND",
+            "county": "Cass County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "11520",
+      "fte": "880.52",
+      "pupilTeacherRatio": "13.08",
+      "numberOfSchools": "22"
+   },
+   {
+      "name": "Fargo Special Ed Unit",
+      "location": {
+         "state": {
+            "name": "North Dakota",
+            "abbr": "ND",
+            "county": "Cass County"
+         }
+      },
+      "type": "4-Regional Education Service Agency (RESA)",
+      "grades": {
+         "lowest": "†",
+         "highest": "†"
+      },
+      "students": "0",
+      "fte": "0",
+      "pupilTeacherRatio": "†",
+      "numberOfSchools": "0"
+   },
+   {
+      "name": "Fessenden-Bowdon 25",
+      "location": {
+         "state": {
+            "name": "North Dakota",
+            "abbr": "ND",
+            "county": "Wells County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "169",
+      "fte": "14.64",
+      "pupilTeacherRatio": "11.54",
+      "numberOfSchools": "2"
+   },
+   {
+      "name": "Finley-Sharon 19",
+      "location": {
+         "state": {
+            "name": "North Dakota",
+            "abbr": "ND",
+            "county": "Steele County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "76",
+      "fte": "18.15",
+      "pupilTeacherRatio": "4.19",
+      "numberOfSchools": "2"
+   },
+   {
+      "name": "Flasher 39",
+      "location": {
+         "state": {
+            "name": "North Dakota",
+            "abbr": "ND",
+            "county": "Morton County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "246",
+      "fte": "22",
+      "pupilTeacherRatio": "11.18",
+      "numberOfSchools": "2"
+   },
+   {
+      "name": "Fordville-Lankin 5",
+      "location": {
+         "state": {
+            "name": "North Dakota",
+            "abbr": "ND",
+            "county": "Walsh County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "41",
+      "fte": "11.56",
+      "pupilTeacherRatio": "3.55",
+      "numberOfSchools": "2"
+   },
+   {
+      "name": "Ft Ransom 6",
+      "location": {
+         "state": {
+            "name": "North Dakota",
+            "abbr": "ND",
+            "county": "Ransom County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Kindergarten",
+         "highest": "6th Grade"
+      },
+      "students": "28",
+      "fte": "3.15",
+      "pupilTeacherRatio": "8.89",
+      "numberOfSchools": "1"
+   },
+   {
+      "name": "Ft Totten 30",
+      "location": {
+         "state": {
+            "name": "North Dakota",
+            "abbr": "ND",
+            "county": "Benson County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "9th Grade",
+         "highest": "12th Grade"
+      },
+      "students": "195",
+      "fte": "23.39",
+      "pupilTeacherRatio": "8.34",
+      "numberOfSchools": "2"
+   },
+   {
+      "name": "Ft Totten Special Ed Unit",
+      "location": {
+         "state": {
+            "name": "North Dakota",
+            "abbr": "ND",
+            "county": "Benson County"
+         }
+      },
+      "type": "4-Regional Education Service Agency (RESA)",
+      "grades": {
+         "lowest": "†",
+         "highest": "†"
+      },
+      "students": "0",
+      "fte": "0",
+      "pupilTeacherRatio": "†",
+      "numberOfSchools": "0"
+   },
+   {
+      "name": "Ft Yates 4",
+      "location": {
+         "state": {
+            "name": "North Dakota",
+            "abbr": "ND",
+            "county": "Sioux County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "5th Grade",
+         "highest": "8th Grade"
+      },
+      "students": "149",
+      "fte": "15",
+      "pupilTeacherRatio": "9.93",
+      "numberOfSchools": "2"
+   },
+   {
+      "name": "Ft Yates Special Ed Unit",
+      "location": {
+         "state": {
+            "name": "North Dakota",
+            "abbr": "ND",
+            "county": "Sioux County"
+         }
+      },
+      "type": "4-Regional Education Service Agency (RESA)",
+      "grades": {
+         "lowest": "†",
+         "highest": "†"
+      },
+      "students": "0",
+      "fte": "0",
+      "pupilTeacherRatio": "†",
+      "numberOfSchools": "0"
+   },
+   {
+      "name": "Gackle-Streeter 56",
+      "location": {
+         "state": {
+            "name": "North Dakota",
+            "abbr": "ND",
+            "county": "Logan County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "105",
+      "fte": "15.09",
+      "pupilTeacherRatio": "6.96",
+      "numberOfSchools": "2"
+   },
+   {
+      "name": "Garrison 51",
+      "location": {
+         "state": {
+            "name": "North Dakota",
+            "abbr": "ND",
+            "county": "McLean County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "401",
+      "fte": "32.73",
+      "pupilTeacherRatio": "12.25",
+      "numberOfSchools": "2"
+   },
+   {
+      "name": "Glen Ullin 48",
+      "location": {
+         "state": {
+            "name": "North Dakota",
+            "abbr": "ND",
+            "county": "Morton County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "151",
+      "fte": "28.85",
+      "pupilTeacherRatio": "5.23",
+      "numberOfSchools": "2"
+   },
+   {
+      "name": "Glenburn 26",
+      "location": {
+         "state": {
+            "name": "North Dakota",
+            "abbr": "ND",
+            "county": "Renville County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "255",
+      "fte": "29",
+      "pupilTeacherRatio": "8.79",
+      "numberOfSchools": "2"
+   },
+   {
+      "name": "Goodrich 16",
+      "location": {
+         "state": {
+            "name": "North Dakota",
+            "abbr": "ND",
+            "county": "Sheridan County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "22",
+      "fte": "6.76",
+      "pupilTeacherRatio": "3.25",
+      "numberOfSchools": "2"
+   },
+   {
+      "name": "Grafton 3",
+      "location": {
+         "state": {
+            "name": "North Dakota",
+            "abbr": "ND",
+            "county": "Walsh County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "896",
+      "fte": "90.5",
+      "pupilTeacherRatio": "9.9",
+      "numberOfSchools": "3"
+   },
+   {
+      "name": "Grand Forks 1",
+      "location": {
+         "state": {
+            "name": "North Dakota",
+            "abbr": "ND",
+            "county": "Grand Forks County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "7648",
+      "fte": "643.52",
+      "pupilTeacherRatio": "11.88",
+      "numberOfSchools": "19"
+   },
+   {
+      "name": "Grand Forks Afb 140",
+      "location": {
+         "state": {
+            "name": "North Dakota",
+            "abbr": "ND",
+            "county": "Grand Forks County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "†",
+         "highest": "†"
+      },
+      "students": "0",
+      "fte": "0",
+      "pupilTeacherRatio": "†",
+      "numberOfSchools": "0"
+   },
+   {
+      "name": "Grand Forks Area Career & Technical Center",
+      "location": {
+         "state": {
+            "name": "North Dakota",
+            "abbr": "ND",
+            "county": "Grand Forks County"
+         }
+      },
+      "type": "4-Regional Education Service Agency (RESA)",
+      "grades": {
+         "lowest": "†",
+         "highest": "†"
+      },
+      "students": "0",
+      "fte": "0",
+      "pupilTeacherRatio": "†",
+      "numberOfSchools": "0"
+   },
+   {
+      "name": "Grand Forks Special Ed Unit",
+      "location": {
+         "state": {
+            "name": "North Dakota",
+            "abbr": "ND",
+            "county": "Grand Forks County"
+         }
+      },
+      "type": "4-Regional Education Service Agency (RESA)",
+      "grades": {
+         "lowest": "†",
+         "highest": "†"
+      },
+      "students": "0",
+      "fte": "0",
+      "pupilTeacherRatio": "†",
+      "numberOfSchools": "0"
+   },
+   {
+      "name": "Great Northwest Area Career & Technical Center",
+      "location": {
+         "state": {
+            "name": "North Dakota",
+            "abbr": "ND",
+            "county": "Williams County"
+         }
+      },
+      "type": "4-Regional Education Service Agency (RESA)",
+      "grades": {
+         "lowest": "†",
+         "highest": "†"
+      },
+      "students": "0",
+      "fte": "0",
+      "pupilTeacherRatio": "†",
+      "numberOfSchools": "0"
+   },
+   {
+      "name": "Grenora 99",
+      "location": {
+         "state": {
+            "name": "North Dakota",
+            "abbr": "ND",
+            "county": "Williams County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Kindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "189",
+      "fte": "16.73",
+      "pupilTeacherRatio": "11.3",
+      "numberOfSchools": "2"
+   },
+   {
+      "name": "Griggs County Central 18",
+      "location": {
+         "state": {
+            "name": "North Dakota",
+            "abbr": "ND",
+            "county": "Griggs County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "258",
+      "fte": "23",
+      "pupilTeacherRatio": "11.22",
+      "numberOfSchools": "2"
+   },
+   {
+      "name": "Gst Special Ed Unit",
+      "location": {
+         "state": {
+            "name": "North Dakota",
+            "abbr": "ND",
+            "county": "Traill County"
+         }
+      },
+      "type": "4-Regional Education Service Agency (RESA)",
+      "grades": {
+         "lowest": "†",
+         "highest": "†"
+      },
+      "students": "0",
+      "fte": "0",
+      "pupilTeacherRatio": "†",
+      "numberOfSchools": "0"
+   },
+   {
+      "name": "Halliday 19",
+      "location": {
+         "state": {
+            "name": "North Dakota",
+            "abbr": "ND",
+            "county": "Dunn County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Kindergarten",
+         "highest": "6th Grade"
+      },
+      "students": "32",
+      "fte": "4.99",
+      "pupilTeacherRatio": "6.41",
+      "numberOfSchools": "1"
+   },
+   {
+      "name": "Hankinson 8",
+      "location": {
+         "state": {
+            "name": "North Dakota",
+            "abbr": "ND",
+            "county": "Richland County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "264",
+      "fte": "24",
+      "pupilTeacherRatio": "11",
+      "numberOfSchools": "2"
+   },
+   {
+      "name": "Harvey 38",
+      "location": {
+         "state": {
+            "name": "North Dakota",
+            "abbr": "ND",
+            "county": "Wells County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "381",
+      "fte": "33.63",
+      "pupilTeacherRatio": "11.33",
+      "numberOfSchools": "2"
+   },
+   {
+      "name": "Hatton Eielson 7",
+      "location": {
+         "state": {
+            "name": "North Dakota",
+            "abbr": "ND",
+            "county": "Traill County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "190",
+      "fte": "22.32",
+      "pupilTeacherRatio": "8.51",
+      "numberOfSchools": "2"
+   },
+   {
+      "name": "Hazelton-Moffit-Braddock 6",
+      "location": {
+         "state": {
+            "name": "North Dakota",
+            "abbr": "ND",
+            "county": "Emmons County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "137",
+      "fte": "14.5",
+      "pupilTeacherRatio": "9.45",
+      "numberOfSchools": "2"
+   },
+   {
+      "name": "Hazen 3",
+      "location": {
+         "state": {
+            "name": "North Dakota",
+            "abbr": "ND",
+            "county": "Mercer County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "580",
+      "fte": "38.8",
+      "pupilTeacherRatio": "14.95",
+      "numberOfSchools": "3"
+   },
+   {
+      "name": "Hebron 13",
+      "location": {
+         "state": {
+            "name": "North Dakota",
+            "abbr": "ND",
+            "county": "Morton County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "163",
+      "fte": "20",
+      "pupilTeacherRatio": "8.15",
+      "numberOfSchools": "2"
+   },
+   {
+      "name": "Hettinger 13",
+      "location": {
+         "state": {
+            "name": "North Dakota",
+            "abbr": "ND",
+            "county": "Adams County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "293",
+      "fte": "24.86",
+      "pupilTeacherRatio": "11.79",
+      "numberOfSchools": "2"
+   },
+   {
+      "name": "Hillsboro 9",
+      "location": {
+         "state": {
+            "name": "North Dakota",
+            "abbr": "ND",
+            "county": "Traill County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "510",
+      "fte": "35",
+      "pupilTeacherRatio": "14.57",
+      "numberOfSchools": "3"
+   },
+   {
+      "name": "Hope 10",
+      "location": {
+         "state": {
+            "name": "North Dakota",
+            "abbr": "ND",
+            "county": "Steele County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "7th Grade",
+         "highest": "12th Grade"
+      },
+      "students": "63",
+      "fte": "10.67",
+      "pupilTeacherRatio": "5.9",
+      "numberOfSchools": "1"
+   },
+   {
+      "name": "Hope Page 85",
+      "location": {
+         "state": {
+            "name": "NORTH DAKOTA",
+            "abbr": "ND",
+            "county": "Cass County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "–",
+         "highest": "–"
+      },
+      "students": "†",
+      "fte": "†",
+      "pupilTeacherRatio": "†",
+      "numberOfSchools": "0"
+   },
+   {
+      "name": "Horse Creek 32",
+      "location": {
+         "state": {
+            "name": "North Dakota",
+            "abbr": "ND",
+            "county": "McKenzie County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Kindergarten",
+         "highest": "8th Grade"
+      },
+      "students": "11",
+      "fte": "1",
+      "pupilTeacherRatio": "11",
+      "numberOfSchools": "1"
+   },
+   {
+      "name": "James River Special Ed Cooperative",
+      "location": {
+         "state": {
+            "name": "North Dakota",
+            "abbr": "ND",
+            "county": "Stutsman County"
+         }
+      },
+      "type": "4-Regional Education Service Agency (RESA)",
+      "grades": {
+         "lowest": "†",
+         "highest": "†"
+      },
+      "students": "0",
+      "fte": "0",
+      "pupilTeacherRatio": "†",
+      "numberOfSchools": "0"
+   },
+   {
+      "name": "James Valley Area Career & Technical Center",
+      "location": {
+         "state": {
+            "name": "North Dakota",
+            "abbr": "ND",
+            "county": "Stutsman County"
+         }
+      },
+      "type": "4-Regional Education Service Agency (RESA)",
+      "grades": {
+         "lowest": "†",
+         "highest": "†"
+      },
+      "students": "0",
+      "fte": "0",
+      "pupilTeacherRatio": "†",
+      "numberOfSchools": "0"
+   },
+   {
+      "name": "Jamestown 1",
+      "location": {
+         "state": {
+            "name": "North Dakota",
+            "abbr": "ND",
+            "county": "Stutsman County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "2210",
+      "fte": "176.83",
+      "pupilTeacherRatio": "12.5",
+      "numberOfSchools": "7"
+   },
+   {
+      "name": "Jamestown Special Ed Unit",
+      "location": {
+         "state": {
+            "name": "North Dakota",
+            "abbr": "ND",
+            "county": "Stutsman County"
+         }
+      },
+      "type": "4-Regional Education Service Agency (RESA)",
+      "grades": {
+         "lowest": "†",
+         "highest": "†"
+      },
+      "students": "0",
+      "fte": "0",
+      "pupilTeacherRatio": "†",
+      "numberOfSchools": "0"
+   },
+   {
+      "name": "Kenmare 28",
+      "location": {
+         "state": {
+            "name": "North Dakota",
+            "abbr": "ND",
+            "county": "Ward County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "293",
+      "fte": "30",
+      "pupilTeacherRatio": "9.77",
+      "numberOfSchools": "2"
+   },
+   {
+      "name": "Kensal 19",
+      "location": {
+         "state": {
+            "name": "North Dakota",
+            "abbr": "ND",
+            "county": "Stutsman County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "6th Grade"
+      },
+      "students": "42",
+      "fte": "4.6",
+      "pupilTeacherRatio": "9.13",
+      "numberOfSchools": "1"
+   },
+   {
+      "name": "Kidder County 1",
+      "location": {
+         "state": {
+            "name": "North Dakota",
+            "abbr": "ND",
+            "county": "Kidder County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "393",
+      "fte": "37.25",
+      "pupilTeacherRatio": "10.55",
+      "numberOfSchools": "3"
+   },
+   {
+      "name": "Killdeer 16",
+      "location": {
+         "state": {
+            "name": "North Dakota",
+            "abbr": "ND",
+            "county": "Dunn County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "649",
+      "fte": "51.01",
+      "pupilTeacherRatio": "12.72",
+      "numberOfSchools": "2"
+   },
+   {
+      "name": "Kindred 2",
+      "location": {
+         "state": {
+            "name": "North Dakota",
+            "abbr": "ND",
+            "county": "Cass County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "808",
+      "fte": "63.43",
+      "pupilTeacherRatio": "12.74",
+      "numberOfSchools": "2"
+   },
+   {
+      "name": "Kulm 7",
+      "location": {
+         "state": {
+            "name": "North Dakota",
+            "abbr": "ND",
+            "county": "LaMoure County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "134",
+      "fte": "16",
+      "pupilTeacherRatio": "8.38",
+      "numberOfSchools": "2"
+   },
+   {
+      "name": "Lake Area Career & Technical Center",
+      "location": {
+         "state": {
+            "name": "North Dakota",
+            "abbr": "ND",
+            "county": "Ramsey County"
+         }
+      },
+      "type": "4-Regional Education Service Agency (RESA)",
+      "grades": {
+         "lowest": "†",
+         "highest": "†"
+      },
+      "students": "0",
+      "fte": "0",
+      "pupilTeacherRatio": "†",
+      "numberOfSchools": "0"
+   },
+   {
+      "name": "Lake Region Special Ed Unit",
+      "location": {
+         "state": {
+            "name": "North Dakota",
+            "abbr": "ND",
+            "county": "Ramsey County"
+         }
+      },
+      "type": "4-Regional Education Service Agency (RESA)",
+      "grades": {
+         "lowest": "†",
+         "highest": "†"
+      },
+      "students": "0",
+      "fte": "0",
+      "pupilTeacherRatio": "†",
+      "numberOfSchools": "0"
+   },
+   {
+      "name": "Lakota 66",
+      "location": {
+         "state": {
+            "name": "North Dakota",
+            "abbr": "ND",
+            "county": "Nelson County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "171",
+      "fte": "22.45",
+      "pupilTeacherRatio": "7.62",
+      "numberOfSchools": "2"
+   },
+   {
+      "name": "Lamoure 8",
+      "location": {
+         "state": {
+            "name": "North Dakota",
+            "abbr": "ND",
+            "county": "LaMoure County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "285",
+      "fte": "28.5",
+      "pupilTeacherRatio": "10",
+      "numberOfSchools": "3"
+   },
+   {
+      "name": "Langdon Area 23",
+      "location": {
+         "state": {
+            "name": "North Dakota",
+            "abbr": "ND",
+            "county": "Cavalier County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "418",
+      "fte": "41.21",
+      "pupilTeacherRatio": "10.14",
+      "numberOfSchools": "2"
+   },
+   {
+      "name": "Larimore 44",
+      "location": {
+         "state": {
+            "name": "North Dakota",
+            "abbr": "ND",
+            "county": "Grand Forks County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "401",
+      "fte": "32.74",
+      "pupilTeacherRatio": "12.25",
+      "numberOfSchools": "2"
+   },
+   {
+      "name": "Leeds 6",
+      "location": {
+         "state": {
+            "name": "North Dakota",
+            "abbr": "ND",
+            "county": "Benson County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "133",
+      "fte": "18.73",
+      "pupilTeacherRatio": "7.1",
+      "numberOfSchools": "2"
+   },
+   {
+      "name": "Lewis and Clark 161",
+      "location": {
+         "state": {
+            "name": "North Dakota",
+            "abbr": "ND",
+            "county": "Ward County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "423",
+      "fte": "37.92",
+      "pupilTeacherRatio": "11.16",
+      "numberOfSchools": "4"
+   },
+   {
+      "name": "Lidgerwood 28",
+      "location": {
+         "state": {
+            "name": "North Dakota",
+            "abbr": "ND",
+            "county": "Richland County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "178",
+      "fte": "17.79",
+      "pupilTeacherRatio": "10.01",
+      "numberOfSchools": "2"
+   },
+   {
+      "name": "Linton 36",
+      "location": {
+         "state": {
+            "name": "North Dakota",
+            "abbr": "ND",
+            "county": "Emmons County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "264",
+      "fte": "26.5",
+      "pupilTeacherRatio": "9.96",
+      "numberOfSchools": "2"
+   },
+   {
+      "name": "Lisbon 19",
+      "location": {
+         "state": {
+            "name": "North Dakota",
+            "abbr": "ND",
+            "county": "Ransom County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "604",
+      "fte": "50.31",
+      "pupilTeacherRatio": "12.01",
+      "numberOfSchools": "3"
+   },
+   {
+      "name": "Litchville-Marion 46",
+      "location": {
+         "state": {
+            "name": "North Dakota",
+            "abbr": "ND",
+            "county": "LaMoure County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "134",
+      "fte": "16.41",
+      "pupilTeacherRatio": "8.17",
+      "numberOfSchools": "2"
+   },
+   {
+      "name": "Little Heart 4",
+      "location": {
+         "state": {
+            "name": "North Dakota",
+            "abbr": "ND",
+            "county": "Morton County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "8th Grade"
+      },
+      "students": "21",
+      "fte": "3",
+      "pupilTeacherRatio": "7",
+      "numberOfSchools": "1"
+   },
+   {
+      "name": "Lone Tree 6",
+      "location": {
+         "state": {
+            "name": "North Dakota",
+            "abbr": "ND",
+            "county": "Golden Valley County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "8th Grade"
+      },
+      "students": "34",
+      "fte": "4.33",
+      "pupilTeacherRatio": "7.85",
+      "numberOfSchools": "1"
+   },
+   {
+      "name": "Lonetree Special Ed Unit",
+      "location": {
+         "state": {
+            "name": "North Dakota",
+            "abbr": "ND",
+            "county": "Wells County"
+         }
+      },
+      "type": "4-Regional Education Service Agency (RESA)",
+      "grades": {
+         "lowest": "†",
+         "highest": "†"
+      },
+      "students": "0",
+      "fte": "0",
+      "pupilTeacherRatio": "†",
+      "numberOfSchools": "0"
+   },
+   {
+      "name": "Maddock 9",
+      "location": {
+         "state": {
+            "name": "North Dakota",
+            "abbr": "ND",
+            "county": "Benson County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "129",
+      "fte": "16.13",
+      "pupilTeacherRatio": "8",
+      "numberOfSchools": "2"
+   },
+   {
+      "name": "Mandan 1",
+      "location": {
+         "state": {
+            "name": "North Dakota",
+            "abbr": "ND",
+            "county": "Morton County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "4039",
+      "fte": "259.63",
+      "pupilTeacherRatio": "15.56",
+      "numberOfSchools": "9"
+   },
+   {
+      "name": "Mandaree 36",
+      "location": {
+         "state": {
+            "name": "North Dakota",
+            "abbr": "ND",
+            "county": "McKenzie County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "220",
+      "fte": "20",
+      "pupilTeacherRatio": "11",
+      "numberOfSchools": "2"
+   },
+   {
+      "name": "Manning 45",
+      "location": {
+         "state": {
+            "name": "North Dakota",
+            "abbr": "ND",
+            "county": "Burleigh County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Kindergarten",
+         "highest": "8th Grade"
+      },
+      "students": "6",
+      "fte": "2.28",
+      "pupilTeacherRatio": "2.63",
+      "numberOfSchools": "1"
+   },
+   {
+      "name": "Manvel 125",
+      "location": {
+         "state": {
+            "name": "North Dakota",
+            "abbr": "ND",
+            "county": "Grand Forks County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "8th Grade"
+      },
+      "students": "188",
+      "fte": "16.17",
+      "pupilTeacherRatio": "11.63",
+      "numberOfSchools": "1"
+   },
+   {
+      "name": "Maple Valley 4",
+      "location": {
+         "state": {
+            "name": "North Dakota",
+            "abbr": "ND",
+            "county": "Cass County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "239",
+      "fte": "23.21",
+      "pupilTeacherRatio": "10.3",
+      "numberOfSchools": "3"
+   },
+   {
+      "name": "Mapleton 7",
+      "location": {
+         "state": {
+            "name": "North Dakota",
+            "abbr": "ND",
+            "county": "Cass County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "6th Grade"
+      },
+      "students": "168",
+      "fte": "12.3",
+      "pupilTeacherRatio": "13.66",
+      "numberOfSchools": "1"
+   },
+   {
+      "name": "Marmarth 12",
+      "location": {
+         "state": {
+            "name": "North Dakota",
+            "abbr": "ND",
+            "county": "Slope County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "8th Grade"
+      },
+      "students": "26",
+      "fte": "2",
+      "pupilTeacherRatio": "13",
+      "numberOfSchools": "1"
+   },
+   {
+      "name": "Marmot Schools",
+      "location": {
+         "state": {
+            "name": "North Dakota",
+            "abbr": "ND",
+            "county": "Morton County"
+         }
+      },
+      "type": "5-State agency providing elementary and/or secondary level instruction",
+      "grades": {
+         "lowest": "Kindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "43",
+      "fte": "30",
+      "pupilTeacherRatio": "1.43",
+      "numberOfSchools": "2"
+   },
+   {
+      "name": "Max 50",
+      "location": {
+         "state": {
+            "name": "North Dakota",
+            "abbr": "ND",
+            "county": "McLean County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "198",
+      "fte": "17.84",
+      "pupilTeacherRatio": "11.1",
+      "numberOfSchools": "2"
+   },
+   {
+      "name": "May-Port Cg 14",
+      "location": {
+         "state": {
+            "name": "North Dakota",
+            "abbr": "ND",
+            "county": "Traill County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "507",
+      "fte": "45.95",
+      "pupilTeacherRatio": "11.03",
+      "numberOfSchools": "3"
+   },
+   {
+      "name": "Mcclusky 19",
+      "location": {
+         "state": {
+            "name": "North Dakota",
+            "abbr": "ND",
+            "county": "Sheridan County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "90",
+      "fte": "22.58",
+      "pupilTeacherRatio": "3.99",
+      "numberOfSchools": "2"
+   },
+   {
+      "name": "Mckenzie Co 1",
+      "location": {
+         "state": {
+            "name": "North Dakota",
+            "abbr": "ND",
+            "county": "McKenzie County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "1911",
+      "fte": "125.92",
+      "pupilTeacherRatio": "15.18",
+      "numberOfSchools": "3"
+   },
+   {
+      "name": "Medina 3",
+      "location": {
+         "state": {
+            "name": "North Dakota",
+            "abbr": "ND",
+            "county": "Stutsman County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "173",
+      "fte": "19.4",
+      "pupilTeacherRatio": "8.92",
+      "numberOfSchools": "2"
+   },
+   {
+      "name": "Menoken 33",
+      "location": {
+         "state": {
+            "name": "North Dakota",
+            "abbr": "ND",
+            "county": "Burleigh County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Kindergarten",
+         "highest": "8th Grade"
+      },
+      "students": "45",
+      "fte": "4",
+      "pupilTeacherRatio": "11.25",
+      "numberOfSchools": "1"
+   },
+   {
+      "name": "Midkota 7",
+      "location": {
+         "state": {
+            "name": "North Dakota",
+            "abbr": "ND",
+            "county": "Griggs County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "186",
+      "fte": "17.5",
+      "pupilTeacherRatio": "10.63",
+      "numberOfSchools": "2"
+   },
+   {
+      "name": "Midway 128",
+      "location": {
+         "state": {
+            "name": "North Dakota",
+            "abbr": "ND",
+            "county": "Grand Forks County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "184",
+      "fte": "23.15",
+      "pupilTeacherRatio": "7.95",
+      "numberOfSchools": "2"
+   },
+   {
+      "name": "Milnor 2",
+      "location": {
+         "state": {
+            "name": "North Dakota",
+            "abbr": "ND",
+            "county": "Sargent County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "223",
+      "fte": "31.64",
+      "pupilTeacherRatio": "7.05",
+      "numberOfSchools": "4"
+   },
+   {
+      "name": "Minnewaukan 5",
+      "location": {
+         "state": {
+            "name": "North Dakota",
+            "abbr": "ND",
+            "county": "Benson County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "264",
+      "fte": "26.94",
+      "pupilTeacherRatio": "9.8",
+      "numberOfSchools": "2"
+   },
+   {
+      "name": "Minot 1",
+      "location": {
+         "state": {
+            "name": "North Dakota",
+            "abbr": "ND",
+            "county": "Ward County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "7720",
+      "fte": "542.54",
+      "pupilTeacherRatio": "14.23",
+      "numberOfSchools": "19"
+   },
+   {
+      "name": "Minot Afb 160",
+      "location": {
+         "state": {
+            "name": "North Dakota",
+            "abbr": "ND",
+            "county": "Ward County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "†",
+         "highest": "†"
+      },
+      "students": "0",
+      "fte": "0",
+      "pupilTeacherRatio": "†",
+      "numberOfSchools": "0"
+   },
+   {
+      "name": "Minot Special Ed Unit",
+      "location": {
+         "state": {
+            "name": "NORTH DAKOTA",
+            "abbr": "ND",
+            "county": "Ward County"
+         }
+      },
+      "type": "4-Regional Education Service Agency (RESA)",
+      "grades": {
+         "lowest": "†",
+         "highest": "†"
+      },
+      "students": "0",
+      "fte": "0",
+      "pupilTeacherRatio": "†",
+      "numberOfSchools": "0"
+   },
+   {
+      "name": "Minto 20",
+      "location": {
+         "state": {
+            "name": "North Dakota",
+            "abbr": "ND",
+            "county": "Walsh County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "303",
+      "fte": "19",
+      "pupilTeacherRatio": "15.95",
+      "numberOfSchools": "2"
+   },
+   {
+      "name": "Mohall-Lansford-Sherwood 1",
+      "location": {
+         "state": {
+            "name": "North Dakota",
+            "abbr": "ND",
+            "county": "Renville County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "345",
+      "fte": "31.08",
+      "pupilTeacherRatio": "11.1",
+      "numberOfSchools": "2"
+   },
+   {
+      "name": "Montpelier 14",
+      "location": {
+         "state": {
+            "name": "North Dakota",
+            "abbr": "ND",
+            "county": "Stutsman County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "113",
+      "fte": "14.35",
+      "pupilTeacherRatio": "7.87",
+      "numberOfSchools": "2"
+   },
+   {
+      "name": "Morton-Sioux Special Ed Unit",
+      "location": {
+         "state": {
+            "name": "North Dakota",
+            "abbr": "ND",
+            "county": "Morton County"
+         }
+      },
+      "type": "4-Regional Education Service Agency (RESA)",
+      "grades": {
+         "lowest": "†",
+         "highest": "†"
+      },
+      "students": "0",
+      "fte": "0",
+      "pupilTeacherRatio": "†",
+      "numberOfSchools": "0"
+   },
+   {
+      "name": "Mott-Regent 1",
+      "location": {
+         "state": {
+            "name": "North Dakota",
+            "abbr": "ND",
+            "county": "Hettinger County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "196",
+      "fte": "26.55",
+      "pupilTeacherRatio": "7.38",
+      "numberOfSchools": "2"
+   },
+   {
+      "name": "Mt Pleasant 4",
+      "location": {
+         "state": {
+            "name": "North Dakota",
+            "abbr": "ND",
+            "county": "Rolette County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "277",
+      "fte": "24.25",
+      "pupilTeacherRatio": "11.42",
+      "numberOfSchools": "2"
+   },
+   {
+      "name": "Munich 19",
+      "location": {
+         "state": {
+            "name": "North Dakota",
+            "abbr": "ND",
+            "county": "Cavalier County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "91",
+      "fte": "13.92",
+      "pupilTeacherRatio": "6.54",
+      "numberOfSchools": "2"
+   },
+   {
+      "name": "Napoleon 2",
+      "location": {
+         "state": {
+            "name": "North Dakota",
+            "abbr": "ND",
+            "county": "Logan County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "226",
+      "fte": "19.26",
+      "pupilTeacherRatio": "11.73",
+      "numberOfSchools": "2"
+   },
+   {
+      "name": "Naughton 25",
+      "location": {
+         "state": {
+            "name": "North Dakota",
+            "abbr": "ND",
+            "county": "Burleigh County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "8th Grade"
+      },
+      "students": "9",
+      "fte": "2",
+      "pupilTeacherRatio": "4.5",
+      "numberOfSchools": "1"
+   },
+   {
+      "name": "Nd School for the Deaf",
+      "location": {
+         "state": {
+            "name": "North Dakota",
+            "abbr": "ND",
+            "county": "Ramsey County"
+         }
+      },
+      "type": "5-State agency providing elementary and/or secondary level instruction",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "8th Grade"
+      },
+      "students": "13",
+      "fte": "7.01",
+      "pupilTeacherRatio": "1.85",
+      "numberOfSchools": "1"
+   },
+   {
+      "name": "Nd Vision Services",
+      "location": {
+         "state": {
+            "name": "North Dakota",
+            "abbr": "ND",
+            "county": "Grand Forks County"
+         }
+      },
+      "type": "5-State agency providing elementary and/or secondary level instruction",
+      "grades": {
+         "lowest": "†",
+         "highest": "†"
+      },
+      "students": "0",
+      "fte": "0",
+      "pupilTeacherRatio": "†",
+      "numberOfSchools": "1"
+   },
+   {
+      "name": "Nedrose 4",
+      "location": {
+         "state": {
+            "name": "North Dakota",
+            "abbr": "ND",
+            "county": "Ward County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "583",
+      "fte": "47.82",
+      "pupilTeacherRatio": "12.19",
+      "numberOfSchools": "3"
+   },
+   {
+      "name": "Nesson 2",
+      "location": {
+         "state": {
+            "name": "North Dakota",
+            "abbr": "ND",
+            "county": "Williams County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "374",
+      "fte": "24.62",
+      "pupilTeacherRatio": "15.19",
+      "numberOfSchools": "2"
+   },
+   {
+      "name": "New England 9",
+      "location": {
+         "state": {
+            "name": "North Dakota",
+            "abbr": "ND",
+            "county": "Hettinger County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "309",
+      "fte": "20.45",
+      "pupilTeacherRatio": "15.11",
+      "numberOfSchools": "2"
+   },
+   {
+      "name": "New Rockford-Sheyenne 2",
+      "location": {
+         "state": {
+            "name": "North Dakota",
+            "abbr": "ND",
+            "county": "Eddy County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "341",
+      "fte": "31.14",
+      "pupilTeacherRatio": "10.95",
+      "numberOfSchools": "2"
+   },
+   {
+      "name": "New Salem-Almont 49",
+      "location": {
+         "state": {
+            "name": "North Dakota",
+            "abbr": "ND",
+            "county": "Morton County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Kindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "336",
+      "fte": "30.88",
+      "pupilTeacherRatio": "10.88",
+      "numberOfSchools": "2"
+   },
+   {
+      "name": "New Town 1",
+      "location": {
+         "state": {
+            "name": "North Dakota",
+            "abbr": "ND",
+            "county": "Mountrail County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "1017",
+      "fte": "87.35",
+      "pupilTeacherRatio": "11.64",
+      "numberOfSchools": "3"
+   },
+   {
+      "name": "Newburg-United 54",
+      "location": {
+         "state": {
+            "name": "North Dakota",
+            "abbr": "ND",
+            "county": "Bottineau County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "95",
+      "fte": "14.08",
+      "pupilTeacherRatio": "6.75",
+      "numberOfSchools": "2"
+   },
+   {
+      "name": "North Border 100",
+      "location": {
+         "state": {
+            "name": "North Dakota",
+            "abbr": "ND",
+            "county": "Pembina County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "345",
+      "fte": "43.5",
+      "pupilTeacherRatio": "7.93",
+      "numberOfSchools": "4"
+   },
+   {
+      "name": "North Sargent 3",
+      "location": {
+         "state": {
+            "name": "North Dakota",
+            "abbr": "ND",
+            "county": "Sargent County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "215",
+      "fte": "25.8",
+      "pupilTeacherRatio": "8.33",
+      "numberOfSchools": "2"
+   },
+   {
+      "name": "North Star 10",
+      "location": {
+         "state": {
+            "name": "North Dakota",
+            "abbr": "ND",
+            "county": "Towner County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "306",
+      "fte": "25.66",
+      "pupilTeacherRatio": "11.93",
+      "numberOfSchools": "2"
+   },
+   {
+      "name": "North Valley Area Career & Technical Center",
+      "location": {
+         "state": {
+            "name": "North Dakota",
+            "abbr": "ND",
+            "county": "Walsh County"
+         }
+      },
+      "type": "4-Regional Education Service Agency (RESA)",
+      "grades": {
+         "lowest": "†",
+         "highest": "†"
+      },
+      "students": "0",
+      "fte": "0",
+      "pupilTeacherRatio": "†",
+      "numberOfSchools": "0"
+   },
+   {
+      "name": "Northern Cass 97",
+      "location": {
+         "state": {
+            "name": "North Dakota",
+            "abbr": "ND",
+            "county": "Cass County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "652",
+      "fte": "48.03",
+      "pupilTeacherRatio": "13.57",
+      "numberOfSchools": "3"
+   },
+   {
+      "name": "Northern Plains Special Ed Unit",
+      "location": {
+         "state": {
+            "name": "North Dakota",
+            "abbr": "ND",
+            "county": "Mountrail County"
+         }
+      },
+      "type": "4-Regional Education Service Agency (RESA)",
+      "grades": {
+         "lowest": "†",
+         "highest": "†"
+      },
+      "students": "0",
+      "fte": "0",
+      "pupilTeacherRatio": "†",
+      "numberOfSchools": "0"
+   },
+   {
+      "name": "Northwood 129",
+      "location": {
+         "state": {
+            "name": "North Dakota",
+            "abbr": "ND",
+            "county": "Grand Forks County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "318",
+      "fte": "25.43",
+      "pupilTeacherRatio": "12.5",
+      "numberOfSchools": "2"
+   },
+   {
+      "name": "Oakes 41",
+      "location": {
+         "state": {
+            "name": "North Dakota",
+            "abbr": "ND",
+            "county": "Dickey County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "507",
+      "fte": "34.17",
+      "pupilTeacherRatio": "14.84",
+      "numberOfSchools": "2"
+   },
+   {
+      "name": "Oberon 16",
+      "location": {
+         "state": {
+            "name": "North Dakota",
+            "abbr": "ND",
+            "county": "Benson County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Kindergarten",
+         "highest": "8th Grade"
+      },
+      "students": "62",
+      "fte": "5",
+      "pupilTeacherRatio": "12.4",
+      "numberOfSchools": "1"
+   },
+   {
+      "name": "Oliver-Mercer Special Ed Unit",
+      "location": {
+         "state": {
+            "name": "North Dakota",
+            "abbr": "ND",
+            "county": "Mercer County"
+         }
+      },
+      "type": "4-Regional Education Service Agency (RESA)",
+      "grades": {
+         "lowest": "†",
+         "highest": "†"
+      },
+      "students": "0",
+      "fte": "0",
+      "pupilTeacherRatio": "†",
+      "numberOfSchools": "0"
+   },
+   {
+      "name": "Page 80",
+      "location": {
+         "state": {
+            "name": "North Dakota",
+            "abbr": "ND",
+            "county": "Cass County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "6th Grade"
+      },
+      "students": "97",
+      "fte": "9.5",
+      "pupilTeacherRatio": "10.21",
+      "numberOfSchools": "1"
+   },
+   {
+      "name": "Park River Area 8",
+      "location": {
+         "state": {
+            "name": "North Dakota",
+            "abbr": "ND",
+            "county": "Walsh County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "449",
+      "fte": "36",
+      "pupilTeacherRatio": "12.47",
+      "numberOfSchools": "2"
+   },
+   {
+      "name": "Parshall 3",
+      "location": {
+         "state": {
+            "name": "North Dakota",
+            "abbr": "ND",
+            "county": "Mountrail County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "276",
+      "fte": "29",
+      "pupilTeacherRatio": "9.52",
+      "numberOfSchools": "2"
+   },
+   {
+      "name": "Peace Garden Student Support Services",
+      "location": {
+         "state": {
+            "name": "North Dakota",
+            "abbr": "ND",
+            "county": "Bottineau County"
+         }
+      },
+      "type": "4-Regional Education Service Agency (RESA)",
+      "grades": {
+         "lowest": "†",
+         "highest": "†"
+      },
+      "students": "0",
+      "fte": "0",
+      "pupilTeacherRatio": "†",
+      "numberOfSchools": "0"
+   },
+   {
+      "name": "Pembina Special Ed Cooperative",
+      "location": {
+         "state": {
+            "name": "North Dakota",
+            "abbr": "ND",
+            "county": "Pembina County"
+         }
+      },
+      "type": "4-Regional Education Service Agency (RESA)",
+      "grades": {
+         "lowest": "†",
+         "highest": "†"
+      },
+      "students": "0",
+      "fte": "0",
+      "pupilTeacherRatio": "†",
+      "numberOfSchools": "0"
+   },
+   {
+      "name": "Pingree-Buchanan 10",
+      "location": {
+         "state": {
+            "name": "North Dakota",
+            "abbr": "ND",
+            "county": "Stutsman County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "152",
+      "fte": "14.9",
+      "pupilTeacherRatio": "10.2",
+      "numberOfSchools": "2"
+   },
+   {
+      "name": "Powers Lake 27",
+      "location": {
+         "state": {
+            "name": "North Dakota",
+            "abbr": "ND",
+            "county": "Burke County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "212",
+      "fte": "21",
+      "pupilTeacherRatio": "10.1",
+      "numberOfSchools": "2"
+   },
+   {
+      "name": "Richardton-Taylor 34",
+      "location": {
+         "state": {
+            "name": "North Dakota",
+            "abbr": "ND",
+            "county": "Stark County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "348",
+      "fte": "29.75",
+      "pupilTeacherRatio": "11.7",
+      "numberOfSchools": "3"
+   },
+   {
+      "name": "Richland 44",
+      "location": {
+         "state": {
+            "name": "North Dakota",
+            "abbr": "ND",
+            "county": "Richland County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "273",
+      "fte": "28.73",
+      "pupilTeacherRatio": "9.5",
+      "numberOfSchools": "2"
+   },
+   {
+      "name": "Rolette 29",
+      "location": {
+         "state": {
+            "name": "North Dakota",
+            "abbr": "ND",
+            "county": "Rolette County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "151",
+      "fte": "21.45",
+      "pupilTeacherRatio": "7.04",
+      "numberOfSchools": "2"
+   },
+   {
+      "name": "Roosevelt 18",
+      "location": {
+         "state": {
+            "name": "North Dakota",
+            "abbr": "ND",
+            "county": "Grant County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "8th Grade"
+      },
+      "students": "65",
+      "fte": "7.5",
+      "pupilTeacherRatio": "8.67",
+      "numberOfSchools": "1"
+   },
+   {
+      "name": "Roughrider Area Career & Technical Center",
+      "location": {
+         "state": {
+            "name": "North Dakota",
+            "abbr": "ND",
+            "county": "Morton County"
+         }
+      },
+      "type": "4-Regional Education Service Agency (RESA)",
+      "grades": {
+         "lowest": "†",
+         "highest": "†"
+      },
+      "students": "0",
+      "fte": "0",
+      "pupilTeacherRatio": "†",
+      "numberOfSchools": "0"
+   },
+   {
+      "name": "Rugby 5",
+      "location": {
+         "state": {
+            "name": "North Dakota",
+            "abbr": "ND",
+            "county": "Pierce County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "621",
+      "fte": "48.8",
+      "pupilTeacherRatio": "12.73",
+      "numberOfSchools": "2"
+   },
+   {
+      "name": "Rural Cass Special Ed Unit",
+      "location": {
+         "state": {
+            "name": "North Dakota",
+            "abbr": "ND",
+            "county": "Cass County"
+         }
+      },
+      "type": "4-Regional Education Service Agency (RESA)",
+      "grades": {
+         "lowest": "†",
+         "highest": "†"
+      },
+      "students": "0",
+      "fte": "0",
+      "pupilTeacherRatio": "†",
+      "numberOfSchools": "0"
+   },
+   {
+      "name": "Sargent Central 6",
+      "location": {
+         "state": {
+            "name": "North Dakota",
+            "abbr": "ND",
+            "county": "Sargent County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "174",
+      "fte": "22",
+      "pupilTeacherRatio": "7.91",
+      "numberOfSchools": "2"
+   },
+   {
+      "name": "Sawyer 16",
+      "location": {
+         "state": {
+            "name": "North Dakota",
+            "abbr": "ND",
+            "county": "Ward County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "8th Grade"
+      },
+      "students": "47",
+      "fte": "8",
+      "pupilTeacherRatio": "5.88",
+      "numberOfSchools": "1"
+   },
+   {
+      "name": "Scranton 33",
+      "location": {
+         "state": {
+            "name": "North Dakota",
+            "abbr": "ND",
+            "county": "Bowman County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "133",
+      "fte": "17.3",
+      "pupilTeacherRatio": "7.69",
+      "numberOfSchools": "2"
+   },
+   {
+      "name": "Selfridge 8",
+      "location": {
+         "state": {
+            "name": "North Dakota",
+            "abbr": "ND",
+            "county": "Sioux County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Kindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "65",
+      "fte": "17.02",
+      "pupilTeacherRatio": "3.82",
+      "numberOfSchools": "2"
+   },
+   {
+      "name": "Sheyenne Valley Area Career & Technical Center",
+      "location": {
+         "state": {
+            "name": "North Dakota",
+            "abbr": "ND",
+            "county": "Barnes County"
+         }
+      },
+      "type": "4-Regional Education Service Agency (RESA)",
+      "grades": {
+         "lowest": "†",
+         "highest": "†"
+      },
+      "students": "0",
+      "fte": "0",
+      "pupilTeacherRatio": "†",
+      "numberOfSchools": "0"
+   },
+   {
+      "name": "Sheyenne Valley Special Ed Unit",
+      "location": {
+         "state": {
+            "name": "North Dakota",
+            "abbr": "ND",
+            "county": "Barnes County"
+         }
+      },
+      "type": "4-Regional Education Service Agency (RESA)",
+      "grades": {
+         "lowest": "†",
+         "highest": "†"
+      },
+      "students": "0",
+      "fte": "0",
+      "pupilTeacherRatio": "†",
+      "numberOfSchools": "0"
+   },
+   {
+      "name": "Solen 3",
+      "location": {
+         "state": {
+            "name": "North Dakota",
+            "abbr": "ND",
+            "county": "Sioux County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "213",
+      "fte": "20.5",
+      "pupilTeacherRatio": "10.39",
+      "numberOfSchools": "2"
+   },
+   {
+      "name": "Souris Valley Special Ed Unit",
+      "location": {
+         "state": {
+            "name": "North Dakota",
+            "abbr": "ND",
+            "county": "Ward County"
+         }
+      },
+      "type": "4-Regional Education Service Agency (RESA)",
+      "grades": {
+         "lowest": "†",
+         "highest": "†"
+      },
+      "students": "0",
+      "fte": "0",
+      "pupilTeacherRatio": "†",
+      "numberOfSchools": "0"
+   },
+   {
+      "name": "South Central Prairie Special Ed Unit",
+      "location": {
+         "state": {
+            "name": "North Dakota",
+            "abbr": "ND",
+            "county": "Logan County"
+         }
+      },
+      "type": "4-Regional Education Service Agency (RESA)",
+      "grades": {
+         "lowest": "†",
+         "highest": "†"
+      },
+      "students": "0",
+      "fte": "0",
+      "pupilTeacherRatio": "†",
+      "numberOfSchools": "0"
+   },
+   {
+      "name": "South Heart 9",
+      "location": {
+         "state": {
+            "name": "North Dakota",
+            "abbr": "ND",
+            "county": "Stark County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "393",
+      "fte": "34.95",
+      "pupilTeacherRatio": "11.24",
+      "numberOfSchools": "2"
+   },
+   {
+      "name": "South Prairie 70",
+      "location": {
+         "state": {
+            "name": "North Dakota",
+            "abbr": "ND",
+            "county": "Ward County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "485",
+      "fte": "38",
+      "pupilTeacherRatio": "12.76",
+      "numberOfSchools": "2"
+   },
+   {
+      "name": "South Valley Special Ed Unit",
+      "location": {
+         "state": {
+            "name": "North Dakota",
+            "abbr": "ND",
+            "county": "Richland County"
+         }
+      },
+      "type": "4-Regional Education Service Agency (RESA)",
+      "grades": {
+         "lowest": "†",
+         "highest": "†"
+      },
+      "students": "0",
+      "fte": "0",
+      "pupilTeacherRatio": "†",
+      "numberOfSchools": "0"
+   },
+   {
+      "name": "Southeast Region Career & Technical Center",
+      "location": {
+         "state": {
+            "name": "North Dakota",
+            "abbr": "ND",
+            "county": "Richland County"
+         }
+      },
+      "type": "4-Regional Education Service Agency (RESA)",
+      "grades": {
+         "lowest": "†",
+         "highest": "†"
+      },
+      "students": "0",
+      "fte": "0",
+      "pupilTeacherRatio": "†",
+      "numberOfSchools": "0"
+   },
+   {
+      "name": "Southwest Special Ed Unit",
+      "location": {
+         "state": {
+            "name": "North Dakota",
+            "abbr": "ND",
+            "county": "Hettinger County"
+         }
+      },
+      "type": "4-Regional Education Service Agency (RESA)",
+      "grades": {
+         "lowest": "†",
+         "highest": "†"
+      },
+      "students": "0",
+      "fte": "0",
+      "pupilTeacherRatio": "†",
+      "numberOfSchools": "0"
+   },
+   {
+      "name": "St John 3",
+      "location": {
+         "state": {
+            "name": "North Dakota",
+            "abbr": "ND",
+            "county": "Rolette County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "387",
+      "fte": "40.73",
+      "pupilTeacherRatio": "9.5",
+      "numberOfSchools": "2"
+   },
+   {
+      "name": "St Thomas 43",
+      "location": {
+         "state": {
+            "name": "North Dakota",
+            "abbr": "ND",
+            "county": "Pembina County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "50",
+      "fte": "11.48",
+      "pupilTeacherRatio": "4.36",
+      "numberOfSchools": "2"
+   },
+   {
+      "name": "Stanley 2",
+      "location": {
+         "state": {
+            "name": "North Dakota",
+            "abbr": "ND",
+            "county": "Mountrail County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "723",
+      "fte": "51.41",
+      "pupilTeacherRatio": "14.06",
+      "numberOfSchools": "2"
+   },
+   {
+      "name": "Starkweather 44",
+      "location": {
+         "state": {
+            "name": "North Dakota",
+            "abbr": "ND",
+            "county": "Ramsey County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "60",
+      "fte": "9.24",
+      "pupilTeacherRatio": "6.49",
+      "numberOfSchools": "2"
+   },
+   {
+      "name": "Sterling 35",
+      "location": {
+         "state": {
+            "name": "North Dakota",
+            "abbr": "ND",
+            "county": "Burleigh County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "8th Grade"
+      },
+      "students": "9",
+      "fte": "3",
+      "pupilTeacherRatio": "3",
+      "numberOfSchools": "1"
+   },
+   {
+      "name": "Strasburg 15",
+      "location": {
+         "state": {
+            "name": "North Dakota",
+            "abbr": "ND",
+            "county": "Emmons County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "136",
+      "fte": "16.38",
+      "pupilTeacherRatio": "8.3",
+      "numberOfSchools": "2"
+   },
+   {
+      "name": "Surrey 41",
+      "location": {
+         "state": {
+            "name": "North Dakota",
+            "abbr": "ND",
+            "county": "Ward County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "413",
+      "fte": "39.5",
+      "pupilTeacherRatio": "10.46",
+      "numberOfSchools": "2"
+   },
+   {
+      "name": "Sweet Briar 17",
+      "location": {
+         "state": {
+            "name": "North Dakota",
+            "abbr": "ND",
+            "county": "Morton County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Kindergarten",
+         "highest": "8th Grade"
+      },
+      "students": "21",
+      "fte": "2",
+      "pupilTeacherRatio": "10.5",
+      "numberOfSchools": "1"
+   },
+   {
+      "name": "Tgu 60",
+      "location": {
+         "state": {
+            "name": "North Dakota",
+            "abbr": "ND",
+            "county": "McHenry County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "341",
+      "fte": "38.21",
+      "pupilTeacherRatio": "8.92",
+      "numberOfSchools": "4"
+   },
+   {
+      "name": "Thompson 61",
+      "location": {
+         "state": {
+            "name": "North Dakota",
+            "abbr": "ND",
+            "county": "Grand Forks County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Kindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "571",
+      "fte": "39.75",
+      "pupilTeacherRatio": "14.36",
+      "numberOfSchools": "2"
+   },
+   {
+      "name": "Tioga 15",
+      "location": {
+         "state": {
+            "name": "North Dakota",
+            "abbr": "ND",
+            "county": "Williams County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "491",
+      "fte": "32.75",
+      "pupilTeacherRatio": "14.99",
+      "numberOfSchools": "2"
+   },
+   {
+      "name": "Turtle Lake-Mercer 72",
+      "location": {
+         "state": {
+            "name": "North Dakota",
+            "abbr": "ND",
+            "county": "McLean County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "184",
+      "fte": "22.57",
+      "pupilTeacherRatio": "8.15",
+      "numberOfSchools": "2"
+   },
+   {
+      "name": "Turtle Mountain Special Ed Unit",
+      "location": {
+         "state": {
+            "name": "North Dakota",
+            "abbr": "ND",
+            "county": "Rolette County"
+         }
+      },
+      "type": "4-Regional Education Service Agency (RESA)",
+      "grades": {
+         "lowest": "†",
+         "highest": "†"
+      },
+      "students": "0",
+      "fte": "0",
+      "pupilTeacherRatio": "†",
+      "numberOfSchools": "0"
+   },
+   {
+      "name": "Twin Buttes 37",
+      "location": {
+         "state": {
+            "name": "North Dakota",
+            "abbr": "ND",
+            "county": "Dunn County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Kindergarten",
+         "highest": "8th Grade"
+      },
+      "students": "30",
+      "fte": "6",
+      "pupilTeacherRatio": "5",
+      "numberOfSchools": "1"
+   },
+   {
+      "name": "Underwood 8",
+      "location": {
+         "state": {
+            "name": "North Dakota",
+            "abbr": "ND",
+            "county": "McLean County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "224",
+      "fte": "21.14",
+      "pupilTeacherRatio": "10.6",
+      "numberOfSchools": "2"
+   },
+   {
+      "name": "United 7",
+      "location": {
+         "state": {
+            "name": "North Dakota",
+            "abbr": "ND",
+            "county": "Ward County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "691",
+      "fte": "51.01",
+      "pupilTeacherRatio": "13.55",
+      "numberOfSchools": "2"
+   },
+   {
+      "name": "Upper Valley Special Ed Unit",
+      "location": {
+         "state": {
+            "name": "North Dakota",
+            "abbr": "ND",
+            "county": "Walsh County"
+         }
+      },
+      "type": "4-Regional Education Service Agency (RESA)",
+      "grades": {
+         "lowest": "†",
+         "highest": "†"
+      },
+      "students": "0",
+      "fte": "0",
+      "pupilTeacherRatio": "†",
+      "numberOfSchools": "0"
+   },
+   {
+      "name": "Valley City 2",
+      "location": {
+         "state": {
+            "name": "North Dakota",
+            "abbr": "ND",
+            "county": "Barnes County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "1100",
+      "fte": "68.4",
+      "pupilTeacherRatio": "16.08",
+      "numberOfSchools": "4"
+   },
+   {
+      "name": "Valley-Edinburg 118",
+      "location": {
+         "state": {
+            "name": "North Dakota",
+            "abbr": "ND",
+            "county": "Pembina County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "195",
+      "fte": "22.39",
+      "pupilTeacherRatio": "8.71",
+      "numberOfSchools": "3"
+   },
+   {
+      "name": "Velva 1",
+      "location": {
+         "state": {
+            "name": "North Dakota",
+            "abbr": "ND",
+            "county": "McHenry County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "474",
+      "fte": "37.06",
+      "pupilTeacherRatio": "12.79",
+      "numberOfSchools": "2"
+   },
+   {
+      "name": "Wahpeton 37",
+      "location": {
+         "state": {
+            "name": "North Dakota",
+            "abbr": "ND",
+            "county": "Richland County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "1248",
+      "fte": "80.4",
+      "pupilTeacherRatio": "15.52",
+      "numberOfSchools": "4"
+   },
+   {
+      "name": "Wahpeton Special Ed Unit",
+      "location": {
+         "state": {
+            "name": "North Dakota",
+            "abbr": "ND",
+            "county": "Richland County"
+         }
+      },
+      "type": "4-Regional Education Service Agency (RESA)",
+      "grades": {
+         "lowest": "†",
+         "highest": "†"
+      },
+      "students": "0",
+      "fte": "0",
+      "pupilTeacherRatio": "†",
+      "numberOfSchools": "0"
+   },
+   {
+      "name": "Warwick 29",
+      "location": {
+         "state": {
+            "name": "North Dakota",
+            "abbr": "ND",
+            "county": "Benson County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "250",
+      "fte": "18.98",
+      "pupilTeacherRatio": "13.17",
+      "numberOfSchools": "3"
+   },
+   {
+      "name": "Washburn 4",
+      "location": {
+         "state": {
+            "name": "North Dakota",
+            "abbr": "ND",
+            "county": "McLean County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "326",
+      "fte": "29.55",
+      "pupilTeacherRatio": "11.03",
+      "numberOfSchools": "2"
+   },
+   {
+      "name": "West Fargo 6",
+      "location": {
+         "state": {
+            "name": "North Dakota",
+            "abbr": "ND",
+            "county": "Cass County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "11432",
+      "fte": "882.94",
+      "pupilTeacherRatio": "12.95",
+      "numberOfSchools": "20"
+   },
+   {
+      "name": "West Fargo Special Ed Unit",
+      "location": {
+         "state": {
+            "name": "North Dakota",
+            "abbr": "ND",
+            "county": "Cass County"
+         }
+      },
+      "type": "4-Regional Education Service Agency (RESA)",
+      "grades": {
+         "lowest": "†",
+         "highest": "†"
+      },
+      "students": "0",
+      "fte": "0",
+      "pupilTeacherRatio": "†",
+      "numberOfSchools": "0"
+   },
+   {
+      "name": "West River Student Services Unit",
+      "location": {
+         "state": {
+            "name": "North Dakota",
+            "abbr": "ND",
+            "county": "Stark County"
+         }
+      },
+      "type": "4-Regional Education Service Agency (RESA)",
+      "grades": {
+         "lowest": "†",
+         "highest": "†"
+      },
+      "students": "0",
+      "fte": "0",
+      "pupilTeacherRatio": "†",
+      "numberOfSchools": "0"
+   },
+   {
+      "name": "Westhope 17",
+      "location": {
+         "state": {
+            "name": "North Dakota",
+            "abbr": "ND",
+            "county": "Bottineau County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "145",
+      "fte": "18.96",
+      "pupilTeacherRatio": "7.65",
+      "numberOfSchools": "2"
+   },
+   {
+      "name": "White Shield 85",
+      "location": {
+         "state": {
+            "name": "North Dakota",
+            "abbr": "ND",
+            "county": "McLean County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "145",
+      "fte": "23.46",
+      "pupilTeacherRatio": "6.18",
+      "numberOfSchools": "2"
+   },
+   {
+      "name": "Williams County 8",
+      "location": {
+         "state": {
+            "name": "North Dakota",
+            "abbr": "ND",
+            "county": "Williams County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "8th Grade"
+      },
+      "students": "814",
+      "fte": "31.16",
+      "pupilTeacherRatio": "26.12",
+      "numberOfSchools": "3"
+   },
+   {
+      "name": "Williston 1",
+      "location": {
+         "state": {
+            "name": "North Dakota",
+            "abbr": "ND",
+            "county": "Williams County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Kindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "4409",
+      "fte": "309.75",
+      "pupilTeacherRatio": "14.23",
+      "numberOfSchools": "9"
+   },
+   {
+      "name": "Wilmac Special Ed Unit",
+      "location": {
+         "state": {
+            "name": "North Dakota",
+            "abbr": "ND",
+            "county": "Williams County"
+         }
+      },
+      "type": "4-Regional Education Service Agency (RESA)",
+      "grades": {
+         "lowest": "†",
+         "highest": "†"
+      },
+      "students": "0",
+      "fte": "0",
+      "pupilTeacherRatio": "†",
+      "numberOfSchools": "0"
+   },
+   {
+      "name": "Wilton 1",
+      "location": {
+         "state": {
+            "name": "North Dakota",
+            "abbr": "ND",
+            "county": "McLean County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "246",
+      "fte": "22",
+      "pupilTeacherRatio": "11.18",
+      "numberOfSchools": "2"
+   },
+   {
+      "name": "Wing 28",
+      "location": {
+         "state": {
+            "name": "North Dakota",
+            "abbr": "ND",
+            "county": "Burleigh County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "76",
+      "fte": "14.85",
+      "pupilTeacherRatio": "5.12",
+      "numberOfSchools": "2"
+   },
+   {
+      "name": "Wishek 19",
+      "location": {
+         "state": {
+            "name": "North Dakota",
+            "abbr": "ND",
+            "county": "McIntosh County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "221",
+      "fte": "14.83",
+      "pupilTeacherRatio": "14.9",
+      "numberOfSchools": "2"
+   },
+   {
+      "name": "Wolford 1",
+      "location": {
+         "state": {
+            "name": "North Dakota",
+            "abbr": "ND",
+            "county": "Pierce County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Kindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "0",
+      "fte": "0",
+      "pupilTeacherRatio": "†",
+      "numberOfSchools": "0"
+   },
+   {
+      "name": "Wyndmere 42",
+      "location": {
+         "state": {
+            "name": "North Dakota",
+            "abbr": "ND",
+            "county": "Richland County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "259",
+      "fte": "21.94",
+      "pupilTeacherRatio": "11.8",
+      "numberOfSchools": "2"
+   },
+   {
+      "name": "Yellowstone 14",
+      "location": {
+         "state": {
+            "name": "North Dakota",
+            "abbr": "ND",
+            "county": "McKenzie County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "8th Grade"
+      },
+      "students": "80",
+      "fte": "10",
+      "pupilTeacherRatio": "8",
+      "numberOfSchools": "1"
+   },
+   {
+      "name": "Zeeland 4",
+      "location": {
+         "state": {
+            "name": "North Dakota",
+            "abbr": "ND",
+            "county": "McIntosh County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "33",
+      "fte": "8.65",
+      "pupilTeacherRatio": "3.82",
+      "numberOfSchools": "2"
+   }
+]

@@ -1,0 +1,3365 @@
+[
+   {
+      "name": "Aberdeen District",
+      "location": {
+         "state": {
+            "name": "Idaho",
+            "abbr": "ID",
+            "county": "Bingham County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "705",
+      "fte": "47.13",
+      "pupilTeacherRatio": "14.96",
+      "numberOfSchools": "3"
+   },
+   {
+      "name": "American Falls Joint District",
+      "location": {
+         "state": {
+            "name": "Idaho",
+            "abbr": "ID",
+            "county": "Power County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "1552",
+      "fte": "91.53",
+      "pupilTeacherRatio": "16.96",
+      "numberOfSchools": "5"
+   },
+   {
+      "name": "American Heritage Charter School Inc.",
+      "location": {
+         "state": {
+            "name": "Idaho",
+            "abbr": "ID",
+            "county": "Bonneville County"
+         }
+      },
+      "type": "7-Independent Charter District",
+      "grades": {
+         "lowest": "Kindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "396",
+      "fte": "20.99",
+      "pupilTeacherRatio": "18.87",
+      "numberOfSchools": "1"
+   },
+   {
+      "name": "Another Choice Virtual Charter School Inc.",
+      "location": {
+         "state": {
+            "name": "Idaho",
+            "abbr": "ID",
+            "county": "Canyon County"
+         }
+      },
+      "type": "7-Independent Charter District",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "466",
+      "fte": "29.1",
+      "pupilTeacherRatio": "16.01",
+      "numberOfSchools": "1"
+   },
+   {
+      "name": "Anser of Idaho Inc.",
+      "location": {
+         "state": {
+            "name": "IDAHO",
+            "abbr": "ID",
+            "county": "Ada County"
+         }
+      },
+      "type": "7-Independent Charter District",
+      "grades": {
+         "lowest": "–",
+         "highest": "–"
+      },
+      "students": "†",
+      "fte": "†",
+      "pupilTeacherRatio": "†",
+      "numberOfSchools": "0"
+   },
+   {
+      "name": "Arbon Elementary District",
+      "location": {
+         "state": {
+            "name": "Idaho",
+            "abbr": "ID",
+            "county": "Power County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Kindergarten",
+         "highest": "6th Grade"
+      },
+      "students": "15",
+      "fte": "1.75",
+      "pupilTeacherRatio": "8.57",
+      "numberOfSchools": "1"
+   },
+   {
+      "name": "Avery School District",
+      "location": {
+         "state": {
+            "name": "Idaho",
+            "abbr": "ID",
+            "county": "Shoshone County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Kindergarten",
+         "highest": "8th Grade"
+      },
+      "students": "24",
+      "fte": "1.9",
+      "pupilTeacherRatio": "12.63",
+      "numberOfSchools": "1"
+   },
+   {
+      "name": "Basin School District",
+      "location": {
+         "state": {
+            "name": "Idaho",
+            "abbr": "ID",
+            "county": "Boise County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "326",
+      "fte": "27.14",
+      "pupilTeacherRatio": "12.01",
+      "numberOfSchools": "2"
+   },
+   {
+      "name": "Bear Lake County District",
+      "location": {
+         "state": {
+            "name": "Idaho",
+            "abbr": "ID",
+            "county": "Bear Lake County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "1172",
+      "fte": "69.9",
+      "pupilTeacherRatio": "16.77",
+      "numberOfSchools": "6"
+   },
+   {
+      "name": "Blackfoot Charter Community Learning Center Inc.",
+      "location": {
+         "state": {
+            "name": "Idaho",
+            "abbr": "ID",
+            "county": "Bingham County"
+         }
+      },
+      "type": "7-Independent Charter District",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "8th Grade"
+      },
+      "students": "545",
+      "fte": "34.48",
+      "pupilTeacherRatio": "15.81",
+      "numberOfSchools": "1"
+   },
+   {
+      "name": "Blackfoot District",
+      "location": {
+         "state": {
+            "name": "Idaho",
+            "abbr": "ID",
+            "county": "Bingham County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "3813",
+      "fte": "218.04",
+      "pupilTeacherRatio": "17.49",
+      "numberOfSchools": "11"
+   },
+   {
+      "name": "Blaine County District",
+      "location": {
+         "state": {
+            "name": "Idaho",
+            "abbr": "ID",
+            "county": "Blaine County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "3389",
+      "fte": "268.12",
+      "pupilTeacherRatio": "12.64",
+      "numberOfSchools": "8"
+   },
+   {
+      "name": "Bliss Joint District",
+      "location": {
+         "state": {
+            "name": "Idaho",
+            "abbr": "ID",
+            "county": "Gooding County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "127",
+      "fte": "15.11",
+      "pupilTeacherRatio": "8.41",
+      "numberOfSchools": "1"
+   },
+   {
+      "name": "Boise Independent District",
+      "location": {
+         "state": {
+            "name": "Idaho",
+            "abbr": "ID",
+            "county": "Ada County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "25673",
+      "fte": "1575.45",
+      "pupilTeacherRatio": "16.3",
+      "numberOfSchools": "50"
+   },
+   {
+      "name": "Bonneville Joint District",
+      "location": {
+         "state": {
+            "name": "Idaho",
+            "abbr": "ID",
+            "county": "Bonneville County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "13382",
+      "fte": "629.82",
+      "pupilTeacherRatio": "21.25",
+      "numberOfSchools": "24"
+   },
+   {
+      "name": "Boundary County District",
+      "location": {
+         "state": {
+            "name": "Idaho",
+            "abbr": "ID",
+            "county": "Boundary County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "1446",
+      "fte": "87.71",
+      "pupilTeacherRatio": "16.49",
+      "numberOfSchools": "5"
+   },
+   {
+      "name": "Bruneau-Grand View Joint School District",
+      "location": {
+         "state": {
+            "name": "Idaho",
+            "abbr": "ID",
+            "county": "Owyhee County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "310",
+      "fte": "24.75",
+      "pupilTeacherRatio": "12.53",
+      "numberOfSchools": "3"
+   },
+   {
+      "name": "Buhl Joint District",
+      "location": {
+         "state": {
+            "name": "Idaho",
+            "abbr": "ID",
+            "county": "Twin Falls County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "1301",
+      "fte": "77.33",
+      "pupilTeacherRatio": "16.82",
+      "numberOfSchools": "4"
+   },
+   {
+      "name": "Butte County Joint District",
+      "location": {
+         "state": {
+            "name": "Idaho",
+            "abbr": "ID",
+            "county": "Butte County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "404",
+      "fte": "28.39",
+      "pupilTeacherRatio": "14.23",
+      "numberOfSchools": "3"
+   },
+   {
+      "name": "Caldwell District",
+      "location": {
+         "state": {
+            "name": "Idaho",
+            "abbr": "ID",
+            "county": "Canyon County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "6118",
+      "fte": "338.58",
+      "pupilTeacherRatio": "18.07",
+      "numberOfSchools": "11"
+   },
+   {
+      "name": "Camas County District",
+      "location": {
+         "state": {
+            "name": "Idaho",
+            "abbr": "ID",
+            "county": "Camas County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "177",
+      "fte": "17.46",
+      "pupilTeacherRatio": "10.14",
+      "numberOfSchools": "2"
+   },
+   {
+      "name": "Cambridge Joint District",
+      "location": {
+         "state": {
+            "name": "Idaho",
+            "abbr": "ID",
+            "county": "Washington County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "129",
+      "fte": "17.52",
+      "pupilTeacherRatio": "7.36",
+      "numberOfSchools": "2"
+   },
+   {
+      "name": "Canyon-Owyhee School Service Agency (Cossa)",
+      "location": {
+         "state": {
+            "name": "Idaho",
+            "abbr": "ID",
+            "county": "Canyon County"
+         }
+      },
+      "type": "9-Specialized public school district",
+      "grades": {
+         "lowest": "7th Grade",
+         "highest": "12th Grade"
+      },
+      "students": "134",
+      "fte": "11.46",
+      "pupilTeacherRatio": "11.69",
+      "numberOfSchools": "1"
+   },
+   {
+      "name": "Cascade District",
+      "location": {
+         "state": {
+            "name": "Idaho",
+            "abbr": "ID",
+            "county": "Valley County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "198",
+      "fte": "19.25",
+      "pupilTeacherRatio": "10.29",
+      "numberOfSchools": "2"
+   },
+   {
+      "name": "Cassia County Joint District",
+      "location": {
+         "state": {
+            "name": "Idaho",
+            "abbr": "ID",
+            "county": "Cassia County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "5564",
+      "fte": "307.95",
+      "pupilTeacherRatio": "18.07",
+      "numberOfSchools": "17"
+   },
+   {
+      "name": "Castleford District",
+      "location": {
+         "state": {
+            "name": "Idaho",
+            "abbr": "ID",
+            "county": "Twin Falls County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "334",
+      "fte": "22.67",
+      "pupilTeacherRatio": "14.73",
+      "numberOfSchools": "1"
+   },
+   {
+      "name": "Challis Joint District",
+      "location": {
+         "state": {
+            "name": "Idaho",
+            "abbr": "ID",
+            "county": "Custer County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "322",
+      "fte": "26.53",
+      "pupilTeacherRatio": "12.14",
+      "numberOfSchools": "3"
+   },
+   {
+      "name": "Chief Tahgee Elementary Academy Inc.",
+      "location": {
+         "state": {
+            "name": "Idaho",
+            "abbr": "ID",
+            "county": "Bannock County"
+         }
+      },
+      "type": "7-Independent Charter District",
+      "grades": {
+         "lowest": "Kindergarten",
+         "highest": "7th Grade"
+      },
+      "students": "90",
+      "fte": "5.81",
+      "pupilTeacherRatio": "15.49",
+      "numberOfSchools": "1"
+   },
+   {
+      "name": "Clark County District",
+      "location": {
+         "state": {
+            "name": "Idaho",
+            "abbr": "ID",
+            "county": "Clark County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "121",
+      "fte": "16.07",
+      "pupilTeacherRatio": "7.53",
+      "numberOfSchools": "2"
+   },
+   {
+      "name": "Coeur D'alene Charter Academy Inc.",
+      "location": {
+         "state": {
+            "name": "IDAHO",
+            "abbr": "ID",
+            "county": "Kootenai County"
+         }
+      },
+      "type": "7-Independent Charter District",
+      "grades": {
+         "lowest": "6th Grade",
+         "highest": "12th Grade"
+      },
+      "students": "672",
+      "fte": "35",
+      "pupilTeacherRatio": "19.2",
+      "numberOfSchools": "1"
+   },
+   {
+      "name": "Coeur D'alene District",
+      "location": {
+         "state": {
+            "name": "Idaho",
+            "abbr": "ID",
+            "county": "Kootenai County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "11017",
+      "fte": "574.48",
+      "pupilTeacherRatio": "19.18",
+      "numberOfSchools": "19"
+   },
+   {
+      "name": "Compass Public Charter School Inc.",
+      "location": {
+         "state": {
+            "name": "Idaho",
+            "abbr": "ID",
+            "county": "Ada County"
+         }
+      },
+      "type": "7-Independent Charter District",
+      "grades": {
+         "lowest": "Kindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "1162",
+      "fte": "54.81",
+      "pupilTeacherRatio": "21.2",
+      "numberOfSchools": "1"
+   },
+   {
+      "name": "Cottonwood Joint District",
+      "location": {
+         "state": {
+            "name": "Idaho",
+            "abbr": "ID",
+            "county": "Idaho County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "390",
+      "fte": "28.9",
+      "pupilTeacherRatio": "13.49",
+      "numberOfSchools": "2"
+   },
+   {
+      "name": "Council District",
+      "location": {
+         "state": {
+            "name": "Idaho",
+            "abbr": "ID",
+            "county": "Adams County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "268",
+      "fte": "19.67",
+      "pupilTeacherRatio": "13.62",
+      "numberOfSchools": "2"
+   },
+   {
+      "name": "Culdesac Joint District",
+      "location": {
+         "state": {
+            "name": "Idaho",
+            "abbr": "ID",
+            "county": "Nez Perce County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "107",
+      "fte": "13.13",
+      "pupilTeacherRatio": "8.15",
+      "numberOfSchools": "1"
+   },
+   {
+      "name": "Dietrich District",
+      "location": {
+         "state": {
+            "name": "Idaho",
+            "abbr": "ID",
+            "county": "Lincoln County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "209",
+      "fte": "15.6",
+      "pupilTeacherRatio": "13.4",
+      "numberOfSchools": "1"
+   },
+   {
+      "name": "Elevate Academy Inc.",
+      "location": {
+         "state": {
+            "name": "IDAHO",
+            "abbr": "ID",
+            "county": "Canyon County"
+         }
+      },
+      "type": "7-Independent Charter District",
+      "grades": {
+         "lowest": "6th Grade",
+         "highest": "10th Grade"
+      },
+      "students": "314",
+      "fte": "21",
+      "pupilTeacherRatio": "14.95",
+      "numberOfSchools": "1"
+   },
+   {
+      "name": "Emmett Independent District",
+      "location": {
+         "state": {
+            "name": "Idaho",
+            "abbr": "ID",
+            "county": "Gem County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "2668",
+      "fte": "154.18",
+      "pupilTeacherRatio": "17.3",
+      "numberOfSchools": "9"
+   },
+   {
+      "name": "Falcon Ridge Public Charter School Inc.",
+      "location": {
+         "state": {
+            "name": "Idaho",
+            "abbr": "ID",
+            "county": "Ada County"
+         }
+      },
+      "type": "7-Independent Charter District",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "8th Grade"
+      },
+      "students": "270",
+      "fte": "15.32",
+      "pupilTeacherRatio": "17.62",
+      "numberOfSchools": "1"
+   },
+   {
+      "name": "Fern-Waters Public Charter School Inc.",
+      "location": {
+         "state": {
+            "name": "IDAHO",
+            "abbr": "ID",
+            "county": "Lemhi County"
+         }
+      },
+      "type": "7-Independent Charter District",
+      "grades": {
+         "lowest": "4th Grade",
+         "highest": "8th Grade"
+      },
+      "students": "57",
+      "fte": "3.9",
+      "pupilTeacherRatio": "14.62",
+      "numberOfSchools": "1"
+   },
+   {
+      "name": "Filer District",
+      "location": {
+         "state": {
+            "name": "Idaho",
+            "abbr": "ID",
+            "county": "Twin Falls County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "1645",
+      "fte": "91.73",
+      "pupilTeacherRatio": "17.93",
+      "numberOfSchools": "5"
+   },
+   {
+      "name": "Firth District",
+      "location": {
+         "state": {
+            "name": "Idaho",
+            "abbr": "ID",
+            "county": "Bingham County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "837",
+      "fte": "45.76",
+      "pupilTeacherRatio": "18.29",
+      "numberOfSchools": "3"
+   },
+   {
+      "name": "Forge International Llc",
+      "location": {
+         "state": {
+            "name": "IDAHO",
+            "abbr": "ID",
+            "county": "Canyon County"
+         }
+      },
+      "type": "7-Independent Charter District",
+      "grades": {
+         "lowest": "Kindergarten",
+         "highest": "5th Grade"
+      },
+      "students": "258",
+      "fte": "16",
+      "pupilTeacherRatio": "16.13",
+      "numberOfSchools": "1"
+   },
+   {
+      "name": "Forrester Academy Inc.",
+      "location": {
+         "state": {
+            "name": "IDAHO",
+            "abbr": "ID",
+            "county": "Bonneville County"
+         }
+      },
+      "type": "7-Independent Charter District",
+      "grades": {
+         "lowest": "Kindergarten",
+         "highest": "8th Grade"
+      },
+      "students": "555",
+      "fte": "27.5",
+      "pupilTeacherRatio": "20.18",
+      "numberOfSchools": "1"
+   },
+   {
+      "name": "Fremont County Joint District",
+      "location": {
+         "state": {
+            "name": "Idaho",
+            "abbr": "ID",
+            "county": "Fremont County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "2196",
+      "fte": "126.88",
+      "pupilTeacherRatio": "17.31",
+      "numberOfSchools": "8"
+   },
+   {
+      "name": "Fruitland District",
+      "location": {
+         "state": {
+            "name": "Idaho",
+            "abbr": "ID",
+            "county": "Payette County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "1661",
+      "fte": "92.6",
+      "pupilTeacherRatio": "17.94",
+      "numberOfSchools": "4"
+   },
+   {
+      "name": "Future Public School Inc.",
+      "location": {
+         "state": {
+            "name": "IDAHO",
+            "abbr": "ID",
+            "county": "Ada County"
+         }
+      },
+      "type": "7-Independent Charter District",
+      "grades": {
+         "lowest": "Kindergarten",
+         "highest": "4th Grade"
+      },
+      "students": "288",
+      "fte": "14",
+      "pupilTeacherRatio": "20.57",
+      "numberOfSchools": "1"
+   },
+   {
+      "name": "Garden Valley District",
+      "location": {
+         "state": {
+            "name": "Idaho",
+            "abbr": "ID",
+            "county": "Boise County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "278",
+      "fte": "20.86",
+      "pupilTeacherRatio": "13.33",
+      "numberOfSchools": "2"
+   },
+   {
+      "name": "Gem Prep: Meridian Llc",
+      "location": {
+         "state": {
+            "name": "IDAHO",
+            "abbr": "ID",
+            "county": "Ada County"
+         }
+      },
+      "type": "7-Independent Charter District",
+      "grades": {
+         "lowest": "Kindergarten",
+         "highest": "8th Grade"
+      },
+      "students": "381",
+      "fte": "16.5",
+      "pupilTeacherRatio": "23.09",
+      "numberOfSchools": "1"
+   },
+   {
+      "name": "Gem Prep: Online Llc",
+      "location": {
+         "state": {
+            "name": "IDAHO",
+            "abbr": "ID",
+            "county": "Latah County"
+         }
+      },
+      "type": "7-Independent Charter District",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "321",
+      "fte": "11.99",
+      "pupilTeacherRatio": "26.77",
+      "numberOfSchools": "1"
+   },
+   {
+      "name": "Gem Prep: Pocatello Llc",
+      "location": {
+         "state": {
+            "name": "IDAHO",
+            "abbr": "ID",
+            "county": "Bannock County"
+         }
+      },
+      "type": "7-Independent Charter District",
+      "grades": {
+         "lowest": "Kindergarten",
+         "highest": "8th Grade"
+      },
+      "students": "318",
+      "fte": "15",
+      "pupilTeacherRatio": "21.2",
+      "numberOfSchools": "1"
+   },
+   {
+      "name": "Genesee Joint District",
+      "location": {
+         "state": {
+            "name": "Idaho",
+            "abbr": "ID",
+            "county": "Latah County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "318",
+      "fte": "24.46",
+      "pupilTeacherRatio": "13",
+      "numberOfSchools": "1"
+   },
+   {
+      "name": "Glenns Ferry Joint District",
+      "location": {
+         "state": {
+            "name": "Idaho",
+            "abbr": "ID",
+            "county": "Elmore County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "421",
+      "fte": "33.42",
+      "pupilTeacherRatio": "12.6",
+      "numberOfSchools": "3"
+   },
+   {
+      "name": "Gooding Joint District",
+      "location": {
+         "state": {
+            "name": "Idaho",
+            "abbr": "ID",
+            "county": "Gooding County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "1379",
+      "fte": "76.85",
+      "pupilTeacherRatio": "17.94",
+      "numberOfSchools": "3"
+   },
+   {
+      "name": "Grace Joint District",
+      "location": {
+         "state": {
+            "name": "Idaho",
+            "abbr": "ID",
+            "county": "Caribou County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "545",
+      "fte": "34.28",
+      "pupilTeacherRatio": "15.9",
+      "numberOfSchools": "3"
+   },
+   {
+      "name": "Hagerman Joint District",
+      "location": {
+         "state": {
+            "name": "Idaho",
+            "abbr": "ID",
+            "county": "Gooding County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "317",
+      "fte": "21.8",
+      "pupilTeacherRatio": "14.54",
+      "numberOfSchools": "1"
+   },
+   {
+      "name": "Hansen District",
+      "location": {
+         "state": {
+            "name": "Idaho",
+            "abbr": "ID",
+            "county": "Twin Falls County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "339",
+      "fte": "23.3",
+      "pupilTeacherRatio": "14.55",
+      "numberOfSchools": "2"
+   },
+   {
+      "name": "Hayden Canyon Charter School Inc.",
+      "location": {
+         "state": {
+            "name": "IDAHO",
+            "abbr": "ID",
+            "county": "Kootenai County"
+         }
+      },
+      "type": "7-Independent Charter District",
+      "grades": {
+         "lowest": "Kindergarten",
+         "highest": "8th Grade"
+      },
+      "students": "†",
+      "fte": "†",
+      "pupilTeacherRatio": "†",
+      "numberOfSchools": "0"
+   },
+   {
+      "name": "Heritage Academy Inc.",
+      "location": {
+         "state": {
+            "name": "Idaho",
+            "abbr": "ID",
+            "county": "Jerome County"
+         }
+      },
+      "type": "7-Independent Charter District",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "8th Grade"
+      },
+      "students": "125",
+      "fte": "10.99",
+      "pupilTeacherRatio": "11.37",
+      "numberOfSchools": "1"
+   },
+   {
+      "name": "Heritage Community Charter School Inc.",
+      "location": {
+         "state": {
+            "name": "Idaho",
+            "abbr": "ID",
+            "county": "Canyon County"
+         }
+      },
+      "type": "7-Independent Charter District",
+      "grades": {
+         "lowest": "Kindergarten",
+         "highest": "8th Grade"
+      },
+      "students": "480",
+      "fte": "25.52",
+      "pupilTeacherRatio": "18.81",
+      "numberOfSchools": "1"
+   },
+   {
+      "name": "Highland Joint District",
+      "location": {
+         "state": {
+            "name": "Idaho",
+            "abbr": "ID",
+            "county": "Lewis County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "171",
+      "fte": "16.61",
+      "pupilTeacherRatio": "10.3",
+      "numberOfSchools": "1"
+   },
+   {
+      "name": "Homedale Joint District",
+      "location": {
+         "state": {
+            "name": "Idaho",
+            "abbr": "ID",
+            "county": "Owyhee County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "1223",
+      "fte": "67.6",
+      "pupilTeacherRatio": "18.09",
+      "numberOfSchools": "3"
+   },
+   {
+      "name": "Horseshoe Bend School District",
+      "location": {
+         "state": {
+            "name": "Idaho",
+            "abbr": "ID",
+            "county": "Boise County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "243",
+      "fte": "18.55",
+      "pupilTeacherRatio": "13.1",
+      "numberOfSchools": "2"
+   },
+   {
+      "name": "Idaho Bureau of Educational Services for the Deaf and the Bl",
+      "location": {
+         "state": {
+            "name": "Idaho",
+            "abbr": "ID",
+            "county": "Gooding County"
+         }
+      },
+      "type": "5-State agency providing elementary and/or secondary level instruction",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "86",
+      "fte": "21.8",
+      "pupilTeacherRatio": "3.94",
+      "numberOfSchools": "1"
+   },
+   {
+      "name": "Idaho College and Career Readiness Academy Inc.",
+      "location": {
+         "state": {
+            "name": "IDAHO",
+            "abbr": "ID",
+            "county": "Ada County"
+         }
+      },
+      "type": "7-Independent Charter District",
+      "grades": {
+         "lowest": "9th Grade",
+         "highest": "12th Grade"
+      },
+      "students": "159",
+      "fte": "8.47",
+      "pupilTeacherRatio": "18.77",
+      "numberOfSchools": "1"
+   },
+   {
+      "name": "Idaho Department of Corrections",
+      "location": {
+         "state": {
+            "name": "Idaho",
+            "abbr": "ID",
+            "county": "Ada County"
+         }
+      },
+      "type": "5-State agency providing elementary and/or secondary level instruction",
+      "grades": {
+         "lowest": "9th Grade",
+         "highest": "12th Grade"
+      },
+      "students": "0",
+      "fte": "0",
+      "pupilTeacherRatio": "†",
+      "numberOfSchools": "1"
+   },
+   {
+      "name": "Idaho Department of Juvenile Corrections",
+      "location": {
+         "state": {
+            "name": "Idaho",
+            "abbr": "ID",
+            "county": "Ada County"
+         }
+      },
+      "type": "5-State agency providing elementary and/or secondary level instruction",
+      "grades": {
+         "lowest": "6th Grade",
+         "highest": "12th Grade"
+      },
+      "students": "0",
+      "fte": "0",
+      "pupilTeacherRatio": "†",
+      "numberOfSchools": "3"
+   },
+   {
+      "name": "Idaho Digital Learning Academy",
+      "location": {
+         "state": {
+            "name": "IDAHO",
+            "abbr": "ID",
+            "county": "Ada County"
+         }
+      },
+      "type": "4-Regional Education Service Agency (RESA)",
+      "grades": {
+         "lowest": "4th Grade",
+         "highest": "12th Grade"
+      },
+      "students": "0",
+      "fte": "6.92",
+      "pupilTeacherRatio": "0",
+      "numberOfSchools": "0"
+   },
+   {
+      "name": "Idaho Falls District",
+      "location": {
+         "state": {
+            "name": "Idaho",
+            "abbr": "ID",
+            "county": "Bonneville County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "10286",
+      "fte": "519.46",
+      "pupilTeacherRatio": "19.8",
+      "numberOfSchools": "20"
+   },
+   {
+      "name": "Idaho Science and Technology Charter School Inc.",
+      "location": {
+         "state": {
+            "name": "Idaho",
+            "abbr": "ID",
+            "county": "Bingham County"
+         }
+      },
+      "type": "7-Independent Charter District",
+      "grades": {
+         "lowest": "Kindergarten",
+         "highest": "9th Grade"
+      },
+      "students": "339",
+      "fte": "25.7",
+      "pupilTeacherRatio": "13.19",
+      "numberOfSchools": "1"
+   },
+   {
+      "name": "Idaho Stem Academy Inc.",
+      "location": {
+         "state": {
+            "name": "Idaho",
+            "abbr": "ID",
+            "county": "Bingham County"
+         }
+      },
+      "type": "7-Independent Charter District",
+      "grades": {
+         "lowest": "9th Grade",
+         "highest": "12th Grade"
+      },
+      "students": "117",
+      "fte": "9.49",
+      "pupilTeacherRatio": "12.33",
+      "numberOfSchools": "1"
+   },
+   {
+      "name": "Idaho Virtual Academy Inc.",
+      "location": {
+         "state": {
+            "name": "Idaho",
+            "abbr": "ID",
+            "county": "Ada County"
+         }
+      },
+      "type": "7-Independent Charter District",
+      "grades": {
+         "lowest": "Kindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "1723",
+      "fte": "58.71",
+      "pupilTeacherRatio": "29.35",
+      "numberOfSchools": "2"
+   },
+   {
+      "name": "Idaho Virtual Education Partners Inc.",
+      "location": {
+         "state": {
+            "name": "Idaho",
+            "abbr": "ID",
+            "county": "Ada County"
+         }
+      },
+      "type": "7-Independent Charter District",
+      "grades": {
+         "lowest": "6th Grade",
+         "highest": "12th Grade"
+      },
+      "students": "172",
+      "fte": "17.98",
+      "pupilTeacherRatio": "9.57",
+      "numberOfSchools": "2"
+   },
+   {
+      "name": "Idaho Virtual High School Inc.",
+      "location": {
+         "state": {
+            "name": "Idaho",
+            "abbr": "ID",
+            "county": "Elmore County"
+         }
+      },
+      "type": "7-Independent Charter District",
+      "grades": {
+         "lowest": "Kindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "489",
+      "fte": "24.35",
+      "pupilTeacherRatio": "20.08",
+      "numberOfSchools": "4"
+   },
+   {
+      "name": "Inspire Academics Inc.",
+      "location": {
+         "state": {
+            "name": "Idaho",
+            "abbr": "ID",
+            "county": "Ada County"
+         }
+      },
+      "type": "7-Independent Charter District",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "1028",
+      "fte": "32.96",
+      "pupilTeacherRatio": "31.19",
+      "numberOfSchools": "2"
+   },
+   {
+      "name": "Island Park Chater School Inc",
+      "location": {
+         "state": {
+            "name": "IDAHO",
+            "abbr": "ID",
+            "county": "Fremont County"
+         }
+      },
+      "type": "7-Independent Charter District",
+      "grades": {
+         "lowest": "Kindergarten",
+         "highest": "3rd Grade"
+      },
+      "students": "†",
+      "fte": "†",
+      "pupilTeacherRatio": "†",
+      "numberOfSchools": "0"
+   },
+   {
+      "name": "Isucceed Virtual High School Inc.",
+      "location": {
+         "state": {
+            "name": "Idaho",
+            "abbr": "ID",
+            "county": "Ada County"
+         }
+      },
+      "type": "7-Independent Charter District",
+      "grades": {
+         "lowest": "9th Grade",
+         "highest": "12th Grade"
+      },
+      "students": "638",
+      "fte": "22.17",
+      "pupilTeacherRatio": "28.78",
+      "numberOfSchools": "2"
+   },
+   {
+      "name": "Jefferson County Joint District",
+      "location": {
+         "state": {
+            "name": "Idaho",
+            "abbr": "ID",
+            "county": "Jefferson County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "6280",
+      "fte": "301.21",
+      "pupilTeacherRatio": "20.85",
+      "numberOfSchools": "10"
+   },
+   {
+      "name": "Jerome Joint District",
+      "location": {
+         "state": {
+            "name": "Idaho",
+            "abbr": "ID",
+            "county": "Jerome County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "4184",
+      "fte": "210.35",
+      "pupilTeacherRatio": "19.89",
+      "numberOfSchools": "7"
+   },
+   {
+      "name": "Joint School District No. 2",
+      "location": {
+         "state": {
+            "name": "Idaho",
+            "abbr": "ID",
+            "county": "Ada County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "40600",
+      "fte": "2093.66",
+      "pupilTeacherRatio": "19.39",
+      "numberOfSchools": "58"
+   },
+   {
+      "name": "Kamiah Joint District",
+      "location": {
+         "state": {
+            "name": "Idaho",
+            "abbr": "ID",
+            "county": "Lewis County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "406",
+      "fte": "31.33",
+      "pupilTeacherRatio": "12.96",
+      "numberOfSchools": "2"
+   },
+   {
+      "name": "Kellogg Joint District",
+      "location": {
+         "state": {
+            "name": "Idaho",
+            "abbr": "ID",
+            "county": "Shoshone County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "1090",
+      "fte": "66.09",
+      "pupilTeacherRatio": "16.49",
+      "numberOfSchools": "4"
+   },
+   {
+      "name": "Kendrick Joint District",
+      "location": {
+         "state": {
+            "name": "Idaho",
+            "abbr": "ID",
+            "county": "Latah County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "248",
+      "fte": "17.54",
+      "pupilTeacherRatio": "14.14",
+      "numberOfSchools": "2"
+   },
+   {
+      "name": "Kimberly District",
+      "location": {
+         "state": {
+            "name": "Idaho",
+            "abbr": "ID",
+            "county": "Twin Falls County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "2101",
+      "fte": "106.36",
+      "pupilTeacherRatio": "19.75",
+      "numberOfSchools": "4"
+   },
+   {
+      "name": "Kootenai District",
+      "location": {
+         "state": {
+            "name": "Idaho",
+            "abbr": "ID",
+            "county": "Kootenai County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "142",
+      "fte": "17.04",
+      "pupilTeacherRatio": "8.33",
+      "numberOfSchools": "2"
+   },
+   {
+      "name": "Ktec - Kootenai Tech Ed Campus",
+      "location": {
+         "state": {
+            "name": "Idaho",
+            "abbr": "ID",
+            "county": "Kootenai County"
+         }
+      },
+      "type": "9-Specialized public school district",
+      "grades": {
+         "lowest": "9th Grade",
+         "highest": "12th Grade"
+      },
+      "students": "29",
+      "fte": "11.5",
+      "pupilTeacherRatio": "2.52",
+      "numberOfSchools": "1"
+   },
+   {
+      "name": "Kuna Joint District",
+      "location": {
+         "state": {
+            "name": "Idaho",
+            "abbr": "ID",
+            "county": "Ada County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "5604",
+      "fte": "297.5",
+      "pupilTeacherRatio": "18.84",
+      "numberOfSchools": "10"
+   },
+   {
+      "name": "Lake Pend Oreille School District",
+      "location": {
+         "state": {
+            "name": "Idaho",
+            "abbr": "ID",
+            "county": "Bonner County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "3654",
+      "fte": "224.29",
+      "pupilTeacherRatio": "16.29",
+      "numberOfSchools": "13"
+   },
+   {
+      "name": "Lakeland District",
+      "location": {
+         "state": {
+            "name": "Idaho",
+            "abbr": "ID",
+            "county": "Kootenai County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "4533",
+      "fte": "252.17",
+      "pupilTeacherRatio": "17.98",
+      "numberOfSchools": "11"
+   },
+   {
+      "name": "Lapwai District",
+      "location": {
+         "state": {
+            "name": "Idaho",
+            "abbr": "ID",
+            "county": "Nez Perce County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "519",
+      "fte": "36.76",
+      "pupilTeacherRatio": "14.12",
+      "numberOfSchools": "2"
+   },
+   {
+      "name": "Legacy Public Charter School Inc.",
+      "location": {
+         "state": {
+            "name": "Idaho",
+            "abbr": "ID",
+            "county": "Canyon County"
+         }
+      },
+      "type": "7-Independent Charter District",
+      "grades": {
+         "lowest": "Kindergarten",
+         "highest": "8th Grade"
+      },
+      "students": "293",
+      "fte": "12.2",
+      "pupilTeacherRatio": "24.02",
+      "numberOfSchools": "1"
+   },
+   {
+      "name": "Lewiston Independent District",
+      "location": {
+         "state": {
+            "name": "Idaho",
+            "abbr": "ID",
+            "county": "Nez Perce County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "4768",
+      "fte": "284.45",
+      "pupilTeacherRatio": "16.76",
+      "numberOfSchools": "13"
+   },
+   {
+      "name": "Liberty Charter School Inc.",
+      "location": {
+         "state": {
+            "name": "Idaho",
+            "abbr": "ID",
+            "county": "Canyon County"
+         }
+      },
+      "type": "7-Independent Charter District",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "411",
+      "fte": "17.37",
+      "pupilTeacherRatio": "23.66",
+      "numberOfSchools": "1"
+   },
+   {
+      "name": "Mackay Joint District",
+      "location": {
+         "state": {
+            "name": "Idaho",
+            "abbr": "ID",
+            "county": "Custer County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "224",
+      "fte": "16.22",
+      "pupilTeacherRatio": "13.81",
+      "numberOfSchools": "2"
+   },
+   {
+      "name": "Madison District",
+      "location": {
+         "state": {
+            "name": "Idaho",
+            "abbr": "ID",
+            "county": "Madison County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "5406",
+      "fte": "258.96",
+      "pupilTeacherRatio": "20.88",
+      "numberOfSchools": "10"
+   },
+   {
+      "name": "Marsh Valley Joint District",
+      "location": {
+         "state": {
+            "name": "Idaho",
+            "abbr": "ID",
+            "county": "Bannock County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "1277",
+      "fte": "73.33",
+      "pupilTeacherRatio": "17.41",
+      "numberOfSchools": "6"
+   },
+   {
+      "name": "Marsing Joint District",
+      "location": {
+         "state": {
+            "name": "Idaho",
+            "abbr": "ID",
+            "county": "Owyhee County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "847",
+      "fte": "49.94",
+      "pupilTeacherRatio": "16.96",
+      "numberOfSchools": "3"
+   },
+   {
+      "name": "Mccall Community School Inc",
+      "location": {
+         "state": {
+            "name": "IDAHO",
+            "abbr": "ID",
+            "county": "Valley County"
+         }
+      },
+      "type": "7-Independent Charter District",
+      "grades": {
+         "lowest": "Kindergarten",
+         "highest": "8th Grade"
+      },
+      "students": "†",
+      "fte": "†",
+      "pupilTeacherRatio": "†",
+      "numberOfSchools": "0"
+   },
+   {
+      "name": "Mccall-Donnelly Joint School District",
+      "location": {
+         "state": {
+            "name": "Idaho",
+            "abbr": "ID",
+            "county": "Valley County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "1314",
+      "fte": "84.53",
+      "pupilTeacherRatio": "15.54",
+      "numberOfSchools": "5"
+   },
+   {
+      "name": "Meadows Valley District",
+      "location": {
+         "state": {
+            "name": "Idaho",
+            "abbr": "ID",
+            "county": "Adams County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "160",
+      "fte": "16.43",
+      "pupilTeacherRatio": "9.74",
+      "numberOfSchools": "1"
+   },
+   {
+      "name": "Melba Joint District",
+      "location": {
+         "state": {
+            "name": "Idaho",
+            "abbr": "ID",
+            "county": "Canyon County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "868",
+      "fte": "48.02",
+      "pupilTeacherRatio": "18.08",
+      "numberOfSchools": "2"
+   },
+   {
+      "name": "Middleton District",
+      "location": {
+         "state": {
+            "name": "Idaho",
+            "abbr": "ID",
+            "county": "Canyon County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "4039",
+      "fte": "200.08",
+      "pupilTeacherRatio": "20.19",
+      "numberOfSchools": "6"
+   },
+   {
+      "name": "Midvale District",
+      "location": {
+         "state": {
+            "name": "Idaho",
+            "abbr": "ID",
+            "county": "Washington County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "118",
+      "fte": "14.78",
+      "pupilTeacherRatio": "7.98",
+      "numberOfSchools": "2"
+   },
+   {
+      "name": "Minidoka County Joint District",
+      "location": {
+         "state": {
+            "name": "Idaho",
+            "abbr": "ID",
+            "county": "Minidoka County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "4370",
+      "fte": "272.38",
+      "pupilTeacherRatio": "16.04",
+      "numberOfSchools": "12"
+   },
+   {
+      "name": "Monticello Montessori Charter School Inc.",
+      "location": {
+         "state": {
+            "name": "Idaho",
+            "abbr": "ID",
+            "county": "Bonneville County"
+         }
+      },
+      "type": "7-Independent Charter District",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "8th Grade"
+      },
+      "students": "270",
+      "fte": "11.42",
+      "pupilTeacherRatio": "23.64",
+      "numberOfSchools": "1"
+   },
+   {
+      "name": "Mosaics Public School Inc.",
+      "location": {
+         "state": {
+            "name": "IDAHO",
+            "abbr": "ID",
+            "county": "Canyon County"
+         }
+      },
+      "type": "7-Independent Charter District",
+      "grades": {
+         "lowest": "Kindergarten",
+         "highest": "4th Grade"
+      },
+      "students": "†",
+      "fte": "†",
+      "pupilTeacherRatio": "†",
+      "numberOfSchools": "0"
+   },
+   {
+      "name": "Moscow District",
+      "location": {
+         "state": {
+            "name": "Idaho",
+            "abbr": "ID",
+            "county": "Latah County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "2470",
+      "fte": "165.5",
+      "pupilTeacherRatio": "14.92",
+      "numberOfSchools": "8"
+   },
+   {
+      "name": "Mountain Home District",
+      "location": {
+         "state": {
+            "name": "Idaho",
+            "abbr": "ID",
+            "county": "Elmore County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "3915",
+      "fte": "205.86",
+      "pupilTeacherRatio": "19.02",
+      "numberOfSchools": "9"
+   },
+   {
+      "name": "Mountain View School District",
+      "location": {
+         "state": {
+            "name": "Idaho",
+            "abbr": "ID",
+            "county": "Idaho County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "1224",
+      "fte": "76.59",
+      "pupilTeacherRatio": "15.98",
+      "numberOfSchools": "5"
+   },
+   {
+      "name": "Mullan District",
+      "location": {
+         "state": {
+            "name": "Idaho",
+            "abbr": "ID",
+            "county": "Shoshone County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "102",
+      "fte": "14.66",
+      "pupilTeacherRatio": "6.96",
+      "numberOfSchools": "1"
+   },
+   {
+      "name": "Murtaugh Joint District",
+      "location": {
+         "state": {
+            "name": "Idaho",
+            "abbr": "ID",
+            "county": "Twin Falls County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "368",
+      "fte": "26.31",
+      "pupilTeacherRatio": "13.99",
+      "numberOfSchools": "1"
+   },
+   {
+      "name": "Nampa School District",
+      "location": {
+         "state": {
+            "name": "Idaho",
+            "abbr": "ID",
+            "county": "Canyon County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "15699",
+      "fte": "879.79",
+      "pupilTeacherRatio": "17.84",
+      "numberOfSchools": "26"
+   },
+   {
+      "name": "New Plymouth District",
+      "location": {
+         "state": {
+            "name": "Idaho",
+            "abbr": "ID",
+            "county": "Payette County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "969",
+      "fte": "54.27",
+      "pupilTeacherRatio": "17.86",
+      "numberOfSchools": "3"
+   },
+   {
+      "name": "Nezperce Joint District",
+      "location": {
+         "state": {
+            "name": "Idaho",
+            "abbr": "ID",
+            "county": "Lewis County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "156",
+      "fte": "16.31",
+      "pupilTeacherRatio": "9.56",
+      "numberOfSchools": "1"
+   },
+   {
+      "name": "North Gem District",
+      "location": {
+         "state": {
+            "name": "Idaho",
+            "abbr": "ID",
+            "county": "Caribou County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "168",
+      "fte": "17.33",
+      "pupilTeacherRatio": "9.69",
+      "numberOfSchools": "3"
+   },
+   {
+      "name": "North Idaho Stem Charter Academy Inc.",
+      "location": {
+         "state": {
+            "name": "Idaho",
+            "abbr": "ID",
+            "county": "Kootenai County"
+         }
+      },
+      "type": "7-Independent Charter District",
+      "grades": {
+         "lowest": "Kindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "550",
+      "fte": "25.52",
+      "pupilTeacherRatio": "21.55",
+      "numberOfSchools": "1"
+   },
+   {
+      "name": "North Star Charter School Inc.",
+      "location": {
+         "state": {
+            "name": "IDAHO",
+            "abbr": "ID",
+            "county": "Ada County"
+         }
+      },
+      "type": "7-Independent Charter District",
+      "grades": {
+         "lowest": "Kindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "996",
+      "fte": "48.08",
+      "pupilTeacherRatio": "20.72",
+      "numberOfSchools": "1"
+   },
+   {
+      "name": "North Valley Academy Inc.",
+      "location": {
+         "state": {
+            "name": "Idaho",
+            "abbr": "ID",
+            "county": "Gooding County"
+         }
+      },
+      "type": "7-Independent Charter District",
+      "grades": {
+         "lowest": "Kindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "213",
+      "fte": "15.99",
+      "pupilTeacherRatio": "13.32",
+      "numberOfSchools": "1"
+   },
+   {
+      "name": "Notus District",
+      "location": {
+         "state": {
+            "name": "Idaho",
+            "abbr": "ID",
+            "county": "Canyon County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "409",
+      "fte": "28.68",
+      "pupilTeacherRatio": "14.26",
+      "numberOfSchools": "2"
+   },
+   {
+      "name": "Oneida County District",
+      "location": {
+         "state": {
+            "name": "Idaho",
+            "abbr": "ID",
+            "county": "Oneida County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "3367",
+      "fte": "156.73",
+      "pupilTeacherRatio": "21.48",
+      "numberOfSchools": "6"
+   },
+   {
+      "name": "Orofino Joint District",
+      "location": {
+         "state": {
+            "name": "Idaho",
+            "abbr": "ID",
+            "county": "Clearwater County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "1129",
+      "fte": "75.59",
+      "pupilTeacherRatio": "14.94",
+      "numberOfSchools": "8"
+   },
+   {
+      "name": "Palouse Prairie Educational Organization Inc.",
+      "location": {
+         "state": {
+            "name": "Idaho",
+            "abbr": "ID",
+            "county": "Latah County"
+         }
+      },
+      "type": "7-Independent Charter District",
+      "grades": {
+         "lowest": "Kindergarten",
+         "highest": "8th Grade"
+      },
+      "students": "187",
+      "fte": "12.26",
+      "pupilTeacherRatio": "15.25",
+      "numberOfSchools": "1"
+   },
+   {
+      "name": "Parma District",
+      "location": {
+         "state": {
+            "name": "Idaho",
+            "abbr": "ID",
+            "county": "Canyon County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "1046",
+      "fte": "63.18",
+      "pupilTeacherRatio": "16.56",
+      "numberOfSchools": "3"
+   },
+   {
+      "name": "Pathways in Education - Nampa Inc.",
+      "location": {
+         "state": {
+            "name": "IDAHO",
+            "abbr": "ID",
+            "county": "Canyon County"
+         }
+      },
+      "type": "7-Independent Charter District",
+      "grades": {
+         "lowest": "9th Grade",
+         "highest": "12th Grade"
+      },
+      "students": "298",
+      "fte": "10",
+      "pupilTeacherRatio": "29.8",
+      "numberOfSchools": "1"
+   },
+   {
+      "name": "Payette Joint District",
+      "location": {
+         "state": {
+            "name": "Idaho",
+            "abbr": "ID",
+            "county": "Payette County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "1390",
+      "fte": "84.74",
+      "pupilTeacherRatio": "16.4",
+      "numberOfSchools": "4"
+   },
+   {
+      "name": "Peace Valley Charter School Inc.",
+      "location": {
+         "state": {
+            "name": "IDAHO",
+            "abbr": "ID",
+            "county": "Ada County"
+         }
+      },
+      "type": "7-Independent Charter District",
+      "grades": {
+         "lowest": "Kindergarten",
+         "highest": "8th Grade"
+      },
+      "students": "284",
+      "fte": "17.21",
+      "pupilTeacherRatio": "16.5",
+      "numberOfSchools": "1"
+   },
+   {
+      "name": "Pleasant Valley Elementary District",
+      "location": {
+         "state": {
+            "name": "Idaho",
+            "abbr": "ID",
+            "county": "Owyhee County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "8th Grade"
+      },
+      "students": "7",
+      "fte": "1",
+      "pupilTeacherRatio": "7",
+      "numberOfSchools": "1"
+   },
+   {
+      "name": "Plummer-Worley Joint District",
+      "location": {
+         "state": {
+            "name": "Idaho",
+            "abbr": "ID",
+            "county": "Benewah County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "380",
+      "fte": "36.22",
+      "pupilTeacherRatio": "10.49",
+      "numberOfSchools": "3"
+   },
+   {
+      "name": "Pocatello District",
+      "location": {
+         "state": {
+            "name": "Idaho",
+            "abbr": "ID",
+            "county": "Bannock County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "12502",
+      "fte": "630.75",
+      "pupilTeacherRatio": "19.82",
+      "numberOfSchools": "24"
+   },
+   {
+      "name": "Post Falls District",
+      "location": {
+         "state": {
+            "name": "Idaho",
+            "abbr": "ID",
+            "county": "Kootenai County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "6150",
+      "fte": "301.14",
+      "pupilTeacherRatio": "20.42",
+      "numberOfSchools": "11"
+   },
+   {
+      "name": "Potlatch District",
+      "location": {
+         "state": {
+            "name": "Idaho",
+            "abbr": "ID",
+            "county": "Latah County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "477",
+      "fte": "32.05",
+      "pupilTeacherRatio": "14.88",
+      "numberOfSchools": "2"
+   },
+   {
+      "name": "Prairie Elementary District",
+      "location": {
+         "state": {
+            "name": "Idaho",
+            "abbr": "ID",
+            "county": "Elmore County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Kindergarten",
+         "highest": "8th Grade"
+      },
+      "students": "3",
+      "fte": "0.97",
+      "pupilTeacherRatio": "3.09",
+      "numberOfSchools": "1"
+   },
+   {
+      "name": "Preston Joint District",
+      "location": {
+         "state": {
+            "name": "Idaho",
+            "abbr": "ID",
+            "county": "Franklin County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "2448",
+      "fte": "128.43",
+      "pupilTeacherRatio": "19.06",
+      "numberOfSchools": "6"
+   },
+   {
+      "name": "Project Impact Stem Academy Inc.",
+      "location": {
+         "state": {
+            "name": "IDAHO",
+            "abbr": "ID",
+            "county": "Ada County"
+         }
+      },
+      "type": "7-Independent Charter District",
+      "grades": {
+         "lowest": "Kindergarten",
+         "highest": "10th Grade"
+      },
+      "students": "213",
+      "fte": "14.43",
+      "pupilTeacherRatio": "14.76",
+      "numberOfSchools": "1"
+   },
+   {
+      "name": "Richfield District",
+      "location": {
+         "state": {
+            "name": "Idaho",
+            "abbr": "ID",
+            "county": "Lincoln County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "208",
+      "fte": "17.68",
+      "pupilTeacherRatio": "11.76",
+      "numberOfSchools": "1"
+   },
+   {
+      "name": "Ririe Joint District",
+      "location": {
+         "state": {
+            "name": "Idaho",
+            "abbr": "ID",
+            "county": "Jefferson County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "746",
+      "fte": "40.95",
+      "pupilTeacherRatio": "18.22",
+      "numberOfSchools": "2"
+   },
+   {
+      "name": "Rockland District",
+      "location": {
+         "state": {
+            "name": "Idaho",
+            "abbr": "ID",
+            "county": "Power County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "172",
+      "fte": "17.39",
+      "pupilTeacherRatio": "9.89",
+      "numberOfSchools": "1"
+   },
+   {
+      "name": "Rolling Hills Public Charter School Inc.",
+      "location": {
+         "state": {
+            "name": "Idaho",
+            "abbr": "ID",
+            "county": "Ada County"
+         }
+      },
+      "type": "7-Independent Charter District",
+      "grades": {
+         "lowest": "Kindergarten",
+         "highest": "8th Grade"
+      },
+      "students": "246",
+      "fte": "14.7",
+      "pupilTeacherRatio": "16.73",
+      "numberOfSchools": "1"
+   },
+   {
+      "name": "Salmon District",
+      "location": {
+         "state": {
+            "name": "Idaho",
+            "abbr": "ID",
+            "county": "Lemhi County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "777",
+      "fte": "47.25",
+      "pupilTeacherRatio": "16.44",
+      "numberOfSchools": "4"
+   },
+   {
+      "name": "Salmon River Joint School District",
+      "location": {
+         "state": {
+            "name": "Idaho",
+            "abbr": "ID",
+            "county": "Idaho County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "134",
+      "fte": "14.29",
+      "pupilTeacherRatio": "9.38",
+      "numberOfSchools": "2"
+   },
+   {
+      "name": "Sandpoint Charter School Inc.",
+      "location": {
+         "state": {
+            "name": "Idaho",
+            "abbr": "ID",
+            "county": "Bonner County"
+         }
+      },
+      "type": "7-Independent Charter District",
+      "grades": {
+         "lowest": "6th Grade",
+         "highest": "12th Grade"
+      },
+      "students": "315",
+      "fte": "23.6",
+      "pupilTeacherRatio": "13.35",
+      "numberOfSchools": "1"
+   },
+   {
+      "name": "Shelley Joint District",
+      "location": {
+         "state": {
+            "name": "Idaho",
+            "abbr": "ID",
+            "county": "Bingham County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "2323",
+      "fte": "112.67",
+      "pupilTeacherRatio": "20.62",
+      "numberOfSchools": "5"
+   },
+   {
+      "name": "Shoshone Joint District",
+      "location": {
+         "state": {
+            "name": "Idaho",
+            "abbr": "ID",
+            "county": "Lincoln County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "489",
+      "fte": "34.42",
+      "pupilTeacherRatio": "14.21",
+      "numberOfSchools": "4"
+   },
+   {
+      "name": "Snake River District",
+      "location": {
+         "state": {
+            "name": "Idaho",
+            "abbr": "ID",
+            "county": "Bingham County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "1817",
+      "fte": "97.06",
+      "pupilTeacherRatio": "18.72",
+      "numberOfSchools": "6"
+   },
+   {
+      "name": "Soda Springs Joint District",
+      "location": {
+         "state": {
+            "name": "Idaho",
+            "abbr": "ID",
+            "county": "Caribou County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "945",
+      "fte": "49.14",
+      "pupilTeacherRatio": "19.23",
+      "numberOfSchools": "3"
+   },
+   {
+      "name": "South Lemhi District",
+      "location": {
+         "state": {
+            "name": "Idaho",
+            "abbr": "ID",
+            "county": "Lemhi County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "103",
+      "fte": "12.06",
+      "pupilTeacherRatio": "8.54",
+      "numberOfSchools": "2"
+   },
+   {
+      "name": "St Maries Joint District",
+      "location": {
+         "state": {
+            "name": "Idaho",
+            "abbr": "ID",
+            "county": "Benewah County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "974",
+      "fte": "61.41",
+      "pupilTeacherRatio": "15.86",
+      "numberOfSchools": "5"
+   },
+   {
+      "name": "Sugar-Salem Joint District",
+      "location": {
+         "state": {
+            "name": "Idaho",
+            "abbr": "ID",
+            "county": "Madison County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "1591",
+      "fte": "88.86",
+      "pupilTeacherRatio": "17.9",
+      "numberOfSchools": "5"
+   },
+   {
+      "name": "Swan Valley Elementary District",
+      "location": {
+         "state": {
+            "name": "Idaho",
+            "abbr": "ID",
+            "county": "Bonneville County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "8th Grade"
+      },
+      "students": "60",
+      "fte": "4.01",
+      "pupilTeacherRatio": "14.96",
+      "numberOfSchools": "1"
+   },
+   {
+      "name": "Syringa Mountain School Inc.",
+      "location": {
+         "state": {
+            "name": "Idaho",
+            "abbr": "ID",
+            "county": "Blaine County"
+         }
+      },
+      "type": "7-Independent Charter District",
+      "grades": {
+         "lowest": "Kindergarten",
+         "highest": "8th Grade"
+      },
+      "students": "105",
+      "fte": "8.02",
+      "pupilTeacherRatio": "13.09",
+      "numberOfSchools": "1"
+   },
+   {
+      "name": "Taylor's Crossing Public Charter School Inc.",
+      "location": {
+         "state": {
+            "name": "Idaho",
+            "abbr": "ID",
+            "county": "Bonneville County"
+         }
+      },
+      "type": "7-Independent Charter District",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "369",
+      "fte": "18.96",
+      "pupilTeacherRatio": "19.46",
+      "numberOfSchools": "1"
+   },
+   {
+      "name": "Teton County District",
+      "location": {
+         "state": {
+            "name": "Idaho",
+            "abbr": "ID",
+            "county": "Teton County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "1876",
+      "fte": "106.67",
+      "pupilTeacherRatio": "17.59",
+      "numberOfSchools": "7"
+   },
+   {
+      "name": "The Academy Inc.",
+      "location": {
+         "state": {
+            "name": "Idaho",
+            "abbr": "ID",
+            "county": "Bannock County"
+         }
+      },
+      "type": "7-Independent Charter District",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "8th Grade"
+      },
+      "students": "538",
+      "fte": "25",
+      "pupilTeacherRatio": "21.52",
+      "numberOfSchools": "1"
+   },
+   {
+      "name": "The Kootenai Bridge Academy Inc.",
+      "location": {
+         "state": {
+            "name": "Idaho",
+            "abbr": "ID",
+            "county": "Kootenai County"
+         }
+      },
+      "type": "7-Independent Charter District",
+      "grades": {
+         "lowest": "9th Grade",
+         "highest": "12th Grade"
+      },
+      "students": "310",
+      "fte": "7.5",
+      "pupilTeacherRatio": "41.33",
+      "numberOfSchools": "1"
+   },
+   {
+      "name": "The Pocatello Community Charter School Inc.",
+      "location": {
+         "state": {
+            "name": "IDAHO",
+            "abbr": "ID",
+            "county": "Bannock County"
+         }
+      },
+      "type": "7-Independent Charter District",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "8th Grade"
+      },
+      "students": "338",
+      "fte": "15",
+      "pupilTeacherRatio": "22.53",
+      "numberOfSchools": "1"
+   },
+   {
+      "name": "The Sage International School of Boise a Public Charter Sch",
+      "location": {
+         "state": {
+            "name": "Idaho",
+            "abbr": "ID",
+            "county": "Ada County"
+         }
+      },
+      "type": "7-Independent Charter District",
+      "grades": {
+         "lowest": "Kindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "984",
+      "fte": "59.42",
+      "pupilTeacherRatio": "16.56",
+      "numberOfSchools": "1"
+   },
+   {
+      "name": "The Village Charter School Inc.",
+      "location": {
+         "state": {
+            "name": "Idaho",
+            "abbr": "ID",
+            "county": "Ada County"
+         }
+      },
+      "type": "7-Independent Charter District",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "8th Grade"
+      },
+      "students": "334",
+      "fte": "22.72",
+      "pupilTeacherRatio": "14.7",
+      "numberOfSchools": "1"
+   },
+   {
+      "name": "Thomas Jefferson Charter School Inc.",
+      "location": {
+         "state": {
+            "name": "IDAHO",
+            "abbr": "ID",
+            "county": "Canyon County"
+         }
+      },
+      "type": "7-Independent Charter District",
+      "grades": {
+         "lowest": "–",
+         "highest": "–"
+      },
+      "students": "†",
+      "fte": "†",
+      "pupilTeacherRatio": "†",
+      "numberOfSchools": "0"
+   },
+   {
+      "name": "Three Creek Joint Elementary District",
+      "location": {
+         "state": {
+            "name": "Idaho",
+            "abbr": "ID",
+            "county": "Twin Falls County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "8th Grade"
+      },
+      "students": "6",
+      "fte": "0.9",
+      "pupilTeacherRatio": "6.67",
+      "numberOfSchools": "1"
+   },
+   {
+      "name": "Treasure Valley Classical Academy Inc.",
+      "location": {
+         "state": {
+            "name": "IDAHO",
+            "abbr": "ID",
+            "county": "Payette County"
+         }
+      },
+      "type": "7-Independent Charter District",
+      "grades": {
+         "lowest": "Kindergarten",
+         "highest": "6th Grade"
+      },
+      "students": "303",
+      "fte": "19",
+      "pupilTeacherRatio": "15.95",
+      "numberOfSchools": "1"
+   },
+   {
+      "name": "Troy School District",
+      "location": {
+         "state": {
+            "name": "Idaho",
+            "abbr": "ID",
+            "county": "Latah County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "286",
+      "fte": "20.44",
+      "pupilTeacherRatio": "13.99",
+      "numberOfSchools": "2"
+   },
+   {
+      "name": "Twin Falls District",
+      "location": {
+         "state": {
+            "name": "Idaho",
+            "abbr": "ID",
+            "county": "Twin Falls County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "9654",
+      "fte": "508.15",
+      "pupilTeacherRatio": "19",
+      "numberOfSchools": "17"
+   },
+   {
+      "name": "Upper Carmen Public Charter School Inc.",
+      "location": {
+         "state": {
+            "name": "Idaho",
+            "abbr": "ID",
+            "county": "Lemhi County"
+         }
+      },
+      "type": "7-Independent Charter District",
+      "grades": {
+         "lowest": "Kindergarten",
+         "highest": "3rd Grade"
+      },
+      "students": "53",
+      "fte": "3.5",
+      "pupilTeacherRatio": "15.14",
+      "numberOfSchools": "1"
+   },
+   {
+      "name": "Valley District",
+      "location": {
+         "state": {
+            "name": "Idaho",
+            "abbr": "ID",
+            "county": "Jerome County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "596",
+      "fte": "39.86",
+      "pupilTeacherRatio": "14.95",
+      "numberOfSchools": "1"
+   },
+   {
+      "name": "Vallivue School District",
+      "location": {
+         "state": {
+            "name": "Idaho",
+            "abbr": "ID",
+            "county": "Canyon County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "9924",
+      "fte": "501.39",
+      "pupilTeacherRatio": "19.79",
+      "numberOfSchools": "14"
+   },
+   {
+      "name": "Victory Charter School Inc.",
+      "location": {
+         "state": {
+            "name": "Idaho",
+            "abbr": "ID",
+            "county": "Canyon County"
+         }
+      },
+      "type": "7-Independent Charter District",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "395",
+      "fte": "17.11",
+      "pupilTeacherRatio": "23.09",
+      "numberOfSchools": "1"
+   },
+   {
+      "name": "Vision Charter School Inc.",
+      "location": {
+         "state": {
+            "name": "Idaho",
+            "abbr": "ID",
+            "county": "Canyon County"
+         }
+      },
+      "type": "7-Independent Charter District",
+      "grades": {
+         "lowest": "Kindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "722",
+      "fte": "29.5",
+      "pupilTeacherRatio": "24.47",
+      "numberOfSchools": "1"
+   },
+   {
+      "name": "Wallace District",
+      "location": {
+         "state": {
+            "name": "Idaho",
+            "abbr": "ID",
+            "county": "Shoshone County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "494",
+      "fte": "40.97",
+      "pupilTeacherRatio": "12.06",
+      "numberOfSchools": "2"
+   },
+   {
+      "name": "Weiser District",
+      "location": {
+         "state": {
+            "name": "Idaho",
+            "abbr": "ID",
+            "county": "Washington County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "1558",
+      "fte": "85.89",
+      "pupilTeacherRatio": "18.14",
+      "numberOfSchools": "5"
+   },
+   {
+      "name": "Wendell District",
+      "location": {
+         "state": {
+            "name": "Idaho",
+            "abbr": "ID",
+            "county": "Gooding County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "1143",
+      "fte": "64.41",
+      "pupilTeacherRatio": "17.75",
+      "numberOfSchools": "3"
+   },
+   {
+      "name": "West Bonner County District",
+      "location": {
+         "state": {
+            "name": "Idaho",
+            "abbr": "ID",
+            "county": "Bonner County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "1034",
+      "fte": "65.82",
+      "pupilTeacherRatio": "15.71",
+      "numberOfSchools": "5"
+   },
+   {
+      "name": "West Jefferson District",
+      "location": {
+         "state": {
+            "name": "Idaho",
+            "abbr": "ID",
+            "county": "Jefferson County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "558",
+      "fte": "41.6",
+      "pupilTeacherRatio": "13.41",
+      "numberOfSchools": "4"
+   },
+   {
+      "name": "West Side Joint District",
+      "location": {
+         "state": {
+            "name": "Idaho",
+            "abbr": "ID",
+            "county": "Franklin County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "791",
+      "fte": "44.36",
+      "pupilTeacherRatio": "17.83",
+      "numberOfSchools": "3"
+   },
+   {
+      "name": "White Pine Charter School Inc.",
+      "location": {
+         "state": {
+            "name": "Idaho",
+            "abbr": "ID",
+            "county": "Bonneville County"
+         }
+      },
+      "type": "7-Independent Charter District",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "9th Grade"
+      },
+      "students": "600",
+      "fte": "27.4",
+      "pupilTeacherRatio": "21.9",
+      "numberOfSchools": "1"
+   },
+   {
+      "name": "Whitepine Joint School District",
+      "location": {
+         "state": {
+            "name": "Idaho",
+            "abbr": "ID",
+            "county": "Latah County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "236",
+      "fte": "18.31",
+      "pupilTeacherRatio": "12.89",
+      "numberOfSchools": "2"
+   },
+   {
+      "name": "Wilder District",
+      "location": {
+         "state": {
+            "name": "Idaho",
+            "abbr": "ID",
+            "county": "Canyon County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "516",
+      "fte": "32.47",
+      "pupilTeacherRatio": "15.89",
+      "numberOfSchools": "3"
+   },
+   {
+      "name": "Xavier Charter School Inc.",
+      "location": {
+         "state": {
+            "name": "Idaho",
+            "abbr": "ID",
+            "county": "Twin Falls County"
+         }
+      },
+      "type": "7-Independent Charter District",
+      "grades": {
+         "lowest": "Kindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "701",
+      "fte": "33.03",
+      "pupilTeacherRatio": "21.22",
+      "numberOfSchools": "1"
+   }
+]

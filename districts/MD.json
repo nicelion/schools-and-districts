@@ -1,0 +1,477 @@
+[
+   {
+      "name": "Allegany County Public Schools",
+      "location": {
+         "state": {
+            "name": "Maryland",
+            "abbr": "MD",
+            "county": "Allegany County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "8437",
+      "fte": "599.01",
+      "pupilTeacherRatio": "14.08",
+      "numberOfSchools": "22"
+   },
+   {
+      "name": "Anne Arundel County Public Schools",
+      "location": {
+         "state": {
+            "name": "Maryland",
+            "abbr": "MD",
+            "county": "Anne Arundel County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "84984",
+      "fte": "5787",
+      "pupilTeacherRatio": "14.69",
+      "numberOfSchools": "124"
+   },
+   {
+      "name": "Baltimore City Public Schools",
+      "location": {
+         "state": {
+            "name": "Maryland",
+            "abbr": "MD",
+            "county": "Baltimore city"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "79187",
+      "fte": "4932.9",
+      "pupilTeacherRatio": "16.05",
+      "numberOfSchools": "162"
+   },
+   {
+      "name": "Baltimore County Public Schools",
+      "location": {
+         "state": {
+            "name": "Maryland",
+            "abbr": "MD",
+            "county": "Baltimore County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "115038",
+      "fte": "7629.7",
+      "pupilTeacherRatio": "15.08",
+      "numberOfSchools": "178"
+   },
+   {
+      "name": "Calvert County Public Schools",
+      "location": {
+         "state": {
+            "name": "Maryland",
+            "abbr": "MD",
+            "county": "Calvert County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "16022",
+      "fte": "999.84",
+      "pupilTeacherRatio": "16.02",
+      "numberOfSchools": "25"
+   },
+   {
+      "name": "Caroline County Public Schools",
+      "location": {
+         "state": {
+            "name": "Maryland",
+            "abbr": "MD",
+            "county": "Caroline County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "5874",
+      "fte": "424",
+      "pupilTeacherRatio": "13.85",
+      "numberOfSchools": "10"
+   },
+   {
+      "name": "Carroll County Public Schools",
+      "location": {
+         "state": {
+            "name": "Maryland",
+            "abbr": "MD",
+            "county": "Carroll County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "25345",
+      "fte": "1757.52",
+      "pupilTeacherRatio": "14.42",
+      "numberOfSchools": "44"
+   },
+   {
+      "name": "Cecil County Public Schools",
+      "location": {
+         "state": {
+            "name": "Maryland",
+            "abbr": "MD",
+            "county": "Cecil County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "15256",
+      "fte": "1156.5",
+      "pupilTeacherRatio": "13.19",
+      "numberOfSchools": "29"
+   },
+   {
+      "name": "Charles County Public Schools",
+      "location": {
+         "state": {
+            "name": "Maryland",
+            "abbr": "MD",
+            "county": "Charles County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "27521",
+      "fte": "1839.5",
+      "pupilTeacherRatio": "14.96",
+      "numberOfSchools": "39"
+   },
+   {
+      "name": "Dorchester County Public Schools",
+      "location": {
+         "state": {
+            "name": "Maryland",
+            "abbr": "MD",
+            "county": "Dorchester County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "4710",
+      "fte": "369",
+      "pupilTeacherRatio": "12.76",
+      "numberOfSchools": "13"
+   },
+   {
+      "name": "Frederick County Public Schools",
+      "location": {
+         "state": {
+            "name": "Maryland",
+            "abbr": "MD",
+            "county": "Frederick County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "43828",
+      "fte": "2693",
+      "pupilTeacherRatio": "16.27",
+      "numberOfSchools": "67"
+   },
+   {
+      "name": "Garrett County Public Schools",
+      "location": {
+         "state": {
+            "name": "Maryland",
+            "abbr": "MD",
+            "county": "Garrett County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "3834",
+      "fte": "291.3",
+      "pupilTeacherRatio": "13.16",
+      "numberOfSchools": "12"
+   },
+   {
+      "name": "Harford County Public Schools",
+      "location": {
+         "state": {
+            "name": "Maryland",
+            "abbr": "MD",
+            "county": "Harford County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "38429",
+      "fte": "2472.9",
+      "pupilTeacherRatio": "15.54",
+      "numberOfSchools": "54"
+   },
+   {
+      "name": "Howard County Public Schools",
+      "location": {
+         "state": {
+            "name": "Maryland",
+            "abbr": "MD",
+            "county": "Howard County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "58868",
+      "fte": "4324.5",
+      "pupilTeacherRatio": "13.61",
+      "numberOfSchools": "77"
+   },
+   {
+      "name": "Kent County Public Schools",
+      "location": {
+         "state": {
+            "name": "Maryland",
+            "abbr": "MD",
+            "county": "Kent County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "1918",
+      "fte": "163.5",
+      "pupilTeacherRatio": "11.73",
+      "numberOfSchools": "5"
+   },
+   {
+      "name": "Montgomery County Public Schools",
+      "location": {
+         "state": {
+            "name": "Maryland",
+            "abbr": "MD",
+            "county": "Montgomery County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "165267",
+      "fte": "11289.73",
+      "pupilTeacherRatio": "14.64",
+      "numberOfSchools": "209"
+   },
+   {
+      "name": "Prince George's County Public Schools",
+      "location": {
+         "state": {
+            "name": "Maryland",
+            "abbr": "MD",
+            "county": "Prince George's County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "135952",
+      "fte": "9309.51",
+      "pupilTeacherRatio": "14.6",
+      "numberOfSchools": "207"
+   },
+   {
+      "name": "Queen Anne's County Public Schools",
+      "location": {
+         "state": {
+            "name": "Maryland",
+            "abbr": "MD",
+            "county": "Queen Anne's County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "7764",
+      "fte": "525.04",
+      "pupilTeacherRatio": "14.79",
+      "numberOfSchools": "14"
+   },
+   {
+      "name": "Seed School of Maryland",
+      "location": {
+         "state": {
+            "name": "Maryland",
+            "abbr": "MD",
+            "county": "Baltimore city"
+         }
+      },
+      "type": "5-State agency providing elementary and/or secondary level instruction",
+      "grades": {
+         "lowest": "6th Grade",
+         "highest": "12th Grade"
+      },
+      "students": "401",
+      "fte": "46",
+      "pupilTeacherRatio": "8.72",
+      "numberOfSchools": "1"
+   },
+   {
+      "name": "Somerset County Public Schools",
+      "location": {
+         "state": {
+            "name": "Maryland",
+            "abbr": "MD",
+            "county": "Somerset County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "2905",
+      "fte": "232.15",
+      "pupilTeacherRatio": "12.51",
+      "numberOfSchools": "9"
+   },
+   {
+      "name": "St. Mary's County Public Schools",
+      "location": {
+         "state": {
+            "name": "Maryland",
+            "abbr": "MD",
+            "county": "St. Mary's County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "18083",
+      "fte": "1090.4",
+      "pupilTeacherRatio": "16.58",
+      "numberOfSchools": "28"
+   },
+   {
+      "name": "Talbot County Public Schools",
+      "location": {
+         "state": {
+            "name": "Maryland",
+            "abbr": "MD",
+            "county": "Talbot County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "4703",
+      "fte": "329.45",
+      "pupilTeacherRatio": "14.28",
+      "numberOfSchools": "8"
+   },
+   {
+      "name": "Washingtion County Public Schools",
+      "location": {
+         "state": {
+            "name": "Maryland",
+            "abbr": "MD",
+            "county": "Washington County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "22993",
+      "fte": "1480.96",
+      "pupilTeacherRatio": "15.53",
+      "numberOfSchools": "44"
+   },
+   {
+      "name": "Wicomico County Public Schools",
+      "location": {
+         "state": {
+            "name": "Maryland",
+            "abbr": "MD",
+            "county": "Wicomico County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "15203",
+      "fte": "1163.2",
+      "pupilTeacherRatio": "13.07",
+      "numberOfSchools": "25"
+   },
+   {
+      "name": "Worcester County Public Schools",
+      "location": {
+         "state": {
+            "name": "Maryland",
+            "abbr": "MD",
+            "county": "Worcester County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "6882",
+      "fte": "578",
+      "pupilTeacherRatio": "11.91",
+      "numberOfSchools": "14"
+   }
+]

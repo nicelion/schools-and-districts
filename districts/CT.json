@@ -1,0 +1,3916 @@
+[
+   {
+      "name": "Achievement First Bridgeport Academy District",
+      "location": {
+         "state": {
+            "name": "Connecticut",
+            "abbr": "CT",
+            "county": "Fairfield County"
+         }
+      },
+      "type": "7-Independent Charter District",
+      "grades": {
+         "lowest": "Kindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "1110",
+      "fte": "62.1",
+      "pupilTeacherRatio": "17.87",
+      "numberOfSchools": "1"
+   },
+   {
+      "name": "Achievement First Hartford Academy District",
+      "location": {
+         "state": {
+            "name": "Connecticut",
+            "abbr": "CT",
+            "county": "Hartford County"
+         }
+      },
+      "type": "7-Independent Charter District",
+      "grades": {
+         "lowest": "Kindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "1169",
+      "fte": "85.9",
+      "pupilTeacherRatio": "13.61",
+      "numberOfSchools": "1"
+   },
+   {
+      "name": "Amistad Academy District",
+      "location": {
+         "state": {
+            "name": "Connecticut",
+            "abbr": "CT",
+            "county": "New Haven County"
+         }
+      },
+      "type": "7-Independent Charter District",
+      "grades": {
+         "lowest": "Kindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "1103",
+      "fte": "106.2",
+      "pupilTeacherRatio": "10.39",
+      "numberOfSchools": "1"
+   },
+   {
+      "name": "Andover School District",
+      "location": {
+         "state": {
+            "name": "Connecticut",
+            "abbr": "CT",
+            "county": "Tolland County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "6th Grade"
+      },
+      "students": "195",
+      "fte": "22.3",
+      "pupilTeacherRatio": "8.74",
+      "numberOfSchools": "1"
+   },
+   {
+      "name": "Ansonia School District",
+      "location": {
+         "state": {
+            "name": "Connecticut",
+            "abbr": "CT",
+            "county": "New Haven County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "2265",
+      "fte": "155.2",
+      "pupilTeacherRatio": "14.59",
+      "numberOfSchools": "4"
+   },
+   {
+      "name": "Area Cooperative Educational Services",
+      "location": {
+         "state": {
+            "name": "Connecticut",
+            "abbr": "CT",
+            "county": "New Haven County"
+         }
+      },
+      "type": "9-Specialized public school district",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "1835",
+      "fte": "203.8",
+      "pupilTeacherRatio": "9",
+      "numberOfSchools": "2"
+   },
+   {
+      "name": "Ashford School District",
+      "location": {
+         "state": {
+            "name": "Connecticut",
+            "abbr": "CT",
+            "county": "Windham County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "8th Grade"
+      },
+      "students": "390",
+      "fte": "44",
+      "pupilTeacherRatio": "8.86",
+      "numberOfSchools": "1"
+   },
+   {
+      "name": "Avon School District",
+      "location": {
+         "state": {
+            "name": "Connecticut",
+            "abbr": "CT",
+            "county": "Hartford County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "3162",
+      "fte": "243.8",
+      "pupilTeacherRatio": "12.97",
+      "numberOfSchools": "5"
+   },
+   {
+      "name": "Barkhamsted School District",
+      "location": {
+         "state": {
+            "name": "Connecticut",
+            "abbr": "CT",
+            "county": "Litchfield County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "6th Grade"
+      },
+      "students": "218",
+      "fte": "17.4",
+      "pupilTeacherRatio": "12.53",
+      "numberOfSchools": "1"
+   },
+   {
+      "name": "Berlin School District",
+      "location": {
+         "state": {
+            "name": "Connecticut",
+            "abbr": "CT",
+            "county": "Hartford County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "2735",
+      "fte": "226.9",
+      "pupilTeacherRatio": "12.05",
+      "numberOfSchools": "5"
+   },
+   {
+      "name": "Bethany School District",
+      "location": {
+         "state": {
+            "name": "Connecticut",
+            "abbr": "CT",
+            "county": "New Haven County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "6th Grade"
+      },
+      "students": "369",
+      "fte": "34.5",
+      "pupilTeacherRatio": "10.7",
+      "numberOfSchools": "1"
+   },
+   {
+      "name": "Bethel School District",
+      "location": {
+         "state": {
+            "name": "Connecticut",
+            "abbr": "CT",
+            "county": "Fairfield County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "3139",
+      "fte": "236.4",
+      "pupilTeacherRatio": "13.28",
+      "numberOfSchools": "5"
+   },
+   {
+      "name": "Bloomfield School District",
+      "location": {
+         "state": {
+            "name": "Connecticut",
+            "abbr": "CT",
+            "county": "Hartford County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "2192",
+      "fte": "181",
+      "pupilTeacherRatio": "12.11",
+      "numberOfSchools": "8"
+   },
+   {
+      "name": "Bolton School District",
+      "location": {
+         "state": {
+            "name": "Connecticut",
+            "abbr": "CT",
+            "county": "Tolland County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "774",
+      "fte": "73",
+      "pupilTeacherRatio": "10.6",
+      "numberOfSchools": "2"
+   },
+   {
+      "name": "Booker T. Washington Academy District",
+      "location": {
+         "state": {
+            "name": "CONNECTICUT",
+            "abbr": "CT",
+            "county": "New Haven County"
+         }
+      },
+      "type": "7-Independent Charter District",
+      "grades": {
+         "lowest": "Kindergarten",
+         "highest": "6th Grade"
+      },
+      "students": "420",
+      "fte": "30",
+      "pupilTeacherRatio": "14",
+      "numberOfSchools": "1"
+   },
+   {
+      "name": "Bozrah School District",
+      "location": {
+         "state": {
+            "name": "Connecticut",
+            "abbr": "CT",
+            "county": "New London County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "8th Grade"
+      },
+      "students": "185",
+      "fte": "18.65",
+      "pupilTeacherRatio": "9.92",
+      "numberOfSchools": "1"
+   },
+   {
+      "name": "Branford School District",
+      "location": {
+         "state": {
+            "name": "Connecticut",
+            "abbr": "CT",
+            "county": "New Haven County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "2791",
+      "fte": "243.9",
+      "pupilTeacherRatio": "11.44",
+      "numberOfSchools": "5"
+   },
+   {
+      "name": "Brass City Charter School District",
+      "location": {
+         "state": {
+            "name": "Connecticut",
+            "abbr": "CT",
+            "county": "New Haven County"
+         }
+      },
+      "type": "7-Independent Charter District",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "7th Grade"
+      },
+      "students": "326",
+      "fte": "26.8",
+      "pupilTeacherRatio": "12.16",
+      "numberOfSchools": "1"
+   },
+   {
+      "name": "Bridgeport School District",
+      "location": {
+         "state": {
+            "name": "Connecticut",
+            "abbr": "CT",
+            "county": "Fairfield County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "20111",
+      "fte": "1377.7",
+      "pupilTeacherRatio": "14.6",
+      "numberOfSchools": "36"
+   },
+   {
+      "name": "Bristol School District",
+      "location": {
+         "state": {
+            "name": "Connecticut",
+            "abbr": "CT",
+            "county": "Hartford County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "7858",
+      "fte": "558.3",
+      "pupilTeacherRatio": "14.07",
+      "numberOfSchools": "13"
+   },
+   {
+      "name": "Brookfield School District",
+      "location": {
+         "state": {
+            "name": "Connecticut",
+            "abbr": "CT",
+            "county": "Fairfield County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "2609",
+      "fte": "199.2",
+      "pupilTeacherRatio": "13.1",
+      "numberOfSchools": "4"
+   },
+   {
+      "name": "Brooklyn School District",
+      "location": {
+         "state": {
+            "name": "Connecticut",
+            "abbr": "CT",
+            "county": "Windham County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "8th Grade"
+      },
+      "students": "903",
+      "fte": "70.3",
+      "pupilTeacherRatio": "12.84",
+      "numberOfSchools": "2"
+   },
+   {
+      "name": "Canaan School District",
+      "location": {
+         "state": {
+            "name": "Connecticut",
+            "abbr": "CT",
+            "county": "Litchfield County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Kindergarten",
+         "highest": "8th Grade"
+      },
+      "students": "67",
+      "fte": "11.4",
+      "pupilTeacherRatio": "5.88",
+      "numberOfSchools": "1"
+   },
+   {
+      "name": "Canterbury School District",
+      "location": {
+         "state": {
+            "name": "Connecticut",
+            "abbr": "CT",
+            "county": "Windham County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "8th Grade"
+      },
+      "students": "469",
+      "fte": "38",
+      "pupilTeacherRatio": "12.34",
+      "numberOfSchools": "2"
+   },
+   {
+      "name": "Canton School District",
+      "location": {
+         "state": {
+            "name": "Connecticut",
+            "abbr": "CT",
+            "county": "Hartford County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "1562",
+      "fte": "118.97",
+      "pupilTeacherRatio": "13.13",
+      "numberOfSchools": "4"
+   },
+   {
+      "name": "Capital Preparatory Harbor School District",
+      "location": {
+         "state": {
+            "name": "CONNECTICUT",
+            "abbr": "CT",
+            "county": "Fairfield County"
+         }
+      },
+      "type": "7-Independent Charter District",
+      "grades": {
+         "lowest": "Kindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "760",
+      "fte": "46.6",
+      "pupilTeacherRatio": "16.31",
+      "numberOfSchools": "1"
+   },
+   {
+      "name": "Capitol Region Education Council",
+      "location": {
+         "state": {
+            "name": "Connecticut",
+            "abbr": "CT",
+            "county": "Hartford County"
+         }
+      },
+      "type": "9-Specialized public school district",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "8653",
+      "fte": "767.31",
+      "pupilTeacherRatio": "11.28",
+      "numberOfSchools": "16"
+   },
+   {
+      "name": "Chaplin School District",
+      "location": {
+         "state": {
+            "name": "Connecticut",
+            "abbr": "CT",
+            "county": "Windham County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "6th Grade"
+      },
+      "students": "139",
+      "fte": "17.7",
+      "pupilTeacherRatio": "7.85",
+      "numberOfSchools": "1"
+   },
+   {
+      "name": "Cheshire School District",
+      "location": {
+         "state": {
+            "name": "Connecticut",
+            "abbr": "CT",
+            "county": "New Haven County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "4188",
+      "fte": "328.19",
+      "pupilTeacherRatio": "12.76",
+      "numberOfSchools": "7"
+   },
+   {
+      "name": "Chester School District",
+      "location": {
+         "state": {
+            "name": "Connecticut",
+            "abbr": "CT",
+            "county": "Middlesex County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Kindergarten",
+         "highest": "6th Grade"
+      },
+      "students": "186",
+      "fte": "20.5",
+      "pupilTeacherRatio": "9.07",
+      "numberOfSchools": "1"
+   },
+   {
+      "name": "Clinton School District",
+      "location": {
+         "state": {
+            "name": "Connecticut",
+            "abbr": "CT",
+            "county": "Middlesex County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "1679",
+      "fte": "158.89",
+      "pupilTeacherRatio": "10.57",
+      "numberOfSchools": "3"
+   },
+   {
+      "name": "Colchester School District",
+      "location": {
+         "state": {
+            "name": "Connecticut",
+            "abbr": "CT",
+            "county": "New London County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "2311",
+      "fte": "194.22",
+      "pupilTeacherRatio": "11.9",
+      "numberOfSchools": "4"
+   },
+   {
+      "name": "Colebrook School District",
+      "location": {
+         "state": {
+            "name": "Connecticut",
+            "abbr": "CT",
+            "county": "Litchfield County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Kindergarten",
+         "highest": "6th Grade"
+      },
+      "students": "74",
+      "fte": "9.2",
+      "pupilTeacherRatio": "8.04",
+      "numberOfSchools": "1"
+   },
+   {
+      "name": "Columbia School District",
+      "location": {
+         "state": {
+            "name": "Connecticut",
+            "abbr": "CT",
+            "county": "Tolland County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "8th Grade"
+      },
+      "students": "408",
+      "fte": "37.9",
+      "pupilTeacherRatio": "10.77",
+      "numberOfSchools": "1"
+   },
+   {
+      "name": "Common Ground High School District",
+      "location": {
+         "state": {
+            "name": "Connecticut",
+            "abbr": "CT",
+            "county": "New Haven County"
+         }
+      },
+      "type": "7-Independent Charter District",
+      "grades": {
+         "lowest": "9th Grade",
+         "highest": "12th Grade"
+      },
+      "students": "222",
+      "fte": "24.65",
+      "pupilTeacherRatio": "9.01",
+      "numberOfSchools": "1"
+   },
+   {
+      "name": "Connecticut Technical Education and Career System",
+      "location": {
+         "state": {
+            "name": "Connecticut",
+            "abbr": "CT",
+            "county": "Middlesex County"
+         }
+      },
+      "type": "5-State agency providing elementary and/or secondary level instruction",
+      "grades": {
+         "lowest": "9th Grade",
+         "highest": "12th Grade"
+      },
+      "students": "10993",
+      "fte": "1034.82",
+      "pupilTeacherRatio": "10.62",
+      "numberOfSchools": "17"
+   },
+   {
+      "name": "Cooperative Educational Services",
+      "location": {
+         "state": {
+            "name": "Connecticut",
+            "abbr": "CT",
+            "county": "Fairfield County"
+         }
+      },
+      "type": "9-Specialized public school district",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "859",
+      "fte": "123",
+      "pupilTeacherRatio": "6.98",
+      "numberOfSchools": "1"
+   },
+   {
+      "name": "Cornwall School District",
+      "location": {
+         "state": {
+            "name": "Connecticut",
+            "abbr": "CT",
+            "county": "Litchfield County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Kindergarten",
+         "highest": "8th Grade"
+      },
+      "students": "87",
+      "fte": "13.9",
+      "pupilTeacherRatio": "6.26",
+      "numberOfSchools": "1"
+   },
+   {
+      "name": "Coventry School District",
+      "location": {
+         "state": {
+            "name": "Connecticut",
+            "abbr": "CT",
+            "county": "Tolland County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "1673",
+      "fte": "155.3",
+      "pupilTeacherRatio": "10.77",
+      "numberOfSchools": "4"
+   },
+   {
+      "name": "Cromwell School District",
+      "location": {
+         "state": {
+            "name": "Connecticut",
+            "abbr": "CT",
+            "county": "Middlesex County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "1968",
+      "fte": "153.9",
+      "pupilTeacherRatio": "12.79",
+      "numberOfSchools": "4"
+   },
+   {
+      "name": "Danbury School District",
+      "location": {
+         "state": {
+            "name": "Connecticut",
+            "abbr": "CT",
+            "county": "Fairfield County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "11903",
+      "fte": "827.25",
+      "pupilTeacherRatio": "14.39",
+      "numberOfSchools": "18"
+   },
+   {
+      "name": "Darien School District",
+      "location": {
+         "state": {
+            "name": "Connecticut",
+            "abbr": "CT",
+            "county": "Fairfield County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "4737",
+      "fte": "422.88",
+      "pupilTeacherRatio": "11.2",
+      "numberOfSchools": "7"
+   },
+   {
+      "name": "Deep River School District",
+      "location": {
+         "state": {
+            "name": "Connecticut",
+            "abbr": "CT",
+            "county": "Middlesex County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Kindergarten",
+         "highest": "6th Grade"
+      },
+      "students": "235",
+      "fte": "24.3",
+      "pupilTeacherRatio": "9.67",
+      "numberOfSchools": "1"
+   },
+   {
+      "name": "Department of Mental Health and Addiction Services",
+      "location": {
+         "state": {
+            "name": "Connecticut",
+            "abbr": "CT",
+            "county": "Hartford County"
+         }
+      },
+      "type": "5-State agency providing elementary and/or secondary level instruction",
+      "grades": {
+         "lowest": "12th Grade",
+         "highest": "12th Grade"
+      },
+      "students": "7",
+      "fte": "1",
+      "pupilTeacherRatio": "7",
+      "numberOfSchools": "0"
+   },
+   {
+      "name": "Department of Social Services",
+      "location": {
+         "state": {
+            "name": "Connecticut",
+            "abbr": "CT",
+            "county": "Hartford County"
+         }
+      },
+      "type": "5-State agency providing elementary and/or secondary level instruction",
+      "grades": {
+         "lowest": "–",
+         "highest": "–"
+      },
+      "students": "†",
+      "fte": "†",
+      "pupilTeacherRatio": "†",
+      "numberOfSchools": "0"
+   },
+   {
+      "name": "Derby School District",
+      "location": {
+         "state": {
+            "name": "Connecticut",
+            "abbr": "CT",
+            "county": "New Haven County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "1280",
+      "fte": "113.9",
+      "pupilTeacherRatio": "11.24",
+      "numberOfSchools": "5"
+   },
+   {
+      "name": "East Granby School District",
+      "location": {
+         "state": {
+            "name": "Connecticut",
+            "abbr": "CT",
+            "county": "Hartford County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "831",
+      "fte": "83.05",
+      "pupilTeacherRatio": "10.01",
+      "numberOfSchools": "4"
+   },
+   {
+      "name": "East Haddam School District",
+      "location": {
+         "state": {
+            "name": "Connecticut",
+            "abbr": "CT",
+            "county": "Middlesex County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "996",
+      "fte": "95.8",
+      "pupilTeacherRatio": "10.4",
+      "numberOfSchools": "3"
+   },
+   {
+      "name": "East Hampton School District",
+      "location": {
+         "state": {
+            "name": "Connecticut",
+            "abbr": "CT",
+            "county": "Middlesex County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "1837",
+      "fte": "136.8",
+      "pupilTeacherRatio": "13.43",
+      "numberOfSchools": "4"
+   },
+   {
+      "name": "East Hartford School District",
+      "location": {
+         "state": {
+            "name": "Connecticut",
+            "abbr": "CT",
+            "county": "Hartford County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "6767",
+      "fte": "522.2",
+      "pupilTeacherRatio": "12.96",
+      "numberOfSchools": "12"
+   },
+   {
+      "name": "East Haven School District",
+      "location": {
+         "state": {
+            "name": "Connecticut",
+            "abbr": "CT",
+            "county": "New Haven County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "2871",
+      "fte": "226",
+      "pupilTeacherRatio": "12.7",
+      "numberOfSchools": "8"
+   },
+   {
+      "name": "East Lyme School District",
+      "location": {
+         "state": {
+            "name": "Connecticut",
+            "abbr": "CT",
+            "county": "New London County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "2687",
+      "fte": "244.25",
+      "pupilTeacherRatio": "11",
+      "numberOfSchools": "5"
+   },
+   {
+      "name": "East Windsor School District",
+      "location": {
+         "state": {
+            "name": "Connecticut",
+            "abbr": "CT",
+            "county": "Hartford County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "1067",
+      "fte": "95.8",
+      "pupilTeacherRatio": "11.14",
+      "numberOfSchools": "3"
+   },
+   {
+      "name": "Eastern Connecticut Regional Educational Service Center",
+      "location": {
+         "state": {
+            "name": "Connecticut",
+            "abbr": "CT",
+            "county": "Windham County"
+         }
+      },
+      "type": "9-Specialized public school district",
+      "grades": {
+         "lowest": "Kindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "473",
+      "fte": "71.35",
+      "pupilTeacherRatio": "6.63",
+      "numberOfSchools": "3"
+   },
+   {
+      "name": "Eastford School District",
+      "location": {
+         "state": {
+            "name": "Connecticut",
+            "abbr": "CT",
+            "county": "Windham County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "8th Grade"
+      },
+      "students": "150",
+      "fte": "15.73",
+      "pupilTeacherRatio": "9.54",
+      "numberOfSchools": "1"
+   },
+   {
+      "name": "Easton School District",
+      "location": {
+         "state": {
+            "name": "Connecticut",
+            "abbr": "CT",
+            "county": "Fairfield County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "8th Grade"
+      },
+      "students": "881",
+      "fte": "70.7",
+      "pupilTeacherRatio": "12.46",
+      "numberOfSchools": "2"
+   },
+   {
+      "name": "Education Connection",
+      "location": {
+         "state": {
+            "name": "Connecticut",
+            "abbr": "CT",
+            "county": "Fairfield County"
+         }
+      },
+      "type": "4-Regional Education Service Agency (RESA)",
+      "grades": {
+         "lowest": "1st Grade",
+         "highest": "12th Grade"
+      },
+      "students": "265",
+      "fte": "31.55",
+      "pupilTeacherRatio": "8.4",
+      "numberOfSchools": "0"
+   },
+   {
+      "name": "Ellington School District",
+      "location": {
+         "state": {
+            "name": "Connecticut",
+            "abbr": "CT",
+            "county": "Tolland County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "2676",
+      "fte": "206.7",
+      "pupilTeacherRatio": "12.95",
+      "numberOfSchools": "5"
+   },
+   {
+      "name": "Elm City College Preparatory School District",
+      "location": {
+         "state": {
+            "name": "Connecticut",
+            "abbr": "CT",
+            "county": "New Haven County"
+         }
+      },
+      "type": "7-Independent Charter District",
+      "grades": {
+         "lowest": "Kindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "767",
+      "fte": "49.66",
+      "pupilTeacherRatio": "15.45",
+      "numberOfSchools": "1"
+   },
+   {
+      "name": "Elm City Montessori School District",
+      "location": {
+         "state": {
+            "name": "CONNECTICUT",
+            "abbr": "CT",
+            "county": "New Haven County"
+         }
+      },
+      "type": "7-Independent Charter District",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "5th Grade"
+      },
+      "students": "229",
+      "fte": "6.4",
+      "pupilTeacherRatio": "35.78",
+      "numberOfSchools": "1"
+   },
+   {
+      "name": "Enfield School District",
+      "location": {
+         "state": {
+            "name": "Connecticut",
+            "abbr": "CT",
+            "county": "Hartford County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "5015",
+      "fte": "412.5",
+      "pupilTeacherRatio": "12.16",
+      "numberOfSchools": "8"
+   },
+   {
+      "name": "Essex School District",
+      "location": {
+         "state": {
+            "name": "Connecticut",
+            "abbr": "CT",
+            "county": "Middlesex County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "6th Grade"
+      },
+      "students": "330",
+      "fte": "33.8",
+      "pupilTeacherRatio": "9.76",
+      "numberOfSchools": "1"
+   },
+   {
+      "name": "Explorations District",
+      "location": {
+         "state": {
+            "name": "Connecticut",
+            "abbr": "CT",
+            "county": "Litchfield County"
+         }
+      },
+      "type": "7-Independent Charter District",
+      "grades": {
+         "lowest": "9th Grade",
+         "highest": "12th Grade"
+      },
+      "students": "93",
+      "fte": "11.4",
+      "pupilTeacherRatio": "8.16",
+      "numberOfSchools": "1"
+   },
+   {
+      "name": "Fairfield School District",
+      "location": {
+         "state": {
+            "name": "Connecticut",
+            "abbr": "CT",
+            "county": "Fairfield County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "9624",
+      "fte": "848.05",
+      "pupilTeacherRatio": "11.35",
+      "numberOfSchools": "16"
+   },
+   {
+      "name": "Farmington School District",
+      "location": {
+         "state": {
+            "name": "Connecticut",
+            "abbr": "CT",
+            "county": "Hartford County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "4149",
+      "fte": "322.5",
+      "pupilTeacherRatio": "12.87",
+      "numberOfSchools": "7"
+   },
+   {
+      "name": "Franklin School District",
+      "location": {
+         "state": {
+            "name": "Connecticut",
+            "abbr": "CT",
+            "county": "New London County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "8th Grade"
+      },
+      "students": "158",
+      "fte": "15",
+      "pupilTeacherRatio": "10.53",
+      "numberOfSchools": "1"
+   },
+   {
+      "name": "Glastonbury School District",
+      "location": {
+         "state": {
+            "name": "Connecticut",
+            "abbr": "CT",
+            "county": "Hartford County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "5814",
+      "fte": "443.7",
+      "pupilTeacherRatio": "13.1",
+      "numberOfSchools": "8"
+   },
+   {
+      "name": "Granby School District",
+      "location": {
+         "state": {
+            "name": "Connecticut",
+            "abbr": "CT",
+            "county": "Hartford County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "1790",
+      "fte": "139.5",
+      "pupilTeacherRatio": "12.83",
+      "numberOfSchools": "4"
+   },
+   {
+      "name": "Great Oaks Charter School District",
+      "location": {
+         "state": {
+            "name": "CONNECTICUT",
+            "abbr": "CT",
+            "county": "Fairfield County"
+         }
+      },
+      "type": "7-Independent Charter District",
+      "grades": {
+         "lowest": "6th Grade",
+         "highest": "11th Grade"
+      },
+      "students": "555",
+      "fte": "32",
+      "pupilTeacherRatio": "17.34",
+      "numberOfSchools": "1"
+   },
+   {
+      "name": "Greenwich School District",
+      "location": {
+         "state": {
+            "name": "Connecticut",
+            "abbr": "CT",
+            "county": "Fairfield County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "9015",
+      "fte": "747.45",
+      "pupilTeacherRatio": "12.06",
+      "numberOfSchools": "15"
+   },
+   {
+      "name": "Griswold School District",
+      "location": {
+         "state": {
+            "name": "Connecticut",
+            "abbr": "CT",
+            "county": "New London County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "1765",
+      "fte": "141.4",
+      "pupilTeacherRatio": "12.48",
+      "numberOfSchools": "4"
+   },
+   {
+      "name": "Groton School District",
+      "location": {
+         "state": {
+            "name": "Connecticut",
+            "abbr": "CT",
+            "county": "New London County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "4252",
+      "fte": "357.4",
+      "pupilTeacherRatio": "11.9",
+      "numberOfSchools": "9"
+   },
+   {
+      "name": "Guilford School District",
+      "location": {
+         "state": {
+            "name": "Connecticut",
+            "abbr": "CT",
+            "county": "New Haven County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "3236",
+      "fte": "269.4",
+      "pupilTeacherRatio": "12.01",
+      "numberOfSchools": "7"
+   },
+   {
+      "name": "Hamden School District",
+      "location": {
+         "state": {
+            "name": "Connecticut",
+            "abbr": "CT",
+            "county": "New Haven County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "5408",
+      "fte": "422.4",
+      "pupilTeacherRatio": "12.8",
+      "numberOfSchools": "10"
+   },
+   {
+      "name": "Hampton School District",
+      "location": {
+         "state": {
+            "name": "Connecticut",
+            "abbr": "CT",
+            "county": "Windham County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "6th Grade"
+      },
+      "students": "90",
+      "fte": "9.82",
+      "pupilTeacherRatio": "9.16",
+      "numberOfSchools": "1"
+   },
+   {
+      "name": "Hartford School District",
+      "location": {
+         "state": {
+            "name": "Connecticut",
+            "abbr": "CT",
+            "county": "Hartford County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "18081",
+      "fte": "1301.9",
+      "pupilTeacherRatio": "13.89",
+      "numberOfSchools": "38"
+   },
+   {
+      "name": "Hartland School District",
+      "location": {
+         "state": {
+            "name": "Connecticut",
+            "abbr": "CT",
+            "county": "Hartford County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "8th Grade"
+      },
+      "students": "157",
+      "fte": "15.8",
+      "pupilTeacherRatio": "9.94",
+      "numberOfSchools": "1"
+   },
+   {
+      "name": "Hebron School District",
+      "location": {
+         "state": {
+            "name": "Connecticut",
+            "abbr": "CT",
+            "county": "Tolland County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "6th Grade"
+      },
+      "students": "658",
+      "fte": "59",
+      "pupilTeacherRatio": "11.15",
+      "numberOfSchools": "2"
+   },
+   {
+      "name": "Highville Charter School District",
+      "location": {
+         "state": {
+            "name": "Connecticut",
+            "abbr": "CT",
+            "county": "New Haven County"
+         }
+      },
+      "type": "7-Independent Charter District",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "460",
+      "fte": "24",
+      "pupilTeacherRatio": "19.17",
+      "numberOfSchools": "1"
+   },
+   {
+      "name": "Integrated Day Charter School District",
+      "location": {
+         "state": {
+            "name": "Connecticut",
+            "abbr": "CT",
+            "county": "New London County"
+         }
+      },
+      "type": "7-Independent Charter District",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "8th Grade"
+      },
+      "students": "352",
+      "fte": "24.6",
+      "pupilTeacherRatio": "14.31",
+      "numberOfSchools": "1"
+   },
+   {
+      "name": "Interdistrict School for Arts and Comm District",
+      "location": {
+         "state": {
+            "name": "Connecticut",
+            "abbr": "CT",
+            "county": "New London County"
+         }
+      },
+      "type": "7-Independent Charter District",
+      "grades": {
+         "lowest": "6th Grade",
+         "highest": "8th Grade"
+      },
+      "students": "279",
+      "fte": "21",
+      "pupilTeacherRatio": "13.29",
+      "numberOfSchools": "1"
+   },
+   {
+      "name": "Judicial Centers",
+      "location": {
+         "state": {
+            "name": "CONNECTICUT",
+            "abbr": "CT",
+            "county": "Hartford County"
+         }
+      },
+      "type": "8-Other education agencies",
+      "grades": {
+         "lowest": "7th Grade",
+         "highest": "12th Grade"
+      },
+      "students": "67",
+      "fte": "0",
+      "pupilTeacherRatio": "†",
+      "numberOfSchools": "0"
+   },
+   {
+      "name": "Jumoke Academy District",
+      "location": {
+         "state": {
+            "name": "Connecticut",
+            "abbr": "CT",
+            "county": "Hartford County"
+         }
+      },
+      "type": "7-Independent Charter District",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "705",
+      "fte": "44.9",
+      "pupilTeacherRatio": "15.7",
+      "numberOfSchools": "1"
+   },
+   {
+      "name": "Kent School District",
+      "location": {
+         "state": {
+            "name": "Connecticut",
+            "abbr": "CT",
+            "county": "Litchfield County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "8th Grade"
+      },
+      "students": "205",
+      "fte": "28.5",
+      "pupilTeacherRatio": "7.19",
+      "numberOfSchools": "1"
+   },
+   {
+      "name": "Killingly School District",
+      "location": {
+         "state": {
+            "name": "Connecticut",
+            "abbr": "CT",
+            "county": "Windham County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "2463",
+      "fte": "203.9",
+      "pupilTeacherRatio": "12.08",
+      "numberOfSchools": "4"
+   },
+   {
+      "name": "Learn",
+      "location": {
+         "state": {
+            "name": "Connecticut",
+            "abbr": "CT",
+            "county": "New London County"
+         }
+      },
+      "type": "9-Specialized public school district",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "2518",
+      "fte": "207.65",
+      "pupilTeacherRatio": "12.13",
+      "numberOfSchools": "7"
+   },
+   {
+      "name": "Lebanon School District",
+      "location": {
+         "state": {
+            "name": "Connecticut",
+            "abbr": "CT",
+            "county": "New London County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "975",
+      "fte": "89.8",
+      "pupilTeacherRatio": "10.86",
+      "numberOfSchools": "3"
+   },
+   {
+      "name": "Ledyard School District",
+      "location": {
+         "state": {
+            "name": "Connecticut",
+            "abbr": "CT",
+            "county": "New London County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "2411",
+      "fte": "172.22",
+      "pupilTeacherRatio": "14",
+      "numberOfSchools": "5"
+   },
+   {
+      "name": "Lisbon School District",
+      "location": {
+         "state": {
+            "name": "Connecticut",
+            "abbr": "CT",
+            "county": "New London County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "8th Grade"
+      },
+      "students": "419",
+      "fte": "33.8",
+      "pupilTeacherRatio": "12.4",
+      "numberOfSchools": "1"
+   },
+   {
+      "name": "Litchfield School District",
+      "location": {
+         "state": {
+            "name": "Connecticut",
+            "abbr": "CT",
+            "county": "Litchfield County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "882",
+      "fte": "89",
+      "pupilTeacherRatio": "9.91",
+      "numberOfSchools": "4"
+   },
+   {
+      "name": "Madison School District",
+      "location": {
+         "state": {
+            "name": "Connecticut",
+            "abbr": "CT",
+            "county": "New Haven County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "2610",
+      "fte": "239.9",
+      "pupilTeacherRatio": "10.88",
+      "numberOfSchools": "5"
+   },
+   {
+      "name": "Manchester School District",
+      "location": {
+         "state": {
+            "name": "Connecticut",
+            "abbr": "CT",
+            "county": "Hartford County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "6262",
+      "fte": "578.22",
+      "pupilTeacherRatio": "10.83",
+      "numberOfSchools": "10"
+   },
+   {
+      "name": "Mansfield School District",
+      "location": {
+         "state": {
+            "name": "Connecticut",
+            "abbr": "CT",
+            "county": "Tolland County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "8th Grade"
+      },
+      "students": "1131",
+      "fte": "102.1",
+      "pupilTeacherRatio": "11.08",
+      "numberOfSchools": "4"
+   },
+   {
+      "name": "Marlborough School District",
+      "location": {
+         "state": {
+            "name": "Connecticut",
+            "abbr": "CT",
+            "county": "Hartford County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "6th Grade"
+      },
+      "students": "448",
+      "fte": "35.1",
+      "pupilTeacherRatio": "12.76",
+      "numberOfSchools": "1"
+   },
+   {
+      "name": "Meriden School District",
+      "location": {
+         "state": {
+            "name": "Connecticut",
+            "abbr": "CT",
+            "county": "New Haven County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "8117",
+      "fte": "539.04",
+      "pupilTeacherRatio": "15.06",
+      "numberOfSchools": "12"
+   },
+   {
+      "name": "Middletown School District",
+      "location": {
+         "state": {
+            "name": "Connecticut",
+            "abbr": "CT",
+            "county": "Middlesex County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "4548",
+      "fte": "362.77",
+      "pupilTeacherRatio": "12.54",
+      "numberOfSchools": "11"
+   },
+   {
+      "name": "Milford School District",
+      "location": {
+         "state": {
+            "name": "Connecticut",
+            "abbr": "CT",
+            "county": "New Haven County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "5583",
+      "fte": "523.25",
+      "pupilTeacherRatio": "10.67",
+      "numberOfSchools": "13"
+   },
+   {
+      "name": "Monroe School District",
+      "location": {
+         "state": {
+            "name": "Connecticut",
+            "abbr": "CT",
+            "county": "Fairfield County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "3123",
+      "fte": "245",
+      "pupilTeacherRatio": "12.75",
+      "numberOfSchools": "5"
+   },
+   {
+      "name": "Montville School District",
+      "location": {
+         "state": {
+            "name": "Connecticut",
+            "abbr": "CT",
+            "county": "New London County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "2046",
+      "fte": "182",
+      "pupilTeacherRatio": "11.24",
+      "numberOfSchools": "5"
+   },
+   {
+      "name": "Naugatuck School District",
+      "location": {
+         "state": {
+            "name": "Connecticut",
+            "abbr": "CT",
+            "county": "New Haven County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "4359",
+      "fte": "301",
+      "pupilTeacherRatio": "14.48",
+      "numberOfSchools": "9"
+   },
+   {
+      "name": "New Beginnings Inc Family Academy District",
+      "location": {
+         "state": {
+            "name": "Connecticut",
+            "abbr": "CT",
+            "county": "Fairfield County"
+         }
+      },
+      "type": "7-Independent Charter District",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "8th Grade"
+      },
+      "students": "505",
+      "fte": "31",
+      "pupilTeacherRatio": "16.29",
+      "numberOfSchools": "1"
+   },
+   {
+      "name": "New Britain School District",
+      "location": {
+         "state": {
+            "name": "Connecticut",
+            "abbr": "CT",
+            "county": "Hartford County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "10032",
+      "fte": "732.33",
+      "pupilTeacherRatio": "13.7",
+      "numberOfSchools": "14"
+   },
+   {
+      "name": "New Canaan School District",
+      "location": {
+         "state": {
+            "name": "Connecticut",
+            "abbr": "CT",
+            "county": "Fairfield County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "4208",
+      "fte": "342.58",
+      "pupilTeacherRatio": "12.28",
+      "numberOfSchools": "5"
+   },
+   {
+      "name": "New Fairfield School District",
+      "location": {
+         "state": {
+            "name": "Connecticut",
+            "abbr": "CT",
+            "county": "Fairfield County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "2179",
+      "fte": "190.2",
+      "pupilTeacherRatio": "11.46",
+      "numberOfSchools": "4"
+   },
+   {
+      "name": "New Hartford School District",
+      "location": {
+         "state": {
+            "name": "Connecticut",
+            "abbr": "CT",
+            "county": "Litchfield County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "6th Grade"
+      },
+      "students": "434",
+      "fte": "34.9",
+      "pupilTeacherRatio": "12.44",
+      "numberOfSchools": "3"
+   },
+   {
+      "name": "New Haven School District",
+      "location": {
+         "state": {
+            "name": "Connecticut",
+            "abbr": "CT",
+            "county": "New Haven County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "20468",
+      "fte": "1558.4",
+      "pupilTeacherRatio": "13.13",
+      "numberOfSchools": "39"
+   },
+   {
+      "name": "New London School District",
+      "location": {
+         "state": {
+            "name": "Connecticut",
+            "abbr": "CT",
+            "county": "New London County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "3391",
+      "fte": "263.9",
+      "pupilTeacherRatio": "12.85",
+      "numberOfSchools": "8"
+   },
+   {
+      "name": "New Milford School District",
+      "location": {
+         "state": {
+            "name": "Connecticut",
+            "abbr": "CT",
+            "county": "Litchfield County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "3930",
+      "fte": "315.14",
+      "pupilTeacherRatio": "12.47",
+      "numberOfSchools": "5"
+   },
+   {
+      "name": "Newington School District",
+      "location": {
+         "state": {
+            "name": "Connecticut",
+            "abbr": "CT",
+            "county": "Hartford County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "3993",
+      "fte": "298.17",
+      "pupilTeacherRatio": "13.39",
+      "numberOfSchools": "7"
+   },
+   {
+      "name": "Newtown School District",
+      "location": {
+         "state": {
+            "name": "Connecticut",
+            "abbr": "CT",
+            "county": "Fairfield County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "4162",
+      "fte": "340.21",
+      "pupilTeacherRatio": "12.23",
+      "numberOfSchools": "7"
+   },
+   {
+      "name": "Norfolk School District",
+      "location": {
+         "state": {
+            "name": "Connecticut",
+            "abbr": "CT",
+            "county": "Litchfield County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "6th Grade"
+      },
+      "students": "73",
+      "fte": "9.3",
+      "pupilTeacherRatio": "7.85",
+      "numberOfSchools": "1"
+   },
+   {
+      "name": "North Branford School District",
+      "location": {
+         "state": {
+            "name": "Connecticut",
+            "abbr": "CT",
+            "county": "New Haven County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "1692",
+      "fte": "139.4",
+      "pupilTeacherRatio": "12.14",
+      "numberOfSchools": "4"
+   },
+   {
+      "name": "North Canaan School District",
+      "location": {
+         "state": {
+            "name": "Connecticut",
+            "abbr": "CT",
+            "county": "Litchfield County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "8th Grade"
+      },
+      "students": "253",
+      "fte": "28.17",
+      "pupilTeacherRatio": "8.98",
+      "numberOfSchools": "1"
+   },
+   {
+      "name": "North Haven School District",
+      "location": {
+         "state": {
+            "name": "Connecticut",
+            "abbr": "CT",
+            "county": "New Haven County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "3160",
+      "fte": "262.4",
+      "pupilTeacherRatio": "12.04",
+      "numberOfSchools": "6"
+   },
+   {
+      "name": "North Stonington School District",
+      "location": {
+         "state": {
+            "name": "Connecticut",
+            "abbr": "CT",
+            "county": "New London County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "741",
+      "fte": "73.8",
+      "pupilTeacherRatio": "10.04",
+      "numberOfSchools": "2"
+   },
+   {
+      "name": "Norwalk School District",
+      "location": {
+         "state": {
+            "name": "Connecticut",
+            "abbr": "CT",
+            "county": "Fairfield County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "11642",
+      "fte": "882.6",
+      "pupilTeacherRatio": "13.19",
+      "numberOfSchools": "21"
+   },
+   {
+      "name": "Norwich Free Academy District",
+      "location": {
+         "state": {
+            "name": "Connecticut",
+            "abbr": "CT",
+            "county": "New London County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "9th Grade",
+         "highest": "12th Grade"
+      },
+      "students": "2266",
+      "fte": "171.8",
+      "pupilTeacherRatio": "13.19",
+      "numberOfSchools": "1"
+   },
+   {
+      "name": "Norwich School District",
+      "location": {
+         "state": {
+            "name": "Connecticut",
+            "abbr": "CT",
+            "county": "New London County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "3488",
+      "fte": "251",
+      "pupilTeacherRatio": "13.9",
+      "numberOfSchools": "10"
+   },
+   {
+      "name": "Odyssey Community School District",
+      "location": {
+         "state": {
+            "name": "Connecticut",
+            "abbr": "CT",
+            "county": "Hartford County"
+         }
+      },
+      "type": "7-Independent Charter District",
+      "grades": {
+         "lowest": "Kindergarten",
+         "highest": "8th Grade"
+      },
+      "students": "329",
+      "fte": "31",
+      "pupilTeacherRatio": "10.61",
+      "numberOfSchools": "1"
+   },
+   {
+      "name": "Office of Early Childhood",
+      "location": {
+         "state": {
+            "name": "Connecticut",
+            "abbr": "CT",
+            "county": "Hartford County"
+         }
+      },
+      "type": "5-State agency providing elementary and/or secondary level instruction",
+      "grades": {
+         "lowest": "–",
+         "highest": "–"
+      },
+      "students": "†",
+      "fte": "†",
+      "pupilTeacherRatio": "†",
+      "numberOfSchools": "0"
+   },
+   {
+      "name": "Old Saybrook School District",
+      "location": {
+         "state": {
+            "name": "Connecticut",
+            "abbr": "CT",
+            "county": "Middlesex County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "1191",
+      "fte": "129.53",
+      "pupilTeacherRatio": "9.19",
+      "numberOfSchools": "3"
+   },
+   {
+      "name": "Orange School District",
+      "location": {
+         "state": {
+            "name": "Connecticut",
+            "abbr": "CT",
+            "county": "New Haven County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "6th Grade"
+      },
+      "students": "1234",
+      "fte": "108.76",
+      "pupilTeacherRatio": "11.35",
+      "numberOfSchools": "4"
+   },
+   {
+      "name": "Oxford School District",
+      "location": {
+         "state": {
+            "name": "Connecticut",
+            "abbr": "CT",
+            "county": "New Haven County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "1712",
+      "fte": "145.2",
+      "pupilTeacherRatio": "11.79",
+      "numberOfSchools": "4"
+   },
+   {
+      "name": "Park City Prep Charter School District",
+      "location": {
+         "state": {
+            "name": "Connecticut",
+            "abbr": "CT",
+            "county": "Fairfield County"
+         }
+      },
+      "type": "7-Independent Charter District",
+      "grades": {
+         "lowest": "5th Grade",
+         "highest": "8th Grade"
+      },
+      "students": "361",
+      "fte": "18",
+      "pupilTeacherRatio": "20.06",
+      "numberOfSchools": "1"
+   },
+   {
+      "name": "Plainfield School District",
+      "location": {
+         "state": {
+            "name": "Connecticut",
+            "abbr": "CT",
+            "county": "Windham County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "2162",
+      "fte": "162.1",
+      "pupilTeacherRatio": "13.34",
+      "numberOfSchools": "5"
+   },
+   {
+      "name": "Plainville School District",
+      "location": {
+         "state": {
+            "name": "Connecticut",
+            "abbr": "CT",
+            "county": "Hartford County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "2345",
+      "fte": "195.8",
+      "pupilTeacherRatio": "11.98",
+      "numberOfSchools": "5"
+   },
+   {
+      "name": "Plymouth School District",
+      "location": {
+         "state": {
+            "name": "Connecticut",
+            "abbr": "CT",
+            "county": "Litchfield County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "1358",
+      "fte": "112.9",
+      "pupilTeacherRatio": "12.03",
+      "numberOfSchools": "4"
+   },
+   {
+      "name": "Pomfret School District",
+      "location": {
+         "state": {
+            "name": "Connecticut",
+            "abbr": "CT",
+            "county": "Windham County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "8th Grade"
+      },
+      "students": "382",
+      "fte": "34.2",
+      "pupilTeacherRatio": "11.17",
+      "numberOfSchools": "1"
+   },
+   {
+      "name": "Portland School District",
+      "location": {
+         "state": {
+            "name": "Connecticut",
+            "abbr": "CT",
+            "county": "Middlesex County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "1296",
+      "fte": "105.6",
+      "pupilTeacherRatio": "12.27",
+      "numberOfSchools": "5"
+   },
+   {
+      "name": "Preston School District",
+      "location": {
+         "state": {
+            "name": "Connecticut",
+            "abbr": "CT",
+            "county": "New London County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "8th Grade"
+      },
+      "students": "433",
+      "fte": "38",
+      "pupilTeacherRatio": "11.39",
+      "numberOfSchools": "2"
+   },
+   {
+      "name": "Project Oceanology",
+      "location": {
+         "state": {
+            "name": "CONNECTICUT",
+            "abbr": "CT",
+            "county": "New London County"
+         }
+      },
+      "type": "4-Regional Education Service Agency (RESA)",
+      "grades": {
+         "lowest": "–",
+         "highest": "–"
+      },
+      "students": "†",
+      "fte": "†",
+      "pupilTeacherRatio": "†",
+      "numberOfSchools": "0"
+   },
+   {
+      "name": "Putnam School District",
+      "location": {
+         "state": {
+            "name": "Connecticut",
+            "abbr": "CT",
+            "county": "Windham County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "1160",
+      "fte": "97.6",
+      "pupilTeacherRatio": "11.89",
+      "numberOfSchools": "3"
+   },
+   {
+      "name": "Redding School District",
+      "location": {
+         "state": {
+            "name": "Connecticut",
+            "abbr": "CT",
+            "county": "Fairfield County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "8th Grade"
+      },
+      "students": "832",
+      "fte": "74.6",
+      "pupilTeacherRatio": "11.15",
+      "numberOfSchools": "2"
+   },
+   {
+      "name": "Regional School District 01",
+      "location": {
+         "state": {
+            "name": "Connecticut",
+            "abbr": "CT",
+            "county": "Litchfield County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "3rd Grade",
+         "highest": "12th Grade"
+      },
+      "students": "360",
+      "fte": "38.5",
+      "pupilTeacherRatio": "9.35",
+      "numberOfSchools": "1"
+   },
+   {
+      "name": "Regional School District 04",
+      "location": {
+         "state": {
+            "name": "Connecticut",
+            "abbr": "CT",
+            "county": "Middlesex County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "7th Grade",
+         "highest": "12th Grade"
+      },
+      "students": "847",
+      "fte": "74.4",
+      "pupilTeacherRatio": "11.38",
+      "numberOfSchools": "2"
+   },
+   {
+      "name": "Regional School District 05",
+      "location": {
+         "state": {
+            "name": "Connecticut",
+            "abbr": "CT",
+            "county": "New Haven County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "7th Grade",
+         "highest": "12th Grade"
+      },
+      "students": "2168",
+      "fte": "189.4",
+      "pupilTeacherRatio": "11.45",
+      "numberOfSchools": "3"
+   },
+   {
+      "name": "Regional School District 06",
+      "location": {
+         "state": {
+            "name": "Connecticut",
+            "abbr": "CT",
+            "county": "Litchfield County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "913",
+      "fte": "84.1",
+      "pupilTeacherRatio": "10.86",
+      "numberOfSchools": "4"
+   },
+   {
+      "name": "Regional School District 07",
+      "location": {
+         "state": {
+            "name": "Connecticut",
+            "abbr": "CT",
+            "county": "Litchfield County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "7th Grade",
+         "highest": "12th Grade"
+      },
+      "students": "1027",
+      "fte": "87.76",
+      "pupilTeacherRatio": "11.7",
+      "numberOfSchools": "2"
+   },
+   {
+      "name": "Regional School District 08",
+      "location": {
+         "state": {
+            "name": "Connecticut",
+            "abbr": "CT",
+            "county": "Tolland County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "7th Grade",
+         "highest": "12th Grade"
+      },
+      "students": "1391",
+      "fte": "141.3",
+      "pupilTeacherRatio": "9.84",
+      "numberOfSchools": "2"
+   },
+   {
+      "name": "Regional School District 09",
+      "location": {
+         "state": {
+            "name": "Connecticut",
+            "abbr": "CT",
+            "county": "Fairfield County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "9th Grade",
+         "highest": "12th Grade"
+      },
+      "students": "855",
+      "fte": "60.06",
+      "pupilTeacherRatio": "14.24",
+      "numberOfSchools": "1"
+   },
+   {
+      "name": "Regional School District 10",
+      "location": {
+         "state": {
+            "name": "Connecticut",
+            "abbr": "CT",
+            "county": "Hartford County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "2225",
+      "fte": "184.4",
+      "pupilTeacherRatio": "12.07",
+      "numberOfSchools": "4"
+   },
+   {
+      "name": "Regional School District 11",
+      "location": {
+         "state": {
+            "name": "Connecticut",
+            "abbr": "CT",
+            "county": "Windham County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "7th Grade",
+         "highest": "12th Grade"
+      },
+      "students": "203",
+      "fte": "28.6",
+      "pupilTeacherRatio": "7.1",
+      "numberOfSchools": "1"
+   },
+   {
+      "name": "Regional School District 12",
+      "location": {
+         "state": {
+            "name": "Connecticut",
+            "abbr": "CT",
+            "county": "Litchfield County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "705",
+      "fte": "82.55",
+      "pupilTeacherRatio": "8.54",
+      "numberOfSchools": "4"
+   },
+   {
+      "name": "Regional School District 13",
+      "location": {
+         "state": {
+            "name": "Connecticut",
+            "abbr": "CT",
+            "county": "Middlesex County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "1509",
+      "fte": "148.4",
+      "pupilTeacherRatio": "10.17",
+      "numberOfSchools": "5"
+   },
+   {
+      "name": "Regional School District 14",
+      "location": {
+         "state": {
+            "name": "Connecticut",
+            "abbr": "CT",
+            "county": "Litchfield County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "1584",
+      "fte": "140.8",
+      "pupilTeacherRatio": "11.25",
+      "numberOfSchools": "4"
+   },
+   {
+      "name": "Regional School District 15",
+      "location": {
+         "state": {
+            "name": "Connecticut",
+            "abbr": "CT",
+            "county": "New Haven County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "3646",
+      "fte": "286.4",
+      "pupilTeacherRatio": "12.73",
+      "numberOfSchools": "7"
+   },
+   {
+      "name": "Regional School District 16",
+      "location": {
+         "state": {
+            "name": "Connecticut",
+            "abbr": "CT",
+            "county": "New Haven County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "2073",
+      "fte": "170.2",
+      "pupilTeacherRatio": "12.18",
+      "numberOfSchools": "4"
+   },
+   {
+      "name": "Regional School District 17",
+      "location": {
+         "state": {
+            "name": "Connecticut",
+            "abbr": "CT",
+            "county": "Middlesex County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "1941",
+      "fte": "173.03",
+      "pupilTeacherRatio": "11.22",
+      "numberOfSchools": "5"
+   },
+   {
+      "name": "Regional School District 18",
+      "location": {
+         "state": {
+            "name": "Connecticut",
+            "abbr": "CT",
+            "county": "New London County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "1288",
+      "fte": "118.3",
+      "pupilTeacherRatio": "10.89",
+      "numberOfSchools": "5"
+   },
+   {
+      "name": "Regional School District 19",
+      "location": {
+         "state": {
+            "name": "Connecticut",
+            "abbr": "CT",
+            "county": "Tolland County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "9th Grade",
+         "highest": "12th Grade"
+      },
+      "students": "1098",
+      "fte": "100.3",
+      "pupilTeacherRatio": "10.95",
+      "numberOfSchools": "1"
+   },
+   {
+      "name": "Ridgefield School District",
+      "location": {
+         "state": {
+            "name": "Connecticut",
+            "abbr": "CT",
+            "county": "Fairfield County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "4679",
+      "fte": "385.14",
+      "pupilTeacherRatio": "12.15",
+      "numberOfSchools": "9"
+   },
+   {
+      "name": "Rocky Hill School District",
+      "location": {
+         "state": {
+            "name": "Connecticut",
+            "abbr": "CT",
+            "county": "Hartford County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "2698",
+      "fte": "217.5",
+      "pupilTeacherRatio": "12.4",
+      "numberOfSchools": "5"
+   },
+   {
+      "name": "Salem School District",
+      "location": {
+         "state": {
+            "name": "Connecticut",
+            "abbr": "CT",
+            "county": "New London County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "8th Grade"
+      },
+      "students": "415",
+      "fte": "34.95",
+      "pupilTeacherRatio": "11.87",
+      "numberOfSchools": "1"
+   },
+   {
+      "name": "Salisbury School District",
+      "location": {
+         "state": {
+            "name": "Connecticut",
+            "abbr": "CT",
+            "county": "Litchfield County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "8th Grade"
+      },
+      "students": "284",
+      "fte": "34.34",
+      "pupilTeacherRatio": "8.27",
+      "numberOfSchools": "1"
+   },
+   {
+      "name": "Scotland School District",
+      "location": {
+         "state": {
+            "name": "Connecticut",
+            "abbr": "CT",
+            "county": "Windham County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "6th Grade"
+      },
+      "students": "106",
+      "fte": "12.1",
+      "pupilTeacherRatio": "8.76",
+      "numberOfSchools": "1"
+   },
+   {
+      "name": "Seymour School District",
+      "location": {
+         "state": {
+            "name": "Connecticut",
+            "abbr": "CT",
+            "county": "New Haven County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "2160",
+      "fte": "165.5",
+      "pupilTeacherRatio": "13.05",
+      "numberOfSchools": "4"
+   },
+   {
+      "name": "Shared Services",
+      "location": {
+         "state": {
+            "name": "CONNECTICUT",
+            "abbr": "CT",
+            "county": "Litchfield County"
+         }
+      },
+      "type": "4-Regional Education Service Agency (RESA)",
+      "grades": {
+         "lowest": "–",
+         "highest": "–"
+      },
+      "students": "†",
+      "fte": "†",
+      "pupilTeacherRatio": "†",
+      "numberOfSchools": "0"
+   },
+   {
+      "name": "Sharon School District",
+      "location": {
+         "state": {
+            "name": "Connecticut",
+            "abbr": "CT",
+            "county": "Litchfield County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "8th Grade"
+      },
+      "students": "103",
+      "fte": "20",
+      "pupilTeacherRatio": "5.15",
+      "numberOfSchools": "1"
+   },
+   {
+      "name": "Shelton School District",
+      "location": {
+         "state": {
+            "name": "Connecticut",
+            "abbr": "CT",
+            "county": "Fairfield County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "4654",
+      "fte": "335.5",
+      "pupilTeacherRatio": "13.87",
+      "numberOfSchools": "8"
+   },
+   {
+      "name": "Sherman School District",
+      "location": {
+         "state": {
+            "name": "Connecticut",
+            "abbr": "CT",
+            "county": "Fairfield County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "8th Grade"
+      },
+      "students": "274",
+      "fte": "32.5",
+      "pupilTeacherRatio": "8.43",
+      "numberOfSchools": "1"
+   },
+   {
+      "name": "Side by Side Charter School District",
+      "location": {
+         "state": {
+            "name": "Connecticut",
+            "abbr": "CT",
+            "county": "Fairfield County"
+         }
+      },
+      "type": "7-Independent Charter District",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "8th Grade"
+      },
+      "students": "236",
+      "fte": "14.5",
+      "pupilTeacherRatio": "16.28",
+      "numberOfSchools": "1"
+   },
+   {
+      "name": "Simsbury School District",
+      "location": {
+         "state": {
+            "name": "Connecticut",
+            "abbr": "CT",
+            "county": "Hartford County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "4064",
+      "fte": "309.32",
+      "pupilTeacherRatio": "13.14",
+      "numberOfSchools": "7"
+   },
+   {
+      "name": "Somers School District",
+      "location": {
+         "state": {
+            "name": "Connecticut",
+            "abbr": "CT",
+            "county": "Tolland County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "1349",
+      "fte": "124.9",
+      "pupilTeacherRatio": "10.8",
+      "numberOfSchools": "3"
+   },
+   {
+      "name": "South Windsor School District",
+      "location": {
+         "state": {
+            "name": "Connecticut",
+            "abbr": "CT",
+            "county": "Hartford County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "4536",
+      "fte": "362.75",
+      "pupilTeacherRatio": "12.5",
+      "numberOfSchools": "6"
+   },
+   {
+      "name": "Southington School District",
+      "location": {
+         "state": {
+            "name": "Connecticut",
+            "abbr": "CT",
+            "county": "Hartford County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "6298",
+      "fte": "492.06",
+      "pupilTeacherRatio": "12.8",
+      "numberOfSchools": "12"
+   },
+   {
+      "name": "Sprague School District",
+      "location": {
+         "state": {
+            "name": "Connecticut",
+            "abbr": "CT",
+            "county": "New London County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "8th Grade"
+      },
+      "students": "272",
+      "fte": "23",
+      "pupilTeacherRatio": "11.83",
+      "numberOfSchools": "1"
+   },
+   {
+      "name": "Stafford School District",
+      "location": {
+         "state": {
+            "name": "Connecticut",
+            "abbr": "CT",
+            "county": "Tolland County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "1448",
+      "fte": "135.5",
+      "pupilTeacherRatio": "10.69",
+      "numberOfSchools": "5"
+   },
+   {
+      "name": "Stamford Academy District",
+      "location": {
+         "state": {
+            "name": "Connecticut",
+            "abbr": "CT",
+            "county": "Fairfield County"
+         }
+      },
+      "type": "7-Independent Charter District",
+      "grades": {
+         "lowest": "9th Grade",
+         "highest": "12th Grade"
+      },
+      "students": "147",
+      "fte": "16",
+      "pupilTeacherRatio": "9.19",
+      "numberOfSchools": "1"
+   },
+   {
+      "name": "Stamford Charter School for Excellence District",
+      "location": {
+         "state": {
+            "name": "CONNECTICUT",
+            "abbr": "CT",
+            "county": "Fairfield County"
+         }
+      },
+      "type": "7-Independent Charter District",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "5th Grade"
+      },
+      "students": "395",
+      "fte": "28",
+      "pupilTeacherRatio": "14.11",
+      "numberOfSchools": "1"
+   },
+   {
+      "name": "Stamford School District",
+      "location": {
+         "state": {
+            "name": "Connecticut",
+            "abbr": "CT",
+            "county": "Fairfield County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "16479",
+      "fte": "1317.58",
+      "pupilTeacherRatio": "12.51",
+      "numberOfSchools": "21"
+   },
+   {
+      "name": "Sterling School District",
+      "location": {
+         "state": {
+            "name": "Connecticut",
+            "abbr": "CT",
+            "county": "Windham County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "8th Grade"
+      },
+      "students": "360",
+      "fte": "32",
+      "pupilTeacherRatio": "11.25",
+      "numberOfSchools": "1"
+   },
+   {
+      "name": "Stonington School District",
+      "location": {
+         "state": {
+            "name": "Connecticut",
+            "abbr": "CT",
+            "county": "New London County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "1953",
+      "fte": "172.8",
+      "pupilTeacherRatio": "11.3",
+      "numberOfSchools": "4"
+   },
+   {
+      "name": "Stratford School District",
+      "location": {
+         "state": {
+            "name": "Connecticut",
+            "abbr": "CT",
+            "county": "Fairfield County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "6795",
+      "fte": "513.28",
+      "pupilTeacherRatio": "13.24",
+      "numberOfSchools": "13"
+   },
+   {
+      "name": "Suffield School District",
+      "location": {
+         "state": {
+            "name": "Connecticut",
+            "abbr": "CT",
+            "county": "Hartford County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "2109",
+      "fte": "174.1",
+      "pupilTeacherRatio": "12.11",
+      "numberOfSchools": "4"
+   },
+   {
+      "name": "The Bridge Academy District",
+      "location": {
+         "state": {
+            "name": "Connecticut",
+            "abbr": "CT",
+            "county": "Fairfield County"
+         }
+      },
+      "type": "7-Independent Charter District",
+      "grades": {
+         "lowest": "7th Grade",
+         "highest": "12th Grade"
+      },
+      "students": "281",
+      "fte": "15.5",
+      "pupilTeacherRatio": "18.13",
+      "numberOfSchools": "1"
+   },
+   {
+      "name": "The Gilbert School District",
+      "location": {
+         "state": {
+            "name": "Connecticut",
+            "abbr": "CT",
+            "county": "Litchfield County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "7th Grade",
+         "highest": "12th Grade"
+      },
+      "students": "466",
+      "fte": "40",
+      "pupilTeacherRatio": "11.65",
+      "numberOfSchools": "1"
+   },
+   {
+      "name": "The Woodstock Academy District",
+      "location": {
+         "state": {
+            "name": "Connecticut",
+            "abbr": "CT",
+            "county": "Windham County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "9th Grade",
+         "highest": "12th Grade"
+      },
+      "students": "1107",
+      "fte": "72.31",
+      "pupilTeacherRatio": "15.31",
+      "numberOfSchools": "1"
+   },
+   {
+      "name": "Thomaston School District",
+      "location": {
+         "state": {
+            "name": "Connecticut",
+            "abbr": "CT",
+            "county": "Litchfield County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "848",
+      "fte": "67",
+      "pupilTeacherRatio": "12.66",
+      "numberOfSchools": "3"
+   },
+   {
+      "name": "Thompson School District",
+      "location": {
+         "state": {
+            "name": "Connecticut",
+            "abbr": "CT",
+            "county": "Windham County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "974",
+      "fte": "86.9",
+      "pupilTeacherRatio": "11.21",
+      "numberOfSchools": "3"
+   },
+   {
+      "name": "Tolland School District",
+      "location": {
+         "state": {
+            "name": "Connecticut",
+            "abbr": "CT",
+            "county": "Tolland County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "2331",
+      "fte": "180.5",
+      "pupilTeacherRatio": "12.91",
+      "numberOfSchools": "4"
+   },
+   {
+      "name": "Torrington School District",
+      "location": {
+         "state": {
+            "name": "Connecticut",
+            "abbr": "CT",
+            "county": "Litchfield County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "3788",
+      "fte": "292.4",
+      "pupilTeacherRatio": "12.95",
+      "numberOfSchools": "6"
+   },
+   {
+      "name": "Trumbull School District",
+      "location": {
+         "state": {
+            "name": "Connecticut",
+            "abbr": "CT",
+            "county": "Fairfield County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "6787",
+      "fte": "502.7",
+      "pupilTeacherRatio": "13.5",
+      "numberOfSchools": "9"
+   },
+   {
+      "name": "Unified School District #1",
+      "location": {
+         "state": {
+            "name": "Connecticut",
+            "abbr": "CT",
+            "county": "Hartford County"
+         }
+      },
+      "type": "5-State agency providing elementary and/or secondary level instruction",
+      "grades": {
+         "lowest": "8th Grade",
+         "highest": "12th Grade"
+      },
+      "students": "158",
+      "fte": "108",
+      "pupilTeacherRatio": "1.46",
+      "numberOfSchools": "0"
+   },
+   {
+      "name": "Unified School District #2",
+      "location": {
+         "state": {
+            "name": "Connecticut",
+            "abbr": "CT",
+            "county": "Hartford County"
+         }
+      },
+      "type": "5-State agency providing elementary and/or secondary level instruction",
+      "grades": {
+         "lowest": "6th Grade",
+         "highest": "12th Grade"
+      },
+      "students": "68",
+      "fte": "37",
+      "pupilTeacherRatio": "1.84",
+      "numberOfSchools": "0"
+   },
+   {
+      "name": "Union School District",
+      "location": {
+         "state": {
+            "name": "Connecticut",
+            "abbr": "CT",
+            "county": "Tolland County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "8th Grade"
+      },
+      "students": "46",
+      "fte": "7.85",
+      "pupilTeacherRatio": "5.86",
+      "numberOfSchools": "1"
+   },
+   {
+      "name": "Vernon School District",
+      "location": {
+         "state": {
+            "name": "Connecticut",
+            "abbr": "CT",
+            "county": "Tolland County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "3134",
+      "fte": "273.7",
+      "pupilTeacherRatio": "11.45",
+      "numberOfSchools": "7"
+   },
+   {
+      "name": "Voluntown School District",
+      "location": {
+         "state": {
+            "name": "Connecticut",
+            "abbr": "CT",
+            "county": "New London County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "8th Grade"
+      },
+      "students": "261",
+      "fte": "28",
+      "pupilTeacherRatio": "9.32",
+      "numberOfSchools": "1"
+   },
+   {
+      "name": "Wallingford School District",
+      "location": {
+         "state": {
+            "name": "Connecticut",
+            "abbr": "CT",
+            "county": "New Haven County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "5649",
+      "fte": "518.8",
+      "pupilTeacherRatio": "10.89",
+      "numberOfSchools": "12"
+   },
+   {
+      "name": "Waterbury School District",
+      "location": {
+         "state": {
+            "name": "Connecticut",
+            "abbr": "CT",
+            "county": "New Haven County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "18697",
+      "fte": "1417.67",
+      "pupilTeacherRatio": "13.19",
+      "numberOfSchools": "29"
+   },
+   {
+      "name": "Waterford School District",
+      "location": {
+         "state": {
+            "name": "Connecticut",
+            "abbr": "CT",
+            "county": "New London County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "2445",
+      "fte": "220.43",
+      "pupilTeacherRatio": "11.09",
+      "numberOfSchools": "5"
+   },
+   {
+      "name": "Watertown School District",
+      "location": {
+         "state": {
+            "name": "Connecticut",
+            "abbr": "CT",
+            "county": "Litchfield County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "2705",
+      "fte": "205.45",
+      "pupilTeacherRatio": "13.17",
+      "numberOfSchools": "5"
+   },
+   {
+      "name": "West Hartford School District",
+      "location": {
+         "state": {
+            "name": "Connecticut",
+            "abbr": "CT",
+            "county": "Hartford County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "9437",
+      "fte": "753.91",
+      "pupilTeacherRatio": "12.52",
+      "numberOfSchools": "16"
+   },
+   {
+      "name": "West Haven School District",
+      "location": {
+         "state": {
+            "name": "Connecticut",
+            "abbr": "CT",
+            "county": "New Haven County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "5756",
+      "fte": "458",
+      "pupilTeacherRatio": "12.57",
+      "numberOfSchools": "9"
+   },
+   {
+      "name": "Westbrook School District",
+      "location": {
+         "state": {
+            "name": "Connecticut",
+            "abbr": "CT",
+            "county": "Middlesex County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "664",
+      "fte": "91.6",
+      "pupilTeacherRatio": "7.25",
+      "numberOfSchools": "3"
+   },
+   {
+      "name": "Weston School District",
+      "location": {
+         "state": {
+            "name": "Connecticut",
+            "abbr": "CT",
+            "county": "Fairfield County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "2282",
+      "fte": "182.86",
+      "pupilTeacherRatio": "12.48",
+      "numberOfSchools": "4"
+   },
+   {
+      "name": "Westport School District",
+      "location": {
+         "state": {
+            "name": "Connecticut",
+            "abbr": "CT",
+            "county": "Fairfield County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "5312",
+      "fte": "473.2",
+      "pupilTeacherRatio": "11.23",
+      "numberOfSchools": "7"
+   },
+   {
+      "name": "Wethersfield School District",
+      "location": {
+         "state": {
+            "name": "Connecticut",
+            "abbr": "CT",
+            "county": "Hartford County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "3575",
+      "fte": "270.5",
+      "pupilTeacherRatio": "13.22",
+      "numberOfSchools": "7"
+   },
+   {
+      "name": "Willington School District",
+      "location": {
+         "state": {
+            "name": "Connecticut",
+            "abbr": "CT",
+            "county": "Tolland County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "8th Grade"
+      },
+      "students": "438",
+      "fte": "43.1",
+      "pupilTeacherRatio": "10.16",
+      "numberOfSchools": "2"
+   },
+   {
+      "name": "Wilton School District",
+      "location": {
+         "state": {
+            "name": "Connecticut",
+            "abbr": "CT",
+            "county": "Fairfield County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "3843",
+      "fte": "306.84",
+      "pupilTeacherRatio": "12.52",
+      "numberOfSchools": "4"
+   },
+   {
+      "name": "Winchester School District",
+      "location": {
+         "state": {
+            "name": "Connecticut",
+            "abbr": "CT",
+            "county": "Litchfield County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "6th Grade"
+      },
+      "students": "557",
+      "fte": "53",
+      "pupilTeacherRatio": "10.51",
+      "numberOfSchools": "2"
+   },
+   {
+      "name": "Windham School District",
+      "location": {
+         "state": {
+            "name": "Connecticut",
+            "abbr": "CT",
+            "county": "Windham County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "3321",
+      "fte": "271.11",
+      "pupilTeacherRatio": "12.25",
+      "numberOfSchools": "7"
+   },
+   {
+      "name": "Windsor Locks School District",
+      "location": {
+         "state": {
+            "name": "Connecticut",
+            "abbr": "CT",
+            "county": "Hartford County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "1587",
+      "fte": "168.5",
+      "pupilTeacherRatio": "9.42",
+      "numberOfSchools": "4"
+   },
+   {
+      "name": "Windsor School District",
+      "location": {
+         "state": {
+            "name": "Connecticut",
+            "abbr": "CT",
+            "county": "Hartford County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "3303",
+      "fte": "324.8",
+      "pupilTeacherRatio": "10.17",
+      "numberOfSchools": "6"
+   },
+   {
+      "name": "Wolcott School District",
+      "location": {
+         "state": {
+            "name": "Connecticut",
+            "abbr": "CT",
+            "county": "New Haven County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "2188",
+      "fte": "189.05",
+      "pupilTeacherRatio": "11.57",
+      "numberOfSchools": "5"
+   },
+   {
+      "name": "Woodbridge School District",
+      "location": {
+         "state": {
+            "name": "Connecticut",
+            "abbr": "CT",
+            "county": "New Haven County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "6th Grade"
+      },
+      "students": "838",
+      "fte": "72.5",
+      "pupilTeacherRatio": "11.56",
+      "numberOfSchools": "1"
+   },
+   {
+      "name": "Woodstock School District",
+      "location": {
+         "state": {
+            "name": "Connecticut",
+            "abbr": "CT",
+            "county": "Windham County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "8th Grade"
+      },
+      "students": "816",
+      "fte": "63.3",
+      "pupilTeacherRatio": "12.89",
+      "numberOfSchools": "2"
+   }
+]

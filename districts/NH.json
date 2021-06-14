@@ -1,0 +1,5892 @@
+[
+   {
+      "name": "Academy for Science and Design Charter School",
+      "location": {
+         "state": {
+            "name": "New Hampshire",
+            "abbr": "NH",
+            "county": "Hillsborough County"
+         }
+      },
+      "type": "7-Independent Charter District",
+      "grades": {
+         "lowest": "6th Grade",
+         "highest": "12th Grade"
+      },
+      "students": "535",
+      "fte": "34.5",
+      "pupilTeacherRatio": "15.51",
+      "numberOfSchools": "2"
+   },
+   {
+      "name": "Albany School District",
+      "location": {
+         "state": {
+            "name": "New Hampshire",
+            "abbr": "NH",
+            "county": "Carroll County"
+         }
+      },
+      "type": "2-Local school district that is a component of a supervisory union",
+      "grades": {
+         "lowest": "†",
+         "highest": "†"
+      },
+      "students": "†",
+      "fte": "†",
+      "pupilTeacherRatio": "†",
+      "numberOfSchools": "0"
+   },
+   {
+      "name": "Allenstown School District",
+      "location": {
+         "state": {
+            "name": "New Hampshire",
+            "abbr": "NH",
+            "county": "Merrimack County"
+         }
+      },
+      "type": "2-Local school district that is a component of a supervisory union",
+      "grades": {
+         "lowest": "Kindergarten",
+         "highest": "8th Grade"
+      },
+      "students": "356",
+      "fte": "30.4",
+      "pupilTeacherRatio": "11.71",
+      "numberOfSchools": "2"
+   },
+   {
+      "name": "Alton Sau Office",
+      "location": {
+         "state": {
+            "name": "New Hampshire",
+            "abbr": "NH",
+            "county": "Belknap County"
+         }
+      },
+      "type": "3-Supervisory union administrative center (or county superintendent's office serving the same purpose)",
+      "grades": {
+         "lowest": "†",
+         "highest": "†"
+      },
+      "students": "†",
+      "fte": "†",
+      "pupilTeacherRatio": "†",
+      "numberOfSchools": "0"
+   },
+   {
+      "name": "Alton School District",
+      "location": {
+         "state": {
+            "name": "New Hampshire",
+            "abbr": "NH",
+            "county": "Belknap County"
+         }
+      },
+      "type": "2-Local school district that is a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "8th Grade"
+      },
+      "students": "441",
+      "fte": "40",
+      "pupilTeacherRatio": "11.03",
+      "numberOfSchools": "1"
+   },
+   {
+      "name": "Amherst Sau Office",
+      "location": {
+         "state": {
+            "name": "New Hampshire",
+            "abbr": "NH",
+            "county": "Hillsborough County"
+         }
+      },
+      "type": "3-Supervisory union administrative center (or county superintendent's office serving the same purpose)",
+      "grades": {
+         "lowest": "†",
+         "highest": "†"
+      },
+      "students": "†",
+      "fte": "†",
+      "pupilTeacherRatio": "†",
+      "numberOfSchools": "0"
+   },
+   {
+      "name": "Amherst School District",
+      "location": {
+         "state": {
+            "name": "New Hampshire",
+            "abbr": "NH",
+            "county": "Hillsborough County"
+         }
+      },
+      "type": "2-Local school district that is a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "8th Grade"
+      },
+      "students": "1309",
+      "fte": "103.8",
+      "pupilTeacherRatio": "12.61",
+      "numberOfSchools": "2"
+   },
+   {
+      "name": "Andover School District",
+      "location": {
+         "state": {
+            "name": "New Hampshire",
+            "abbr": "NH",
+            "county": "Merrimack County"
+         }
+      },
+      "type": "2-Local school district that is a component of a supervisory union",
+      "grades": {
+         "lowest": "Kindergarten",
+         "highest": "8th Grade"
+      },
+      "students": "250",
+      "fte": "24",
+      "pupilTeacherRatio": "10.42",
+      "numberOfSchools": "1"
+   },
+   {
+      "name": "Ashland School District",
+      "location": {
+         "state": {
+            "name": "New Hampshire",
+            "abbr": "NH",
+            "county": "Belknap County"
+         }
+      },
+      "type": "2-Local school district that is a component of a supervisory union",
+      "grades": {
+         "lowest": "Kindergarten",
+         "highest": "8th Grade"
+      },
+      "students": "169",
+      "fte": "19.2",
+      "pupilTeacherRatio": "8.8",
+      "numberOfSchools": "1"
+   },
+   {
+      "name": "Auburn School District",
+      "location": {
+         "state": {
+            "name": "New Hampshire",
+            "abbr": "NH",
+            "county": "Merrimack County"
+         }
+      },
+      "type": "2-Local school district that is a component of a supervisory union",
+      "grades": {
+         "lowest": "Kindergarten",
+         "highest": "8th Grade"
+      },
+      "students": "654",
+      "fte": "42.1",
+      "pupilTeacherRatio": "15.53",
+      "numberOfSchools": "1"
+   },
+   {
+      "name": "Barnstead Sau Office",
+      "location": {
+         "state": {
+            "name": "New Hampshire",
+            "abbr": "NH",
+            "county": "Belknap County"
+         }
+      },
+      "type": "3-Supervisory union administrative center (or county superintendent's office serving the same purpose)",
+      "grades": {
+         "lowest": "†",
+         "highest": "†"
+      },
+      "students": "†",
+      "fte": "†",
+      "pupilTeacherRatio": "†",
+      "numberOfSchools": "0"
+   },
+   {
+      "name": "Barnstead School District",
+      "location": {
+         "state": {
+            "name": "New Hampshire",
+            "abbr": "NH",
+            "county": "Belknap County"
+         }
+      },
+      "type": "2-Local school district that is a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "8th Grade"
+      },
+      "students": "479",
+      "fte": "48.4",
+      "pupilTeacherRatio": "9.9",
+      "numberOfSchools": "1"
+   },
+   {
+      "name": "Barrington Sau Office",
+      "location": {
+         "state": {
+            "name": "New Hampshire",
+            "abbr": "NH",
+            "county": "Strafford County"
+         }
+      },
+      "type": "3-Supervisory union administrative center (or county superintendent's office serving the same purpose)",
+      "grades": {
+         "lowest": "†",
+         "highest": "†"
+      },
+      "students": "†",
+      "fte": "†",
+      "pupilTeacherRatio": "†",
+      "numberOfSchools": "0"
+   },
+   {
+      "name": "Barrington School District",
+      "location": {
+         "state": {
+            "name": "New Hampshire",
+            "abbr": "NH",
+            "county": "Strafford County"
+         }
+      },
+      "type": "2-Local school district that is a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "8th Grade"
+      },
+      "students": "965",
+      "fte": "78",
+      "pupilTeacherRatio": "12.37",
+      "numberOfSchools": "3"
+   },
+   {
+      "name": "Bartlett School District",
+      "location": {
+         "state": {
+            "name": "New Hampshire",
+            "abbr": "NH",
+            "county": "Carroll County"
+         }
+      },
+      "type": "2-Local school district that is a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "8th Grade"
+      },
+      "students": "208",
+      "fte": "21.6",
+      "pupilTeacherRatio": "9.63",
+      "numberOfSchools": "1"
+   },
+   {
+      "name": "Bath School District",
+      "location": {
+         "state": {
+            "name": "New Hampshire",
+            "abbr": "NH",
+            "county": "Grafton County"
+         }
+      },
+      "type": "2-Local school district that is a component of a supervisory union",
+      "grades": {
+         "lowest": "Kindergarten",
+         "highest": "6th Grade"
+      },
+      "students": "79",
+      "fte": "9.1",
+      "pupilTeacherRatio": "8.68",
+      "numberOfSchools": "1"
+   },
+   {
+      "name": "Bedford Sau Office",
+      "location": {
+         "state": {
+            "name": "New Hampshire",
+            "abbr": "NH",
+            "county": "Hillsborough County"
+         }
+      },
+      "type": "3-Supervisory union administrative center (or county superintendent's office serving the same purpose)",
+      "grades": {
+         "lowest": "†",
+         "highest": "†"
+      },
+      "students": "†",
+      "fte": "†",
+      "pupilTeacherRatio": "†",
+      "numberOfSchools": "0"
+   },
+   {
+      "name": "Bedford School District",
+      "location": {
+         "state": {
+            "name": "New Hampshire",
+            "abbr": "NH",
+            "county": "Hillsborough County"
+         }
+      },
+      "type": "2-Local school district that is a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "4437",
+      "fte": "319.4",
+      "pupilTeacherRatio": "13.89",
+      "numberOfSchools": "6"
+   },
+   {
+      "name": "Benton School District",
+      "location": {
+         "state": {
+            "name": "New Hampshire",
+            "abbr": "NH",
+            "county": "Grafton County"
+         }
+      },
+      "type": "2-Local school district that is a component of a supervisory union",
+      "grades": {
+         "lowest": "†",
+         "highest": "†"
+      },
+      "students": "†",
+      "fte": "†",
+      "pupilTeacherRatio": "†",
+      "numberOfSchools": "0"
+   },
+   {
+      "name": "Berlin Sau Office",
+      "location": {
+         "state": {
+            "name": "New Hampshire",
+            "abbr": "NH",
+            "county": "Coos County"
+         }
+      },
+      "type": "3-Supervisory union administrative center (or county superintendent's office serving the same purpose)",
+      "grades": {
+         "lowest": "†",
+         "highest": "†"
+      },
+      "students": "†",
+      "fte": "†",
+      "pupilTeacherRatio": "†",
+      "numberOfSchools": "0"
+   },
+   {
+      "name": "Berlin School District",
+      "location": {
+         "state": {
+            "name": "New Hampshire",
+            "abbr": "NH",
+            "county": "Coos County"
+         }
+      },
+      "type": "2-Local school district that is a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "1116",
+      "fte": "97",
+      "pupilTeacherRatio": "11.51",
+      "numberOfSchools": "3"
+   },
+   {
+      "name": "Bethlehem School District",
+      "location": {
+         "state": {
+            "name": "New Hampshire",
+            "abbr": "NH",
+            "county": "Grafton County"
+         }
+      },
+      "type": "2-Local school district that is a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "6th Grade"
+      },
+      "students": "154",
+      "fte": "12",
+      "pupilTeacherRatio": "12.83",
+      "numberOfSchools": "1"
+   },
+   {
+      "name": "Bow Sau Office",
+      "location": {
+         "state": {
+            "name": "New Hampshire",
+            "abbr": "NH",
+            "county": "Merrimack County"
+         }
+      },
+      "type": "3-Supervisory union administrative center (or county superintendent's office serving the same purpose)",
+      "grades": {
+         "lowest": "†",
+         "highest": "†"
+      },
+      "students": "†",
+      "fte": "†",
+      "pupilTeacherRatio": "†",
+      "numberOfSchools": "0"
+   },
+   {
+      "name": "Bow School District",
+      "location": {
+         "state": {
+            "name": "New Hampshire",
+            "abbr": "NH",
+            "county": "Merrimack County"
+         }
+      },
+      "type": "2-Local school district that is a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "1687",
+      "fte": "126.8",
+      "pupilTeacherRatio": "13.3",
+      "numberOfSchools": "3"
+   },
+   {
+      "name": "Brentwood School District",
+      "location": {
+         "state": {
+            "name": "New Hampshire",
+            "abbr": "NH",
+            "county": "Rockingham County"
+         }
+      },
+      "type": "2-Local school district that is a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "5th Grade"
+      },
+      "students": "303",
+      "fte": "21.2",
+      "pupilTeacherRatio": "14.29",
+      "numberOfSchools": "1"
+   },
+   {
+      "name": "Brookline School District",
+      "location": {
+         "state": {
+            "name": "New Hampshire",
+            "abbr": "NH",
+            "county": "Hillsborough County"
+         }
+      },
+      "type": "2-Local school district that is a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "6th Grade"
+      },
+      "students": "574",
+      "fte": "46",
+      "pupilTeacherRatio": "12.48",
+      "numberOfSchools": "2"
+   },
+   {
+      "name": "Campton School District",
+      "location": {
+         "state": {
+            "name": "New Hampshire",
+            "abbr": "NH",
+            "county": "Grafton County"
+         }
+      },
+      "type": "2-Local school district that is a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "8th Grade"
+      },
+      "students": "302",
+      "fte": "29.5",
+      "pupilTeacherRatio": "10.24",
+      "numberOfSchools": "1"
+   },
+   {
+      "name": "Candia School District",
+      "location": {
+         "state": {
+            "name": "New Hampshire",
+            "abbr": "NH",
+            "county": "Merrimack County"
+         }
+      },
+      "type": "2-Local school district that is a component of a supervisory union",
+      "grades": {
+         "lowest": "Kindergarten",
+         "highest": "8th Grade"
+      },
+      "students": "290",
+      "fte": "27",
+      "pupilTeacherRatio": "10.74",
+      "numberOfSchools": "1"
+   },
+   {
+      "name": "Capital City Public Charter School",
+      "location": {
+         "state": {
+            "name": "NEW HAMPSHIRE",
+            "abbr": "NH",
+            "county": "Merrimack County"
+         }
+      },
+      "type": "7-Independent Charter District",
+      "grades": {
+         "lowest": "6th Grade",
+         "highest": "11th Grade"
+      },
+      "students": "42",
+      "fte": "6.6",
+      "pupilTeacherRatio": "6.36",
+      "numberOfSchools": "2"
+   },
+   {
+      "name": "Chatham School District",
+      "location": {
+         "state": {
+            "name": "New Hampshire",
+            "abbr": "NH",
+            "county": "Carroll County"
+         }
+      },
+      "type": "2-Local school district that is a component of a supervisory union",
+      "grades": {
+         "lowest": "†",
+         "highest": "†"
+      },
+      "students": "†",
+      "fte": "†",
+      "pupilTeacherRatio": "†",
+      "numberOfSchools": "0"
+   },
+   {
+      "name": "Chester Sau Office",
+      "location": {
+         "state": {
+            "name": "New Hampshire",
+            "abbr": "NH",
+            "county": "Rockingham County"
+         }
+      },
+      "type": "3-Supervisory union administrative center (or county superintendent's office serving the same purpose)",
+      "grades": {
+         "lowest": "†",
+         "highest": "†"
+      },
+      "students": "†",
+      "fte": "†",
+      "pupilTeacherRatio": "†",
+      "numberOfSchools": "0"
+   },
+   {
+      "name": "Chester School District",
+      "location": {
+         "state": {
+            "name": "New Hampshire",
+            "abbr": "NH",
+            "county": "Rockingham County"
+         }
+      },
+      "type": "2-Local school district that is a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "8th Grade"
+      },
+      "students": "500",
+      "fte": "42.7",
+      "pupilTeacherRatio": "11.71",
+      "numberOfSchools": "1"
+   },
+   {
+      "name": "Chesterfield School District",
+      "location": {
+         "state": {
+            "name": "New Hampshire",
+            "abbr": "NH",
+            "county": "Cheshire County"
+         }
+      },
+      "type": "2-Local school district that is a component of a supervisory union",
+      "grades": {
+         "lowest": "Kindergarten",
+         "highest": "8th Grade"
+      },
+      "students": "291",
+      "fte": "26.5",
+      "pupilTeacherRatio": "10.98",
+      "numberOfSchools": "1"
+   },
+   {
+      "name": "Chichester School District",
+      "location": {
+         "state": {
+            "name": "New Hampshire",
+            "abbr": "NH",
+            "county": "Merrimack County"
+         }
+      },
+      "type": "2-Local school district that is a component of a supervisory union",
+      "grades": {
+         "lowest": "Kindergarten",
+         "highest": "8th Grade"
+      },
+      "students": "217",
+      "fte": "18.8",
+      "pupilTeacherRatio": "11.54",
+      "numberOfSchools": "1"
+   },
+   {
+      "name": "Claremont Sau Office",
+      "location": {
+         "state": {
+            "name": "New Hampshire",
+            "abbr": "NH",
+            "county": "Sullivan County"
+         }
+      },
+      "type": "3-Supervisory union administrative center (or county superintendent's office serving the same purpose)",
+      "grades": {
+         "lowest": "†",
+         "highest": "†"
+      },
+      "students": "†",
+      "fte": "†",
+      "pupilTeacherRatio": "†",
+      "numberOfSchools": "0"
+   },
+   {
+      "name": "Claremont School District",
+      "location": {
+         "state": {
+            "name": "New Hampshire",
+            "abbr": "NH",
+            "county": "Sullivan County"
+         }
+      },
+      "type": "2-Local school district that is a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "13th Grade"
+      },
+      "students": "1768",
+      "fte": "134",
+      "pupilTeacherRatio": "13.19",
+      "numberOfSchools": "6"
+   },
+   {
+      "name": "Clarksville School District",
+      "location": {
+         "state": {
+            "name": "New Hampshire",
+            "abbr": "NH",
+            "county": "Coos County"
+         }
+      },
+      "type": "2-Local school district that is a component of a supervisory union",
+      "grades": {
+         "lowest": "†",
+         "highest": "†"
+      },
+      "students": "†",
+      "fte": "†",
+      "pupilTeacherRatio": "†",
+      "numberOfSchools": "0"
+   },
+   {
+      "name": "Cocheco Arts and Technology Academy",
+      "location": {
+         "state": {
+            "name": "New Hampshire",
+            "abbr": "NH",
+            "county": "Strafford County"
+         }
+      },
+      "type": "7-Independent Charter District",
+      "grades": {
+         "lowest": "9th Grade",
+         "highest": "12th Grade"
+      },
+      "students": "41",
+      "fte": "5.2",
+      "pupilTeacherRatio": "7.88",
+      "numberOfSchools": "1"
+   },
+   {
+      "name": "Coe Brown Academy School District",
+      "location": {
+         "state": {
+            "name": "New Hampshire",
+            "abbr": "NH",
+            "county": "Rockingham County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "9th Grade",
+         "highest": "12th Grade"
+      },
+      "students": "690",
+      "fte": "63",
+      "pupilTeacherRatio": "10.95",
+      "numberOfSchools": "1"
+   },
+   {
+      "name": "Colebrook Sau Office",
+      "location": {
+         "state": {
+            "name": "New Hampshire",
+            "abbr": "NH",
+            "county": "Coos County"
+         }
+      },
+      "type": "3-Supervisory union administrative center (or county superintendent's office serving the same purpose)",
+      "grades": {
+         "lowest": "†",
+         "highest": "†"
+      },
+      "students": "†",
+      "fte": "†",
+      "pupilTeacherRatio": "†",
+      "numberOfSchools": "0"
+   },
+   {
+      "name": "Colebrook School District",
+      "location": {
+         "state": {
+            "name": "New Hampshire",
+            "abbr": "NH",
+            "county": "Coos County"
+         }
+      },
+      "type": "2-Local school district that is a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "337",
+      "fte": "35.1",
+      "pupilTeacherRatio": "9.6",
+      "numberOfSchools": "2"
+   },
+   {
+      "name": "Columbia School District",
+      "location": {
+         "state": {
+            "name": "New Hampshire",
+            "abbr": "NH",
+            "county": "Coos County"
+         }
+      },
+      "type": "2-Local school district that is a component of a supervisory union",
+      "grades": {
+         "lowest": "†",
+         "highest": "†"
+      },
+      "students": "†",
+      "fte": "†",
+      "pupilTeacherRatio": "†",
+      "numberOfSchools": "0"
+   },
+   {
+      "name": "Compass Classical Academy Charter School",
+      "location": {
+         "state": {
+            "name": "NEW HAMPSHIRE",
+            "abbr": "NH",
+            "county": "Merrimack County"
+         }
+      },
+      "type": "7-Independent Charter District",
+      "grades": {
+         "lowest": "Kindergarten",
+         "highest": "9th Grade"
+      },
+      "students": "134",
+      "fte": "16",
+      "pupilTeacherRatio": "8.38",
+      "numberOfSchools": "2"
+   },
+   {
+      "name": "Concord Sau Office",
+      "location": {
+         "state": {
+            "name": "New Hampshire",
+            "abbr": "NH",
+            "county": "Merrimack County"
+         }
+      },
+      "type": "3-Supervisory union administrative center (or county superintendent's office serving the same purpose)",
+      "grades": {
+         "lowest": "†",
+         "highest": "†"
+      },
+      "students": "†",
+      "fte": "†",
+      "pupilTeacherRatio": "†",
+      "numberOfSchools": "0"
+   },
+   {
+      "name": "Concord School District",
+      "location": {
+         "state": {
+            "name": "New Hampshire",
+            "abbr": "NH",
+            "county": "Merrimack County"
+         }
+      },
+      "type": "2-Local school district that is a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "13th Grade"
+      },
+      "students": "4327",
+      "fte": "314.6",
+      "pupilTeacherRatio": "13.75",
+      "numberOfSchools": "7"
+   },
+   {
+      "name": "Contoocook Valley Sau Office",
+      "location": {
+         "state": {
+            "name": "New Hampshire",
+            "abbr": "NH",
+            "county": "Hillsborough County"
+         }
+      },
+      "type": "3-Supervisory union administrative center (or county superintendent's office serving the same purpose)",
+      "grades": {
+         "lowest": "†",
+         "highest": "†"
+      },
+      "students": "†",
+      "fte": "†",
+      "pupilTeacherRatio": "†",
+      "numberOfSchools": "0"
+   },
+   {
+      "name": "Contoocook Valley School District",
+      "location": {
+         "state": {
+            "name": "New Hampshire",
+            "abbr": "NH",
+            "county": "Hillsborough County"
+         }
+      },
+      "type": "2-Local school district that is a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "2150",
+      "fte": "198.4",
+      "pupilTeacherRatio": "10.84",
+      "numberOfSchools": "11"
+   },
+   {
+      "name": "Conway Sau Office",
+      "location": {
+         "state": {
+            "name": "New Hampshire",
+            "abbr": "NH",
+            "county": "Carroll County"
+         }
+      },
+      "type": "3-Supervisory union administrative center (or county superintendent's office serving the same purpose)",
+      "grades": {
+         "lowest": "†",
+         "highest": "†"
+      },
+      "students": "†",
+      "fte": "†",
+      "pupilTeacherRatio": "†",
+      "numberOfSchools": "0"
+   },
+   {
+      "name": "Conway School District",
+      "location": {
+         "state": {
+            "name": "New Hampshire",
+            "abbr": "NH",
+            "county": "Carroll County"
+         }
+      },
+      "type": "2-Local school district that is a component of a supervisory union",
+      "grades": {
+         "lowest": "Kindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "1663",
+      "fte": "152.8",
+      "pupilTeacherRatio": "10.88",
+      "numberOfSchools": "5"
+   },
+   {
+      "name": "Coos County",
+      "location": {
+         "state": {
+            "name": "New Hampshire",
+            "abbr": "NH",
+            "county": "Coos County"
+         }
+      },
+      "type": "3-Supervisory union administrative center (or county superintendent's office serving the same purpose)",
+      "grades": {
+         "lowest": "†",
+         "highest": "†"
+      },
+      "students": "†",
+      "fte": "†",
+      "pupilTeacherRatio": "†",
+      "numberOfSchools": "0"
+   },
+   {
+      "name": "Coos County School District",
+      "location": {
+         "state": {
+            "name": "New Hampshire",
+            "abbr": "NH",
+            "county": "Coos County"
+         }
+      },
+      "type": "2-Local school district that is a component of a supervisory union",
+      "grades": {
+         "lowest": "†",
+         "highest": "†"
+      },
+      "students": "†",
+      "fte": "†",
+      "pupilTeacherRatio": "†",
+      "numberOfSchools": "0"
+   },
+   {
+      "name": "Cornish Sau Office",
+      "location": {
+         "state": {
+            "name": "NEW HAMPSHIRE",
+            "abbr": "NH",
+            "county": "Sullivan County"
+         }
+      },
+      "type": "3-Supervisory union administrative center (or county superintendent's office serving the same purpose)",
+      "grades": {
+         "lowest": "†",
+         "highest": "†"
+      },
+      "students": "†",
+      "fte": "†",
+      "pupilTeacherRatio": "†",
+      "numberOfSchools": "0"
+   },
+   {
+      "name": "Cornish School District",
+      "location": {
+         "state": {
+            "name": "New Hampshire",
+            "abbr": "NH",
+            "county": "Sullivan County"
+         }
+      },
+      "type": "2-Local school district that is a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "8th Grade"
+      },
+      "students": "104",
+      "fte": "10.4",
+      "pupilTeacherRatio": "10",
+      "numberOfSchools": "1"
+   },
+   {
+      "name": "Croydon Sau Office",
+      "location": {
+         "state": {
+            "name": "NEW HAMPSHIRE",
+            "abbr": "NH",
+            "county": "Sullivan County"
+         }
+      },
+      "type": "3-Supervisory union administrative center (or county superintendent's office serving the same purpose)",
+      "grades": {
+         "lowest": "†",
+         "highest": "†"
+      },
+      "students": "†",
+      "fte": "†",
+      "pupilTeacherRatio": "†",
+      "numberOfSchools": "0"
+   },
+   {
+      "name": "Croydon School District",
+      "location": {
+         "state": {
+            "name": "New Hampshire",
+            "abbr": "NH",
+            "county": "Sullivan County"
+         }
+      },
+      "type": "2-Local school district that is a component of a supervisory union",
+      "grades": {
+         "lowest": "Kindergarten",
+         "highest": "4th Grade"
+      },
+      "students": "26",
+      "fte": "3.2",
+      "pupilTeacherRatio": "8.13",
+      "numberOfSchools": "1"
+   },
+   {
+      "name": "Csi Charter School",
+      "location": {
+         "state": {
+            "name": "New Hampshire",
+            "abbr": "NH",
+            "county": "Merrimack County"
+         }
+      },
+      "type": "7-Independent Charter District",
+      "grades": {
+         "lowest": "11th Grade",
+         "highest": "12th Grade"
+      },
+      "students": "32",
+      "fte": "2.5",
+      "pupilTeacherRatio": "12.8",
+      "numberOfSchools": "1"
+   },
+   {
+      "name": "Deerfield School District",
+      "location": {
+         "state": {
+            "name": "New Hampshire",
+            "abbr": "NH",
+            "county": "Merrimack County"
+         }
+      },
+      "type": "2-Local school district that is a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "8th Grade"
+      },
+      "students": "533",
+      "fte": "44",
+      "pupilTeacherRatio": "12.11",
+      "numberOfSchools": "1"
+   },
+   {
+      "name": "Derry Cooperative Sau Office",
+      "location": {
+         "state": {
+            "name": "New Hampshire",
+            "abbr": "NH",
+            "county": "Rockingham County"
+         }
+      },
+      "type": "3-Supervisory union administrative center (or county superintendent's office serving the same purpose)",
+      "grades": {
+         "lowest": "†",
+         "highest": "†"
+      },
+      "students": "†",
+      "fte": "†",
+      "pupilTeacherRatio": "†",
+      "numberOfSchools": "0"
+   },
+   {
+      "name": "Derry School District",
+      "location": {
+         "state": {
+            "name": "New Hampshire",
+            "abbr": "NH",
+            "county": "Rockingham County"
+         }
+      },
+      "type": "2-Local school district that is a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "8th Grade"
+      },
+      "students": "3304",
+      "fte": "242.9",
+      "pupilTeacherRatio": "13.6",
+      "numberOfSchools": "8"
+   },
+   {
+      "name": "Dover Sau Office",
+      "location": {
+         "state": {
+            "name": "New Hampshire",
+            "abbr": "NH",
+            "county": "Strafford County"
+         }
+      },
+      "type": "3-Supervisory union administrative center (or county superintendent's office serving the same purpose)",
+      "grades": {
+         "lowest": "†",
+         "highest": "†"
+      },
+      "students": "†",
+      "fte": "†",
+      "pupilTeacherRatio": "†",
+      "numberOfSchools": "0"
+   },
+   {
+      "name": "Dover School District",
+      "location": {
+         "state": {
+            "name": "New Hampshire",
+            "abbr": "NH",
+            "county": "Strafford County"
+         }
+      },
+      "type": "2-Local school district that is a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "3966",
+      "fte": "276.9",
+      "pupilTeacherRatio": "14.32",
+      "numberOfSchools": "5"
+   },
+   {
+      "name": "Dresden School District",
+      "location": {
+         "state": {
+            "name": "New Hampshire",
+            "abbr": "NH",
+            "county": "Grafton County"
+         }
+      },
+      "type": "2-Local school district that is a component of a supervisory union",
+      "grades": {
+         "lowest": "6th Grade",
+         "highest": "12th Grade"
+      },
+      "students": "1102",
+      "fte": "102.3",
+      "pupilTeacherRatio": "10.77",
+      "numberOfSchools": "2"
+   },
+   {
+      "name": "Dummer School District",
+      "location": {
+         "state": {
+            "name": "New Hampshire",
+            "abbr": "NH",
+            "county": "Coos County"
+         }
+      },
+      "type": "2-Local school district that is a component of a supervisory union",
+      "grades": {
+         "lowest": "7th Grade",
+         "highest": "7th Grade"
+      },
+      "students": "1",
+      "fte": "†",
+      "pupilTeacherRatio": "–",
+      "numberOfSchools": "0"
+   },
+   {
+      "name": "Dunbarton School District",
+      "location": {
+         "state": {
+            "name": "New Hampshire",
+            "abbr": "NH",
+            "county": "Merrimack County"
+         }
+      },
+      "type": "2-Local school district that is a component of a supervisory union",
+      "grades": {
+         "lowest": "Kindergarten",
+         "highest": "6th Grade"
+      },
+      "students": "239",
+      "fte": "18",
+      "pupilTeacherRatio": "13.28",
+      "numberOfSchools": "1"
+   },
+   {
+      "name": "East Kingston School District",
+      "location": {
+         "state": {
+            "name": "New Hampshire",
+            "abbr": "NH",
+            "county": "Rockingham County"
+         }
+      },
+      "type": "2-Local school district that is a component of a supervisory union",
+      "grades": {
+         "lowest": "Kindergarten",
+         "highest": "5th Grade"
+      },
+      "students": "133",
+      "fte": "11",
+      "pupilTeacherRatio": "12.09",
+      "numberOfSchools": "1"
+   },
+   {
+      "name": "Eaton School District",
+      "location": {
+         "state": {
+            "name": "New Hampshire",
+            "abbr": "NH",
+            "county": "Carroll County"
+         }
+      },
+      "type": "2-Local school district that is a component of a supervisory union",
+      "grades": {
+         "lowest": "†",
+         "highest": "†"
+      },
+      "students": "†",
+      "fte": "†",
+      "pupilTeacherRatio": "†",
+      "numberOfSchools": "0"
+   },
+   {
+      "name": "Ellsworth School District",
+      "location": {
+         "state": {
+            "name": "New Hampshire",
+            "abbr": "NH",
+            "county": "Grafton County"
+         }
+      },
+      "type": "2-Local school district that is a component of a supervisory union",
+      "grades": {
+         "lowest": "†",
+         "highest": "†"
+      },
+      "students": "†",
+      "fte": "†",
+      "pupilTeacherRatio": "†",
+      "numberOfSchools": "0"
+   },
+   {
+      "name": "Epping Sau Office",
+      "location": {
+         "state": {
+            "name": "New Hampshire",
+            "abbr": "NH",
+            "county": "Rockingham County"
+         }
+      },
+      "type": "3-Supervisory union administrative center (or county superintendent's office serving the same purpose)",
+      "grades": {
+         "lowest": "†",
+         "highest": "†"
+      },
+      "students": "†",
+      "fte": "†",
+      "pupilTeacherRatio": "†",
+      "numberOfSchools": "0"
+   },
+   {
+      "name": "Epping School District",
+      "location": {
+         "state": {
+            "name": "New Hampshire",
+            "abbr": "NH",
+            "county": "Rockingham County"
+         }
+      },
+      "type": "2-Local school district that is a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "927",
+      "fte": "84",
+      "pupilTeacherRatio": "11.04",
+      "numberOfSchools": "3"
+   },
+   {
+      "name": "Epsom School District",
+      "location": {
+         "state": {
+            "name": "New Hampshire",
+            "abbr": "NH",
+            "county": "Merrimack County"
+         }
+      },
+      "type": "2-Local school district that is a component of a supervisory union",
+      "grades": {
+         "lowest": "Kindergarten",
+         "highest": "8th Grade"
+      },
+      "students": "409",
+      "fte": "32.7",
+      "pupilTeacherRatio": "12.51",
+      "numberOfSchools": "1"
+   },
+   {
+      "name": "Errol School District",
+      "location": {
+         "state": {
+            "name": "New Hampshire",
+            "abbr": "NH",
+            "county": "Coos County"
+         }
+      },
+      "type": "2-Local school district that is a component of a supervisory union",
+      "grades": {
+         "lowest": "3rd Grade",
+         "highest": "8th Grade"
+      },
+      "students": "15",
+      "fte": "2.7",
+      "pupilTeacherRatio": "5.56",
+      "numberOfSchools": "1"
+   },
+   {
+      "name": "Exeter Region Coop School District",
+      "location": {
+         "state": {
+            "name": "New Hampshire",
+            "abbr": "NH",
+            "county": "Rockingham County"
+         }
+      },
+      "type": "2-Local school district that is a component of a supervisory union",
+      "grades": {
+         "lowest": "6th Grade",
+         "highest": "13th Grade"
+      },
+      "students": "2767",
+      "fte": "192.4",
+      "pupilTeacherRatio": "14.38",
+      "numberOfSchools": "2"
+   },
+   {
+      "name": "Exeter Sau Office",
+      "location": {
+         "state": {
+            "name": "New Hampshire",
+            "abbr": "NH",
+            "county": "Rockingham County"
+         }
+      },
+      "type": "3-Supervisory union administrative center (or county superintendent's office serving the same purpose)",
+      "grades": {
+         "lowest": "†",
+         "highest": "†"
+      },
+      "students": "†",
+      "fte": "†",
+      "pupilTeacherRatio": "†",
+      "numberOfSchools": "0"
+   },
+   {
+      "name": "Exeter School District",
+      "location": {
+         "state": {
+            "name": "New Hampshire",
+            "abbr": "NH",
+            "county": "Rockingham County"
+         }
+      },
+      "type": "2-Local school district that is a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "5th Grade"
+      },
+      "students": "960",
+      "fte": "88.6",
+      "pupilTeacherRatio": "10.84",
+      "numberOfSchools": "2"
+   },
+   {
+      "name": "Fall Mountain Regional Sau Office",
+      "location": {
+         "state": {
+            "name": "New Hampshire",
+            "abbr": "NH",
+            "county": "Sullivan County"
+         }
+      },
+      "type": "3-Supervisory union administrative center (or county superintendent's office serving the same purpose)",
+      "grades": {
+         "lowest": "†",
+         "highest": "†"
+      },
+      "students": "†",
+      "fte": "†",
+      "pupilTeacherRatio": "†",
+      "numberOfSchools": "0"
+   },
+   {
+      "name": "Fall Mountain Regional School District",
+      "location": {
+         "state": {
+            "name": "New Hampshire",
+            "abbr": "NH",
+            "county": "Sullivan County"
+         }
+      },
+      "type": "2-Local school district that is a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "1520",
+      "fte": "141.4",
+      "pupilTeacherRatio": "10.75",
+      "numberOfSchools": "12"
+   },
+   {
+      "name": "Farmington Sau Office",
+      "location": {
+         "state": {
+            "name": "New Hampshire",
+            "abbr": "NH",
+            "county": "Strafford County"
+         }
+      },
+      "type": "3-Supervisory union administrative center (or county superintendent's office serving the same purpose)",
+      "grades": {
+         "lowest": "†",
+         "highest": "†"
+      },
+      "students": "†",
+      "fte": "†",
+      "pupilTeacherRatio": "†",
+      "numberOfSchools": "0"
+   },
+   {
+      "name": "Farmington School District",
+      "location": {
+         "state": {
+            "name": "New Hampshire",
+            "abbr": "NH",
+            "county": "Strafford County"
+         }
+      },
+      "type": "2-Local school district that is a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "816",
+      "fte": "87.9",
+      "pupilTeacherRatio": "9.28",
+      "numberOfSchools": "3"
+   },
+   {
+      "name": "Franklin Sau Office",
+      "location": {
+         "state": {
+            "name": "New Hampshire",
+            "abbr": "NH",
+            "county": "Merrimack County"
+         }
+      },
+      "type": "3-Supervisory union administrative center (or county superintendent's office serving the same purpose)",
+      "grades": {
+         "lowest": "†",
+         "highest": "†"
+      },
+      "students": "†",
+      "fte": "†",
+      "pupilTeacherRatio": "†",
+      "numberOfSchools": "0"
+   },
+   {
+      "name": "Franklin School District",
+      "location": {
+         "state": {
+            "name": "New Hampshire",
+            "abbr": "NH",
+            "county": "Merrimack County"
+         }
+      },
+      "type": "2-Local school district that is a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "947",
+      "fte": "78.3",
+      "pupilTeacherRatio": "12.09",
+      "numberOfSchools": "3"
+   },
+   {
+      "name": "Freedom School District",
+      "location": {
+         "state": {
+            "name": "New Hampshire",
+            "abbr": "NH",
+            "county": "Carroll County"
+         }
+      },
+      "type": "2-Local school district that is a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "6th Grade"
+      },
+      "students": "54",
+      "fte": "8.8",
+      "pupilTeacherRatio": "6.14",
+      "numberOfSchools": "1"
+   },
+   {
+      "name": "Fremont Sau Office",
+      "location": {
+         "state": {
+            "name": "New Hampshire",
+            "abbr": "NH",
+            "county": "Rockingham County"
+         }
+      },
+      "type": "3-Supervisory union administrative center (or county superintendent's office serving the same purpose)",
+      "grades": {
+         "lowest": "†",
+         "highest": "†"
+      },
+      "students": "†",
+      "fte": "†",
+      "pupilTeacherRatio": "†",
+      "numberOfSchools": "0"
+   },
+   {
+      "name": "Fremont School District",
+      "location": {
+         "state": {
+            "name": "New Hampshire",
+            "abbr": "NH",
+            "county": "Rockingham County"
+         }
+      },
+      "type": "2-Local school district that is a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "8th Grade"
+      },
+      "students": "396",
+      "fte": "34",
+      "pupilTeacherRatio": "11.65",
+      "numberOfSchools": "1"
+   },
+   {
+      "name": "Gate City Charter School for the Arts District",
+      "location": {
+         "state": {
+            "name": "New Hampshire",
+            "abbr": "NH",
+            "county": "Hillsborough County"
+         }
+      },
+      "type": "7-Independent Charter District",
+      "grades": {
+         "lowest": "Kindergarten",
+         "highest": "8th Grade"
+      },
+      "students": "164",
+      "fte": "10",
+      "pupilTeacherRatio": "16.4",
+      "numberOfSchools": "1"
+   },
+   {
+      "name": "Gilford Sau Office",
+      "location": {
+         "state": {
+            "name": "New Hampshire",
+            "abbr": "NH",
+            "county": "Belknap County"
+         }
+      },
+      "type": "3-Supervisory union administrative center (or county superintendent's office serving the same purpose)",
+      "grades": {
+         "lowest": "†",
+         "highest": "†"
+      },
+      "students": "†",
+      "fte": "†",
+      "pupilTeacherRatio": "†",
+      "numberOfSchools": "0"
+   },
+   {
+      "name": "Gilford School District",
+      "location": {
+         "state": {
+            "name": "New Hampshire",
+            "abbr": "NH",
+            "county": "Belknap County"
+         }
+      },
+      "type": "2-Local school district that is a component of a supervisory union",
+      "grades": {
+         "lowest": "Kindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "1158",
+      "fte": "100.5",
+      "pupilTeacherRatio": "11.52",
+      "numberOfSchools": "3"
+   },
+   {
+      "name": "Gilmanton Sau Office",
+      "location": {
+         "state": {
+            "name": "New Hampshire",
+            "abbr": "NH",
+            "county": "Belknap County"
+         }
+      },
+      "type": "3-Supervisory union administrative center (or county superintendent's office serving the same purpose)",
+      "grades": {
+         "lowest": "†",
+         "highest": "†"
+      },
+      "students": "†",
+      "fte": "†",
+      "pupilTeacherRatio": "†",
+      "numberOfSchools": "0"
+   },
+   {
+      "name": "Gilmanton School District",
+      "location": {
+         "state": {
+            "name": "New Hampshire",
+            "abbr": "NH",
+            "county": "Belknap County"
+         }
+      },
+      "type": "2-Local school district that is a component of a supervisory union",
+      "grades": {
+         "lowest": "Kindergarten",
+         "highest": "8th Grade"
+      },
+      "students": "413",
+      "fte": "35",
+      "pupilTeacherRatio": "11.8",
+      "numberOfSchools": "1"
+   },
+   {
+      "name": "Goffstown Sau Office",
+      "location": {
+         "state": {
+            "name": "New Hampshire",
+            "abbr": "NH",
+            "county": "Hillsborough County"
+         }
+      },
+      "type": "3-Supervisory union administrative center (or county superintendent's office serving the same purpose)",
+      "grades": {
+         "lowest": "†",
+         "highest": "†"
+      },
+      "students": "†",
+      "fte": "†",
+      "pupilTeacherRatio": "†",
+      "numberOfSchools": "0"
+   },
+   {
+      "name": "Goffstown School District",
+      "location": {
+         "state": {
+            "name": "New Hampshire",
+            "abbr": "NH",
+            "county": "Hillsborough County"
+         }
+      },
+      "type": "2-Local school district that is a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "2864",
+      "fte": "221.1",
+      "pupilTeacherRatio": "12.95",
+      "numberOfSchools": "5"
+   },
+   {
+      "name": "Gorham Randolph Shelburne Coop School District",
+      "location": {
+         "state": {
+            "name": "New Hampshire",
+            "abbr": "NH",
+            "county": "Coos County"
+         }
+      },
+      "type": "2-Local school district that is a component of a supervisory union",
+      "grades": {
+         "lowest": "Kindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "387",
+      "fte": "35.7",
+      "pupilTeacherRatio": "10.84",
+      "numberOfSchools": "3"
+   },
+   {
+      "name": "Gorham Sau Office",
+      "location": {
+         "state": {
+            "name": "New Hampshire",
+            "abbr": "NH",
+            "county": "Coos County"
+         }
+      },
+      "type": "3-Supervisory union administrative center (or county superintendent's office serving the same purpose)",
+      "grades": {
+         "lowest": "†",
+         "highest": "†"
+      },
+      "students": "†",
+      "fte": "†",
+      "pupilTeacherRatio": "†",
+      "numberOfSchools": "0"
+   },
+   {
+      "name": "Goshen Sau Office",
+      "location": {
+         "state": {
+            "name": "NEW HAMPSHIRE",
+            "abbr": "NH",
+            "county": "Sullivan County"
+         }
+      },
+      "type": "3-Supervisory union administrative center (or county superintendent's office serving the same purpose)",
+      "grades": {
+         "lowest": "†",
+         "highest": "†"
+      },
+      "students": "†",
+      "fte": "†",
+      "pupilTeacherRatio": "†",
+      "numberOfSchools": "0"
+   },
+   {
+      "name": "Goshen School District",
+      "location": {
+         "state": {
+            "name": "NEW HAMPSHIRE",
+            "abbr": "NH",
+            "county": "Sullivan County"
+         }
+      },
+      "type": "2-Local school district that is a component of a supervisory union",
+      "grades": {
+         "lowest": "11th Grade",
+         "highest": "11th Grade"
+      },
+      "students": "1",
+      "fte": "0",
+      "pupilTeacherRatio": "†",
+      "numberOfSchools": "0"
+   },
+   {
+      "name": "Goshen-Lempster Sau Office",
+      "location": {
+         "state": {
+            "name": "New Hampshire",
+            "abbr": "NH",
+            "county": "Sullivan County"
+         }
+      },
+      "type": "3-Supervisory union administrative center (or county superintendent's office serving the same purpose)",
+      "grades": {
+         "lowest": "†",
+         "highest": "†"
+      },
+      "students": "†",
+      "fte": "†",
+      "pupilTeacherRatio": "†",
+      "numberOfSchools": "0"
+   },
+   {
+      "name": "Governor Wentworth Reg School District",
+      "location": {
+         "state": {
+            "name": "New Hampshire",
+            "abbr": "NH",
+            "county": "Carroll County"
+         }
+      },
+      "type": "2-Local school district that is a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "2306",
+      "fte": "216.8",
+      "pupilTeacherRatio": "10.64",
+      "numberOfSchools": "8"
+   },
+   {
+      "name": "Governor Wentworth Regional Sau Office",
+      "location": {
+         "state": {
+            "name": "New Hampshire",
+            "abbr": "NH",
+            "county": "Carroll County"
+         }
+      },
+      "type": "3-Supervisory union administrative center (or county superintendent's office serving the same purpose)",
+      "grades": {
+         "lowest": "†",
+         "highest": "†"
+      },
+      "students": "†",
+      "fte": "†",
+      "pupilTeacherRatio": "†",
+      "numberOfSchools": "0"
+   },
+   {
+      "name": "Granite State Arts Academy Charter School",
+      "location": {
+         "state": {
+            "name": "New Hampshire",
+            "abbr": "NH",
+            "county": "Rockingham County"
+         }
+      },
+      "type": "7-Independent Charter District",
+      "grades": {
+         "lowest": "9th Grade",
+         "highest": "12th Grade"
+      },
+      "students": "113",
+      "fte": "11",
+      "pupilTeacherRatio": "10.27",
+      "numberOfSchools": "1"
+   },
+   {
+      "name": "Grantham Sau Office",
+      "location": {
+         "state": {
+            "name": "New Hampshire",
+            "abbr": "NH",
+            "county": "Sullivan County"
+         }
+      },
+      "type": "3-Supervisory union administrative center (or county superintendent's office serving the same purpose)",
+      "grades": {
+         "lowest": "†",
+         "highest": "†"
+      },
+      "students": "†",
+      "fte": "†",
+      "pupilTeacherRatio": "†",
+      "numberOfSchools": "0"
+   },
+   {
+      "name": "Grantham School District",
+      "location": {
+         "state": {
+            "name": "New Hampshire",
+            "abbr": "NH",
+            "county": "Sullivan County"
+         }
+      },
+      "type": "2-Local school district that is a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "6th Grade"
+      },
+      "students": "248",
+      "fte": "20.6",
+      "pupilTeacherRatio": "12.04",
+      "numberOfSchools": "1"
+   },
+   {
+      "name": "Great Bay Elearning Charter School",
+      "location": {
+         "state": {
+            "name": "New Hampshire",
+            "abbr": "NH",
+            "county": "Rockingham County"
+         }
+      },
+      "type": "7-Independent Charter District",
+      "grades": {
+         "lowest": "6th Grade",
+         "highest": "12th Grade"
+      },
+      "students": "156",
+      "fte": "10.5",
+      "pupilTeacherRatio": "14.86",
+      "numberOfSchools": "2"
+   },
+   {
+      "name": "Greenland Sau Office",
+      "location": {
+         "state": {
+            "name": "New Hampshire",
+            "abbr": "NH",
+            "county": "Rockingham County"
+         }
+      },
+      "type": "3-Supervisory union administrative center (or county superintendent's office serving the same purpose)",
+      "grades": {
+         "lowest": "†",
+         "highest": "†"
+      },
+      "students": "†",
+      "fte": "†",
+      "pupilTeacherRatio": "†",
+      "numberOfSchools": "0"
+   },
+   {
+      "name": "Greenland School District",
+      "location": {
+         "state": {
+            "name": "New Hampshire",
+            "abbr": "NH",
+            "county": "Rockingham County"
+         }
+      },
+      "type": "2-Local school district that is a component of a supervisory union",
+      "grades": {
+         "lowest": "Kindergarten",
+         "highest": "8th Grade"
+      },
+      "students": "422",
+      "fte": "34.8",
+      "pupilTeacherRatio": "12.13",
+      "numberOfSchools": "1"
+   },
+   {
+      "name": "Hale's Location",
+      "location": {
+         "state": {
+            "name": "New Hampshire",
+            "abbr": "NH",
+            "county": "Carroll County"
+         }
+      },
+      "type": "3-Supervisory union administrative center (or county superintendent's office serving the same purpose)",
+      "grades": {
+         "lowest": "†",
+         "highest": "†"
+      },
+      "students": "†",
+      "fte": "†",
+      "pupilTeacherRatio": "†",
+      "numberOfSchools": "0"
+   },
+   {
+      "name": "Hale's Location District",
+      "location": {
+         "state": {
+            "name": "New Hampshire",
+            "abbr": "NH",
+            "county": "Carroll County"
+         }
+      },
+      "type": "2-Local school district that is a component of a supervisory union",
+      "grades": {
+         "lowest": "†",
+         "highest": "†"
+      },
+      "students": "†",
+      "fte": "†",
+      "pupilTeacherRatio": "†",
+      "numberOfSchools": "0"
+   },
+   {
+      "name": "Hampstead School District",
+      "location": {
+         "state": {
+            "name": "New Hampshire",
+            "abbr": "NH",
+            "county": "Rockingham County"
+         }
+      },
+      "type": "2-Local school district that is a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "8th Grade"
+      },
+      "students": "870",
+      "fte": "72.1",
+      "pupilTeacherRatio": "12.07",
+      "numberOfSchools": "2"
+   },
+   {
+      "name": "Hampton Falls School District",
+      "location": {
+         "state": {
+            "name": "New Hampshire",
+            "abbr": "NH",
+            "county": "Rockingham County"
+         }
+      },
+      "type": "2-Local school district that is a component of a supervisory union",
+      "grades": {
+         "lowest": "Kindergarten",
+         "highest": "8th Grade"
+      },
+      "students": "212",
+      "fte": "24.9",
+      "pupilTeacherRatio": "8.51",
+      "numberOfSchools": "1"
+   },
+   {
+      "name": "Hampton Sau Office",
+      "location": {
+         "state": {
+            "name": "New Hampshire",
+            "abbr": "NH",
+            "county": "Rockingham County"
+         }
+      },
+      "type": "3-Supervisory union administrative center (or county superintendent's office serving the same purpose)",
+      "grades": {
+         "lowest": "†",
+         "highest": "†"
+      },
+      "students": "†",
+      "fte": "†",
+      "pupilTeacherRatio": "†",
+      "numberOfSchools": "0"
+   },
+   {
+      "name": "Hampton School District",
+      "location": {
+         "state": {
+            "name": "New Hampshire",
+            "abbr": "NH",
+            "county": "Rockingham County"
+         }
+      },
+      "type": "2-Local school district that is a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "8th Grade"
+      },
+      "students": "1070",
+      "fte": "97",
+      "pupilTeacherRatio": "11.03",
+      "numberOfSchools": "3"
+   },
+   {
+      "name": "Hanover Sau Office",
+      "location": {
+         "state": {
+            "name": "New Hampshire",
+            "abbr": "NH",
+            "county": "Grafton County"
+         }
+      },
+      "type": "3-Supervisory union administrative center (or county superintendent's office serving the same purpose)",
+      "grades": {
+         "lowest": "†",
+         "highest": "†"
+      },
+      "students": "†",
+      "fte": "†",
+      "pupilTeacherRatio": "†",
+      "numberOfSchools": "0"
+   },
+   {
+      "name": "Hanover School District",
+      "location": {
+         "state": {
+            "name": "New Hampshire",
+            "abbr": "NH",
+            "county": "Grafton County"
+         }
+      },
+      "type": "2-Local school district that is a component of a supervisory union",
+      "grades": {
+         "lowest": "Kindergarten",
+         "highest": "5th Grade"
+      },
+      "students": "492",
+      "fte": "46.8",
+      "pupilTeacherRatio": "10.51",
+      "numberOfSchools": "1"
+   },
+   {
+      "name": "Harrisville School District",
+      "location": {
+         "state": {
+            "name": "New Hampshire",
+            "abbr": "NH",
+            "county": "Cheshire County"
+         }
+      },
+      "type": "2-Local school district that is a component of a supervisory union",
+      "grades": {
+         "lowest": "Kindergarten",
+         "highest": "6th Grade"
+      },
+      "students": "65",
+      "fte": "5.5",
+      "pupilTeacherRatio": "11.82",
+      "numberOfSchools": "1"
+   },
+   {
+      "name": "Hart's Location School District",
+      "location": {
+         "state": {
+            "name": "New Hampshire",
+            "abbr": "NH",
+            "county": "Carroll County"
+         }
+      },
+      "type": "2-Local school district that is a component of a supervisory union",
+      "grades": {
+         "lowest": "†",
+         "highest": "†"
+      },
+      "students": "†",
+      "fte": "†",
+      "pupilTeacherRatio": "†",
+      "numberOfSchools": "0"
+   },
+   {
+      "name": "Haverhill Cooperative Sau Office",
+      "location": {
+         "state": {
+            "name": "New Hampshire",
+            "abbr": "NH",
+            "county": "Grafton County"
+         }
+      },
+      "type": "3-Supervisory union administrative center (or county superintendent's office serving the same purpose)",
+      "grades": {
+         "lowest": "†",
+         "highest": "†"
+      },
+      "students": "†",
+      "fte": "†",
+      "pupilTeacherRatio": "†",
+      "numberOfSchools": "0"
+   },
+   {
+      "name": "Haverhill Cooperative School District",
+      "location": {
+         "state": {
+            "name": "New Hampshire",
+            "abbr": "NH",
+            "county": "Grafton County"
+         }
+      },
+      "type": "2-Local school district that is a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "697",
+      "fte": "64.6",
+      "pupilTeacherRatio": "10.79",
+      "numberOfSchools": "3"
+   },
+   {
+      "name": "Henniker Sau Office",
+      "location": {
+         "state": {
+            "name": "New Hampshire",
+            "abbr": "NH",
+            "county": "Merrimack County"
+         }
+      },
+      "type": "3-Supervisory union administrative center (or county superintendent's office serving the same purpose)",
+      "grades": {
+         "lowest": "†",
+         "highest": "†"
+      },
+      "students": "†",
+      "fte": "†",
+      "pupilTeacherRatio": "†",
+      "numberOfSchools": "0"
+   },
+   {
+      "name": "Henniker School District",
+      "location": {
+         "state": {
+            "name": "New Hampshire",
+            "abbr": "NH",
+            "county": "Merrimack County"
+         }
+      },
+      "type": "2-Local school district that is a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "8th Grade"
+      },
+      "students": "426",
+      "fte": "36",
+      "pupilTeacherRatio": "11.83",
+      "numberOfSchools": "1"
+   },
+   {
+      "name": "Hill Sau Office",
+      "location": {
+         "state": {
+            "name": "NEW HAMPSHIRE",
+            "abbr": "NH",
+            "county": "Merrimack County"
+         }
+      },
+      "type": "3-Supervisory union administrative center (or county superintendent's office serving the same purpose)",
+      "grades": {
+         "lowest": "†",
+         "highest": "†"
+      },
+      "students": "†",
+      "fte": "†",
+      "pupilTeacherRatio": "†",
+      "numberOfSchools": "0"
+   },
+   {
+      "name": "Hill School District",
+      "location": {
+         "state": {
+            "name": "New Hampshire",
+            "abbr": "NH",
+            "county": "Merrimack County"
+         }
+      },
+      "type": "2-Local school district that is a component of a supervisory union",
+      "grades": {
+         "lowest": "Kindergarten",
+         "highest": "6th Grade"
+      },
+      "students": "52",
+      "fte": "6.6",
+      "pupilTeacherRatio": "7.88",
+      "numberOfSchools": "1"
+   },
+   {
+      "name": "Hillsboro Deering Coop School District",
+      "location": {
+         "state": {
+            "name": "New Hampshire",
+            "abbr": "NH",
+            "county": "Hillsborough County"
+         }
+      },
+      "type": "2-Local school district that is a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "1126",
+      "fte": "103.9",
+      "pupilTeacherRatio": "10.84",
+      "numberOfSchools": "3"
+   },
+   {
+      "name": "Hillsboro-Deering Sau Office",
+      "location": {
+         "state": {
+            "name": "New Hampshire",
+            "abbr": "NH",
+            "county": "Hillsborough County"
+         }
+      },
+      "type": "3-Supervisory union administrative center (or county superintendent's office serving the same purpose)",
+      "grades": {
+         "lowest": "†",
+         "highest": "†"
+      },
+      "students": "†",
+      "fte": "†",
+      "pupilTeacherRatio": "†",
+      "numberOfSchools": "0"
+   },
+   {
+      "name": "Hinsdale Sau Office",
+      "location": {
+         "state": {
+            "name": "New Hampshire",
+            "abbr": "NH",
+            "county": "Cheshire County"
+         }
+      },
+      "type": "3-Supervisory union administrative center (or county superintendent's office serving the same purpose)",
+      "grades": {
+         "lowest": "†",
+         "highest": "†"
+      },
+      "students": "†",
+      "fte": "†",
+      "pupilTeacherRatio": "†",
+      "numberOfSchools": "0"
+   },
+   {
+      "name": "Hinsdale School District",
+      "location": {
+         "state": {
+            "name": "New Hampshire",
+            "abbr": "NH",
+            "county": "Cheshire County"
+         }
+      },
+      "type": "2-Local school district that is a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "533",
+      "fte": "62.1",
+      "pupilTeacherRatio": "8.58",
+      "numberOfSchools": "3"
+   },
+   {
+      "name": "Holderness School District",
+      "location": {
+         "state": {
+            "name": "New Hampshire",
+            "abbr": "NH",
+            "county": "Grafton County"
+         }
+      },
+      "type": "2-Local school district that is a component of a supervisory union",
+      "grades": {
+         "lowest": "Kindergarten",
+         "highest": "8th Grade"
+      },
+      "students": "143",
+      "fte": "19.6",
+      "pupilTeacherRatio": "7.3",
+      "numberOfSchools": "1"
+   },
+   {
+      "name": "Hollis School District",
+      "location": {
+         "state": {
+            "name": "New Hampshire",
+            "abbr": "NH",
+            "county": "Hillsborough County"
+         }
+      },
+      "type": "2-Local school district that is a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "6th Grade"
+      },
+      "students": "640",
+      "fte": "48.6",
+      "pupilTeacherRatio": "13.17",
+      "numberOfSchools": "2"
+   },
+   {
+      "name": "Hollis-Brookline Sau Office",
+      "location": {
+         "state": {
+            "name": "New Hampshire",
+            "abbr": "NH",
+            "county": "Hillsborough County"
+         }
+      },
+      "type": "3-Supervisory union administrative center (or county superintendent's office serving the same purpose)",
+      "grades": {
+         "lowest": "†",
+         "highest": "†"
+      },
+      "students": "†",
+      "fte": "†",
+      "pupilTeacherRatio": "†",
+      "numberOfSchools": "0"
+   },
+   {
+      "name": "Hollis/brookline Coop School District",
+      "location": {
+         "state": {
+            "name": "New Hampshire",
+            "abbr": "NH",
+            "county": "Hillsborough County"
+         }
+      },
+      "type": "2-Local school district that is a component of a supervisory union",
+      "grades": {
+         "lowest": "7th Grade",
+         "highest": "12th Grade"
+      },
+      "students": "1240",
+      "fte": "93",
+      "pupilTeacherRatio": "13.33",
+      "numberOfSchools": "2"
+   },
+   {
+      "name": "Hooksett Sau Office",
+      "location": {
+         "state": {
+            "name": "New Hampshire",
+            "abbr": "NH",
+            "county": "Merrimack County"
+         }
+      },
+      "type": "3-Supervisory union administrative center (or county superintendent's office serving the same purpose)",
+      "grades": {
+         "lowest": "†",
+         "highest": "†"
+      },
+      "students": "†",
+      "fte": "†",
+      "pupilTeacherRatio": "†",
+      "numberOfSchools": "0"
+   },
+   {
+      "name": "Hooksett School District",
+      "location": {
+         "state": {
+            "name": "New Hampshire",
+            "abbr": "NH",
+            "county": "Merrimack County"
+         }
+      },
+      "type": "2-Local school district that is a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "8th Grade"
+      },
+      "students": "1263",
+      "fte": "94.4",
+      "pupilTeacherRatio": "13.38",
+      "numberOfSchools": "3"
+   },
+   {
+      "name": "Hopkinton Sau Office",
+      "location": {
+         "state": {
+            "name": "New Hampshire",
+            "abbr": "NH",
+            "county": "Merrimack County"
+         }
+      },
+      "type": "3-Supervisory union administrative center (or county superintendent's office serving the same purpose)",
+      "grades": {
+         "lowest": "†",
+         "highest": "†"
+      },
+      "students": "†",
+      "fte": "†",
+      "pupilTeacherRatio": "†",
+      "numberOfSchools": "0"
+   },
+   {
+      "name": "Hopkinton School District",
+      "location": {
+         "state": {
+            "name": "New Hampshire",
+            "abbr": "NH",
+            "county": "Merrimack County"
+         }
+      },
+      "type": "2-Local school district that is a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "997",
+      "fte": "80.6",
+      "pupilTeacherRatio": "12.37",
+      "numberOfSchools": "4"
+   },
+   {
+      "name": "Hudson Sau Office",
+      "location": {
+         "state": {
+            "name": "New Hampshire",
+            "abbr": "NH",
+            "county": "Hillsborough County"
+         }
+      },
+      "type": "3-Supervisory union administrative center (or county superintendent's office serving the same purpose)",
+      "grades": {
+         "lowest": "†",
+         "highest": "†"
+      },
+      "students": "†",
+      "fte": "†",
+      "pupilTeacherRatio": "†",
+      "numberOfSchools": "0"
+   },
+   {
+      "name": "Hudson School District",
+      "location": {
+         "state": {
+            "name": "New Hampshire",
+            "abbr": "NH",
+            "county": "Hillsborough County"
+         }
+      },
+      "type": "2-Local school district that is a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "3197",
+      "fte": "249",
+      "pupilTeacherRatio": "12.84",
+      "numberOfSchools": "5"
+   },
+   {
+      "name": "Inter-Lakes Cooperative Sau Office",
+      "location": {
+         "state": {
+            "name": "New Hampshire",
+            "abbr": "NH",
+            "county": "Belknap County"
+         }
+      },
+      "type": "3-Supervisory union administrative center (or county superintendent's office serving the same purpose)",
+      "grades": {
+         "lowest": "†",
+         "highest": "†"
+      },
+      "students": "†",
+      "fte": "†",
+      "pupilTeacherRatio": "†",
+      "numberOfSchools": "0"
+   },
+   {
+      "name": "Inter-Lakes School District",
+      "location": {
+         "state": {
+            "name": "New Hampshire",
+            "abbr": "NH",
+            "county": "Belknap County"
+         }
+      },
+      "type": "2-Local school district that is a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "13th Grade"
+      },
+      "students": "1013",
+      "fte": "94.8",
+      "pupilTeacherRatio": "10.69",
+      "numberOfSchools": "4"
+   },
+   {
+      "name": "Jackson School District",
+      "location": {
+         "state": {
+            "name": "New Hampshire",
+            "abbr": "NH",
+            "county": "Carroll County"
+         }
+      },
+      "type": "2-Local school district that is a component of a supervisory union",
+      "grades": {
+         "lowest": "Kindergarten",
+         "highest": "6th Grade"
+      },
+      "students": "43",
+      "fte": "5.8",
+      "pupilTeacherRatio": "7.41",
+      "numberOfSchools": "1"
+   },
+   {
+      "name": "Jaffrey-Rindge Coop School District",
+      "location": {
+         "state": {
+            "name": "New Hampshire",
+            "abbr": "NH",
+            "county": "Cheshire County"
+         }
+      },
+      "type": "2-Local school district that is a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "1404",
+      "fte": "124",
+      "pupilTeacherRatio": "11.32",
+      "numberOfSchools": "4"
+   },
+   {
+      "name": "Jaffrey-Rindge Sau Office",
+      "location": {
+         "state": {
+            "name": "New Hampshire",
+            "abbr": "NH",
+            "county": "Cheshire County"
+         }
+      },
+      "type": "3-Supervisory union administrative center (or county superintendent's office serving the same purpose)",
+      "grades": {
+         "lowest": "†",
+         "highest": "†"
+      },
+      "students": "†",
+      "fte": "†",
+      "pupilTeacherRatio": "†",
+      "numberOfSchools": "0"
+   },
+   {
+      "name": "John Stark Regional School District",
+      "location": {
+         "state": {
+            "name": "New Hampshire",
+            "abbr": "NH",
+            "county": "Merrimack County"
+         }
+      },
+      "type": "2-Local school district that is a component of a supervisory union",
+      "grades": {
+         "lowest": "9th Grade",
+         "highest": "12th Grade"
+      },
+      "students": "615",
+      "fte": "59.5",
+      "pupilTeacherRatio": "10.34",
+      "numberOfSchools": "1"
+   },
+   {
+      "name": "Kearsarge Regional Sau Office",
+      "location": {
+         "state": {
+            "name": "New Hampshire",
+            "abbr": "NH",
+            "county": "Merrimack County"
+         }
+      },
+      "type": "3-Supervisory union administrative center (or county superintendent's office serving the same purpose)",
+      "grades": {
+         "lowest": "†",
+         "highest": "†"
+      },
+      "students": "†",
+      "fte": "†",
+      "pupilTeacherRatio": "†",
+      "numberOfSchools": "0"
+   },
+   {
+      "name": "Kearsarge Regional School District",
+      "location": {
+         "state": {
+            "name": "New Hampshire",
+            "abbr": "NH",
+            "county": "Merrimack County"
+         }
+      },
+      "type": "2-Local school district that is a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "13th Grade"
+      },
+      "students": "1700",
+      "fte": "165.1",
+      "pupilTeacherRatio": "10.3",
+      "numberOfSchools": "7"
+   },
+   {
+      "name": "Keene Sau Office",
+      "location": {
+         "state": {
+            "name": "New Hampshire",
+            "abbr": "NH",
+            "county": "Cheshire County"
+         }
+      },
+      "type": "3-Supervisory union administrative center (or county superintendent's office serving the same purpose)",
+      "grades": {
+         "lowest": "†",
+         "highest": "†"
+      },
+      "students": "†",
+      "fte": "†",
+      "pupilTeacherRatio": "†",
+      "numberOfSchools": "0"
+   },
+   {
+      "name": "Keene School District",
+      "location": {
+         "state": {
+            "name": "New Hampshire",
+            "abbr": "NH",
+            "county": "Cheshire County"
+         }
+      },
+      "type": "2-Local school district that is a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "3303",
+      "fte": "267.8",
+      "pupilTeacherRatio": "12.33",
+      "numberOfSchools": "7"
+   },
+   {
+      "name": "Kensington School District",
+      "location": {
+         "state": {
+            "name": "New Hampshire",
+            "abbr": "NH",
+            "county": "Rockingham County"
+         }
+      },
+      "type": "2-Local school district that is a component of a supervisory union",
+      "grades": {
+         "lowest": "Kindergarten",
+         "highest": "5th Grade"
+      },
+      "students": "131",
+      "fte": "12.1",
+      "pupilTeacherRatio": "10.83",
+      "numberOfSchools": "1"
+   },
+   {
+      "name": "Kreiva Academy Public Charter School District",
+      "location": {
+         "state": {
+            "name": "NEW HAMPSHIRE",
+            "abbr": "NH",
+            "county": "Hillsborough County"
+         }
+      },
+      "type": "7-Independent Charter District",
+      "grades": {
+         "lowest": "6th Grade",
+         "highest": "12th Grade"
+      },
+      "students": "121",
+      "fte": "9",
+      "pupilTeacherRatio": "13.44",
+      "numberOfSchools": "2"
+   },
+   {
+      "name": "Laconia Sau Office",
+      "location": {
+         "state": {
+            "name": "New Hampshire",
+            "abbr": "NH",
+            "county": "Belknap County"
+         }
+      },
+      "type": "3-Supervisory union administrative center (or county superintendent's office serving the same purpose)",
+      "grades": {
+         "lowest": "†",
+         "highest": "†"
+      },
+      "students": "†",
+      "fte": "†",
+      "pupilTeacherRatio": "†",
+      "numberOfSchools": "0"
+   },
+   {
+      "name": "Laconia School District",
+      "location": {
+         "state": {
+            "name": "New Hampshire",
+            "abbr": "NH",
+            "county": "Belknap County"
+         }
+      },
+      "type": "2-Local school district that is a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "13th Grade"
+      },
+      "students": "1973",
+      "fte": "147",
+      "pupilTeacherRatio": "13.42",
+      "numberOfSchools": "5"
+   },
+   {
+      "name": "Lafayette Regional School District",
+      "location": {
+         "state": {
+            "name": "New Hampshire",
+            "abbr": "NH",
+            "county": "Grafton County"
+         }
+      },
+      "type": "2-Local school district that is a component of a supervisory union",
+      "grades": {
+         "lowest": "Kindergarten",
+         "highest": "6th Grade"
+      },
+      "students": "108",
+      "fte": "8.1",
+      "pupilTeacherRatio": "13.33",
+      "numberOfSchools": "1"
+   },
+   {
+      "name": "Landaff School District",
+      "location": {
+         "state": {
+            "name": "New Hampshire",
+            "abbr": "NH",
+            "county": "Grafton County"
+         }
+      },
+      "type": "2-Local school district that is a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "3rd Grade"
+      },
+      "students": "32",
+      "fte": "1.6",
+      "pupilTeacherRatio": "20",
+      "numberOfSchools": "1"
+   },
+   {
+      "name": "Leaf Charter School",
+      "location": {
+         "state": {
+            "name": "NEW HAMPSHIRE",
+            "abbr": "NH",
+            "county": "Cheshire County"
+         }
+      },
+      "type": "7-Independent Charter District",
+      "grades": {
+         "lowest": "9th Grade",
+         "highest": "12th Grade"
+      },
+      "students": "69",
+      "fte": "8.2",
+      "pupilTeacherRatio": "8.41",
+      "numberOfSchools": "1"
+   },
+   {
+      "name": "Lebanon Sau Office",
+      "location": {
+         "state": {
+            "name": "New Hampshire",
+            "abbr": "NH",
+            "county": "Grafton County"
+         }
+      },
+      "type": "3-Supervisory union administrative center (or county superintendent's office serving the same purpose)",
+      "grades": {
+         "lowest": "†",
+         "highest": "†"
+      },
+      "students": "†",
+      "fte": "†",
+      "pupilTeacherRatio": "†",
+      "numberOfSchools": "0"
+   },
+   {
+      "name": "Lebanon School District",
+      "location": {
+         "state": {
+            "name": "New Hampshire",
+            "abbr": "NH",
+            "county": "Grafton County"
+         }
+      },
+      "type": "2-Local school district that is a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "1661",
+      "fte": "158.8",
+      "pupilTeacherRatio": "10.46",
+      "numberOfSchools": "4"
+   },
+   {
+      "name": "Ledyard Charter Academy",
+      "location": {
+         "state": {
+            "name": "New Hampshire",
+            "abbr": "NH",
+            "county": "Grafton County"
+         }
+      },
+      "type": "7-Independent Charter District",
+      "grades": {
+         "lowest": "9th Grade",
+         "highest": "12th Grade"
+      },
+      "students": "32",
+      "fte": "3",
+      "pupilTeacherRatio": "10.67",
+      "numberOfSchools": "1"
+   },
+   {
+      "name": "Lempster School District",
+      "location": {
+         "state": {
+            "name": "NEW HAMPSHIRE",
+            "abbr": "NH",
+            "county": "Sullivan County"
+         }
+      },
+      "type": "2-Local school district that is a component of a supervisory union",
+      "grades": {
+         "lowest": "Kindergarten",
+         "highest": "8th Grade"
+      },
+      "students": "106",
+      "fte": "9",
+      "pupilTeacherRatio": "11.78",
+      "numberOfSchools": "1"
+   },
+   {
+      "name": "Lincoln-Woodstock Sau Office",
+      "location": {
+         "state": {
+            "name": "New Hampshire",
+            "abbr": "NH",
+            "county": "Grafton County"
+         }
+      },
+      "type": "3-Supervisory union administrative center (or county superintendent's office serving the same purpose)",
+      "grades": {
+         "lowest": "†",
+         "highest": "†"
+      },
+      "students": "†",
+      "fte": "†",
+      "pupilTeacherRatio": "†",
+      "numberOfSchools": "0"
+   },
+   {
+      "name": "Lincoln-Woodstock School District",
+      "location": {
+         "state": {
+            "name": "New Hampshire",
+            "abbr": "NH",
+            "county": "Grafton County"
+         }
+      },
+      "type": "2-Local school district that is a component of a supervisory union",
+      "grades": {
+         "lowest": "Kindergarten",
+         "highest": "13th Grade"
+      },
+      "students": "274",
+      "fte": "40.2",
+      "pupilTeacherRatio": "6.82",
+      "numberOfSchools": "3"
+   },
+   {
+      "name": "Lisbon Regional School District",
+      "location": {
+         "state": {
+            "name": "New Hampshire",
+            "abbr": "NH",
+            "county": "Grafton County"
+         }
+      },
+      "type": "2-Local school district that is a component of a supervisory union",
+      "grades": {
+         "lowest": "Kindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "344",
+      "fte": "34.1",
+      "pupilTeacherRatio": "10.09",
+      "numberOfSchools": "3"
+   },
+   {
+      "name": "Litchfield Sau Office",
+      "location": {
+         "state": {
+            "name": "New Hampshire",
+            "abbr": "NH",
+            "county": "Hillsborough County"
+         }
+      },
+      "type": "3-Supervisory union administrative center (or county superintendent's office serving the same purpose)",
+      "grades": {
+         "lowest": "†",
+         "highest": "†"
+      },
+      "students": "†",
+      "fte": "†",
+      "pupilTeacherRatio": "†",
+      "numberOfSchools": "0"
+   },
+   {
+      "name": "Litchfield School District",
+      "location": {
+         "state": {
+            "name": "New Hampshire",
+            "abbr": "NH",
+            "county": "Hillsborough County"
+         }
+      },
+      "type": "2-Local school district that is a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "1296",
+      "fte": "100.9",
+      "pupilTeacherRatio": "12.84",
+      "numberOfSchools": "3"
+   },
+   {
+      "name": "Littleton Sau Office",
+      "location": {
+         "state": {
+            "name": "New Hampshire",
+            "abbr": "NH",
+            "county": "Grafton County"
+         }
+      },
+      "type": "3-Supervisory union administrative center (or county superintendent's office serving the same purpose)",
+      "grades": {
+         "lowest": "†",
+         "highest": "†"
+      },
+      "students": "†",
+      "fte": "†",
+      "pupilTeacherRatio": "†",
+      "numberOfSchools": "0"
+   },
+   {
+      "name": "Littleton School District",
+      "location": {
+         "state": {
+            "name": "New Hampshire",
+            "abbr": "NH",
+            "county": "Grafton County"
+         }
+      },
+      "type": "2-Local school district that is a component of a supervisory union",
+      "grades": {
+         "lowest": "Kindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "663",
+      "fte": "72.1",
+      "pupilTeacherRatio": "9.2",
+      "numberOfSchools": "3"
+   },
+   {
+      "name": "Londonderry Sau Office",
+      "location": {
+         "state": {
+            "name": "New Hampshire",
+            "abbr": "NH",
+            "county": "Rockingham County"
+         }
+      },
+      "type": "3-Supervisory union administrative center (or county superintendent's office serving the same purpose)",
+      "grades": {
+         "lowest": "†",
+         "highest": "†"
+      },
+      "students": "†",
+      "fte": "†",
+      "pupilTeacherRatio": "†",
+      "numberOfSchools": "0"
+   },
+   {
+      "name": "Londonderry School District",
+      "location": {
+         "state": {
+            "name": "New Hampshire",
+            "abbr": "NH",
+            "county": "Rockingham County"
+         }
+      },
+      "type": "2-Local school district that is a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "4237",
+      "fte": "328.6",
+      "pupilTeacherRatio": "12.89",
+      "numberOfSchools": "6"
+   },
+   {
+      "name": "Lyme Sau Office",
+      "location": {
+         "state": {
+            "name": "New Hampshire",
+            "abbr": "NH",
+            "county": "Grafton County"
+         }
+      },
+      "type": "3-Supervisory union administrative center (or county superintendent's office serving the same purpose)",
+      "grades": {
+         "lowest": "†",
+         "highest": "†"
+      },
+      "students": "†",
+      "fte": "†",
+      "pupilTeacherRatio": "†",
+      "numberOfSchools": "0"
+   },
+   {
+      "name": "Lyme School District",
+      "location": {
+         "state": {
+            "name": "New Hampshire",
+            "abbr": "NH",
+            "county": "Grafton County"
+         }
+      },
+      "type": "2-Local school district that is a component of a supervisory union",
+      "grades": {
+         "lowest": "Kindergarten",
+         "highest": "8th Grade"
+      },
+      "students": "198",
+      "fte": "22.9",
+      "pupilTeacherRatio": "8.65",
+      "numberOfSchools": "1"
+   },
+   {
+      "name": "Madison School District",
+      "location": {
+         "state": {
+            "name": "New Hampshire",
+            "abbr": "NH",
+            "county": "Carroll County"
+         }
+      },
+      "type": "2-Local school district that is a component of a supervisory union",
+      "grades": {
+         "lowest": "Kindergarten",
+         "highest": "6th Grade"
+      },
+      "students": "143",
+      "fte": "12.4",
+      "pupilTeacherRatio": "11.53",
+      "numberOfSchools": "1"
+   },
+   {
+      "name": "Making Community Connections Charter School",
+      "location": {
+         "state": {
+            "name": "New Hampshire",
+            "abbr": "NH",
+            "county": "Hillsborough County"
+         }
+      },
+      "type": "7-Independent Charter District",
+      "grades": {
+         "lowest": "6th Grade",
+         "highest": "12th Grade"
+      },
+      "students": "137",
+      "fte": "9.5",
+      "pupilTeacherRatio": "14.42",
+      "numberOfSchools": "3"
+   },
+   {
+      "name": "Manchester Sau Office",
+      "location": {
+         "state": {
+            "name": "New Hampshire",
+            "abbr": "NH",
+            "county": "Hillsborough County"
+         }
+      },
+      "type": "3-Supervisory union administrative center (or county superintendent's office serving the same purpose)",
+      "grades": {
+         "lowest": "†",
+         "highest": "†"
+      },
+      "students": "†",
+      "fte": "†",
+      "pupilTeacherRatio": "†",
+      "numberOfSchools": "0"
+   },
+   {
+      "name": "Manchester School District",
+      "location": {
+         "state": {
+            "name": "New Hampshire",
+            "abbr": "NH",
+            "county": "Hillsborough County"
+         }
+      },
+      "type": "2-Local school district that is a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "13255",
+      "fte": "1048.9",
+      "pupilTeacherRatio": "12.64",
+      "numberOfSchools": "22"
+   },
+   {
+      "name": "Marlborough School District",
+      "location": {
+         "state": {
+            "name": "New Hampshire",
+            "abbr": "NH",
+            "county": "Cheshire County"
+         }
+      },
+      "type": "2-Local school district that is a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "8th Grade"
+      },
+      "students": "173",
+      "fte": "17.6",
+      "pupilTeacherRatio": "9.83",
+      "numberOfSchools": "1"
+   },
+   {
+      "name": "Marlow School District",
+      "location": {
+         "state": {
+            "name": "New Hampshire",
+            "abbr": "NH",
+            "county": "Cheshire County"
+         }
+      },
+      "type": "2-Local school district that is a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "6th Grade"
+      },
+      "students": "46",
+      "fte": "5.9",
+      "pupilTeacherRatio": "7.8",
+      "numberOfSchools": "1"
+   },
+   {
+      "name": "Mascenic Regional Sau Office",
+      "location": {
+         "state": {
+            "name": "New Hampshire",
+            "abbr": "NH",
+            "county": "Hillsborough County"
+         }
+      },
+      "type": "3-Supervisory union administrative center (or county superintendent's office serving the same purpose)",
+      "grades": {
+         "lowest": "†",
+         "highest": "†"
+      },
+      "students": "†",
+      "fte": "†",
+      "pupilTeacherRatio": "†",
+      "numberOfSchools": "0"
+   },
+   {
+      "name": "Mascenic Regional School District",
+      "location": {
+         "state": {
+            "name": "New Hampshire",
+            "abbr": "NH",
+            "county": "Hillsborough County"
+         }
+      },
+      "type": "2-Local school district that is a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "1026",
+      "fte": "82.9",
+      "pupilTeacherRatio": "12.38",
+      "numberOfSchools": "3"
+   },
+   {
+      "name": "Mascoma Valley Reg School District",
+      "location": {
+         "state": {
+            "name": "New Hampshire",
+            "abbr": "NH",
+            "county": "Grafton County"
+         }
+      },
+      "type": "2-Local school district that is a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "1126",
+      "fte": "106",
+      "pupilTeacherRatio": "10.62",
+      "numberOfSchools": "4"
+   },
+   {
+      "name": "Mascoma Valley Sau Office",
+      "location": {
+         "state": {
+            "name": "New Hampshire",
+            "abbr": "NH",
+            "county": "Grafton County"
+         }
+      },
+      "type": "3-Supervisory union administrative center (or county superintendent's office serving the same purpose)",
+      "grades": {
+         "lowest": "†",
+         "highest": "†"
+      },
+      "students": "†",
+      "fte": "†",
+      "pupilTeacherRatio": "†",
+      "numberOfSchools": "0"
+   },
+   {
+      "name": "Mason Sau Office",
+      "location": {
+         "state": {
+            "name": "New Hampshire",
+            "abbr": "NH",
+            "county": "Hillsborough County"
+         }
+      },
+      "type": "3-Supervisory union administrative center (or county superintendent's office serving the same purpose)",
+      "grades": {
+         "lowest": "†",
+         "highest": "†"
+      },
+      "students": "†",
+      "fte": "†",
+      "pupilTeacherRatio": "†",
+      "numberOfSchools": "0"
+   },
+   {
+      "name": "Mason School District",
+      "location": {
+         "state": {
+            "name": "New Hampshire",
+            "abbr": "NH",
+            "county": "Hillsborough County"
+         }
+      },
+      "type": "2-Local school district that is a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "5th Grade"
+      },
+      "students": "83",
+      "fte": "8",
+      "pupilTeacherRatio": "10.38",
+      "numberOfSchools": "1"
+   },
+   {
+      "name": "Merrimack Sau Office",
+      "location": {
+         "state": {
+            "name": "New Hampshire",
+            "abbr": "NH",
+            "county": "Hillsborough County"
+         }
+      },
+      "type": "3-Supervisory union administrative center (or county superintendent's office serving the same purpose)",
+      "grades": {
+         "lowest": "†",
+         "highest": "†"
+      },
+      "students": "†",
+      "fte": "†",
+      "pupilTeacherRatio": "†",
+      "numberOfSchools": "0"
+   },
+   {
+      "name": "Merrimack School District",
+      "location": {
+         "state": {
+            "name": "New Hampshire",
+            "abbr": "NH",
+            "county": "Hillsborough County"
+         }
+      },
+      "type": "2-Local school district that is a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "3791",
+      "fte": "296",
+      "pupilTeacherRatio": "12.81",
+      "numberOfSchools": "6"
+   },
+   {
+      "name": "Merrimack Valley Sau Office",
+      "location": {
+         "state": {
+            "name": "New Hampshire",
+            "abbr": "NH",
+            "county": "Merrimack County"
+         }
+      },
+      "type": "3-Supervisory union administrative center (or county superintendent's office serving the same purpose)",
+      "grades": {
+         "lowest": "†",
+         "highest": "†"
+      },
+      "students": "†",
+      "fte": "†",
+      "pupilTeacherRatio": "†",
+      "numberOfSchools": "0"
+   },
+   {
+      "name": "Merrimack Valley School District",
+      "location": {
+         "state": {
+            "name": "New Hampshire",
+            "abbr": "NH",
+            "county": "Merrimack County"
+         }
+      },
+      "type": "2-Local school district that is a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "2376",
+      "fte": "192",
+      "pupilTeacherRatio": "12.38",
+      "numberOfSchools": "7"
+   },
+   {
+      "name": "Microsociety Academy Charter School of Southern Nh",
+      "location": {
+         "state": {
+            "name": "NEW HAMPSHIRE",
+            "abbr": "NH",
+            "county": "Hillsborough County"
+         }
+      },
+      "type": "7-Independent Charter District",
+      "grades": {
+         "lowest": "Kindergarten",
+         "highest": "8th Grade"
+      },
+      "students": "230",
+      "fte": "13.2",
+      "pupilTeacherRatio": "17.42",
+      "numberOfSchools": "1"
+   },
+   {
+      "name": "Middleton Sau",
+      "location": {
+         "state": {
+            "name": "NEW HAMPSHIRE",
+            "abbr": "NH",
+            "county": "Carroll County"
+         }
+      },
+      "type": "3-Supervisory union administrative center (or county superintendent's office serving the same purpose)",
+      "grades": {
+         "lowest": "†",
+         "highest": "†"
+      },
+      "students": "†",
+      "fte": "†",
+      "pupilTeacherRatio": "†",
+      "numberOfSchools": "0"
+   },
+   {
+      "name": "Middleton School District",
+      "location": {
+         "state": {
+            "name": "New Hampshire",
+            "abbr": "NH",
+            "county": "Carroll County"
+         }
+      },
+      "type": "2-Local school district that is a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "6th Grade"
+      },
+      "students": "144",
+      "fte": "13.5",
+      "pupilTeacherRatio": "10.67",
+      "numberOfSchools": "1"
+   },
+   {
+      "name": "Milan School District",
+      "location": {
+         "state": {
+            "name": "New Hampshire",
+            "abbr": "NH",
+            "county": "Coos County"
+         }
+      },
+      "type": "2-Local school district that is a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "6th Grade"
+      },
+      "students": "135",
+      "fte": "8.7",
+      "pupilTeacherRatio": "15.52",
+      "numberOfSchools": "1"
+   },
+   {
+      "name": "Milford Sau Office",
+      "location": {
+         "state": {
+            "name": "New Hampshire",
+            "abbr": "NH",
+            "county": "Hillsborough County"
+         }
+      },
+      "type": "3-Supervisory union administrative center (or county superintendent's office serving the same purpose)",
+      "grades": {
+         "lowest": "†",
+         "highest": "†"
+      },
+      "students": "†",
+      "fte": "†",
+      "pupilTeacherRatio": "†",
+      "numberOfSchools": "0"
+   },
+   {
+      "name": "Milford School District",
+      "location": {
+         "state": {
+            "name": "New Hampshire",
+            "abbr": "NH",
+            "county": "Hillsborough County"
+         }
+      },
+      "type": "2-Local school district that is a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "2320",
+      "fte": "175.6",
+      "pupilTeacherRatio": "13.21",
+      "numberOfSchools": "4"
+   },
+   {
+      "name": "Mill Falls Charter School District",
+      "location": {
+         "state": {
+            "name": "New Hampshire",
+            "abbr": "NH",
+            "county": "Hillsborough County"
+         }
+      },
+      "type": "7-Independent Charter District",
+      "grades": {
+         "lowest": "Kindergarten",
+         "highest": "6th Grade"
+      },
+      "students": "168",
+      "fte": "8.1",
+      "pupilTeacherRatio": "20.74",
+      "numberOfSchools": "1"
+   },
+   {
+      "name": "Milton School District",
+      "location": {
+         "state": {
+            "name": "New Hampshire",
+            "abbr": "NH",
+            "county": "Strafford County"
+         }
+      },
+      "type": "2-Local school district that is a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "505",
+      "fte": "45.6",
+      "pupilTeacherRatio": "11.07",
+      "numberOfSchools": "3"
+   },
+   {
+      "name": "Monadnock Regional Sau Office",
+      "location": {
+         "state": {
+            "name": "New Hampshire",
+            "abbr": "NH",
+            "county": "Cheshire County"
+         }
+      },
+      "type": "3-Supervisory union administrative center (or county superintendent's office serving the same purpose)",
+      "grades": {
+         "lowest": "†",
+         "highest": "†"
+      },
+      "students": "†",
+      "fte": "†",
+      "pupilTeacherRatio": "†",
+      "numberOfSchools": "0"
+   },
+   {
+      "name": "Monadnock Regional School District",
+      "location": {
+         "state": {
+            "name": "New Hampshire",
+            "abbr": "NH",
+            "county": "Cheshire County"
+         }
+      },
+      "type": "2-Local school district that is a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "1654",
+      "fte": "138.8",
+      "pupilTeacherRatio": "11.92",
+      "numberOfSchools": "7"
+   },
+   {
+      "name": "Monroe Sau Office",
+      "location": {
+         "state": {
+            "name": "New Hampshire",
+            "abbr": "NH",
+            "county": "Grafton County"
+         }
+      },
+      "type": "3-Supervisory union administrative center (or county superintendent's office serving the same purpose)",
+      "grades": {
+         "lowest": "†",
+         "highest": "†"
+      },
+      "students": "†",
+      "fte": "†",
+      "pupilTeacherRatio": "†",
+      "numberOfSchools": "0"
+   },
+   {
+      "name": "Monroe School District",
+      "location": {
+         "state": {
+            "name": "New Hampshire",
+            "abbr": "NH",
+            "county": "Grafton County"
+         }
+      },
+      "type": "2-Local school district that is a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "8th Grade"
+      },
+      "students": "91",
+      "fte": "10.9",
+      "pupilTeacherRatio": "8.35",
+      "numberOfSchools": "1"
+   },
+   {
+      "name": "Mont Vernon School District",
+      "location": {
+         "state": {
+            "name": "New Hampshire",
+            "abbr": "NH",
+            "county": "Hillsborough County"
+         }
+      },
+      "type": "2-Local school district that is a component of a supervisory union",
+      "grades": {
+         "lowest": "Kindergarten",
+         "highest": "6th Grade"
+      },
+      "students": "202",
+      "fte": "20.2",
+      "pupilTeacherRatio": "10",
+      "numberOfSchools": "1"
+   },
+   {
+      "name": "Moultonborough Sau Office",
+      "location": {
+         "state": {
+            "name": "New Hampshire",
+            "abbr": "NH",
+            "county": "Carroll County"
+         }
+      },
+      "type": "3-Supervisory union administrative center (or county superintendent's office serving the same purpose)",
+      "grades": {
+         "lowest": "†",
+         "highest": "†"
+      },
+      "students": "†",
+      "fte": "†",
+      "pupilTeacherRatio": "†",
+      "numberOfSchools": "0"
+   },
+   {
+      "name": "Moultonborough School District",
+      "location": {
+         "state": {
+            "name": "New Hampshire",
+            "abbr": "NH",
+            "county": "Carroll County"
+         }
+      },
+      "type": "2-Local school district that is a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "495",
+      "fte": "58.3",
+      "pupilTeacherRatio": "8.49",
+      "numberOfSchools": "3"
+   },
+   {
+      "name": "Mountain Village Charter School",
+      "location": {
+         "state": {
+            "name": "New Hampshire",
+            "abbr": "NH",
+            "county": "Grafton County"
+         }
+      },
+      "type": "7-Independent Charter District",
+      "grades": {
+         "lowest": "1st Grade",
+         "highest": "8th Grade"
+      },
+      "students": "103",
+      "fte": "5.6",
+      "pupilTeacherRatio": "18.39",
+      "numberOfSchools": "1"
+   },
+   {
+      "name": "Nashua Sau Office",
+      "location": {
+         "state": {
+            "name": "New Hampshire",
+            "abbr": "NH",
+            "county": "Hillsborough County"
+         }
+      },
+      "type": "3-Supervisory union administrative center (or county superintendent's office serving the same purpose)",
+      "grades": {
+         "lowest": "†",
+         "highest": "†"
+      },
+      "students": "†",
+      "fte": "†",
+      "pupilTeacherRatio": "†",
+      "numberOfSchools": "0"
+   },
+   {
+      "name": "Nashua School District",
+      "location": {
+         "state": {
+            "name": "New Hampshire",
+            "abbr": "NH",
+            "county": "Hillsborough County"
+         }
+      },
+      "type": "2-Local school district that is a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "11082",
+      "fte": "856.6",
+      "pupilTeacherRatio": "12.94",
+      "numberOfSchools": "19"
+   },
+   {
+      "name": "Nelson School District",
+      "location": {
+         "state": {
+            "name": "New Hampshire",
+            "abbr": "NH",
+            "county": "Cheshire County"
+         }
+      },
+      "type": "2-Local school district that is a component of a supervisory union",
+      "grades": {
+         "lowest": "Kindergarten",
+         "highest": "5th Grade"
+      },
+      "students": "82",
+      "fte": "6.6",
+      "pupilTeacherRatio": "12.42",
+      "numberOfSchools": "1"
+   },
+   {
+      "name": "New Boston School District",
+      "location": {
+         "state": {
+            "name": "New Hampshire",
+            "abbr": "NH",
+            "county": "Hillsborough County"
+         }
+      },
+      "type": "2-Local school district that is a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "6th Grade"
+      },
+      "students": "571",
+      "fte": "35.5",
+      "pupilTeacherRatio": "16.08",
+      "numberOfSchools": "1"
+   },
+   {
+      "name": "New Castle School District",
+      "location": {
+         "state": {
+            "name": "New Hampshire",
+            "abbr": "NH",
+            "county": "Rockingham County"
+         }
+      },
+      "type": "2-Local school district that is a component of a supervisory union",
+      "grades": {
+         "lowest": "Kindergarten",
+         "highest": "6th Grade"
+      },
+      "students": "40",
+      "fte": "5.4",
+      "pupilTeacherRatio": "7.41",
+      "numberOfSchools": "1"
+   },
+   {
+      "name": "Newfields School District",
+      "location": {
+         "state": {
+            "name": "New Hampshire",
+            "abbr": "NH",
+            "county": "Rockingham County"
+         }
+      },
+      "type": "2-Local school district that is a component of a supervisory union",
+      "grades": {
+         "lowest": "Kindergarten",
+         "highest": "5th Grade"
+      },
+      "students": "101",
+      "fte": "10.6",
+      "pupilTeacherRatio": "9.53",
+      "numberOfSchools": "1"
+   },
+   {
+      "name": "Newfound Area Sau Office",
+      "location": {
+         "state": {
+            "name": "New Hampshire",
+            "abbr": "NH",
+            "county": "Grafton County"
+         }
+      },
+      "type": "3-Supervisory union administrative center (or county superintendent's office serving the same purpose)",
+      "grades": {
+         "lowest": "†",
+         "highest": "†"
+      },
+      "students": "†",
+      "fte": "†",
+      "pupilTeacherRatio": "†",
+      "numberOfSchools": "0"
+   },
+   {
+      "name": "Newfound Area School District",
+      "location": {
+         "state": {
+            "name": "New Hampshire",
+            "abbr": "NH",
+            "county": "Grafton County"
+         }
+      },
+      "type": "2-Local school district that is a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "1207",
+      "fte": "99",
+      "pupilTeacherRatio": "12.19",
+      "numberOfSchools": "6"
+   },
+   {
+      "name": "Newington School District",
+      "location": {
+         "state": {
+            "name": "New Hampshire",
+            "abbr": "NH",
+            "county": "Rockingham County"
+         }
+      },
+      "type": "2-Local school district that is a component of a supervisory union",
+      "grades": {
+         "lowest": "Kindergarten",
+         "highest": "6th Grade"
+      },
+      "students": "50",
+      "fte": "5.7",
+      "pupilTeacherRatio": "8.77",
+      "numberOfSchools": "1"
+   },
+   {
+      "name": "Newmarket Sau Office",
+      "location": {
+         "state": {
+            "name": "New Hampshire",
+            "abbr": "NH",
+            "county": "Rockingham County"
+         }
+      },
+      "type": "3-Supervisory union administrative center (or county superintendent's office serving the same purpose)",
+      "grades": {
+         "lowest": "†",
+         "highest": "†"
+      },
+      "students": "†",
+      "fte": "†",
+      "pupilTeacherRatio": "†",
+      "numberOfSchools": "0"
+   },
+   {
+      "name": "Newmarket School District",
+      "location": {
+         "state": {
+            "name": "New Hampshire",
+            "abbr": "NH",
+            "county": "Rockingham County"
+         }
+      },
+      "type": "2-Local school district that is a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "13th Grade"
+      },
+      "students": "1095",
+      "fte": "87",
+      "pupilTeacherRatio": "12.59",
+      "numberOfSchools": "3"
+   },
+   {
+      "name": "Newport Sau Office",
+      "location": {
+         "state": {
+            "name": "New Hampshire",
+            "abbr": "NH",
+            "county": "Sullivan County"
+         }
+      },
+      "type": "3-Supervisory union administrative center (or county superintendent's office serving the same purpose)",
+      "grades": {
+         "lowest": "†",
+         "highest": "†"
+      },
+      "students": "†",
+      "fte": "†",
+      "pupilTeacherRatio": "†",
+      "numberOfSchools": "0"
+   },
+   {
+      "name": "Newport School District",
+      "location": {
+         "state": {
+            "name": "New Hampshire",
+            "abbr": "NH",
+            "county": "Sullivan County"
+         }
+      },
+      "type": "2-Local school district that is a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "13th Grade"
+      },
+      "students": "949",
+      "fte": "88.5",
+      "pupilTeacherRatio": "10.72",
+      "numberOfSchools": "3"
+   },
+   {
+      "name": "Next Charter School District",
+      "location": {
+         "state": {
+            "name": "New Hampshire",
+            "abbr": "NH",
+            "county": "Rockingham County"
+         }
+      },
+      "type": "7-Independent Charter District",
+      "grades": {
+         "lowest": "9th Grade",
+         "highest": "12th Grade"
+      },
+      "students": "75",
+      "fte": "7.5",
+      "pupilTeacherRatio": "10",
+      "numberOfSchools": "1"
+   },
+   {
+      "name": "North Country Charter Academy",
+      "location": {
+         "state": {
+            "name": "New Hampshire",
+            "abbr": "NH",
+            "county": "Grafton County"
+         }
+      },
+      "type": "7-Independent Charter District",
+      "grades": {
+         "lowest": "7th Grade",
+         "highest": "12th Grade"
+      },
+      "students": "54",
+      "fte": "3.7",
+      "pupilTeacherRatio": "14.59",
+      "numberOfSchools": "4"
+   },
+   {
+      "name": "North Hampton School District",
+      "location": {
+         "state": {
+            "name": "New Hampshire",
+            "abbr": "NH",
+            "county": "Rockingham County"
+         }
+      },
+      "type": "2-Local school district that is a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "8th Grade"
+      },
+      "students": "342",
+      "fte": "39.6",
+      "pupilTeacherRatio": "8.64",
+      "numberOfSchools": "1"
+   },
+   {
+      "name": "Northeast Woodland Chartered Public School",
+      "location": {
+         "state": {
+            "name": "NEW HAMPSHIRE",
+            "abbr": "NH",
+            "county": "Carroll County"
+         }
+      },
+      "type": "7-Independent Charter District",
+      "grades": {
+         "lowest": "–",
+         "highest": "–"
+      },
+      "students": "†",
+      "fte": "†",
+      "pupilTeacherRatio": "†",
+      "numberOfSchools": "0"
+   },
+   {
+      "name": "Northumberland Sau Office",
+      "location": {
+         "state": {
+            "name": "New Hampshire",
+            "abbr": "NH",
+            "county": "Coos County"
+         }
+      },
+      "type": "3-Supervisory union administrative center (or county superintendent's office serving the same purpose)",
+      "grades": {
+         "lowest": "†",
+         "highest": "†"
+      },
+      "students": "†",
+      "fte": "†",
+      "pupilTeacherRatio": "†",
+      "numberOfSchools": "0"
+   },
+   {
+      "name": "Northumberland School District",
+      "location": {
+         "state": {
+            "name": "New Hampshire",
+            "abbr": "NH",
+            "county": "Coos County"
+         }
+      },
+      "type": "2-Local school district that is a component of a supervisory union",
+      "grades": {
+         "lowest": "Kindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "343",
+      "fte": "36",
+      "pupilTeacherRatio": "9.53",
+      "numberOfSchools": "3"
+   },
+   {
+      "name": "Northwood Sau Office",
+      "location": {
+         "state": {
+            "name": "New Hampshire",
+            "abbr": "NH",
+            "county": "Rockingham County"
+         }
+      },
+      "type": "3-Supervisory union administrative center (or county superintendent's office serving the same purpose)",
+      "grades": {
+         "lowest": "†",
+         "highest": "†"
+      },
+      "students": "†",
+      "fte": "†",
+      "pupilTeacherRatio": "†",
+      "numberOfSchools": "0"
+   },
+   {
+      "name": "Northwood School District",
+      "location": {
+         "state": {
+            "name": "New Hampshire",
+            "abbr": "NH",
+            "county": "Rockingham County"
+         }
+      },
+      "type": "2-Local school district that is a component of a supervisory union",
+      "grades": {
+         "lowest": "Kindergarten",
+         "highest": "8th Grade"
+      },
+      "students": "397",
+      "fte": "31",
+      "pupilTeacherRatio": "12.81",
+      "numberOfSchools": "1"
+   },
+   {
+      "name": "Nottingham School District",
+      "location": {
+         "state": {
+            "name": "New Hampshire",
+            "abbr": "NH",
+            "county": "Rockingham County"
+         }
+      },
+      "type": "2-Local school district that is a component of a supervisory union",
+      "grades": {
+         "lowest": "Kindergarten",
+         "highest": "8th Grade"
+      },
+      "students": "528",
+      "fte": "41",
+      "pupilTeacherRatio": "12.88",
+      "numberOfSchools": "1"
+   },
+   {
+      "name": "Oyster River Coop School District",
+      "location": {
+         "state": {
+            "name": "New Hampshire",
+            "abbr": "NH",
+            "county": "Strafford County"
+         }
+      },
+      "type": "2-Local school district that is a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "2206",
+      "fte": "182.1",
+      "pupilTeacherRatio": "12.11",
+      "numberOfSchools": "5"
+   },
+   {
+      "name": "Oyster River Sau Office",
+      "location": {
+         "state": {
+            "name": "New Hampshire",
+            "abbr": "NH",
+            "county": "Strafford County"
+         }
+      },
+      "type": "3-Supervisory union administrative center (or county superintendent's office serving the same purpose)",
+      "grades": {
+         "lowest": "†",
+         "highest": "†"
+      },
+      "students": "†",
+      "fte": "†",
+      "pupilTeacherRatio": "†",
+      "numberOfSchools": "0"
+   },
+   {
+      "name": "Pace Career Academy Charter School",
+      "location": {
+         "state": {
+            "name": "New Hampshire",
+            "abbr": "NH",
+            "county": "Merrimack County"
+         }
+      },
+      "type": "7-Independent Charter District",
+      "grades": {
+         "lowest": "9th Grade",
+         "highest": "12th Grade"
+      },
+      "students": "57",
+      "fte": "4",
+      "pupilTeacherRatio": "14.25",
+      "numberOfSchools": "1"
+   },
+   {
+      "name": "Pelham School District",
+      "location": {
+         "state": {
+            "name": "New Hampshire",
+            "abbr": "NH",
+            "county": "Hillsborough County"
+         }
+      },
+      "type": "2-Local school district that is a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "1811",
+      "fte": "141",
+      "pupilTeacherRatio": "12.84",
+      "numberOfSchools": "3"
+   },
+   {
+      "name": "Pembroke Sau Office",
+      "location": {
+         "state": {
+            "name": "New Hampshire",
+            "abbr": "NH",
+            "county": "Merrimack County"
+         }
+      },
+      "type": "3-Supervisory union administrative center (or county superintendent's office serving the same purpose)",
+      "grades": {
+         "lowest": "†",
+         "highest": "†"
+      },
+      "students": "†",
+      "fte": "†",
+      "pupilTeacherRatio": "†",
+      "numberOfSchools": "0"
+   },
+   {
+      "name": "Pembroke School District",
+      "location": {
+         "state": {
+            "name": "New Hampshire",
+            "abbr": "NH",
+            "county": "Merrimack County"
+         }
+      },
+      "type": "2-Local school district that is a component of a supervisory union",
+      "grades": {
+         "lowest": "Kindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "1440",
+      "fte": "123",
+      "pupilTeacherRatio": "11.71",
+      "numberOfSchools": "3"
+   },
+   {
+      "name": "Pemi-Baker Regional School District",
+      "location": {
+         "state": {
+            "name": "New Hampshire",
+            "abbr": "NH",
+            "county": "Grafton County"
+         }
+      },
+      "type": "2-Local school district that is a component of a supervisory union",
+      "grades": {
+         "lowest": "9th Grade",
+         "highest": "12th Grade"
+      },
+      "students": "638",
+      "fte": "52.8",
+      "pupilTeacherRatio": "12.08",
+      "numberOfSchools": "1"
+   },
+   {
+      "name": "Piermont School District",
+      "location": {
+         "state": {
+            "name": "New Hampshire",
+            "abbr": "NH",
+            "county": "Grafton County"
+         }
+      },
+      "type": "2-Local school district that is a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "8th Grade"
+      },
+      "students": "68",
+      "fte": "8",
+      "pupilTeacherRatio": "8.5",
+      "numberOfSchools": "1"
+   },
+   {
+      "name": "Pinkerton Academy School District",
+      "location": {
+         "state": {
+            "name": "New Hampshire",
+            "abbr": "NH",
+            "county": "Rockingham County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "9th Grade",
+         "highest": "13th Grade"
+      },
+      "students": "3140",
+      "fte": "234.7",
+      "pupilTeacherRatio": "13.38",
+      "numberOfSchools": "1"
+   },
+   {
+      "name": "Pittsburg School District",
+      "location": {
+         "state": {
+            "name": "New Hampshire",
+            "abbr": "NH",
+            "county": "Coos County"
+         }
+      },
+      "type": "2-Local school district that is a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "80",
+      "fte": "16.6",
+      "pupilTeacherRatio": "4.82",
+      "numberOfSchools": "2"
+   },
+   {
+      "name": "Pittsfield Sau Office",
+      "location": {
+         "state": {
+            "name": "New Hampshire",
+            "abbr": "NH",
+            "county": "Merrimack County"
+         }
+      },
+      "type": "3-Supervisory union administrative center (or county superintendent's office serving the same purpose)",
+      "grades": {
+         "lowest": "†",
+         "highest": "†"
+      },
+      "students": "†",
+      "fte": "†",
+      "pupilTeacherRatio": "†",
+      "numberOfSchools": "0"
+   },
+   {
+      "name": "Pittsfield School District",
+      "location": {
+         "state": {
+            "name": "New Hampshire",
+            "abbr": "NH",
+            "county": "Merrimack County"
+         }
+      },
+      "type": "2-Local school district that is a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "582",
+      "fte": "53",
+      "pupilTeacherRatio": "10.98",
+      "numberOfSchools": "3"
+   },
+   {
+      "name": "Plainfield Sau Office",
+      "location": {
+         "state": {
+            "name": "New Hampshire",
+            "abbr": "NH",
+            "county": "Sullivan County"
+         }
+      },
+      "type": "3-Supervisory union administrative center (or county superintendent's office serving the same purpose)",
+      "grades": {
+         "lowest": "†",
+         "highest": "†"
+      },
+      "students": "†",
+      "fte": "†",
+      "pupilTeacherRatio": "†",
+      "numberOfSchools": "0"
+   },
+   {
+      "name": "Plainfield School District",
+      "location": {
+         "state": {
+            "name": "New Hampshire",
+            "abbr": "NH",
+            "county": "Sullivan County"
+         }
+      },
+      "type": "2-Local school district that is a component of a supervisory union",
+      "grades": {
+         "lowest": "Kindergarten",
+         "highest": "8th Grade"
+      },
+      "students": "224",
+      "fte": "19.4",
+      "pupilTeacherRatio": "11.55",
+      "numberOfSchools": "1"
+   },
+   {
+      "name": "Plymouth Sau Office",
+      "location": {
+         "state": {
+            "name": "New Hampshire",
+            "abbr": "NH",
+            "county": "Grafton County"
+         }
+      },
+      "type": "3-Supervisory union administrative center (or county superintendent's office serving the same purpose)",
+      "grades": {
+         "lowest": "†",
+         "highest": "†"
+      },
+      "students": "†",
+      "fte": "†",
+      "pupilTeacherRatio": "†",
+      "numberOfSchools": "0"
+   },
+   {
+      "name": "Plymouth School District",
+      "location": {
+         "state": {
+            "name": "New Hampshire",
+            "abbr": "NH",
+            "county": "Grafton County"
+         }
+      },
+      "type": "2-Local school district that is a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "8th Grade"
+      },
+      "students": "434",
+      "fte": "40.4",
+      "pupilTeacherRatio": "10.74",
+      "numberOfSchools": "1"
+   },
+   {
+      "name": "Polaris Charter School",
+      "location": {
+         "state": {
+            "name": "New Hampshire",
+            "abbr": "NH",
+            "county": "Hillsborough County"
+         }
+      },
+      "type": "7-Independent Charter District",
+      "grades": {
+         "lowest": "1st Grade",
+         "highest": "6th Grade"
+      },
+      "students": "109",
+      "fte": "7.9",
+      "pupilTeacherRatio": "13.8",
+      "numberOfSchools": "1"
+   },
+   {
+      "name": "Portsmouth Sau Office",
+      "location": {
+         "state": {
+            "name": "New Hampshire",
+            "abbr": "NH",
+            "county": "Rockingham County"
+         }
+      },
+      "type": "3-Supervisory union administrative center (or county superintendent's office serving the same purpose)",
+      "grades": {
+         "lowest": "†",
+         "highest": "†"
+      },
+      "students": "†",
+      "fte": "†",
+      "pupilTeacherRatio": "†",
+      "numberOfSchools": "0"
+   },
+   {
+      "name": "Portsmouth School District",
+      "location": {
+         "state": {
+            "name": "New Hampshire",
+            "abbr": "NH",
+            "county": "Rockingham County"
+         }
+      },
+      "type": "2-Local school district that is a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "2634",
+      "fte": "227.8",
+      "pupilTeacherRatio": "11.56",
+      "numberOfSchools": "6"
+   },
+   {
+      "name": "Profile School District",
+      "location": {
+         "state": {
+            "name": "New Hampshire",
+            "abbr": "NH",
+            "county": "Grafton County"
+         }
+      },
+      "type": "2-Local school district that is a component of a supervisory union",
+      "grades": {
+         "lowest": "7th Grade",
+         "highest": "12th Grade"
+      },
+      "students": "214",
+      "fte": "26.2",
+      "pupilTeacherRatio": "8.17",
+      "numberOfSchools": "2"
+   },
+   {
+      "name": "Prospect Mountain Jma",
+      "location": {
+         "state": {
+            "name": "New Hampshire",
+            "abbr": "NH",
+            "county": "Belknap County"
+         }
+      },
+      "type": "3-Supervisory union administrative center (or county superintendent's office serving the same purpose)",
+      "grades": {
+         "lowest": "†",
+         "highest": "†"
+      },
+      "students": "†",
+      "fte": "†",
+      "pupilTeacherRatio": "†",
+      "numberOfSchools": "0"
+   },
+   {
+      "name": "Prospect Mountain School District",
+      "location": {
+         "state": {
+            "name": "New Hampshire",
+            "abbr": "NH",
+            "county": "Belknap County"
+         }
+      },
+      "type": "2-Local school district that is a component of a supervisory union",
+      "grades": {
+         "lowest": "9th Grade",
+         "highest": "12th Grade"
+      },
+      "students": "451",
+      "fte": "43",
+      "pupilTeacherRatio": "10.49",
+      "numberOfSchools": "1"
+   },
+   {
+      "name": "Raymond Sau Office",
+      "location": {
+         "state": {
+            "name": "New Hampshire",
+            "abbr": "NH",
+            "county": "Rockingham County"
+         }
+      },
+      "type": "3-Supervisory union administrative center (or county superintendent's office serving the same purpose)",
+      "grades": {
+         "lowest": "†",
+         "highest": "†"
+      },
+      "students": "†",
+      "fte": "†",
+      "pupilTeacherRatio": "†",
+      "numberOfSchools": "0"
+   },
+   {
+      "name": "Raymond School District",
+      "location": {
+         "state": {
+            "name": "New Hampshire",
+            "abbr": "NH",
+            "county": "Rockingham County"
+         }
+      },
+      "type": "2-Local school district that is a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "13th Grade"
+      },
+      "students": "1233",
+      "fte": "105.5",
+      "pupilTeacherRatio": "11.69",
+      "numberOfSchools": "3"
+   },
+   {
+      "name": "Robert Frost Charter School",
+      "location": {
+         "state": {
+            "name": "New Hampshire",
+            "abbr": "NH",
+            "county": "Carroll County"
+         }
+      },
+      "type": "7-Independent Charter District",
+      "grades": {
+         "lowest": "Kindergarten",
+         "highest": "8th Grade"
+      },
+      "students": "52",
+      "fte": "3.8",
+      "pupilTeacherRatio": "13.68",
+      "numberOfSchools": "1"
+   },
+   {
+      "name": "Rochester Sau Office",
+      "location": {
+         "state": {
+            "name": "New Hampshire",
+            "abbr": "NH",
+            "county": "Strafford County"
+         }
+      },
+      "type": "3-Supervisory union administrative center (or county superintendent's office serving the same purpose)",
+      "grades": {
+         "lowest": "†",
+         "highest": "†"
+      },
+      "students": "†",
+      "fte": "†",
+      "pupilTeacherRatio": "†",
+      "numberOfSchools": "0"
+   },
+   {
+      "name": "Rochester School District",
+      "location": {
+         "state": {
+            "name": "New Hampshire",
+            "abbr": "NH",
+            "county": "Strafford County"
+         }
+      },
+      "type": "2-Local school district that is a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "4257",
+      "fte": "341.3",
+      "pupilTeacherRatio": "12.47",
+      "numberOfSchools": "11"
+   },
+   {
+      "name": "Rollinsford School District",
+      "location": {
+         "state": {
+            "name": "New Hampshire",
+            "abbr": "NH",
+            "county": "Strafford County"
+         }
+      },
+      "type": "2-Local school district that is a component of a supervisory union",
+      "grades": {
+         "lowest": "Kindergarten",
+         "highest": "6th Grade"
+      },
+      "students": "157",
+      "fte": "12.6",
+      "pupilTeacherRatio": "12.46",
+      "numberOfSchools": "1"
+   },
+   {
+      "name": "Rumney School District",
+      "location": {
+         "state": {
+            "name": "New Hampshire",
+            "abbr": "NH",
+            "county": "Grafton County"
+         }
+      },
+      "type": "2-Local school district that is a component of a supervisory union",
+      "grades": {
+         "lowest": "Kindergarten",
+         "highest": "8th Grade"
+      },
+      "students": "90",
+      "fte": "15.9",
+      "pupilTeacherRatio": "5.66",
+      "numberOfSchools": "1"
+   },
+   {
+      "name": "Rye School District",
+      "location": {
+         "state": {
+            "name": "New Hampshire",
+            "abbr": "NH",
+            "county": "Rockingham County"
+         }
+      },
+      "type": "2-Local school district that is a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "8th Grade"
+      },
+      "students": "400",
+      "fte": "43.2",
+      "pupilTeacherRatio": "9.26",
+      "numberOfSchools": "2"
+   },
+   {
+      "name": "Salem Sau Office",
+      "location": {
+         "state": {
+            "name": "New Hampshire",
+            "abbr": "NH",
+            "county": "Rockingham County"
+         }
+      },
+      "type": "3-Supervisory union administrative center (or county superintendent's office serving the same purpose)",
+      "grades": {
+         "lowest": "†",
+         "highest": "†"
+      },
+      "students": "†",
+      "fte": "†",
+      "pupilTeacherRatio": "†",
+      "numberOfSchools": "0"
+   },
+   {
+      "name": "Salem School District",
+      "location": {
+         "state": {
+            "name": "New Hampshire",
+            "abbr": "NH",
+            "county": "Rockingham County"
+         }
+      },
+      "type": "2-Local school district that is a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "3550",
+      "fte": "281",
+      "pupilTeacherRatio": "12.63",
+      "numberOfSchools": "8"
+   },
+   {
+      "name": "Sanborn Regional Sau Office",
+      "location": {
+         "state": {
+            "name": "New Hampshire",
+            "abbr": "NH",
+            "county": "Rockingham County"
+         }
+      },
+      "type": "3-Supervisory union administrative center (or county superintendent's office serving the same purpose)",
+      "grades": {
+         "lowest": "†",
+         "highest": "†"
+      },
+      "students": "†",
+      "fte": "†",
+      "pupilTeacherRatio": "†",
+      "numberOfSchools": "0"
+   },
+   {
+      "name": "Sanborn Regional School District",
+      "location": {
+         "state": {
+            "name": "New Hampshire",
+            "abbr": "NH",
+            "county": "Rockingham County"
+         }
+      },
+      "type": "2-Local school district that is a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "1580",
+      "fte": "146",
+      "pupilTeacherRatio": "10.82",
+      "numberOfSchools": "4"
+   },
+   {
+      "name": "Sau #28 Office",
+      "location": {
+         "state": {
+            "name": "New Hampshire",
+            "abbr": "NH",
+            "county": "Hillsborough County"
+         }
+      },
+      "type": "3-Supervisory union administrative center (or county superintendent's office serving the same purpose)",
+      "grades": {
+         "lowest": "†",
+         "highest": "†"
+      },
+      "students": "†",
+      "fte": "†",
+      "pupilTeacherRatio": "†",
+      "numberOfSchools": "0"
+   },
+   {
+      "name": "Seabrook School District",
+      "location": {
+         "state": {
+            "name": "New Hampshire",
+            "abbr": "NH",
+            "county": "Rockingham County"
+         }
+      },
+      "type": "2-Local school district that is a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "8th Grade"
+      },
+      "students": "712",
+      "fte": "70",
+      "pupilTeacherRatio": "10.17",
+      "numberOfSchools": "2"
+   },
+   {
+      "name": "Seacoast Charter School",
+      "location": {
+         "state": {
+            "name": "New Hampshire",
+            "abbr": "NH",
+            "county": "Strafford County"
+         }
+      },
+      "type": "7-Independent Charter District",
+      "grades": {
+         "lowest": "Kindergarten",
+         "highest": "8th Grade"
+      },
+      "students": "297",
+      "fte": "18.5",
+      "pupilTeacherRatio": "16.05",
+      "numberOfSchools": "1"
+   },
+   {
+      "name": "Shaker Regional Sau Office",
+      "location": {
+         "state": {
+            "name": "New Hampshire",
+            "abbr": "NH",
+            "county": "Belknap County"
+         }
+      },
+      "type": "3-Supervisory union administrative center (or county superintendent's office serving the same purpose)",
+      "grades": {
+         "lowest": "†",
+         "highest": "†"
+      },
+      "students": "†",
+      "fte": "†",
+      "pupilTeacherRatio": "†",
+      "numberOfSchools": "0"
+   },
+   {
+      "name": "Shaker Regional School District",
+      "location": {
+         "state": {
+            "name": "New Hampshire",
+            "abbr": "NH",
+            "county": "Belknap County"
+         }
+      },
+      "type": "2-Local school district that is a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "1271",
+      "fte": "110.9",
+      "pupilTeacherRatio": "11.46",
+      "numberOfSchools": "4"
+   },
+   {
+      "name": "Somersworth Sau Office",
+      "location": {
+         "state": {
+            "name": "New Hampshire",
+            "abbr": "NH",
+            "county": "Strafford County"
+         }
+      },
+      "type": "3-Supervisory union administrative center (or county superintendent's office serving the same purpose)",
+      "grades": {
+         "lowest": "†",
+         "highest": "†"
+      },
+      "students": "†",
+      "fte": "†",
+      "pupilTeacherRatio": "†",
+      "numberOfSchools": "0"
+   },
+   {
+      "name": "Somersworth School District",
+      "location": {
+         "state": {
+            "name": "New Hampshire",
+            "abbr": "NH",
+            "county": "Strafford County"
+         }
+      },
+      "type": "2-Local school district that is a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "13th Grade"
+      },
+      "students": "1509",
+      "fte": "122",
+      "pupilTeacherRatio": "12.37",
+      "numberOfSchools": "4"
+   },
+   {
+      "name": "Souhegan Cooperative School District",
+      "location": {
+         "state": {
+            "name": "New Hampshire",
+            "abbr": "NH",
+            "county": "Hillsborough County"
+         }
+      },
+      "type": "2-Local school district that is a component of a supervisory union",
+      "grades": {
+         "lowest": "9th Grade",
+         "highest": "12th Grade"
+      },
+      "students": "753",
+      "fte": "71.3",
+      "pupilTeacherRatio": "10.56",
+      "numberOfSchools": "1"
+   },
+   {
+      "name": "South Hampton School District",
+      "location": {
+         "state": {
+            "name": "New Hampshire",
+            "abbr": "NH",
+            "county": "Rockingham County"
+         }
+      },
+      "type": "2-Local school district that is a component of a supervisory union",
+      "grades": {
+         "lowest": "Kindergarten",
+         "highest": "8th Grade"
+      },
+      "students": "84",
+      "fte": "8.9",
+      "pupilTeacherRatio": "9.44",
+      "numberOfSchools": "1"
+   },
+   {
+      "name": "Spark Academy of Advanced Technologies",
+      "location": {
+         "state": {
+            "name": "NEW HAMPSHIRE",
+            "abbr": "NH",
+            "county": "Hillsborough County"
+         }
+      },
+      "type": "7-Independent Charter District",
+      "grades": {
+         "lowest": "9th Grade",
+         "highest": "9th Grade"
+      },
+      "students": "26",
+      "fte": "2.5",
+      "pupilTeacherRatio": "10.4",
+      "numberOfSchools": "1"
+   },
+   {
+      "name": "Stark School District",
+      "location": {
+         "state": {
+            "name": "New Hampshire",
+            "abbr": "NH",
+            "county": "Coos County"
+         }
+      },
+      "type": "2-Local school district that is a component of a supervisory union",
+      "grades": {
+         "lowest": "Kindergarten",
+         "highest": "6th Grade"
+      },
+      "students": "25",
+      "fte": "3.6",
+      "pupilTeacherRatio": "6.94",
+      "numberOfSchools": "1"
+   },
+   {
+      "name": "Stewartstown School District",
+      "location": {
+         "state": {
+            "name": "New Hampshire",
+            "abbr": "NH",
+            "county": "Coos County"
+         }
+      },
+      "type": "2-Local school district that is a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "8th Grade"
+      },
+      "students": "66",
+      "fte": "9.5",
+      "pupilTeacherRatio": "6.95",
+      "numberOfSchools": "1"
+   },
+   {
+      "name": "Stoddard School District",
+      "location": {
+         "state": {
+            "name": "New Hampshire",
+            "abbr": "NH",
+            "county": "Merrimack County"
+         }
+      },
+      "type": "2-Local school district that is a component of a supervisory union",
+      "grades": {
+         "lowest": "Kindergarten",
+         "highest": "5th Grade"
+      },
+      "students": "68",
+      "fte": "6.8",
+      "pupilTeacherRatio": "10",
+      "numberOfSchools": "1"
+   },
+   {
+      "name": "Strafford School District",
+      "location": {
+         "state": {
+            "name": "New Hampshire",
+            "abbr": "NH",
+            "county": "Rockingham County"
+         }
+      },
+      "type": "2-Local school district that is a component of a supervisory union",
+      "grades": {
+         "lowest": "Kindergarten",
+         "highest": "8th Grade"
+      },
+      "students": "412",
+      "fte": "34",
+      "pupilTeacherRatio": "12.12",
+      "numberOfSchools": "1"
+   },
+   {
+      "name": "Stratford School District",
+      "location": {
+         "state": {
+            "name": "New Hampshire",
+            "abbr": "NH",
+            "county": "Coos County"
+         }
+      },
+      "type": "2-Local school district that is a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "8th Grade"
+      },
+      "students": "58",
+      "fte": "9.7",
+      "pupilTeacherRatio": "5.98",
+      "numberOfSchools": "1"
+   },
+   {
+      "name": "Stratham School District",
+      "location": {
+         "state": {
+            "name": "New Hampshire",
+            "abbr": "NH",
+            "county": "Rockingham County"
+         }
+      },
+      "type": "2-Local school district that is a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "5th Grade"
+      },
+      "students": "551",
+      "fte": "44",
+      "pupilTeacherRatio": "12.52",
+      "numberOfSchools": "1"
+   },
+   {
+      "name": "Strong Foundations Charter School",
+      "location": {
+         "state": {
+            "name": "New Hampshire",
+            "abbr": "NH",
+            "county": "Merrimack County"
+         }
+      },
+      "type": "7-Independent Charter District",
+      "grades": {
+         "lowest": "1st Grade",
+         "highest": "8th Grade"
+      },
+      "students": "283",
+      "fte": "21.2",
+      "pupilTeacherRatio": "13.35",
+      "numberOfSchools": "1"
+   },
+   {
+      "name": "Sullivan Sau Office",
+      "location": {
+         "state": {
+            "name": "New Hampshire",
+            "abbr": "NH",
+            "county": "Cheshire County"
+         }
+      },
+      "type": "3-Supervisory union administrative center (or county superintendent's office serving the same purpose)",
+      "grades": {
+         "lowest": "†",
+         "highest": "†"
+      },
+      "students": "†",
+      "fte": "†",
+      "pupilTeacherRatio": "†",
+      "numberOfSchools": "0"
+   },
+   {
+      "name": "Sullivan School District",
+      "location": {
+         "state": {
+            "name": "New Hampshire",
+            "abbr": "NH",
+            "county": "Cheshire County"
+         }
+      },
+      "type": "2-Local school district that is a component of a supervisory union",
+      "grades": {
+         "lowest": "†",
+         "highest": "†"
+      },
+      "students": "†",
+      "fte": "†",
+      "pupilTeacherRatio": "†",
+      "numberOfSchools": "0"
+   },
+   {
+      "name": "Sunapee Sau Office",
+      "location": {
+         "state": {
+            "name": "New Hampshire",
+            "abbr": "NH",
+            "county": "Sullivan County"
+         }
+      },
+      "type": "3-Supervisory union administrative center (or county superintendent's office serving the same purpose)",
+      "grades": {
+         "lowest": "†",
+         "highest": "†"
+      },
+      "students": "†",
+      "fte": "†",
+      "pupilTeacherRatio": "†",
+      "numberOfSchools": "0"
+   },
+   {
+      "name": "Sunapee School District",
+      "location": {
+         "state": {
+            "name": "New Hampshire",
+            "abbr": "NH",
+            "county": "Sullivan County"
+         }
+      },
+      "type": "2-Local school district that is a component of a supervisory union",
+      "grades": {
+         "lowest": "Kindergarten",
+         "highest": "13th Grade"
+      },
+      "students": "413",
+      "fte": "43.5",
+      "pupilTeacherRatio": "9.49",
+      "numberOfSchools": "3"
+   },
+   {
+      "name": "Surry Sau Office",
+      "location": {
+         "state": {
+            "name": "New Hampshire",
+            "abbr": "NH",
+            "county": "Cheshire County"
+         }
+      },
+      "type": "3-Supervisory union administrative center (or county superintendent's office serving the same purpose)",
+      "grades": {
+         "lowest": "†",
+         "highest": "†"
+      },
+      "students": "†",
+      "fte": "†",
+      "pupilTeacherRatio": "†",
+      "numberOfSchools": "0"
+   },
+   {
+      "name": "Surry School District",
+      "location": {
+         "state": {
+            "name": "New Hampshire",
+            "abbr": "NH",
+            "county": "Cheshire County"
+         }
+      },
+      "type": "2-Local school district that is a component of a supervisory union",
+      "grades": {
+         "lowest": "†",
+         "highest": "†"
+      },
+      "students": "†",
+      "fte": "†",
+      "pupilTeacherRatio": "†",
+      "numberOfSchools": "0"
+   },
+   {
+      "name": "Surry Village Charter School",
+      "location": {
+         "state": {
+            "name": "New Hampshire",
+            "abbr": "NH",
+            "county": "Cheshire County"
+         }
+      },
+      "type": "7-Independent Charter District",
+      "grades": {
+         "lowest": "Kindergarten",
+         "highest": "8th Grade"
+      },
+      "students": "92",
+      "fte": "7.1",
+      "pupilTeacherRatio": "12.96",
+      "numberOfSchools": "1"
+   },
+   {
+      "name": "Tamworth Sau Office",
+      "location": {
+         "state": {
+            "name": "New Hampshire",
+            "abbr": "NH",
+            "county": "Carroll County"
+         }
+      },
+      "type": "3-Supervisory union administrative center (or county superintendent's office serving the same purpose)",
+      "grades": {
+         "lowest": "†",
+         "highest": "†"
+      },
+      "students": "†",
+      "fte": "†",
+      "pupilTeacherRatio": "†",
+      "numberOfSchools": "0"
+   },
+   {
+      "name": "Tamworth School District",
+      "location": {
+         "state": {
+            "name": "New Hampshire",
+            "abbr": "NH",
+            "county": "Carroll County"
+         }
+      },
+      "type": "2-Local school district that is a component of a supervisory union",
+      "grades": {
+         "lowest": "Kindergarten",
+         "highest": "8th Grade"
+      },
+      "students": "197",
+      "fte": "20.4",
+      "pupilTeacherRatio": "9.66",
+      "numberOfSchools": "1"
+   },
+   {
+      "name": "The Birches Academy for Academics & Art:a Public Charter Sch",
+      "location": {
+         "state": {
+            "name": "New Hampshire",
+            "abbr": "NH",
+            "county": "Rockingham County"
+         }
+      },
+      "type": "7-Independent Charter District",
+      "grades": {
+         "lowest": "Kindergarten",
+         "highest": "8th Grade"
+      },
+      "students": "224",
+      "fte": "13.5",
+      "pupilTeacherRatio": "16.59",
+      "numberOfSchools": "1"
+   },
+   {
+      "name": "The Founders Academy Charter School District",
+      "location": {
+         "state": {
+            "name": "New Hampshire",
+            "abbr": "NH",
+            "county": "Hillsborough County"
+         }
+      },
+      "type": "7-Independent Charter District",
+      "grades": {
+         "lowest": "6th Grade",
+         "highest": "12th Grade"
+      },
+      "students": "365",
+      "fte": "35.2",
+      "pupilTeacherRatio": "10.37",
+      "numberOfSchools": "2"
+   },
+   {
+      "name": "Thornton School District",
+      "location": {
+         "state": {
+            "name": "New Hampshire",
+            "abbr": "NH",
+            "county": "Grafton County"
+         }
+      },
+      "type": "2-Local school district that is a component of a supervisory union",
+      "grades": {
+         "lowest": "Kindergarten",
+         "highest": "8th Grade"
+      },
+      "students": "210",
+      "fte": "23",
+      "pupilTeacherRatio": "9.13",
+      "numberOfSchools": "1"
+   },
+   {
+      "name": "Timberlane Regional Sau Office",
+      "location": {
+         "state": {
+            "name": "New Hampshire",
+            "abbr": "NH",
+            "county": "Rockingham County"
+         }
+      },
+      "type": "3-Supervisory union administrative center (or county superintendent's office serving the same purpose)",
+      "grades": {
+         "lowest": "†",
+         "highest": "†"
+      },
+      "students": "†",
+      "fte": "†",
+      "pupilTeacherRatio": "†",
+      "numberOfSchools": "0"
+   },
+   {
+      "name": "Timberlane Regional School District",
+      "location": {
+         "state": {
+            "name": "New Hampshire",
+            "abbr": "NH",
+            "county": "Rockingham County"
+         }
+      },
+      "type": "2-Local school district that is a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "3466",
+      "fte": "302.6",
+      "pupilTeacherRatio": "11.45",
+      "numberOfSchools": "7"
+   },
+   {
+      "name": "Unity School District",
+      "location": {
+         "state": {
+            "name": "New Hampshire",
+            "abbr": "NH",
+            "county": "Sullivan County"
+         }
+      },
+      "type": "2-Local school district that is a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "8th Grade"
+      },
+      "students": "92",
+      "fte": "10.4",
+      "pupilTeacherRatio": "8.85",
+      "numberOfSchools": "1"
+   },
+   {
+      "name": "Virtual Learning Academy Charter School",
+      "location": {
+         "state": {
+            "name": "New Hampshire",
+            "abbr": "NH",
+            "county": "Rockingham County"
+         }
+      },
+      "type": "7-Independent Charter District",
+      "grades": {
+         "lowest": "6th Grade",
+         "highest": "12th Grade"
+      },
+      "students": "349",
+      "fte": "78.9",
+      "pupilTeacherRatio": "4.42",
+      "numberOfSchools": "2"
+   },
+   {
+      "name": "Wakefield Sau Office",
+      "location": {
+         "state": {
+            "name": "New Hampshire",
+            "abbr": "NH",
+            "county": "Carroll County"
+         }
+      },
+      "type": "3-Supervisory union administrative center (or county superintendent's office serving the same purpose)",
+      "grades": {
+         "lowest": "†",
+         "highest": "†"
+      },
+      "students": "†",
+      "fte": "†",
+      "pupilTeacherRatio": "†",
+      "numberOfSchools": "0"
+   },
+   {
+      "name": "Wakefield Sau Office",
+      "location": {
+         "state": {
+            "name": "NEW HAMPSHIRE",
+            "abbr": "NH",
+            "county": "Carroll County"
+         }
+      },
+      "type": "3-Supervisory union administrative center (or county superintendent's office serving the same purpose)",
+      "grades": {
+         "lowest": "†",
+         "highest": "†"
+      },
+      "students": "†",
+      "fte": "†",
+      "pupilTeacherRatio": "†",
+      "numberOfSchools": "0"
+   },
+   {
+      "name": "Wakefield School District",
+      "location": {
+         "state": {
+            "name": "New Hampshire",
+            "abbr": "NH",
+            "county": "Carroll County"
+         }
+      },
+      "type": "2-Local school district that is a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "8th Grade"
+      },
+      "students": "499",
+      "fte": "34",
+      "pupilTeacherRatio": "14.68",
+      "numberOfSchools": "1"
+   },
+   {
+      "name": "Warren School District",
+      "location": {
+         "state": {
+            "name": "New Hampshire",
+            "abbr": "NH",
+            "county": "Grafton County"
+         }
+      },
+      "type": "2-Local school district that is a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "8th Grade"
+      },
+      "students": "74",
+      "fte": "9.7",
+      "pupilTeacherRatio": "7.63",
+      "numberOfSchools": "1"
+   },
+   {
+      "name": "Washington School District",
+      "location": {
+         "state": {
+            "name": "New Hampshire",
+            "abbr": "NH",
+            "county": "Hillsborough County"
+         }
+      },
+      "type": "2-Local school district that is a component of a supervisory union",
+      "grades": {
+         "lowest": "Kindergarten",
+         "highest": "5th Grade"
+      },
+      "students": "44",
+      "fte": "4.6",
+      "pupilTeacherRatio": "9.57",
+      "numberOfSchools": "1"
+   },
+   {
+      "name": "Waterville Valley School District",
+      "location": {
+         "state": {
+            "name": "New Hampshire",
+            "abbr": "NH",
+            "county": "Grafton County"
+         }
+      },
+      "type": "2-Local school district that is a component of a supervisory union",
+      "grades": {
+         "lowest": "Kindergarten",
+         "highest": "8th Grade"
+      },
+      "students": "18",
+      "fte": "4.4",
+      "pupilTeacherRatio": "4.09",
+      "numberOfSchools": "1"
+   },
+   {
+      "name": "Weare School District",
+      "location": {
+         "state": {
+            "name": "New Hampshire",
+            "abbr": "NH",
+            "county": "Merrimack County"
+         }
+      },
+      "type": "2-Local school district that is a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "8th Grade"
+      },
+      "students": "957",
+      "fte": "79",
+      "pupilTeacherRatio": "12.11",
+      "numberOfSchools": "2"
+   },
+   {
+      "name": "Wentworth School District",
+      "location": {
+         "state": {
+            "name": "New Hampshire",
+            "abbr": "NH",
+            "county": "Grafton County"
+         }
+      },
+      "type": "2-Local school district that is a component of a supervisory union",
+      "grades": {
+         "lowest": "Kindergarten",
+         "highest": "8th Grade"
+      },
+      "students": "64",
+      "fte": "8",
+      "pupilTeacherRatio": "8",
+      "numberOfSchools": "1"
+   },
+   {
+      "name": "Westmoreland School District",
+      "location": {
+         "state": {
+            "name": "New Hampshire",
+            "abbr": "NH",
+            "county": "Cheshire County"
+         }
+      },
+      "type": "2-Local school district that is a component of a supervisory union",
+      "grades": {
+         "lowest": "Kindergarten",
+         "highest": "8th Grade"
+      },
+      "students": "135",
+      "fte": "13.4",
+      "pupilTeacherRatio": "10.07",
+      "numberOfSchools": "1"
+   },
+   {
+      "name": "White Mountain Regional School District",
+      "location": {
+         "state": {
+            "name": "New Hampshire",
+            "abbr": "NH",
+            "county": "Coos County"
+         }
+      },
+      "type": "2-Local school district that is a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "1057",
+      "fte": "99.7",
+      "pupilTeacherRatio": "10.6",
+      "numberOfSchools": "3"
+   },
+   {
+      "name": "White Mountains Regional Sau Office",
+      "location": {
+         "state": {
+            "name": "New Hampshire",
+            "abbr": "NH",
+            "county": "Coos County"
+         }
+      },
+      "type": "3-Supervisory union administrative center (or county superintendent's office serving the same purpose)",
+      "grades": {
+         "lowest": "†",
+         "highest": "†"
+      },
+      "students": "†",
+      "fte": "†",
+      "pupilTeacherRatio": "†",
+      "numberOfSchools": "0"
+   },
+   {
+      "name": "White Mountains Sau Office",
+      "location": {
+         "state": {
+            "name": "New Hampshire",
+            "abbr": "NH",
+            "county": "Grafton County"
+         }
+      },
+      "type": "3-Supervisory union administrative center (or county superintendent's office serving the same purpose)",
+      "grades": {
+         "lowest": "†",
+         "highest": "†"
+      },
+      "students": "†",
+      "fte": "†",
+      "pupilTeacherRatio": "†",
+      "numberOfSchools": "0"
+   },
+   {
+      "name": "Wilton Sau Office",
+      "location": {
+         "state": {
+            "name": "New Hampshire",
+            "abbr": "NH",
+            "county": "Hillsborough County"
+         }
+      },
+      "type": "3-Supervisory union administrative center (or county superintendent's office serving the same purpose)",
+      "grades": {
+         "lowest": "†",
+         "highest": "†"
+      },
+      "students": "†",
+      "fte": "†",
+      "pupilTeacherRatio": "†",
+      "numberOfSchools": "0"
+   },
+   {
+      "name": "Wilton-Lyndeboro School District",
+      "location": {
+         "state": {
+            "name": "New Hampshire",
+            "abbr": "NH",
+            "county": "Hillsborough County"
+         }
+      },
+      "type": "2-Local school district that is a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "565",
+      "fte": "55.3",
+      "pupilTeacherRatio": "10.22",
+      "numberOfSchools": "4"
+   },
+   {
+      "name": "Winchester Sau Office",
+      "location": {
+         "state": {
+            "name": "New Hampshire",
+            "abbr": "NH",
+            "county": "Cheshire County"
+         }
+      },
+      "type": "3-Supervisory union administrative center (or county superintendent's office serving the same purpose)",
+      "grades": {
+         "lowest": "†",
+         "highest": "†"
+      },
+      "students": "†",
+      "fte": "†",
+      "pupilTeacherRatio": "†",
+      "numberOfSchools": "0"
+   },
+   {
+      "name": "Winchester School District",
+      "location": {
+         "state": {
+            "name": "New Hampshire",
+            "abbr": "NH",
+            "county": "Cheshire County"
+         }
+      },
+      "type": "2-Local school district that is a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "8th Grade"
+      },
+      "students": "407",
+      "fte": "35.5",
+      "pupilTeacherRatio": "11.46",
+      "numberOfSchools": "1"
+   },
+   {
+      "name": "Windham Academy Public Charter School",
+      "location": {
+         "state": {
+            "name": "NEW HAMPSHIRE",
+            "abbr": "NH",
+            "county": "Rockingham County"
+         }
+      },
+      "type": "7-Independent Charter District",
+      "grades": {
+         "lowest": "Kindergarten",
+         "highest": "4th Grade"
+      },
+      "students": "167",
+      "fte": "11",
+      "pupilTeacherRatio": "15.18",
+      "numberOfSchools": "1"
+   },
+   {
+      "name": "Windham Sau Office",
+      "location": {
+         "state": {
+            "name": "New Hampshire",
+            "abbr": "NH",
+            "county": "Rockingham County"
+         }
+      },
+      "type": "3-Supervisory union administrative center (or county superintendent's office serving the same purpose)",
+      "grades": {
+         "lowest": "†",
+         "highest": "†"
+      },
+      "students": "†",
+      "fte": "†",
+      "pupilTeacherRatio": "†",
+      "numberOfSchools": "0"
+   },
+   {
+      "name": "Windham School District",
+      "location": {
+         "state": {
+            "name": "New Hampshire",
+            "abbr": "NH",
+            "county": "Rockingham County"
+         }
+      },
+      "type": "2-Local school district that is a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "13th Grade"
+      },
+      "students": "3010",
+      "fte": "221",
+      "pupilTeacherRatio": "13.62",
+      "numberOfSchools": "4"
+   },
+   {
+      "name": "Windsor School District",
+      "location": {
+         "state": {
+            "name": "New Hampshire",
+            "abbr": "NH",
+            "county": "Hillsborough County"
+         }
+      },
+      "type": "2-Local school district that is a component of a supervisory union",
+      "grades": {
+         "lowest": "†",
+         "highest": "†"
+      },
+      "students": "†",
+      "fte": "†",
+      "pupilTeacherRatio": "†",
+      "numberOfSchools": "0"
+   },
+   {
+      "name": "Winnacunnet Coop School District",
+      "location": {
+         "state": {
+            "name": "New Hampshire",
+            "abbr": "NH",
+            "county": "Rockingham County"
+         }
+      },
+      "type": "2-Local school district that is a component of a supervisory union",
+      "grades": {
+         "lowest": "9th Grade",
+         "highest": "13th Grade"
+      },
+      "students": "1060",
+      "fte": "97.8",
+      "pupilTeacherRatio": "10.84",
+      "numberOfSchools": "1"
+   },
+   {
+      "name": "Winnacunnet Sau Office",
+      "location": {
+         "state": {
+            "name": "New Hampshire",
+            "abbr": "NH",
+            "county": "Rockingham County"
+         }
+      },
+      "type": "3-Supervisory union administrative center (or county superintendent's office serving the same purpose)",
+      "grades": {
+         "lowest": "†",
+         "highest": "†"
+      },
+      "students": "†",
+      "fte": "†",
+      "pupilTeacherRatio": "†",
+      "numberOfSchools": "0"
+   },
+   {
+      "name": "Winnisquam Regional Sau Office",
+      "location": {
+         "state": {
+            "name": "New Hampshire",
+            "abbr": "NH",
+            "county": "Belknap County"
+         }
+      },
+      "type": "3-Supervisory union administrative center (or county superintendent's office serving the same purpose)",
+      "grades": {
+         "lowest": "†",
+         "highest": "†"
+      },
+      "students": "†",
+      "fte": "†",
+      "pupilTeacherRatio": "†",
+      "numberOfSchools": "0"
+   },
+   {
+      "name": "Winnisquam Regional School District",
+      "location": {
+         "state": {
+            "name": "New Hampshire",
+            "abbr": "NH",
+            "county": "Belknap County"
+         }
+      },
+      "type": "2-Local school district that is a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "1430",
+      "fte": "114",
+      "pupilTeacherRatio": "12.54",
+      "numberOfSchools": "5"
+   }
+]

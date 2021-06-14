@@ -1,0 +1,5265 @@
+[
+   {
+      "name": "Acadia Academy",
+      "location": {
+         "state": {
+            "name": "MAINE",
+            "abbr": "ME",
+            "county": "Androscoggin County"
+         }
+      },
+      "type": "7-Independent Charter District",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "5th Grade"
+      },
+      "students": "229",
+      "fte": "16.51",
+      "pupilTeacherRatio": "13.87",
+      "numberOfSchools": "1"
+   },
+   {
+      "name": "Acton Public Schools",
+      "location": {
+         "state": {
+            "name": "Maine",
+            "abbr": "ME",
+            "county": "York County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "233",
+      "fte": "18.2",
+      "pupilTeacherRatio": "12.8",
+      "numberOfSchools": "1"
+   },
+   {
+      "name": "Airline CSD",
+      "location": {
+         "state": {
+            "name": "Maine",
+            "abbr": "ME",
+            "county": "Hancock County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "56",
+      "fte": "4.9",
+      "pupilTeacherRatio": "11.43",
+      "numberOfSchools": "1"
+   },
+   {
+      "name": "Alexander Public Schools",
+      "location": {
+         "state": {
+            "name": "Maine",
+            "abbr": "ME",
+            "county": "Washington County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "42",
+      "fte": "4.99",
+      "pupilTeacherRatio": "8.42",
+      "numberOfSchools": "1"
+   },
+   {
+      "name": "Andover Public Schools",
+      "location": {
+         "state": {
+            "name": "MAINE",
+            "abbr": "ME",
+            "county": "Oxford County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "39",
+      "fte": "3.91",
+      "pupilTeacherRatio": "9.97",
+      "numberOfSchools": "1"
+   },
+   {
+      "name": "Appleton Public Schools",
+      "location": {
+         "state": {
+            "name": "Maine",
+            "abbr": "ME",
+            "county": "Knox County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Kindergarten",
+         "highest": "8th Grade"
+      },
+      "students": "148",
+      "fte": "15",
+      "pupilTeacherRatio": "9.87",
+      "numberOfSchools": "1"
+   },
+   {
+      "name": "Arthur R. Gould Sch--Lcydc",
+      "location": {
+         "state": {
+            "name": "Maine",
+            "abbr": "ME",
+            "county": "Cumberland County"
+         }
+      },
+      "type": "5-State agency providing elementary and/or secondary level instruction",
+      "grades": {
+         "lowest": "7th Grade",
+         "highest": "12th Grade"
+      },
+      "students": "24",
+      "fte": "10",
+      "pupilTeacherRatio": "2.4",
+      "numberOfSchools": "1"
+   },
+   {
+      "name": "Athens Public Schools",
+      "location": {
+         "state": {
+            "name": "Maine",
+            "abbr": "ME",
+            "county": "Somerset County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "133",
+      "fte": "11",
+      "pupilTeacherRatio": "12.09",
+      "numberOfSchools": "1"
+   },
+   {
+      "name": "Auburn Public Schools",
+      "location": {
+         "state": {
+            "name": "Maine",
+            "abbr": "ME",
+            "county": "Androscoggin County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "3532",
+      "fte": "294.01",
+      "pupilTeacherRatio": "12.01",
+      "numberOfSchools": "8"
+   },
+   {
+      "name": "Augusta Public Schools",
+      "location": {
+         "state": {
+            "name": "Maine",
+            "abbr": "ME",
+            "county": "Kennebec County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "2269",
+      "fte": "178.52",
+      "pupilTeacherRatio": "12.71",
+      "numberOfSchools": "7"
+   },
+   {
+      "name": "Baileyville Public Schools",
+      "location": {
+         "state": {
+            "name": "Maine",
+            "abbr": "ME",
+            "county": "Washington County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "337",
+      "fte": "31.34",
+      "pupilTeacherRatio": "10.75",
+      "numberOfSchools": "2"
+   },
+   {
+      "name": "Bangor Public Schools",
+      "location": {
+         "state": {
+            "name": "Maine",
+            "abbr": "ME",
+            "county": "Penobscot County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "3685",
+      "fte": "271.68",
+      "pupilTeacherRatio": "13.56",
+      "numberOfSchools": "10"
+   },
+   {
+      "name": "Bangor-Region 4",
+      "location": {
+         "state": {
+            "name": "Maine",
+            "abbr": "ME",
+            "county": "Penobscot County"
+         }
+      },
+      "type": "4-Regional Education Service Agency (RESA)",
+      "grades": {
+         "lowest": "†",
+         "highest": "†"
+      },
+      "students": "0",
+      "fte": "19.5",
+      "pupilTeacherRatio": "0",
+      "numberOfSchools": "1"
+   },
+   {
+      "name": "Bar Harbor Public Schools",
+      "location": {
+         "state": {
+            "name": "Maine",
+            "abbr": "ME",
+            "county": "Hancock County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Kindergarten",
+         "highest": "8th Grade"
+      },
+      "students": "337",
+      "fte": "39.8",
+      "pupilTeacherRatio": "8.47",
+      "numberOfSchools": "1"
+   },
+   {
+      "name": "Baring Plt Public Schools",
+      "location": {
+         "state": {
+            "name": "Maine",
+            "abbr": "ME",
+            "county": "Washington County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Kindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "0",
+      "fte": "0",
+      "pupilTeacherRatio": "†",
+      "numberOfSchools": "0"
+   },
+   {
+      "name": "Baxter Academy for Technology and Science",
+      "location": {
+         "state": {
+            "name": "Maine",
+            "abbr": "ME",
+            "county": "Cumberland County"
+         }
+      },
+      "type": "7-Independent Charter District",
+      "grades": {
+         "lowest": "9th Grade",
+         "highest": "12th Grade"
+      },
+      "students": "408",
+      "fte": "28.5",
+      "pupilTeacherRatio": "14.32",
+      "numberOfSchools": "1"
+   },
+   {
+      "name": "Beals Public Schools",
+      "location": {
+         "state": {
+            "name": "Maine",
+            "abbr": "ME",
+            "county": "Washington County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "8th Grade"
+      },
+      "students": "67",
+      "fte": "6.3",
+      "pupilTeacherRatio": "10.63",
+      "numberOfSchools": "1"
+   },
+   {
+      "name": "Beaver Cove Public Schools",
+      "location": {
+         "state": {
+            "name": "Maine",
+            "abbr": "ME",
+            "county": "Piscataquis County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Kindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "0",
+      "fte": "0",
+      "pupilTeacherRatio": "†",
+      "numberOfSchools": "0"
+   },
+   {
+      "name": "Beddington Public Schools",
+      "location": {
+         "state": {
+            "name": "Maine",
+            "abbr": "ME",
+            "county": "Washington County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Kindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "1",
+      "fte": "0",
+      "pupilTeacherRatio": "†",
+      "numberOfSchools": "0"
+   },
+   {
+      "name": "Biddeford Public Schools",
+      "location": {
+         "state": {
+            "name": "Maine",
+            "abbr": "ME",
+            "county": "York County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "2464",
+      "fte": "201.1",
+      "pupilTeacherRatio": "12.25",
+      "numberOfSchools": "6"
+   },
+   {
+      "name": "Blue Hill Public Schools",
+      "location": {
+         "state": {
+            "name": "Maine",
+            "abbr": "ME",
+            "county": "Hancock County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "391",
+      "fte": "27.81",
+      "pupilTeacherRatio": "14.06",
+      "numberOfSchools": "1"
+   },
+   {
+      "name": "Boothbay-Boothbay Hbr CSD",
+      "location": {
+         "state": {
+            "name": "Maine",
+            "abbr": "ME",
+            "county": "Lincoln County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "475",
+      "fte": "50.9",
+      "pupilTeacherRatio": "9.33",
+      "numberOfSchools": "2"
+   },
+   {
+      "name": "Bowerbank Public Schools",
+      "location": {
+         "state": {
+            "name": "Maine",
+            "abbr": "ME",
+            "county": "Piscataquis County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Kindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "2",
+      "fte": "0",
+      "pupilTeacherRatio": "†",
+      "numberOfSchools": "0"
+   },
+   {
+      "name": "Bremen Public Schools",
+      "location": {
+         "state": {
+            "name": "Maine",
+            "abbr": "ME",
+            "county": "Lincoln County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "9th Grade",
+         "highest": "12th Grade"
+      },
+      "students": "28",
+      "fte": "0",
+      "pupilTeacherRatio": "†",
+      "numberOfSchools": "0"
+   },
+   {
+      "name": "Brewer Public Schools",
+      "location": {
+         "state": {
+            "name": "Maine",
+            "abbr": "ME",
+            "county": "Penobscot County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "1654",
+      "fte": "118.2",
+      "pupilTeacherRatio": "13.99",
+      "numberOfSchools": "2"
+   },
+   {
+      "name": "Bridgewater Public Schools",
+      "location": {
+         "state": {
+            "name": "Maine",
+            "abbr": "ME",
+            "county": "Aroostook County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Kindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "0",
+      "fte": "0",
+      "pupilTeacherRatio": "†",
+      "numberOfSchools": "0"
+   },
+   {
+      "name": "Brighton Plt School Department",
+      "location": {
+         "state": {
+            "name": "Maine",
+            "abbr": "ME",
+            "county": "Somerset County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Kindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "0",
+      "fte": "0",
+      "pupilTeacherRatio": "†",
+      "numberOfSchools": "0"
+   },
+   {
+      "name": "Bristol Public Schools",
+      "location": {
+         "state": {
+            "name": "Maine",
+            "abbr": "ME",
+            "county": "Lincoln County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "284",
+      "fte": "15.6",
+      "pupilTeacherRatio": "18.21",
+      "numberOfSchools": "1"
+   },
+   {
+      "name": "Brooklin Public Schools",
+      "location": {
+         "state": {
+            "name": "Maine",
+            "abbr": "ME",
+            "county": "Hancock County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "83",
+      "fte": "7.3",
+      "pupilTeacherRatio": "11.37",
+      "numberOfSchools": "1"
+   },
+   {
+      "name": "Brooksville Public Schools",
+      "location": {
+         "state": {
+            "name": "Maine",
+            "abbr": "ME",
+            "county": "Hancock County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "94",
+      "fte": "8.4",
+      "pupilTeacherRatio": "11.19",
+      "numberOfSchools": "1"
+   },
+   {
+      "name": "Brunswick Public Schools",
+      "location": {
+         "state": {
+            "name": "Maine",
+            "abbr": "ME",
+            "county": "Cumberland County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "2422",
+      "fte": "215.03",
+      "pupilTeacherRatio": "11.26",
+      "numberOfSchools": "4"
+   },
+   {
+      "name": "Brunswick-Region 10",
+      "location": {
+         "state": {
+            "name": "Maine",
+            "abbr": "ME",
+            "county": "Cumberland County"
+         }
+      },
+      "type": "4-Regional Education Service Agency (RESA)",
+      "grades": {
+         "lowest": "†",
+         "highest": "†"
+      },
+      "students": "0",
+      "fte": "12.5",
+      "pupilTeacherRatio": "0",
+      "numberOfSchools": "1"
+   },
+   {
+      "name": "Burlington Public Schools",
+      "location": {
+         "state": {
+            "name": "MAINE",
+            "abbr": "ME",
+            "county": "Penobscot County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Kindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "0",
+      "fte": "0",
+      "pupilTeacherRatio": "†",
+      "numberOfSchools": "0"
+   },
+   {
+      "name": "Byron Public Schools",
+      "location": {
+         "state": {
+            "name": "MAINE",
+            "abbr": "ME",
+            "county": "Oxford County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Kindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "0",
+      "fte": "0",
+      "pupilTeacherRatio": "†",
+      "numberOfSchools": "0"
+   },
+   {
+      "name": "Calais Public Schools",
+      "location": {
+         "state": {
+            "name": "Maine",
+            "abbr": "ME",
+            "county": "Washington County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "595",
+      "fte": "51.53",
+      "pupilTeacherRatio": "11.55",
+      "numberOfSchools": "3"
+   },
+   {
+      "name": "Cape Elizabeth Public Schools",
+      "location": {
+         "state": {
+            "name": "Maine",
+            "abbr": "ME",
+            "county": "Cumberland County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Kindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "1576",
+      "fte": "126.5",
+      "pupilTeacherRatio": "12.46",
+      "numberOfSchools": "3"
+   },
+   {
+      "name": "Caratunk Public Schools",
+      "location": {
+         "state": {
+            "name": "Maine",
+            "abbr": "ME",
+            "county": "Somerset County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Kindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "0",
+      "fte": "0",
+      "pupilTeacherRatio": "†",
+      "numberOfSchools": "0"
+   },
+   {
+      "name": "Carrabassett Valley Public Schools",
+      "location": {
+         "state": {
+            "name": "Maine",
+            "abbr": "ME",
+            "county": "Franklin County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Kindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "11",
+      "fte": "0",
+      "pupilTeacherRatio": "†",
+      "numberOfSchools": "0"
+   },
+   {
+      "name": "Carroll Plt Public Schools",
+      "location": {
+         "state": {
+            "name": "Maine",
+            "abbr": "ME",
+            "county": "Penobscot County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Kindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "2",
+      "fte": "0",
+      "pupilTeacherRatio": "†",
+      "numberOfSchools": "0"
+   },
+   {
+      "name": "Castine Public Schools",
+      "location": {
+         "state": {
+            "name": "Maine",
+            "abbr": "ME",
+            "county": "Hancock County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "67",
+      "fte": "8.2",
+      "pupilTeacherRatio": "8.17",
+      "numberOfSchools": "1"
+   },
+   {
+      "name": "Caswell Public Schools",
+      "location": {
+         "state": {
+            "name": "Maine",
+            "abbr": "ME",
+            "county": "Aroostook County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "49",
+      "fte": "4.1",
+      "pupilTeacherRatio": "11.95",
+      "numberOfSchools": "1"
+   },
+   {
+      "name": "Charlotte Public Schools",
+      "location": {
+         "state": {
+            "name": "Maine",
+            "abbr": "ME",
+            "county": "Washington County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "30",
+      "fte": "4.52",
+      "pupilTeacherRatio": "6.64",
+      "numberOfSchools": "1"
+   },
+   {
+      "name": "Chebeague Island Public Schools",
+      "location": {
+         "state": {
+            "name": "Maine",
+            "abbr": "ME",
+            "county": "Cumberland County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "21",
+      "fte": "3.5",
+      "pupilTeacherRatio": "6",
+      "numberOfSchools": "1"
+   },
+   {
+      "name": "Cherryfield Public Schools",
+      "location": {
+         "state": {
+            "name": "Maine",
+            "abbr": "ME",
+            "county": "Washington County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "96",
+      "fte": "8.01",
+      "pupilTeacherRatio": "11.99",
+      "numberOfSchools": "1"
+   },
+   {
+      "name": "Cooper Public Schools",
+      "location": {
+         "state": {
+            "name": "Maine",
+            "abbr": "ME",
+            "county": "Washington County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Kindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "6",
+      "fte": "0",
+      "pupilTeacherRatio": "†",
+      "numberOfSchools": "0"
+   },
+   {
+      "name": "Coplin Plt Public Schools",
+      "location": {
+         "state": {
+            "name": "Maine",
+            "abbr": "ME",
+            "county": "Cumberland County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Kindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "2",
+      "fte": "0",
+      "pupilTeacherRatio": "†",
+      "numberOfSchools": "0"
+   },
+   {
+      "name": "Cornville Regional Charter School",
+      "location": {
+         "state": {
+            "name": "Maine",
+            "abbr": "ME",
+            "county": "Somerset County"
+         }
+      },
+      "type": "7-Independent Charter District",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "309",
+      "fte": "19.33",
+      "pupilTeacherRatio": "15.99",
+      "numberOfSchools": "3"
+   },
+   {
+      "name": "Cranberry Isles Public Schools",
+      "location": {
+         "state": {
+            "name": "Maine",
+            "abbr": "ME",
+            "county": "Hancock County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Kindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "11",
+      "fte": "1.71",
+      "pupilTeacherRatio": "6.43",
+      "numberOfSchools": "1"
+   },
+   {
+      "name": "Crawford Public Schools",
+      "location": {
+         "state": {
+            "name": "Maine",
+            "abbr": "ME",
+            "county": "Washington County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Kindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "0",
+      "fte": "0",
+      "pupilTeacherRatio": "†",
+      "numberOfSchools": "0"
+   },
+   {
+      "name": "Cutler Public Schools",
+      "location": {
+         "state": {
+            "name": "Maine",
+            "abbr": "ME",
+            "county": "Washington County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "96",
+      "fte": "6.2",
+      "pupilTeacherRatio": "15.48",
+      "numberOfSchools": "1"
+   },
+   {
+      "name": "Damariscotta Public Schools",
+      "location": {
+         "state": {
+            "name": "Maine",
+            "abbr": "ME",
+            "county": "Lincoln County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "9th Grade",
+         "highest": "12th Grade"
+      },
+      "students": "78",
+      "fte": "0",
+      "pupilTeacherRatio": "†",
+      "numberOfSchools": "0"
+   },
+   {
+      "name": "Dayton Public Schools",
+      "location": {
+         "state": {
+            "name": "Maine",
+            "abbr": "ME",
+            "county": "York County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "329",
+      "fte": "12.21",
+      "pupilTeacherRatio": "26.95",
+      "numberOfSchools": "1"
+   },
+   {
+      "name": "Deblois Public Schools",
+      "location": {
+         "state": {
+            "name": "Maine",
+            "abbr": "ME",
+            "county": "Washington County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Kindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "0",
+      "fte": "0",
+      "pupilTeacherRatio": "†",
+      "numberOfSchools": "0"
+   },
+   {
+      "name": "Dedham Public Schools",
+      "location": {
+         "state": {
+            "name": "Maine",
+            "abbr": "ME",
+            "county": "Hancock County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "214",
+      "fte": "16.21",
+      "pupilTeacherRatio": "13.2",
+      "numberOfSchools": "1"
+   },
+   {
+      "name": "Deer Isle-Stonington CSD",
+      "location": {
+         "state": {
+            "name": "Maine",
+            "abbr": "ME",
+            "county": "Hancock County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Kindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "328",
+      "fte": "37.13",
+      "pupilTeacherRatio": "8.83",
+      "numberOfSchools": "2"
+   },
+   {
+      "name": "Dennistown Plt Public Schools",
+      "location": {
+         "state": {
+            "name": "Maine",
+            "abbr": "ME",
+            "county": "Waldo County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Kindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "0",
+      "fte": "0",
+      "pupilTeacherRatio": "†",
+      "numberOfSchools": "0"
+   },
+   {
+      "name": "Dennysville Public Schools",
+      "location": {
+         "state": {
+            "name": "Maine",
+            "abbr": "ME",
+            "county": "Washington County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Kindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "7",
+      "fte": "0",
+      "pupilTeacherRatio": "†",
+      "numberOfSchools": "0"
+   },
+   {
+      "name": "Drew Plt Public Schools",
+      "location": {
+         "state": {
+            "name": "Maine",
+            "abbr": "ME",
+            "county": "Penobscot County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Kindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "0",
+      "fte": "0",
+      "pupilTeacherRatio": "†",
+      "numberOfSchools": "0"
+   },
+   {
+      "name": "Eagle Lake Public Schools",
+      "location": {
+         "state": {
+            "name": "MAINE",
+            "abbr": "ME",
+            "county": "Aroostook County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Kindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "0",
+      "fte": "0",
+      "pupilTeacherRatio": "†",
+      "numberOfSchools": "0"
+   },
+   {
+      "name": "East Machias Public Schools",
+      "location": {
+         "state": {
+            "name": "Maine",
+            "abbr": "ME",
+            "county": "Washington County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "246",
+      "fte": "14.31",
+      "pupilTeacherRatio": "17.19",
+      "numberOfSchools": "1"
+   },
+   {
+      "name": "East Millinocket Public Schools",
+      "location": {
+         "state": {
+            "name": "Maine",
+            "abbr": "ME",
+            "county": "Penobscot County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "263",
+      "fte": "23.8",
+      "pupilTeacherRatio": "11.05",
+      "numberOfSchools": "2"
+   },
+   {
+      "name": "East Range CSD",
+      "location": {
+         "state": {
+            "name": "Maine",
+            "abbr": "ME",
+            "county": "Washington County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "23",
+      "fte": "3",
+      "pupilTeacherRatio": "7.67",
+      "numberOfSchools": "1"
+   },
+   {
+      "name": "Easton Public Schools",
+      "location": {
+         "state": {
+            "name": "Maine",
+            "abbr": "ME",
+            "county": "Aroostook County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "243",
+      "fte": "21.11",
+      "pupilTeacherRatio": "11.51",
+      "numberOfSchools": "2"
+   },
+   {
+      "name": "Eastport Public Schools",
+      "location": {
+         "state": {
+            "name": "Maine",
+            "abbr": "ME",
+            "county": "Washington County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "171",
+      "fte": "17.2",
+      "pupilTeacherRatio": "9.94",
+      "numberOfSchools": "2"
+   },
+   {
+      "name": "Ecology Learning Center",
+      "location": {
+         "state": {
+            "name": "MAINE",
+            "abbr": "ME",
+            "county": "Waldo County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "–",
+         "highest": "–"
+      },
+      "students": "†",
+      "fte": "†",
+      "pupilTeacherRatio": "†",
+      "numberOfSchools": "0"
+   },
+   {
+      "name": "Edgecomb Public Schools",
+      "location": {
+         "state": {
+            "name": "Maine",
+            "abbr": "ME",
+            "county": "Lincoln County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "132",
+      "fte": "7.81",
+      "pupilTeacherRatio": "16.9",
+      "numberOfSchools": "1"
+   },
+   {
+      "name": "Education in Unorganized Terr",
+      "location": {
+         "state": {
+            "name": "Maine",
+            "abbr": "ME",
+            "county": "Kennebec County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "186",
+      "fte": "12.41",
+      "pupilTeacherRatio": "14.99",
+      "numberOfSchools": "3"
+   },
+   {
+      "name": "Ellsworth Public Schools",
+      "location": {
+         "state": {
+            "name": "Maine",
+            "abbr": "ME",
+            "county": "Hancock County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "1375",
+      "fte": "111.2",
+      "pupilTeacherRatio": "12.37",
+      "numberOfSchools": "3"
+   },
+   {
+      "name": "Eustis Public Schools",
+      "location": {
+         "state": {
+            "name": "Maine",
+            "abbr": "ME",
+            "county": "Franklin County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "90",
+      "fte": "10.01",
+      "pupilTeacherRatio": "8.99",
+      "numberOfSchools": "1"
+   },
+   {
+      "name": "Falmouth Public Schools",
+      "location": {
+         "state": {
+            "name": "Maine",
+            "abbr": "ME",
+            "county": "Cumberland County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Kindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "2091",
+      "fte": "186.83",
+      "pupilTeacherRatio": "11.19",
+      "numberOfSchools": "3"
+   },
+   {
+      "name": "Fayette Public Schools",
+      "location": {
+         "state": {
+            "name": "Maine",
+            "abbr": "ME",
+            "county": "Kennebec County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "83",
+      "fte": "6.08",
+      "pupilTeacherRatio": "13.65",
+      "numberOfSchools": "1"
+   },
+   {
+      "name": "Fiddlehead School of Arts and Sciences",
+      "location": {
+         "state": {
+            "name": "Maine",
+            "abbr": "ME",
+            "county": "Cumberland County"
+         }
+      },
+      "type": "7-Independent Charter District",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "6th Grade"
+      },
+      "students": "153",
+      "fte": "11.79",
+      "pupilTeacherRatio": "12.98",
+      "numberOfSchools": "1"
+   },
+   {
+      "name": "Five Town CSD",
+      "location": {
+         "state": {
+            "name": "Maine",
+            "abbr": "ME",
+            "county": "Knox County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "9th Grade",
+         "highest": "12th Grade"
+      },
+      "students": "712",
+      "fte": "56.8",
+      "pupilTeacherRatio": "12.54",
+      "numberOfSchools": "1"
+   },
+   {
+      "name": "Frenchboro Public Schools",
+      "location": {
+         "state": {
+            "name": "Maine",
+            "abbr": "ME",
+            "county": "Hancock County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Kindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "3",
+      "fte": "1",
+      "pupilTeacherRatio": "3",
+      "numberOfSchools": "1"
+   },
+   {
+      "name": "Georgetown Public Schools",
+      "location": {
+         "state": {
+            "name": "Maine",
+            "abbr": "ME",
+            "county": "Lincoln County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "53",
+      "fte": "8.5",
+      "pupilTeacherRatio": "6.24",
+      "numberOfSchools": "1"
+   },
+   {
+      "name": "Gilead Public Schools",
+      "location": {
+         "state": {
+            "name": "Maine",
+            "abbr": "ME",
+            "county": "Oxford County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Kindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "0",
+      "fte": "0",
+      "pupilTeacherRatio": "†",
+      "numberOfSchools": "0"
+   },
+   {
+      "name": "Glenburn Public Schools",
+      "location": {
+         "state": {
+            "name": "Maine",
+            "abbr": "ME",
+            "county": "Penobscot County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "507",
+      "fte": "34",
+      "pupilTeacherRatio": "14.91",
+      "numberOfSchools": "1"
+   },
+   {
+      "name": "Glenwood Plt Public Schools",
+      "location": {
+         "state": {
+            "name": "Maine",
+            "abbr": "ME",
+            "county": "Waldo County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Kindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "0",
+      "fte": "0",
+      "pupilTeacherRatio": "†",
+      "numberOfSchools": "0"
+   },
+   {
+      "name": "Gorham Public Schools",
+      "location": {
+         "state": {
+            "name": "Maine",
+            "abbr": "ME",
+            "county": "Cumberland County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Kindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "2800",
+      "fte": "212.82",
+      "pupilTeacherRatio": "13.16",
+      "numberOfSchools": "5"
+   },
+   {
+      "name": "Grand Isle Public Schools",
+      "location": {
+         "state": {
+            "name": "Maine",
+            "abbr": "ME",
+            "county": "Aroostook County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Kindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "0",
+      "fte": "0",
+      "pupilTeacherRatio": "†",
+      "numberOfSchools": "0"
+   },
+   {
+      "name": "Grand Lake Stream Plt School Dept",
+      "location": {
+         "state": {
+            "name": "Maine",
+            "abbr": "ME",
+            "county": "Washington County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Kindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "0",
+      "fte": "0",
+      "pupilTeacherRatio": "†",
+      "numberOfSchools": "0"
+   },
+   {
+      "name": "Great Salt Bay CSD",
+      "location": {
+         "state": {
+            "name": "Maine",
+            "abbr": "ME",
+            "county": "Lincoln County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Kindergarten",
+         "highest": "8th Grade"
+      },
+      "students": "429",
+      "fte": "36.3",
+      "pupilTeacherRatio": "11.82",
+      "numberOfSchools": "1"
+   },
+   {
+      "name": "Greenbush Public Schools",
+      "location": {
+         "state": {
+            "name": "Maine",
+            "abbr": "ME",
+            "county": "Penobscot County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "147",
+      "fte": "14.58",
+      "pupilTeacherRatio": "10.08",
+      "numberOfSchools": "1"
+   },
+   {
+      "name": "Greenville Public Schools",
+      "location": {
+         "state": {
+            "name": "Maine",
+            "abbr": "ME",
+            "county": "Piscataquis County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Kindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "192",
+      "fte": "20.02",
+      "pupilTeacherRatio": "9.59",
+      "numberOfSchools": "1"
+   },
+   {
+      "name": "Hancock Public Schools",
+      "location": {
+         "state": {
+            "name": "Maine",
+            "abbr": "ME",
+            "county": "Hancock County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Kindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "208",
+      "fte": "18.5",
+      "pupilTeacherRatio": "11.24",
+      "numberOfSchools": "1"
+   },
+   {
+      "name": "Harmony Public Schools",
+      "location": {
+         "state": {
+            "name": "Maine",
+            "abbr": "ME",
+            "county": "Penobscot County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "70",
+      "fte": "6.29",
+      "pupilTeacherRatio": "11.13",
+      "numberOfSchools": "1"
+   },
+   {
+      "name": "Harpswell Coastal Academy",
+      "location": {
+         "state": {
+            "name": "Maine",
+            "abbr": "ME",
+            "county": "Cumberland County"
+         }
+      },
+      "type": "7-Independent Charter District",
+      "grades": {
+         "lowest": "6th Grade",
+         "highest": "12th Grade"
+      },
+      "students": "195",
+      "fte": "13.2",
+      "pupilTeacherRatio": "14.77",
+      "numberOfSchools": "2"
+   },
+   {
+      "name": "Hermon Public Schools",
+      "location": {
+         "state": {
+            "name": "Maine",
+            "abbr": "ME",
+            "county": "Penobscot County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "1334",
+      "fte": "90.9",
+      "pupilTeacherRatio": "14.68",
+      "numberOfSchools": "3"
+   },
+   {
+      "name": "Highland Plt Public Schools",
+      "location": {
+         "state": {
+            "name": "Maine",
+            "abbr": "ME",
+            "county": "Franklin County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Kindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "0",
+      "fte": "0",
+      "pupilTeacherRatio": "†",
+      "numberOfSchools": "0"
+   },
+   {
+      "name": "Hope Public Schools",
+      "location": {
+         "state": {
+            "name": "Maine",
+            "abbr": "ME",
+            "county": "Knox County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "8th Grade"
+      },
+      "students": "191",
+      "fte": "16.32",
+      "pupilTeacherRatio": "11.7",
+      "numberOfSchools": "1"
+   },
+   {
+      "name": "Houlton-Region 2",
+      "location": {
+         "state": {
+            "name": "Maine",
+            "abbr": "ME",
+            "county": "Aroostook County"
+         }
+      },
+      "type": "4-Regional Education Service Agency (RESA)",
+      "grades": {
+         "lowest": "†",
+         "highest": "†"
+      },
+      "students": "0",
+      "fte": "11",
+      "pupilTeacherRatio": "0",
+      "numberOfSchools": "1"
+   },
+   {
+      "name": "Indian Island",
+      "location": {
+         "state": {
+            "name": "Maine",
+            "abbr": "ME",
+            "county": "Washington County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "97",
+      "fte": "19",
+      "pupilTeacherRatio": "5.11",
+      "numberOfSchools": "0"
+   },
+   {
+      "name": "Indian Township",
+      "location": {
+         "state": {
+            "name": "Maine",
+            "abbr": "ME",
+            "county": "Washington County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "157",
+      "fte": "17",
+      "pupilTeacherRatio": "9.24",
+      "numberOfSchools": "0"
+   },
+   {
+      "name": "Isle Au Haut Public Schools",
+      "location": {
+         "state": {
+            "name": "Maine",
+            "abbr": "ME",
+            "county": "Hancock County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Kindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "6",
+      "fte": "1.4",
+      "pupilTeacherRatio": "4.29",
+      "numberOfSchools": "1"
+   },
+   {
+      "name": "Islesboro Public Schools",
+      "location": {
+         "state": {
+            "name": "Maine",
+            "abbr": "ME",
+            "county": "Waldo County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Kindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "85",
+      "fte": "15.02",
+      "pupilTeacherRatio": "5.66",
+      "numberOfSchools": "1"
+   },
+   {
+      "name": "Jefferson Public Schools",
+      "location": {
+         "state": {
+            "name": "Maine",
+            "abbr": "ME",
+            "county": "Lincoln County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Kindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "278",
+      "fte": "15.6",
+      "pupilTeacherRatio": "17.82",
+      "numberOfSchools": "1"
+   },
+   {
+      "name": "Jonesboro Public Schools",
+      "location": {
+         "state": {
+            "name": "Maine",
+            "abbr": "ME",
+            "county": "Washington County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "69",
+      "fte": "6.5",
+      "pupilTeacherRatio": "10.62",
+      "numberOfSchools": "1"
+   },
+   {
+      "name": "Jonesport Public Schools",
+      "location": {
+         "state": {
+            "name": "Maine",
+            "abbr": "ME",
+            "county": "Washington County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "8th Grade"
+      },
+      "students": "103",
+      "fte": "12.9",
+      "pupilTeacherRatio": "7.98",
+      "numberOfSchools": "1"
+   },
+   {
+      "name": "Kingsbury Plt Public Schools",
+      "location": {
+         "state": {
+            "name": "Maine",
+            "abbr": "ME",
+            "county": "Piscataquis County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Kindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "0",
+      "fte": "0",
+      "pupilTeacherRatio": "†",
+      "numberOfSchools": "0"
+   },
+   {
+      "name": "Kittery Public Schools",
+      "location": {
+         "state": {
+            "name": "Maine",
+            "abbr": "ME",
+            "county": "York County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Kindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "1002",
+      "fte": "101.91",
+      "pupilTeacherRatio": "9.83",
+      "numberOfSchools": "3"
+   },
+   {
+      "name": "Lake View Plt. Public Schools",
+      "location": {
+         "state": {
+            "name": "Maine",
+            "abbr": "ME",
+            "county": "Piscataquis County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Kindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "0",
+      "fte": "0",
+      "pupilTeacherRatio": "†",
+      "numberOfSchools": "0"
+   },
+   {
+      "name": "Lakeville Public Schools",
+      "location": {
+         "state": {
+            "name": "Maine",
+            "abbr": "ME",
+            "county": "Penobscot County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Kindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "2",
+      "fte": "0",
+      "pupilTeacherRatio": "†",
+      "numberOfSchools": "0"
+   },
+   {
+      "name": "Lamoine Public Schools",
+      "location": {
+         "state": {
+            "name": "Maine",
+            "abbr": "ME",
+            "county": "Hancock County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Kindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "122",
+      "fte": "11",
+      "pupilTeacherRatio": "11.09",
+      "numberOfSchools": "1"
+   },
+   {
+      "name": "Lewiston Public Schools",
+      "location": {
+         "state": {
+            "name": "Maine",
+            "abbr": "ME",
+            "county": "Androscoggin County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "5449",
+      "fte": "453.08",
+      "pupilTeacherRatio": "12.03",
+      "numberOfSchools": "8"
+   },
+   {
+      "name": "Limestone Public Schools",
+      "location": {
+         "state": {
+            "name": "MAINE",
+            "abbr": "ME",
+            "county": "Aroostook County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "136",
+      "fte": "11.52",
+      "pupilTeacherRatio": "11.81",
+      "numberOfSchools": "1"
+   },
+   {
+      "name": "Lincoln Plt Public Schools",
+      "location": {
+         "state": {
+            "name": "Maine",
+            "abbr": "ME",
+            "county": "Oxford County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Kindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "0",
+      "fte": "0",
+      "pupilTeacherRatio": "†",
+      "numberOfSchools": "0"
+   },
+   {
+      "name": "Lincoln-Region 3",
+      "location": {
+         "state": {
+            "name": "Maine",
+            "abbr": "ME",
+            "county": "Penobscot County"
+         }
+      },
+      "type": "4-Regional Education Service Agency (RESA)",
+      "grades": {
+         "lowest": "†",
+         "highest": "†"
+      },
+      "students": "0",
+      "fte": "13",
+      "pupilTeacherRatio": "0",
+      "numberOfSchools": "1"
+   },
+   {
+      "name": "Lincolnville Public Schools",
+      "location": {
+         "state": {
+            "name": "Maine",
+            "abbr": "ME",
+            "county": "Knox County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Kindergarten",
+         "highest": "8th Grade"
+      },
+      "students": "224",
+      "fte": "18.72",
+      "pupilTeacherRatio": "11.97",
+      "numberOfSchools": "1"
+   },
+   {
+      "name": "Lisbon Public Schools",
+      "location": {
+         "state": {
+            "name": "Maine",
+            "abbr": "ME",
+            "county": "Androscoggin County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "1297",
+      "fte": "90",
+      "pupilTeacherRatio": "14.41",
+      "numberOfSchools": "3"
+   },
+   {
+      "name": "Long Island Public Schools",
+      "location": {
+         "state": {
+            "name": "Maine",
+            "abbr": "ME",
+            "county": "Cumberland County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Kindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "13",
+      "fte": "2.3",
+      "pupilTeacherRatio": "5.65",
+      "numberOfSchools": "1"
+   },
+   {
+      "name": "Lowell Public Schools",
+      "location": {
+         "state": {
+            "name": "Maine",
+            "abbr": "ME",
+            "county": "Penobscot County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Kindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "4",
+      "fte": "0",
+      "pupilTeacherRatio": "†",
+      "numberOfSchools": "0"
+   },
+   {
+      "name": "Machias Public Schools",
+      "location": {
+         "state": {
+            "name": "Maine",
+            "abbr": "ME",
+            "county": "Washington County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "485",
+      "fte": "39.6",
+      "pupilTeacherRatio": "12.25",
+      "numberOfSchools": "3"
+   },
+   {
+      "name": "Machiasport Public Schools",
+      "location": {
+         "state": {
+            "name": "Maine",
+            "abbr": "ME",
+            "county": "Washington County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "82",
+      "fte": "5.8",
+      "pupilTeacherRatio": "14.14",
+      "numberOfSchools": "1"
+   },
+   {
+      "name": "Macwahoc Plt School Dept",
+      "location": {
+         "state": {
+            "name": "Maine",
+            "abbr": "ME",
+            "county": "Penobscot County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Kindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "1",
+      "fte": "0",
+      "pupilTeacherRatio": "†",
+      "numberOfSchools": "0"
+   },
+   {
+      "name": "Madawaska Public Schools",
+      "location": {
+         "state": {
+            "name": "Maine",
+            "abbr": "ME",
+            "county": "Aroostook County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "442",
+      "fte": "37.72",
+      "pupilTeacherRatio": "11.72",
+      "numberOfSchools": "2"
+   },
+   {
+      "name": "Maine Academy of Natural Sciences",
+      "location": {
+         "state": {
+            "name": "Maine",
+            "abbr": "ME",
+            "county": "Somerset County"
+         }
+      },
+      "type": "7-Independent Charter District",
+      "grades": {
+         "lowest": "9th Grade",
+         "highest": "12th Grade"
+      },
+      "students": "196",
+      "fte": "14.1",
+      "pupilTeacherRatio": "13.9",
+      "numberOfSchools": "1"
+   },
+   {
+      "name": "Maine Arts Academy",
+      "location": {
+         "state": {
+            "name": "MAINE",
+            "abbr": "ME",
+            "county": "Kennebec County"
+         }
+      },
+      "type": "7-Independent Charter District",
+      "grades": {
+         "lowest": "9th Grade",
+         "highest": "12th Grade"
+      },
+      "students": "201",
+      "fte": "15.3",
+      "pupilTeacherRatio": "13.14",
+      "numberOfSchools": "1"
+   },
+   {
+      "name": "Maine Connections Academy",
+      "location": {
+         "state": {
+            "name": "MAINE",
+            "abbr": "ME",
+            "county": "Cumberland County"
+         }
+      },
+      "type": "7-Independent Charter District",
+      "grades": {
+         "lowest": "7th Grade",
+         "highest": "12th Grade"
+      },
+      "students": "410",
+      "fte": "18.4",
+      "pupilTeacherRatio": "22.28",
+      "numberOfSchools": "1"
+   },
+   {
+      "name": "Maine Ocean School",
+      "location": {
+         "state": {
+            "name": "MAINE",
+            "abbr": "ME",
+            "county": "Waldo County"
+         }
+      },
+      "type": "5-State agency providing elementary and/or secondary level instruction",
+      "grades": {
+         "lowest": "9th Grade",
+         "highest": "12th Grade"
+      },
+      "students": "14",
+      "fte": "2",
+      "pupilTeacherRatio": "7",
+      "numberOfSchools": "1"
+   },
+   {
+      "name": "Maine Virtual Academy",
+      "location": {
+         "state": {
+            "name": "MAINE",
+            "abbr": "ME",
+            "county": "Kennebec County"
+         }
+      },
+      "type": "7-Independent Charter District",
+      "grades": {
+         "lowest": "7th Grade",
+         "highest": "12th Grade"
+      },
+      "students": "396",
+      "fte": "22.3",
+      "pupilTeacherRatio": "17.76",
+      "numberOfSchools": "1"
+   },
+   {
+      "name": "Marshfield Public Schools",
+      "location": {
+         "state": {
+            "name": "Maine",
+            "abbr": "ME",
+            "county": "Washington County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Kindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "23",
+      "fte": "0",
+      "pupilTeacherRatio": "†",
+      "numberOfSchools": "0"
+   },
+   {
+      "name": "Me Sch of Science & Mathematics",
+      "location": {
+         "state": {
+            "name": "Maine",
+            "abbr": "ME",
+            "county": "Aroostook County"
+         }
+      },
+      "type": "5-State agency providing elementary and/or secondary level instruction",
+      "grades": {
+         "lowest": "9th Grade",
+         "highest": "12th Grade"
+      },
+      "students": "133",
+      "fte": "13.6",
+      "pupilTeacherRatio": "9.78",
+      "numberOfSchools": "1"
+   },
+   {
+      "name": "Meddybemps Public Schools",
+      "location": {
+         "state": {
+            "name": "Maine",
+            "abbr": "ME",
+            "county": "Washington County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Kindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "0",
+      "fte": "0",
+      "pupilTeacherRatio": "†",
+      "numberOfSchools": "0"
+   },
+   {
+      "name": "Medford Public Schools",
+      "location": {
+         "state": {
+            "name": "Maine",
+            "abbr": "ME",
+            "county": "Piscataquis County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Kindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "2",
+      "fte": "0",
+      "pupilTeacherRatio": "†",
+      "numberOfSchools": "0"
+   },
+   {
+      "name": "Medway Public Schools",
+      "location": {
+         "state": {
+            "name": "Maine",
+            "abbr": "ME",
+            "county": "Penobscot County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "5th Grade",
+         "highest": "12th Grade"
+      },
+      "students": "106",
+      "fte": "12.2",
+      "pupilTeacherRatio": "8.69",
+      "numberOfSchools": "1"
+   },
+   {
+      "name": "Milford Public Schools",
+      "location": {
+         "state": {
+            "name": "Maine",
+            "abbr": "ME",
+            "county": "Penobscot County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "320",
+      "fte": "27",
+      "pupilTeacherRatio": "11.85",
+      "numberOfSchools": "1"
+   },
+   {
+      "name": "Millinocket Public Schools",
+      "location": {
+         "state": {
+            "name": "Maine",
+            "abbr": "ME",
+            "county": "Penobscot County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "490",
+      "fte": "43.04",
+      "pupilTeacherRatio": "11.38",
+      "numberOfSchools": "2"
+   },
+   {
+      "name": "Monhegan Plt School Dept",
+      "location": {
+         "state": {
+            "name": "Maine",
+            "abbr": "ME",
+            "county": "Sagadahoc County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "†",
+      "fte": "†",
+      "pupilTeacherRatio": "†",
+      "numberOfSchools": "0"
+   },
+   {
+      "name": "Moosabec CSD",
+      "location": {
+         "state": {
+            "name": "Maine",
+            "abbr": "ME",
+            "county": "Washington County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "9th Grade",
+         "highest": "12th Grade"
+      },
+      "students": "82",
+      "fte": "9",
+      "pupilTeacherRatio": "9.11",
+      "numberOfSchools": "1"
+   },
+   {
+      "name": "Moro Plantation Public Schools",
+      "location": {
+         "state": {
+            "name": "MAINE",
+            "abbr": "ME",
+            "county": "Penobscot County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Kindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "0",
+      "fte": "0",
+      "pupilTeacherRatio": "†",
+      "numberOfSchools": "0"
+   },
+   {
+      "name": "Mount Desert Public Schools",
+      "location": {
+         "state": {
+            "name": "Maine",
+            "abbr": "ME",
+            "county": "Hancock County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Kindergarten",
+         "highest": "8th Grade"
+      },
+      "students": "162",
+      "fte": "20.32",
+      "pupilTeacherRatio": "7.97",
+      "numberOfSchools": "1"
+   },
+   {
+      "name": "Msad 10",
+      "location": {
+         "state": {
+            "name": "Maine",
+            "abbr": "ME",
+            "county": "Lincoln County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Kindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "0",
+      "fte": "0",
+      "pupilTeacherRatio": "†",
+      "numberOfSchools": "0"
+   },
+   {
+      "name": "Msad 27",
+      "location": {
+         "state": {
+            "name": "Maine",
+            "abbr": "ME",
+            "county": "Aroostook County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "869",
+      "fte": "66.35",
+      "pupilTeacherRatio": "13.1",
+      "numberOfSchools": "3"
+   },
+   {
+      "name": "Msad 46",
+      "location": {
+         "state": {
+            "name": "Maine",
+            "abbr": "ME",
+            "county": "Penobscot County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "924",
+      "fte": "91.64",
+      "pupilTeacherRatio": "10.08",
+      "numberOfSchools": "3"
+   },
+   {
+      "name": "Msad 76",
+      "location": {
+         "state": {
+            "name": "Maine",
+            "abbr": "ME",
+            "county": "Hancock County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Kindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "32",
+      "fte": "4.71",
+      "pupilTeacherRatio": "6.79",
+      "numberOfSchools": "1"
+   },
+   {
+      "name": "Mt Desert CSD",
+      "location": {
+         "state": {
+            "name": "Maine",
+            "abbr": "ME",
+            "county": "Hancock County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "9th Grade",
+         "highest": "12th Grade"
+      },
+      "students": "533",
+      "fte": "52.6",
+      "pupilTeacherRatio": "10.13",
+      "numberOfSchools": "1"
+   },
+   {
+      "name": "Nashville Plt Public Schools",
+      "location": {
+         "state": {
+            "name": "Maine",
+            "abbr": "ME",
+            "county": "Aroostook County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Kindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "0",
+      "fte": "0",
+      "pupilTeacherRatio": "†",
+      "numberOfSchools": "0"
+   },
+   {
+      "name": "New Sweden Public Schools",
+      "location": {
+         "state": {
+            "name": "Maine",
+            "abbr": "ME",
+            "county": "Aroostook County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Kindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "0",
+      "fte": "0",
+      "pupilTeacherRatio": "†",
+      "numberOfSchools": "0"
+   },
+   {
+      "name": "Newcastle Public Schools",
+      "location": {
+         "state": {
+            "name": "Maine",
+            "abbr": "ME",
+            "county": "Lincoln County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "9th Grade",
+         "highest": "12th Grade"
+      },
+      "students": "86",
+      "fte": "0",
+      "pupilTeacherRatio": "†",
+      "numberOfSchools": "0"
+   },
+   {
+      "name": "Nobleboro Public Schools",
+      "location": {
+         "state": {
+            "name": "Maine",
+            "abbr": "ME",
+            "county": "Lincoln County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Kindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "190",
+      "fte": "13.31",
+      "pupilTeacherRatio": "14.27",
+      "numberOfSchools": "1"
+   },
+   {
+      "name": "Northfield Public Schools",
+      "location": {
+         "state": {
+            "name": "Maine",
+            "abbr": "ME",
+            "county": "Washington County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Kindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "3",
+      "fte": "0",
+      "pupilTeacherRatio": "†",
+      "numberOfSchools": "0"
+   },
+   {
+      "name": "Northport Public Schools",
+      "location": {
+         "state": {
+            "name": "MAINE",
+            "abbr": "ME",
+            "county": "Waldo County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Kindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "119",
+      "fte": "13.3",
+      "pupilTeacherRatio": "8.95",
+      "numberOfSchools": "1"
+   },
+   {
+      "name": "Orient Public Schools",
+      "location": {
+         "state": {
+            "name": "Maine",
+            "abbr": "ME",
+            "county": "Washington County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Kindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "0",
+      "fte": "0",
+      "pupilTeacherRatio": "†",
+      "numberOfSchools": "0"
+   },
+   {
+      "name": "Orrington Public Schools",
+      "location": {
+         "state": {
+            "name": "Maine",
+            "abbr": "ME",
+            "county": "Penobscot County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "459",
+      "fte": "29.6",
+      "pupilTeacherRatio": "15.51",
+      "numberOfSchools": "1"
+   },
+   {
+      "name": "Otis Public Schools",
+      "location": {
+         "state": {
+            "name": "Maine",
+            "abbr": "ME",
+            "county": "Hancock County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "95",
+      "fte": "9",
+      "pupilTeacherRatio": "10.56",
+      "numberOfSchools": "1"
+   },
+   {
+      "name": "Oxford-Region 11",
+      "location": {
+         "state": {
+            "name": "Maine",
+            "abbr": "ME",
+            "county": "Oxford County"
+         }
+      },
+      "type": "4-Regional Education Service Agency (RESA)",
+      "grades": {
+         "lowest": "†",
+         "highest": "†"
+      },
+      "students": "0",
+      "fte": "20",
+      "pupilTeacherRatio": "0",
+      "numberOfSchools": "1"
+   },
+   {
+      "name": "Pembroke Public Schools",
+      "location": {
+         "state": {
+            "name": "Maine",
+            "abbr": "ME",
+            "county": "Washington County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "94",
+      "fte": "7.5",
+      "pupilTeacherRatio": "12.53",
+      "numberOfSchools": "1"
+   },
+   {
+      "name": "Penobscot Public Schools",
+      "location": {
+         "state": {
+            "name": "Maine",
+            "abbr": "ME",
+            "county": "Hancock County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "94",
+      "fte": "8.8",
+      "pupilTeacherRatio": "10.68",
+      "numberOfSchools": "1"
+   },
+   {
+      "name": "Perry Public Schools",
+      "location": {
+         "state": {
+            "name": "Maine",
+            "abbr": "ME",
+            "county": "Washington County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "102",
+      "fte": "7.6",
+      "pupilTeacherRatio": "13.42",
+      "numberOfSchools": "1"
+   },
+   {
+      "name": "Pleasant Point",
+      "location": {
+         "state": {
+            "name": "Maine",
+            "abbr": "ME",
+            "county": "Washington County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Kindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "150",
+      "fte": "22.52",
+      "pupilTeacherRatio": "6.66",
+      "numberOfSchools": "0"
+   },
+   {
+      "name": "Pleasant Ridge Plt School Dept",
+      "location": {
+         "state": {
+            "name": "Maine",
+            "abbr": "ME",
+            "county": "Somerset County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Kindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "0",
+      "fte": "0",
+      "pupilTeacherRatio": "†",
+      "numberOfSchools": "0"
+   },
+   {
+      "name": "Portage Lake Public Schools",
+      "location": {
+         "state": {
+            "name": "Maine",
+            "abbr": "ME",
+            "county": "Aroostook County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Kindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "0",
+      "fte": "0",
+      "pupilTeacherRatio": "†",
+      "numberOfSchools": "0"
+   },
+   {
+      "name": "Portland Public Schools",
+      "location": {
+         "state": {
+            "name": "Maine",
+            "abbr": "ME",
+            "county": "Cumberland County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "6779",
+      "fte": "566.8",
+      "pupilTeacherRatio": "11.96",
+      "numberOfSchools": "17"
+   },
+   {
+      "name": "Princeton Public Schools",
+      "location": {
+         "state": {
+            "name": "Maine",
+            "abbr": "ME",
+            "county": "Washington County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "137",
+      "fte": "12",
+      "pupilTeacherRatio": "11.42",
+      "numberOfSchools": "1"
+   },
+   {
+      "name": "Reed Plt Public Schools",
+      "location": {
+         "state": {
+            "name": "Maine",
+            "abbr": "ME",
+            "county": "Penobscot County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Kindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "2",
+      "fte": "0",
+      "pupilTeacherRatio": "†",
+      "numberOfSchools": "0"
+   },
+   {
+      "name": "Robbinston Public Schools",
+      "location": {
+         "state": {
+            "name": "Maine",
+            "abbr": "ME",
+            "county": "Washington County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Kindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "3",
+      "fte": "0",
+      "pupilTeacherRatio": "†",
+      "numberOfSchools": "0"
+   },
+   {
+      "name": "Rockland-Region 8",
+      "location": {
+         "state": {
+            "name": "Maine",
+            "abbr": "ME",
+            "county": "Knox County"
+         }
+      },
+      "type": "4-Regional Education Service Agency (RESA)",
+      "grades": {
+         "lowest": "†",
+         "highest": "†"
+      },
+      "students": "0",
+      "fte": "22.5",
+      "pupilTeacherRatio": "0",
+      "numberOfSchools": "1"
+   },
+   {
+      "name": "Roque Bluffs Public Schools",
+      "location": {
+         "state": {
+            "name": "Maine",
+            "abbr": "ME",
+            "county": "Washington County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Kindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "6",
+      "fte": "0",
+      "pupilTeacherRatio": "†",
+      "numberOfSchools": "0"
+   },
+   {
+      "name": "Rsu 01 - Lkrsu",
+      "location": {
+         "state": {
+            "name": "Maine",
+            "abbr": "ME",
+            "county": "Sagadahoc County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "1849",
+      "fte": "163",
+      "pupilTeacherRatio": "11.34",
+      "numberOfSchools": "7"
+   },
+   {
+      "name": "Rsu 02",
+      "location": {
+         "state": {
+            "name": "Maine",
+            "abbr": "ME",
+            "county": "Kennebec County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "1999",
+      "fte": "177.68",
+      "pupilTeacherRatio": "11.25",
+      "numberOfSchools": "9"
+   },
+   {
+      "name": "Rsu 03/msad 03",
+      "location": {
+         "state": {
+            "name": "Maine",
+            "abbr": "ME",
+            "county": "Waldo County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "1222",
+      "fte": "109.45",
+      "pupilTeacherRatio": "11.16",
+      "numberOfSchools": "8"
+   },
+   {
+      "name": "Rsu 04",
+      "location": {
+         "state": {
+            "name": "Maine",
+            "abbr": "ME",
+            "county": "Androscoggin County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "1413",
+      "fte": "108.07",
+      "pupilTeacherRatio": "13.07",
+      "numberOfSchools": "5"
+   },
+   {
+      "name": "Rsu 05",
+      "location": {
+         "state": {
+            "name": "Maine",
+            "abbr": "ME",
+            "county": "Cumberland County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "2014",
+      "fte": "168.36",
+      "pupilTeacherRatio": "11.96",
+      "numberOfSchools": "6"
+   },
+   {
+      "name": "Rsu 06/msad 06",
+      "location": {
+         "state": {
+            "name": "Maine",
+            "abbr": "ME",
+            "county": "York County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "3548",
+      "fte": "278.62",
+      "pupilTeacherRatio": "12.73",
+      "numberOfSchools": "8"
+   },
+   {
+      "name": "Rsu 07/msad 07",
+      "location": {
+         "state": {
+            "name": "Maine",
+            "abbr": "ME",
+            "county": "Knox County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Kindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "55",
+      "fte": "11.03",
+      "pupilTeacherRatio": "4.99",
+      "numberOfSchools": "1"
+   },
+   {
+      "name": "Rsu 08/msad 08",
+      "location": {
+         "state": {
+            "name": "Maine",
+            "abbr": "ME",
+            "county": "Knox County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "174",
+      "fte": "24.01",
+      "pupilTeacherRatio": "7.25",
+      "numberOfSchools": "1"
+   },
+   {
+      "name": "Rsu 09",
+      "location": {
+         "state": {
+            "name": "Maine",
+            "abbr": "ME",
+            "county": "Franklin County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "2423",
+      "fte": "197.1",
+      "pupilTeacherRatio": "12.29",
+      "numberOfSchools": "8"
+   },
+   {
+      "name": "Rsu 10",
+      "location": {
+         "state": {
+            "name": "Maine",
+            "abbr": "ME",
+            "county": "Oxford County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "1801",
+      "fte": "156.2",
+      "pupilTeacherRatio": "11.53",
+      "numberOfSchools": "6"
+   },
+   {
+      "name": "Rsu 11/msad 11",
+      "location": {
+         "state": {
+            "name": "Maine",
+            "abbr": "ME",
+            "county": "Kennebec County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "2002",
+      "fte": "157.01",
+      "pupilTeacherRatio": "12.75",
+      "numberOfSchools": "6"
+   },
+   {
+      "name": "Rsu 12",
+      "location": {
+         "state": {
+            "name": "Maine",
+            "abbr": "ME",
+            "county": "Lincoln County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "1311",
+      "fte": "86.52",
+      "pupilTeacherRatio": "15.15",
+      "numberOfSchools": "5"
+   },
+   {
+      "name": "Rsu 13",
+      "location": {
+         "state": {
+            "name": "Maine",
+            "abbr": "ME",
+            "county": "Knox County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "1632",
+      "fte": "154.89",
+      "pupilTeacherRatio": "10.54",
+      "numberOfSchools": "6"
+   },
+   {
+      "name": "Rsu 14",
+      "location": {
+         "state": {
+            "name": "Maine",
+            "abbr": "ME",
+            "county": "Cumberland County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Kindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "3174",
+      "fte": "246.03",
+      "pupilTeacherRatio": "12.9",
+      "numberOfSchools": "6"
+   },
+   {
+      "name": "Rsu 15/msad 15",
+      "location": {
+         "state": {
+            "name": "Maine",
+            "abbr": "ME",
+            "county": "Cumberland County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "1903",
+      "fte": "153.71",
+      "pupilTeacherRatio": "12.38",
+      "numberOfSchools": "5"
+   },
+   {
+      "name": "Rsu 16",
+      "location": {
+         "state": {
+            "name": "Maine",
+            "abbr": "ME",
+            "county": "Androscoggin County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "1763",
+      "fte": "142.01",
+      "pupilTeacherRatio": "12.41",
+      "numberOfSchools": "5"
+   },
+   {
+      "name": "Rsu 17/msad 17",
+      "location": {
+         "state": {
+            "name": "Maine",
+            "abbr": "ME",
+            "county": "Oxford County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "3428",
+      "fte": "263.13",
+      "pupilTeacherRatio": "13.03",
+      "numberOfSchools": "10"
+   },
+   {
+      "name": "Rsu 18",
+      "location": {
+         "state": {
+            "name": "Maine",
+            "abbr": "ME",
+            "county": "Kennebec County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "2820",
+      "fte": "204.98",
+      "pupilTeacherRatio": "13.76",
+      "numberOfSchools": "8"
+   },
+   {
+      "name": "Rsu 19",
+      "location": {
+         "state": {
+            "name": "Maine",
+            "abbr": "ME",
+            "county": "Penobscot County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "1895",
+      "fte": "153.81",
+      "pupilTeacherRatio": "12.32",
+      "numberOfSchools": "5"
+   },
+   {
+      "name": "Rsu 20",
+      "location": {
+         "state": {
+            "name": "Maine",
+            "abbr": "ME",
+            "county": "Waldo County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "470",
+      "fte": "41.82",
+      "pupilTeacherRatio": "11.24",
+      "numberOfSchools": "3"
+   },
+   {
+      "name": "Rsu 21",
+      "location": {
+         "state": {
+            "name": "Maine",
+            "abbr": "ME",
+            "county": "York County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "2623",
+      "fte": "196.52",
+      "pupilTeacherRatio": "13.35",
+      "numberOfSchools": "6"
+   },
+   {
+      "name": "Rsu 22",
+      "location": {
+         "state": {
+            "name": "Maine",
+            "abbr": "ME",
+            "county": "Penobscot County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "2439",
+      "fte": "165.25",
+      "pupilTeacherRatio": "14.76",
+      "numberOfSchools": "7"
+   },
+   {
+      "name": "Rsu 23",
+      "location": {
+         "state": {
+            "name": "Maine",
+            "abbr": "ME",
+            "county": "York County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "667",
+      "fte": "80.61",
+      "pupilTeacherRatio": "8.27",
+      "numberOfSchools": "3"
+   },
+   {
+      "name": "Rsu 24",
+      "location": {
+         "state": {
+            "name": "Maine",
+            "abbr": "ME",
+            "county": "Hancock County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "857",
+      "fte": "77.65",
+      "pupilTeacherRatio": "11.04",
+      "numberOfSchools": "5"
+   },
+   {
+      "name": "Rsu 25",
+      "location": {
+         "state": {
+            "name": "Maine",
+            "abbr": "ME",
+            "county": "Hancock County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "1112",
+      "fte": "89",
+      "pupilTeacherRatio": "12.49",
+      "numberOfSchools": "4"
+   },
+   {
+      "name": "Rsu 26",
+      "location": {
+         "state": {
+            "name": "Maine",
+            "abbr": "ME",
+            "county": "Penobscot County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "791",
+      "fte": "75.22",
+      "pupilTeacherRatio": "10.52",
+      "numberOfSchools": "3"
+   },
+   {
+      "name": "Rsu 28/msad 28",
+      "location": {
+         "state": {
+            "name": "Maine",
+            "abbr": "ME",
+            "county": "Knox County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Kindergarten",
+         "highest": "8th Grade"
+      },
+      "students": "733",
+      "fte": "66.4",
+      "pupilTeacherRatio": "11.04",
+      "numberOfSchools": "2"
+   },
+   {
+      "name": "Rsu 29/msad 29",
+      "location": {
+         "state": {
+            "name": "Maine",
+            "abbr": "ME",
+            "county": "Aroostook County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "1394",
+      "fte": "102.21",
+      "pupilTeacherRatio": "13.64",
+      "numberOfSchools": "4"
+   },
+   {
+      "name": "Rsu 30/msad 30",
+      "location": {
+         "state": {
+            "name": "Maine",
+            "abbr": "ME",
+            "county": "Penobscot County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "249",
+      "fte": "13.9",
+      "pupilTeacherRatio": "17.91",
+      "numberOfSchools": "2"
+   },
+   {
+      "name": "Rsu 31/msad 31",
+      "location": {
+         "state": {
+            "name": "Maine",
+            "abbr": "ME",
+            "county": "Penobscot County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "445",
+      "fte": "48.8",
+      "pupilTeacherRatio": "9.12",
+      "numberOfSchools": "3"
+   },
+   {
+      "name": "Rsu 32/msad 32",
+      "location": {
+         "state": {
+            "name": "Maine",
+            "abbr": "ME",
+            "county": "Aroostook County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "260",
+      "fte": "23.5",
+      "pupilTeacherRatio": "11.06",
+      "numberOfSchools": "1"
+   },
+   {
+      "name": "Rsu 33/msad 33",
+      "location": {
+         "state": {
+            "name": "Maine",
+            "abbr": "ME",
+            "county": "Aroostook County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "243",
+      "fte": "25.21",
+      "pupilTeacherRatio": "9.64",
+      "numberOfSchools": "3"
+   },
+   {
+      "name": "Rsu 34",
+      "location": {
+         "state": {
+            "name": "Maine",
+            "abbr": "ME",
+            "county": "Penobscot County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "1527",
+      "fte": "118.5",
+      "pupilTeacherRatio": "12.89",
+      "numberOfSchools": "5"
+   },
+   {
+      "name": "Rsu 35/msad 35",
+      "location": {
+         "state": {
+            "name": "Maine",
+            "abbr": "ME",
+            "county": "York County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "2238",
+      "fte": "160.5",
+      "pupilTeacherRatio": "13.94",
+      "numberOfSchools": "5"
+   },
+   {
+      "name": "Rsu 37/msad 37",
+      "location": {
+         "state": {
+            "name": "Maine",
+            "abbr": "ME",
+            "county": "Washington County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "703",
+      "fte": "58.6",
+      "pupilTeacherRatio": "12",
+      "numberOfSchools": "4"
+   },
+   {
+      "name": "Rsu 38",
+      "location": {
+         "state": {
+            "name": "Maine",
+            "abbr": "ME",
+            "county": "Kennebec County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "1201",
+      "fte": "119.45",
+      "pupilTeacherRatio": "10.05",
+      "numberOfSchools": "6"
+   },
+   {
+      "name": "Rsu 39",
+      "location": {
+         "state": {
+            "name": "Maine",
+            "abbr": "ME",
+            "county": "Aroostook County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "1187",
+      "fte": "99.3",
+      "pupilTeacherRatio": "11.95",
+      "numberOfSchools": "4"
+   },
+   {
+      "name": "Rsu 40/msad 40",
+      "location": {
+         "state": {
+            "name": "Maine",
+            "abbr": "ME",
+            "county": "Knox County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "1889",
+      "fte": "160.16",
+      "pupilTeacherRatio": "11.79",
+      "numberOfSchools": "7"
+   },
+   {
+      "name": "Rsu 41/msad 41",
+      "location": {
+         "state": {
+            "name": "Maine",
+            "abbr": "ME",
+            "county": "Penobscot County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "612",
+      "fte": "58.32",
+      "pupilTeacherRatio": "10.49",
+      "numberOfSchools": "3"
+   },
+   {
+      "name": "Rsu 42/msad 42",
+      "location": {
+         "state": {
+            "name": "Maine",
+            "abbr": "ME",
+            "county": "Aroostook County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "391",
+      "fte": "41.03",
+      "pupilTeacherRatio": "9.53",
+      "numberOfSchools": "2"
+   },
+   {
+      "name": "Rsu 44/msad 44",
+      "location": {
+         "state": {
+            "name": "Maine",
+            "abbr": "ME",
+            "county": "Oxford County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "710",
+      "fte": "65.2",
+      "pupilTeacherRatio": "10.89",
+      "numberOfSchools": "4"
+   },
+   {
+      "name": "Rsu 45/msad 45",
+      "location": {
+         "state": {
+            "name": "Maine",
+            "abbr": "ME",
+            "county": "Aroostook County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "288",
+      "fte": "30",
+      "pupilTeacherRatio": "9.6",
+      "numberOfSchools": "2"
+   },
+   {
+      "name": "Rsu 49/msad 49",
+      "location": {
+         "state": {
+            "name": "Maine",
+            "abbr": "ME",
+            "county": "Somerset County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "2091",
+      "fte": "157.04",
+      "pupilTeacherRatio": "13.32",
+      "numberOfSchools": "6"
+   },
+   {
+      "name": "Rsu 50",
+      "location": {
+         "state": {
+            "name": "Maine",
+            "abbr": "ME",
+            "county": "Aroostook County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "352",
+      "fte": "26.01",
+      "pupilTeacherRatio": "13.53",
+      "numberOfSchools": "1"
+   },
+   {
+      "name": "Rsu 51/msad 51",
+      "location": {
+         "state": {
+            "name": "Maine",
+            "abbr": "ME",
+            "county": "Cumberland County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "2129",
+      "fte": "185.14",
+      "pupilTeacherRatio": "11.5",
+      "numberOfSchools": "4"
+   },
+   {
+      "name": "Rsu 52/msad 52",
+      "location": {
+         "state": {
+            "name": "Maine",
+            "abbr": "ME",
+            "county": "Androscoggin County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "2018",
+      "fte": "164.16",
+      "pupilTeacherRatio": "12.29",
+      "numberOfSchools": "6"
+   },
+   {
+      "name": "Rsu 53/msad 53",
+      "location": {
+         "state": {
+            "name": "Maine",
+            "abbr": "ME",
+            "county": "Somerset County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "935",
+      "fte": "57.11",
+      "pupilTeacherRatio": "16.37",
+      "numberOfSchools": "4"
+   },
+   {
+      "name": "Rsu 54/msad 54",
+      "location": {
+         "state": {
+            "name": "Maine",
+            "abbr": "ME",
+            "county": "Somerset County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "2375",
+      "fte": "206",
+      "pupilTeacherRatio": "11.53",
+      "numberOfSchools": "8"
+   },
+   {
+      "name": "Rsu 55/msad 55",
+      "location": {
+         "state": {
+            "name": "Maine",
+            "abbr": "ME",
+            "county": "Oxford County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "981",
+      "fte": "84.52",
+      "pupilTeacherRatio": "11.61",
+      "numberOfSchools": "3"
+   },
+   {
+      "name": "Rsu 56",
+      "location": {
+         "state": {
+            "name": "MAINE",
+            "abbr": "ME",
+            "county": "Oxford County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "780",
+      "fte": "56.51",
+      "pupilTeacherRatio": "13.8",
+      "numberOfSchools": "3"
+   },
+   {
+      "name": "Rsu 57/msad 57",
+      "location": {
+         "state": {
+            "name": "Maine",
+            "abbr": "ME",
+            "county": "York County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "2987",
+      "fte": "232.45",
+      "pupilTeacherRatio": "12.85",
+      "numberOfSchools": "7"
+   },
+   {
+      "name": "Rsu 58/msad 58",
+      "location": {
+         "state": {
+            "name": "Maine",
+            "abbr": "ME",
+            "county": "Franklin County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "618",
+      "fte": "54.02",
+      "pupilTeacherRatio": "11.44",
+      "numberOfSchools": "4"
+   },
+   {
+      "name": "Rsu 59/msad 59",
+      "location": {
+         "state": {
+            "name": "Maine",
+            "abbr": "ME",
+            "county": "Somerset County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "617",
+      "fte": "57.31",
+      "pupilTeacherRatio": "10.77",
+      "numberOfSchools": "3"
+   },
+   {
+      "name": "Rsu 60/msad 60",
+      "location": {
+         "state": {
+            "name": "Maine",
+            "abbr": "ME",
+            "county": "York County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Kindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "3036",
+      "fte": "249.49",
+      "pupilTeacherRatio": "12.17",
+      "numberOfSchools": "5"
+   },
+   {
+      "name": "Rsu 61/msad 61",
+      "location": {
+         "state": {
+            "name": "Maine",
+            "abbr": "ME",
+            "county": "Cumberland County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Kindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "1694",
+      "fte": "153.7",
+      "pupilTeacherRatio": "11.02",
+      "numberOfSchools": "5"
+   },
+   {
+      "name": "Rsu 63/msad 63",
+      "location": {
+         "state": {
+            "name": "Maine",
+            "abbr": "ME",
+            "county": "Penobscot County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "563",
+      "fte": "43.71",
+      "pupilTeacherRatio": "12.88",
+      "numberOfSchools": "3"
+   },
+   {
+      "name": "Rsu 64/msad 64",
+      "location": {
+         "state": {
+            "name": "Maine",
+            "abbr": "ME",
+            "county": "Penobscot County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "1059",
+      "fte": "83.54",
+      "pupilTeacherRatio": "12.68",
+      "numberOfSchools": "3"
+   },
+   {
+      "name": "Rsu 65/msad 65",
+      "location": {
+         "state": {
+            "name": "Maine",
+            "abbr": "ME",
+            "county": "Kennebec County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Kindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "0",
+      "fte": "0",
+      "pupilTeacherRatio": "†",
+      "numberOfSchools": "1"
+   },
+   {
+      "name": "Rsu 67",
+      "location": {
+         "state": {
+            "name": "Maine",
+            "abbr": "ME",
+            "county": "Penobscot County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "935",
+      "fte": "76.5",
+      "pupilTeacherRatio": "12.22",
+      "numberOfSchools": "3"
+   },
+   {
+      "name": "Rsu 68/msad 68",
+      "location": {
+         "state": {
+            "name": "Maine",
+            "abbr": "ME",
+            "county": "Piscataquis County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "1009",
+      "fte": "49.45",
+      "pupilTeacherRatio": "20.4",
+      "numberOfSchools": "2"
+   },
+   {
+      "name": "Rsu 70/msad 70",
+      "location": {
+         "state": {
+            "name": "Maine",
+            "abbr": "ME",
+            "county": "Aroostook County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "497",
+      "fte": "38.53",
+      "pupilTeacherRatio": "12.9",
+      "numberOfSchools": "2"
+   },
+   {
+      "name": "Rsu 71",
+      "location": {
+         "state": {
+            "name": "MAINE",
+            "abbr": "ME",
+            "county": "Waldo County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "1557",
+      "fte": "131.01",
+      "pupilTeacherRatio": "11.88",
+      "numberOfSchools": "7"
+   },
+   {
+      "name": "Rsu 72/msad 72",
+      "location": {
+         "state": {
+            "name": "Maine",
+            "abbr": "ME",
+            "county": "Oxford County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "1209",
+      "fte": "67.52",
+      "pupilTeacherRatio": "17.91",
+      "numberOfSchools": "3"
+   },
+   {
+      "name": "Rsu 73",
+      "location": {
+         "state": {
+            "name": "Maine",
+            "abbr": "ME",
+            "county": "Androscoggin County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "1425",
+      "fte": "113",
+      "pupilTeacherRatio": "12.61",
+      "numberOfSchools": "4"
+   },
+   {
+      "name": "Rsu 74/msad 74",
+      "location": {
+         "state": {
+            "name": "Maine",
+            "abbr": "ME",
+            "county": "Somerset County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "625",
+      "fte": "49.4",
+      "pupilTeacherRatio": "12.65",
+      "numberOfSchools": "4"
+   },
+   {
+      "name": "Rsu 75/msad 75",
+      "location": {
+         "state": {
+            "name": "Maine",
+            "abbr": "ME",
+            "county": "Sagadahoc County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "2452",
+      "fte": "208.49",
+      "pupilTeacherRatio": "11.76",
+      "numberOfSchools": "7"
+   },
+   {
+      "name": "Rsu 78",
+      "location": {
+         "state": {
+            "name": "Maine",
+            "abbr": "ME",
+            "county": "Franklin County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "209",
+      "fte": "21.03",
+      "pupilTeacherRatio": "9.94",
+      "numberOfSchools": "1"
+   },
+   {
+      "name": "Rsu 79/msad 01",
+      "location": {
+         "state": {
+            "name": "Maine",
+            "abbr": "ME",
+            "county": "Aroostook County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "1756",
+      "fte": "125.99",
+      "pupilTeacherRatio": "13.94",
+      "numberOfSchools": "6"
+   },
+   {
+      "name": "Rsu 80/msad 04",
+      "location": {
+         "state": {
+            "name": "Maine",
+            "abbr": "ME",
+            "county": "Piscataquis County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "537",
+      "fte": "45.1",
+      "pupilTeacherRatio": "11.91",
+      "numberOfSchools": "2"
+   },
+   {
+      "name": "Rsu 82/msad 12",
+      "location": {
+         "state": {
+            "name": "Maine",
+            "abbr": "ME",
+            "county": "Somerset County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Kindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "149",
+      "fte": "17.61",
+      "pupilTeacherRatio": "8.46",
+      "numberOfSchools": "1"
+   },
+   {
+      "name": "Rsu 83/msad 13",
+      "location": {
+         "state": {
+            "name": "Maine",
+            "abbr": "ME",
+            "county": "Somerset County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "181",
+      "fte": "19.02",
+      "pupilTeacherRatio": "9.52",
+      "numberOfSchools": "2"
+   },
+   {
+      "name": "Rsu 84/msad 14",
+      "location": {
+         "state": {
+            "name": "Maine",
+            "abbr": "ME",
+            "county": "Washington County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "133",
+      "fte": "15.61",
+      "pupilTeacherRatio": "8.52",
+      "numberOfSchools": "1"
+   },
+   {
+      "name": "Rsu 85/msad 19",
+      "location": {
+         "state": {
+            "name": "Maine",
+            "abbr": "ME",
+            "county": "Washington County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "103",
+      "fte": "9.5",
+      "pupilTeacherRatio": "10.84",
+      "numberOfSchools": "1"
+   },
+   {
+      "name": "Rsu 86/msad 20",
+      "location": {
+         "state": {
+            "name": "Maine",
+            "abbr": "ME",
+            "county": "Aroostook County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "513",
+      "fte": "43.21",
+      "pupilTeacherRatio": "11.87",
+      "numberOfSchools": "2"
+   },
+   {
+      "name": "Rsu 87/msad 23",
+      "location": {
+         "state": {
+            "name": "Maine",
+            "abbr": "ME",
+            "county": "Penobscot County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "628",
+      "fte": "52.26",
+      "pupilTeacherRatio": "12.02",
+      "numberOfSchools": "3"
+   },
+   {
+      "name": "Rsu 88/msad 24",
+      "location": {
+         "state": {
+            "name": "Maine",
+            "abbr": "ME",
+            "county": "Aroostook County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "276",
+      "fte": "25.2",
+      "pupilTeacherRatio": "10.95",
+      "numberOfSchools": "3"
+   },
+   {
+      "name": "Rsu 89",
+      "location": {
+         "state": {
+            "name": "MAINE",
+            "abbr": "ME",
+            "county": "Penobscot County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "307",
+      "fte": "27.44",
+      "pupilTeacherRatio": "11.19",
+      "numberOfSchools": "2"
+   },
+   {
+      "name": "Rumford-Region 9",
+      "location": {
+         "state": {
+            "name": "Maine",
+            "abbr": "ME",
+            "county": "Oxford County"
+         }
+      },
+      "type": "4-Regional Education Service Agency (RESA)",
+      "grades": {
+         "lowest": "†",
+         "highest": "†"
+      },
+      "students": "0",
+      "fte": "13.9",
+      "pupilTeacherRatio": "0",
+      "numberOfSchools": "1"
+   },
+   {
+      "name": "Saco Public Schools",
+      "location": {
+         "state": {
+            "name": "Maine",
+            "abbr": "ME",
+            "county": "York County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "2827",
+      "fte": "166.83",
+      "pupilTeacherRatio": "16.95",
+      "numberOfSchools": "5"
+   },
+   {
+      "name": "Sanford Public Schools",
+      "location": {
+         "state": {
+            "name": "Maine",
+            "abbr": "ME",
+            "county": "York County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "3231",
+      "fte": "243.03",
+      "pupilTeacherRatio": "13.29",
+      "numberOfSchools": "6"
+   },
+   {
+      "name": "Scarborough Public Schools",
+      "location": {
+         "state": {
+            "name": "Maine",
+            "abbr": "ME",
+            "county": "Cumberland County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Kindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "2997",
+      "fte": "249.52",
+      "pupilTeacherRatio": "12.01",
+      "numberOfSchools": "6"
+   },
+   {
+      "name": "Sebago Public Schools",
+      "location": {
+         "state": {
+            "name": "MAINE",
+            "abbr": "ME",
+            "county": "Cumberland County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "115",
+      "fte": "9.3",
+      "pupilTeacherRatio": "12.37",
+      "numberOfSchools": "1"
+   },
+   {
+      "name": "Seboeis Plt Public Schools",
+      "location": {
+         "state": {
+            "name": "Maine",
+            "abbr": "ME",
+            "county": "Penobscot County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Kindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "0",
+      "fte": "0",
+      "pupilTeacherRatio": "†",
+      "numberOfSchools": "0"
+   },
+   {
+      "name": "Sedgwick Public Schools",
+      "location": {
+         "state": {
+            "name": "Maine",
+            "abbr": "ME",
+            "county": "Hancock County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "131",
+      "fte": "10.9",
+      "pupilTeacherRatio": "12.02",
+      "numberOfSchools": "1"
+   },
+   {
+      "name": "Shirley Public Schools",
+      "location": {
+         "state": {
+            "name": "Maine",
+            "abbr": "ME",
+            "county": "Piscataquis County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Kindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "0",
+      "fte": "0",
+      "pupilTeacherRatio": "†",
+      "numberOfSchools": "0"
+   },
+   {
+      "name": "South Bristol Public Schools",
+      "location": {
+         "state": {
+            "name": "Maine",
+            "abbr": "ME",
+            "county": "Lincoln County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Kindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "82",
+      "fte": "6.4",
+      "pupilTeacherRatio": "12.81",
+      "numberOfSchools": "1"
+   },
+   {
+      "name": "South Portland Public Schools",
+      "location": {
+         "state": {
+            "name": "Maine",
+            "abbr": "ME",
+            "county": "Cumberland County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "2963",
+      "fte": "244.98",
+      "pupilTeacherRatio": "12.09",
+      "numberOfSchools": "8"
+   },
+   {
+      "name": "Southport Public Schools",
+      "location": {
+         "state": {
+            "name": "Maine",
+            "abbr": "ME",
+            "county": "Lincoln County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Kindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "35",
+      "fte": "3.5",
+      "pupilTeacherRatio": "10",
+      "numberOfSchools": "1"
+   },
+   {
+      "name": "Southwest Harbor Public Schools",
+      "location": {
+         "state": {
+            "name": "Maine",
+            "abbr": "ME",
+            "county": "Hancock County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Kindergarten",
+         "highest": "8th Grade"
+      },
+      "students": "140",
+      "fte": "18.21",
+      "pupilTeacherRatio": "7.69",
+      "numberOfSchools": "1"
+   },
+   {
+      "name": "St George Public Schools",
+      "location": {
+         "state": {
+            "name": "MAINE",
+            "abbr": "ME",
+            "county": "Knox County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Kindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "217",
+      "fte": "19.9",
+      "pupilTeacherRatio": "10.9",
+      "numberOfSchools": "1"
+   },
+   {
+      "name": "Surry Public Schools",
+      "location": {
+         "state": {
+            "name": "Maine",
+            "abbr": "ME",
+            "county": "Hancock County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "194",
+      "fte": "14.02",
+      "pupilTeacherRatio": "13.84",
+      "numberOfSchools": "1"
+   },
+   {
+      "name": "Talmadge Public Schools",
+      "location": {
+         "state": {
+            "name": "Maine",
+            "abbr": "ME",
+            "county": "Washington County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Kindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "0",
+      "fte": "0",
+      "pupilTeacherRatio": "†",
+      "numberOfSchools": "0"
+   },
+   {
+      "name": "The Forks Plt School Dept",
+      "location": {
+         "state": {
+            "name": "Maine",
+            "abbr": "ME",
+            "county": "Somerset County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Kindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "0",
+      "fte": "0",
+      "pupilTeacherRatio": "†",
+      "numberOfSchools": "0"
+   },
+   {
+      "name": "Tremont Public Schools",
+      "location": {
+         "state": {
+            "name": "Maine",
+            "abbr": "ME",
+            "county": "Hancock County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Kindergarten",
+         "highest": "8th Grade"
+      },
+      "students": "125",
+      "fte": "16.91",
+      "pupilTeacherRatio": "7.39",
+      "numberOfSchools": "1"
+   },
+   {
+      "name": "Trenton Public Schools",
+      "location": {
+         "state": {
+            "name": "Maine",
+            "abbr": "ME",
+            "county": "Hancock County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "153",
+      "fte": "16.9",
+      "pupilTeacherRatio": "9.05",
+      "numberOfSchools": "1"
+   },
+   {
+      "name": "Upton Public Schools",
+      "location": {
+         "state": {
+            "name": "Maine",
+            "abbr": "ME",
+            "county": "Oxford County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Kindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "0",
+      "fte": "0",
+      "pupilTeacherRatio": "†",
+      "numberOfSchools": "0"
+   },
+   {
+      "name": "Vanceboro Public Schools",
+      "location": {
+         "state": {
+            "name": "Maine",
+            "abbr": "ME",
+            "county": "Washington County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Kindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "6",
+      "fte": "0",
+      "pupilTeacherRatio": "†",
+      "numberOfSchools": "0"
+   },
+   {
+      "name": "Vassalboro Public Schools",
+      "location": {
+         "state": {
+            "name": "Maine",
+            "abbr": "ME",
+            "county": "Kennebec County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "524",
+      "fte": "38.5",
+      "pupilTeacherRatio": "13.61",
+      "numberOfSchools": "1"
+   },
+   {
+      "name": "Veazie Public Schools",
+      "location": {
+         "state": {
+            "name": "Maine",
+            "abbr": "ME",
+            "county": "Penobscot County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "180",
+      "fte": "13.4",
+      "pupilTeacherRatio": "13.43",
+      "numberOfSchools": "1"
+   },
+   {
+      "name": "Waite Public Schools",
+      "location": {
+         "state": {
+            "name": "Maine",
+            "abbr": "ME",
+            "county": "Washington County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Kindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "0",
+      "fte": "0",
+      "pupilTeacherRatio": "†",
+      "numberOfSchools": "0"
+   },
+   {
+      "name": "Waldo-Region 7",
+      "location": {
+         "state": {
+            "name": "Maine",
+            "abbr": "ME",
+            "county": "Waldo County"
+         }
+      },
+      "type": "4-Regional Education Service Agency (RESA)",
+      "grades": {
+         "lowest": "†",
+         "highest": "†"
+      },
+      "students": "0",
+      "fte": "13.5",
+      "pupilTeacherRatio": "0",
+      "numberOfSchools": "1"
+   },
+   {
+      "name": "Waterville Public Schools",
+      "location": {
+         "state": {
+            "name": "Maine",
+            "abbr": "ME",
+            "county": "Kennebec County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "1705",
+      "fte": "150.14",
+      "pupilTeacherRatio": "11.36",
+      "numberOfSchools": "5"
+   },
+   {
+      "name": "Wells-Ogunquit CSD",
+      "location": {
+         "state": {
+            "name": "Maine",
+            "abbr": "ME",
+            "county": "York County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "1393",
+      "fte": "114.7",
+      "pupilTeacherRatio": "12.14",
+      "numberOfSchools": "3"
+   },
+   {
+      "name": "Wesley Public Schools",
+      "location": {
+         "state": {
+            "name": "Maine",
+            "abbr": "ME",
+            "county": "Washington County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Kindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "8",
+      "fte": "1.1",
+      "pupilTeacherRatio": "7.27",
+      "numberOfSchools": "1"
+   },
+   {
+      "name": "West Bath Public Schools",
+      "location": {
+         "state": {
+            "name": "Maine",
+            "abbr": "ME",
+            "county": "Sagadahoc County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "118",
+      "fte": "13.81",
+      "pupilTeacherRatio": "8.54",
+      "numberOfSchools": "1"
+   },
+   {
+      "name": "West Forks Plt Public Schools",
+      "location": {
+         "state": {
+            "name": "Maine",
+            "abbr": "ME",
+            "county": "Somerset County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Kindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "0",
+      "fte": "0",
+      "pupilTeacherRatio": "†",
+      "numberOfSchools": "0"
+   },
+   {
+      "name": "Westbrook Public Schools",
+      "location": {
+         "state": {
+            "name": "Maine",
+            "abbr": "ME",
+            "county": "Cumberland County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "2444",
+      "fte": "214.81",
+      "pupilTeacherRatio": "11.38",
+      "numberOfSchools": "6"
+   },
+   {
+      "name": "Westmanland Public Schools",
+      "location": {
+         "state": {
+            "name": "Maine",
+            "abbr": "ME",
+            "county": "Aroostook County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Kindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "0",
+      "fte": "0",
+      "pupilTeacherRatio": "†",
+      "numberOfSchools": "0"
+   },
+   {
+      "name": "Whiting Public Schools",
+      "location": {
+         "state": {
+            "name": "Maine",
+            "abbr": "ME",
+            "county": "Washington County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "50",
+      "fte": "4.22",
+      "pupilTeacherRatio": "11.85",
+      "numberOfSchools": "1"
+   },
+   {
+      "name": "Whitneyville Public Schools",
+      "location": {
+         "state": {
+            "name": "Maine",
+            "abbr": "ME",
+            "county": "Washington County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Kindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "3",
+      "fte": "0",
+      "pupilTeacherRatio": "†",
+      "numberOfSchools": "0"
+   },
+   {
+      "name": "Willimantic Public Schools",
+      "location": {
+         "state": {
+            "name": "Maine",
+            "abbr": "ME",
+            "county": "Piscataquis County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Kindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "1",
+      "fte": "0",
+      "pupilTeacherRatio": "†",
+      "numberOfSchools": "0"
+   },
+   {
+      "name": "Winslow Schools",
+      "location": {
+         "state": {
+            "name": "Maine",
+            "abbr": "ME",
+            "county": "Kennebec County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "1152",
+      "fte": "96.37",
+      "pupilTeacherRatio": "11.95",
+      "numberOfSchools": "3"
+   },
+   {
+      "name": "Winterville Plt Public Schools",
+      "location": {
+         "state": {
+            "name": "MAINE",
+            "abbr": "ME",
+            "county": "Lincoln County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Kindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "0",
+      "fte": "0",
+      "pupilTeacherRatio": "†",
+      "numberOfSchools": "0"
+   },
+   {
+      "name": "Winthrop Public Schools",
+      "location": {
+         "state": {
+            "name": "Maine",
+            "abbr": "ME",
+            "county": "Kennebec County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "867",
+      "fte": "68",
+      "pupilTeacherRatio": "12.75",
+      "numberOfSchools": "3"
+   },
+   {
+      "name": "Wiscasset Public Schools",
+      "location": {
+         "state": {
+            "name": "Maine",
+            "abbr": "ME",
+            "county": "Lincoln County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "516",
+      "fte": "50.5",
+      "pupilTeacherRatio": "10.22",
+      "numberOfSchools": "2"
+   },
+   {
+      "name": "Woodland Public Schools",
+      "location": {
+         "state": {
+            "name": "Maine",
+            "abbr": "ME",
+            "county": "Aroostook County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "152",
+      "fte": "13.7",
+      "pupilTeacherRatio": "11.09",
+      "numberOfSchools": "1"
+   },
+   {
+      "name": "Woodville Public Schools",
+      "location": {
+         "state": {
+            "name": "Maine",
+            "abbr": "ME",
+            "county": "Penobscot County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Kindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "0",
+      "fte": "0",
+      "pupilTeacherRatio": "†",
+      "numberOfSchools": "0"
+   },
+   {
+      "name": "Yarmouth Schools",
+      "location": {
+         "state": {
+            "name": "Maine",
+            "abbr": "ME",
+            "county": "Cumberland County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Kindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "1698",
+      "fte": "133.4",
+      "pupilTeacherRatio": "12.73",
+      "numberOfSchools": "4"
+   },
+   {
+      "name": "York Public Schools",
+      "location": {
+         "state": {
+            "name": "Maine",
+            "abbr": "ME",
+            "county": "York County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Kindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "1641",
+      "fte": "152.1",
+      "pupilTeacherRatio": "10.79",
+      "numberOfSchools": "4"
+   }
+]

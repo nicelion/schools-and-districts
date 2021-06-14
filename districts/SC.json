@@ -1,0 +1,1959 @@
+[
+   {
+      "name": "Abbeville 60",
+      "location": {
+         "state": {
+            "name": "South Carolina",
+            "abbr": "SC",
+            "county": "Abbeville County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "2965",
+      "fte": "228.1",
+      "pupilTeacherRatio": "13",
+      "numberOfSchools": "9"
+   },
+   {
+      "name": "Aiken 01",
+      "location": {
+         "state": {
+            "name": "South Carolina",
+            "abbr": "SC",
+            "county": "Aiken County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "24184",
+      "fte": "1600",
+      "pupilTeacherRatio": "15.12",
+      "numberOfSchools": "43"
+   },
+   {
+      "name": "Allendale 01",
+      "location": {
+         "state": {
+            "name": "South Carolina",
+            "abbr": "SC",
+            "county": "Allendale County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "1109",
+      "fte": "90.7",
+      "pupilTeacherRatio": "12.23",
+      "numberOfSchools": "4"
+   },
+   {
+      "name": "Anderson 01",
+      "location": {
+         "state": {
+            "name": "South Carolina",
+            "abbr": "SC",
+            "county": "Anderson County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "10245",
+      "fte": "606.7",
+      "pupilTeacherRatio": "16.89",
+      "numberOfSchools": "14"
+   },
+   {
+      "name": "Anderson 02",
+      "location": {
+         "state": {
+            "name": "South Carolina",
+            "abbr": "SC",
+            "county": "Anderson County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "3686",
+      "fte": "231.2",
+      "pupilTeacherRatio": "15.94",
+      "numberOfSchools": "7"
+   },
+   {
+      "name": "Anderson 03",
+      "location": {
+         "state": {
+            "name": "South Carolina",
+            "abbr": "SC",
+            "county": "Anderson County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "2615",
+      "fte": "175.2",
+      "pupilTeacherRatio": "14.93",
+      "numberOfSchools": "5"
+   },
+   {
+      "name": "Anderson 04",
+      "location": {
+         "state": {
+            "name": "South Carolina",
+            "abbr": "SC",
+            "county": "Anderson County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "2860",
+      "fte": "194.5",
+      "pupilTeacherRatio": "14.7",
+      "numberOfSchools": "6"
+   },
+   {
+      "name": "Anderson 05",
+      "location": {
+         "state": {
+            "name": "South Carolina",
+            "abbr": "SC",
+            "county": "Anderson County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "13145",
+      "fte": "871.5",
+      "pupilTeacherRatio": "15.08",
+      "numberOfSchools": "20"
+   },
+   {
+      "name": "Anderson 80",
+      "location": {
+         "state": {
+            "name": "South Carolina",
+            "abbr": "SC",
+            "county": "Anderson County"
+         }
+      },
+      "type": "9-Specialized public school district",
+      "grades": {
+         "lowest": "9th Grade",
+         "highest": "12th Grade"
+      },
+      "students": "0",
+      "fte": "28",
+      "pupilTeacherRatio": "0",
+      "numberOfSchools": "1"
+   },
+   {
+      "name": "Anderson 81",
+      "location": {
+         "state": {
+            "name": "SOUTH CAROLINA",
+            "abbr": "SC",
+            "county": "Anderson County"
+         }
+      },
+      "type": "9-Specialized public school district",
+      "grades": {
+         "lowest": "9th Grade",
+         "highest": "12th Grade"
+      },
+      "students": "0",
+      "fte": "0",
+      "pupilTeacherRatio": "†",
+      "numberOfSchools": "1"
+   },
+   {
+      "name": "Bamberg 01",
+      "location": {
+         "state": {
+            "name": "South Carolina",
+            "abbr": "SC",
+            "county": "Bamberg County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "1262",
+      "fte": "94.5",
+      "pupilTeacherRatio": "13.35",
+      "numberOfSchools": "3"
+   },
+   {
+      "name": "Bamberg 02",
+      "location": {
+         "state": {
+            "name": "South Carolina",
+            "abbr": "SC",
+            "county": "Bamberg County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "664",
+      "fte": "55",
+      "pupilTeacherRatio": "12.07",
+      "numberOfSchools": "3"
+   },
+   {
+      "name": "Barnwell 19",
+      "location": {
+         "state": {
+            "name": "South Carolina",
+            "abbr": "SC",
+            "county": "Barnwell County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "598",
+      "fte": "36",
+      "pupilTeacherRatio": "16.61",
+      "numberOfSchools": "2"
+   },
+   {
+      "name": "Barnwell 29",
+      "location": {
+         "state": {
+            "name": "South Carolina",
+            "abbr": "SC",
+            "county": "Barnwell County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "831",
+      "fte": "61.5",
+      "pupilTeacherRatio": "13.51",
+      "numberOfSchools": "3"
+   },
+   {
+      "name": "Barnwell 45",
+      "location": {
+         "state": {
+            "name": "South Carolina",
+            "abbr": "SC",
+            "county": "Barnwell County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "2125",
+      "fte": "152",
+      "pupilTeacherRatio": "13.98",
+      "numberOfSchools": "4"
+   },
+   {
+      "name": "Barnwell 80",
+      "location": {
+         "state": {
+            "name": "South Carolina",
+            "abbr": "SC",
+            "county": "Barnwell County"
+         }
+      },
+      "type": "9-Specialized public school district",
+      "grades": {
+         "lowest": "9th Grade",
+         "highest": "12th Grade"
+      },
+      "students": "0",
+      "fte": "12",
+      "pupilTeacherRatio": "0",
+      "numberOfSchools": "1"
+   },
+   {
+      "name": "Beaufort 01",
+      "location": {
+         "state": {
+            "name": "South Carolina",
+            "abbr": "SC",
+            "county": "Beaufort County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "22405",
+      "fte": "1701",
+      "pupilTeacherRatio": "13.17",
+      "numberOfSchools": "32"
+   },
+   {
+      "name": "Beaufort 80",
+      "location": {
+         "state": {
+            "name": "South Carolina",
+            "abbr": "SC",
+            "county": "Jasper County"
+         }
+      },
+      "type": "9-Specialized public school district",
+      "grades": {
+         "lowest": "10th Grade",
+         "highest": "12th Grade"
+      },
+      "students": "0",
+      "fte": "17",
+      "pupilTeacherRatio": "0",
+      "numberOfSchools": "1"
+   },
+   {
+      "name": "Berkeley 01",
+      "location": {
+         "state": {
+            "name": "South Carolina",
+            "abbr": "SC",
+            "county": "Berkeley County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "37219",
+      "fte": "2267.3",
+      "pupilTeacherRatio": "16.42",
+      "numberOfSchools": "46"
+   },
+   {
+      "name": "Calhoun 01",
+      "location": {
+         "state": {
+            "name": "South Carolina",
+            "abbr": "SC",
+            "county": "Calhoun County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "1700",
+      "fte": "124",
+      "pupilTeacherRatio": "13.71",
+      "numberOfSchools": "3"
+   },
+   {
+      "name": "Charleston 01",
+      "location": {
+         "state": {
+            "name": "South Carolina",
+            "abbr": "SC",
+            "county": "Charleston County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "50299",
+      "fte": "3462.4",
+      "pupilTeacherRatio": "14.53",
+      "numberOfSchools": "81"
+   },
+   {
+      "name": "Charter Institute at Erskine",
+      "location": {
+         "state": {
+            "name": "SOUTH CAROLINA",
+            "abbr": "SC",
+            "county": "Richland County"
+         }
+      },
+      "type": "7-Independent Charter District",
+      "grades": {
+         "lowest": "Kindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "9930",
+      "fte": "480.4",
+      "pupilTeacherRatio": "20.67",
+      "numberOfSchools": "17"
+   },
+   {
+      "name": "Cherokee 01",
+      "location": {
+         "state": {
+            "name": "South Carolina",
+            "abbr": "SC",
+            "county": "Cherokee County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "8682",
+      "fte": "614.8",
+      "pupilTeacherRatio": "14.12",
+      "numberOfSchools": "18"
+   },
+   {
+      "name": "Chester 01",
+      "location": {
+         "state": {
+            "name": "South Carolina",
+            "abbr": "SC",
+            "county": "Chester County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "5107",
+      "fte": "393.9",
+      "pupilTeacherRatio": "12.97",
+      "numberOfSchools": "12"
+   },
+   {
+      "name": "Chesterfield 01",
+      "location": {
+         "state": {
+            "name": "South Carolina",
+            "abbr": "SC",
+            "county": "Chesterfield County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "6988",
+      "fte": "502.8",
+      "pupilTeacherRatio": "13.9",
+      "numberOfSchools": "16"
+   },
+   {
+      "name": "Clarendon 01",
+      "location": {
+         "state": {
+            "name": "South Carolina",
+            "abbr": "SC",
+            "county": "Clarendon County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "696",
+      "fte": "51.1",
+      "pupilTeacherRatio": "13.62",
+      "numberOfSchools": "4"
+   },
+   {
+      "name": "Clarendon 02",
+      "location": {
+         "state": {
+            "name": "South Carolina",
+            "abbr": "SC",
+            "county": "Clarendon County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "2886",
+      "fte": "181",
+      "pupilTeacherRatio": "15.94",
+      "numberOfSchools": "6"
+   },
+   {
+      "name": "Clarendon 03",
+      "location": {
+         "state": {
+            "name": "South Carolina",
+            "abbr": "SC",
+            "county": "Clarendon County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "1296",
+      "fte": "82.8",
+      "pupilTeacherRatio": "15.65",
+      "numberOfSchools": "2"
+   },
+   {
+      "name": "Clarendon 04",
+      "location": {
+         "state": {
+            "name": "SOUTH CAROLINA",
+            "abbr": "SC",
+            "county": "Clarendon County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "–",
+         "highest": "–"
+      },
+      "students": "†",
+      "fte": "†",
+      "pupilTeacherRatio": "†",
+      "numberOfSchools": "0"
+   },
+   {
+      "name": "Clarendon 80",
+      "location": {
+         "state": {
+            "name": "South Carolina",
+            "abbr": "SC",
+            "county": "Clarendon County"
+         }
+      },
+      "type": "9-Specialized public school district",
+      "grades": {
+         "lowest": "9th Grade",
+         "highest": "12th Grade"
+      },
+      "students": "0",
+      "fte": "9",
+      "pupilTeacherRatio": "0",
+      "numberOfSchools": "1"
+   },
+   {
+      "name": "Colleton 01",
+      "location": {
+         "state": {
+            "name": "South Carolina",
+            "abbr": "SC",
+            "county": "Colleton County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "5396",
+      "fte": "354",
+      "pupilTeacherRatio": "15.24",
+      "numberOfSchools": "9"
+   },
+   {
+      "name": "Darlington 01",
+      "location": {
+         "state": {
+            "name": "South Carolina",
+            "abbr": "SC",
+            "county": "Darlington County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "9849",
+      "fte": "664",
+      "pupilTeacherRatio": "14.83",
+      "numberOfSchools": "22"
+   },
+   {
+      "name": "Deaf & Blind School",
+      "location": {
+         "state": {
+            "name": "South Carolina",
+            "abbr": "SC",
+            "county": "Spartanburg County"
+         }
+      },
+      "type": "5-State agency providing elementary and/or secondary level instruction",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "200",
+      "fte": "105.5",
+      "pupilTeacherRatio": "1.9",
+      "numberOfSchools": "5"
+   },
+   {
+      "name": "Dept of Correction N04",
+      "location": {
+         "state": {
+            "name": "South Carolina",
+            "abbr": "SC",
+            "county": "Richland County"
+         }
+      },
+      "type": "5-State agency providing elementary and/or secondary level instruction",
+      "grades": {
+         "lowest": "9th Grade",
+         "highest": "12th Grade"
+      },
+      "students": "384",
+      "fte": "64.1",
+      "pupilTeacherRatio": "5.99",
+      "numberOfSchools": "12"
+   },
+   {
+      "name": "Dept of Juvenile Justice",
+      "location": {
+         "state": {
+            "name": "South Carolina",
+            "abbr": "SC",
+            "county": "Lexington County"
+         }
+      },
+      "type": "5-State agency providing elementary and/or secondary level instruction",
+      "grades": {
+         "lowest": "5th Grade",
+         "highest": "12th Grade"
+      },
+      "students": "474",
+      "fte": "70",
+      "pupilTeacherRatio": "6.77",
+      "numberOfSchools": "3"
+   },
+   {
+      "name": "Dillon 03",
+      "location": {
+         "state": {
+            "name": "South Carolina",
+            "abbr": "SC",
+            "county": "Dillon County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "1583",
+      "fte": "90",
+      "pupilTeacherRatio": "17.59",
+      "numberOfSchools": "3"
+   },
+   {
+      "name": "Dillon 04",
+      "location": {
+         "state": {
+            "name": "South Carolina",
+            "abbr": "SC",
+            "county": "Dillon County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "4006",
+      "fte": "232",
+      "pupilTeacherRatio": "17.27",
+      "numberOfSchools": "8"
+   },
+   {
+      "name": "Dillon 80",
+      "location": {
+         "state": {
+            "name": "South Carolina",
+            "abbr": "SC",
+            "county": "Dillon County"
+         }
+      },
+      "type": "9-Specialized public school district",
+      "grades": {
+         "lowest": "9th Grade",
+         "highest": "12th Grade"
+      },
+      "students": "0",
+      "fte": "11",
+      "pupilTeacherRatio": "0",
+      "numberOfSchools": "1"
+   },
+   {
+      "name": "Dorchester 02",
+      "location": {
+         "state": {
+            "name": "South Carolina",
+            "abbr": "SC",
+            "county": "Dorchester County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "26238",
+      "fte": "1605.6",
+      "pupilTeacherRatio": "16.34",
+      "numberOfSchools": "24"
+   },
+   {
+      "name": "Dorchester 04",
+      "location": {
+         "state": {
+            "name": "South Carolina",
+            "abbr": "SC",
+            "county": "Dorchester County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "2268",
+      "fte": "179",
+      "pupilTeacherRatio": "12.67",
+      "numberOfSchools": "6"
+   },
+   {
+      "name": "Dorchester 80",
+      "location": {
+         "state": {
+            "name": "South Carolina",
+            "abbr": "SC",
+            "county": "Dorchester County"
+         }
+      },
+      "type": "9-Specialized public school district",
+      "grades": {
+         "lowest": "9th Grade",
+         "highest": "12th Grade"
+      },
+      "students": "0",
+      "fte": "25",
+      "pupilTeacherRatio": "0",
+      "numberOfSchools": "1"
+   },
+   {
+      "name": "Edgefield 01",
+      "location": {
+         "state": {
+            "name": "South Carolina",
+            "abbr": "SC",
+            "county": "Edgefield County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "3298",
+      "fte": "250.9",
+      "pupilTeacherRatio": "13.14",
+      "numberOfSchools": "8"
+   },
+   {
+      "name": "Fairfield 01",
+      "location": {
+         "state": {
+            "name": "South Carolina",
+            "abbr": "SC",
+            "county": "Fairfield County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "2590",
+      "fte": "257.3",
+      "pupilTeacherRatio": "10.07",
+      "numberOfSchools": "8"
+   },
+   {
+      "name": "Florence 01",
+      "location": {
+         "state": {
+            "name": "South Carolina",
+            "abbr": "SC",
+            "county": "Florence County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "15936",
+      "fte": "1158.9",
+      "pupilTeacherRatio": "13.75",
+      "numberOfSchools": "24"
+   },
+   {
+      "name": "Florence 02",
+      "location": {
+         "state": {
+            "name": "South Carolina",
+            "abbr": "SC",
+            "county": "Florence County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "1083",
+      "fte": "77.8",
+      "pupilTeacherRatio": "13.92",
+      "numberOfSchools": "2"
+   },
+   {
+      "name": "Florence 03",
+      "location": {
+         "state": {
+            "name": "South Carolina",
+            "abbr": "SC",
+            "county": "Florence County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "3348",
+      "fte": "231.2",
+      "pupilTeacherRatio": "14.48",
+      "numberOfSchools": "8"
+   },
+   {
+      "name": "Florence 04",
+      "location": {
+         "state": {
+            "name": "South Carolina",
+            "abbr": "SC",
+            "county": "Florence County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "701",
+      "fte": "49.5",
+      "pupilTeacherRatio": "14.16",
+      "numberOfSchools": "3"
+   },
+   {
+      "name": "Florence 05",
+      "location": {
+         "state": {
+            "name": "South Carolina",
+            "abbr": "SC",
+            "county": "Florence County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "1197",
+      "fte": "83.5",
+      "pupilTeacherRatio": "14.34",
+      "numberOfSchools": "3"
+   },
+   {
+      "name": "Georgetown 01",
+      "location": {
+         "state": {
+            "name": "South Carolina",
+            "abbr": "SC",
+            "county": "Georgetown County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "9205",
+      "fte": "636.3",
+      "pupilTeacherRatio": "14.47",
+      "numberOfSchools": "19"
+   },
+   {
+      "name": "Governor' School for Science and Mathematics",
+      "location": {
+         "state": {
+            "name": "South Carolina",
+            "abbr": "SC",
+            "county": "Darlington County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "11th Grade",
+         "highest": "12th Grade"
+      },
+      "students": "270",
+      "fte": "0",
+      "pupilTeacherRatio": "†",
+      "numberOfSchools": "1"
+   },
+   {
+      "name": "Governor's School for the Arts and Humanities",
+      "location": {
+         "state": {
+            "name": "South Carolina",
+            "abbr": "SC",
+            "county": "Greenville County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "10th Grade",
+         "highest": "12th Grade"
+      },
+      "students": "231",
+      "fte": "0",
+      "pupilTeacherRatio": "†",
+      "numberOfSchools": "1"
+   },
+   {
+      "name": "Greenville 01",
+      "location": {
+         "state": {
+            "name": "South Carolina",
+            "abbr": "SC",
+            "county": "Greenville County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "77302",
+      "fte": "5003.8",
+      "pupilTeacherRatio": "15.45",
+      "numberOfSchools": "91"
+   },
+   {
+      "name": "Greenwood 50",
+      "location": {
+         "state": {
+            "name": "South Carolina",
+            "abbr": "SC",
+            "county": "Greenwood County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "8925",
+      "fte": "590.3",
+      "pupilTeacherRatio": "15.12",
+      "numberOfSchools": "14"
+   },
+   {
+      "name": "Greenwood 51",
+      "location": {
+         "state": {
+            "name": "South Carolina",
+            "abbr": "SC",
+            "county": "Greenwood County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "951",
+      "fte": "67.5",
+      "pupilTeacherRatio": "14.09",
+      "numberOfSchools": "3"
+   },
+   {
+      "name": "Greenwood 52",
+      "location": {
+         "state": {
+            "name": "South Carolina",
+            "abbr": "SC",
+            "county": "Greenwood County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "1568",
+      "fte": "100.6",
+      "pupilTeacherRatio": "15.59",
+      "numberOfSchools": "4"
+   },
+   {
+      "name": "Greenwood 80",
+      "location": {
+         "state": {
+            "name": "South Carolina",
+            "abbr": "SC",
+            "county": "Greenwood County"
+         }
+      },
+      "type": "9-Specialized public school district",
+      "grades": {
+         "lowest": "9th Grade",
+         "highest": "12th Grade"
+      },
+      "students": "0",
+      "fte": "17",
+      "pupilTeacherRatio": "0",
+      "numberOfSchools": "1"
+   },
+   {
+      "name": "Hampton",
+      "location": {
+         "state": {
+            "name": "SOUTH CAROLINA",
+            "abbr": "SC",
+            "county": "Hampton County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "–",
+         "highest": "–"
+      },
+      "students": "†",
+      "fte": "†",
+      "pupilTeacherRatio": "†",
+      "numberOfSchools": "0"
+   },
+   {
+      "name": "Hampton 01",
+      "location": {
+         "state": {
+            "name": "South Carolina",
+            "abbr": "SC",
+            "county": "Hampton County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "2142",
+      "fte": "162.3",
+      "pupilTeacherRatio": "13.2",
+      "numberOfSchools": "7"
+   },
+   {
+      "name": "Hampton 02",
+      "location": {
+         "state": {
+            "name": "South Carolina",
+            "abbr": "SC",
+            "county": "Hampton County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "670",
+      "fte": "48",
+      "pupilTeacherRatio": "13.96",
+      "numberOfSchools": "3"
+   },
+   {
+      "name": "Horry 01",
+      "location": {
+         "state": {
+            "name": "South Carolina",
+            "abbr": "SC",
+            "county": "Horry County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "45759",
+      "fte": "3070.9",
+      "pupilTeacherRatio": "14.9",
+      "numberOfSchools": "56"
+   },
+   {
+      "name": "Jasper 01",
+      "location": {
+         "state": {
+            "name": "South Carolina",
+            "abbr": "SC",
+            "county": "Jasper County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "2656",
+      "fte": "163",
+      "pupilTeacherRatio": "16.29",
+      "numberOfSchools": "4"
+   },
+   {
+      "name": "John De La Howe",
+      "location": {
+         "state": {
+            "name": "South Carolina",
+            "abbr": "SC",
+            "county": "McCormick County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "6th Grade",
+         "highest": "10th Grade"
+      },
+      "students": "0",
+      "fte": "0",
+      "pupilTeacherRatio": "†",
+      "numberOfSchools": "0"
+   },
+   {
+      "name": "Kershaw 01",
+      "location": {
+         "state": {
+            "name": "South Carolina",
+            "abbr": "SC",
+            "county": "Kershaw County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "10928",
+      "fte": "701.7",
+      "pupilTeacherRatio": "15.57",
+      "numberOfSchools": "19"
+   },
+   {
+      "name": "Lancaster 01",
+      "location": {
+         "state": {
+            "name": "South Carolina",
+            "abbr": "SC",
+            "county": "Lancaster County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "14208",
+      "fte": "906.5",
+      "pupilTeacherRatio": "15.67",
+      "numberOfSchools": "22"
+   },
+   {
+      "name": "Laurens 55",
+      "location": {
+         "state": {
+            "name": "South Carolina",
+            "abbr": "SC",
+            "county": "Laurens County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "5678",
+      "fte": "406",
+      "pupilTeacherRatio": "13.99",
+      "numberOfSchools": "9"
+   },
+   {
+      "name": "Laurens 56",
+      "location": {
+         "state": {
+            "name": "South Carolina",
+            "abbr": "SC",
+            "county": "Laurens County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "2902",
+      "fte": "199.2",
+      "pupilTeacherRatio": "14.57",
+      "numberOfSchools": "6"
+   },
+   {
+      "name": "Lee 01",
+      "location": {
+         "state": {
+            "name": "South Carolina",
+            "abbr": "SC",
+            "county": "Lee County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "1690",
+      "fte": "108.5",
+      "pupilTeacherRatio": "15.58",
+      "numberOfSchools": "6"
+   },
+   {
+      "name": "Lexington 01",
+      "location": {
+         "state": {
+            "name": "South Carolina",
+            "abbr": "SC",
+            "county": "Lexington County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "27288",
+      "fte": "1979.6",
+      "pupilTeacherRatio": "13.78",
+      "numberOfSchools": "31"
+   },
+   {
+      "name": "Lexington 02",
+      "location": {
+         "state": {
+            "name": "South Carolina",
+            "abbr": "SC",
+            "county": "Lexington County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "9068",
+      "fte": "639",
+      "pupilTeacherRatio": "14.19",
+      "numberOfSchools": "13"
+   },
+   {
+      "name": "Lexington 03",
+      "location": {
+         "state": {
+            "name": "South Carolina",
+            "abbr": "SC",
+            "county": "Lexington County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "2089",
+      "fte": "148",
+      "pupilTeacherRatio": "14.11",
+      "numberOfSchools": "4"
+   },
+   {
+      "name": "Lexington 04",
+      "location": {
+         "state": {
+            "name": "South Carolina",
+            "abbr": "SC",
+            "county": "Lexington County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "3472",
+      "fte": "228.5",
+      "pupilTeacherRatio": "15.19",
+      "numberOfSchools": "7"
+   },
+   {
+      "name": "Lexington 05",
+      "location": {
+         "state": {
+            "name": "South Carolina",
+            "abbr": "SC",
+            "county": "Richland County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "17494",
+      "fte": "1317.1",
+      "pupilTeacherRatio": "13.28",
+      "numberOfSchools": "22"
+   },
+   {
+      "name": "Marion 10",
+      "location": {
+         "state": {
+            "name": "South Carolina",
+            "abbr": "SC",
+            "county": "Marion County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "4364",
+      "fte": "299",
+      "pupilTeacherRatio": "14.6",
+      "numberOfSchools": "10"
+   },
+   {
+      "name": "Marlboro 01",
+      "location": {
+         "state": {
+            "name": "South Carolina",
+            "abbr": "SC",
+            "county": "Marlboro County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "3850",
+      "fte": "252",
+      "pupilTeacherRatio": "15.28",
+      "numberOfSchools": "7"
+   },
+   {
+      "name": "Mccormick 01",
+      "location": {
+         "state": {
+            "name": "South Carolina",
+            "abbr": "SC",
+            "county": "McCormick County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "668",
+      "fte": "54",
+      "pupilTeacherRatio": "12.37",
+      "numberOfSchools": "3"
+   },
+   {
+      "name": "Newberry 01",
+      "location": {
+         "state": {
+            "name": "South Carolina",
+            "abbr": "SC",
+            "county": "Newberry County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "5979",
+      "fte": "456",
+      "pupilTeacherRatio": "13.11",
+      "numberOfSchools": "14"
+   },
+   {
+      "name": "Oconee 01",
+      "location": {
+         "state": {
+            "name": "South Carolina",
+            "abbr": "SC",
+            "county": "Oconee County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "10532",
+      "fte": "791",
+      "pupilTeacherRatio": "13.31",
+      "numberOfSchools": "17"
+   },
+   {
+      "name": "Orangeburg",
+      "location": {
+         "state": {
+            "name": "SOUTH CAROLINA",
+            "abbr": "SC",
+            "county": "Orangeburg County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "12265",
+      "fte": "814.1",
+      "pupilTeacherRatio": "15.07",
+      "numberOfSchools": "29"
+   },
+   {
+      "name": "Orangeburg 80",
+      "location": {
+         "state": {
+            "name": "South Carolina",
+            "abbr": "SC",
+            "county": "Orangeburg County"
+         }
+      },
+      "type": "9-Specialized public school district",
+      "grades": {
+         "lowest": "9th Grade",
+         "highest": "12th Grade"
+      },
+      "students": "0",
+      "fte": "9",
+      "pupilTeacherRatio": "0",
+      "numberOfSchools": "1"
+   },
+   {
+      "name": "Pickens 01",
+      "location": {
+         "state": {
+            "name": "South Carolina",
+            "abbr": "SC",
+            "county": "Pickens County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "16373",
+      "fte": "1009.5",
+      "pupilTeacherRatio": "16.22",
+      "numberOfSchools": "24"
+   },
+   {
+      "name": "Richland 01",
+      "location": {
+         "state": {
+            "name": "South Carolina",
+            "abbr": "SC",
+            "county": "Richland County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "23391",
+      "fte": "1911.5",
+      "pupilTeacherRatio": "12.24",
+      "numberOfSchools": "48"
+   },
+   {
+      "name": "Richland 02",
+      "location": {
+         "state": {
+            "name": "South Carolina",
+            "abbr": "SC",
+            "county": "Richland County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "28580",
+      "fte": "1947",
+      "pupilTeacherRatio": "14.68",
+      "numberOfSchools": "33"
+   },
+   {
+      "name": "Saluda 01",
+      "location": {
+         "state": {
+            "name": "South Carolina",
+            "abbr": "SC",
+            "county": "Saluda County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "2322",
+      "fte": "160.9",
+      "pupilTeacherRatio": "14.43",
+      "numberOfSchools": "5"
+   },
+   {
+      "name": "Sc Public Charter School District",
+      "location": {
+         "state": {
+            "name": "South Carolina",
+            "abbr": "SC",
+            "county": "Richland County"
+         }
+      },
+      "type": "7-Independent Charter District",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "20714",
+      "fte": "1231.3",
+      "pupilTeacherRatio": "16.82",
+      "numberOfSchools": "35"
+   },
+   {
+      "name": "South Carolina Department of Disabilities and Special Needs",
+      "location": {
+         "state": {
+            "name": "South Carolina",
+            "abbr": "SC",
+            "county": "Richland County"
+         }
+      },
+      "type": "8-Other education agencies",
+      "grades": {
+         "lowest": "Ungraded",
+         "highest": "Ungraded"
+      },
+      "students": "0",
+      "fte": "0",
+      "pupilTeacherRatio": "†",
+      "numberOfSchools": "0"
+   },
+   {
+      "name": "Spartanburg 01",
+      "location": {
+         "state": {
+            "name": "South Carolina",
+            "abbr": "SC",
+            "county": "Spartanburg County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "5278",
+      "fte": "359.8",
+      "pupilTeacherRatio": "14.67",
+      "numberOfSchools": "10"
+   },
+   {
+      "name": "Spartanburg 02",
+      "location": {
+         "state": {
+            "name": "South Carolina",
+            "abbr": "SC",
+            "county": "Spartanburg County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "10509",
+      "fte": "656",
+      "pupilTeacherRatio": "16.02",
+      "numberOfSchools": "15"
+   },
+   {
+      "name": "Spartanburg 03",
+      "location": {
+         "state": {
+            "name": "South Carolina",
+            "abbr": "SC",
+            "county": "Spartanburg County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "2756",
+      "fte": "187.7",
+      "pupilTeacherRatio": "14.68",
+      "numberOfSchools": "6"
+   },
+   {
+      "name": "Spartanburg 04",
+      "location": {
+         "state": {
+            "name": "South Carolina",
+            "abbr": "SC",
+            "county": "Spartanburg County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "2888",
+      "fte": "172.2",
+      "pupilTeacherRatio": "16.77",
+      "numberOfSchools": "4"
+   },
+   {
+      "name": "Spartanburg 05",
+      "location": {
+         "state": {
+            "name": "South Carolina",
+            "abbr": "SC",
+            "county": "Spartanburg County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "9083",
+      "fte": "627.3",
+      "pupilTeacherRatio": "14.48",
+      "numberOfSchools": "12"
+   },
+   {
+      "name": "Spartanburg 06",
+      "location": {
+         "state": {
+            "name": "South Carolina",
+            "abbr": "SC",
+            "county": "Spartanburg County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "11429",
+      "fte": "741.9",
+      "pupilTeacherRatio": "15.41",
+      "numberOfSchools": "13"
+   },
+   {
+      "name": "Spartanburg 07",
+      "location": {
+         "state": {
+            "name": "South Carolina",
+            "abbr": "SC",
+            "county": "Spartanburg County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "7523",
+      "fte": "656.2",
+      "pupilTeacherRatio": "11.46",
+      "numberOfSchools": "11"
+   },
+   {
+      "name": "Spartanburg 80",
+      "location": {
+         "state": {
+            "name": "South Carolina",
+            "abbr": "SC",
+            "county": "Spartanburg County"
+         }
+      },
+      "type": "9-Specialized public school district",
+      "grades": {
+         "lowest": "9th Grade",
+         "highest": "12th Grade"
+      },
+      "students": "0",
+      "fte": "20",
+      "pupilTeacherRatio": "0",
+      "numberOfSchools": "1"
+   },
+   {
+      "name": "Spartanburg 81",
+      "location": {
+         "state": {
+            "name": "South Carolina",
+            "abbr": "SC",
+            "county": "Spartanburg County"
+         }
+      },
+      "type": "9-Specialized public school district",
+      "grades": {
+         "lowest": "9th Grade",
+         "highest": "12th Grade"
+      },
+      "students": "0",
+      "fte": "33",
+      "pupilTeacherRatio": "0",
+      "numberOfSchools": "1"
+   },
+   {
+      "name": "Spartanburg 82",
+      "location": {
+         "state": {
+            "name": "South Carolina",
+            "abbr": "SC",
+            "county": "Spartanburg County"
+         }
+      },
+      "type": "9-Specialized public school district",
+      "grades": {
+         "lowest": "10th Grade",
+         "highest": "12th Grade"
+      },
+      "students": "0",
+      "fte": "22",
+      "pupilTeacherRatio": "0",
+      "numberOfSchools": "1"
+   },
+   {
+      "name": "Sumter 01",
+      "location": {
+         "state": {
+            "name": "South Carolina",
+            "abbr": "SC",
+            "county": "Sumter County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "16336",
+      "fte": "1003.5",
+      "pupilTeacherRatio": "16.28",
+      "numberOfSchools": "25"
+   },
+   {
+      "name": "Union 01",
+      "location": {
+         "state": {
+            "name": "South Carolina",
+            "abbr": "SC",
+            "county": "Union County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "4004",
+      "fte": "264.2",
+      "pupilTeacherRatio": "15.16",
+      "numberOfSchools": "7"
+   },
+   {
+      "name": "Wil Lou Gray Opportunity",
+      "location": {
+         "state": {
+            "name": "South Carolina",
+            "abbr": "SC",
+            "county": "Lexington County"
+         }
+      },
+      "type": "8-Other education agencies",
+      "grades": {
+         "lowest": "Ungraded",
+         "highest": "Ungraded"
+      },
+      "students": "0",
+      "fte": "0",
+      "pupilTeacherRatio": "†",
+      "numberOfSchools": "0"
+   },
+   {
+      "name": "Williamsburg 01",
+      "location": {
+         "state": {
+            "name": "South Carolina",
+            "abbr": "SC",
+            "county": "Williamsburg County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "3363",
+      "fte": "214.4",
+      "pupilTeacherRatio": "15.69",
+      "numberOfSchools": "11"
+   },
+   {
+      "name": "York 01",
+      "location": {
+         "state": {
+            "name": "South Carolina",
+            "abbr": "SC",
+            "county": "York County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "5238",
+      "fte": "365",
+      "pupilTeacherRatio": "14.35",
+      "numberOfSchools": "9"
+   },
+   {
+      "name": "York 02",
+      "location": {
+         "state": {
+            "name": "South Carolina",
+            "abbr": "SC",
+            "county": "York County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "8295",
+      "fte": "579.9",
+      "pupilTeacherRatio": "14.3",
+      "numberOfSchools": "10"
+   },
+   {
+      "name": "York 03",
+      "location": {
+         "state": {
+            "name": "South Carolina",
+            "abbr": "SC",
+            "county": "York County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "17594",
+      "fte": "1250.3",
+      "pupilTeacherRatio": "14.07",
+      "numberOfSchools": "28"
+   },
+   {
+      "name": "York 04",
+      "location": {
+         "state": {
+            "name": "South Carolina",
+            "abbr": "SC",
+            "county": "York County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "16977",
+      "fte": "1139.8",
+      "pupilTeacherRatio": "14.89",
+      "numberOfSchools": "17"
+   }
+]

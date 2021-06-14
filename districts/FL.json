@@ -1,0 +1,1446 @@
+[
+   {
+      "name": "Alachua",
+      "location": {
+         "state": {
+            "name": "Florida",
+            "abbr": "FL",
+            "county": "Alachua County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "29761",
+      "fte": "1632.55",
+      "pupilTeacherRatio": "18.23",
+      "numberOfSchools": "64"
+   },
+   {
+      "name": "Baker",
+      "location": {
+         "state": {
+            "name": "Florida",
+            "abbr": "FL",
+            "county": "Baker County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "5047",
+      "fte": "296.34",
+      "pupilTeacherRatio": "17.03",
+      "numberOfSchools": "9"
+   },
+   {
+      "name": "Bay",
+      "location": {
+         "state": {
+            "name": "Florida",
+            "abbr": "FL",
+            "county": "Bay County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "25109",
+      "fte": "1450.41",
+      "pupilTeacherRatio": "17.31",
+      "numberOfSchools": "48"
+   },
+   {
+      "name": "Bradford",
+      "location": {
+         "state": {
+            "name": "Florida",
+            "abbr": "FL",
+            "county": "Bradford County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "3072",
+      "fte": "198.5",
+      "pupilTeacherRatio": "15.48",
+      "numberOfSchools": "12"
+   },
+   {
+      "name": "Brevard",
+      "location": {
+         "state": {
+            "name": "Florida",
+            "abbr": "FL",
+            "county": "Brevard County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "73962",
+      "fte": "4515.1",
+      "pupilTeacherRatio": "16.38",
+      "numberOfSchools": "113"
+   },
+   {
+      "name": "Broward",
+      "location": {
+         "state": {
+            "name": "Florida",
+            "abbr": "FL",
+            "county": "Broward County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "269172",
+      "fte": "14111.43",
+      "pupilTeacherRatio": "19.07",
+      "numberOfSchools": "328"
+   },
+   {
+      "name": "Calhoun",
+      "location": {
+         "state": {
+            "name": "Florida",
+            "abbr": "FL",
+            "county": "Calhoun County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "2133",
+      "fte": "121.58",
+      "pupilTeacherRatio": "17.54",
+      "numberOfSchools": "8"
+   },
+   {
+      "name": "Charlotte",
+      "location": {
+         "state": {
+            "name": "Florida",
+            "abbr": "FL",
+            "county": "Charlotte County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "16030",
+      "fte": "904.66",
+      "pupilTeacherRatio": "17.72",
+      "numberOfSchools": "26"
+   },
+   {
+      "name": "Citrus",
+      "location": {
+         "state": {
+            "name": "Florida",
+            "abbr": "FL",
+            "county": "Citrus County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "15611",
+      "fte": "936.12",
+      "pupilTeacherRatio": "16.68",
+      "numberOfSchools": "26"
+   },
+   {
+      "name": "Clay",
+      "location": {
+         "state": {
+            "name": "Florida",
+            "abbr": "FL",
+            "county": "Clay County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "38698",
+      "fte": "2548.37",
+      "pupilTeacherRatio": "15.19",
+      "numberOfSchools": "52"
+   },
+   {
+      "name": "Collier",
+      "location": {
+         "state": {
+            "name": "Florida",
+            "abbr": "FL",
+            "county": "Collier County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "47834",
+      "fte": "2786.05",
+      "pupilTeacherRatio": "17.17",
+      "numberOfSchools": "70"
+   },
+   {
+      "name": "Columbia",
+      "location": {
+         "state": {
+            "name": "Florida",
+            "abbr": "FL",
+            "county": "Columbia County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "10192",
+      "fte": "595.5",
+      "pupilTeacherRatio": "17.12",
+      "numberOfSchools": "19"
+   },
+   {
+      "name": "Deaf/blind",
+      "location": {
+         "state": {
+            "name": "Florida",
+            "abbr": "FL",
+            "county": "St. Johns County"
+         }
+      },
+      "type": "5-State agency providing elementary and/or secondary level instruction",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "519",
+      "fte": "86",
+      "pupilTeacherRatio": "6.03",
+      "numberOfSchools": "5"
+   },
+   {
+      "name": "Desoto",
+      "location": {
+         "state": {
+            "name": "Florida",
+            "abbr": "FL",
+            "county": "DeSoto County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "4939",
+      "fte": "254.5",
+      "pupilTeacherRatio": "19.41",
+      "numberOfSchools": "11"
+   },
+   {
+      "name": "Dixie",
+      "location": {
+         "state": {
+            "name": "Florida",
+            "abbr": "FL",
+            "county": "Dixie County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "2234",
+      "fte": "120",
+      "pupilTeacherRatio": "18.62",
+      "numberOfSchools": "10"
+   },
+   {
+      "name": "Duval",
+      "location": {
+         "state": {
+            "name": "Florida",
+            "abbr": "FL",
+            "county": "Duval County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "130279",
+      "fte": "6851",
+      "pupilTeacherRatio": "19.02",
+      "numberOfSchools": "203"
+   },
+   {
+      "name": "Escambia",
+      "location": {
+         "state": {
+            "name": "Florida",
+            "abbr": "FL",
+            "county": "Escambia County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "39739",
+      "fte": "2388.98",
+      "pupilTeacherRatio": "16.63",
+      "numberOfSchools": "69"
+   },
+   {
+      "name": "Famu Lab Sch",
+      "location": {
+         "state": {
+            "name": "Florida",
+            "abbr": "FL",
+            "county": "Leon County"
+         }
+      },
+      "type": "8-Other education agencies",
+      "grades": {
+         "lowest": "Kindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "600",
+      "fte": "37",
+      "pupilTeacherRatio": "16.22",
+      "numberOfSchools": "2"
+   },
+   {
+      "name": "Fau Lab Sch",
+      "location": {
+         "state": {
+            "name": "Florida",
+            "abbr": "FL",
+            "county": "Palm Beach County"
+         }
+      },
+      "type": "8-Other education agencies",
+      "grades": {
+         "lowest": "Kindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "2652",
+      "fte": "131",
+      "pupilTeacherRatio": "20.24",
+      "numberOfSchools": "2"
+   },
+   {
+      "name": "Fl Virtual",
+      "location": {
+         "state": {
+            "name": "Florida",
+            "abbr": "FL",
+            "county": "Orange County"
+         }
+      },
+      "type": "8-Other education agencies",
+      "grades": {
+         "lowest": "Kindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "5130",
+      "fte": "1552",
+      "pupilTeacherRatio": "3.31",
+      "numberOfSchools": "6"
+   },
+   {
+      "name": "Flagler",
+      "location": {
+         "state": {
+            "name": "Florida",
+            "abbr": "FL",
+            "county": "Flagler County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "12946",
+      "fte": "694.7",
+      "pupilTeacherRatio": "18.64",
+      "numberOfSchools": "14"
+   },
+   {
+      "name": "Franklin",
+      "location": {
+         "state": {
+            "name": "Florida",
+            "abbr": "FL",
+            "county": "Franklin County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "1312",
+      "fte": "83.86",
+      "pupilTeacherRatio": "15.65",
+      "numberOfSchools": "5"
+   },
+   {
+      "name": "Fsu Lab Sch",
+      "location": {
+         "state": {
+            "name": "Florida",
+            "abbr": "FL",
+            "county": "Leon County"
+         }
+      },
+      "type": "8-Other education agencies",
+      "grades": {
+         "lowest": "Kindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "2494",
+      "fte": "143.3",
+      "pupilTeacherRatio": "17.4",
+      "numberOfSchools": "3"
+   },
+   {
+      "name": "Gadsden",
+      "location": {
+         "state": {
+            "name": "Florida",
+            "abbr": "FL",
+            "county": "Gadsden County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "5187",
+      "fte": "348.4",
+      "pupilTeacherRatio": "14.89",
+      "numberOfSchools": "18"
+   },
+   {
+      "name": "Gilchrist",
+      "location": {
+         "state": {
+            "name": "Florida",
+            "abbr": "FL",
+            "county": "Gilchrist County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "2851",
+      "fte": "178.63",
+      "pupilTeacherRatio": "15.96",
+      "numberOfSchools": "8"
+   },
+   {
+      "name": "Glades",
+      "location": {
+         "state": {
+            "name": "Florida",
+            "abbr": "FL",
+            "county": "Glades County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "1777",
+      "fte": "0",
+      "pupilTeacherRatio": "†",
+      "numberOfSchools": "9"
+   },
+   {
+      "name": "Gulf",
+      "location": {
+         "state": {
+            "name": "Florida",
+            "abbr": "FL",
+            "county": "Gulf County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "1890",
+      "fte": "112.25",
+      "pupilTeacherRatio": "16.84",
+      "numberOfSchools": "6"
+   },
+   {
+      "name": "Hamilton",
+      "location": {
+         "state": {
+            "name": "Florida",
+            "abbr": "FL",
+            "county": "Hamilton County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "1639",
+      "fte": "83",
+      "pupilTeacherRatio": "19.75",
+      "numberOfSchools": "8"
+   },
+   {
+      "name": "Hardee",
+      "location": {
+         "state": {
+            "name": "Florida",
+            "abbr": "FL",
+            "county": "Hardee County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "5068",
+      "fte": "296.39",
+      "pupilTeacherRatio": "17.1",
+      "numberOfSchools": "12"
+   },
+   {
+      "name": "Hendry",
+      "location": {
+         "state": {
+            "name": "Florida",
+            "abbr": "FL",
+            "county": "Hendry County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "8914",
+      "fte": "395",
+      "pupilTeacherRatio": "22.57",
+      "numberOfSchools": "17"
+   },
+   {
+      "name": "Hernando",
+      "location": {
+         "state": {
+            "name": "Florida",
+            "abbr": "FL",
+            "county": "Hernando County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "22973",
+      "fte": "1487",
+      "pupilTeacherRatio": "15.45",
+      "numberOfSchools": "33"
+   },
+   {
+      "name": "Highlands",
+      "location": {
+         "state": {
+            "name": "Florida",
+            "abbr": "FL",
+            "county": "Highlands County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "12080",
+      "fte": "657",
+      "pupilTeacherRatio": "18.39",
+      "numberOfSchools": "24"
+   },
+   {
+      "name": "Hillsborough",
+      "location": {
+         "state": {
+            "name": "Florida",
+            "abbr": "FL",
+            "county": "Hillsborough County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "223305",
+      "fte": "13538.5",
+      "pupilTeacherRatio": "16.49",
+      "numberOfSchools": "300"
+   },
+   {
+      "name": "Holmes",
+      "location": {
+         "state": {
+            "name": "Florida",
+            "abbr": "FL",
+            "county": "Holmes County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "3252",
+      "fte": "196.45",
+      "pupilTeacherRatio": "16.55",
+      "numberOfSchools": "10"
+   },
+   {
+      "name": "Indian River",
+      "location": {
+         "state": {
+            "name": "Florida",
+            "abbr": "FL",
+            "county": "Indian River County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "17871",
+      "fte": "1046",
+      "pupilTeacherRatio": "17.09",
+      "numberOfSchools": "29"
+   },
+   {
+      "name": "Jackson",
+      "location": {
+         "state": {
+            "name": "Florida",
+            "abbr": "FL",
+            "county": "Jackson County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "6390",
+      "fte": "415.84",
+      "pupilTeacherRatio": "15.37",
+      "numberOfSchools": "22"
+   },
+   {
+      "name": "Jefferson",
+      "location": {
+         "state": {
+            "name": "Florida",
+            "abbr": "FL",
+            "county": "Jefferson County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "758",
+      "fte": "50",
+      "pupilTeacherRatio": "15.16",
+      "numberOfSchools": "6"
+   },
+   {
+      "name": "Lafayette",
+      "location": {
+         "state": {
+            "name": "Florida",
+            "abbr": "FL",
+            "county": "Lafayette County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "1221",
+      "fte": "69.72",
+      "pupilTeacherRatio": "17.51",
+      "numberOfSchools": "6"
+   },
+   {
+      "name": "Lake",
+      "location": {
+         "state": {
+            "name": "Florida",
+            "abbr": "FL",
+            "county": "Lake County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "44793",
+      "fte": "2635.63",
+      "pupilTeacherRatio": "17",
+      "numberOfSchools": "61"
+   },
+   {
+      "name": "Lake Wales Charter Schools",
+      "location": {
+         "state": {
+            "name": "Florida",
+            "abbr": "FL",
+            "county": "Polk County"
+         }
+      },
+      "type": "7-Independent Charter District",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "4727",
+      "fte": "250",
+      "pupilTeacherRatio": "18.91",
+      "numberOfSchools": "0"
+   },
+   {
+      "name": "Lee",
+      "location": {
+         "state": {
+            "name": "Florida",
+            "abbr": "FL",
+            "county": "Lee County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "95613",
+      "fte": "5194.6",
+      "pupilTeacherRatio": "18.41",
+      "numberOfSchools": "119"
+   },
+   {
+      "name": "Leon",
+      "location": {
+         "state": {
+            "name": "Florida",
+            "abbr": "FL",
+            "county": "Leon County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "33840",
+      "fte": "1936.05",
+      "pupilTeacherRatio": "17.48",
+      "numberOfSchools": "56"
+   },
+   {
+      "name": "Levy",
+      "location": {
+         "state": {
+            "name": "Florida",
+            "abbr": "FL",
+            "county": "Levy County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "5493",
+      "fte": "290.83",
+      "pupilTeacherRatio": "18.89",
+      "numberOfSchools": "16"
+   },
+   {
+      "name": "Liberty",
+      "location": {
+         "state": {
+            "name": "Florida",
+            "abbr": "FL",
+            "county": "Liberty County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "1304",
+      "fte": "85.14",
+      "pupilTeacherRatio": "15.32",
+      "numberOfSchools": "9"
+   },
+   {
+      "name": "Madison",
+      "location": {
+         "state": {
+            "name": "Florida",
+            "abbr": "FL",
+            "county": "Madison County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "2552",
+      "fte": "150.39",
+      "pupilTeacherRatio": "16.97",
+      "numberOfSchools": "12"
+   },
+   {
+      "name": "Manatee",
+      "location": {
+         "state": {
+            "name": "Florida",
+            "abbr": "FL",
+            "county": "Manatee County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "50088",
+      "fte": "2945.63",
+      "pupilTeacherRatio": "17",
+      "numberOfSchools": "82"
+   },
+   {
+      "name": "Marion",
+      "location": {
+         "state": {
+            "name": "Florida",
+            "abbr": "FL",
+            "county": "Marion County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "43230",
+      "fte": "2378",
+      "pupilTeacherRatio": "18.18",
+      "numberOfSchools": "65"
+   },
+   {
+      "name": "Martin",
+      "location": {
+         "state": {
+            "name": "Florida",
+            "abbr": "FL",
+            "county": "Martin County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "19038",
+      "fte": "1131.24",
+      "pupilTeacherRatio": "16.83",
+      "numberOfSchools": "34"
+   },
+   {
+      "name": "Miami-Dade",
+      "location": {
+         "state": {
+            "name": "Florida",
+            "abbr": "FL",
+            "county": "Miami-Dade County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "347307",
+      "fte": "18373",
+      "pupilTeacherRatio": "18.9",
+      "numberOfSchools": "516"
+   },
+   {
+      "name": "Monroe",
+      "location": {
+         "state": {
+            "name": "Florida",
+            "abbr": "FL",
+            "county": "Monroe County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "8809",
+      "fte": "538.59",
+      "pupilTeacherRatio": "16.36",
+      "numberOfSchools": "24"
+   },
+   {
+      "name": "Nassau",
+      "location": {
+         "state": {
+            "name": "Florida",
+            "abbr": "FL",
+            "county": "Nassau County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "12248",
+      "fte": "740.13",
+      "pupilTeacherRatio": "16.55",
+      "numberOfSchools": "20"
+   },
+   {
+      "name": "Okaloosa",
+      "location": {
+         "state": {
+            "name": "Florida",
+            "abbr": "FL",
+            "county": "Okaloosa County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "32458",
+      "fte": "1860.5",
+      "pupilTeacherRatio": "17.45",
+      "numberOfSchools": "52"
+   },
+   {
+      "name": "Okeechobee",
+      "location": {
+         "state": {
+            "name": "Florida",
+            "abbr": "FL",
+            "county": "Okeechobee County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "6625",
+      "fte": "344.11",
+      "pupilTeacherRatio": "19.25",
+      "numberOfSchools": "17"
+   },
+   {
+      "name": "Orange",
+      "location": {
+         "state": {
+            "name": "Florida",
+            "abbr": "FL",
+            "county": "Orange County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "208875",
+      "fte": "11946",
+      "pupilTeacherRatio": "17.48",
+      "numberOfSchools": "260"
+   },
+   {
+      "name": "Osceola",
+      "location": {
+         "state": {
+            "name": "Florida",
+            "abbr": "FL",
+            "county": "Osceola County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "69925",
+      "fte": "4045.71",
+      "pupilTeacherRatio": "17.28",
+      "numberOfSchools": "85"
+   },
+   {
+      "name": "Palm Beach",
+      "location": {
+         "state": {
+            "name": "Florida",
+            "abbr": "FL",
+            "county": "Palm Beach County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "194675",
+      "fte": "11882.84",
+      "pupilTeacherRatio": "16.38",
+      "numberOfSchools": "237"
+   },
+   {
+      "name": "Pasco",
+      "location": {
+         "state": {
+            "name": "Florida",
+            "abbr": "FL",
+            "county": "Pasco County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "76661",
+      "fte": "4650.93",
+      "pupilTeacherRatio": "16.48",
+      "numberOfSchools": "101"
+   },
+   {
+      "name": "Pinellas",
+      "location": {
+         "state": {
+            "name": "Florida",
+            "abbr": "FL",
+            "county": "Pinellas County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "99772",
+      "fte": "7379.84",
+      "pupilTeacherRatio": "13.52",
+      "numberOfSchools": "157"
+   },
+   {
+      "name": "Polk",
+      "location": {
+         "state": {
+            "name": "Florida",
+            "abbr": "FL",
+            "county": "Polk County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "102952",
+      "fte": "5856",
+      "pupilTeacherRatio": "17.58",
+      "numberOfSchools": "164"
+   },
+   {
+      "name": "Putnam",
+      "location": {
+         "state": {
+            "name": "Florida",
+            "abbr": "FL",
+            "county": "Putnam County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "10850",
+      "fte": "556.96",
+      "pupilTeacherRatio": "19.48",
+      "numberOfSchools": "25"
+   },
+   {
+      "name": "Santa Rosa",
+      "location": {
+         "state": {
+            "name": "Florida",
+            "abbr": "FL",
+            "county": "Santa Rosa County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "29042",
+      "fte": "1699.6",
+      "pupilTeacherRatio": "17.09",
+      "numberOfSchools": "40"
+   },
+   {
+      "name": "Sarasota",
+      "location": {
+         "state": {
+            "name": "Florida",
+            "abbr": "FL",
+            "county": "Sarasota County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "43485",
+      "fte": "2903.07",
+      "pupilTeacherRatio": "14.98",
+      "numberOfSchools": "62"
+   },
+   {
+      "name": "Seminole",
+      "location": {
+         "state": {
+            "name": "Florida",
+            "abbr": "FL",
+            "county": "Seminole County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "68096",
+      "fte": "3571.49",
+      "pupilTeacherRatio": "19.07",
+      "numberOfSchools": "76"
+   },
+   {
+      "name": "South Tech Academy",
+      "location": {
+         "state": {
+            "name": "FLORIDA",
+            "abbr": "FL",
+            "county": "Palm Beach County"
+         }
+      },
+      "type": "7-Independent Charter District",
+      "grades": {
+         "lowest": "6th Grade",
+         "highest": "12th Grade"
+      },
+      "students": "1647",
+      "fte": "81.5",
+      "pupilTeacherRatio": "20.21",
+      "numberOfSchools": "0"
+   },
+   {
+      "name": "St. Johns",
+      "location": {
+         "state": {
+            "name": "Florida",
+            "abbr": "FL",
+            "county": "St. Johns County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "43628",
+      "fte": "2427.1",
+      "pupilTeacherRatio": "17.98",
+      "numberOfSchools": "51"
+   },
+   {
+      "name": "St. Lucie",
+      "location": {
+         "state": {
+            "name": "Florida",
+            "abbr": "FL",
+            "county": "St. Lucie County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "41859",
+      "fte": "2444.88",
+      "pupilTeacherRatio": "17.12",
+      "numberOfSchools": "50"
+   },
+   {
+      "name": "Sumter",
+      "location": {
+         "state": {
+            "name": "Florida",
+            "abbr": "FL",
+            "county": "Sumter County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "8963",
+      "fte": "543",
+      "pupilTeacherRatio": "16.51",
+      "numberOfSchools": "13"
+   },
+   {
+      "name": "Suwannee",
+      "location": {
+         "state": {
+            "name": "Florida",
+            "abbr": "FL",
+            "county": "Suwannee County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "5923",
+      "fte": "329.38",
+      "pupilTeacherRatio": "17.98",
+      "numberOfSchools": "14"
+   },
+   {
+      "name": "Taylor",
+      "location": {
+         "state": {
+            "name": "Florida",
+            "abbr": "FL",
+            "county": "Taylor County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "2804",
+      "fte": "155",
+      "pupilTeacherRatio": "18.09",
+      "numberOfSchools": "11"
+   },
+   {
+      "name": "Ucp",
+      "location": {
+         "state": {
+            "name": "FLORIDA",
+            "abbr": "FL",
+            "county": "Orange County"
+         }
+      },
+      "type": "7-Independent Charter District",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "983",
+      "fte": "109",
+      "pupilTeacherRatio": "9.02",
+      "numberOfSchools": "0"
+   },
+   {
+      "name": "Uf Lab Sch",
+      "location": {
+         "state": {
+            "name": "Florida",
+            "abbr": "FL",
+            "county": "Alachua County"
+         }
+      },
+      "type": "8-Other education agencies",
+      "grades": {
+         "lowest": "Kindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "1140",
+      "fte": "59",
+      "pupilTeacherRatio": "19.32",
+      "numberOfSchools": "2"
+   },
+   {
+      "name": "Union",
+      "location": {
+         "state": {
+            "name": "Florida",
+            "abbr": "FL",
+            "county": "Union County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "2401",
+      "fte": "157",
+      "pupilTeacherRatio": "15.29",
+      "numberOfSchools": "8"
+   },
+   {
+      "name": "Volusia",
+      "location": {
+         "state": {
+            "name": "Florida",
+            "abbr": "FL",
+            "county": "Volusia County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "63009",
+      "fte": "3844.04",
+      "pupilTeacherRatio": "16.39",
+      "numberOfSchools": "92"
+   },
+   {
+      "name": "Wakulla",
+      "location": {
+         "state": {
+            "name": "Florida",
+            "abbr": "FL",
+            "county": "Wakulla County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "5088",
+      "fte": "303",
+      "pupilTeacherRatio": "16.79",
+      "numberOfSchools": "14"
+   },
+   {
+      "name": "Walton",
+      "location": {
+         "state": {
+            "name": "Florida",
+            "abbr": "FL",
+            "county": "Walton County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "10448",
+      "fte": "616.62",
+      "pupilTeacherRatio": "16.94",
+      "numberOfSchools": "23"
+   },
+   {
+      "name": "Washington",
+      "location": {
+         "state": {
+            "name": "Florida",
+            "abbr": "FL",
+            "county": "Washington County"
+         }
+      },
+      "type": "1-Regular local school district that is NOT a component of a supervisory union",
+      "grades": {
+         "lowest": "Prekindergarten",
+         "highest": "12th Grade"
+      },
+      "students": "3469",
+      "fte": "200.2",
+      "pupilTeacherRatio": "17.33",
+      "numberOfSchools": "11"
+   }
+]
